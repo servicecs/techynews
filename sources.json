@@ -1,0 +1,65 @@
+{
+  "mkd": [
+    {
+      "name": "Time.mk",
+      "type": "rss",
+      "url": "https://time.mk/rss"
+    },
+    {
+      "name": "OhridNews",
+      "type": "website",
+      "url": "https://ohridnews.com/"
+    },
+    {
+      "name": "SmartPortal",
+      "type": "website",
+      "url": "https://smartportal.mk/"
+    }
+  ],
+
+  "de": [
+    {
+      "name": "ComputerBase",
+      "type": "rss",
+      "url": "https://www.computerbase.de/feeds/news.xml"
+    },
+    {
+      "name": "Tarnkappe",
+      "type": "website",
+      "url": "https://tarnkappe.info/"
+    },
+    {
+      "name": "Linux Magazine",
+      "type": "rss",
+      "url": "https://www.linux-magazine.com/Online/RSS-Feeds"
+    }
+  ],
+
+  "youtube": [
+    {
+      "name": "Hood Informatik",
+      "type": "youtube",
+      "url": "https://youtube.com/@hoodinformatik"
+    },
+    {
+      "name": "Modded Warfare",
+      "type": "youtube",
+      "url": "https://youtube.com/@moddedwarfare"
+    },
+    {
+      "name": "MrMario2011",
+      "type": "youtube",
+      "url": "https://youtube.com/@mrmario2011"
+    },
+    {
+      "name": "25HighTech",
+      "type": "youtube",
+      "url": "https://youtube.com/@25hightech"
+    },
+    {
+      "name": "Dragan Laboski",
+      "type": "youtube",
+      "url": "https://youtube.com/@draganlaboski-d8d"
+    }
+  ]
+}
