@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="mk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Yane's Aggregator</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background: #f1f3f5;
+            color: #222;
+        }
+
+        header {
+            background: #111;
+            color: white;
+            text-align: center;
+            padding: 28px 15px;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 32px;
+        }
+
+        header p {
+            margin: 8px 0 0;
+            color: #aaa;
+        }
+
+        .container {
+            width: 94%;
+            max-width: 1400px;
+            margin: 25px auto;
+        }
+
+        /* =========================
+           BANNERS
+        ========================= */
+
+        .banners {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+            margin-bottom: 40px;
+        }
+
+        .banner {
+            background: white;
+            border-radius: 10px;
+            padding: 22px;
+            text-align: center;
+            box-shadow: 0 2px 8px rgba(0,0,0,.12);
+        }
+
+        .banner a {
+            color: #222;
+            text-decoration: none;
+            font-size: 18px;
+            font-weight: bold;
+        }
+
+        .banner:hover {
+            transform: translateY(-2px);
+        }
+
+        /* =========================
+           SECTIONS
+        ========================= */
+
+        section {
+            margin-bottom: 45px;
+        }
+
+        .section-title {
+            font-size: 27px;
+            margin: 0 0 18px;
+            padding-bottom: 9px;
+            border-bottom: 3px solid #222;
+        }
+
+        /* =========================
+           NEWS GRID
+        ========================= */
+
+        .news-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+        }
+
+        .card {
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 2px 8px rgba(0,0,0,.10);
+            transition: transform .2s;
+        }
+
+        .card:hover {
+            transform: translateY(-4px);
+        }
+
+        .card-image {
+            width: 100%;
+            height: 190px;
+            object-fit: cover;
+            background: #ddd;
+        }
+
+        .card-content {
+            padding: 15px;
+        }
+
+        .source {
+            font-size: 13px;
+            color: #777;
+            margin-bottom: 8px;
+        }
+
+        .title {
+            font-size: 19px;
+            font-weight: bold;
+            line-height: 1.35;
+            margin-bottom: 10px;
+        }
+
+        .description {
+            color: #555;
+            font-size: 14px;
+            line-height: 1.5;
+        }
+
+        .date {
+            margin-top: 10px;
+            color: #999;
+            font-size: 12px;
+        }
+
+        .read-more {
+            display: inline-block;
+            margin-top: 14px;
+            padding: 9px 13px;
+            background: #111;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+
+        /* =========================
+           LOADING
+        ========================= */
+
+        .loading {
+            text-align: center;
+            padding: 30px;
+            color: #777;
+        }
+
+        .error {
+            background: #ffe0e0;
+            color: #900;
+            padding: 15px;
+            border-radius: 8px;
+        }
+
+        /* =========================
+           FOOTER
+        ========================= */
+
+        footer {
+            background: #111;
+            color: #999;
+            text-align: center;
+            padding: 25px;
+            margin-top: 50px;
+        }
+
+        /* =========================
+           MOBILE
+        ========================= */
+
+        @media (max-width: 950px) {
+
+            .news-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .banners {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        @media (max-width: 600px) {
+
+            header h1 {
+                font-size: 25px;
+            }
+
+            .news-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .container {
+                width: 92%;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>📰 Yane's Aggregator</h1>
+    <p>Новости, технологии и YouTube на едно место</p>
+</header>
+
+
+<div class="container">
+
+    <!-- =========================
+         BANNERS
+    ========================== -->
+
+    <div class="banners">
+
+        <div class="banner">
+            <a href="https://bloxgamesev7-prog.github.io/openzip/" target="_blank">
+                OpenZIP
+            </a>
+        </div>
+
+        <div class="banner">
+            <a href="https://tendzi.blogspot.com/?m=1" target="_blank">
+                Tendzi Blog
+            </a>
+        </div>
+
+        <div class="banner">
+            <a href="https://forfun81.github.io/#top" target="_blank">
+                ForFun81
+            </a>
+        </div>
+
+    </div>
+
+
+    <!-- =========================
+         MKD
+    ========================== -->
+
+    <section>
+
+        <h2 class="section-title">
+            🇲🇰 MKD
+        </h2>
+
+        <div id="mkd" class="news-grid">
+
+            <div class="loading">
+                Се вчитуваат вести...
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- =========================
+         DE
+    ========================== -->
+
+    <section>
+
+        <h2 class="section-title">
+            🇩🇪 DE
+        </h2>
+
+        <div id="de" class="news-grid">
+
+            <div class="loading">
+                Се вчитуваат вести...
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- =========================
+         YOUTUBE
+    ========================== -->
+
+    <section>
+
+        <h2 class="section-title">
+            🎥 YouTube
+        </h2>
+
+        <div id="youtube" class="news-grid">
+
+            <div class="loading">
+                Се вчитуваат видеа...
+            </div>
+
+        </div>
+
+    </section>
+
+</div>
+
+
+<footer>
+    Yane's Aggregator © 2026
+</footer>
+
+
+<script>
+
+async function loadNews() {
+
+    try {
+
+        const response = await fetch("news.json");
+
+        if (!response.ok) {
+            throw new Error("news.json не е пронајден");
+        }
+
+        const data = await response.json();
+
+        displayNews("mkd", data.mkd || []);
+        displayNews("de", data.de || []);
+        displayNews("youtube", data.youtube || []);
+
+    } catch (error) {
+
+        console.error(error);
+
+        document.getElementById("mkd").innerHTML =
+            '<div class="error">Не може да се вчитаат вестите.</div>';
+
+        document.getElementById("de").innerHTML =
+            '<div class="error">Не може да се вчитаат вестите.</div>';
+
+        document.getElementById("youtube").innerHTML =
+            '<div class="error">Не може да се вчитаат видеата.</div>';
+    }
+}
+
+
+function displayNews(section, items) {
+
+    const container = document.getElementById(section);
+
+    container.innerHTML = "";
+
+    if (items.length === 0) {
+
+        container.innerHTML =
+            '<div class="loading">Моментално нема нови објави.</div>';
+
+        return;
+    }
+
+
+    items.forEach(item => {
+
+        const card = document.createElement("div");
+
+        card.className = "card";
+
+
+        let imageHTML = "";
+
+        if (item.image) {
+
+            imageHTML = `
+                <img
+                    class="card-image"
+                    src="${escapeHTML(item.image)}"
+                    alt=""
+                    loading="lazy"
+                >
+            `;
+        }
+
+
+        card.innerHTML = `
+
+            ${imageHTML}
+
+            <div class="card-content">
+
+                <div class="source">
+                    ${escapeHTML(item.source || "")}
+                </div>
+
+                <div class="title">
+                    ${escapeHTML(item.title || "Без наслов")}
+                </div>
+
+                <div class="description">
+                    ${escapeHTML(item.description || "")}
+                </div>
+
+                <div class="date">
+                    ${escapeHTML(item.date || "")}
+                </div>
+
+                <a
+                    class="read-more"
+                    href="${escapeHTML(item.url || "#")}"
+                    target="_blank"
+                    rel="noopener noreferrer">
+
+                    Прочитај →
+                </a>
+
+            </div>
+        `;
+
+
+        container.appendChild(card);
+
+    });
+}
+
+
+/*
+    Basic protection against inserting HTML
+    from external feeds.
+*/
+
+function escapeHTML(text) {
+
+    const div = document.createElement("div");
+
+    div.textContent = text;
+
+    return div.innerHTML;
+}
+
+
+loadNews();
+
+</script>
+
+</body>
+</html>
