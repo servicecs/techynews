@@ -1,10 +1,10 @@
 name: Update Yane's Aggregator
 
 on:
-  workflow_dispatch:
-
   schedule:
     - cron: "*/30 * * * *"
+
+  workflow_dispatch:
 
   push:
     paths:
@@ -16,6 +16,7 @@ permissions:
   contents: write
 
 jobs:
+
   update-news:
 
     runs-on: ubuntu-latest
@@ -35,9 +36,9 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install feedparser requests beautifulsoup4
 
-      - name: Check installed packages
+      - name: Check packages
         run: |
-          python -c "import feedparser, requests, bs4; print('All packages OK')"
+          python -c "import feedparser, requests, bs4; print('ALL PACKAGES OK')"
 
       - name: Collect news
         run: |
