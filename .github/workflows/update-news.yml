@@ -1,10 +1,10 @@
 name: Update Yane's Aggregator
 
 on:
+  workflow_dispatch:
+
   schedule:
     - cron: "*/30 * * * *"
-
-  workflow_dispatch:
 
   push:
     paths:
@@ -33,7 +33,11 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install feedparser requests beautifulsoup4
+          python -m pip install feedparser requests beautifulsoup4
+
+      - name: Check installed packages
+        run: |
+          python -c "import feedparser, requests, bs4; print('All packages OK')"
 
       - name: Collect news
         run: |
