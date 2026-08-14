@@ -39,7 +39,7 @@
         }
 
 
-        /* =================================
+        /* ================================
            HEADER
         ================================= */
 
@@ -60,7 +60,7 @@
 
             box-shadow:
                 0 2px 8px
-                rgba(0,0,0,0.15);
+                rgba(0, 0, 0, 0.15);
         }
 
         header h1 {
@@ -80,7 +80,7 @@
         }
 
 
-        /* =================================
+        /* ================================
            MAIN
         ================================= */
 
@@ -90,12 +90,11 @@
 
             max-width: 1400px;
 
-            margin:
-                25px auto;
+            margin: 25px auto;
         }
 
 
-        /* =================================
+        /* ================================
            BANNERS
         ================================= */
 
@@ -104,7 +103,7 @@
             display: grid;
 
             grid-template-columns:
-                repeat(3, 1fr);
+                repeat(4, 1fr);
 
             gap: 15px;
 
@@ -119,7 +118,7 @@
 
             justify-content: center;
 
-            min-height: 80px;
+            min-height: 85px;
 
             padding: 15px;
 
@@ -148,12 +147,12 @@
 
             box-shadow:
                 0 6px 18px
-                rgba(0,0,0,0.12);
+                rgba(0, 0, 0, 0.12);
         }
 
 
-        /* =================================
-           SECTION
+        /* ================================
+           SECTIONS
         ================================= */
 
         .section {
@@ -183,7 +182,7 @@
         }
 
 
-        /* =================================
+        /* ================================
            NEWS GRID
         ================================= */
 
@@ -204,7 +203,7 @@
         }
 
 
-        /* =================================
+        /* ================================
            CARD
         ================================= */
 
@@ -221,7 +220,7 @@
 
             box-shadow:
                 0 2px 8px
-                rgba(0,0,0,0.06);
+                rgba(0, 0, 0, 0.06);
 
             transition:
                 transform 0.2s,
@@ -235,7 +234,7 @@
 
             box-shadow:
                 0 8px 20px
-                rgba(0,0,0,0.12);
+                rgba(0, 0, 0, 0.12);
         }
 
         .card a {
@@ -246,7 +245,7 @@
         }
 
 
-        /* =================================
+        /* ================================
            IMAGE
         ================================= */
 
@@ -281,7 +280,7 @@
         }
 
 
-        /* =================================
+        /* ================================
            CARD CONTENT
         ================================= */
 
@@ -306,17 +305,10 @@
             font-size: 13px;
 
             color: #6b7280;
-
-            display: flex;
-
-            justify-content:
-                space-between;
-
-            align-items: center;
         }
 
 
-        /* =================================
+        /* ================================
            YOUTUBE
         ================================= */
 
@@ -327,7 +319,7 @@
         }
 
 
-        /* =================================
+        /* ================================
            LOADING
         ================================= */
 
@@ -354,7 +346,7 @@
         }
 
 
-        /* =================================
+        /* ================================
            FOOTER
         ================================= */
 
@@ -374,21 +366,36 @@
         }
 
 
-        /* =================================
+        /* ================================
+           TABLET
+        ================================= */
+
+        @media (max-width: 1000px) {
+
+            .banners {
+
+                grid-template-columns:
+                    repeat(2, 1fr);
+            }
+
+        }
+
+
+        /* ================================
            MOBILE
         ================================= */
 
-        @media (max-width: 800px) {
+        @media (max-width: 600px) {
+
+            header h1 {
+
+                font-size: 25px;
+            }
 
             .banners {
 
                 grid-template-columns:
                     1fr;
-            }
-
-            header h1 {
-
-                font-size: 25px;
             }
 
             .news-grid {
@@ -402,6 +409,7 @@
 
                 height: 200px;
             }
+
         }
 
     </style>
@@ -411,6 +419,10 @@
 
 <body>
 
+
+<!-- ======================================
+     HEADER
+======================================= -->
 
 <header>
 
@@ -426,11 +438,14 @@
 <main>
 
 
-    <!-- =================================
+    <!-- ==================================
          BANNERS
-    ================================= -->
+    =================================== -->
 
     <div class="banners">
+
+
+        <!-- OpenZip -->
 
         <a
             class="banner"
@@ -442,6 +457,8 @@
         </a>
 
 
+        <!-- Tendzi -->
+
         <a
             class="banner"
             href="https://tendzi.blogspot.com/?m=1"
@@ -452,6 +469,8 @@
         </a>
 
 
+        <!-- ForFun81 -->
+
         <a
             class="banner"
             href="https://forfun81.github.io/#top"
@@ -461,13 +480,26 @@
             ForFun81
         </a>
 
+
+        <!-- Techy -->
+
+        <a
+            class="banner"
+            href="https://techy.techygithub.workers.dev/"
+            target="_blank"
+            rel="noopener"
+        >
+            Techy
+        </a>
+
+
     </div>
 
 
 
-    <!-- =================================
+    <!-- ==================================
          MKD
-    ================================= -->
+    =================================== -->
 
     <section class="section">
 
@@ -486,7 +518,9 @@
         >
 
             <div class="loading">
+
                 Се вчитуваат вести...
+
             </div>
 
         </div>
@@ -495,9 +529,9 @@
 
 
 
-    <!-- =================================
+    <!-- ==================================
          DE
-    ================================= -->
+    =================================== -->
 
     <section class="section">
 
@@ -516,7 +550,9 @@
         >
 
             <div class="loading">
+
                 Се вчитуваат вести...
+
             </div>
 
         </div>
@@ -525,9 +561,9 @@
 
 
 
-    <!-- =================================
+    <!-- ==================================
          YOUTUBE
-    ================================= -->
+    =================================== -->
 
     <section
         class="section youtube"
@@ -548,7 +584,9 @@
         >
 
             <div class="loading">
+
                 Се вчитуваат видеа...
+
             </div>
 
         </div>
@@ -559,6 +597,10 @@
 </main>
 
 
+
+<!-- ======================================
+     FOOTER
+======================================= -->
 
 <footer>
 
@@ -571,26 +613,34 @@
 <script>
 
 
-    // =================================
+    // ==================================
     // CREATE CARD
-    // =================================
+    // ==================================
 
     function createCard(item) {
 
         const card =
             document.createElement("article");
 
-        card.className = "card";
+
+        card.className =
+            "card";
 
 
         const link =
             document.createElement("a");
 
-        link.href = item.url;
 
-        link.target = "_blank";
+        link.href =
+            item.url;
 
-        link.rel = "noopener";
+
+        link.target =
+            "_blank";
+
+
+        link.rel =
+            "noopener";
 
 
         // IMAGE
@@ -600,17 +650,22 @@
             const image =
                 document.createElement("img");
 
+
             image.className =
                 "card-image";
+
 
             image.src =
                 item.image;
 
+
             image.alt =
                 item.title;
 
+
             image.loading =
                 "lazy";
+
 
             image.onerror =
                 function() {
@@ -619,6 +674,7 @@
                         '<div class="no-image">📰</div>';
 
                 };
+
 
             link.appendChild(
                 image
@@ -629,15 +685,19 @@
             const noImage =
                 document.createElement("div");
 
+
             noImage.className =
                 "no-image";
+
 
             noImage.textContent =
                 "📰";
 
+
             link.appendChild(
                 noImage
             );
+
         }
 
 
@@ -646,42 +706,43 @@
         const content =
             document.createElement("div");
 
+
         content.className =
             "card-content";
 
 
+        // TITLE
+
         const title =
             document.createElement("div");
 
+
         title.className =
             "card-title";
+
 
         title.textContent =
             item.title;
 
 
+        // SOURCE
+
         const source =
             document.createElement("div");
+
 
         source.className =
             "card-source";
 
 
-        const sourceName =
-            document.createElement("span");
-
-        sourceName.textContent =
+        source.textContent =
             item.source;
-
-
-        source.appendChild(
-            sourceName
-        );
 
 
         content.appendChild(
             title
         );
+
 
         content.appendChild(
             source
@@ -699,13 +760,14 @@
 
 
         return card;
+
     }
 
 
 
-    // =================================
+    // ==================================
     // LOAD SECTION
-    // =================================
+    // ==================================
 
     function loadSection(
         elementId,
@@ -718,7 +780,8 @@
             );
 
 
-        container.innerHTML = "";
+        container.innerHTML =
+            "";
 
 
         if (
@@ -730,6 +793,7 @@
                 '<div class="loading">Нема достапни вести.</div>';
 
             return;
+
         }
 
 
@@ -738,6 +802,7 @@
 
                 const card =
                     createCard(item);
+
 
                 container.appendChild(
                     card
@@ -750,9 +815,9 @@
 
 
 
-    // =================================
-    // LOAD NEWS
-    // =================================
+    // ==================================
+    // LOAD NEWS.JSON
+    // ==================================
 
     async function loadNews() {
 
@@ -796,7 +861,9 @@
             );
 
 
-        } catch (error) {
+        }
+
+        catch (error) {
 
             console.error(
                 error
@@ -826,9 +893,12 @@
 
 
 
+    // ==================================
     // START
+    // ==================================
 
     loadNews();
+
 
 </script>
 
