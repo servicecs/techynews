@@ -2,7 +2,6 @@
 <html lang="mk">
 
 <head>
-
     <meta charset="UTF-8">
 
     <meta
@@ -14,7 +13,7 @@
 
     <meta
         name="description"
-        content="Yane's Aggregator - MKD, DE и YouTube вести"
+        content="Yane's Aggregator - MKD, DE и YouTube"
     >
 
     <style>
@@ -26,233 +25,180 @@
         }
 
         body {
-            font-family:
-                Arial,
-                Helvetica,
-                sans-serif;
-
+            font-family: Arial, Helvetica, sans-serif;
             background: #f2f3f5;
-
             color: #222;
-
-            line-height: 1.5;
         }
 
-
-        /* ================================
-           HEADER
-        ================================= */
-
         header {
-
-            background:
-                linear-gradient(
-                    135deg,
-                    #111827,
-                    #1f2937
-                );
-
+            background: linear-gradient(135deg, #111827, #1f2937);
             color: white;
-
-            padding: 25px 20px;
-
+            padding: 28px 20px;
             text-align: center;
-
-            box-shadow:
-                0 2px 8px
-                rgba(0, 0, 0, 0.15);
         }
 
         header h1 {
-
             font-size: 32px;
-
-            letter-spacing: 1px;
         }
 
         header p {
-
             margin-top: 5px;
-
             color: #cbd5e1;
-
-            font-size: 14px;
         }
 
-
-        /* ================================
-           MAIN
-        ================================= */
-
         main {
-
             width: 95%;
-
             max-width: 1400px;
-
             margin: 25px auto;
         }
 
 
-        /* ================================
-           BANNERS
-        ================================= */
+        /* =========================
+           GENERAL BANNERS
+        ========================= */
 
         .banners {
-
             display: grid;
-
-            grid-template-columns:
-                repeat(4, 1fr);
-
+            grid-template-columns: repeat(4, 1fr);
             gap: 15px;
-
-            margin-bottom: 30px;
+            margin-bottom: 35px;
         }
 
         .banner {
-
             display: flex;
-
             align-items: center;
-
             justify-content: center;
 
             min-height: 85px;
-
             padding: 15px;
 
             background: white;
-
+            border: 1px solid #ddd;
             border-radius: 12px;
 
             text-decoration: none;
-
             color: #111;
-
             font-weight: bold;
 
-            border:
-                1px solid #ddd;
-
-            transition:
-                transform 0.2s,
-                box-shadow 0.2s;
+            transition: 0.2s;
         }
 
         .banner:hover {
-
-            transform:
-                translateY(-3px);
-
-            box-shadow:
-                0 6px 18px
-                rgba(0, 0, 0, 0.12);
+            transform: translateY(-3px);
+            box-shadow: 0 7px 20px rgba(0,0,0,0.12);
         }
 
 
-        /* ================================
+        /* =========================
            SECTIONS
-        ================================= */
+        ========================= */
 
         .section {
-
-            margin-bottom: 45px;
+            margin-bottom: 50px;
         }
 
         .section-title {
-
-            display: flex;
-
-            align-items: center;
-
-            gap: 10px;
-
-            margin-bottom: 18px;
-
+            border-bottom: 3px solid #222;
             padding-bottom: 10px;
-
-            border-bottom:
-                3px solid #222;
+            margin-bottom: 20px;
         }
 
         .section-title h2 {
-
-            font-size: 25px;
+            font-size: 26px;
         }
 
 
-        /* ================================
+        /* =========================
+           YOUTUBE CHANNEL BANNERS
+        ========================= */
+
+        .youtube-channels {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 15px;
+            margin-bottom: 25px;
+        }
+
+        .youtube-channel {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            min-height: 75px;
+            padding: 15px;
+
+            background: #ffffff;
+
+            border-radius: 12px;
+
+            border: 2px solid #ff0000;
+
+            color: #111;
+
+            text-decoration: none;
+
+            font-weight: bold;
+
+            transition: 0.2s;
+        }
+
+        .youtube-channel:hover {
+            background: #fff5f5;
+            transform: translateY(-3px);
+            box-shadow: 0 7px 20px rgba(0,0,0,0.12);
+        }
+
+
+        /* =========================
            NEWS GRID
-        ================================= */
+        ========================= */
 
         .news-grid {
-
             display: grid;
 
             grid-template-columns:
                 repeat(
                     auto-fill,
-                    minmax(
-                        280px,
-                        1fr
-                    )
+                    minmax(280px, 1fr)
                 );
 
             gap: 20px;
         }
 
 
-        /* ================================
+        /* =========================
            CARD
-        ================================= */
+        ========================= */
 
         .card {
-
             background: white;
 
             border-radius: 12px;
 
             overflow: hidden;
 
-            border:
-                1px solid #ddd;
+            border: 1px solid #ddd;
 
             box-shadow:
-                0 2px 8px
-                rgba(0, 0, 0, 0.06);
+                0 2px 8px rgba(0,0,0,0.06);
 
-            transition:
-                transform 0.2s,
-                box-shadow 0.2s;
+            transition: 0.2s;
         }
 
         .card:hover {
-
-            transform:
-                translateY(-4px);
+            transform: translateY(-4px);
 
             box-shadow:
-                0 8px 20px
-                rgba(0, 0, 0, 0.12);
+                0 8px 20px rgba(0,0,0,0.12);
         }
 
         .card a {
-
             text-decoration: none;
-
             color: inherit;
         }
 
-
-        /* ================================
-           IMAGE
-        ================================= */
-
         .card-image {
-
             width: 100%;
-
             height: 180px;
 
             object-fit: cover;
@@ -263,36 +209,24 @@
         }
 
         .no-image {
-
             height: 180px;
 
             display: flex;
 
             align-items: center;
-
             justify-content: center;
 
             background: #e5e7eb;
 
-            color: #6b7280;
-
             font-size: 40px;
         }
 
-
-        /* ================================
-           CARD CONTENT
-        ================================= */
-
         .card-content {
-
             padding: 15px;
         }
 
         .card-title {
-
             font-size: 17px;
-
             font-weight: bold;
 
             line-height: 1.4;
@@ -301,41 +235,30 @@
         }
 
         .card-source {
-
             font-size: 13px;
-
             color: #6b7280;
         }
 
 
-        /* ================================
-           YOUTUBE
-        ================================= */
+        /* YouTube cards */
 
         .youtube .card {
-
-            border-top:
-                4px solid #ff0000;
+            border-top: 4px solid #ff0000;
         }
 
 
-        /* ================================
-           LOADING
-        ================================= */
+        /* =========================
+           LOADING / ERROR
+        ========================= */
 
         .loading {
-
             text-align: center;
-
             padding: 30px;
-
             color: #777;
         }
 
         .error {
-
             background: #fee2e2;
-
             color: #991b1b;
 
             padding: 20px;
@@ -346,12 +269,11 @@
         }
 
 
-        /* ================================
+        /* =========================
            FOOTER
-        ================================= */
+        ========================= */
 
         footer {
-
             text-align: center;
 
             padding: 30px 20px;
@@ -366,47 +288,47 @@
         }
 
 
-        /* ================================
+        /* =========================
            TABLET
-        ================================= */
+        ========================= */
 
         @media (max-width: 1000px) {
 
             .banners {
+                grid-template-columns: repeat(2, 1fr);
+            }
 
-                grid-template-columns:
-                    repeat(2, 1fr);
+            .youtube-channels {
+                grid-template-columns: repeat(2, 1fr);
             }
 
         }
 
 
-        /* ================================
+        /* =========================
            MOBILE
-        ================================= */
+        ========================= */
 
         @media (max-width: 600px) {
 
             header h1 {
-
                 font-size: 25px;
             }
 
             .banners {
+                grid-template-columns: 1fr;
+            }
 
-                grid-template-columns:
-                    1fr;
+            .youtube-channels {
+                grid-template-columns: 1fr;
             }
 
             .news-grid {
-
-                grid-template-columns:
-                    1fr;
+                grid-template-columns: 1fr;
             }
 
             .card-image,
             .no-image {
-
                 height: 200px;
             }
 
@@ -419,10 +341,6 @@
 
 <body>
 
-
-<!-- ======================================
-     HEADER
-======================================= -->
 
 <header>
 
@@ -438,14 +356,11 @@
 <main>
 
 
-    <!-- ==================================
-         BANNERS
-    =================================== -->
+    <!-- =================================
+         GENERAL BANNERS
+    ================================== -->
 
     <div class="banners">
-
-
-        <!-- OpenZip -->
 
         <a
             class="banner"
@@ -457,8 +372,6 @@
         </a>
 
 
-        <!-- Tendzi -->
-
         <a
             class="banner"
             href="https://tendzi.blogspot.com/?m=1"
@@ -468,8 +381,6 @@
             Tendzi Blog
         </a>
 
-
-        <!-- ForFun81 -->
 
         <a
             class="banner"
@@ -481,8 +392,6 @@
         </a>
 
 
-        <!-- Techy -->
-
         <a
             class="banner"
             href="https://techy.techygithub.workers.dev/"
@@ -492,14 +401,13 @@
             Techy
         </a>
 
-
     </div>
 
 
 
-    <!-- ==================================
+    <!-- =================================
          MKD
-    =================================== -->
+    ================================== -->
 
     <section class="section">
 
@@ -518,9 +426,7 @@
         >
 
             <div class="loading">
-
                 Се вчитуваат вести...
-
             </div>
 
         </div>
@@ -529,9 +435,9 @@
 
 
 
-    <!-- ==================================
+    <!-- =================================
          DE
-    =================================== -->
+    ================================== -->
 
     <section class="section">
 
@@ -550,9 +456,7 @@
         >
 
             <div class="loading">
-
                 Се вчитуваат вести...
-
             </div>
 
         </div>
@@ -561,13 +465,11 @@
 
 
 
-    <!-- ==================================
+    <!-- =================================
          YOUTUBE
-    =================================== -->
+    ================================== -->
 
-    <section
-        class="section youtube"
-    >
+    <section class="section youtube">
 
         <div class="section-title">
 
@@ -578,15 +480,62 @@
         </div>
 
 
+        <!-- CHANNEL BANNERS -->
+
+        <div class="youtube-channels">
+
+
+            <a
+                class="youtube-channel"
+                href="https://youtube.com/@25hightech"
+                target="_blank"
+                rel="noopener"
+            >
+                🎥 25HighTech
+            </a>
+
+
+            <a
+                class="youtube-channel"
+                href="https://youtube.com/@draganlaboski"
+                target="_blank"
+                rel="noopener"
+            >
+                🎥 Dragan Laboski
+            </a>
+
+
+            <a
+                class="youtube-channel"
+                href="https://youtube.com/@ev7bloxgame"
+                target="_blank"
+                rel="noopener"
+            >
+                🎮 EV7 Blox Game
+            </a>
+
+
+            <a
+                class="youtube-channel"
+                href="https://youtube.com/@draganlaboski-d8d"
+                target="_blank"
+                rel="noopener"
+            >
+                🎥 Dragan Laboski D8D
+            </a>
+
+        </div>
+
+
+        <!-- VIDEOS -->
+
         <div
             id="youtube"
             class="news-grid"
         >
 
             <div class="loading">
-
                 Се вчитуваат видеа...
-
             </div>
 
         </div>
@@ -597,10 +546,6 @@
 </main>
 
 
-
-<!-- ======================================
-     FOOTER
-======================================= -->
 
 <footer>
 
@@ -613,34 +558,26 @@
 <script>
 
 
-    // ==================================
+    // =================================
     // CREATE CARD
-    // ==================================
+    // =================================
 
     function createCard(item) {
 
         const card =
             document.createElement("article");
 
-
-        card.className =
-            "card";
+        card.className = "card";
 
 
         const link =
             document.createElement("a");
 
+        link.href = item.url;
 
-        link.href =
-            item.url;
+        link.target = "_blank";
 
-
-        link.target =
-            "_blank";
-
-
-        link.rel =
-            "noopener";
+        link.rel = "noopener";
 
 
         // IMAGE
@@ -650,18 +587,14 @@
             const image =
                 document.createElement("img");
 
-
             image.className =
                 "card-image";
-
 
             image.src =
                 item.image;
 
-
             image.alt =
                 item.title;
-
 
             image.loading =
                 "lazy";
@@ -676,23 +609,20 @@
                 };
 
 
-            link.appendChild(
-                image
-            );
+            link.appendChild(image);
 
-        } else {
+        }
+
+        else {
 
             const noImage =
                 document.createElement("div");
 
-
             noImage.className =
                 "no-image";
 
-
             noImage.textContent =
                 "📰";
-
 
             link.appendChild(
                 noImage
@@ -706,34 +636,25 @@
         const content =
             document.createElement("div");
 
-
         content.className =
             "card-content";
 
 
-        // TITLE
-
         const title =
             document.createElement("div");
 
-
         title.className =
             "card-title";
-
 
         title.textContent =
             item.title;
 
 
-        // SOURCE
-
         const source =
             document.createElement("div");
 
-
         source.className =
             "card-source";
-
 
         source.textContent =
             item.source;
@@ -742,7 +663,6 @@
         content.appendChild(
             title
         );
-
 
         content.appendChild(
             source
@@ -765,9 +685,9 @@
 
 
 
-    // ==================================
+    // =================================
     // LOAD SECTION
-    // ==================================
+    // =================================
 
     function loadSection(
         elementId,
@@ -780,8 +700,7 @@
             );
 
 
-        container.innerHTML =
-            "";
+        container.innerHTML = "";
 
 
         if (
@@ -800,12 +719,8 @@
         items.forEach(
             function(item) {
 
-                const card =
-                    createCard(item);
-
-
                 container.appendChild(
-                    card
+                    createCard(item)
                 );
 
             }
@@ -815,9 +730,9 @@
 
 
 
-    // ==================================
-    // LOAD NEWS.JSON
-    // ==================================
+    // =================================
+    // LOAD NEWS
+    // =================================
 
     async function loadNews() {
 
@@ -860,45 +775,39 @@
                 data.youtube
             );
 
-
         }
+
 
         catch (error) {
 
-            console.error(
-                error
-            );
+            console.error(error);
 
 
             document.getElementById(
                 "mkd"
             ).innerHTML =
-                '<div class="error">Не може да се вчитаат вестите.</div>';
+                '<div class="error">Не може да се вчитаат MKD вестите.</div>';
 
 
             document.getElementById(
                 "de"
             ).innerHTML =
-                '<div class="error">Не може да се вчитаат вестите.</div>';
+                '<div class="error">Не може да се вчитаат DE вестите.</div>';
 
 
             document.getElementById(
                 "youtube"
             ).innerHTML =
-                '<div class="error">Не може да се вчитаат видеата.</div>';
+                '<div class="error">Не може да се вчитаат YouTube видеата.</div>';
 
         }
 
     }
 
 
-
-    // ==================================
     // START
-    // ==================================
 
     loadNews();
-
 
 </script>
 
