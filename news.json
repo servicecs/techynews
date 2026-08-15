@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T11:45:45.902974+00:00",
+  "updated": "2026-08-15T12:41:03.383391+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -278,6 +278,15 @@
     {
       "category": "youtube",
       "source": "Hood Informatik",
+      "title": "ZIP Dateien die dein Antivirus Programm in die Knie zwingen... #informatik #code #zip #antivirus",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/P9bfdmMjy7w",
+      "image": "https://i.ytimg.com/vi/P9bfdmMjy7w/hqdefault.jpg",
+      "date": "2026-08-15T11:52:13+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
       "title": "Einfach mal den Spieß umdrehen und Lazarus APTs bei sich bewerben lassen...",
       "description": "",
       "url": "https://www.youtube.com/shorts/_bHm3DF6V3Y",
@@ -355,15 +364,6 @@
       "url": "https://www.youtube.com/shorts/RTHnzw7FH0M",
       "image": "https://i.ytimg.com/vi/RTHnzw7FH0M/hqdefault.jpg",
       "date": "2026-08-05T16:52:28+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Browser Zertifikate & ihre Schwachstelle #informatik #browser #code #itsicherheit",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/csB2gfC5IbU",
-      "image": "https://i.ytimg.com/vi/csB2gfC5IbU/hqdefault.jpg",
-      "date": "2026-08-04T10:17:12+00:00"
     },
     {
       "category": "youtube",
