@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T07:57:25.106783+00:00",
+  "updated": "2026-08-17T08:53:58.676205+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -13,10 +13,19 @@
     {
       "category": "mkd",
       "source": "SmartPortal",
+      "title": "Семос Едукација: Не е прашањето дали компаниите ќе користат вештачка интелигенција,…",
+      "description": "",
+      "url": "https://smartportal.mk/novosti/ai/ne-e-prasanjeto-dali-kompaniite-ke-koristat-vi-tuku-od-kade-ke-pocnat/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/AI-Transformation-Partner-Gerresheimer-2-1-218x150.webp",
+      "date": ""
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
       "title": "Вештачката интелигенција и дигитализацијата во фокусот на 7-та Германско-македонска конференција за…",
       "description": "",
       "url": "https://smartportal.mk/novosti/nastani/7-germansko-makedonska-konferencija-za-kontroling/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Germansko-makedonska-konferencija-218x150.webp",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/AI-Transformation-Partner-Gerresheimer-2-1-218x150.webp",
       "date": ""
     },
     {
@@ -35,15 +44,6 @@
       "description": "",
       "url": "https://smartportal.mk/novosti/ai/google-gemini-3-7-flash/",
       "image": "https://smartportal.mk/wp-content/uploads/2026/08/Louvre_2026_The-Frame_LS03HE_FRONT_WALL_Art-Mode-002-218x150.webp",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Проблем со бавно вчитување на VLC предизвикан од Microsoft Defender",
-      "description": "",
-      "url": "https://smartportal.mk/novosti/softver-prog/prolbme-vlc-microsoft-defender/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/gemini-3-7-flash.width-2200.format-webp-218x150.webp",
       "date": ""
     },
     {
