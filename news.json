@@ -1,6 +1,142 @@
 {
-  "updated": "2026-08-18T14:35:39.626744+00:00",
-  "mkd": [],
+  "updated": "2026-08-18T15:33:44.892158+00:00",
+  "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Ја заборави лозинката? Побарај помош",
+      "description": "",
+      "url": "https://smartportal.mk/",
+      "image": "",
+      "date": ""
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Microsoft ги спојува посебните апликации од Copilot и укинува дел од…",
+      "description": "",
+      "url": "https://smartportal.mk/novosti/ai/microsoft-spojuva-posebni-copilot-aplikacii/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Depositphotos_695790666_XL-f-218x150.webp",
+      "date": ""
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Firefox на iOS доби вграден „блокирач“ на реклами",
+      "description": "",
+      "url": "https://smartportal.mk/novosti/softver-prog/firefox-ios-vgraden-blokirac-reklami/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Depositphotos_695790666_XL-f-218x150.webp",
+      "date": ""
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "YouTube воведува нов систем за броење на прегледите на видеата",
+      "description": "",
+      "url": "https://smartportal.mk/novosti/servisi/youtube-nov-sistem-broenje-pregledi-videa/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/07/zulfugar-karimov-bLsYAO69c_s-unsplash-f-218x150.webp",
+      "date": ""
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Samsung воспостави партнерство со Музејот за историја на уметноста во Виена…",
+      "description": "",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/samsung-muzej-istorija-umetnost-viena-samsung-art-store/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/04/zulfugar-karimov-UlPhH_frGCo-unsplash-218x150.webp",
+      "date": ""
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Повеќето корисници сè уште ги плакнат садовите пред да ги стават…",
+      "description": "",
+      "url": "https://smartportal.mk/novosti/uredi/samsung-plaknenje-sadovi-pred-masina/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/05/Bespoke-AI-Dishwasher-218x150.webp",
+      "date": ""
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Како да ја изберете соодветната Linux дистрибуција",
+      "description": "",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/kako-da-izberete-soodvetna-linux-distribucija/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/05/Bespoke-AI-Dishwasher-218x150.webp",
+      "date": ""
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Како да го оптимизирате вашиот простор со Samsung Q-Symphony",
+      "description": "",
+      "url": "https://smartportal.mk/novosti/uredi/kako-da-go-optimizirate-vasisot-prostor-so-samsung-q-symphony/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/04/lukas-NLSXFjl_nhc-unsplash-218x150.webp",
+      "date": ""
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Насоки за купување телевизор: Вашиот целосен водич за избор на совршен…",
+      "description": "",
+      "url": "https://smartportal.mk/novosti/uredi/samsung-nasoki-za-kupuvanje-televizor/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/04/Q990F-218x150.webp",
+      "date": ""
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Скриените функции на Galaxy Z Fold7: Совети и трикови за напредни…",
+      "description": "",
+      "url": "https://smartportal.mk/soveti/skrienite-funkcii-na-galaxy-z-fold7/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/03/S85_Front_Stand_29415-R4-2-218x150.webp",
+      "date": ""
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Марк Гурман со критики за големината на надградбата која ја донесуваат…",
+      "description": "",
+      "url": "https://smartportal.mk/novosti/uredi/mark-gurman-so-kritiki-za-airpods-max-2/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/03/matt-birchler-F5ZtkCWbtyE-unsplash-218x150.webp",
+      "date": ""
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Што следи на крипто пазарот",
+      "description": "",
+      "url": "https://smartportal.mk/kolumni/sto-sledid-na-kripto-pazarot/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/03/matt-birchler-F5ZtkCWbtyE-unsplash-218x150.webp",
+      "date": ""
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Мисија: Национална развојна стратегија",
+      "description": "",
+      "url": "https://smartportal.mk/kolumni/misija-nacionalna-razvojna-strategija/",
+      "image": "https://smartportal.mk/wp-content/uploads/2020/02/shutterstock_712597270-218x150.jpg",
+      "date": ""
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Да зборуваме за Дина – Dune (2021)",
+      "description": "",
+      "url": "https://smartportal.mk/kolumni/da-zboruvame-za-dina/",
+      "image": "https://smartportal.mk/wp-content/uploads/2022/05/NRS-Logo_mk-218x150.jpg",
+      "date": ""
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Рецензија Samsung Galaxy A57 5G: Премиум изработка и рафинирани перформанси во…",
+      "description": "",
+      "url": "https://smartportal.mk/novosti/smartfoni/recenzija-samsung-galaxy-a57/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/04/smartportal-galaxy-a57-1-218x150.webp",
+      "date": ""
+    }
+  ],
   "de": [
     {
       "category": "de",
