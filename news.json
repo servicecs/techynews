@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T10:31:17.762909+00:00",
+  "updated": "2026-08-19T11:27:07.253025+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -13,10 +13,19 @@
     {
       "category": "mkd",
       "source": "SmartPortal",
+      "title": "Гледањето кратки видеа привремено ја деактивира мозочната мрежа за когнитивна контрола",
+      "description": "",
+      "url": "https://smartportal.mk/novosti/nauka-istrazuvanja/gledanje-kratki-videa-deaktivira-kognitivna-kontrola/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/1-s2.0-S1053811926000406-ga1_lrg-f-218x150.webp",
+      "date": ""
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
       "title": "OpenAI претстави приспособена верзија од ChatGPT наменета за тинејџери",
       "description": "",
       "url": "https://smartportal.mk/novosti/ai/openai-chatgpt-za-tinejdzeri/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Still-04-HomeworkReminder.png-f-218x150.webp",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/1-s2.0-S1053811926000406-ga1_lrg-f-218x150.webp",
       "date": ""
     },
     {
@@ -35,15 +44,6 @@
       "description": "",
       "url": "https://smartportal.mk/novosti/softver-prog/firefox-ios-vgraden-blokirac-reklami/",
       "image": "https://smartportal.mk/wp-content/uploads/2026/08/Depositphotos_695790666_XL-f-218x150.webp",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "YouTube воведува нов систем за броење на прегледите на видеата",
-      "description": "",
-      "url": "https://smartportal.mk/novosti/servisi/youtube-nov-sistem-broenje-pregledi-videa/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/07/zulfugar-karimov-bLsYAO69c_s-unsplash-f-218x150.webp",
       "date": ""
     },
     {
