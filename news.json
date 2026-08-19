@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T11:27:07.253025+00:00",
+  "updated": "2026-08-19T11:52:54.532998+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -13,10 +13,19 @@
     {
       "category": "mkd",
       "source": "SmartPortal",
+      "title": "Како да го изберете преклопливиот телефон што ви одговара: Водич за…",
+      "description": "",
+      "url": "https://smartportal.mk/novosti/uredi/vodic-za-najnovata-galaxy-z-serija/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/216-lifestyle-product-galaxy-zfold8-zfold8-ultra-zflip8-2-f-218x150.webp",
+      "date": ""
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
       "title": "Гледањето кратки видеа привремено ја деактивира мозочната мрежа за когнитивна контрола",
       "description": "",
       "url": "https://smartportal.mk/novosti/nauka-istrazuvanja/gledanje-kratki-videa-deaktivira-kognitivna-kontrola/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/1-s2.0-S1053811926000406-ga1_lrg-f-218x150.webp",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/216-lifestyle-product-galaxy-zfold8-zfold8-ultra-zflip8-2-f-218x150.webp",
       "date": ""
     },
     {
@@ -40,19 +49,10 @@
     {
       "category": "mkd",
       "source": "SmartPortal",
-      "title": "Firefox на iOS доби вграден „блокирач“ на реклами",
-      "description": "",
-      "url": "https://smartportal.mk/novosti/softver-prog/firefox-ios-vgraden-blokirac-reklami/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Depositphotos_695790666_XL-f-218x150.webp",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
       "title": "Повеќето корисници сè уште ги плакнат садовите пред да ги стават…",
       "description": "",
       "url": "https://smartportal.mk/novosti/uredi/samsung-plaknenje-sadovi-pred-masina/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/05/Bespoke-AI-Dishwasher-218x150.webp",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/216-lifestyle-product-galaxy-zfold8-zfold8-ultra-zflip8-2-f-218x150.webp",
       "date": ""
     },
     {
@@ -80,15 +80,6 @@
       "description": "",
       "url": "https://smartportal.mk/novosti/uredi/samsung-nasoki-za-kupuvanje-televizor/",
       "image": "https://smartportal.mk/wp-content/uploads/2026/04/Q990F-218x150.webp",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Скриените функции на Galaxy Z Fold7: Совети и трикови за напредни…",
-      "description": "",
-      "url": "https://smartportal.mk/soveti/skrienite-funkcii-na-galaxy-z-fold7/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/03/S85_Front_Stand_29415-R4-2-218x150.webp",
       "date": ""
     },
     {
@@ -133,6 +124,15 @@
       "title": "Рецензија Samsung Galaxy A57 5G: Премиум изработка и рафинирани перформанси во…",
       "description": "",
       "url": "https://smartportal.mk/novosti/smartfoni/recenzija-samsung-galaxy-a57/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/04/smartportal-galaxy-a57-1-218x150.webp",
+      "date": ""
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Рецензија Samsung Galaxy S26 Ultra: Сличен со ланскиот модел, но со…",
+      "description": "",
+      "url": "https://smartportal.mk/recenzii/recenzija-samsung-galaxy-s26-ultra/",
       "image": "https://smartportal.mk/wp-content/uploads/2026/04/smartportal-galaxy-a57-1-218x150.webp",
       "date": ""
     }
