@@ -1,142 +1,6 @@
 {
-  "updated": "2026-08-19T03:48:20.159036+00:00",
-  "mkd": [
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Ја заборави лозинката? Побарај помош",
-      "description": "",
-      "url": "https://smartportal.mk/",
-      "image": "",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Microsoft ги спојува посебните апликации од Copilot и укинува дел од…",
-      "description": "",
-      "url": "https://smartportal.mk/novosti/ai/microsoft-spojuva-posebni-copilot-aplikacii/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Depositphotos_695790666_XL-f-218x150.webp",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Firefox на iOS доби вграден „блокирач“ на реклами",
-      "description": "",
-      "url": "https://smartportal.mk/novosti/softver-prog/firefox-ios-vgraden-blokirac-reklami/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Depositphotos_695790666_XL-f-218x150.webp",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "YouTube воведува нов систем за броење на прегледите на видеата",
-      "description": "",
-      "url": "https://smartportal.mk/novosti/servisi/youtube-nov-sistem-broenje-pregledi-videa/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/07/zulfugar-karimov-bLsYAO69c_s-unsplash-f-218x150.webp",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Samsung воспостави партнерство со Музејот за историја на уметноста во Виена…",
-      "description": "",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/samsung-muzej-istorija-umetnost-viena-samsung-art-store/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/04/zulfugar-karimov-UlPhH_frGCo-unsplash-218x150.webp",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Повеќето корисници сè уште ги плакнат садовите пред да ги стават…",
-      "description": "",
-      "url": "https://smartportal.mk/novosti/uredi/samsung-plaknenje-sadovi-pred-masina/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/05/Bespoke-AI-Dishwasher-218x150.webp",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Како да ја изберете соодветната Linux дистрибуција",
-      "description": "",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/kako-da-izberete-soodvetna-linux-distribucija/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/05/Bespoke-AI-Dishwasher-218x150.webp",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Како да го оптимизирате вашиот простор со Samsung Q-Symphony",
-      "description": "",
-      "url": "https://smartportal.mk/novosti/uredi/kako-da-go-optimizirate-vasisot-prostor-so-samsung-q-symphony/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/04/lukas-NLSXFjl_nhc-unsplash-218x150.webp",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Насоки за купување телевизор: Вашиот целосен водич за избор на совршен…",
-      "description": "",
-      "url": "https://smartportal.mk/novosti/uredi/samsung-nasoki-za-kupuvanje-televizor/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/04/Q990F-218x150.webp",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Скриените функции на Galaxy Z Fold7: Совети и трикови за напредни…",
-      "description": "",
-      "url": "https://smartportal.mk/soveti/skrienite-funkcii-na-galaxy-z-fold7/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/03/S85_Front_Stand_29415-R4-2-218x150.webp",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Марк Гурман со критики за големината на надградбата која ја донесуваат…",
-      "description": "",
-      "url": "https://smartportal.mk/novosti/uredi/mark-gurman-so-kritiki-za-airpods-max-2/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/03/matt-birchler-F5ZtkCWbtyE-unsplash-218x150.webp",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Што следи на крипто пазарот",
-      "description": "",
-      "url": "https://smartportal.mk/kolumni/sto-sledid-na-kripto-pazarot/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/03/matt-birchler-F5ZtkCWbtyE-unsplash-218x150.webp",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Мисија: Национална развојна стратегија",
-      "description": "",
-      "url": "https://smartportal.mk/kolumni/misija-nacionalna-razvojna-strategija/",
-      "image": "https://smartportal.mk/wp-content/uploads/2020/02/shutterstock_712597270-218x150.jpg",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Да зборуваме за Дина – Dune (2021)",
-      "description": "",
-      "url": "https://smartportal.mk/kolumni/da-zboruvame-za-dina/",
-      "image": "https://smartportal.mk/wp-content/uploads/2022/05/NRS-Logo_mk-218x150.jpg",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Рецензија Samsung Galaxy A57 5G: Премиум изработка и рафинирани перформанси во…",
-      "description": "",
-      "url": "https://smartportal.mk/novosti/smartfoni/recenzija-samsung-galaxy-a57/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/04/smartportal-galaxy-a57-1-218x150.webp",
-      "date": ""
-    }
-  ],
+  "updated": "2026-08-19T04:39:22.489392+00:00",
+  "mkd": [],
   "de": [
     {
       "category": "de",
@@ -277,93 +141,93 @@
   "youtube": [
     {
       "category": "youtube",
-      "source": "Dragan Laboski",
-      "title": "F#ck",
+      "source": "25HighTech",
+      "title": "steal a brainrot",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=PJVdOJS9C2g",
-      "image": "https://i.ytimg.com/vi/PJVdOJS9C2g/hqdefault.jpg",
-      "date": "2026-06-18T16:00:10+00:00"
+      "url": "https://www.youtube.com/watch?v=70-NtG02QAA",
+      "image": "https://i.ytimg.com/vi/70-NtG02QAA/hqdefault.jpg",
+      "date": "2026-01-11T06:08:17+00:00"
     },
     {
       "category": "youtube",
-      "source": "Dragan Laboski",
-      "title": "New Year and meme reset musik",
+      "source": "25HighTech",
+      "title": "roblox games",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=A8_U-REIoRg",
-      "image": "https://i.ytimg.com/vi/A8_U-REIoRg/hqdefault.jpg",
-      "date": "2026-01-04T22:18:06+00:00"
+      "url": "https://www.youtube.com/watch?v=gwStGvaBjFI",
+      "image": "https://i.ytimg.com/vi/gwStGvaBjFI/hqdefault.jpg",
+      "date": "2026-01-10T18:51:41+00:00"
     },
     {
       "category": "youtube",
-      "source": "Dragan Laboski",
-      "title": "Alle Musik dj",
+      "source": "25HighTech",
+      "title": "steal a brainrot update",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=wCCCCTO3Yuo",
-      "image": "https://i.ytimg.com/vi/wCCCCTO3Yuo/hqdefault.jpg",
-      "date": "2025-10-04T17:16:07+00:00"
+      "url": "https://www.youtube.com/watch?v=dxImxCzc_f0",
+      "image": "https://i.ytimg.com/vi/dxImxCzc_f0/hqdefault.jpg",
+      "date": "2026-01-10T17:17:11+00:00"
     },
     {
       "category": "youtube",
-      "source": "Dragan Laboski",
-      "title": "Halloween Party 🎃 musik",
+      "source": "25HighTech",
+      "title": "How to install Retroarch on Linux Mint",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=3xbFtf6xISI",
-      "image": "https://i.ytimg.com/vi/3xbFtf6xISI/hqdefault.jpg",
-      "date": "2025-10-04T12:51:19+00:00"
+      "url": "https://www.youtube.com/watch?v=fYyG9aDDkN8",
+      "image": "https://i.ytimg.com/vi/fYyG9aDDkN8/hqdefault.jpg",
+      "date": "2025-10-03T17:31:05+00:00"
     },
     {
       "category": "youtube",
-      "source": "Dragan Laboski",
-      "title": "Rise Of The Hero musik",
+      "source": "25HighTech",
+      "title": "How to delete application on linux mint",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=-unyF8xDrKM",
-      "image": "https://i.ytimg.com/vi/-unyF8xDrKM/hqdefault.jpg",
-      "date": "2025-09-29T17:38:50+00:00"
+      "url": "https://www.youtube.com/watch?v=OXJHSVPDBVE",
+      "image": "https://i.ytimg.com/vi/OXJHSVPDBVE/hqdefault.jpg",
+      "date": "2025-10-03T17:29:28+00:00"
     },
     {
       "category": "youtube",
-      "source": "Dragan Laboski",
-      "title": "Musik Dj",
+      "source": "25HighTech",
+      "title": "How to install VICE commodore64 on linux mint",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=J4C1Ctuw_EE",
-      "image": "https://i.ytimg.com/vi/J4C1Ctuw_EE/hqdefault.jpg",
-      "date": "2025-09-29T17:36:13+00:00"
+      "url": "https://www.youtube.com/watch?v=JVR2o934puQ",
+      "image": "https://i.ytimg.com/vi/JVR2o934puQ/hqdefault.jpg",
+      "date": "2025-10-03T17:27:00+00:00"
     },
     {
       "category": "youtube",
-      "source": "Dragan Laboski",
-      "title": "Electric Dreams musik dj",
+      "source": "25HighTech",
+      "title": "How to install Abiword on Linux Mint",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=3Cevc329qHU",
-      "image": "https://i.ytimg.com/vi/3Cevc329qHU/hqdefault.jpg",
-      "date": "2025-09-28T15:59:24+00:00"
+      "url": "https://www.youtube.com/watch?v=WTtXBhyIISQ",
+      "image": "https://i.ytimg.com/vi/WTtXBhyIISQ/hqdefault.jpg",
+      "date": "2025-09-21T14:27:28+00:00"
     },
     {
       "category": "youtube",
-      "source": "Dragan Laboski",
-      "title": "Dj bro 67",
+      "source": "25HighTech",
+      "title": "How to install MVP player on Linux Mint",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=-sPrpun4zN0",
-      "image": "https://i.ytimg.com/vi/-sPrpun4zN0/hqdefault.jpg",
-      "date": "2025-09-27T17:50:06+00:00"
+      "url": "https://www.youtube.com/shorts/1DzS8278whw",
+      "image": "https://i.ytimg.com/vi/1DzS8278whw/hqdefault.jpg",
+      "date": "2025-09-21T14:25:56+00:00"
     },
     {
       "category": "youtube",
-      "source": "Dragan Laboski",
-      "title": "Musik 67",
+      "source": "25HighTech",
+      "title": "How to install Midori browser on Linux Mint",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=FKwESvuoKew",
-      "image": "https://i.ytimg.com/vi/FKwESvuoKew/hqdefault.jpg",
-      "date": "2025-09-27T16:43:30+00:00"
+      "url": "https://www.youtube.com/shorts/q7Ts4jxumj8",
+      "image": "https://i.ytimg.com/vi/q7Ts4jxumj8/hqdefault.jpg",
+      "date": "2025-09-21T14:25:47+00:00"
     },
     {
       "category": "youtube",
-      "source": "Dragan Laboski",
-      "title": "sleeping music",
+      "source": "25HighTech",
+      "title": "roblox live",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=p2JSaP9ndMY",
-      "image": "https://i.ytimg.com/vi/p2JSaP9ndMY/hqdefault.jpg",
-      "date": "2025-07-22T09:58:52+00:00"
+      "url": "https://www.youtube.com/watch?v=WGjYQ-KT7V4",
+      "image": "https://i.ytimg.com/vi/WGjYQ-KT7V4/hqdefault.jpg",
+      "date": "2025-09-14T19:48:21+00:00"
     }
   ]
 }
