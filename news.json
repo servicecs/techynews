@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T02:40:10.339141+00:00",
+  "updated": "2026-08-19T03:48:20.159036+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -274,5 +274,96 @@
       "date": ""
     }
   ],
-  "youtube": []
+  "youtube": [
+    {
+      "category": "youtube",
+      "source": "Dragan Laboski",
+      "title": "F#ck",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=PJVdOJS9C2g",
+      "image": "https://i.ytimg.com/vi/PJVdOJS9C2g/hqdefault.jpg",
+      "date": "2026-06-18T16:00:10+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Dragan Laboski",
+      "title": "New Year and meme reset musik",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=A8_U-REIoRg",
+      "image": "https://i.ytimg.com/vi/A8_U-REIoRg/hqdefault.jpg",
+      "date": "2026-01-04T22:18:06+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Dragan Laboski",
+      "title": "Alle Musik dj",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=wCCCCTO3Yuo",
+      "image": "https://i.ytimg.com/vi/wCCCCTO3Yuo/hqdefault.jpg",
+      "date": "2025-10-04T17:16:07+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Dragan Laboski",
+      "title": "Halloween Party 🎃 musik",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=3xbFtf6xISI",
+      "image": "https://i.ytimg.com/vi/3xbFtf6xISI/hqdefault.jpg",
+      "date": "2025-10-04T12:51:19+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Dragan Laboski",
+      "title": "Rise Of The Hero musik",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=-unyF8xDrKM",
+      "image": "https://i.ytimg.com/vi/-unyF8xDrKM/hqdefault.jpg",
+      "date": "2025-09-29T17:38:50+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Dragan Laboski",
+      "title": "Musik Dj",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=J4C1Ctuw_EE",
+      "image": "https://i.ytimg.com/vi/J4C1Ctuw_EE/hqdefault.jpg",
+      "date": "2025-09-29T17:36:13+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Dragan Laboski",
+      "title": "Electric Dreams musik dj",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=3Cevc329qHU",
+      "image": "https://i.ytimg.com/vi/3Cevc329qHU/hqdefault.jpg",
+      "date": "2025-09-28T15:59:24+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Dragan Laboski",
+      "title": "Dj bro 67",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=-sPrpun4zN0",
+      "image": "https://i.ytimg.com/vi/-sPrpun4zN0/hqdefault.jpg",
+      "date": "2025-09-27T17:50:06+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Dragan Laboski",
+      "title": "Musik 67",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=FKwESvuoKew",
+      "image": "https://i.ytimg.com/vi/FKwESvuoKew/hqdefault.jpg",
+      "date": "2025-09-27T16:43:30+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Dragan Laboski",
+      "title": "sleeping music",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=p2JSaP9ndMY",
+      "image": "https://i.ytimg.com/vi/p2JSaP9ndMY/hqdefault.jpg",
+      "date": "2025-07-22T09:58:52+00:00"
+    }
+  ]
 }
