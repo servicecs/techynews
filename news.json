@@ -1,142 +1,6 @@
 {
-  "updated": "2026-08-19T15:33:26.059738+00:00",
-  "mkd": [
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Ја заборави лозинката? Побарај помош",
-      "description": "",
-      "url": "https://smartportal.mk/",
-      "image": "",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Cursor започнува со сопствен хостинг на код преку новата услуга Origin",
-      "description": "",
-      "url": "https://smartportal.mk/novosti/softver-prog/cursor-origin/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/cursor-origin-f-218x150.webp",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "ЕУ воведува строги безбедносни правила за VPN услугите",
-      "description": "",
-      "url": "https://smartportal.mk/novosti/veb-i-bezbednost/eu-strogi-pravila-vpn-uslugi/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/cursor-origin-f-218x150.webp",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Како да го изберете преклопливиот телефон што ви одговара: Водич за…",
-      "description": "",
-      "url": "https://smartportal.mk/novosti/uredi/vodic-za-najnovata-galaxy-z-serija/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/06/Depositphotos_11897964_XL-f-218x150.webp",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Гледањето кратки видеа привремено ја деактивира мозочната мрежа за когнитивна контрола",
-      "description": "",
-      "url": "https://smartportal.mk/novosti/nauka-istrazuvanja/gledanje-kratki-videa-deaktivira-kognitivna-kontrola/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/216-lifestyle-product-galaxy-zfold8-zfold8-ultra-zflip8-2-f-218x150.webp",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Повеќето корисници сè уште ги плакнат садовите пред да ги стават…",
-      "description": "",
-      "url": "https://smartportal.mk/novosti/uredi/samsung-plaknenje-sadovi-pred-masina/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/216-lifestyle-product-galaxy-zfold8-zfold8-ultra-zflip8-2-f-218x150.webp",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Како да ја изберете соодветната Linux дистрибуција",
-      "description": "",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/kako-da-izberete-soodvetna-linux-distribucija/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/05/Bespoke-AI-Dishwasher-218x150.webp",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Како да го оптимизирате вашиот простор со Samsung Q-Symphony",
-      "description": "",
-      "url": "https://smartportal.mk/novosti/uredi/kako-da-go-optimizirate-vasisot-prostor-so-samsung-q-symphony/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/04/lukas-NLSXFjl_nhc-unsplash-218x150.webp",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Насоки за купување телевизор: Вашиот целосен водич за избор на совршен…",
-      "description": "",
-      "url": "https://smartportal.mk/novosti/uredi/samsung-nasoki-za-kupuvanje-televizor/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/04/Q990F-218x150.webp",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Марк Гурман со критики за големината на надградбата која ја донесуваат…",
-      "description": "",
-      "url": "https://smartportal.mk/novosti/uredi/mark-gurman-so-kritiki-za-airpods-max-2/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/03/matt-birchler-F5ZtkCWbtyE-unsplash-218x150.webp",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Што следи на крипто пазарот",
-      "description": "",
-      "url": "https://smartportal.mk/kolumni/sto-sledid-na-kripto-pazarot/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/03/matt-birchler-F5ZtkCWbtyE-unsplash-218x150.webp",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Мисија: Национална развојна стратегија",
-      "description": "",
-      "url": "https://smartportal.mk/kolumni/misija-nacionalna-razvojna-strategija/",
-      "image": "https://smartportal.mk/wp-content/uploads/2020/02/shutterstock_712597270-218x150.jpg",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Да зборуваме за Дина – Dune (2021)",
-      "description": "",
-      "url": "https://smartportal.mk/kolumni/da-zboruvame-za-dina/",
-      "image": "https://smartportal.mk/wp-content/uploads/2022/05/NRS-Logo_mk-218x150.jpg",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Рецензија Samsung Galaxy A57 5G: Премиум изработка и рафинирани перформанси во…",
-      "description": "",
-      "url": "https://smartportal.mk/novosti/smartfoni/recenzija-samsung-galaxy-a57/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/04/smartportal-galaxy-a57-1-218x150.webp",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Рецензија Samsung Galaxy S26 Ultra: Сличен со ланскиот модел, но со…",
-      "description": "",
-      "url": "https://smartportal.mk/recenzii/recenzija-samsung-galaxy-s26-ultra/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/04/smartportal-galaxy-a57-1-218x150.webp",
-      "date": ""
-    }
-  ],
+  "updated": "2026-08-19T16:33:54.477155+00:00",
+  "mkd": [],
   "de": [
     {
       "category": "de",
@@ -278,6 +142,15 @@
     {
       "category": "youtube",
       "source": "Hood Informatik",
+      "title": "Ein NAT und seine Schwächen... #informatik #code #netzwerk #news",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/bQipb_ZkNmg",
+      "image": "https://i.ytimg.com/vi/bQipb_ZkNmg/hqdefault.jpg",
+      "date": "2026-08-19T16:22:12+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
       "title": "Der Delta Airlines WLAN Fall #informatik #code #delta #wifi #news #flugzeug",
       "description": "",
       "url": "https://www.youtube.com/shorts/Csj-3e8i8Wc",
@@ -355,15 +228,6 @@
       "url": "https://www.youtube.com/shorts/RD6QzeozbWQ",
       "image": "https://i.ytimg.com/vi/RD6QzeozbWQ/hqdefault.jpg",
       "date": "2026-08-09T16:13:24+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Schwarmintelligenz und Sandboxen die keine sind. OpenAIs Vortag bei der diesjährigen Blackhat",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/RMljPDVyrb4",
-      "image": "https://i.ytimg.com/vi/RMljPDVyrb4/hqdefault.jpg",
-      "date": "2026-08-08T10:30:02+00:00"
     },
     {
       "category": "youtube",
@@ -458,92 +322,92 @@
     {
       "category": "youtube",
       "source": "MrMario2011",
-      "title": "How to Diagnose Bootup Issues on PSP ARK-5 CFW - Black Screen & Freezing on Boot Fixes!",
+      "title": "How to Install Windows 11 with a Local Account in 2026",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=aPNSFIoJwT4",
-      "image": "https://i.ytimg.com/vi/aPNSFIoJwT4/hqdefault.jpg",
-      "date": "2026-08-15T17:00:35+00:00"
+      "url": "https://www.youtube.com/watch?v=juIh1auHo3s",
+      "image": "https://i.ytimg.com/vi/juIh1auHo3s/hqdefault.jpg",
+      "date": "2026-08-05T17:00:04+00:00"
     },
     {
       "category": "youtube",
       "source": "MrMario2011",
-      "title": "Bad Update 1.3 Gets a Definitive Stability Upgrade! - How to Update Bad Update",
+      "title": "How to Replace the Battery in a Dell Precision 7760 Laptop",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=zADjXH8SFmI",
-      "image": "https://i.ytimg.com/vi/zADjXH8SFmI/hqdefault.jpg",
-      "date": "2026-08-07T00:30:14+00:00"
+      "url": "https://www.youtube.com/watch?v=JOVmOahO2xs",
+      "image": "https://i.ytimg.com/vi/JOVmOahO2xs/hqdefault.jpg",
+      "date": "2026-03-11T17:00:00+00:00"
     },
     {
       "category": "youtube",
       "source": "MrMario2011",
-      "title": "How to Install ARK-5 eCFW on Adrenaline for PS Vita!",
+      "title": "How to Use & Combine Joy-Con Controllers on the Steam Deck!",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=oLTbmOuIlQQ",
-      "image": "https://i.ytimg.com/vi/oLTbmOuIlQQ/hqdefault.jpg",
-      "date": "2026-08-01T16:45:27+00:00"
+      "url": "https://www.youtube.com/watch?v=p9ZdCe-eW1M",
+      "image": "https://i.ytimg.com/vi/p9ZdCe-eW1M/hqdefault.jpg",
+      "date": "2025-12-05T18:01:07+00:00"
     },
     {
       "category": "youtube",
       "source": "MrMario2011",
-      "title": "Mario's Minute 103 - Sony Hoped We Would Have Stopped Talking About PlayStation Discs by Now",
+      "title": "Borderlands GOTY Enhanced Co-Op Lag Fix on PC | Windows & Steam Deck",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=WliihE6GQrg",
-      "image": "https://i.ytimg.com/vi/WliihE6GQrg/hqdefault.jpg",
-      "date": "2026-07-29T17:00:05+00:00"
+      "url": "https://www.youtube.com/watch?v=UsaKlS3WBBs",
+      "image": "https://i.ytimg.com/vi/UsaKlS3WBBs/hqdefault.jpg",
+      "date": "2025-08-20T17:00:42+00:00"
     },
     {
       "category": "youtube",
       "source": "MrMario2011",
-      "title": "Switch 2 Userland Exploit, ARK-5 for PSP, PS5 Emulation & Jailbreak Bounty - ModChat 147",
+      "title": "Thrifty Gaming Pickups 058 - Going Through a Bag of Games, Controllers, and More!",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=DMKxY1bYjhU",
-      "image": "https://i.ytimg.com/vi/DMKxY1bYjhU/hqdefault.jpg",
-      "date": "2026-07-25T17:00:44+00:00"
+      "url": "https://www.youtube.com/watch?v=yKwMn2OMLLY",
+      "image": "https://i.ytimg.com/vi/yKwMn2OMLLY/hqdefault.jpg",
+      "date": "2025-05-07T17:01:12+00:00"
     },
     {
       "category": "youtube",
       "source": "MrMario2011",
-      "title": "How to Upgrade Any Modded PSP to ARK-5 CFW - Overclocking & More!",
+      "title": "Thrifty Gaming Pickups 057 - Returning to Old Thrift Shops + A Big Xbox 360 Bundle!",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=oOqFitYCQIM",
-      "image": "https://i.ytimg.com/vi/oOqFitYCQIM/hqdefault.jpg",
-      "date": "2026-07-18T17:00:37+00:00"
+      "url": "https://www.youtube.com/watch?v=EOQgA7Q8Kw8",
+      "image": "https://i.ytimg.com/vi/EOQgA7Q8Kw8/hqdefault.jpg",
+      "date": "2024-12-04T18:00:14+00:00"
     },
     {
       "category": "youtube",
       "source": "MrMario2011",
-      "title": "How to Mod Any PSP on Firmware 6.61 or Lower with ARK-5 CFW - Overclocking & More!",
+      "title": "Thrifty Gaming Pickups 056 - Import Switch Games, Switch Lite, Xbox, and Xbox 360 Games!",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=yiXp4rZymQQ",
-      "image": "https://i.ytimg.com/vi/yiXp4rZymQQ/hqdefault.jpg",
-      "date": "2026-07-11T16:30:16+00:00"
+      "url": "https://www.youtube.com/watch?v=xaNcbxQkk5k",
+      "image": "https://i.ytimg.com/vi/xaNcbxQkk5k/hqdefault.jpg",
+      "date": "2024-06-12T17:00:40+00:00"
     },
     {
       "category": "youtube",
       "source": "MrMario2011",
-      "title": "No More PlayStation Discs: The End of Physical Games is Near",
+      "title": "Thrifty Gaming Pickups 055 - Japanese Xbox 360 Imports, Consoles, and More!",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=n4OAcE1TE8c",
-      "image": "https://i.ytimg.com/vi/n4OAcE1TE8c/hqdefault.jpg",
-      "date": "2026-07-04T17:00:19+00:00"
+      "url": "https://www.youtube.com/watch?v=fvzT178zAlk",
+      "image": "https://i.ytimg.com/vi/fvzT178zAlk/hqdefault.jpg",
+      "date": "2024-05-15T17:00:26+00:00"
     },
     {
       "category": "youtube",
       "source": "MrMario2011",
-      "title": "Making the Xbox 360 Region Free with ABadAvatar - Import Setup Guide!",
+      "title": "Final Fantasy VII Rebirth Best Buy Steelbook (PS5) #shorts",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=Ym6wEhNiCzs",
-      "image": "https://i.ytimg.com/vi/Ym6wEhNiCzs/hqdefault.jpg",
-      "date": "2026-06-27T17:00:36+00:00"
+      "url": "https://www.youtube.com/shorts/k02mkNRvIYE",
+      "image": "https://i.ytimg.com/vi/k02mkNRvIYE/hqdefault.jpg",
+      "date": "2024-03-01T18:00:24+00:00"
     },
     {
       "category": "youtube",
       "source": "MrMario2011",
-      "title": "Mario's Minute 102 - Cloud Versions in Gaming are a Thunderstorm of Failure",
+      "title": "Final Fantasy VII Rebirth Deluxe Edition Unboxing (PS5) #shorts",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=vqkZkLsn0c8",
-      "image": "https://i.ytimg.com/vi/vqkZkLsn0c8/hqdefault.jpg",
-      "date": "2026-06-24T17:00:42+00:00"
+      "url": "https://www.youtube.com/shorts/SFwXpq5kwe4",
+      "image": "https://i.ytimg.com/vi/SFwXpq5kwe4/hqdefault.jpg",
+      "date": "2024-03-01T02:23:40+00:00"
     }
   ]
 }
