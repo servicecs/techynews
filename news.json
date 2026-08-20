@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T15:35:51.498476+00:00",
+  "updated": "2026-08-20T16:37:21.445316+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -278,6 +278,15 @@
     {
       "category": "youtube",
       "source": "Hood Informatik",
+      "title": "Deine Smartwatch kann deine Passwörter verraten #informatik #passwort #smartwatch #code #security",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/kpq5zsDWGxs",
+      "image": "https://i.ytimg.com/vi/kpq5zsDWGxs/hqdefault.jpg",
+      "date": "2026-08-20T16:00:24+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
       "title": "Ein NAT und seine Schwächen... #informatik #code #netzwerk #news",
       "description": "",
       "url": "https://www.youtube.com/shorts/bQipb_ZkNmg",
@@ -355,15 +364,6 @@
       "url": "https://www.youtube.com/shorts/8XNlkkRauTo",
       "image": "https://i.ytimg.com/vi/8XNlkkRauTo/hqdefault.jpg",
       "date": "2026-08-10T10:00:05+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Operation Cronos und das Vertrauen in RaaS #informatik #itsicherheit #news #operation",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/RD6QzeozbWQ",
-      "image": "https://i.ytimg.com/vi/RD6QzeozbWQ/hqdefault.jpg",
-      "date": "2026-08-09T16:13:24+00:00"
     },
     {
       "category": "youtube",
