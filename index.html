@@ -14,10 +14,14 @@
         content="Yane's Aggregator - MKD, DE и Star Wars News"
     >
 
-    <!-- Google Analytics -->
+    <!-- =========================
+         GOOGLE ANALYTICS
+    ========================== -->
+
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-5RPGXB9L5W"></script>
 
     <script>
+
         window.dataLayer = window.dataLayer || [];
 
         function gtag() {
@@ -25,9 +29,18 @@
         }
 
         gtag('js', new Date());
-        gtag('config', 'G-5RPGXB9L5W');
+
+        gtag(
+            'config',
+            'G-5RPGXB9L5W'
+        );
+
     </script>
 
+
+    <!-- =========================
+         STYLE
+    ========================== -->
 
     <style>
 
@@ -37,79 +50,117 @@
             padding: 0;
         }
 
+
         html {
             scroll-behavior: smooth;
         }
 
+
         body {
-            font-family: Arial, Helvetica, sans-serif;
+
+            font-family:
+                Arial,
+                Helvetica,
+                sans-serif;
+
             background: #f1f3f5;
+
             color: #222;
+
         }
 
 
         /* =========================
            HEADER
-        ========================= */
+        ========================== */
 
         header {
-            background: linear-gradient(
-                135deg,
-                #111827,
-                #263244
-            );
+
+            background:
+                linear-gradient(
+                    135deg,
+                    #111827,
+                    #263244
+                );
 
             color: white;
+
             text-align: center;
-            padding: 28px 20px;
+
+            padding:
+                28px 20px;
+
         }
+
 
         header h1 {
+
             font-size: 31px;
+
         }
 
+
         header p {
+
             margin-top: 5px;
+
             color: #cbd5e1;
+
             font-size: 14px;
+
         }
 
 
         /* =========================
-           SECTION MENU
-        ========================= */
+           SECTION NAV
+        ========================== */
 
         .section-nav {
+
             display: flex;
+
             justify-content: center;
+
             align-items: center;
+
             gap: 8px;
+
             flex-wrap: wrap;
 
-            padding: 10px 15px;
+            padding:
+                10px 15px;
 
             background: white;
 
-            border-bottom: 1px solid #ddd;
+            border-bottom:
+                1px solid #ddd;
 
             position: sticky;
+
             top: 0;
+
             z-index: 1000;
 
             box-shadow:
-                0 2px 7px rgba(0,0,0,0.06);
+                0 2px 7px
+                rgba(0,0,0,0.06);
+
         }
 
+
         .section-nav a {
+
             display: inline-block;
 
-            padding: 7px 14px;
+            padding:
+                7px 14px;
 
             border-radius: 18px;
 
             background: #f3f4f6;
 
-            border: 1px solid #d1d5db;
+            border:
+                1px solid #d1d5db;
 
             color: #222;
 
@@ -119,32 +170,43 @@
 
             font-weight: bold;
 
-            transition: 0.2s;
+            transition:
+                0.2s;
+
         }
 
+
         .section-nav a:hover {
+
             background: #111827;
+
             color: white;
+
         }
 
 
         /* =========================
            MAIN
-        ========================= */
+        ========================== */
 
         main {
+
             width: 94%;
+
             max-width: 1400px;
 
-            margin: 25px auto;
+            margin:
+                25px auto;
+
         }
 
 
         /* =========================
-           YOUTUBE BANNERS
-        ========================= */
+           YOUTUBE
+        ========================== */
 
         .youtube-title {
+
             text-align: center;
 
             font-size: 18px;
@@ -153,8 +215,8 @@
 
             margin-bottom: 12px;
 
-            color: #333;
         }
+
 
         .youtube-banners {
 
@@ -169,7 +231,9 @@
 
             margin:
                 0 auto 40px auto;
+
         }
+
 
         .youtube-banner {
 
@@ -181,11 +245,13 @@
 
             min-height: 65px;
 
-            padding: 10px 15px;
+            padding:
+                10px 15px;
 
             background: white;
 
-            border: 1px solid #ddd;
+            border:
+                1px solid #ddd;
 
             border-radius: 10px;
 
@@ -198,19 +264,26 @@
             font-size: 14px;
 
             box-shadow:
-                0 2px 6px rgba(0,0,0,0.06);
+                0 2px 6px
+                rgba(0,0,0,0.06);
 
-            transition: 0.2s;
+            transition:
+                0.2s;
+
         }
+
 
         .youtube-banner:hover {
 
-            transform: translateY(-3px);
+            transform:
+                translateY(-3px);
 
             box-shadow:
-                0 7px 16px rgba(0,0,0,0.13);
+                0 7px 16px
+                rgba(0,0,0,0.13);
 
         }
+
 
         .youtube-icon {
 
@@ -223,14 +296,16 @@
 
         /* =========================
            SECTIONS
-        ========================= */
+        ========================== */
 
         .section {
 
             margin-bottom: 55px;
 
             scroll-margin-top: 70px;
+
         }
+
 
         .section-title {
 
@@ -242,17 +317,22 @@
 
             padding-bottom: 9px;
 
-            border-bottom: 3px solid #222;
+            border-bottom:
+                3px solid #222;
+
         }
 
+
         .section-title h2 {
+
             font-size: 25px;
+
         }
 
 
         /* =========================
            NEWS GRID
-        ========================= */
+        ========================== */
 
         .news-grid {
 
@@ -261,34 +341,42 @@
             grid-template-columns:
                 repeat(
                     auto-fill,
-                    minmax(280px, 1fr)
+                    minmax(
+                        280px,
+                        1fr
+                    )
                 );
 
             gap: 20px;
+
         }
 
 
         /* =========================
-           NEWS CARD
-        ========================= */
+           CARD
+        ========================== */
 
         .card {
 
             background: white;
 
-            border: 1px solid #ddd;
+            border:
+                1px solid #ddd;
 
             border-radius: 12px;
 
             overflow: hidden;
 
             box-shadow:
-                0 2px 8px rgba(0,0,0,0.06);
+                0 2px 8px
+                rgba(0,0,0,0.06);
 
             transition:
                 transform 0.2s,
                 box-shadow 0.2s;
+
         }
+
 
         .card:hover {
 
@@ -296,8 +384,11 @@
                 translateY(-4px);
 
             box-shadow:
-                0 8px 20px rgba(0,0,0,0.13);
+                0 8px 20px
+                rgba(0,0,0,0.13);
+
         }
+
 
         .card a {
 
@@ -306,12 +397,13 @@
             color: inherit;
 
             text-decoration: none;
+
         }
 
 
         /* =========================
-           IMAGES
-        ========================= */
+           IMAGE
+        ========================== */
 
         .image-wrapper {
 
@@ -322,7 +414,9 @@
             background: #e5e7eb;
 
             overflow: hidden;
+
         }
+
 
         .card-image {
 
@@ -336,46 +430,45 @@
 
             transition:
                 transform 0.3s;
+
         }
+
 
         .card:hover .card-image {
 
             transform:
                 scale(1.04);
+
         }
 
-        .no-image {
+
+        /* =========================
+           FALLBACK IMAGE
+        ========================== */
+
+        .fallback-image {
 
             width: 100%;
 
             height: 190px;
 
-            display: flex;
+            object-fit: cover;
 
-            align-items: center;
+            display: block;
 
-            justify-content: center;
-
-            background:
-                linear-gradient(
-                    135deg,
-                    #e5e7eb,
-                    #d1d5db
-                );
-
-            font-size: 42px;
-
-            color: #6b7280;
         }
 
 
         /* =========================
            CARD CONTENT
-        ========================= */
+        ========================== */
 
         .card-content {
+
             padding: 15px;
+
         }
+
 
         .card-title {
 
@@ -386,7 +479,9 @@
             line-height: 1.4;
 
             margin-bottom: 9px;
+
         }
+
 
         .card-source {
 
@@ -397,39 +492,45 @@
             color: #6b7280;
 
             margin-bottom: 4px;
+
         }
+
 
         .card-date {
 
             font-size: 12px;
 
             color: #9ca3af;
+
         }
 
 
         /* =========================
            LOADING
-        ========================= */
+        ========================== */
 
         .loading {
 
-            grid-column: 1 / -1;
+            grid-column:
+                1 / -1;
 
             text-align: center;
 
             padding: 40px;
 
             color: #777;
+
         }
 
 
         /* =========================
            ERROR
-        ========================= */
+        ========================== */
 
         .error {
 
-            grid-column: 1 / -1;
+            grid-column:
+                1 / -1;
 
             padding: 20px;
 
@@ -440,18 +541,20 @@
             border-radius: 10px;
 
             text-align: center;
+
         }
 
 
         /* =========================
            FOOTER
-        ========================= */
+        ========================== */
 
         footer {
 
             margin-top: 40px;
 
-            padding: 30px 20px;
+            padding:
+                30px 20px;
 
             background: #111827;
 
@@ -460,12 +563,13 @@
             text-align: center;
 
             font-size: 13px;
+
         }
 
 
         /* =========================
            TABLET
-        ========================= */
+        ========================== */
 
         @media (max-width: 850px) {
 
@@ -481,27 +585,43 @@
 
         /* =========================
            MOBILE
-        ========================= */
+        ========================== */
 
         @media (max-width: 600px) {
 
             header h1 {
+
                 font-size: 25px;
+
             }
+
 
             main {
+
                 width: 92%;
+
             }
+
 
             .section-nav {
+
                 gap: 6px;
-                padding: 9px 8px;
+
+                padding:
+                    9px 8px;
+
             }
 
+
             .section-nav a {
+
                 font-size: 13px;
-                padding: 7px 11px;
+
+                padding:
+                    7px 11px;
+
             }
+
 
             .youtube-banners {
 
@@ -511,6 +631,7 @@
                 gap: 9px;
 
             }
+
 
             .youtube-banner {
 
@@ -522,6 +643,7 @@
 
             }
 
+
             .youtube-icon {
 
                 font-size: 19px;
@@ -530,13 +652,26 @@
 
             }
 
+
             .news-grid {
-                grid-template-columns: 1fr;
+
+                grid-template-columns:
+                    1fr;
+
             }
 
-            .image-wrapper,
-            .no-image {
+
+            .image-wrapper {
+
                 height: 210px;
+
+            }
+
+
+            .fallback-image {
+
+                height: 210px;
+
             }
 
         }
@@ -551,11 +686,13 @@
 
 <!-- =========================
      HEADER
-========================= -->
+========================== -->
 
 <header>
 
-    <h1>Yane's Aggregator</h1>
+    <h1>
+        Yane's Aggregator
+    </h1>
 
     <p>
         MKD • DE • Star Wars News
@@ -565,8 +702,8 @@
 
 
 <!-- =========================
-     SECTION NAVIGATION
-========================= -->
+     SECTION LINKS
+========================== -->
 
 <nav class="section-nav">
 
@@ -589,8 +726,8 @@
 
 
 <!-- =========================
-     YOUTUBE CHANNEL BANNERS
-========================= -->
+     YOUTUBE BANNERS
+========================== -->
 
 <div class="youtube-title">
     YouTube Channels
@@ -600,11 +737,9 @@
 <div class="youtube-banners">
 
 
-    <!-- DRAGAN LABOSKI -->
-
     <a
         class="youtube-banner"
-        href="https://youtube.com/@draganlaboski"
+        href="https://youtube.com/@draganlaboski?si=fpSIyfXdXkzOUL8b"
         target="_blank"
         rel="noopener noreferrer"
     >
@@ -618,11 +753,9 @@
     </a>
 
 
-    <!-- EV7 BLOXGAME -->
-
     <a
         class="youtube-banner"
-        href="https://youtube.com/@ev7bloxgame"
+        href="https://youtube.com/@ev7bloxgame?si=dju3qdtfn_03FHO6"
         target="_blank"
         rel="noopener noreferrer"
     >
@@ -635,8 +768,6 @@
 
     </a>
 
-
-    <!-- 25 HIGHTECH -->
 
     <a
         class="youtube-banner"
@@ -659,7 +790,7 @@
 
 <!-- =========================
      MKD
-========================= -->
+========================== -->
 
 <section
     class="section"
@@ -681,7 +812,9 @@
     >
 
         <div class="loading">
+
             Се вчитуваат MKD вести...
+
         </div>
 
     </div>
@@ -691,7 +824,7 @@
 
 <!-- =========================
      DE
-========================= -->
+========================== -->
 
 <section
     class="section"
@@ -713,7 +846,9 @@
     >
 
         <div class="loading">
+
             Се вчитуваат DE вести...
+
         </div>
 
     </div>
@@ -723,7 +858,7 @@
 
 <!-- =========================
      STAR WARS
-========================= -->
+========================== -->
 
 <section
     class="section"
@@ -745,7 +880,9 @@
     >
 
         <div class="loading">
+
             Се вчитуваат Star Wars вести...
+
         </div>
 
     </div>
@@ -767,7 +904,7 @@
 
 
 /* =====================================================
-   RSS FEEDS
+   RSS SOURCES
 ===================================================== */
 
 const feeds = {
@@ -780,14 +917,16 @@ const feeds = {
     mkd: [
 
         {
-            name: "SmartPortal",
+            name:
+                "SmartPortal",
 
             url:
                 "https://smartportal.mk/feed/"
         },
 
         {
-            name: "TIME.mk",
+            name:
+                "TIME.mk",
 
             url:
                 "https://time.mk/rss/all"
@@ -803,14 +942,16 @@ const feeds = {
     de: [
 
         {
-            name: "Centron",
+            name:
+                "Centron",
 
             url:
                 "https://www.centron.de/feed/"
         },
 
         {
-            name: "Tarnkappe",
+            name:
+                "Tarnkappe",
 
             url:
                 "https://tarnkappe.info/feed"
@@ -855,7 +996,34 @@ const feeds = {
 
 
 /* =====================================================
-   RSS2JSON
+   WIKIMEDIA COMMONS FALLBACK IMAGES
+===================================================== */
+
+const DEFAULT_IMAGES = {
+
+
+    /* 🇲🇰 FLAG OF NORTH MACEDONIA */
+
+    mkd:
+        "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
+
+
+    /* 🇩🇪 FLAG OF GERMANY */
+
+    de:
+        "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+
+
+    /* ⭐ STAR WARS */
+
+    starwars:
+        "https://upload.wikimedia.org/wikipedia/commons/6/6c/Star_Wars_Logo.svg"
+
+};
+
+
+/* =====================================================
+   RSS2JSON API
 ===================================================== */
 
 const RSS_API =
@@ -869,8 +1037,11 @@ const RSS_API =
 function escapeHTML(text) {
 
     if (!text) {
+
         return "";
+
     }
+
 
     return String(text)
 
@@ -911,7 +1082,9 @@ function extractImageFromHTML(
 ) {
 
     if (!html) {
+
         return "";
+
     }
 
 
@@ -933,19 +1106,29 @@ function extractImageFromHTML(
 
 
     if (!img) {
+
         return "";
+
     }
 
 
     return (
 
-        img.getAttribute("src") ||
+        img.getAttribute(
+            "src"
+        ) ||
 
-        img.getAttribute("data-src") ||
+        img.getAttribute(
+            "data-src"
+        ) ||
 
-        img.getAttribute("data-lazy-src") ||
+        img.getAttribute(
+            "data-lazy-src"
+        ) ||
 
-        img.getAttribute("data-original") ||
+        img.getAttribute(
+            "data-original"
+        ) ||
 
         ""
 
@@ -955,7 +1138,7 @@ function extractImageFromHTML(
 
 
 /* =====================================================
-   GET IMAGE
+   FIND IMAGE
 ===================================================== */
 
 function getImage(item) {
@@ -964,8 +1147,12 @@ function getImage(item) {
     /* thumbnail */
 
     if (
+
         item.thumbnail &&
-        typeof item.thumbnail === "string"
+
+        typeof item.thumbnail ===
+        "string"
+
     ) {
 
         return item.thumbnail;
@@ -995,10 +1182,12 @@ function getImage(item) {
             )
         ) {
 
+
             for (
                 const enclosure
                 of item.enclosure
             ) {
+
 
                 if (
                     enclosure &&
@@ -1023,7 +1212,7 @@ function getImage(item) {
     ) {
 
 
-        const values = [
+        const mediaValues = [
 
             item.media.content,
 
@@ -1034,18 +1223,22 @@ function getImage(item) {
 
         for (
             const value
-            of values
+            of mediaValues
         ) {
 
 
             if (
-                Array.isArray(value)
+                Array.isArray(
+                    value
+                )
             ) {
+
 
                 for (
                     const media
                     of value
                 ) {
+
 
                     if (
                         media &&
@@ -1078,8 +1271,11 @@ function getImage(item) {
     /* description */
 
     const descriptionImage =
+
         extractImageFromHTML(
+
             item.description
+
         );
 
 
@@ -1095,8 +1291,11 @@ function getImage(item) {
     /* content */
 
     const contentImage =
+
         extractImageFromHTML(
+
             item.content
+
         );
 
 
@@ -1115,70 +1314,52 @@ function getImage(item) {
 
 
 /* =====================================================
-   FORMAT DATE
-===================================================== */
-
-function formatDate(
-    value
-) {
-
-    if (!value) {
-        return "";
-    }
-
-
-    const date =
-        new Date(value);
-
-
-    if (
-        isNaN(
-            date.getTime()
-        )
-    ) {
-
-        return "";
-    }
-
-
-    return date.toLocaleString(
-        "de-DE",
-        {
-            dateStyle: "short",
-            timeStyle: "short"
-        }
-    );
-
-}
-
-
-/* =====================================================
    CREATE CARD
 ===================================================== */
 
 function createCard(
+
     item,
-    sourceName
+
+    sourceName,
+
+    sectionType
+
 ) {
 
 
     const title =
+
         escapeHTML(
+
             item.title ||
             "Без наслов"
+
         );
 
 
     const link =
+
         item.link ||
         "#";
 
 
     const image =
-        getImage(item);
+
+        getImage(
+            item
+        );
+
+
+    const fallbackImage =
+
+        DEFAULT_IMAGES[
+            sectionType
+        ];
 
 
     const date =
+
         formatDate(
             item.pubDate
         );
@@ -1187,7 +1368,13 @@ function createCard(
     let imageHTML;
 
 
-    if (image) {
+    /* =========================
+       RSS IMAGE
+    ========================== */
+
+    if (
+        image
+    ) {
 
 
         imageHTML = `
@@ -1195,15 +1382,22 @@ function createCard(
             <div class="image-wrapper">
 
                 <img
+
                     class="card-image"
+
                     src="${escapeHTML(image)}"
+
                     alt="${title}"
+
                     loading="lazy"
+
                     referrerpolicy="no-referrer"
+
                     onerror="
-                        this.parentElement.innerHTML =
-                        '<div class=&quot;no-image&quot;>📰</div>';
+                        this.onerror=null;
+                        this.src='${fallbackImage}';
                     "
+
                 >
 
             </div>
@@ -1212,13 +1406,30 @@ function createCard(
 
     }
 
+
+    /* =========================
+       DEFAULT IMAGE
+    ========================== */
+
     else {
 
 
         imageHTML = `
 
-            <div class="no-image">
-                📰
+            <div class="image-wrapper">
+
+                <img
+
+                    class="fallback-image"
+
+                    src="${fallbackImage}"
+
+                    alt="${sectionType}"
+
+                    loading="lazy"
+
+                >
+
             </div>
 
         `;
@@ -1231,24 +1442,34 @@ function createCard(
         <article class="card">
 
             <a
+
                 href="${escapeHTML(link)}"
+
                 target="_blank"
+
                 rel="noopener noreferrer"
+
             >
 
                 ${imageHTML}
 
 
-                <div class="card-content">
+                <div
+                    class="card-content"
+                >
 
-                    <div class="card-title">
+                    <div
+                        class="card-title"
+                    >
 
                         ${title}
 
                     </div>
 
 
-                    <div class="card-source">
+                    <div
+                        class="card-source"
+                    >
 
                         ${escapeHTML(
                             sourceName
@@ -1259,14 +1480,25 @@ function createCard(
 
                     ${
                         date
+
                         ?
+
                         `
-                        <div class="card-date">
+
+                        <div
+                            class="card-date"
+                        >
+
                             ${date}
+
                         </div>
+
                         `
+
                         :
+
                         ""
+
                     }
 
                 </div>
@@ -1281,7 +1513,60 @@ function createCard(
 
 
 /* =====================================================
-   LOAD RSS
+   DATE
+===================================================== */
+
+function formatDate(
+    value
+) {
+
+
+    if (!value) {
+
+        return "";
+
+    }
+
+
+    const date =
+
+        new Date(
+            value
+        );
+
+
+    if (
+        isNaN(
+            date.getTime()
+        )
+    ) {
+
+        return "";
+
+    }
+
+
+    return date.toLocaleString(
+
+        "de-DE",
+
+        {
+
+            dateStyle:
+                "short",
+
+            timeStyle:
+                "short"
+
+        }
+
+    );
+
+}
+
+
+/* =====================================================
+   LOAD ONE RSS
 ===================================================== */
 
 async function loadFeed(
@@ -1290,13 +1575,16 @@ async function loadFeed(
 
 
     const apiUrl =
+
         RSS_API +
+
         encodeURIComponent(
             feed.url
         );
 
 
     const response =
+
         await fetch(
             apiUrl
         );
@@ -1315,6 +1603,7 @@ async function loadFeed(
 
 
     const data =
+
         await response.json();
 
 
@@ -1323,8 +1612,10 @@ async function loadFeed(
     ) {
 
         throw new Error(
+
             data.message ||
             "RSS error"
+
         );
 
     }
@@ -1340,12 +1631,18 @@ async function loadFeed(
 ===================================================== */
 
 async function loadSection(
+
     elementId,
-    feedList
+
+    feedList,
+
+    sectionType
+
 ) {
 
 
     const container =
+
         document.getElementById(
             elementId
         );
@@ -1354,24 +1651,38 @@ async function loadSection(
     container.innerHTML = `
 
         <div class="loading">
+
             Се вчитуваат вести...
+
         </div>
 
     `;
 
 
     const results =
+
         await Promise.allSettled(
 
             feedList.map(
+
                 feed =>
-                    loadFeed(feed)
-                        .then(
-                            items => ({
-                                feed,
-                                items
-                            })
-                        )
+
+                    loadFeed(
+                        feed
+                    )
+
+                    .then(
+
+                        items => ({
+
+                            feed,
+
+                            items
+
+                        })
+
+                    )
+
             )
 
         );
@@ -1401,13 +1712,16 @@ async function loadSection(
 
 
         const {
+
             feed,
+
             items
-        } =
-            result.value;
+
+        } = result.value;
 
 
         items.forEach(
+
             item => {
 
                 allItems.push({
@@ -1420,23 +1734,29 @@ async function loadSection(
                 });
 
             }
+
         );
 
     }
 
 
-    /* newest first */
+    /* =========================
+       NEWEST FIRST
+    ========================== */
 
     allItems.sort(
+
         (a, b) => {
 
             const dateA =
+
                 new Date(
                     a.pubDate || 0
                 ).getTime();
 
 
             const dateB =
+
                 new Date(
                     b.pubDate || 0
                 ).getTime();
@@ -1445,45 +1765,69 @@ async function loadSection(
             return dateB - dateA;
 
         }
+
     );
 
 
-    /* maximum 30 */
+    /* =========================
+       MAX 30 ARTICLES
+    ========================== */
 
     allItems =
+
         allItems.slice(
             0,
             30
         );
 
 
+    /* =========================
+       EMPTY
+    ========================== */
+
     if (
         allItems.length === 0
     ) {
 
+
         container.innerHTML = `
 
             <div class="error">
+
                 Нема достапни вести.
+
             </div>
 
         `;
+
 
         return;
 
     }
 
 
+    /* =========================
+       DISPLAY
+    ========================== */
+
     container.innerHTML =
 
         allItems
 
             .map(
+
                 item =>
+
                     createCard(
+
                         item,
-                        item.sourceName
+
+                        item.sourceName,
+
+                        sectionType
+
                     )
+
             )
 
             .join("");
@@ -1492,24 +1836,39 @@ async function loadSection(
 
 
 /* =====================================================
-   START
+   START AGGREGATOR
 ===================================================== */
 
 loadSection(
+
     "mkd",
-    feeds.mkd
+
+    feeds.mkd,
+
+    "mkd"
+
 );
 
 
 loadSection(
+
     "de",
-    feeds.de
+
+    feeds.de,
+
+    "de"
+
 );
 
 
 loadSection(
+
     "starwars",
-    feeds.starwars
+
+    feeds.starwars,
+
+    "starwars"
+
 );
 
 </script>
