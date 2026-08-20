@@ -23,10 +23,7 @@
 
     <meta charset="UTF-8">
 
-    <meta
-        name="viewport"
-        content="width=device-width, initial-scale=1.0"
-    >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <title>Yane's Aggregator</title>
 
@@ -56,9 +53,11 @@
                 Helvetica,
                 sans-serif;
 
-            background: #f2f3f5;
+            background: #f1f3f5;
 
             color: #222;
+
+            line-height: 1.5;
         }
 
 
@@ -72,26 +71,22 @@
                 linear-gradient(
                     135deg,
                     #111827,
-                    #1f2937
+                    #263244
                 );
 
             color: white;
 
-            padding: 25px 20px;
+            padding: 28px 20px;
 
             text-align: center;
-
-            box-shadow:
-                0 2px 8px
-                rgba(0,0,0,0.15);
         }
 
 
         header h1 {
 
-            font-size: 30px;
+            font-size: 31px;
 
-            letter-spacing: 1px;
+            letter-spacing: 0.5px;
         }
 
 
@@ -106,7 +101,7 @@
 
 
         /* =========================
-           SECTION NAVIGATION
+           SECTION MENU
         ========================== */
 
         .section-nav {
@@ -117,47 +112,53 @@
 
             align-items: center;
 
-            gap: 12px;
+            gap: 8px;
 
             flex-wrap: wrap;
 
-            padding: 15px 15px;
+            padding: 10px 15px;
 
-            background: #e5e7eb;
+            background: white;
 
             border-bottom:
-                1px solid #d1d5db;
+                1px solid #ddd;
 
             position: sticky;
 
             top: 0;
 
-            z-index: 100;
+            z-index: 1000;
+
+            box-shadow:
+                0 2px 7px
+                rgba(0,0,0,0.06);
         }
 
 
         .section-nav a {
 
-            background: white;
+            display: inline-block;
+
+            padding:
+                7px 14px;
+
+            border-radius: 18px;
+
+            background: #f3f4f6;
+
+            border:
+                1px solid #d1d5db;
 
             color: #222;
 
             text-decoration: none;
 
-            font-weight: bold;
-
             font-size: 14px;
 
-            padding:
-                9px 17px;
-
-            border-radius: 20px;
-
-            border:
-                1px solid #d1d5db;
+            font-weight: bold;
 
             transition:
-                all 0.2s ease;
+                0.2s;
         }
 
 
@@ -167,12 +168,8 @@
 
             color: white;
 
-            transform:
-                translateY(-2px);
-
-            box-shadow:
-                0 4px 10px
-                rgba(0,0,0,0.15);
+            border-color:
+                #111827;
         }
 
 
@@ -186,7 +183,8 @@
 
             max-width: 1400px;
 
-            margin: 25px auto;
+            margin:
+                24px auto;
         }
 
 
@@ -196,24 +194,28 @@
 
         .banners {
 
-            display: grid;
+            display: flex;
 
-            grid-template-columns:
-                repeat(
-                    4,
-                    minmax(0, 1fr)
-                );
+            justify-content: center;
 
-            gap: 12px;
+            align-items: stretch;
 
-            max-width: 1000px;
+            gap: 10px;
+
+            max-width: 900px;
 
             margin:
-                0 auto 40px auto;
+                0 auto 38px auto;
         }
 
 
         .banner {
+
+            flex: 1;
+
+            max-width: 210px;
+
+            min-height: 58px;
 
             display: flex;
 
@@ -221,28 +223,30 @@
 
             justify-content: center;
 
-            min-height: 62px;
-
             padding:
-                12px 15px;
+                10px 14px;
 
             background: white;
 
             border:
-                1px solid #ddd;
+                1px solid #d8dadd;
 
-            border-radius: 10px;
+            border-radius: 9px;
+
+            color: #222;
 
             text-decoration: none;
 
-            color: #111;
-
-            font-size: 15px;
+            font-size: 14px;
 
             font-weight: bold;
 
+            box-shadow:
+                0 1px 4px
+                rgba(0,0,0,0.05);
+
             transition:
-                all 0.2s ease;
+                0.2s;
         }
 
 
@@ -252,20 +256,23 @@
                 translateY(-2px);
 
             box-shadow:
-                0 6px 16px
+                0 5px 14px
                 rgba(0,0,0,0.12);
+
+            border-color:
+                #b8bcc2;
         }
 
 
         /* =========================
-           SECTIONS
+           SECTION
         ========================== */
 
         .section {
 
-            margin-bottom: 50px;
+            margin-bottom: 55px;
 
-            scroll-margin-top: 80px;
+            scroll-margin-top: 70px;
         }
 
 
@@ -275,12 +282,12 @@
 
             align-items: center;
 
-            border-bottom:
-                3px solid #222;
+            margin-bottom: 20px;
 
             padding-bottom: 9px;
 
-            margin-bottom: 20px;
+            border-bottom:
+                3px solid #222;
         }
 
 
@@ -312,7 +319,7 @@
 
 
         /* =========================
-           CARD
+           NEWS CARD
         ========================== */
 
         .card {
@@ -331,8 +338,8 @@
                 rgba(0,0,0,0.06);
 
             transition:
-                transform 0.2s ease,
-                box-shadow 0.2s ease;
+                transform 0.2s,
+                box-shadow 0.2s;
         }
 
 
@@ -351,9 +358,9 @@
 
             display: block;
 
-            text-decoration: none;
-
             color: inherit;
+
+            text-decoration: none;
         }
 
 
@@ -361,17 +368,38 @@
            IMAGE
         ========================== */
 
-        .card-image {
+        .image-wrapper {
 
             width: 100%;
 
             height: 190px;
 
+            background:
+                #e5e7eb;
+
+            overflow: hidden;
+        }
+
+
+        .card-image {
+
+            width: 100%;
+
+            height: 100%;
+
             object-fit: cover;
 
             display: block;
 
-            background: #e5e7eb;
+            transition:
+                transform 0.3s;
+        }
+
+
+        .card:hover .card-image {
+
+            transform:
+                scale(1.04);
         }
 
 
@@ -387,14 +415,21 @@
 
             justify-content: center;
 
-            background: #e5e7eb;
+            background:
+                linear-gradient(
+                    135deg,
+                    #e5e7eb,
+                    #d1d5db
+                );
 
             font-size: 42px;
+
+            color: #6b7280;
         }
 
 
         /* =========================
-           CARD CONTENT
+           CONTENT
         ========================== */
 
         .card-content {
@@ -418,6 +453,8 @@
         .card-source {
 
             font-size: 13px;
+
+            font-weight: bold;
 
             color: #6b7280;
 
@@ -444,7 +481,7 @@
 
             text-align: center;
 
-            padding: 35px;
+            padding: 40px;
 
             color: #777;
         }
@@ -481,11 +518,11 @@
 
             padding: 30px 20px;
 
-            text-align: center;
-
             background: #111827;
 
             color: #9ca3af;
+
+            text-align: center;
 
             font-size: 13px;
         }
@@ -495,17 +532,25 @@
            TABLET
         ========================== */
 
-        @media (max-width: 900px) {
+        @media (max-width: 850px) {
 
             .banners {
 
-                grid-template-columns:
-                    repeat(
-                        2,
-                        1fr
+                flex-wrap: wrap;
+
+                max-width: 650px;
+            }
+
+
+            .banner {
+
+                flex:
+                    0 0
+                    calc(
+                        50% - 5px
                     );
 
-                max-width: 700px;
+                max-width: none;
             }
 
         }
@@ -516,6 +561,13 @@
         ========================== */
 
         @media (max-width: 600px) {
+
+            header {
+
+                padding:
+                    22px 15px;
+            }
+
 
             header h1 {
 
@@ -531,10 +583,10 @@
 
             .section-nav {
 
-                gap: 7px;
+                gap: 6px;
 
                 padding:
-                    10px;
+                    9px 8px;
             }
 
 
@@ -543,24 +595,33 @@
                 font-size: 13px;
 
                 padding:
-                    8px 12px;
+                    7px 11px;
             }
 
 
             .banners {
 
+                display: grid;
+
                 grid-template-columns:
-                    1fr;
+                    1fr 1fr;
 
-                max-width: 400px;
+                gap: 9px;
 
-                gap: 10px;
+                width: 100%;
             }
 
 
             .banner {
 
-                min-height: 55px;
+                min-height: 52px;
+
+                padding:
+                    9px;
+
+                font-size: 13px;
+
+                width: 100%;
             }
 
 
@@ -571,7 +632,7 @@
             }
 
 
-            .card-image,
+            .image-wrapper,
             .no-image {
 
                 height: 210px;
@@ -605,7 +666,7 @@
 
 
 <!-- =========================
-     SECTION NAVIGATION
+     SECTION MENU
 ========================= -->
 
 <nav class="section-nav">
@@ -614,11 +675,9 @@
         🇲🇰 MKD
     </a>
 
-
     <a href="#de-section">
         🇩🇪 DE
     </a>
-
 
     <a href="#starwars-section">
         ⭐ Star Wars News
@@ -630,158 +689,154 @@
 <main>
 
 
-    <!-- =========================
-         BANNERS
-    ========================== -->
+<!-- =========================
+     BANNERS
+========================= -->
 
-    <div class="banners">
-
-
-        <a
-            class="banner"
-            href="https://bloxgamesev7-prog.github.io/openzip/"
-            target="_blank"
-            rel="noopener noreferrer"
-        >
-            OpenZip
-        </a>
+<div class="banners">
 
 
-        <a
-            class="banner"
-            href="https://tendzi.blogspot.com/?m=1"
-            target="_blank"
-            rel="noopener noreferrer"
-        >
-            Tendzi Blog
-        </a>
+    <a
+        class="banner"
+        href="https://bloxgamesev7-prog.github.io/openzip/"
+        target="_blank"
+        rel="noopener noreferrer"
+    >
+        OpenZip
+    </a>
 
 
-        <a
-            class="banner"
-            href="https://forfun81.github.io/#top"
-            target="_blank"
-            rel="noopener noreferrer"
-        >
-            ForFun81
-        </a>
+    <a
+        class="banner"
+        href="https://tendzi.blogspot.com/?m=1"
+        target="_blank"
+        rel="noopener noreferrer"
+    >
+        Tendzi Blog
+    </a>
 
 
-        <a
-            class="banner"
-            href="https://techy.techygithub.workers.dev/"
-            target="_blank"
-            rel="noopener noreferrer"
-        >
-            Techy
-        </a>
+    <a
+        class="banner"
+        href="https://forfun81.github.io/#top"
+        target="_blank"
+        rel="noopener noreferrer"
+    >
+        ForFun81
+    </a>
 
+
+    <a
+        class="banner"
+        href="https://techy.techygithub.workers.dev/"
+        target="_blank"
+        rel="noopener noreferrer"
+    >
+        Techy
+    </a>
+
+
+</div>
+
+
+<!-- =========================
+     MKD
+========================== -->
+
+<section
+    class="section"
+    id="mkd-section"
+>
+
+    <div class="section-title">
+
+        <h2>
+            🇲🇰 MKD
+        </h2>
 
     </div>
 
 
-    <!-- =========================
-         MKD
-    ========================== -->
-
-    <section
-        class="section"
-        id="mkd-section"
+    <div
+        id="mkd"
+        class="news-grid"
     >
 
-        <div class="section-title">
-
-            <h2>
-                🇲🇰 MKD
-            </h2>
-
+        <div class="loading">
+            Се вчитуваат MKD вести...
         </div>
 
+    </div>
 
-        <div
-            id="mkd"
-            class="news-grid"
-        >
-
-            <div class="loading">
-                Се вчитуваат MKD вести...
-            </div>
-
-        </div>
-
-    </section>
+</section>
 
 
-    <!-- =========================
-         DE
-    ========================== -->
+<!-- =========================
+     DE
+========================== -->
 
-    <section
-        class="section"
-        id="de-section"
+<section
+    class="section"
+    id="de-section"
+>
+
+    <div class="section-title">
+
+        <h2>
+            🇩🇪 DE
+        </h2>
+
+    </div>
+
+
+    <div
+        id="de"
+        class="news-grid"
     >
 
-        <div class="section-title">
-
-            <h2>
-                🇩🇪 DE
-            </h2>
-
+        <div class="loading">
+            Се вчитуваат DE вести...
         </div>
 
+    </div>
 
-        <div
-            id="de"
-            class="news-grid"
-        >
-
-            <div class="loading">
-                Се вчитуваат DE вести...
-            </div>
-
-        </div>
-
-    </section>
+</section>
 
 
-    <!-- =========================
-         STAR WARS
-    ========================== -->
+<!-- =========================
+     STAR WARS
+========================== -->
 
-    <section
-        class="section"
-        id="starwars-section"
+<section
+    class="section"
+    id="starwars-section"
+>
+
+    <div class="section-title">
+
+        <h2>
+            ⭐ Star Wars News
+        </h2>
+
+    </div>
+
+
+    <div
+        id="starwars"
+        class="news-grid"
     >
 
-        <div class="section-title">
-
-            <h2>
-                ⭐ Star Wars News
-            </h2>
-
+        <div class="loading">
+            Се вчитуваат Star Wars вести...
         </div>
 
+    </div>
 
-        <div
-            id="starwars"
-            class="news-grid"
-        >
-
-            <div class="loading">
-                Се вчитуваат Star Wars вести...
-            </div>
-
-        </div>
-
-    </section>
+</section>
 
 
 </main>
 
-
-<!-- =========================
-     FOOTER
-========================= -->
 
 <footer>
 
@@ -800,10 +855,6 @@
 const feeds = {
 
 
-    /* =========================
-       MKD
-    ========================== */
-
     mkd: [
 
         {
@@ -821,14 +872,10 @@ const feeds = {
     ],
 
 
-    /* =========================
-       DE
-    ========================== */
-
     de: [
 
         {
-            name: "centron",
+            name: "Centron",
             url:
                 "https://www.centron.de/feed/"
         },
@@ -841,10 +888,6 @@ const feeds = {
 
     ],
 
-
-    /* =========================
-       STAR WARS
-    ========================== */
 
     starwars: [
 
@@ -892,10 +935,8 @@ const RSS_API =
 function escapeHTML(text) {
 
     if (!text) {
-
         return "";
     }
-
 
     return String(text)
 
@@ -928,152 +969,232 @@ function escapeHTML(text) {
 
 
 /* =====================================================
-   FIND IMAGE
+   EXTRACT FIRST IMAGE FROM HTML
+===================================================== */
+
+function extractImageFromHTML(
+    html
+) {
+
+    if (!html) {
+        return "";
+    }
+
+
+    const parser =
+        new DOMParser();
+
+
+    const doc =
+        parser.parseFromString(
+            html,
+            "text/html"
+        );
+
+
+    const img =
+        doc.querySelector(
+            "img"
+        );
+
+
+    if (!img) {
+        return "";
+    }
+
+
+    return (
+        img.getAttribute("src") ||
+        img.getAttribute("data-src") ||
+        img.getAttribute("data-lazy-src") ||
+        ""
+    );
+
+}
+
+
+/* =====================================================
+   GET IMAGE
 ===================================================== */
 
 function getImage(item) {
 
 
-    /* 1. thumbnail */
+    /* thumbnail */
 
     if (
-        item.thumbnail &&
+        typeof item.thumbnail === "string" &&
         item.thumbnail.trim()
     ) {
 
-        return item.thumbnail;
+        return item.thumbnail.trim();
+
     }
 
 
-    /* 2. enclosure */
+    /* enclosure */
 
     if (
-        item.enclosure &&
-        item.enclosure.link
+        item.enclosure
     ) {
-
-        const type =
-            item.enclosure.type ||
-            "";
 
 
         if (
-            type.startsWith(
-                "image/"
-            )
+            typeof item.enclosure === "object" &&
+            item.enclosure.link
         ) {
 
-            return item.enclosure.link;
+            const type =
+                item.enclosure.type ||
+                "";
+
+
+            if (
+                !type ||
+                type.startsWith("image/")
+            ) {
+
+                return item.enclosure.link;
+
+            }
 
         }
 
-    }
 
-
-    /* 3. media content */
-
-    if (
-        item.media &&
-        item.media.content
-    ) {
-
-        const media =
+        if (
             Array.isArray(
-                item.media.content
+                item.enclosure
             )
-
-            ?
-
-            item.media.content[0]
-
-            :
-
-            item.media.content;
-
-
-        if (
-            media &&
-            media.url
         ) {
 
-            return media.url;
+
+            for (
+                const enclosure
+                of item.enclosure
+            ) {
+
+                if (
+                    enclosure &&
+                    enclosure.link
+                ) {
+
+                    const type =
+                        enclosure.type ||
+                        "";
+
+
+                    if (
+                        !type ||
+                        type.startsWith(
+                            "image/"
+                        )
+                    ) {
+
+                        return enclosure.link;
+
+                    }
+
+                }
+
+            }
 
         }
 
     }
 
 
-    /* 4. media thumbnail */
+    /* media */
 
     if (
-        item.media &&
-        item.media.thumbnail
+        item.media
     ) {
 
-        const thumbnail =
-            Array.isArray(
-                item.media.thumbnail
-            )
 
-            ?
+        const mediaValues = [
 
-            item.media.thumbnail[0]
+            item.media.content,
 
-            :
+            item.media.thumbnail
 
-            item.media.thumbnail;
+        ];
 
 
-        if (
-            thumbnail &&
-            thumbnail.url
+        for (
+            const value
+            of mediaValues
         ) {
 
-            return thumbnail.url;
+
+            if (
+                Array.isArray(value)
+            ) {
+
+
+                for (
+                    const media
+                    of value
+                ) {
+
+
+                    if (
+                        media &&
+                        media.url
+                    ) {
+
+                        return media.url;
+
+                    }
+
+                }
+
+            }
+
+
+            if (
+                value &&
+                typeof value === "object" &&
+                value.url
+            ) {
+
+                return value.url;
+
+            }
 
         }
 
     }
 
 
-    /* 5. description image */
+    /* description */
+
+    const descriptionImage =
+        extractImageFromHTML(
+            item.description
+        );
+
 
     if (
-        item.description
+        descriptionImage
     ) {
 
-        const match =
-            item.description.match(
-                /<img[^>]+(?:src|data-src)=["']([^"']+)["']/i
-            );
-
-
-        if (match) {
-
-            return match[1];
-
-        }
+        return descriptionImage;
 
     }
 
 
-    /* 6. content image */
+    /* content */
+
+    const contentImage =
+        extractImageFromHTML(
+            item.content
+        );
+
 
     if (
-        item.content
+        contentImage
     ) {
 
-        const match =
-            item.content.match(
-                /<img[^>]+(?:src|data-src)=["']([^"']+)["']/i
-            );
-
-
-        if (match) {
-
-            return match[1];
-
-        }
+        return contentImage;
 
     }
 
@@ -1084,24 +1205,20 @@ function getImage(item) {
 
 
 /* =====================================================
-   DATE
+   FORMAT DATE
 ===================================================== */
 
 function formatDate(
-    dateString
+    value
 ) {
 
-    if (!dateString) {
-
+    if (!value) {
         return "";
-
     }
 
 
     const date =
-        new Date(
-            dateString
-        );
+        new Date(value);
 
 
     if (
@@ -1111,7 +1228,6 @@ function formatDate(
     ) {
 
         return "";
-
     }
 
 
@@ -1146,7 +1262,7 @@ function createCard(
         );
 
 
-    const url =
+    const link =
         item.link ||
         "#";
 
@@ -1168,24 +1284,31 @@ function createCard(
 
     if (image) {
 
+
         imageHTML = `
 
-            <img
-                class="card-image"
-                src="${escapeHTML(image)}"
-                alt="${title}"
-                loading="lazy"
-                onerror="
-                    this.outerHTML=
-                    '<div class=&quot;no-image&quot;>📰</div>'
-                "
-            >
+            <div class="image-wrapper">
+
+                <img
+                    class="card-image"
+                    src="${escapeHTML(image)}"
+                    alt="${title}"
+                    loading="lazy"
+                    referrerpolicy="no-referrer"
+                    onerror="
+                        this.parentElement.innerHTML =
+                        '<div class=&quot;no-image&quot;>📰</div>';
+                    "
+                >
+
+            </div>
 
         `;
 
     }
 
     else {
+
 
         imageHTML = `
 
@@ -1203,7 +1326,7 @@ function createCard(
         <article class="card">
 
             <a
-                href="${escapeHTML(url)}"
+                href="${escapeHTML(link)}"
                 target="_blank"
                 rel="noopener noreferrer"
             >
@@ -1237,9 +1360,7 @@ function createCard(
 
                         `
                         <div class="card-date">
-
                             ${date}
-
                         </div>
                         `
 
@@ -1261,7 +1382,7 @@ function createCard(
 
 
 /* =====================================================
-   LOAD RSS FEED
+   LOAD RSS
 ===================================================== */
 
 async function loadFeed(
@@ -1269,12 +1390,16 @@ async function loadFeed(
 ) {
 
 
+    const url =
+        RSS_API +
+        encodeURIComponent(
+            feed.url
+        );
+
+
     const response =
         await fetch(
-            RSS_API +
-            encodeURIComponent(
-                feed.url
-            )
+            url
         );
 
 
@@ -1283,7 +1408,8 @@ async function loadFeed(
     ) {
 
         throw new Error(
-            "RSS API error"
+            "HTTP " +
+            response.status
         );
 
     }
@@ -1299,7 +1425,7 @@ async function loadFeed(
 
         throw new Error(
             data.message ||
-            "RSS feed error"
+            "RSS error"
         );
 
     }
@@ -1329,106 +1455,107 @@ async function loadSection(
     container.innerHTML = `
 
         <div class="loading">
-
             Се вчитуваат вести...
-
         </div>
 
     `;
 
 
+    const results =
+        await Promise.allSettled(
+
+            feedList.map(
+                feed =>
+                    loadFeed(
+                        feed
+                    )
+                    .then(
+                        items => ({
+                            feed,
+                            items
+                        })
+                    )
+            )
+
+        );
+
+
     let allItems = [];
 
 
-    /* =========================
-       LOAD ALL FEEDS
-    ========================== */
-
     for (
-        const feed of feedList
+        const result
+        of results
     ) {
 
 
-        try {
+        if (
+            result.status !==
+            "fulfilled"
+        ) {
 
-
-            const items =
-                await loadFeed(
-                    feed
-                );
-
-
-            items.forEach(
-                item => {
-
-
-                    allItems.push({
-
-                        ...item,
-
-                        sourceName:
-                            feed.name
-
-                    });
-
-
-                }
+            console.error(
+                result.reason
             );
 
+            continue;
 
         }
 
 
-        catch (error) {
+        const {
+            feed,
+            items
+        } =
+            result.value;
 
 
-            console.error(
+        for (
+            const item
+            of items
+        ) {
 
-                feed.name,
 
-                error
+            allItems.push({
 
-            );
+                ...item,
 
+                sourceName:
+                    feed.name
+
+            });
 
         }
 
     }
 
 
-    /* =========================
-       SORT BY DATE
-    ========================== */
+    /* SORT NEWEST FIRST */
 
     allItems.sort(
 
         (a, b) => {
 
-
-            const dateA =
+            const aDate =
                 new Date(
-                    a.pubDate ||
-                    0
+                    a.pubDate || 0
                 ).getTime();
 
 
-            const dateB =
+            const bDate =
                 new Date(
-                    b.pubDate ||
-                    0
+                    b.pubDate || 0
                 ).getTime();
 
 
-            return dateB - dateA;
+            return bDate - aDate;
 
         }
 
     );
 
 
-    /* =========================
-       MAX 30 ARTICLES
-    ========================== */
+    /* SHOW 30 */
 
     allItems =
         allItems.slice(
@@ -1437,9 +1564,7 @@ async function loadSection(
         );
 
 
-    /* =========================
-       DISPLAY
-    ========================== */
+    /* EMPTY */
 
     if (
         allItems.length === 0
@@ -1462,22 +1587,18 @@ async function loadSection(
     }
 
 
+    /* DISPLAY */
+
     container.innerHTML =
 
         allItems
 
             .map(
-
                 item =>
-
                     createCard(
-
                         item,
-
                         item.sourceName
-
                     )
-
             )
 
             .join("");
