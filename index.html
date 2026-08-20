@@ -3,7 +3,10 @@
 
 <head>
 
-    <!-- Google Analytics -->
+    <!-- =========================
+         GOOGLE ANALYTICS
+    ========================== -->
+
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-5RPGXB9L5W"></script>
 
     <script>
@@ -17,9 +20,13 @@
         gtag('config', 'G-5RPGXB9L5W');
     </script>
 
+
     <meta charset="UTF-8">
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
 
     <title>Yane's Aggregator</title>
 
@@ -27,6 +34,7 @@
         name="description"
         content="Yane's Aggregator - MKD, DE и Star Wars News"
     >
+
 
     <style>
 
@@ -36,55 +44,165 @@
             padding: 0;
         }
 
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+
         body {
-            font-family: Arial, Helvetica, sans-serif;
+            font-family:
+                Arial,
+                Helvetica,
+                sans-serif;
+
             background: #f2f3f5;
+
             color: #222;
         }
 
-        /* HEADER */
+
+        /* =========================
+           HEADER
+        ========================== */
 
         header {
-            background: linear-gradient(
-                135deg,
-                #111827,
-                #1f2937
-            );
+
+            background:
+                linear-gradient(
+                    135deg,
+                    #111827,
+                    #1f2937
+                );
 
             color: white;
-            padding: 24px 20px;
+
+            padding: 25px 20px;
+
             text-align: center;
 
             box-shadow:
-                0 2px 8px rgba(0,0,0,0.15);
+                0 2px 8px
+                rgba(0,0,0,0.15);
         }
 
+
         header h1 {
+
             font-size: 30px;
+
             letter-spacing: 1px;
         }
 
+
         header p {
+
             margin-top: 5px;
+
             color: #cbd5e1;
+
             font-size: 14px;
         }
 
-        /* MAIN */
+
+        /* =========================
+           SECTION NAVIGATION
+        ========================== */
+
+        .section-nav {
+
+            display: flex;
+
+            justify-content: center;
+
+            align-items: center;
+
+            gap: 12px;
+
+            flex-wrap: wrap;
+
+            padding: 15px 15px;
+
+            background: #e5e7eb;
+
+            border-bottom:
+                1px solid #d1d5db;
+
+            position: sticky;
+
+            top: 0;
+
+            z-index: 100;
+        }
+
+
+        .section-nav a {
+
+            background: white;
+
+            color: #222;
+
+            text-decoration: none;
+
+            font-weight: bold;
+
+            font-size: 14px;
+
+            padding:
+                9px 17px;
+
+            border-radius: 20px;
+
+            border:
+                1px solid #d1d5db;
+
+            transition:
+                all 0.2s ease;
+        }
+
+
+        .section-nav a:hover {
+
+            background: #111827;
+
+            color: white;
+
+            transform:
+                translateY(-2px);
+
+            box-shadow:
+                0 4px 10px
+                rgba(0,0,0,0.15);
+        }
+
+
+        /* =========================
+           MAIN
+        ========================== */
 
         main {
+
             width: 94%;
+
             max-width: 1400px;
+
             margin: 25px auto;
         }
 
-        /* BANNERS */
+
+        /* =========================
+           BANNERS
+        ========================== */
 
         .banners {
+
             display: grid;
 
             grid-template-columns:
-                repeat(4, minmax(0, 1fr));
+                repeat(
+                    4,
+                    minmax(0, 1fr)
+                );
 
             gap: 12px;
 
@@ -94,19 +212,24 @@
                 0 auto 40px auto;
         }
 
+
         .banner {
+
             display: flex;
 
             align-items: center;
+
             justify-content: center;
 
             min-height: 62px;
 
-            padding: 12px 15px;
+            padding:
+                12px 15px;
 
             background: white;
 
-            border: 1px solid #ddd;
+            border:
+                1px solid #ddd;
 
             border-radius: 10px;
 
@@ -118,24 +241,38 @@
 
             font-weight: bold;
 
-            transition: all 0.2s ease;
+            transition:
+                all 0.2s ease;
         }
+
 
         .banner:hover {
-            transform: translateY(-2px);
+
+            transform:
+                translateY(-2px);
 
             box-shadow:
-                0 6px 16px rgba(0,0,0,0.12);
+                0 6px 16px
+                rgba(0,0,0,0.12);
         }
 
-        /* SECTIONS */
+
+        /* =========================
+           SECTIONS
+        ========================== */
 
         .section {
-            margin-bottom: 45px;
+
+            margin-bottom: 50px;
+
+            scroll-margin-top: 80px;
         }
 
+
         .section-title {
+
             display: flex;
+
             align-items: center;
 
             border-bottom:
@@ -146,27 +283,40 @@
             margin-bottom: 20px;
         }
 
+
         .section-title h2 {
+
             font-size: 25px;
         }
 
-        /* NEWS GRID */
+
+        /* =========================
+           NEWS GRID
+        ========================== */
 
         .news-grid {
+
             display: grid;
 
             grid-template-columns:
                 repeat(
                     auto-fill,
-                    minmax(280px, 1fr)
+                    minmax(
+                        280px,
+                        1fr
+                    )
                 );
 
             gap: 20px;
         }
 
-        /* CARD */
+
+        /* =========================
+           CARD
+        ========================== */
 
         .card {
+
             background: white;
 
             border:
@@ -177,21 +327,28 @@
             overflow: hidden;
 
             box-shadow:
-                0 2px 8px rgba(0,0,0,0.06);
+                0 2px 8px
+                rgba(0,0,0,0.06);
 
             transition:
                 transform 0.2s ease,
                 box-shadow 0.2s ease;
         }
 
+
         .card:hover {
-            transform: translateY(-4px);
+
+            transform:
+                translateY(-4px);
 
             box-shadow:
-                0 8px 20px rgba(0,0,0,0.13);
+                0 8px 20px
+                rgba(0,0,0,0.13);
         }
 
+
         .card a {
+
             display: block;
 
             text-decoration: none;
@@ -199,10 +356,15 @@
             color: inherit;
         }
 
-        /* IMAGE */
+
+        /* =========================
+           IMAGE
+        ========================== */
 
         .card-image {
+
             width: 100%;
+
             height: 190px;
 
             object-fit: cover;
@@ -212,13 +374,17 @@
             background: #e5e7eb;
         }
 
+
         .no-image {
+
             width: 100%;
+
             height: 190px;
 
             display: flex;
 
             align-items: center;
+
             justify-content: center;
 
             background: #e5e7eb;
@@ -226,13 +392,19 @@
             font-size: 42px;
         }
 
-        /* CONTENT */
+
+        /* =========================
+           CARD CONTENT
+        ========================== */
 
         .card-content {
+
             padding: 15px;
         }
 
+
         .card-title {
+
             font-size: 17px;
 
             font-weight: bold;
@@ -242,7 +414,9 @@
             margin-bottom: 9px;
         }
 
+
         .card-source {
+
             font-size: 13px;
 
             color: #6b7280;
@@ -250,16 +424,23 @@
             margin-bottom: 4px;
         }
 
+
         .card-date {
+
             font-size: 12px;
 
             color: #9ca3af;
         }
 
-        /* LOADING */
+
+        /* =========================
+           LOADING
+        ========================== */
 
         .loading {
-            grid-column: 1 / -1;
+
+            grid-column:
+                1 / -1;
 
             text-align: center;
 
@@ -268,10 +449,15 @@
             color: #777;
         }
 
-        /* ERROR */
+
+        /* =========================
+           ERROR
+        ========================== */
 
         .error {
-            grid-column: 1 / -1;
+
+            grid-column:
+                1 / -1;
 
             padding: 20px;
 
@@ -284,9 +470,13 @@
             text-align: center;
         }
 
-        /* FOOTER */
+
+        /* =========================
+           FOOTER
+        ========================== */
 
         footer {
+
             margin-top: 40px;
 
             padding: 30px 20px;
@@ -300,50 +490,93 @@
             font-size: 13px;
         }
 
-        /* TABLET */
+
+        /* =========================
+           TABLET
+        ========================== */
 
         @media (max-width: 900px) {
 
             .banners {
+
                 grid-template-columns:
-                    repeat(2, 1fr);
+                    repeat(
+                        2,
+                        1fr
+                    );
 
                 max-width: 700px;
             }
+
         }
 
-        /* MOBILE */
+
+        /* =========================
+           MOBILE
+        ========================== */
 
         @media (max-width: 600px) {
 
             header h1 {
+
                 font-size: 25px;
             }
 
+
             main {
+
                 width: 92%;
             }
 
+
+            .section-nav {
+
+                gap: 7px;
+
+                padding:
+                    10px;
+            }
+
+
+            .section-nav a {
+
+                font-size: 13px;
+
+                padding:
+                    8px 12px;
+            }
+
+
             .banners {
-                grid-template-columns: 1fr;
+
+                grid-template-columns:
+                    1fr;
 
                 max-width: 400px;
 
                 gap: 10px;
             }
 
+
             .banner {
+
                 min-height: 55px;
             }
 
+
             .news-grid {
-                grid-template-columns: 1fr;
+
+                grid-template-columns:
+                    1fr;
             }
+
 
             .card-image,
             .no-image {
+
                 height: 210px;
             }
+
         }
 
     </style>
@@ -354,9 +587,15 @@
 <body>
 
 
+<!-- =========================
+     HEADER
+========================= -->
+
 <header>
 
-    <h1>Yane's Aggregator</h1>
+    <h1>
+        Yane's Aggregator
+    </h1>
 
     <p>
         MKD • DE • Star Wars News
@@ -365,12 +604,38 @@
 </header>
 
 
+<!-- =========================
+     SECTION NAVIGATION
+========================= -->
+
+<nav class="section-nav">
+
+    <a href="#mkd-section">
+        🇲🇰 MKD
+    </a>
+
+
+    <a href="#de-section">
+        🇩🇪 DE
+    </a>
+
+
+    <a href="#starwars-section">
+        ⭐ Star Wars News
+    </a>
+
+</nav>
+
+
 <main>
 
 
-    <!-- BANNERS -->
+    <!-- =========================
+         BANNERS
+    ========================== -->
 
     <div class="banners">
+
 
         <a
             class="banner"
@@ -381,6 +646,7 @@
             OpenZip
         </a>
 
+
         <a
             class="banner"
             href="https://tendzi.blogspot.com/?m=1"
@@ -389,6 +655,7 @@
         >
             Tendzi Blog
         </a>
+
 
         <a
             class="banner"
@@ -399,6 +666,7 @@
             ForFun81
         </a>
 
+
         <a
             class="banner"
             href="https://techy.techygithub.workers.dev/"
@@ -408,12 +676,18 @@
             Techy
         </a>
 
+
     </div>
 
 
-    <!-- MKD -->
+    <!-- =========================
+         MKD
+    ========================== -->
 
-    <section class="section">
+    <section
+        class="section"
+        id="mkd-section"
+    >
 
         <div class="section-title">
 
@@ -422,6 +696,7 @@
             </h2>
 
         </div>
+
 
         <div
             id="mkd"
@@ -437,9 +712,14 @@
     </section>
 
 
-    <!-- DE -->
+    <!-- =========================
+         DE
+    ========================== -->
 
-    <section class="section">
+    <section
+        class="section"
+        id="de-section"
+    >
 
         <div class="section-title">
 
@@ -448,6 +728,7 @@
             </h2>
 
         </div>
+
 
         <div
             id="de"
@@ -463,9 +744,14 @@
     </section>
 
 
-    <!-- STAR WARS -->
+    <!-- =========================
+         STAR WARS
+    ========================== -->
 
-    <section class="section">
+    <section
+        class="section"
+        id="starwars-section"
+    >
 
         <div class="section-title">
 
@@ -474,6 +760,7 @@
             </h2>
 
         </div>
+
 
         <div
             id="starwars"
@@ -492,6 +779,10 @@
 </main>
 
 
+<!-- =========================
+     FOOTER
+========================= -->
+
 <footer>
 
     © 2026 Yane's Aggregator
@@ -508,51 +799,77 @@
 
 const feeds = {
 
+
+    /* =========================
+       MKD
+    ========================== */
+
     mkd: [
 
         {
             name: "SmartPortal",
-            url: "https://smartportal.mk/feed/"
+            url:
+                "https://smartportal.mk/feed/"
         },
 
         {
             name: "TIME.mk",
-            url: "https://time.mk/rss/all"
+            url:
+                "https://time.mk/rss/all"
         }
 
     ],
 
+
+    /* =========================
+       DE
+    ========================== */
 
     de: [
 
         {
             name: "centron",
-            url: "https://www.centron.de/feed/"
+            url:
+                "https://www.centron.de/feed/"
         },
 
         {
             name: "Tarnkappe",
-            url: "https://tarnkappe.info/feed"
+            url:
+                "https://tarnkappe.info/feed"
         }
 
     ],
 
 
+    /* =========================
+       STAR WARS
+    ========================== */
+
     starwars: [
 
         {
-            name: "Star Wars News Net",
-            url: "https://www.starwarsnewsnet.com/feed"
+            name:
+                "Star Wars News Net",
+
+            url:
+                "https://www.starwarsnewsnet.com/feed"
         },
 
         {
-            name: "Star Wars Union",
-            url: "https://starwars-union.de/feed/"
+            name:
+                "Star Wars Union",
+
+            url:
+                "https://starwars-union.de/feed/"
         },
 
         {
-            name: "Jedi News",
-            url: "https://www.jedinews.com/feed/"
+            name:
+                "Jedi News",
+
+            url:
+                "https://www.jedinews.com/feed/"
         }
 
     ]
@@ -575,15 +892,38 @@ const RSS_API =
 function escapeHTML(text) {
 
     if (!text) {
+
         return "";
     }
 
+
     return String(text)
-        .replace(/&/g, "&amp;")
-        .replace(/</g, "&lt;")
-        .replace(/>/g, "&gt;")
-        .replace(/"/g, "&quot;")
-        .replace(/'/g, "&#039;");
+
+        .replace(
+            /&/g,
+            "&amp;"
+        )
+
+        .replace(
+            /</g,
+            "&lt;"
+        )
+
+        .replace(
+            />/g,
+            "&gt;"
+        )
+
+        .replace(
+            /"/g,
+            "&quot;"
+        )
+
+        .replace(
+            /'/g,
+            "&#039;"
+        );
+
 }
 
 
@@ -593,12 +933,14 @@ function escapeHTML(text) {
 
 function getImage(item) {
 
-    /* 1. RSS2JSON thumbnail */
+
+    /* 1. thumbnail */
 
     if (
         item.thumbnail &&
         item.thumbnail.trim()
     ) {
+
         return item.thumbnail;
     }
 
@@ -611,18 +953,24 @@ function getImage(item) {
     ) {
 
         const type =
-            item.enclosure.type || "";
+            item.enclosure.type ||
+            "";
+
 
         if (
-            type.startsWith("image/")
+            type.startsWith(
+                "image/"
+            )
         ) {
+
             return item.enclosure.link;
+
         }
 
     }
 
 
-    /* 3. media:content */
+    /* 3. media content */
 
     if (
         item.media &&
@@ -630,21 +978,32 @@ function getImage(item) {
     ) {
 
         const media =
-            Array.isArray(item.media.content)
-            ? item.media.content[0]
-            : item.media.content;
+            Array.isArray(
+                item.media.content
+            )
+
+            ?
+
+            item.media.content[0]
+
+            :
+
+            item.media.content;
+
 
         if (
             media &&
             media.url
         ) {
+
             return media.url;
+
         }
 
     }
 
 
-    /* 4. media:thumbnail */
+    /* 4. media thumbnail */
 
     if (
         item.media &&
@@ -655,52 +1014,72 @@ function getImage(item) {
             Array.isArray(
                 item.media.thumbnail
             )
-            ? item.media.thumbnail[0]
-            : item.media.thumbnail;
+
+            ?
+
+            item.media.thumbnail[0]
+
+            :
+
+            item.media.thumbnail;
+
 
         if (
             thumbnail &&
             thumbnail.url
         ) {
+
             return thumbnail.url;
+
         }
 
     }
 
 
-    /* 5. description */
+    /* 5. description image */
 
-    if (item.description) {
+    if (
+        item.description
+    ) {
 
         const match =
             item.description.match(
                 /<img[^>]+(?:src|data-src)=["']([^"']+)["']/i
             );
 
+
         if (match) {
+
             return match[1];
+
         }
 
     }
 
 
-    /* 6. content */
+    /* 6. content image */
 
-    if (item.content) {
+    if (
+        item.content
+    ) {
 
         const match =
             item.content.match(
                 /<img[^>]+(?:src|data-src)=["']([^"']+)["']/i
             );
 
+
         if (match) {
+
             return match[1];
+
         }
 
     }
 
 
     return "";
+
 }
 
 
@@ -708,37 +1087,57 @@ function getImage(item) {
    DATE
 ===================================================== */
 
-function formatDate(dateString) {
+function formatDate(
+    dateString
+) {
 
     if (!dateString) {
+
         return "";
+
     }
+
 
     const date =
-        new Date(dateString);
+        new Date(
+            dateString
+        );
 
-    if (isNaN(date.getTime())) {
+
+    if (
+        isNaN(
+            date.getTime()
+        )
+    ) {
+
         return "";
+
     }
+
 
     return date.toLocaleString(
         "de-DE",
         {
-            dateStyle: "short",
-            timeStyle: "short"
+            dateStyle:
+                "short",
+
+            timeStyle:
+                "short"
         }
     );
+
 }
 
 
 /* =====================================================
-   CARD
+   CREATE CARD
 ===================================================== */
 
 function createCard(
     item,
     sourceName
 ) {
+
 
     const title =
         escapeHTML(
@@ -748,11 +1147,14 @@ function createCard(
 
 
     const url =
-        item.link || "#";
+        item.link ||
+        "#";
 
 
     const image =
-        getImage(item);
+        getImage(
+            item
+        );
 
 
     const date =
@@ -773,7 +1175,10 @@ function createCard(
                 src="${escapeHTML(image)}"
                 alt="${title}"
                 loading="lazy"
-                onerror="this.outerHTML='<div class=&quot;no-image&quot;>📰</div>'"
+                onerror="
+                    this.outerHTML=
+                    '<div class=&quot;no-image&quot;>📰</div>'
+                "
             >
 
         `;
@@ -805,27 +1210,44 @@ function createCard(
 
                 ${imageHTML}
 
+
                 <div class="card-content">
 
+
                     <div class="card-title">
+
                         ${title}
+
                     </div>
 
+
                     <div class="card-source">
-                        ${escapeHTML(sourceName)}
+
+                        ${escapeHTML(
+                            sourceName
+                        )}
+
                     </div>
+
 
                     ${
                         date
+
                         ?
+
                         `
                         <div class="card-date">
+
                             ${date}
+
                         </div>
                         `
+
                         :
+
                         ""
                     }
+
 
                 </div>
 
@@ -834,14 +1256,18 @@ function createCard(
         </article>
 
     `;
+
 }
 
 
 /* =====================================================
-   LOAD FEED
+   LOAD RSS FEED
 ===================================================== */
 
-async function loadFeed(feed) {
+async function loadFeed(
+    feed
+) {
+
 
     const response =
         await fetch(
@@ -852,7 +1278,9 @@ async function loadFeed(feed) {
         );
 
 
-    if (!response.ok) {
+    if (
+        !response.ok
+    ) {
 
         throw new Error(
             "RSS API error"
@@ -891,6 +1319,7 @@ async function loadSection(
     feedList
 ) {
 
+
     const container =
         document.getElementById(
             elementId
@@ -900,7 +1329,9 @@ async function loadSection(
     container.innerHTML = `
 
         <div class="loading">
+
             Се вчитуваат вести...
+
         </div>
 
     `;
@@ -909,11 +1340,17 @@ async function loadSection(
     let allItems = [];
 
 
+    /* =========================
+       LOAD ALL FEEDS
+    ========================== */
+
     for (
         const feed of feedList
     ) {
 
+
         try {
+
 
             const items =
                 await loadFeed(
@@ -924,6 +1361,7 @@ async function loadSection(
             items.forEach(
                 item => {
 
+
                     allItems.push({
 
                         ...item,
@@ -933,47 +1371,64 @@ async function loadSection(
 
                     });
 
+
                 }
             );
 
+
         }
+
 
         catch (error) {
 
+
             console.error(
+
                 feed.name,
+
                 error
+
             );
+
 
         }
 
     }
 
 
-    /* SORT */
+    /* =========================
+       SORT BY DATE
+    ========================== */
 
     allItems.sort(
+
         (a, b) => {
+
 
             const dateA =
                 new Date(
-                    a.pubDate || 0
+                    a.pubDate ||
+                    0
                 ).getTime();
 
 
             const dateB =
                 new Date(
-                    b.pubDate || 0
+                    b.pubDate ||
+                    0
                 ).getTime();
 
 
             return dateB - dateA;
 
         }
+
     );
 
 
-    /* LIMIT */
+    /* =========================
+       MAX 30 ARTICLES
+    ========================== */
 
     allItems =
         allItems.slice(
@@ -982,33 +1437,49 @@ async function loadSection(
         );
 
 
-    /* DISPLAY */
+    /* =========================
+       DISPLAY
+    ========================== */
 
     if (
         allItems.length === 0
     ) {
 
+
         container.innerHTML = `
 
             <div class="error">
+
                 Нема достапни вести.
+
             </div>
 
         `;
 
+
         return;
+
     }
 
 
     container.innerHTML =
+
         allItems
+
             .map(
+
                 item =>
+
                     createCard(
+
                         item,
+
                         item.sourceName
+
                     )
+
             )
+
             .join("");
 
 }
@@ -1034,6 +1505,7 @@ loadSection(
     "starwars",
     feeds.starwars
 );
+
 
 </script>
 
