@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="mk">
+<html lang="en">
 
 <head>
 
@@ -11,12 +11,12 @@
 
 <meta
     name="description"
-    content="Yane's Aggregator - MKD, DE и Star Wars News"
+    content="Yane's Aggregator - MKD, DE and Star Wars News"
 >
 
-<!-- =========================
+<!-- =====================================================
      GOOGLE ANALYTICS
-========================= -->
+===================================================== -->
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5RPGXB9L5W"></script>
 
@@ -47,11 +47,9 @@ gtag('config', 'G-5RPGXB9L5W');
     padding: 0;
 }
 
-
 html {
     scroll-behavior: smooth;
 }
-
 
 body {
 
@@ -88,13 +86,11 @@ header {
 
 }
 
-
 header h1 {
 
     font-size: 32px;
 
 }
-
 
 header p {
 
@@ -142,7 +138,6 @@ header p {
 
 }
 
-
 .section-nav a {
 
     text-decoration: none;
@@ -166,7 +161,6 @@ header p {
     transition: 0.2s;
 
 }
-
 
 .section-nav a:hover {
 
@@ -297,7 +291,6 @@ main {
 
 }
 
-
 .banner:hover {
 
     transform:
@@ -309,7 +302,6 @@ main {
 
 }
 
-
 .web-banner {
 
     border-top:
@@ -317,14 +309,12 @@ main {
 
 }
 
-
 .youtube-banner {
 
     border-top:
         4px solid #ff0000;
 
 }
-
 
 .banner-icon {
 
@@ -347,7 +337,6 @@ main {
 
 }
 
-
 .section-title {
 
     margin-bottom: 20px;
@@ -358,7 +347,6 @@ main {
         3px solid #222;
 
 }
-
 
 .section-title h2 {
 
@@ -414,7 +402,6 @@ main {
 
 }
 
-
 .card:hover {
 
     transform:
@@ -425,7 +412,6 @@ main {
         rgba(0,0,0,0.13);
 
 }
-
 
 .card a {
 
@@ -454,7 +440,6 @@ main {
 
 }
 
-
 .card-image {
 
     width: 100%;
@@ -469,7 +454,6 @@ main {
         transform 0.3s;
 
 }
-
 
 .card:hover .card-image {
 
@@ -489,7 +473,6 @@ main {
 
 }
 
-
 .card-title {
 
     font-size: 17px;
@@ -502,7 +485,6 @@ main {
 
 }
 
-
 .card-source {
 
     font-size: 13px;
@@ -514,7 +496,6 @@ main {
     margin-bottom: 4px;
 
 }
-
 
 .card-date {
 
@@ -599,7 +580,6 @@ main {
 
 }
 
-
 .back-to-top:hover {
 
     background: #374151;
@@ -615,8 +595,6 @@ main {
 ===================================================== */
 
 footer {
-
-    margin-top: 0;
 
     padding:
         30px 20px;
@@ -645,7 +623,6 @@ footer {
 
     }
 
-
     .youtube-banners {
 
         grid-template-columns:
@@ -668,13 +645,11 @@ footer {
 
     }
 
-
     main {
 
         width: 92%;
 
     }
-
 
     .web-banners {
 
@@ -685,7 +660,6 @@ footer {
 
     }
 
-
     .youtube-banners {
 
         grid-template-columns:
@@ -694,7 +668,6 @@ footer {
         gap: 9px;
 
     }
-
 
     .banner {
 
@@ -706,7 +679,6 @@ footer {
 
     }
 
-
     .banner-icon {
 
         font-size: 18px;
@@ -715,14 +687,12 @@ footer {
 
     }
 
-
     .news-grid {
 
         grid-template-columns:
             1fr;
 
     }
-
 
     .image-wrapper {
 
@@ -947,7 +917,7 @@ EV7 BloxGame
 >
 
 <div class="loading">
-Се вчитуваат MKD вести...
+Loading MKD news...
 </div>
 
 </div>
@@ -979,7 +949,7 @@ EV7 BloxGame
 >
 
 <div class="loading">
-Се вчитуваат DE вести...
+Loading DE news...
 </div>
 
 </div>
@@ -1011,7 +981,7 @@ EV7 BloxGame
 >
 
 <div class="loading">
-Се вчитуваат Star Wars вести...
+Loading Star Wars news...
 </div>
 
 </div>
@@ -1027,7 +997,7 @@ EV7 BloxGame
     class="back-to-top"
     href="#top"
 >
-⬆ Назад на почеток
+⬆ Back to Top
 </a>
 
 
@@ -1054,9 +1024,9 @@ EV7 BloxGame
 const feeds = {
 
 
-    /* =========================
+    /* =================================================
        MKD
-    ========================= */
+    ================================================= */
 
     mkd: [
 
@@ -1073,9 +1043,9 @@ const feeds = {
     ],
 
 
-    /* =========================
+    /* =================================================
        DE
-    ========================= */
+    ================================================= */
 
     de: [
 
@@ -1092,9 +1062,9 @@ const feeds = {
     ],
 
 
-    /* =========================
+    /* =================================================
        STAR WARS
-    ========================= */
+    ================================================= */
 
     starwars: [
 
@@ -1137,7 +1107,7 @@ const DEFAULT_IMAGES = {
 
 
 /* =====================================================
-   RSS2JSON
+   RSS2JSON API
 ===================================================== */
 
 const RSS_API =
@@ -1248,10 +1218,8 @@ function extractImageFromHTML(html) {
         return "";
     }
 
-
     const parser =
         new DOMParser();
-
 
     const doc =
         parser.parseFromString(
@@ -1260,15 +1228,14 @@ function extractImageFromHTML(html) {
         );
 
 
-    /* =========================
+    /* =================================================
        OG IMAGE
-    ========================= */
+    ================================================= */
 
     const ogImage =
         doc.querySelector(
             'meta[property="og:image"]'
         );
-
 
     if (
         ogImage &&
@@ -1282,15 +1249,14 @@ function extractImageFromHTML(html) {
     }
 
 
-    /* =========================
+    /* =================================================
        TWITTER IMAGE
-    ========================= */
+    ================================================= */
 
     const twitterImage =
         doc.querySelector(
             'meta[name="twitter:image"]'
         );
-
 
     if (
         twitterImage &&
@@ -1304,9 +1270,9 @@ function extractImageFromHTML(html) {
     }
 
 
-    /* =========================
-       IMAGES
-    ========================= */
+    /* =================================================
+       IMAGE TAGS
+    ================================================= */
 
     const images =
         doc.querySelectorAll("img");
@@ -1316,7 +1282,6 @@ function extractImageFromHTML(html) {
         const img
         of images
     ) {
-
 
         const attributes = [
 
@@ -1357,9 +1322,9 @@ function extractImageFromHTML(html) {
         }
 
 
-        /* =========================
+        /* =================================================
            SRCSET
-        ========================= */
+        ================================================= */
 
         const srcset =
             img.getAttribute(
@@ -1405,9 +1370,9 @@ function imageFromObject(value) {
     }
 
 
-    /* =========================
+    /* =================================================
        STRING
-    ========================= */
+    ================================================= */
 
     if (
         typeof value ===
@@ -1433,9 +1398,9 @@ function imageFromObject(value) {
     }
 
 
-    /* =========================
+    /* =================================================
        ARRAY
-    ========================= */
+    ================================================= */
 
     if (
         Array.isArray(value)
@@ -1451,7 +1416,9 @@ function imageFromObject(value) {
 
 
             if (result) {
+
                 return result;
+
             }
 
         }
@@ -1459,9 +1426,9 @@ function imageFromObject(value) {
     }
 
 
-    /* =========================
+    /* =================================================
        OBJECT
-    ========================= */
+    ================================================= */
 
     if (
         typeof value ===
@@ -1525,9 +1492,9 @@ function imageFromObject(value) {
 function getImage(item) {
 
 
-    /* =========================
+    /* =================================================
        DIRECT RSS FIELDS
-    ========================= */
+    ================================================= */
 
     const directFields = [
 
@@ -1574,9 +1541,9 @@ function getImage(item) {
     }
 
 
-    /* =========================
+    /* =================================================
        DESCRIPTION
-    ========================= */
+    ================================================= */
 
     const descriptionImage =
         extractImageFromHTML(
@@ -1591,9 +1558,9 @@ function getImage(item) {
     }
 
 
-    /* =========================
+    /* =================================================
        CONTENT
-    ========================= */
+    ================================================= */
 
     const contentImage =
         extractImageFromHTML(
@@ -1608,9 +1575,9 @@ function getImage(item) {
     }
 
 
-    /* =========================
+    /* =================================================
        CONTENT ENCODED
-    ========================= */
+    ================================================= */
 
     const encodedContent =
         item["content:encoded"];
@@ -1633,9 +1600,9 @@ function getImage(item) {
     }
 
 
-    /* =========================
+    /* =================================================
        SUMMARY
-    ========================= */
+    ================================================= */
 
     const summaryImage =
         extractImageFromHTML(
@@ -1682,7 +1649,7 @@ function formatDate(value) {
 
 
     return date.toLocaleString(
-        "de-DE",
+        "en-GB",
         {
             dateStyle: "short",
             timeStyle: "short"
@@ -1706,7 +1673,7 @@ function createCard(
     const title =
         escapeHTML(
             item.title ||
-            "Без наслов"
+            "Untitled"
         );
 
 
@@ -1734,9 +1701,9 @@ function createCard(
     let imageHTML;
 
 
-    /* =========================
-       REAL IMAGE
-    ========================= */
+    /* =================================================
+       REAL RSS IMAGE
+    ================================================= */
 
     if (image) {
 
@@ -1764,9 +1731,9 @@ function createCard(
     }
 
 
-    /* =========================
-       FALLBACK
-    ========================= */
+    /* =================================================
+       FALLBACK IMAGE
+    ================================================= */
 
     else {
 
@@ -1857,7 +1824,6 @@ function createCard(
 
 async function loadFeed(feed) {
 
-
     const apiUrl =
         RSS_API +
         encodeURIComponent(
@@ -1923,7 +1889,7 @@ async function loadSection(
 
         <div class="loading">
 
-            Се вчитуваат вести...
+            Loading news...
 
         </div>
 
@@ -1954,9 +1920,9 @@ async function loadSection(
     let allItems = [];
 
 
-    /* =========================
-       COLLECT
-    ========================= */
+    /* =================================================
+       COLLECT ITEMS
+    ================================================= */
 
     for (
         const result
@@ -2002,9 +1968,9 @@ async function loadSection(
     }
 
 
-    /* =========================
-       SORT
-    ========================= */
+    /* =================================================
+       SORT NEWEST FIRST
+    ================================================= */
 
     allItems.sort(
         (a, b) => {
@@ -2027,9 +1993,9 @@ async function loadSection(
     );
 
 
-    /* =========================
+    /* =================================================
        LIMIT
-    ========================= */
+    ================================================= */
 
     allItems =
         allItems.slice(
@@ -2038,9 +2004,9 @@ async function loadSection(
         );
 
 
-    /* =========================
-       EMPTY
-    ========================= */
+    /* =================================================
+       NO RESULTS
+    ================================================= */
 
     if (
         allItems.length === 0
@@ -2050,7 +2016,7 @@ async function loadSection(
 
             <div class="error">
 
-                Нема достапни вести.
+                No news available.
 
             </div>
 
@@ -2061,9 +2027,9 @@ async function loadSection(
     }
 
 
-    /* =========================
+    /* =================================================
        DISPLAY
-    ========================= */
+    ================================================= */
 
     container.innerHTML =
 
