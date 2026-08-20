@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T07:42:22.417319+00:00",
+  "updated": "2026-08-20T08:40:53.172676+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -13,10 +13,19 @@
     {
       "category": "mkd",
       "source": "SmartPortal",
+      "title": "Samsung закажа нов Galaxy настан за август 2026 година",
+      "description": "",
+      "url": "https://smartportal.mk/novosti/nastani/galaxy-nastan-avgust-2026/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/260818_event_kv_932x524-218x150.webp",
+      "date": ""
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
       "title": "Cursor започнува со сопствен хостинг на код преку новата услуга Origin",
       "description": "",
       "url": "https://smartportal.mk/novosti/softver-prog/cursor-origin/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/cursor-origin-f-218x150.webp",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/260818_event_kv_932x524-218x150.webp",
       "date": ""
     },
     {
@@ -35,15 +44,6 @@
       "description": "",
       "url": "https://smartportal.mk/novosti/uredi/vodic-za-najnovata-galaxy-z-serija/",
       "image": "https://smartportal.mk/wp-content/uploads/2026/06/Depositphotos_11897964_XL-f-218x150.webp",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Гледањето кратки видеа привремено ја деактивира мозочната мрежа за когнитивна контрола",
-      "description": "",
-      "url": "https://smartportal.mk/novosti/nauka-istrazuvanja/gledanje-kratki-videa-deaktivira-kognitivna-kontrola/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/216-lifestyle-product-galaxy-zfold8-zfold8-ultra-zflip8-2-f-218x150.webp",
       "date": ""
     },
     {
@@ -144,7 +144,7 @@
       "title": "Hero Deal: hide.me senkt erneut die Preise!",
       "description": "",
       "url": "https://tarnkappe.info/advertorial/hero-deal-hide-me-senkt-erneut-die-preise-331653.html",
-      "image": "",
+      "image": "https://cdn.tarnkappe.info/wpimg/Sommeraktion-Beitragsbild-700x300.png",
       "date": ""
     },
     {
@@ -153,7 +153,7 @@
       "title": "CUII: LG Köln ließ KinoGo und Streamed sperren",
       "description": "",
       "url": "https://tarnkappe.info/artikel/rechtssachen/cuii-lg-koeln-liess-kinogo-und-streamed-sperren-332792.html",
-      "image": "",
+      "image": "https://cdn.tarnkappe.info/wpimg/Blockade-1-700x300.png",
       "date": ""
     },
     {
@@ -162,7 +162,7 @@
       "title": "Microsoft Copilot gehackt: KI verrät Forschern ihren eigenen Angriffsweg",
       "description": "",
       "url": "https://tarnkappe.info/artikel/it-sicherheit/microsoft-copilot-gehackt-332791.html",
-      "image": "",
+      "image": "https://cdn.tarnkappe.info/wpimg/Use-AI-Image-Aug-19-2026-15_54_40-700x300.png",
       "date": ""
     },
     {
@@ -171,7 +171,7 @@
       "title": "c-network.to: Domain vom neuen Crimenetwork beschlagnahmt",
       "description": "",
       "url": "https://tarnkappe.info/artikel/szene/dark-commerce/c-network-to-domain-vom-neuen-crimenetwork-beschlagnahmt-332788.html",
-      "image": "",
+      "image": "https://cdn.tarnkappe.info/wpimg/crimenetwork-sized-700x300.jpg",
       "date": ""
     },
     {
@@ -180,7 +180,7 @@
       "title": "IPTV-Reseller: „Ich verticke Abos fast wie ein Drogenhändler“",
       "description": "",
       "url": "https://tarnkappe.info/artikel/iptv/iptv-reseller-illegales-streaming-332763.html",
-      "image": "",
+      "image": "https://cdn.tarnkappe.info/wpimg/ChatGPT-Image-18.-Aug.-2026-14_25_39-700x300.png",
       "date": ""
     },
     {
@@ -189,7 +189,7 @@
       "title": "Cover Downloads im August 2026",
       "description": "",
       "url": "https://tarnkappe.info/listen/cover-downloads-im-august-2026-332747.html",
-      "image": "",
+      "image": "https://cdn.tarnkappe.info/wpimg/schallplatten-staender-700x300.jpg",
       "date": ""
     },
     {
@@ -198,7 +198,7 @@
       "title": "Boeing 737 gehackt: Mini-Gerät manipuliert Autopiloten",
       "description": "",
       "url": "https://tarnkappe.info/artikel/boeing-737-gehackt-mini-geraet-manipuliert-autopiloten-332742.html",
-      "image": "",
+      "image": "https://cdn.tarnkappe.info/wpimg/schallplatten-staender-700x300.jpg",
       "date": ""
     },
     {
@@ -207,7 +207,7 @@
       "title": "Darknet-Websites: die Dark-Web-Links im August 2026",
       "description": "",
       "url": "https://tarnkappe.info/listen/darknet-websites-die-dark-web-links-im-august-2026-332711.html",
-      "image": "",
+      "image": "https://cdn.tarnkappe.info/wpimg/Darknet-Websites-August-2026-700x300.jpg",
       "date": ""
     },
     {
@@ -216,7 +216,7 @@
       "title": "Streaming-Imperium: 7 Millionen Dollar für alte Domains – Malware inklusive",
       "description": "",
       "url": "https://tarnkappe.info/artikel/szene/dark-commerce/streaming-imperium-7-millionen-dollar-alte-domains-332703.html",
-      "image": "",
+      "image": "https://cdn.tarnkappe.info/wpimg/Use-AI-Image-Aug-16-2026-16_25_56-700x300.png",
       "date": ""
     },
     {
@@ -225,7 +225,7 @@
       "title": "Projectivy übernimmt die Home-Taste auf dem Fire TV",
       "description": "",
       "url": "https://tarnkappe.info/tutorials/projectivy-uebernimmt-die-home-taste-auf-dem-fire-tv-332543.html",
-      "image": "",
+      "image": "https://cdn.tarnkappe.info/wpimg/Projectivy-Artikelbild-700x300.png",
       "date": ""
     },
     {
@@ -234,7 +234,7 @@
       "title": "Meta KI-Brille: Gesichtserkennung macht aus Dinnerpartys Überwachungsclips",
       "description": "",
       "url": "https://tarnkappe.info/artikel/it-sicherheit/meta-ki-brille-gesichtserkennung-ueberwachungsclips-332516.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/Sommeraktion-Beitragsbild-700x300.png",
+      "image": "https://cdn.tarnkappe.info/wpimg/ChatGPT-Image-15.-Aug.-2026-17_04_19-700x300.png",
       "date": ""
     },
     {
