@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T05:33:18.655759+00:00",
+  "updated": "2026-08-20T06:50:05.481891+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -274,96 +274,5 @@
       "date": ""
     }
   ],
-  "youtube": [
-    {
-      "category": "youtube",
-      "source": "25HighTech",
-      "title": "steal a brainrot",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=70-NtG02QAA",
-      "image": "https://i.ytimg.com/vi/70-NtG02QAA/hqdefault.jpg",
-      "date": "2026-01-11T06:08:17+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "25HighTech",
-      "title": "roblox games",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=gwStGvaBjFI",
-      "image": "https://i.ytimg.com/vi/gwStGvaBjFI/hqdefault.jpg",
-      "date": "2026-01-10T18:51:41+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "25HighTech",
-      "title": "steal a brainrot update",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=dxImxCzc_f0",
-      "image": "https://i.ytimg.com/vi/dxImxCzc_f0/hqdefault.jpg",
-      "date": "2026-01-10T17:17:11+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "25HighTech",
-      "title": "How to install Retroarch on Linux Mint",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=fYyG9aDDkN8",
-      "image": "https://i.ytimg.com/vi/fYyG9aDDkN8/hqdefault.jpg",
-      "date": "2025-10-03T17:31:05+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "25HighTech",
-      "title": "How to delete application on linux mint",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=OXJHSVPDBVE",
-      "image": "https://i.ytimg.com/vi/OXJHSVPDBVE/hqdefault.jpg",
-      "date": "2025-10-03T17:29:28+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "25HighTech",
-      "title": "How to install VICE commodore64 on linux mint",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=JVR2o934puQ",
-      "image": "https://i.ytimg.com/vi/JVR2o934puQ/hqdefault.jpg",
-      "date": "2025-10-03T17:27:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "25HighTech",
-      "title": "How to install Abiword on Linux Mint",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=WTtXBhyIISQ",
-      "image": "https://i.ytimg.com/vi/WTtXBhyIISQ/hqdefault.jpg",
-      "date": "2025-09-21T14:27:28+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "25HighTech",
-      "title": "How to install MVP player on Linux Mint",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/1DzS8278whw",
-      "image": "https://i.ytimg.com/vi/1DzS8278whw/hqdefault.jpg",
-      "date": "2025-09-21T14:25:56+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "25HighTech",
-      "title": "How to install Midori browser on Linux Mint",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/q7Ts4jxumj8",
-      "image": "https://i.ytimg.com/vi/q7Ts4jxumj8/hqdefault.jpg",
-      "date": "2025-09-21T14:25:47+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "25HighTech",
-      "title": "roblox live",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=WGjYQ-KT7V4",
-      "image": "https://i.ytimg.com/vi/WGjYQ-KT7V4/hqdefault.jpg",
-      "date": "2025-09-14T19:48:21+00:00"
-    }
-  ]
+  "youtube": []
 }
