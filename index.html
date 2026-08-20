@@ -3,680 +3,627 @@
 
 <head>
 
-    <meta charset="UTF-8">
+<meta charset="UTF-8">
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Yane's Aggregator</title>
+<title>Yane's Aggregator</title>
 
-    <meta
-        name="description"
-        content="Yane's Aggregator - MKD, DE и Star Wars News"
-    >
+<meta
+    name="description"
+    content="Yane's Aggregator - MKD, DE и Star Wars News"
+>
 
-    <!-- =========================
-         GOOGLE ANALYTICS
-    ========================== -->
+<!-- GOOGLE ANALYTICS -->
 
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5RPGXB9L5W"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5RPGXB9L5W"></script>
 
-    <script>
+<script>
 
-        window.dataLayer = window.dataLayer || [];
+window.dataLayer = window.dataLayer || [];
 
-        function gtag() {
-            dataLayer.push(arguments);
-        }
+function gtag() {
+    dataLayer.push(arguments);
+}
 
-        gtag('js', new Date());
+gtag('js', new Date());
 
-        gtag(
-            'config',
-            'G-5RPGXB9L5W'
+gtag('config', 'G-5RPGXB9L5W');
+
+</script>
+
+
+<style>
+
+/* =========================
+   RESET
+========================= */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+body {
+
+    font-family:
+        Arial,
+        Helvetica,
+        sans-serif;
+
+    background: #f1f3f5;
+
+    color: #222;
+
+}
+
+
+/* =========================
+   HEADER
+========================= */
+
+header {
+
+    background:
+        linear-gradient(
+            135deg,
+            #111827,
+            #263244
         );
 
-    </script>
+    color: white;
 
+    text-align: center;
 
-    <!-- =========================
-         STYLE
-    ========================== -->
+    padding: 30px 20px;
 
-    <style>
+}
 
-        * {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-        }
 
+header h1 {
 
-        html {
-            scroll-behavior: smooth;
-        }
+    font-size: 32px;
 
+}
 
-        body {
 
-            font-family:
-                Arial,
-                Helvetica,
-                sans-serif;
+header p {
 
-            background: #f1f3f5;
+    margin-top: 6px;
 
-            color: #222;
+    color: #cbd5e1;
 
-        }
+    font-size: 14px;
 
+}
 
-        /* =========================
-           HEADER
-        ========================== */
 
-        header {
+/* =========================
+   NAVIGATION
+========================= */
 
-            background:
-                linear-gradient(
-                    135deg,
-                    #111827,
-                    #263244
-                );
+.section-nav {
 
-            color: white;
+    display: flex;
 
-            text-align: center;
+    justify-content: center;
 
-            padding:
-                28px 20px;
+    align-items: center;
 
-        }
+    gap: 10px;
 
+    flex-wrap: wrap;
 
-        header h1 {
+    padding: 11px 15px;
 
-            font-size: 31px;
+    background: white;
 
-        }
+    border-bottom:
+        1px solid #ddd;
 
+    position: sticky;
 
-        header p {
+    top: 0;
 
-            margin-top: 5px;
+    z-index: 1000;
 
-            color: #cbd5e1;
+    box-shadow:
+        0 2px 8px
+        rgba(0,0,0,0.06);
 
-            font-size: 14px;
+}
 
-        }
 
+.section-nav a {
 
-        /* =========================
-           SECTION NAV
-        ========================== */
+    text-decoration: none;
 
-        .section-nav {
+    color: #222;
 
-            display: flex;
+    background: #f3f4f6;
 
-            justify-content: center;
+    border:
+        1px solid #d1d5db;
 
-            align-items: center;
+    padding:
+        8px 15px;
 
-            gap: 8px;
+    border-radius: 20px;
 
-            flex-wrap: wrap;
+    font-size: 14px;
 
-            padding:
-                10px 15px;
+    font-weight: bold;
 
-            background: white;
+    transition: 0.2s;
 
-            border-bottom:
-                1px solid #ddd;
+}
 
-            position: sticky;
 
-            top: 0;
+.section-nav a:hover {
 
-            z-index: 1000;
+    background: #111827;
 
-            box-shadow:
-                0 2px 7px
-                rgba(0,0,0,0.06);
+    color: white;
 
-        }
+}
 
 
-        .section-nav a {
+/* =========================
+   MAIN
+========================= */
 
-            display: inline-block;
+main {
 
-            padding:
-                7px 14px;
+    width: 94%;
 
-            border-radius: 18px;
+    max-width: 1400px;
 
-            background: #f3f4f6;
+    margin:
+        25px auto;
 
-            border:
-                1px solid #d1d5db;
+}
 
-            color: #222;
 
-            text-decoration: none;
+/* =========================
+   BANNER AREA
+========================= */
 
-            font-size: 14px;
+.banner-title {
 
-            font-weight: bold;
+    text-align: center;
 
-            transition:
-                0.2s;
+    font-size: 19px;
 
-        }
+    font-weight: bold;
 
+    margin-bottom: 14px;
 
-        .section-nav a:hover {
+}
 
-            background: #111827;
 
-            color: white;
+.banners {
 
-        }
+    display: grid;
 
+    grid-template-columns:
+        repeat(
+            auto-fit,
+            minmax(
+                180px,
+                1fr
+            )
+        );
 
-        /* =========================
-           MAIN
-        ========================== */
+    gap: 12px;
 
-        main {
+    max-width: 1150px;
 
-            width: 94%;
+    margin:
+        0 auto 35px auto;
 
-            max-width: 1400px;
+}
 
-            margin:
-                25px auto;
 
-        }
+.banner {
 
+    min-height: 70px;
 
-        /* =========================
-           YOUTUBE
-        ========================== */
+    display: flex;
 
-        .youtube-title {
+    align-items: center;
 
-            text-align: center;
+    justify-content: center;
 
-            font-size: 18px;
+    text-align: center;
 
-            font-weight: bold;
+    padding: 12px;
 
-            margin-bottom: 12px;
+    background: white;
 
-        }
+    border:
+        1px solid #ddd;
 
+    border-radius: 12px;
 
-        .youtube-banners {
+    color: #222;
 
-            display: grid;
+    text-decoration: none;
 
-            grid-template-columns:
-                repeat(3, 1fr);
+    font-weight: bold;
 
-            gap: 12px;
+    box-shadow:
+        0 2px 7px
+        rgba(0,0,0,0.07);
 
-            max-width: 900px;
+    transition:
+        transform 0.2s,
+        box-shadow 0.2s;
 
-            margin:
-                0 auto 40px auto;
+}
 
-        }
 
+.banner:hover {
 
-        .youtube-banner {
+    transform:
+        translateY(-4px);
 
-            display: flex;
+    box-shadow:
+        0 8px 18px
+        rgba(0,0,0,0.14);
 
-            align-items: center;
+}
 
-            justify-content: center;
 
-            min-height: 65px;
+/* WEB BANNERS */
 
-            padding:
-                10px 15px;
+.web-banner {
 
-            background: white;
+    border-top:
+        4px solid #374151;
 
-            border:
-                1px solid #ddd;
+}
 
-            border-radius: 10px;
 
-            text-decoration: none;
+/* YOUTUBE BANNERS */
 
-            color: #222;
+.youtube-banner {
 
-            font-weight: bold;
+    border-top:
+        4px solid #ff0000;
 
-            font-size: 14px;
+}
 
-            box-shadow:
-                0 2px 6px
-                rgba(0,0,0,0.06);
 
-            transition:
-                0.2s;
+.banner-icon {
 
-        }
+    font-size: 22px;
 
+    margin-right: 8px;
 
-        .youtube-banner:hover {
+}
 
-            transform:
-                translateY(-3px);
 
-            box-shadow:
-                0 7px 16px
-                rgba(0,0,0,0.13);
+/* =========================
+   SECTIONS
+========================= */
 
-        }
+.section {
 
+    margin-bottom: 60px;
 
-        .youtube-icon {
+    scroll-margin-top: 75px;
 
-            font-size: 23px;
+}
 
-            margin-right: 8px;
 
-        }
+.section-title {
 
+    margin-bottom: 20px;
 
-        /* =========================
-           SECTIONS
-        ========================== */
+    padding-bottom: 9px;
 
-        .section {
+    border-bottom:
+        3px solid #222;
 
-            margin-bottom: 55px;
+}
 
-            scroll-margin-top: 70px;
 
-        }
+.section-title h2 {
 
+    font-size: 26px;
 
-        .section-title {
+}
 
-            display: flex;
 
-            align-items: center;
+/* =========================
+   NEWS GRID
+========================= */
 
-            margin-bottom: 20px;
+.news-grid {
 
-            padding-bottom: 9px;
+    display: grid;
 
-            border-bottom:
-                3px solid #222;
+    grid-template-columns:
+        repeat(
+            auto-fill,
+            minmax(
+                280px,
+                1fr
+            )
+        );
 
-        }
+    gap: 20px;
 
+}
 
-        .section-title h2 {
 
-            font-size: 25px;
+/* =========================
+   NEWS CARD
+========================= */
 
-        }
+.card {
 
+    background: white;
 
-        /* =========================
-           NEWS GRID
-        ========================== */
+    border:
+        1px solid #ddd;
 
-        .news-grid {
+    border-radius: 12px;
 
-            display: grid;
+    overflow: hidden;
 
-            grid-template-columns:
-                repeat(
-                    auto-fill,
-                    minmax(
-                        280px,
-                        1fr
-                    )
-                );
+    box-shadow:
+        0 2px 8px
+        rgba(0,0,0,0.06);
 
-            gap: 20px;
+    transition:
+        transform 0.2s,
+        box-shadow 0.2s;
 
-        }
+}
 
 
-        /* =========================
-           CARD
-        ========================== */
+.card:hover {
 
-        .card {
+    transform:
+        translateY(-4px);
 
-            background: white;
+    box-shadow:
+        0 9px 22px
+        rgba(0,0,0,0.13);
 
-            border:
-                1px solid #ddd;
+}
 
-            border-radius: 12px;
 
-            overflow: hidden;
+.card a {
 
-            box-shadow:
-                0 2px 8px
-                rgba(0,0,0,0.06);
+    display: block;
 
-            transition:
-                transform 0.2s,
-                box-shadow 0.2s;
+    color: inherit;
 
-        }
+    text-decoration: none;
 
+}
 
-        .card:hover {
 
-            transform:
-                translateY(-4px);
+/* =========================
+   IMAGES
+========================= */
 
-            box-shadow:
-                0 8px 20px
-                rgba(0,0,0,0.13);
+.image-wrapper {
 
-        }
+    width: 100%;
 
+    height: 190px;
 
-        .card a {
+    background: #e5e7eb;
 
-            display: block;
+    overflow: hidden;
 
-            color: inherit;
+}
 
-            text-decoration: none;
 
-        }
+.card-image {
 
+    width: 100%;
 
-        /* =========================
-           IMAGE
-        ========================== */
+    height: 100%;
 
-        .image-wrapper {
+    object-fit: cover;
 
-            width: 100%;
+    display: block;
 
-            height: 190px;
+    transition:
+        transform 0.3s;
 
-            background: #e5e7eb;
+}
 
-            overflow: hidden;
 
-        }
+.card:hover .card-image {
 
+    transform:
+        scale(1.04);
 
-        .card-image {
+}
 
-            width: 100%;
 
-            height: 100%;
+/* =========================
+   CARD CONTENT
+========================= */
 
-            object-fit: cover;
+.card-content {
 
-            display: block;
+    padding: 15px;
 
-            transition:
-                transform 0.3s;
+}
 
-        }
 
+.card-title {
 
-        .card:hover .card-image {
+    font-size: 17px;
 
-            transform:
-                scale(1.04);
+    font-weight: bold;
 
-        }
+    line-height: 1.4;
 
+    margin-bottom: 9px;
 
-        /* =========================
-           FALLBACK IMAGE
-        ========================== */
+}
 
-        .fallback-image {
 
-            width: 100%;
+.card-source {
 
-            height: 190px;
+    font-size: 13px;
 
-            object-fit: cover;
+    font-weight: bold;
 
-            display: block;
+    color: #6b7280;
 
-        }
+    margin-bottom: 4px;
 
+}
 
-        /* =========================
-           CARD CONTENT
-        ========================== */
 
-        .card-content {
+.card-date {
 
-            padding: 15px;
+    font-size: 12px;
 
-        }
+    color: #9ca3af;
 
+}
 
-        .card-title {
 
-            font-size: 17px;
+/* =========================
+   LOADING
+========================= */
 
-            font-weight: bold;
+.loading {
 
-            line-height: 1.4;
+    grid-column:
+        1 / -1;
 
-            margin-bottom: 9px;
+    text-align: center;
 
-        }
+    padding: 40px;
 
+    color: #777;
 
-        .card-source {
+}
 
-            font-size: 13px;
 
-            font-weight: bold;
+/* =========================
+   ERROR
+========================= */
 
-            color: #6b7280;
+.error {
 
-            margin-bottom: 4px;
+    grid-column:
+        1 / -1;
 
-        }
+    padding: 20px;
 
+    background: #fee2e2;
 
-        .card-date {
+    color: #991b1b;
 
-            font-size: 12px;
+    border-radius: 10px;
 
-            color: #9ca3af;
+    text-align: center;
 
-        }
+}
 
 
-        /* =========================
-           LOADING
-        ========================== */
+/* =========================
+   FOOTER
+========================= */
 
-        .loading {
+footer {
 
-            grid-column:
-                1 / -1;
+    margin-top: 40px;
 
-            text-align: center;
+    padding: 30px 20px;
 
-            padding: 40px;
+    background: #111827;
 
-            color: #777;
+    color: #9ca3af;
 
-        }
+    text-align: center;
 
+    font-size: 13px;
 
-        /* =========================
-           ERROR
-        ========================== */
+}
 
-        .error {
 
-            grid-column:
-                1 / -1;
+/* =========================
+   MOBILE
+========================= */
 
-            padding: 20px;
+@media (max-width: 600px) {
 
-            background: #fee2e2;
+    header h1 {
+        font-size: 25px;
+    }
 
-            color: #991b1b;
 
-            border-radius: 10px;
+    main {
+        width: 92%;
+    }
 
-            text-align: center;
 
-        }
+    .banners {
 
+        grid-template-columns:
+            1fr 1fr;
 
-        /* =========================
-           FOOTER
-        ========================== */
+        gap: 9px;
 
-        footer {
+    }
 
-            margin-top: 40px;
 
-            padding:
-                30px 20px;
+    .banner {
 
-            background: #111827;
+        min-height: 62px;
 
-            color: #9ca3af;
+        font-size: 12px;
 
-            text-align: center;
+        padding: 8px;
 
-            font-size: 13px;
+    }
 
-        }
 
+    .banner-icon {
 
-        /* =========================
-           TABLET
-        ========================== */
+        font-size: 18px;
 
-        @media (max-width: 850px) {
+        margin-right: 5px;
 
-            .youtube-banners {
+    }
 
-                grid-template-columns:
-                    repeat(2, 1fr);
 
-            }
+    .news-grid {
 
-        }
+        grid-template-columns:
+            1fr;
 
+    }
 
-        /* =========================
-           MOBILE
-        ========================== */
 
-        @media (max-width: 600px) {
+    .image-wrapper {
 
-            header h1 {
+        height: 210px;
 
-                font-size: 25px;
+    }
 
-            }
+}
 
-
-            main {
-
-                width: 92%;
-
-            }
-
-
-            .section-nav {
-
-                gap: 6px;
-
-                padding:
-                    9px 8px;
-
-            }
-
-
-            .section-nav a {
-
-                font-size: 13px;
-
-                padding:
-                    7px 11px;
-
-            }
-
-
-            .youtube-banners {
-
-                grid-template-columns:
-                    1fr 1fr;
-
-                gap: 9px;
-
-            }
-
-
-            .youtube-banner {
-
-                min-height: 58px;
-
-                font-size: 12px;
-
-                padding: 8px;
-
-            }
-
-
-            .youtube-icon {
-
-                font-size: 19px;
-
-                margin-right: 5px;
-
-            }
-
-
-            .news-grid {
-
-                grid-template-columns:
-                    1fr;
-
-            }
-
-
-            .image-wrapper {
-
-                height: 210px;
-
-            }
-
-
-            .fallback-image {
-
-                height: 210px;
-
-            }
-
-        }
-
-    </style>
+</style>
 
 </head>
 
@@ -686,38 +633,38 @@
 
 <!-- =========================
      HEADER
-========================== -->
+========================= -->
 
 <header>
 
-    <h1>
-        Yane's Aggregator
-    </h1>
+<h1>
+Yane's Aggregator
+</h1>
 
-    <p>
-        MKD • DE • Star Wars News
-    </p>
+<p>
+MKD • DE • Star Wars News
+</p>
 
 </header>
 
 
 <!-- =========================
      SECTION LINKS
-========================== -->
+========================= -->
 
 <nav class="section-nav">
 
-    <a href="#mkd-section">
-        🇲🇰 MKD
-    </a>
+<a href="#mkd-section">
+🇲🇰 MKD
+</a>
 
-    <a href="#de-section">
-        🇩🇪 DE
-    </a>
+<a href="#de-section">
+🇩🇪 DE
+</a>
 
-    <a href="#starwars-section">
-        ⭐ Star Wars News
-    </a>
+<a href="#starwars-section">
+⭐ Star Wars News
+</a>
 
 </nav>
 
@@ -725,167 +672,253 @@
 <main>
 
 
-<!-- =========================
-     YOUTUBE BANNERS
-========================== -->
+<!-- =================================================
+     WEB + YOUTUBE BANNERS
+================================================= -->
 
-<div class="youtube-title">
-    YouTube Channels
+<div class="banner-title">
+My Websites & YouTube
 </div>
 
 
-<div class="youtube-banners">
+<div class="banners">
 
 
-    <a
-        class="youtube-banner"
-        href="https://youtube.com/@draganlaboski?si=fpSIyfXdXkzOUL8b"
-        target="_blank"
-        rel="noopener noreferrer"
-    >
+<!-- =========================
+     OPENZIP
+========================= -->
 
-        <span class="youtube-icon">
-            ▶️
-        </span>
+<a
+    class="banner web-banner"
+    href="https://bloxgamesev7-prog.github.io/openzip/"
+    target="_blank"
+    rel="noopener noreferrer"
+>
 
-        Dragan Laboski
+<span class="banner-icon">
+🌐
+</span>
 
-    </a>
+OpenZIP
 
-
-    <a
-        class="youtube-banner"
-        href="https://youtube.com/@ev7bloxgame?si=dju3qdtfn_03FHO6"
-        target="_blank"
-        rel="noopener noreferrer"
-    >
-
-        <span class="youtube-icon">
-            ▶️
-        </span>
-
-        EV7 BloxGame
-
-    </a>
+</a>
 
 
-    <a
-        class="youtube-banner"
-        href="https://youtube.com/@25hightech"
-        target="_blank"
-        rel="noopener noreferrer"
-    >
+<!-- =========================
+     TENDZI BLOG
+========================= -->
 
-        <span class="youtube-icon">
-            ▶️
-        </span>
+<a
+    class="banner web-banner"
+    href="https://tendzi.blogspot.com/?m=1"
+    target="_blank"
+    rel="noopener noreferrer"
+>
 
-        25HighTech
+<span class="banner-icon">
+📝
+</span>
 
-    </a>
+Tendzi Blog
+
+</a>
+
+
+<!-- =========================
+     FORFUN81
+========================= -->
+
+<a
+    class="banner web-banner"
+    href="https://forfun81.github.io/#top"
+    target="_blank"
+    rel="noopener noreferrer"
+>
+
+<span class="banner-icon">
+💻
+</span>
+
+ForFun81
+
+</a>
+
+
+<!-- =========================
+     TECHY
+========================= -->
+
+<a
+    class="banner web-banner"
+    href="https://techy.techygithub.workers.dev/"
+    target="_blank"
+    rel="noopener noreferrer"
+>
+
+<span class="banner-icon">
+⚡
+</span>
+
+Techy
+
+</a>
+
+
+<!-- =========================
+     YOUTUBE DRAGAN
+========================= -->
+
+<a
+    class="banner youtube-banner"
+    href="https://youtube.com/@draganlaboski?si=fpSIyfXdXkzOUL8b"
+    target="_blank"
+    rel="noopener noreferrer"
+>
+
+<span class="banner-icon">
+▶️
+</span>
+
+Dragan Laboski
+
+</a>
+
+
+<!-- =========================
+     YOUTUBE EV7
+========================= -->
+
+<a
+    class="banner youtube-banner"
+    href="https://youtube.com/@ev7bloxgame?si=dju3qdtfn_03FHO6"
+    target="_blank"
+    rel="noopener noreferrer"
+>
+
+<span class="banner-icon">
+▶️
+</span>
+
+EV7 BloxGame
+
+</a>
+
+
+<!-- =========================
+     YOUTUBE 25HIGHTECH
+========================= -->
+
+<a
+    class="banner youtube-banner"
+    href="https://youtube.com/@25hightech"
+    target="_blank"
+    rel="noopener noreferrer"
+>
+
+<span class="banner-icon">
+▶️
+</span>
+
+25HighTech
+
+</a>
 
 
 </div>
 
 
-<!-- =========================
+<!-- =================================================
      MKD
-========================== -->
+================================================= -->
 
 <section
     class="section"
     id="mkd-section"
 >
 
-    <div class="section-title">
+<div class="section-title">
 
-        <h2>
-            🇲🇰 MKD
-        </h2>
+<h2>
+🇲🇰 MKD
+</h2>
 
-    </div>
+</div>
 
 
-    <div
-        id="mkd"
-        class="news-grid"
-    >
+<div
+    id="mkd"
+    class="news-grid"
+>
 
-        <div class="loading">
+<div class="loading">
+Се вчитуваат MKD вести...
+</div>
 
-            Се вчитуваат MKD вести...
-
-        </div>
-
-    </div>
+</div>
 
 </section>
 
 
-<!-- =========================
+<!-- =================================================
      DE
-========================== -->
+================================================= -->
 
 <section
     class="section"
     id="de-section"
 >
 
-    <div class="section-title">
+<div class="section-title">
 
-        <h2>
-            🇩🇪 DE
-        </h2>
+<h2>
+🇩🇪 DE
+</h2>
 
-    </div>
+</div>
 
 
-    <div
-        id="de"
-        class="news-grid"
-    >
+<div
+    id="de"
+    class="news-grid"
+>
 
-        <div class="loading">
+<div class="loading">
+Се вчитуваат DE вести...
+</div>
 
-            Се вчитуваат DE вести...
-
-        </div>
-
-    </div>
+</div>
 
 </section>
 
 
-<!-- =========================
+<!-- =================================================
      STAR WARS
-========================== -->
+================================================= -->
 
 <section
     class="section"
     id="starwars-section"
 >
 
-    <div class="section-title">
+<div class="section-title">
 
-        <h2>
-            ⭐ Star Wars News
-        </h2>
+<h2>
+⭐ Star Wars News
+</h2>
 
-    </div>
+</div>
 
 
-    <div
-        id="starwars"
-        class="news-grid"
-    >
+<div
+    id="starwars"
+    class="news-grid"
+>
 
-        <div class="loading">
+<div class="loading">
+Се вчитуваат Star Wars вести...
+</div>
 
-            Се вчитуваат Star Wars вести...
-
-        </div>
-
-    </div>
+</div>
 
 </section>
 
@@ -895,7 +928,7 @@
 
 <footer>
 
-    © 2026 Yane's Aggregator
+© 2026 Yane's Aggregator
 
 </footer>
 
@@ -917,19 +950,13 @@ const feeds = {
     mkd: [
 
         {
-            name:
-                "SmartPortal",
-
-            url:
-                "https://smartportal.mk/feed/"
+            name: "SmartPortal",
+            url: "https://smartportal.mk/feed/"
         },
 
         {
-            name:
-                "TIME.mk",
-
-            url:
-                "https://time.mk/rss/all"
+            name: "TIME.mk",
+            url: "https://time.mk/rss/all"
         }
 
     ],
@@ -942,19 +969,13 @@ const feeds = {
     de: [
 
         {
-            name:
-                "Centron",
-
-            url:
-                "https://www.centron.de/feed/"
+            name: "Centron",
+            url: "https://www.centron.de/feed/"
         },
 
         {
-            name:
-                "Tarnkappe",
-
-            url:
-                "https://tarnkappe.info/feed"
+            name: "Tarnkappe",
+            url: "https://tarnkappe.info/feed"
         }
 
     ],
@@ -967,27 +988,18 @@ const feeds = {
     starwars: [
 
         {
-            name:
-                "Star Wars News Net",
-
-            url:
-                "https://www.starwarsnewsnet.com/feed"
+            name: "Star Wars News Net",
+            url: "https://www.starwarsnewsnet.com/feed"
         },
 
         {
-            name:
-                "Star Wars Union",
-
-            url:
-                "https://starwars-union.de/feed/"
+            name: "Star Wars Union",
+            url: "https://starwars-union.de/feed/"
         },
 
         {
-            name:
-                "Jedi News",
-
-            url:
-                "https://www.jedinews.com/feed/"
+            name: "Jedi News",
+            url: "https://www.jedinews.com/feed/"
         }
 
     ]
@@ -996,25 +1008,16 @@ const feeds = {
 
 
 /* =====================================================
-   WIKIMEDIA COMMONS FALLBACK IMAGES
+   WIKIMEDIA FALLBACK IMAGES
 ===================================================== */
 
 const DEFAULT_IMAGES = {
 
-
-    /* 🇲🇰 FLAG OF NORTH MACEDONIA */
-
     mkd:
         "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
 
-
-    /* 🇩🇪 FLAG OF GERMANY */
-
     de:
         "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
-
-
-    /* ⭐ STAR WARS */
 
     starwars:
         "https://upload.wikimedia.org/wikipedia/commons/6/6c/Star_Wars_Logo.svg"
@@ -1023,7 +1026,7 @@ const DEFAULT_IMAGES = {
 
 
 /* =====================================================
-   RSS2JSON API
+   RSS2JSON
 ===================================================== */
 
 const RSS_API =
@@ -1037,54 +1040,32 @@ const RSS_API =
 function escapeHTML(text) {
 
     if (!text) {
-
         return "";
-
     }
-
 
     return String(text)
 
-        .replace(
-            /&/g,
-            "&amp;"
-        )
+        .replace(/&/g, "&amp;")
 
-        .replace(
-            /</g,
-            "&lt;"
-        )
+        .replace(/</g, "&lt;")
 
-        .replace(
-            />/g,
-            "&gt;"
-        )
+        .replace(/>/g, "&gt;")
 
-        .replace(
-            /"/g,
-            "&quot;"
-        )
+        .replace(/"/g, "&quot;")
 
-        .replace(
-            /'/g,
-            "&#039;"
-        );
+        .replace(/'/g, "&#039;");
 
 }
 
 
 /* =====================================================
-   EXTRACT IMAGE FROM HTML
+   EXTRACT IMAGE
 ===================================================== */
 
-function extractImageFromHTML(
-    html
-) {
+function extractImageFromHTML(html) {
 
     if (!html) {
-
         return "";
-
     }
 
 
@@ -1100,35 +1081,23 @@ function extractImageFromHTML(
 
 
     const img =
-        doc.querySelector(
-            "img"
-        );
+        doc.querySelector("img");
 
 
     if (!img) {
-
         return "";
-
     }
 
 
     return (
 
-        img.getAttribute(
-            "src"
-        ) ||
+        img.getAttribute("src") ||
 
-        img.getAttribute(
-            "data-src"
-        ) ||
+        img.getAttribute("data-src") ||
 
-        img.getAttribute(
-            "data-lazy-src"
-        ) ||
+        img.getAttribute("data-lazy-src") ||
 
-        img.getAttribute(
-            "data-original"
-        ) ||
+        img.getAttribute("data-original") ||
 
         ""
 
@@ -1138,7 +1107,7 @@ function extractImageFromHTML(
 
 
 /* =====================================================
-   FIND IMAGE
+   GET IMAGE
 ===================================================== */
 
 function getImage(item) {
@@ -1147,12 +1116,8 @@ function getImage(item) {
     /* thumbnail */
 
     if (
-
         item.thumbnail &&
-
-        typeof item.thumbnail ===
-        "string"
-
+        typeof item.thumbnail === "string"
     ) {
 
         return item.thumbnail;
@@ -1162,9 +1127,7 @@ function getImage(item) {
 
     /* enclosure */
 
-    if (
-        item.enclosure
-    ) {
+    if (item.enclosure) {
 
 
         if (
@@ -1182,12 +1145,10 @@ function getImage(item) {
             )
         ) {
 
-
             for (
                 const enclosure
                 of item.enclosure
             ) {
-
 
                 if (
                     enclosure &&
@@ -1207,12 +1168,10 @@ function getImage(item) {
 
     /* media */
 
-    if (
-        item.media
-    ) {
+    if (item.media) {
 
 
-        const mediaValues = [
+        const values = [
 
             item.media.content,
 
@@ -1223,22 +1182,18 @@ function getImage(item) {
 
         for (
             const value
-            of mediaValues
+            of values
         ) {
 
 
             if (
-                Array.isArray(
-                    value
-                )
+                Array.isArray(value)
             ) {
-
 
                 for (
                     const media
                     of value
                 ) {
-
 
                     if (
                         media &&
@@ -1271,17 +1226,12 @@ function getImage(item) {
     /* description */
 
     const descriptionImage =
-
         extractImageFromHTML(
-
             item.description
-
         );
 
 
-    if (
-        descriptionImage
-    ) {
+    if (descriptionImage) {
 
         return descriptionImage;
 
@@ -1291,17 +1241,12 @@ function getImage(item) {
     /* content */
 
     const contentImage =
-
         extractImageFromHTML(
-
             item.content
-
         );
 
 
-    if (
-        contentImage
-    ) {
+    if (contentImage) {
 
         return contentImage;
 
@@ -1314,52 +1259,76 @@ function getImage(item) {
 
 
 /* =====================================================
-   CREATE CARD
+   DATE
+===================================================== */
+
+function formatDate(value) {
+
+    if (!value) {
+        return "";
+    }
+
+
+    const date =
+        new Date(value);
+
+
+    if (
+        isNaN(
+            date.getTime()
+        )
+    ) {
+
+        return "";
+
+    }
+
+
+    return date.toLocaleString(
+        "de-DE",
+        {
+            dateStyle: "short",
+            timeStyle: "short"
+        }
+    );
+
+}
+
+
+/* =====================================================
+   CREATE NEWS CARD
 ===================================================== */
 
 function createCard(
-
     item,
-
     sourceName,
-
     sectionType
-
 ) {
 
 
     const title =
-
         escapeHTML(
-
             item.title ||
             "Без наслов"
-
         );
 
 
     const link =
-
         item.link ||
         "#";
 
 
     const image =
-
-        getImage(
-            item
-        );
+        getImage(item);
 
 
-    const fallbackImage =
-
+    const fallback =
         DEFAULT_IMAGES[
             sectionType
         ];
 
 
     const date =
-
         formatDate(
             item.pubDate
         );
@@ -1372,32 +1341,23 @@ function createCard(
        RSS IMAGE
     ========================== */
 
-    if (
-        image
-    ) {
-
+    if (image) {
 
         imageHTML = `
 
             <div class="image-wrapper">
 
                 <img
-
                     class="card-image"
-
                     src="${escapeHTML(image)}"
-
                     alt="${title}"
-
                     loading="lazy"
-
                     referrerpolicy="no-referrer"
 
                     onerror="
                         this.onerror=null;
-                        this.src='${fallbackImage}';
+                        this.src='${fallback}';
                     "
-
                 >
 
             </div>
@@ -1408,26 +1368,20 @@ function createCard(
 
 
     /* =========================
-       DEFAULT IMAGE
+       FALLBACK
     ========================== */
 
     else {
-
 
         imageHTML = `
 
             <div class="image-wrapper">
 
                 <img
-
-                    class="fallback-image"
-
-                    src="${fallbackImage}"
-
+                    class="card-image"
+                    src="${fallback}"
                     alt="${sectionType}"
-
                     loading="lazy"
-
                 >
 
             </div>
@@ -1442,34 +1396,24 @@ function createCard(
         <article class="card">
 
             <a
-
                 href="${escapeHTML(link)}"
-
                 target="_blank"
-
                 rel="noopener noreferrer"
-
             >
 
                 ${imageHTML}
 
 
-                <div
-                    class="card-content"
-                >
+                <div class="card-content">
 
-                    <div
-                        class="card-title"
-                    >
+                    <div class="card-title">
 
                         ${title}
 
                     </div>
 
 
-                    <div
-                        class="card-source"
-                    >
+                    <div class="card-source">
 
                         ${escapeHTML(
                             sourceName
@@ -1485,9 +1429,7 @@ function createCard(
 
                         `
 
-                        <div
-                            class="card-date"
-                        >
+                        <div class="card-date">
 
                             ${date}
 
@@ -1513,86 +1455,26 @@ function createCard(
 
 
 /* =====================================================
-   DATE
+   LOAD RSS
 ===================================================== */
 
-function formatDate(
-    value
-) {
-
-
-    if (!value) {
-
-        return "";
-
-    }
-
-
-    const date =
-
-        new Date(
-            value
-        );
-
-
-    if (
-        isNaN(
-            date.getTime()
-        )
-    ) {
-
-        return "";
-
-    }
-
-
-    return date.toLocaleString(
-
-        "de-DE",
-
-        {
-
-            dateStyle:
-                "short",
-
-            timeStyle:
-                "short"
-
-        }
-
-    );
-
-}
-
-
-/* =====================================================
-   LOAD ONE RSS
-===================================================== */
-
-async function loadFeed(
-    feed
-) {
+async function loadFeed(feed) {
 
 
     const apiUrl =
-
         RSS_API +
-
         encodeURIComponent(
             feed.url
         );
 
 
     const response =
-
         await fetch(
             apiUrl
         );
 
 
-    if (
-        !response.ok
-    ) {
+    if (!response.ok) {
 
         throw new Error(
             "HTTP " +
@@ -1603,7 +1485,6 @@ async function loadFeed(
 
 
     const data =
-
         await response.json();
 
 
@@ -1612,10 +1493,8 @@ async function loadFeed(
     ) {
 
         throw new Error(
-
             data.message ||
             "RSS error"
-
         );
 
     }
@@ -1631,18 +1510,13 @@ async function loadFeed(
 ===================================================== */
 
 async function loadSection(
-
     elementId,
-
     feedList,
-
     sectionType
-
 ) {
 
 
     const container =
-
         document.getElementById(
             elementId
         );
@@ -1660,28 +1534,20 @@ async function loadSection(
 
 
     const results =
-
         await Promise.allSettled(
 
             feedList.map(
 
                 feed =>
 
-                    loadFeed(
-                        feed
-                    )
+                    loadFeed(feed)
 
-                    .then(
-
-                        items => ({
-
-                            feed,
-
-                            items
-
-                        })
-
-                    )
+                        .then(
+                            items => ({
+                                feed,
+                                items
+                            })
+                        )
 
             )
 
@@ -1712,16 +1578,12 @@ async function loadSection(
 
 
         const {
-
             feed,
-
             items
-
         } = result.value;
 
 
         items.forEach(
-
             item => {
 
                 allItems.push({
@@ -1734,7 +1596,6 @@ async function loadSection(
                 });
 
             }
-
         );
 
     }
@@ -1745,18 +1606,15 @@ async function loadSection(
     ========================== */
 
     allItems.sort(
-
         (a, b) => {
 
             const dateA =
-
                 new Date(
                     a.pubDate || 0
                 ).getTime();
 
 
             const dateB =
-
                 new Date(
                     b.pubDate || 0
                 ).getTime();
@@ -1765,16 +1623,14 @@ async function loadSection(
             return dateB - dateA;
 
         }
-
     );
 
 
     /* =========================
-       MAX 30 ARTICLES
+       MAX 30
     ========================== */
 
     allItems =
-
         allItems.slice(
             0,
             30
@@ -1782,13 +1638,12 @@ async function loadSection(
 
 
     /* =========================
-       EMPTY
+       NO RESULTS
     ========================== */
 
     if (
         allItems.length === 0
     ) {
-
 
         container.innerHTML = `
 
@@ -1799,7 +1654,6 @@ async function loadSection(
             </div>
 
         `;
-
 
         return;
 
@@ -1815,19 +1669,13 @@ async function loadSection(
         allItems
 
             .map(
-
                 item =>
 
                     createCard(
-
                         item,
-
                         item.sourceName,
-
                         sectionType
-
                     )
-
             )
 
             .join("");
@@ -1836,39 +1684,27 @@ async function loadSection(
 
 
 /* =====================================================
-   START AGGREGATOR
+   START
 ===================================================== */
 
 loadSection(
-
     "mkd",
-
     feeds.mkd,
-
     "mkd"
-
 );
 
 
 loadSection(
-
     "de",
-
     feeds.de,
-
     "de"
-
 );
 
 
 loadSection(
-
     "starwars",
-
     feeds.starwars,
-
     "starwars"
-
 );
 
 </script>
