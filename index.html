@@ -566,12 +566,57 @@ main {
 
 
 /* =====================================================
+   BACK TO TOP
+===================================================== */
+
+.back-to-top {
+
+    display: block;
+
+    width: fit-content;
+
+    margin:
+        10px auto 30px auto;
+
+    padding:
+        11px 22px;
+
+    background: #111827;
+
+    color: white;
+
+    text-decoration: none;
+
+    border-radius: 22px;
+
+    font-size: 14px;
+
+    font-weight: bold;
+
+    transition:
+        background 0.2s,
+        transform 0.2s;
+
+}
+
+
+.back-to-top:hover {
+
+    background: #374151;
+
+    transform:
+        translateY(-2px);
+
+}
+
+
+/* =====================================================
    FOOTER
 ===================================================== */
 
 footer {
 
-    margin-top: 40px;
+    margin-top: 0;
 
     padding:
         30px 20px;
@@ -599,6 +644,7 @@ footer {
             repeat(2, 1fr);
 
     }
+
 
     .youtube-banners {
 
@@ -691,7 +737,7 @@ footer {
 </head>
 
 
-<body>
+<body id="top">
 
 
 <!-- =====================================================
@@ -754,7 +800,9 @@ Web Sites
     rel="noopener noreferrer"
 >
 
-<span class="banner-icon">🌐</span>
+<span class="banner-icon">
+🌐
+</span>
 
 OpenZIP
 
@@ -768,7 +816,9 @@ OpenZIP
     rel="noopener noreferrer"
 >
 
-<span class="banner-icon">📝</span>
+<span class="banner-icon">
+📝
+</span>
 
 Tendzi Blog
 
@@ -782,7 +832,9 @@ Tendzi Blog
     rel="noopener noreferrer"
 >
 
-<span class="banner-icon">💻</span>
+<span class="banner-icon">
+💻
+</span>
 
 ForFun81
 
@@ -796,7 +848,9 @@ ForFun81
     rel="noopener noreferrer"
 >
 
-<span class="banner-icon">⚡</span>
+<span class="banner-icon">
+⚡
+</span>
 
 Techy
 
@@ -825,7 +879,9 @@ YouTube Channels
     rel="noopener noreferrer"
 >
 
-<span class="banner-icon">▶️</span>
+<span class="banner-icon">
+▶️
+</span>
 
 Dragan Laboski
 
@@ -839,7 +895,9 @@ Dragan Laboski
     rel="noopener noreferrer"
 >
 
-<span class="banner-icon">▶️</span>
+<span class="banner-icon">
+▶️
+</span>
 
 EV7 BloxGame
 
@@ -853,7 +911,9 @@ EV7 BloxGame
     rel="noopener noreferrer"
 >
 
-<span class="banner-icon">▶️</span>
+<span class="banner-icon">
+▶️
+</span>
 
 25HighTech
 
@@ -959,8 +1019,24 @@ EV7 BloxGame
 </section>
 
 
+<!-- =====================================================
+     BACK TO TOP
+===================================================== -->
+
+<a
+    class="back-to-top"
+    href="#top"
+>
+⬆ Назад на почеток
+</a>
+
+
 </main>
 
+
+<!-- =====================================================
+     FOOTER
+===================================================== -->
 
 <footer>
 
@@ -978,9 +1054,9 @@ EV7 BloxGame
 const feeds = {
 
 
-    /* =================================================
+    /* =========================
        MKD
-    ================================================= */
+    ========================= */
 
     mkd: [
 
@@ -997,9 +1073,9 @@ const feeds = {
     ],
 
 
-    /* =================================================
+    /* =========================
        DE
-    ================================================= */
+    ========================= */
 
     de: [
 
@@ -1016,9 +1092,9 @@ const feeds = {
     ],
 
 
-    /* =================================================
+    /* =========================
        STAR WARS
-    ================================================= */
+    ========================= */
 
     starwars: [
 
@@ -1061,7 +1137,7 @@ const DEFAULT_IMAGES = {
 
 
 /* =====================================================
-   RSS2JSON API
+   RSS2JSON
 ===================================================== */
 
 const RSS_API =
@@ -1094,7 +1170,7 @@ function escapeHTML(text) {
 
 
 /* =====================================================
-   CHECK IF URL LOOKS LIKE IMAGE
+   CHECK IMAGE URL
 ===================================================== */
 
 function looksLikeImage(url) {
@@ -1163,7 +1239,7 @@ function cleanImageURL(url) {
 
 
 /* =====================================================
-   IMAGE FROM HTML
+   EXTRACT IMAGE FROM HTML
 ===================================================== */
 
 function extractImageFromHTML(html) {
@@ -1184,9 +1260,9 @@ function extractImageFromHTML(html) {
         );
 
 
-    /* ================================================
+    /* =========================
        OG IMAGE
-    ================================================ */
+    ========================= */
 
     const ogImage =
         doc.querySelector(
@@ -1206,9 +1282,9 @@ function extractImageFromHTML(html) {
     }
 
 
-    /* ================================================
+    /* =========================
        TWITTER IMAGE
-    ================================================ */
+    ========================= */
 
     const twitterImage =
         doc.querySelector(
@@ -1228,9 +1304,9 @@ function extractImageFromHTML(html) {
     }
 
 
-    /* ================================================
-       FIRST IMG
-    ================================================ */
+    /* =========================
+       IMAGES
+    ========================= */
 
     const images =
         doc.querySelectorAll("img");
@@ -1281,9 +1357,9 @@ function extractImageFromHTML(html) {
         }
 
 
-        /* ============================================
+        /* =========================
            SRCSET
-        ============================================ */
+        ========================= */
 
         const srcset =
             img.getAttribute(
@@ -1329,7 +1405,9 @@ function imageFromObject(value) {
     }
 
 
-    /* STRING */
+    /* =========================
+       STRING
+    ========================= */
 
     if (
         typeof value ===
@@ -1355,7 +1433,9 @@ function imageFromObject(value) {
     }
 
 
-    /* ARRAY */
+    /* =========================
+       ARRAY
+    ========================= */
 
     if (
         Array.isArray(value)
@@ -1379,7 +1459,9 @@ function imageFromObject(value) {
     }
 
 
-    /* OBJECT */
+    /* =========================
+       OBJECT
+    ========================= */
 
     if (
         typeof value ===
@@ -1443,9 +1525,9 @@ function imageFromObject(value) {
 function getImage(item) {
 
 
-    /* =================================================
-       1. RSS2JSON IMAGE FIELD
-    ================================================= */
+    /* =========================
+       DIRECT RSS FIELDS
+    ========================= */
 
     const directFields = [
 
@@ -1492,32 +1574,9 @@ function getImage(item) {
     }
 
 
-    /* =================================================
-       2. ENCLOSURE OBJECT
-    ================================================= */
-
-    if (
-        item.enclosure
-    ) {
-
-        const result =
-            imageFromObject(
-                item.enclosure
-            );
-
-
-        if (result) {
-
-            return result;
-
-        }
-
-    }
-
-
-    /* =================================================
-       3. DESCRIPTION
-    ================================================= */
+    /* =========================
+       DESCRIPTION
+    ========================= */
 
     const descriptionImage =
         extractImageFromHTML(
@@ -1532,9 +1591,9 @@ function getImage(item) {
     }
 
 
-    /* =================================================
-       4. CONTENT
-    ================================================= */
+    /* =========================
+       CONTENT
+    ========================= */
 
     const contentImage =
         extractImageFromHTML(
@@ -1549,9 +1608,9 @@ function getImage(item) {
     }
 
 
-    /* =================================================
-       5. CONTENT:ENCODED
-    ================================================= */
+    /* =========================
+       CONTENT ENCODED
+    ========================= */
 
     const encodedContent =
         item["content:encoded"];
@@ -1574,9 +1633,9 @@ function getImage(item) {
     }
 
 
-    /* =================================================
-       6. SUMMARY
-    ================================================= */
+    /* =========================
+       SUMMARY
+    ========================= */
 
     const summaryImage =
         extractImageFromHTML(
@@ -1587,31 +1646,6 @@ function getImage(item) {
     if (summaryImage) {
 
         return summaryImage;
-
-    }
-
-
-    /* =================================================
-       7. SOURCE
-    ================================================= */
-
-    if (
-        item.source
-    ) {
-
-        const sourceImage =
-            extractImageFromHTML(
-                JSON.stringify(
-                    item.source
-                )
-            );
-
-
-        if (sourceImage) {
-
-            return sourceImage;
-
-        }
 
     }
 
@@ -1659,7 +1693,7 @@ function formatDate(value) {
 
 
 /* =====================================================
-   CREATE CARD
+   CREATE NEWS CARD
 ===================================================== */
 
 function createCard(
@@ -1700,9 +1734,9 @@ function createCard(
     let imageHTML;
 
 
-    /* =================================================
-       REAL RSS IMAGE
-    ================================================= */
+    /* =========================
+       REAL IMAGE
+    ========================= */
 
     if (image) {
 
@@ -1716,6 +1750,7 @@ function createCard(
                     alt="${title}"
                     loading="lazy"
                     referrerpolicy="no-referrer"
+
                     onerror="
                         this.onerror=null;
                         this.src='${fallback}';
@@ -1729,9 +1764,9 @@ function createCard(
     }
 
 
-    /* =================================================
+    /* =========================
        FALLBACK
-    ================================================= */
+    ========================= */
 
     else {
 
@@ -1919,9 +1954,9 @@ async function loadSection(
     let allItems = [];
 
 
-    /* =================================================
-       COLLECT ALL ITEMS
-    ================================================= */
+    /* =========================
+       COLLECT
+    ========================= */
 
     for (
         const result
@@ -1967,9 +2002,9 @@ async function loadSection(
     }
 
 
-    /* =================================================
-       SORT NEWEST FIRST
-    ================================================= */
+    /* =========================
+       SORT
+    ========================= */
 
     allItems.sort(
         (a, b) => {
@@ -1992,9 +2027,9 @@ async function loadSection(
     );
 
 
-    /* =================================================
+    /* =========================
        LIMIT
-    ================================================= */
+    ========================= */
 
     allItems =
         allItems.slice(
@@ -2003,9 +2038,9 @@ async function loadSection(
         );
 
 
-    /* =================================================
-       NO RESULTS
-    ================================================= */
+    /* =========================
+       EMPTY
+    ========================= */
 
     if (
         allItems.length === 0
@@ -2026,9 +2061,9 @@ async function loadSection(
     }
 
 
-    /* =================================================
+    /* =========================
        DISPLAY
-    ================================================= */
+    ========================= */
 
     container.innerHTML =
 
