@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T16:37:21.445316+00:00",
+  "updated": "2026-08-20T17:31:41.491304+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -150,6 +150,15 @@
     {
       "category": "de",
       "source": "Tarnkappe",
+      "title": "Beitragsservice ohne Service: Haushaltspauschale künftig ohne Erinnerung",
+      "description": "",
+      "url": "https://tarnkappe.info/artikel/beitragsservice-ohne-service-haushaltspauschale-kuenftig-ohne-erinnerung-332831.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/ARD-ZDF-Schreiben-beitragsservice-700x300.jpg",
+      "date": ""
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
       "title": "RTX 5080 gestohlen: Dreister GPU-Tausch fliegt erst nach Blackout auf",
       "description": "",
       "url": "https://tarnkappe.info/artikel/gaming/rtx-5080-gestohlen-dreister-gpu-tausch-fliegt-erst-nach-blackout-auf-332816.html",
@@ -262,15 +271,6 @@
       "description": "",
       "url": "https://tarnkappe.info/artikel/softwareentwicklung/fareweave-bahn-split-tickets-flug-und-hotel-in-einer-suche-332498.html",
       "image": "https://cdn.tarnkappe.info/wpimg/FareWeave-700x300.png",
-      "date": ""
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Bilder ohne Qualitätsverlust hochskalieren: Was die neue Aiarty-Version bietet",
-      "description": "",
-      "url": "https://tarnkappe.info/artikel/gast-artikel/bilder-ohne-qualitaetsverlust-hochskalieren-was-die-neue-aiarty-version-bietet-332366.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/Aiarty-girl-1-700x300.jpg",
       "date": ""
     }
   ],
