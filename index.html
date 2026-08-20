@@ -14,9 +14,7 @@
     content="Yane's Aggregator - MKD, DE and Star Wars News"
 >
 
-<!-- =====================================================
-     GOOGLE ANALYTICS
-===================================================== -->
+<!-- GOOGLE ANALYTICS -->
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5RPGXB9L5W"></script>
 
@@ -710,10 +708,6 @@ footer {
 <body id="top">
 
 
-<!-- =====================================================
-     HEADER
-===================================================== -->
-
 <header>
 
 <h1>
@@ -728,7 +722,7 @@ MKD • DE • Star Wars News
 
 
 <!-- =====================================================
-     SECTION NAVIGATION
+     NAVIGATION
 ===================================================== -->
 
 <nav class="section-nav">
@@ -752,7 +746,7 @@ MKD • DE • Star Wars News
 
 
 <!-- =====================================================
-     WEB SITES
+     WEB BANNERS
 ===================================================== -->
 
 <div class="banner-title">
@@ -1004,10 +998,6 @@ Loading Star Wars news...
 </main>
 
 
-<!-- =====================================================
-     FOOTER
-===================================================== -->
-
 <footer>
 
 © 2026 Yane's Aggregator
@@ -1023,11 +1013,6 @@ Loading Star Wars news...
 
 const feeds = {
 
-
-    /* =================================================
-       MKD
-    ================================================= */
-
     mkd: [
 
         {
@@ -1042,11 +1027,6 @@ const feeds = {
 
     ],
 
-
-    /* =================================================
-       DE
-    ================================================= */
-
     de: [
 
         {
@@ -1060,11 +1040,6 @@ const feeds = {
         }
 
     ],
-
-
-    /* =================================================
-       STAR WARS
-    ================================================= */
 
     starwars: [
 
@@ -1107,11 +1082,18 @@ const DEFAULT_IMAGES = {
 
 
 /* =====================================================
-   RSS2JSON API
+   RSS2JSON
 ===================================================== */
 
 const RSS_API =
     "https://api.rss2json.com/v1/api.json?rss_url=";
+
+
+/* =====================================================
+   MAX NEWS PER SECTION
+===================================================== */
+
+const MAX_NEWS_PER_SECTION = 30;
 
 
 /* =====================================================
@@ -1140,7 +1122,7 @@ function escapeHTML(text) {
 
 
 /* =====================================================
-   CHECK IMAGE URL
+   IMAGE URL CHECK
 ===================================================== */
 
 function looksLikeImage(url) {
@@ -1228,10 +1210,6 @@ function extractImageFromHTML(html) {
         );
 
 
-    /* =================================================
-       OG IMAGE
-    ================================================= */
-
     const ogImage =
         doc.querySelector(
             'meta[property="og:image"]'
@@ -1249,10 +1227,6 @@ function extractImageFromHTML(html) {
     }
 
 
-    /* =================================================
-       TWITTER IMAGE
-    ================================================= */
-
     const twitterImage =
         doc.querySelector(
             'meta[name="twitter:image"]'
@@ -1269,10 +1243,6 @@ function extractImageFromHTML(html) {
 
     }
 
-
-    /* =================================================
-       IMAGE TAGS
-    ================================================= */
 
     const images =
         doc.querySelectorAll("img");
@@ -1322,10 +1292,6 @@ function extractImageFromHTML(html) {
         }
 
 
-        /* =================================================
-           SRCSET
-        ================================================= */
-
         const srcset =
             img.getAttribute(
                 "srcset"
@@ -1370,10 +1336,6 @@ function imageFromObject(value) {
     }
 
 
-    /* =================================================
-       STRING
-    ================================================= */
-
     if (
         typeof value ===
         "string"
@@ -1392,15 +1354,10 @@ function imageFromObject(value) {
 
         }
 
-
         return "";
 
     }
 
-
-    /* =================================================
-       ARRAY
-    ================================================= */
 
     if (
         Array.isArray(value)
@@ -1426,10 +1383,6 @@ function imageFromObject(value) {
     }
 
 
-    /* =================================================
-       OBJECT
-    ================================================= */
-
     if (
         typeof value ===
         "object"
@@ -1438,15 +1391,10 @@ function imageFromObject(value) {
         const keys = [
 
             "url",
-
             "link",
-
             "href",
-
             "src",
-
             "thumbnail",
-
             "image"
 
         ];
@@ -1486,15 +1434,11 @@ function imageFromObject(value) {
 
 
 /* =====================================================
-   GET IMAGE
+   GET BEST IMAGE
 ===================================================== */
 
 function getImage(item) {
 
-
-    /* =================================================
-       DIRECT RSS FIELDS
-    ================================================= */
 
     const directFields = [
 
@@ -1541,10 +1485,6 @@ function getImage(item) {
     }
 
 
-    /* =================================================
-       DESCRIPTION
-    ================================================= */
-
     const descriptionImage =
         extractImageFromHTML(
             item.description
@@ -1558,10 +1498,6 @@ function getImage(item) {
     }
 
 
-    /* =================================================
-       CONTENT
-    ================================================= */
-
     const contentImage =
         extractImageFromHTML(
             item.content
@@ -1574,10 +1510,6 @@ function getImage(item) {
 
     }
 
-
-    /* =================================================
-       CONTENT ENCODED
-    ================================================= */
 
     const encodedContent =
         item["content:encoded"];
@@ -1599,10 +1531,6 @@ function getImage(item) {
 
     }
 
-
-    /* =================================================
-       SUMMARY
-    ================================================= */
 
     const summaryImage =
         extractImageFromHTML(
@@ -1660,7 +1588,7 @@ function formatDate(value) {
 
 
 /* =====================================================
-   CREATE NEWS CARD
+   CREATE CARD
 ===================================================== */
 
 function createCard(
@@ -1701,10 +1629,6 @@ function createCard(
     let imageHTML;
 
 
-    /* =================================================
-       REAL RSS IMAGE
-    ================================================= */
-
     if (image) {
 
         imageHTML = `
@@ -1729,11 +1653,6 @@ function createCard(
         `;
 
     }
-
-
-    /* =================================================
-       FALLBACK IMAGE
-    ================================================= */
 
     else {
 
@@ -1767,7 +1686,6 @@ function createCard(
 
                 ${imageHTML}
 
-
                 <div class="card-content">
 
                     <div class="card-title">
@@ -1775,7 +1693,6 @@ function createCard(
                         ${title}
 
                     </div>
-
 
                     <div class="card-source">
 
@@ -1785,26 +1702,18 @@ function createCard(
 
                     </div>
 
-
                     ${
                         date
-
                         ?
-
                         `
-
                         <div class="card-date">
 
                             ${date}
 
                         </div>
-
                         `
-
                         :
-
                         ""
-
                     }
 
                 </div>
@@ -1819,7 +1728,7 @@ function createCard(
 
 
 /* =====================================================
-   LOAD RSS FEED
+   LOAD FEED
 ===================================================== */
 
 async function loadFeed(feed) {
@@ -1920,10 +1829,6 @@ async function loadSection(
     let allItems = [];
 
 
-    /* =================================================
-       COLLECT ITEMS
-    ================================================= */
-
     for (
         const result
         of results
@@ -1994,19 +1899,15 @@ async function loadSection(
 
 
     /* =================================================
-       LIMIT
+       KEEP ONLY NEWEST 30
     ================================================= */
 
     allItems =
         allItems.slice(
             0,
-            30
+            MAX_NEWS_PER_SECTION
         );
 
-
-    /* =================================================
-       NO RESULTS
-    ================================================= */
 
     if (
         allItems.length === 0
@@ -2026,10 +1927,6 @@ async function loadSection(
 
     }
 
-
-    /* =================================================
-       DISPLAY
-    ================================================= */
 
     container.innerHTML =
 
