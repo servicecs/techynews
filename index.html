@@ -2,7 +2,9 @@
 <html lang="mk">
 
 <head>
+
 <meta charset="UTF-8">
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>Yane's Aggregator</title>
@@ -12,10 +14,14 @@
     content="Yane's Aggregator - MKD, DE и Star Wars News"
 >
 
-<!-- GOOGLE ANALYTICS -->
+<!-- =========================
+     GOOGLE ANALYTICS
+========================= -->
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5RPGXB9L5W"></script>
 
 <script>
+
 window.dataLayer = window.dataLayer || [];
 
 function gtag() {
@@ -25,14 +31,15 @@ function gtag() {
 gtag('js', new Date());
 
 gtag('config', 'G-5RPGXB9L5W');
+
 </script>
 
 
 <style>
 
-/* =========================
+/* =====================================================
    RESET
-========================= */
+===================================================== */
 
 * {
     box-sizing: border-box;
@@ -40,123 +47,172 @@ gtag('config', 'G-5RPGXB9L5W');
     padding: 0;
 }
 
+
 html {
     scroll-behavior: smooth;
 }
 
+
 body {
-    font-family: Arial, Helvetica, sans-serif;
+
+    font-family:
+        Arial,
+        Helvetica,
+        sans-serif;
+
     background: #f1f3f5;
+
     color: #222;
+
 }
 
 
-/* =========================
+/* =====================================================
    HEADER
-========================= */
+===================================================== */
 
 header {
-    background: linear-gradient(
-        135deg,
-        #111827,
-        #263244
-    );
+
+    background:
+        linear-gradient(
+            135deg,
+            #111827,
+            #263244
+        );
 
     color: white;
+
     text-align: center;
+
     padding: 30px 20px;
+
 }
+
 
 header h1 {
+
     font-size: 32px;
+
 }
+
 
 header p {
+
     margin-top: 6px;
+
     color: #cbd5e1;
+
     font-size: 14px;
+
 }
 
 
-/* =========================
-   SECTION NAVIGATION
-========================= */
+/* =====================================================
+   NAVIGATION
+===================================================== */
 
 .section-nav {
+
     display: flex;
+
     justify-content: center;
+
     align-items: center;
+
     gap: 10px;
+
     flex-wrap: wrap;
 
     padding: 11px 15px;
 
     background: white;
 
-    border-bottom: 1px solid #ddd;
+    border-bottom:
+        1px solid #ddd;
 
     position: sticky;
+
     top: 0;
+
     z-index: 1000;
 
     box-shadow:
-        0 2px 8px rgba(0,0,0,0.06);
+        0 2px 8px
+        rgba(0,0,0,0.06);
+
 }
 
+
 .section-nav a {
+
     text-decoration: none;
+
     color: #222;
 
     background: #f3f4f6;
 
-    border: 1px solid #d1d5db;
+    border:
+        1px solid #d1d5db;
 
-    padding: 8px 15px;
+    padding:
+        8px 15px;
 
     border-radius: 20px;
 
     font-size: 14px;
+
     font-weight: bold;
 
     transition: 0.2s;
+
 }
+
 
 .section-nav a:hover {
+
     background: #111827;
+
     color: white;
+
 }
 
 
-/* =========================
+/* =====================================================
    MAIN
-========================= */
+===================================================== */
 
 main {
+
     width: 94%;
+
     max-width: 1400px;
 
-    margin: 25px auto;
+    margin:
+        25px auto;
+
 }
 
 
-/* =========================
+/* =====================================================
    BANNER TITLES
-========================= */
+===================================================== */
 
 .banner-title {
+
     text-align: center;
 
     font-size: 19px;
+
     font-weight: bold;
 
     margin-bottom: 14px;
+
 }
 
 
-/* =========================
+/* =====================================================
    WEB BANNERS
-   ONE ROW
-========================= */
+===================================================== */
 
 .web-banners {
 
@@ -173,13 +229,13 @@ main {
 
     margin:
         0 auto 14px auto;
+
 }
 
 
-/* =========================
+/* =====================================================
    YOUTUBE BANNERS
-   SECOND ROW
-========================= */
+===================================================== */
 
 .youtube-banners {
 
@@ -196,12 +252,13 @@ main {
 
     margin:
         0 auto 40px auto;
+
 }
 
 
-/* =========================
-   BANNER
-========================= */
+/* =====================================================
+   BANNERS
+===================================================== */
 
 .banner {
 
@@ -219,7 +276,8 @@ main {
 
     background: white;
 
-    border: 1px solid #ddd;
+    border:
+        1px solid #ddd;
 
     border-radius: 12px;
 
@@ -230,12 +288,15 @@ main {
     font-weight: bold;
 
     box-shadow:
-        0 2px 7px rgba(0,0,0,0.07);
+        0 2px 7px
+        rgba(0,0,0,0.07);
 
     transition:
         transform 0.2s,
         box-shadow 0.2s;
+
 }
+
 
 .banner:hover {
 
@@ -245,47 +306,47 @@ main {
     box-shadow:
         0 8px 18px
         rgba(0,0,0,0.14);
+
 }
 
-
-/* WEB */
 
 .web-banner {
 
     border-top:
         4px solid #374151;
+
 }
 
-
-/* YOUTUBE */
 
 .youtube-banner {
 
     border-top:
         4px solid #ff0000;
+
 }
 
-
-/* ICON */
 
 .banner-icon {
 
     font-size: 22px;
 
     margin-right: 8px;
+
 }
 
 
-/* =========================
+/* =====================================================
    SECTIONS
-========================= */
+===================================================== */
 
 .section {
 
     margin-bottom: 60px;
 
     scroll-margin-top: 75px;
+
 }
+
 
 .section-title {
 
@@ -295,16 +356,20 @@ main {
 
     border-bottom:
         3px solid #222;
+
 }
+
 
 .section-title h2 {
+
     font-size: 26px;
+
 }
 
 
-/* =========================
+/* =====================================================
    NEWS GRID
-========================= */
+===================================================== */
 
 .news-grid {
 
@@ -320,12 +385,13 @@ main {
         );
 
     gap: 20px;
+
 }
 
 
-/* =========================
+/* =====================================================
    NEWS CARD
-========================= */
+===================================================== */
 
 .card {
 
@@ -345,7 +411,9 @@ main {
     transition:
         transform 0.2s,
         box-shadow 0.2s;
+
 }
+
 
 .card:hover {
 
@@ -355,7 +423,9 @@ main {
     box-shadow:
         0 9px 22px
         rgba(0,0,0,0.13);
+
 }
+
 
 .card a {
 
@@ -364,12 +434,13 @@ main {
     color: inherit;
 
     text-decoration: none;
+
 }
 
 
-/* =========================
+/* =====================================================
    IMAGE
-========================= */
+===================================================== */
 
 .image-wrapper {
 
@@ -380,7 +451,9 @@ main {
     background: #e5e7eb;
 
     overflow: hidden;
+
 }
+
 
 .card-image {
 
@@ -394,23 +467,28 @@ main {
 
     transition:
         transform 0.3s;
+
 }
+
 
 .card:hover .card-image {
 
     transform:
         scale(1.04);
+
 }
 
 
-/* =========================
+/* =====================================================
    CARD CONTENT
-========================= */
+===================================================== */
 
 .card-content {
 
     padding: 15px;
+
 }
+
 
 .card-title {
 
@@ -421,7 +499,9 @@ main {
     line-height: 1.4;
 
     margin-bottom: 9px;
+
 }
+
 
 .card-source {
 
@@ -432,19 +512,22 @@ main {
     color: #6b7280;
 
     margin-bottom: 4px;
+
 }
+
 
 .card-date {
 
     font-size: 12px;
 
     color: #9ca3af;
+
 }
 
 
-/* =========================
+/* =====================================================
    LOADING
-========================= */
+===================================================== */
 
 .loading {
 
@@ -456,12 +539,13 @@ main {
     padding: 40px;
 
     color: #777;
+
 }
 
 
-/* =========================
+/* =====================================================
    ERROR
-========================= */
+===================================================== */
 
 .error {
 
@@ -477,12 +561,13 @@ main {
     border-radius: 10px;
 
     text-align: center;
+
 }
 
 
-/* =========================
+/* =====================================================
    FOOTER
-========================= */
+===================================================== */
 
 footer {
 
@@ -498,12 +583,13 @@ footer {
     text-align: center;
 
     font-size: 13px;
+
 }
 
 
-/* =========================
+/* =====================================================
    TABLET
-========================= */
+===================================================== */
 
 @media (max-width: 900px) {
 
@@ -511,29 +597,38 @@ footer {
 
         grid-template-columns:
             repeat(2, 1fr);
+
     }
 
     .youtube-banners {
 
         grid-template-columns:
             repeat(3, 1fr);
+
     }
+
 }
 
 
-/* =========================
+/* =====================================================
    MOBILE
-========================= */
+===================================================== */
 
 @media (max-width: 600px) {
 
     header h1 {
+
         font-size: 25px;
+
     }
 
+
     main {
+
         width: 92%;
+
     }
+
 
     .web-banners {
 
@@ -541,7 +636,9 @@ footer {
             1fr 1fr;
 
         gap: 9px;
+
     }
+
 
     .youtube-banners {
 
@@ -549,7 +646,9 @@ footer {
             1fr 1fr;
 
         gap: 9px;
+
     }
+
 
     .banner {
 
@@ -558,25 +657,33 @@ footer {
         font-size: 12px;
 
         padding: 8px;
+
     }
+
 
     .banner-icon {
 
         font-size: 18px;
 
         margin-right: 5px;
+
     }
+
 
     .news-grid {
 
         grid-template-columns:
             1fr;
+
     }
+
 
     .image-wrapper {
 
         height: 210px;
+
     }
+
 }
 
 </style>
@@ -587,9 +694,9 @@ footer {
 <body>
 
 
-<!-- =========================
+<!-- =====================================================
      HEADER
-========================= -->
+===================================================== -->
 
 <header>
 
@@ -604,9 +711,9 @@ MKD • DE • Star Wars News
 </header>
 
 
-<!-- =========================
-     SECTION LINKS
-========================= -->
+<!-- =====================================================
+     SECTION NAVIGATION
+===================================================== -->
 
 <nav class="section-nav">
 
@@ -628,10 +735,9 @@ MKD • DE • Star Wars News
 <main>
 
 
-<!-- =================================================
+<!-- =====================================================
      WEB SITES
-     FIRST ROW
-================================================= -->
+===================================================== -->
 
 <div class="banner-title">
 Web Sites
@@ -641,8 +747,6 @@ Web Sites
 <div class="web-banners">
 
 
-<!-- OPENZIP -->
-
 <a
     class="banner web-banner"
     href="https://bloxgamesev7-prog.github.io/openzip/"
@@ -650,16 +754,12 @@ Web Sites
     rel="noopener noreferrer"
 >
 
-<span class="banner-icon">
-🌐
-</span>
+<span class="banner-icon">🌐</span>
 
 OpenZIP
 
 </a>
 
-
-<!-- TENDZI BLOG -->
 
 <a
     class="banner web-banner"
@@ -668,16 +768,12 @@ OpenZIP
     rel="noopener noreferrer"
 >
 
-<span class="banner-icon">
-📝
-</span>
+<span class="banner-icon">📝</span>
 
 Tendzi Blog
 
 </a>
 
-
-<!-- FORFUN81 -->
 
 <a
     class="banner web-banner"
@@ -686,16 +782,12 @@ Tendzi Blog
     rel="noopener noreferrer"
 >
 
-<span class="banner-icon">
-💻
-</span>
+<span class="banner-icon">💻</span>
 
 ForFun81
 
 </a>
 
-
-<!-- TECHY -->
 
 <a
     class="banner web-banner"
@@ -704,9 +796,7 @@ ForFun81
     rel="noopener noreferrer"
 >
 
-<span class="banner-icon">
-⚡
-</span>
+<span class="banner-icon">⚡</span>
 
 Techy
 
@@ -716,10 +806,9 @@ Techy
 </div>
 
 
-<!-- =================================================
+<!-- =====================================================
      YOUTUBE
-     SECOND ROW
-================================================= -->
+===================================================== -->
 
 <div class="banner-title">
 YouTube Channels
@@ -729,8 +818,6 @@ YouTube Channels
 <div class="youtube-banners">
 
 
-<!-- DRAGAN LABOSKI -->
-
 <a
     class="banner youtube-banner"
     href="https://youtube.com/@draganlaboski?si=fpSIyfXdXkzOUL8b"
@@ -738,16 +825,12 @@ YouTube Channels
     rel="noopener noreferrer"
 >
 
-<span class="banner-icon">
-▶️
-</span>
+<span class="banner-icon">▶️</span>
 
 Dragan Laboski
 
 </a>
 
-
-<!-- EV7 BLOXGAME -->
 
 <a
     class="banner youtube-banner"
@@ -756,16 +839,12 @@ Dragan Laboski
     rel="noopener noreferrer"
 >
 
-<span class="banner-icon">
-▶️
-</span>
+<span class="banner-icon">▶️</span>
 
 EV7 BloxGame
 
 </a>
 
-
-<!-- 25HIGHTECH -->
 
 <a
     class="banner youtube-banner"
@@ -774,9 +853,7 @@ EV7 BloxGame
     rel="noopener noreferrer"
 >
 
-<span class="banner-icon">
-▶️
-</span>
+<span class="banner-icon">▶️</span>
 
 25HighTech
 
@@ -786,9 +863,9 @@ EV7 BloxGame
 </div>
 
 
-<!-- =================================================
+<!-- =====================================================
      MKD
-================================================= -->
+===================================================== -->
 
 <section
     class="section"
@@ -818,9 +895,9 @@ EV7 BloxGame
 </section>
 
 
-<!-- =================================================
+<!-- =====================================================
      DE
-================================================= -->
+===================================================== -->
 
 <section
     class="section"
@@ -850,9 +927,9 @@ EV7 BloxGame
 </section>
 
 
-<!-- =================================================
+<!-- =====================================================
      STAR WARS
-================================================= -->
+===================================================== -->
 
 <section
     class="section"
@@ -894,7 +971,6 @@ EV7 BloxGame
 
 <script>
 
-
 /* =====================================================
    RSS SOURCES
 ===================================================== */
@@ -902,7 +978,9 @@ EV7 BloxGame
 const feeds = {
 
 
-    /* MKD */
+    /* =================================================
+       MKD
+    ================================================= */
 
     mkd: [
 
@@ -919,7 +997,9 @@ const feeds = {
     ],
 
 
-    /* DE */
+    /* =================================================
+       DE
+    ================================================= */
 
     de: [
 
@@ -936,7 +1016,9 @@ const feeds = {
     ],
 
 
-    /* STAR WARS */
+    /* =================================================
+       STAR WARS
+    ================================================= */
 
     starwars: [
 
@@ -961,7 +1043,7 @@ const feeds = {
 
 
 /* =====================================================
-   WIKIMEDIA FALLBACK IMAGES
+   FALLBACK IMAGES
 ===================================================== */
 
 const DEFAULT_IMAGES = {
@@ -979,7 +1061,7 @@ const DEFAULT_IMAGES = {
 
 
 /* =====================================================
-   RSS2JSON
+   RSS2JSON API
 ===================================================== */
 
 const RSS_API =
@@ -1012,7 +1094,76 @@ function escapeHTML(text) {
 
 
 /* =====================================================
-   EXTRACT IMAGE
+   CHECK IF URL LOOKS LIKE IMAGE
+===================================================== */
+
+function looksLikeImage(url) {
+
+    if (!url) {
+        return false;
+    }
+
+    const clean =
+        url
+            .split("?")[0]
+            .split("#")[0]
+            .toLowerCase();
+
+    return (
+
+        clean.includes(".jpg") ||
+        clean.includes(".jpeg") ||
+        clean.includes(".png") ||
+        clean.includes(".webp") ||
+        clean.includes(".gif") ||
+        clean.includes(".avif") ||
+        clean.includes(".svg") ||
+
+        clean.includes("/image") ||
+        clean.includes("/images") ||
+        clean.includes("/img") ||
+        clean.includes("/uploads") ||
+        clean.includes("/media")
+
+    );
+
+}
+
+
+/* =====================================================
+   CLEAN IMAGE URL
+===================================================== */
+
+function cleanImageURL(url) {
+
+    if (!url) {
+        return "";
+    }
+
+    let value =
+        String(url).trim();
+
+    value =
+        value
+            .replace(/^['"]/, "")
+            .replace(/['"]$/, "");
+
+    if (
+        value.startsWith("//")
+    ) {
+
+        value =
+            "https:" + value;
+
+    }
+
+    return value;
+
+}
+
+
+/* =====================================================
+   IMAGE FROM HTML
 ===================================================== */
 
 function extractImageFromHTML(html) {
@@ -1021,8 +1172,10 @@ function extractImageFromHTML(html) {
         return "";
     }
 
+
     const parser =
         new DOMParser();
+
 
     const doc =
         parser.parseFromString(
@@ -1030,26 +1183,255 @@ function extractImageFromHTML(html) {
             "text/html"
         );
 
-    const img =
-        doc.querySelector("img");
 
-    if (!img) {
+    /* ================================================
+       OG IMAGE
+    ================================================ */
+
+    const ogImage =
+        doc.querySelector(
+            'meta[property="og:image"]'
+        );
+
+
+    if (
+        ogImage &&
+        ogImage.content
+    ) {
+
+        return cleanImageURL(
+            ogImage.content
+        );
+
+    }
+
+
+    /* ================================================
+       TWITTER IMAGE
+    ================================================ */
+
+    const twitterImage =
+        doc.querySelector(
+            'meta[name="twitter:image"]'
+        );
+
+
+    if (
+        twitterImage &&
+        twitterImage.content
+    ) {
+
+        return cleanImageURL(
+            twitterImage.content
+        );
+
+    }
+
+
+    /* ================================================
+       FIRST IMG
+    ================================================ */
+
+    const images =
+        doc.querySelectorAll("img");
+
+
+    for (
+        const img
+        of images
+    ) {
+
+
+        const attributes = [
+
+            "src",
+
+            "data-src",
+
+            "data-original",
+
+            "data-lazy-src",
+
+            "data-image",
+
+            "data-url"
+
+        ];
+
+
+        for (
+            const attribute
+            of attributes
+        ) {
+
+            const value =
+                img.getAttribute(
+                    attribute
+                );
+
+
+            if (value) {
+
+                return cleanImageURL(
+                    value
+                );
+
+            }
+
+        }
+
+
+        /* ============================================
+           SRCSET
+        ============================================ */
+
+        const srcset =
+            img.getAttribute(
+                "srcset"
+            );
+
+
+        if (srcset) {
+
+            const first =
+                srcset
+                    .split(",")[0]
+                    .trim()
+                    .split(" ")[0];
+
+
+            if (first) {
+
+                return cleanImageURL(
+                    first
+                );
+
+            }
+
+        }
+
+    }
+
+
+    return "";
+
+}
+
+
+/* =====================================================
+   IMAGE FROM OBJECT
+===================================================== */
+
+function imageFromObject(value) {
+
+    if (!value) {
         return "";
     }
 
-    return (
 
-        img.getAttribute("src") ||
+    /* STRING */
 
-        img.getAttribute("data-src") ||
+    if (
+        typeof value ===
+        "string"
+    ) {
 
-        img.getAttribute("data-lazy-src") ||
+        const url =
+            cleanImageURL(value);
 
-        img.getAttribute("data-original") ||
 
-        ""
+        if (
+            url.startsWith("http") &&
+            looksLikeImage(url)
+        ) {
 
-    );
+            return url;
+
+        }
+
+
+        return "";
+
+    }
+
+
+    /* ARRAY */
+
+    if (
+        Array.isArray(value)
+    ) {
+
+        for (
+            const item
+            of value
+        ) {
+
+            const result =
+                imageFromObject(item);
+
+
+            if (result) {
+                return result;
+            }
+
+        }
+
+    }
+
+
+    /* OBJECT */
+
+    if (
+        typeof value ===
+        "object"
+    ) {
+
+        const keys = [
+
+            "url",
+
+            "link",
+
+            "href",
+
+            "src",
+
+            "thumbnail",
+
+            "image"
+
+        ];
+
+
+        for (
+            const key
+            of keys
+        ) {
+
+            if (
+                value[key]
+            ) {
+
+                const result =
+                    imageFromObject(
+                        value[key]
+                    );
+
+
+                if (result) {
+
+                    return result;
+
+                }
+
+            }
+
+        }
+
+    }
+
+
+    return "";
 
 }
 
@@ -1061,114 +1443,81 @@ function extractImageFromHTML(html) {
 function getImage(item) {
 
 
-    /* thumbnail */
+    /* =================================================
+       1. RSS2JSON IMAGE FIELD
+    ================================================= */
 
-    if (
-        item.thumbnail &&
-        typeof item.thumbnail === "string"
+    const directFields = [
+
+        item.thumbnail,
+
+        item.image,
+
+        item.image_url,
+
+        item.imageUrl,
+
+        item.enclosure,
+
+        item.media,
+
+        item.media_content,
+
+        item.media_thumbnail,
+
+        item["media:content"],
+
+        item["media:thumbnail"],
+
+        item["itunes:image"]
+
+    ];
+
+
+    for (
+        const field
+        of directFields
     ) {
 
-        return item.thumbnail;
+        const result =
+            imageFromObject(field);
+
+
+        if (result) {
+
+            return result;
+
+        }
 
     }
 
 
-    /* enclosure */
+    /* =================================================
+       2. ENCLOSURE OBJECT
+    ================================================= */
 
-    if (item.enclosure) {
+    if (
+        item.enclosure
+    ) {
 
-        if (
-            item.enclosure.link
-        ) {
-
-            return item.enclosure.link;
-
-        }
-
-
-        if (
-            Array.isArray(
+        const result =
+            imageFromObject(
                 item.enclosure
-            )
-        ) {
+            );
 
-            for (
-                const enclosure
-                of item.enclosure
-            ) {
 
-                if (
-                    enclosure &&
-                    enclosure.link
-                ) {
+        if (result) {
 
-                    return enclosure.link;
-
-                }
-
-            }
+            return result;
 
         }
 
     }
 
 
-    /* media */
-
-    if (item.media) {
-
-        const values = [
-
-            item.media.content,
-
-            item.media.thumbnail
-
-        ];
-
-
-        for (
-            const value
-            of values
-        ) {
-
-            if (
-                Array.isArray(value)
-            ) {
-
-                for (
-                    const media
-                    of value
-                ) {
-
-                    if (
-                        media &&
-                        media.url
-                    ) {
-
-                        return media.url;
-
-                    }
-
-                }
-
-            }
-
-
-            if (
-                value &&
-                value.url
-            ) {
-
-                return value.url;
-
-            }
-
-        }
-
-    }
-
-
-    /* description */
+    /* =================================================
+       3. DESCRIPTION
+    ================================================= */
 
     const descriptionImage =
         extractImageFromHTML(
@@ -1183,7 +1532,9 @@ function getImage(item) {
     }
 
 
-    /* content */
+    /* =================================================
+       4. CONTENT
+    ================================================= */
 
     const contentImage =
         extractImageFromHTML(
@@ -1198,13 +1549,80 @@ function getImage(item) {
     }
 
 
+    /* =================================================
+       5. CONTENT:ENCODED
+    ================================================= */
+
+    const encodedContent =
+        item["content:encoded"];
+
+
+    if (encodedContent) {
+
+        const encodedImage =
+            extractImageFromHTML(
+                encodedContent
+            );
+
+
+        if (encodedImage) {
+
+            return encodedImage;
+
+        }
+
+    }
+
+
+    /* =================================================
+       6. SUMMARY
+    ================================================= */
+
+    const summaryImage =
+        extractImageFromHTML(
+            item.summary
+        );
+
+
+    if (summaryImage) {
+
+        return summaryImage;
+
+    }
+
+
+    /* =================================================
+       7. SOURCE
+    ================================================= */
+
+    if (
+        item.source
+    ) {
+
+        const sourceImage =
+            extractImageFromHTML(
+                JSON.stringify(
+                    item.source
+                )
+            );
+
+
+        if (sourceImage) {
+
+            return sourceImage;
+
+        }
+
+    }
+
+
     return "";
 
 }
 
 
 /* =====================================================
-   DATE
+   FORMAT DATE
 ===================================================== */
 
 function formatDate(value) {
@@ -1213,8 +1631,10 @@ function formatDate(value) {
         return "";
     }
 
+
     const date =
         new Date(value);
+
 
     if (
         isNaN(
@@ -1225,6 +1645,7 @@ function formatDate(value) {
         return "";
 
     }
+
 
     return date.toLocaleString(
         "de-DE",
@@ -1279,6 +1700,10 @@ function createCard(
     let imageHTML;
 
 
+    /* =================================================
+       REAL RSS IMAGE
+    ================================================= */
+
     if (image) {
 
         imageHTML = `
@@ -1291,7 +1716,6 @@ function createCard(
                     alt="${title}"
                     loading="lazy"
                     referrerpolicy="no-referrer"
-
                     onerror="
                         this.onerror=null;
                         this.src='${fallback}';
@@ -1303,6 +1727,11 @@ function createCard(
         `;
 
     }
+
+
+    /* =================================================
+       FALLBACK
+    ================================================= */
 
     else {
 
@@ -1388,10 +1817,11 @@ function createCard(
 
 
 /* =====================================================
-   LOAD FEED
+   LOAD RSS FEED
 ===================================================== */
 
 async function loadFeed(feed) {
+
 
     const apiUrl =
         RSS_API +
@@ -1489,6 +1919,10 @@ async function loadSection(
     let allItems = [];
 
 
+    /* =================================================
+       COLLECT ALL ITEMS
+    ================================================= */
+
     for (
         const result
         of results
@@ -1533,7 +1967,9 @@ async function loadSection(
     }
 
 
-    /* NEWEST FIRST */
+    /* =================================================
+       SORT NEWEST FIRST
+    ================================================= */
 
     allItems.sort(
         (a, b) => {
@@ -1556,7 +1992,9 @@ async function loadSection(
     );
 
 
-    /* MAX 30 */
+    /* =================================================
+       LIMIT
+    ================================================= */
 
     allItems =
         allItems.slice(
@@ -1564,6 +2002,10 @@ async function loadSection(
             30
         );
 
+
+    /* =================================================
+       NO RESULTS
+    ================================================= */
 
     if (
         allItems.length === 0
@@ -1583,6 +2025,10 @@ async function loadSection(
 
     }
 
+
+    /* =================================================
+       DISPLAY
+    ================================================= */
 
     container.innerHTML =
 
