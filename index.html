@@ -3,10 +3,18 @@
 
 <head>
 
-    <!-- =========================
-         GOOGLE ANALYTICS
-    ========================== -->
+    <meta charset="UTF-8">
 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Yane's Aggregator</title>
+
+    <meta
+        name="description"
+        content="Yane's Aggregator - MKD, DE и Star Wars News"
+    >
+
+    <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-5RPGXB9L5W"></script>
 
     <script>
@@ -21,18 +29,6 @@
     </script>
 
 
-    <meta charset="UTF-8">
-
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <title>Yane's Aggregator</title>
-
-    <meta
-        name="description"
-        content="Yane's Aggregator - MKD, DE и Star Wars News"
-    >
-
-
     <style>
 
         * {
@@ -41,113 +37,79 @@
             padding: 0;
         }
 
-
         html {
             scroll-behavior: smooth;
         }
 
-
         body {
-            font-family:
-                Arial,
-                Helvetica,
-                sans-serif;
-
+            font-family: Arial, Helvetica, sans-serif;
             background: #f1f3f5;
-
             color: #222;
-
-            line-height: 1.5;
         }
 
 
         /* =========================
            HEADER
-        ========================== */
+        ========================= */
 
         header {
-
-            background:
-                linear-gradient(
-                    135deg,
-                    #111827,
-                    #263244
-                );
+            background: linear-gradient(
+                135deg,
+                #111827,
+                #263244
+            );
 
             color: white;
-
-            padding: 28px 20px;
-
             text-align: center;
+            padding: 28px 20px;
         }
-
 
         header h1 {
-
             font-size: 31px;
-
-            letter-spacing: 0.5px;
         }
 
-
         header p {
-
             margin-top: 5px;
-
             color: #cbd5e1;
-
             font-size: 14px;
         }
 
 
         /* =========================
            SECTION MENU
-        ========================== */
+        ========================= */
 
         .section-nav {
-
             display: flex;
-
             justify-content: center;
-
             align-items: center;
-
             gap: 8px;
-
             flex-wrap: wrap;
 
             padding: 10px 15px;
 
             background: white;
 
-            border-bottom:
-                1px solid #ddd;
+            border-bottom: 1px solid #ddd;
 
             position: sticky;
-
             top: 0;
-
             z-index: 1000;
 
             box-shadow:
-                0 2px 7px
-                rgba(0,0,0,0.06);
+                0 2px 7px rgba(0,0,0,0.06);
         }
 
-
         .section-nav a {
-
             display: inline-block;
 
-            padding:
-                7px 14px;
+            padding: 7px 14px;
 
             border-radius: 18px;
 
             background: #f3f4f6;
 
-            border:
-                1px solid #d1d5db;
+            border: 1px solid #d1d5db;
 
             color: #222;
 
@@ -157,65 +119,59 @@
 
             font-weight: bold;
 
-            transition:
-                0.2s;
+            transition: 0.2s;
         }
 
-
         .section-nav a:hover {
-
             background: #111827;
-
             color: white;
-
-            border-color:
-                #111827;
         }
 
 
         /* =========================
            MAIN
-        ========================== */
+        ========================= */
 
         main {
-
             width: 94%;
-
             max-width: 1400px;
 
-            margin:
-                24px auto;
+            margin: 25px auto;
         }
 
 
         /* =========================
-           BANNERS
-        ========================== */
+           YOUTUBE BANNERS
+        ========================= */
 
-        .banners {
+        .youtube-title {
+            text-align: center;
 
-            display: flex;
+            font-size: 18px;
 
-            justify-content: center;
+            font-weight: bold;
 
-            align-items: stretch;
+            margin-bottom: 12px;
 
-            gap: 10px;
+            color: #333;
+        }
+
+        .youtube-banners {
+
+            display: grid;
+
+            grid-template-columns:
+                repeat(3, 1fr);
+
+            gap: 12px;
 
             max-width: 900px;
 
             margin:
-                0 auto 38px auto;
+                0 auto 40px auto;
         }
 
-
-        .banner {
-
-            flex: 1;
-
-            max-width: 210px;
-
-            min-height: 58px;
+        .youtube-banner {
 
             display: flex;
 
@@ -223,50 +179,51 @@
 
             justify-content: center;
 
-            padding:
-                10px 14px;
+            min-height: 65px;
+
+            padding: 10px 15px;
 
             background: white;
 
-            border:
-                1px solid #d8dadd;
+            border: 1px solid #ddd;
 
-            border-radius: 9px;
-
-            color: #222;
+            border-radius: 10px;
 
             text-decoration: none;
 
-            font-size: 14px;
+            color: #222;
 
             font-weight: bold;
 
-            box-shadow:
-                0 1px 4px
-                rgba(0,0,0,0.05);
+            font-size: 14px;
 
-            transition:
-                0.2s;
+            box-shadow:
+                0 2px 6px rgba(0,0,0,0.06);
+
+            transition: 0.2s;
         }
 
+        .youtube-banner:hover {
 
-        .banner:hover {
-
-            transform:
-                translateY(-2px);
+            transform: translateY(-3px);
 
             box-shadow:
-                0 5px 14px
-                rgba(0,0,0,0.12);
+                0 7px 16px rgba(0,0,0,0.13);
 
-            border-color:
-                #b8bcc2;
+        }
+
+        .youtube-icon {
+
+            font-size: 23px;
+
+            margin-right: 8px;
+
         }
 
 
         /* =========================
-           SECTION
-        ========================== */
+           SECTIONS
+        ========================= */
 
         .section {
 
@@ -274,7 +231,6 @@
 
             scroll-margin-top: 70px;
         }
-
 
         .section-title {
 
@@ -286,20 +242,17 @@
 
             padding-bottom: 9px;
 
-            border-bottom:
-                3px solid #222;
+            border-bottom: 3px solid #222;
         }
 
-
         .section-title h2 {
-
             font-size: 25px;
         }
 
 
         /* =========================
            NEWS GRID
-        ========================== */
+        ========================= */
 
         .news-grid {
 
@@ -308,10 +261,7 @@
             grid-template-columns:
                 repeat(
                     auto-fill,
-                    minmax(
-                        280px,
-                        1fr
-                    )
+                    minmax(280px, 1fr)
                 );
 
             gap: 20px;
@@ -320,28 +270,25 @@
 
         /* =========================
            NEWS CARD
-        ========================== */
+        ========================= */
 
         .card {
 
             background: white;
 
-            border:
-                1px solid #ddd;
+            border: 1px solid #ddd;
 
             border-radius: 12px;
 
             overflow: hidden;
 
             box-shadow:
-                0 2px 8px
-                rgba(0,0,0,0.06);
+                0 2px 8px rgba(0,0,0,0.06);
 
             transition:
                 transform 0.2s,
                 box-shadow 0.2s;
         }
-
 
         .card:hover {
 
@@ -349,10 +296,8 @@
                 translateY(-4px);
 
             box-shadow:
-                0 8px 20px
-                rgba(0,0,0,0.13);
+                0 8px 20px rgba(0,0,0,0.13);
         }
-
 
         .card a {
 
@@ -365,8 +310,8 @@
 
 
         /* =========================
-           IMAGE
-        ========================== */
+           IMAGES
+        ========================= */
 
         .image-wrapper {
 
@@ -374,12 +319,10 @@
 
             height: 190px;
 
-            background:
-                #e5e7eb;
+            background: #e5e7eb;
 
             overflow: hidden;
         }
-
 
         .card-image {
 
@@ -395,13 +338,11 @@
                 transform 0.3s;
         }
 
-
         .card:hover .card-image {
 
             transform:
                 scale(1.04);
         }
-
 
         .no-image {
 
@@ -429,14 +370,12 @@
 
 
         /* =========================
-           CONTENT
-        ========================== */
+           CARD CONTENT
+        ========================= */
 
         .card-content {
-
             padding: 15px;
         }
-
 
         .card-title {
 
@@ -449,7 +388,6 @@
             margin-bottom: 9px;
         }
 
-
         .card-source {
 
             font-size: 13px;
@@ -461,7 +399,6 @@
             margin-bottom: 4px;
         }
 
-
         .card-date {
 
             font-size: 12px;
@@ -472,12 +409,11 @@
 
         /* =========================
            LOADING
-        ========================== */
+        ========================= */
 
         .loading {
 
-            grid-column:
-                1 / -1;
+            grid-column: 1 / -1;
 
             text-align: center;
 
@@ -489,12 +425,11 @@
 
         /* =========================
            ERROR
-        ========================== */
+        ========================= */
 
         .error {
 
-            grid-column:
-                1 / -1;
+            grid-column: 1 / -1;
 
             padding: 20px;
 
@@ -510,7 +445,7 @@
 
         /* =========================
            FOOTER
-        ========================== */
+        ========================= */
 
         footer {
 
@@ -530,27 +465,15 @@
 
         /* =========================
            TABLET
-        ========================== */
+        ========================= */
 
         @media (max-width: 850px) {
 
-            .banners {
+            .youtube-banners {
 
-                flex-wrap: wrap;
+                grid-template-columns:
+                    repeat(2, 1fr);
 
-                max-width: 650px;
-            }
-
-
-            .banner {
-
-                flex:
-                    0 0
-                    calc(
-                        50% - 5px
-                    );
-
-                max-width: none;
             }
 
         }
@@ -558,83 +481,61 @@
 
         /* =========================
            MOBILE
-        ========================== */
+        ========================= */
 
         @media (max-width: 600px) {
 
-            header {
-
-                padding:
-                    22px 15px;
-            }
-
-
             header h1 {
-
                 font-size: 25px;
             }
 
-
             main {
-
                 width: 92%;
             }
 
-
             .section-nav {
-
                 gap: 6px;
-
-                padding:
-                    9px 8px;
+                padding: 9px 8px;
             }
-
 
             .section-nav a {
-
                 font-size: 13px;
-
-                padding:
-                    7px 11px;
+                padding: 7px 11px;
             }
 
-
-            .banners {
-
-                display: grid;
+            .youtube-banners {
 
                 grid-template-columns:
                     1fr 1fr;
 
                 gap: 9px;
 
-                width: 100%;
             }
 
+            .youtube-banner {
 
-            .banner {
+                min-height: 58px;
 
-                min-height: 52px;
+                font-size: 12px;
 
-                padding:
-                    9px;
+                padding: 8px;
 
-                font-size: 13px;
-
-                width: 100%;
             }
 
+            .youtube-icon {
+
+                font-size: 19px;
+
+                margin-right: 5px;
+
+            }
 
             .news-grid {
-
-                grid-template-columns:
-                    1fr;
+                grid-template-columns: 1fr;
             }
-
 
             .image-wrapper,
             .no-image {
-
                 height: 210px;
             }
 
@@ -654,9 +555,7 @@
 
 <header>
 
-    <h1>
-        Yane's Aggregator
-    </h1>
+    <h1>Yane's Aggregator</h1>
 
     <p>
         MKD • DE • Star Wars News
@@ -666,7 +565,7 @@
 
 
 <!-- =========================
-     SECTION MENU
+     SECTION NAVIGATION
 ========================= -->
 
 <nav class="section-nav">
@@ -690,49 +589,68 @@
 
 
 <!-- =========================
-     BANNERS
+     YOUTUBE CHANNEL BANNERS
 ========================= -->
 
-<div class="banners">
+<div class="youtube-title">
+    YouTube Channels
+</div>
 
+
+<div class="youtube-banners">
+
+
+    <!-- DRAGAN LABOSKI -->
 
     <a
-        class="banner"
-        href="https://bloxgamesev7-prog.github.io/openzip/"
+        class="youtube-banner"
+        href="https://youtube.com/@draganlaboski"
         target="_blank"
         rel="noopener noreferrer"
     >
-        OpenZip
+
+        <span class="youtube-icon">
+            ▶️
+        </span>
+
+        Dragan Laboski
+
     </a>
 
 
+    <!-- EV7 BLOXGAME -->
+
     <a
-        class="banner"
-        href="https://tendzi.blogspot.com/?m=1"
+        class="youtube-banner"
+        href="https://youtube.com/@ev7bloxgame"
         target="_blank"
         rel="noopener noreferrer"
     >
-        Tendzi Blog
+
+        <span class="youtube-icon">
+            ▶️
+        </span>
+
+        EV7 BloxGame
+
     </a>
 
 
+    <!-- 25 HIGHTECH -->
+
     <a
-        class="banner"
-        href="https://forfun81.github.io/#top"
+        class="youtube-banner"
+        href="https://youtube.com/@25hightech"
         target="_blank"
         rel="noopener noreferrer"
     >
-        ForFun81
-    </a>
 
+        <span class="youtube-icon">
+            ▶️
+        </span>
 
-    <a
-        class="banner"
-        href="https://techy.techygithub.workers.dev/"
-        target="_blank"
-        rel="noopener noreferrer"
-    >
-        Techy
+        25HighTech
+
     </a>
 
 
@@ -741,7 +659,7 @@
 
 <!-- =========================
      MKD
-========================== -->
+========================= -->
 
 <section
     class="section"
@@ -773,7 +691,7 @@
 
 <!-- =========================
      DE
-========================== -->
+========================= -->
 
 <section
     class="section"
@@ -805,7 +723,7 @@
 
 <!-- =========================
      STAR WARS
-========================== -->
+========================= -->
 
 <section
     class="section"
@@ -855,16 +773,22 @@
 const feeds = {
 
 
+    /* =========================
+       MKD
+    ========================== */
+
     mkd: [
 
         {
             name: "SmartPortal",
+
             url:
                 "https://smartportal.mk/feed/"
         },
 
         {
             name: "TIME.mk",
+
             url:
                 "https://time.mk/rss/all"
         }
@@ -872,22 +796,32 @@ const feeds = {
     ],
 
 
+    /* =========================
+       DE
+    ========================== */
+
     de: [
 
         {
             name: "Centron",
+
             url:
                 "https://www.centron.de/feed/"
         },
 
         {
             name: "Tarnkappe",
+
             url:
                 "https://tarnkappe.info/feed"
         }
 
     ],
 
+
+    /* =========================
+       STAR WARS
+    ========================== */
 
     starwars: [
 
@@ -969,7 +903,7 @@ function escapeHTML(text) {
 
 
 /* =====================================================
-   EXTRACT FIRST IMAGE FROM HTML
+   EXTRACT IMAGE FROM HTML
 ===================================================== */
 
 function extractImageFromHTML(
@@ -1004,10 +938,17 @@ function extractImageFromHTML(
 
 
     return (
+
         img.getAttribute("src") ||
+
         img.getAttribute("data-src") ||
+
         img.getAttribute("data-lazy-src") ||
+
+        img.getAttribute("data-original") ||
+
         ""
+
     );
 
 }
@@ -1023,11 +964,11 @@ function getImage(item) {
     /* thumbnail */
 
     if (
-        typeof item.thumbnail === "string" &&
-        item.thumbnail.trim()
+        item.thumbnail &&
+        typeof item.thumbnail === "string"
     ) {
 
-        return item.thumbnail.trim();
+        return item.thumbnail;
 
     }
 
@@ -1040,23 +981,10 @@ function getImage(item) {
 
 
         if (
-            typeof item.enclosure === "object" &&
             item.enclosure.link
         ) {
 
-            const type =
-                item.enclosure.type ||
-                "";
-
-
-            if (
-                !type ||
-                type.startsWith("image/")
-            ) {
-
-                return item.enclosure.link;
-
-            }
+            return item.enclosure.link;
 
         }
 
@@ -1066,7 +994,6 @@ function getImage(item) {
                 item.enclosure
             )
         ) {
-
 
             for (
                 const enclosure
@@ -1078,21 +1005,7 @@ function getImage(item) {
                     enclosure.link
                 ) {
 
-                    const type =
-                        enclosure.type ||
-                        "";
-
-
-                    if (
-                        !type ||
-                        type.startsWith(
-                            "image/"
-                        )
-                    ) {
-
-                        return enclosure.link;
-
-                    }
+                    return enclosure.link;
 
                 }
 
@@ -1110,7 +1023,7 @@ function getImage(item) {
     ) {
 
 
-        const mediaValues = [
+        const values = [
 
             item.media.content,
 
@@ -1121,7 +1034,7 @@ function getImage(item) {
 
         for (
             const value
-            of mediaValues
+            of values
         ) {
 
 
@@ -1129,12 +1042,10 @@ function getImage(item) {
                 Array.isArray(value)
             ) {
 
-
                 for (
                     const media
                     of value
                 ) {
-
 
                     if (
                         media &&
@@ -1152,7 +1063,6 @@ function getImage(item) {
 
             if (
                 value &&
-                typeof value === "object" &&
                 value.url
             ) {
 
@@ -1234,11 +1144,8 @@ function formatDate(
     return date.toLocaleString(
         "de-DE",
         {
-            dateStyle:
-                "short",
-
-            timeStyle:
-                "short"
+            dateStyle: "short",
+            timeStyle: "short"
         }
     );
 
@@ -1268,9 +1175,7 @@ function createCard(
 
 
     const image =
-        getImage(
-            item
-        );
+        getImage(item);
 
 
     const date =
@@ -1336,7 +1241,6 @@ function createCard(
 
                 <div class="card-content">
 
-
                     <div class="card-title">
 
                         ${title}
@@ -1355,20 +1259,15 @@ function createCard(
 
                     ${
                         date
-
                         ?
-
                         `
                         <div class="card-date">
                             ${date}
                         </div>
                         `
-
                         :
-
                         ""
                     }
-
 
                 </div>
 
@@ -1390,7 +1289,7 @@ async function loadFeed(
 ) {
 
 
-    const url =
+    const apiUrl =
         RSS_API +
         encodeURIComponent(
             feed.url
@@ -1399,7 +1298,7 @@ async function loadFeed(
 
     const response =
         await fetch(
-            url
+            apiUrl
         );
 
 
@@ -1466,15 +1365,13 @@ async function loadSection(
 
             feedList.map(
                 feed =>
-                    loadFeed(
-                        feed
-                    )
-                    .then(
-                        items => ({
-                            feed,
-                            items
-                        })
-                    )
+                    loadFeed(feed)
+                        .then(
+                            items => ({
+                                feed,
+                                items
+                            })
+                        )
             )
 
         );
@@ -1510,52 +1407,48 @@ async function loadSection(
             result.value;
 
 
-        for (
-            const item
-            of items
-        ) {
+        items.forEach(
+            item => {
 
+                allItems.push({
 
-            allItems.push({
+                    ...item,
 
-                ...item,
+                    sourceName:
+                        feed.name
 
-                sourceName:
-                    feed.name
+                });
 
-            });
-
-        }
+            }
+        );
 
     }
 
 
-    /* SORT NEWEST FIRST */
+    /* newest first */
 
     allItems.sort(
-
         (a, b) => {
 
-            const aDate =
+            const dateA =
                 new Date(
                     a.pubDate || 0
                 ).getTime();
 
 
-            const bDate =
+            const dateB =
                 new Date(
                     b.pubDate || 0
                 ).getTime();
 
 
-            return bDate - aDate;
+            return dateB - dateA;
 
         }
-
     );
 
 
-    /* SHOW 30 */
+    /* maximum 30 */
 
     allItems =
         allItems.slice(
@@ -1564,30 +1457,22 @@ async function loadSection(
         );
 
 
-    /* EMPTY */
-
     if (
         allItems.length === 0
     ) {
 
-
         container.innerHTML = `
 
             <div class="error">
-
                 Нема достапни вести.
-
             </div>
 
         `;
-
 
         return;
 
     }
 
-
-    /* DISPLAY */
 
     container.innerHTML =
 
@@ -1626,7 +1511,6 @@ loadSection(
     "starwars",
     feeds.starwars
 );
-
 
 </script>
 
