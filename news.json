@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T19:33:09.341345+00:00",
+  "updated": "2026-08-20T20:30:55.921263+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -150,6 +150,15 @@
     {
       "category": "de",
       "source": "Tarnkappe",
+      "title": "CyberLeek: Besitzt der Leaker eine spielbare Version von GTA 6?",
+      "description": "",
+      "url": "https://tarnkappe.info/artikel/gaming/cyberleek-besitzt-der-leaker-eine-spielbare-version-von-gta-6-332833.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/Cyberleek-GTA6-Beitragsbild-700x300.png",
+      "date": ""
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
       "title": "Beitragsservice ohne Service: Haushaltspauschale künftig ohne Erinnerung",
       "description": "",
       "url": "https://tarnkappe.info/artikel/beitragsservice-ohne-service-haushaltspauschale-kuenftig-ohne-erinnerung-332831.html",
@@ -262,15 +271,6 @@
       "description": "",
       "url": "https://tarnkappe.info/artikel/it-sicherheit/meta-ki-brille-gesichtserkennung-ueberwachungsclips-332516.html",
       "image": "https://cdn.tarnkappe.info/wpimg/ChatGPT-Image-15.-Aug.-2026-17_04_19-700x300.png",
-      "date": ""
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "FareWeave: Bahn, Split-Tickets, Flug und Hotel in einer Suche",
-      "description": "",
-      "url": "https://tarnkappe.info/artikel/softwareentwicklung/fareweave-bahn-split-tickets-flug-und-hotel-in-einer-suche-332498.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/FareWeave-700x300.png",
       "date": ""
     }
   ],
