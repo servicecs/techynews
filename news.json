@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T08:40:53.172676+00:00",
+  "updated": "2026-08-20T09:36:53.446741+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -13,10 +13,28 @@
     {
       "category": "mkd",
       "source": "SmartPortal",
+      "title": "Apple возврати на обидот на OpenAI за отфрлање на тужбата за…",
+      "description": "",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/apple-vozvrati-na-openai/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Depositphotos_753415950_XL-f-218x150.webp",
+      "date": ""
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Apple најави нови правила и провизии за апликациите во Европската Унија",
+      "description": "",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/apple-novi-pravila-i-provizii-eu/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Depositphotos_753415950_XL-f-218x150.webp",
+      "date": ""
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
       "title": "Samsung закажа нов Galaxy настан за август 2026 година",
       "description": "",
       "url": "https://smartportal.mk/novosti/nastani/galaxy-nastan-avgust-2026/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/260818_event_kv_932x524-218x150.webp",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Apple-App-Store-compliance-hero-218x150.webp",
       "date": ""
     },
     {
@@ -31,19 +49,10 @@
     {
       "category": "mkd",
       "source": "SmartPortal",
-      "title": "ЕУ воведува строги безбедносни правила за VPN услугите",
-      "description": "",
-      "url": "https://smartportal.mk/novosti/veb-i-bezbednost/eu-strogi-pravila-vpn-uslugi/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/cursor-origin-f-218x150.webp",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
       "title": "Како да го изберете преклопливиот телефон што ви одговара: Водич за…",
       "description": "",
       "url": "https://smartportal.mk/novosti/uredi/vodic-za-najnovata-galaxy-z-serija/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/06/Depositphotos_11897964_XL-f-218x150.webp",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/216-lifestyle-product-galaxy-zfold8-zfold8-ultra-zflip8-2-f-218x150.webp",
       "date": ""
     },
     {
@@ -126,15 +135,6 @@
       "url": "https://smartportal.mk/novosti/smartfoni/recenzija-samsung-galaxy-a57/",
       "image": "https://smartportal.mk/wp-content/uploads/2026/04/smartportal-galaxy-a57-1-218x150.webp",
       "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Рецензија Samsung Galaxy S26 Ultra: Сличен со ланскиот модел, но со…",
-      "description": "",
-      "url": "https://smartportal.mk/recenzii/recenzija-samsung-galaxy-s26-ultra/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/04/smartportal-galaxy-a57-1-218x150.webp",
-      "date": ""
     }
   ],
   "de": [
@@ -145,6 +145,15 @@
       "description": "",
       "url": "https://tarnkappe.info/advertorial/hero-deal-hide-me-senkt-erneut-die-preise-331653.html",
       "image": "https://cdn.tarnkappe.info/wpimg/Sommeraktion-Beitragsbild-700x300.png",
+      "date": ""
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Amazon führt neues DRM ein, schließt Libby-Schlupfloch",
+      "description": "",
+      "url": "https://tarnkappe.info/artikel/e-books/amazon-fuehrt-neues-drm-ein-schliesst-libby-schlupfloch-332806.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/Amazon-Halle-700x300.jpg",
       "date": ""
     },
     {
@@ -262,15 +271,6 @@
       "description": "",
       "url": "https://tarnkappe.info/artikel/it-sicherheit/datenschutz/dontkyc-me-no-kyc-verzeichnis-fuer-mehr-privatsphaere-bei-online-diensten-332357.html",
       "image": "https://cdn.tarnkappe.info/wpimg/Anonymer-Mann-Spiegelgesicht-Mosaik-700x300.jpg",
-      "date": ""
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Streaming-Pirat vor Gericht: Staatsanwaltschaft fordert 5 Jahre Freiheitsentzug",
-      "description": "",
-      "url": "https://tarnkappe.info/artikel/rechtssachen/streaming-pirat-vor-gericht-staatsanwaltschaft-fordert-5-jahre-freiheitsentzug-332351.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/OLG_und_LG_Saarbruecken-700x300.jpg",
       "date": ""
     }
   ],
