@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T19:49:52.416953+00:00",
+  "updated": "2026-08-21T20:27:55.804987+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -94,15 +94,6 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Филипче, кого Абази го спаси од кривична одговорност за модуларните, се плаши од избори и уште го штити Лимани за водата во Гостивар, велат од ВМРО-ДПМНЕ | Макфакс",
-      "description": "",
-      "url": "https://time.mk/c/5b0bbfcf14/filipce-kogo-abazi-go-spasi-od-krivicna-odgovornost-za-modularnite-se-plasi-od-izbori-i-uste-go-stiti-limani-za-vodata-vo-gostivar-velat-od-vmro-dpmne.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/07/filipce-brifing.webp",
-      "date": "Fri, 21 Aug 2026 19:12:52 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
       "title": "Мицкоски: Случајот може повторно да се отвори – „Не му е прв пат на Мицкоски да се заканува, не му се плашам“, вели Филипче | ТВ21",
       "description": "",
       "url": "https://time.mk/c/0e785cddd1/mickoski-slucajot-moze-povtorno-da-se-otvori-ne-mu-e-prv-pat-na-mickoski-da-se-zakanuva-ne-mu-se-plasam-veli-filipce.html",
@@ -112,9 +103,18 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
+      "title": "Филипче, кого Абази го спаси од кривична одговорност за модуларните, се плаши од избори и уште го штити Лимани за водата во Гостивар, велат од ВМРО-ДПМНЕ | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/5b0bbfcf14/filipce-kogo-abazi-go-spasi-od-krivicna-odgovornost-za-modularnite-se-plasi-od-izbori-i-uste-go-stiti-limani-za-vodata-vo-gostivar-velat-od-vmro-dpmne.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/07/filipce-brifing.webp",
+      "date": "Fri, 21 Aug 2026 19:12:52 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
       "title": "Пожарот во Церово под будно следење, екипите со максимален ангажман на терен | 4NEWS",
       "description": "",
-      "url": "https://time.mk/c/2707667ba7/pozarot-vo-cerovo-pod-budno-sledenje-ekipite-so-maksimalen-angazman-na-teren.html",
+      "url": "https://time.mk/c/43679feaa2/pozarot-vo-cerovo-pod-budno-sledenje-ekipite-so-maksimalen-angazman-na-teren.html",
       "image": "https://4news.mk/wp-content/uploads/2026/08/img_2863-1024x768.avif",
       "date": "Fri, 21 Aug 2026 19:42:34 +0000"
     },
@@ -132,7 +132,7 @@
       "source": "Time.mk - All",
       "title": "Огнот се шири кон манастирот над Матејче, во тек е борба со 15 пожари | Трн",
       "description": "",
-      "url": "https://time.mk/c/623154a633/ognot-se-siri-kon-manastirot-nad-matejce-vo-tek-e-borba-so-15-pozari.html",
+      "url": "https://time.mk/c/941468aacd/ognot-se-siri-kon-manastirot-nad-matejce-vo-tek-e-borba-so-15-pozari.html",
       "image": "https://trn.mk/wp-content/uploads/2026/08/pozar-matejce.jpg",
       "date": "Fri, 21 Aug 2026 17:08:47 +0000"
     },
@@ -157,11 +157,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Филипче: Стандардот тоне, цените се до плафон, луѓето не можат да преживеат | Press24",
+      "title": "Колку вреди македонската плата во услови на сè поголема инфлација? | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/f49a2aef41/filipce-standardot-tone-cenite-se-do-plafon-lugjeto-ne-mozat-da-preziveat.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/65991.jpeg",
-      "date": "Fri, 21 Aug 2026 19:06:35 +0000"
+      "url": "https://time.mk/c/0edfe09603/kolku-vredi-makedonskata-plata-vo-uslovi-na-se-pogolema-inflacija.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1787323787/one6um7cavo10svs0qzu.jpg",
+      "date": "Fri, 21 Aug 2026 14:56:54 +0000"
     },
     {
       "category": "mkd",
@@ -368,6 +368,15 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "10 Hacks Every Facebook Marketplace Buyer and Seller Should Know",
+      "description": "How to get the most out of the algorithm, avoid the hassles, and score major bargains.",
+      "url": "https://lifehacker.com/tech/hacks-for-facebook-marketplace-users?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M0GC7823K9AQ1CPFAHZT037C/hero-image.jpg",
+      "date": "Fri, 21 Aug 2026 20:00:51 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "Seven Emergency Features You Should Enable on Your Google Pixel",
       "description": "A little bit of preparation goes a long way in a crisis.",
       "url": "https://lifehacker.com/tech/emergency-features-you-should-enable-on-your-android?utm_medium=RSS",
@@ -535,15 +544,6 @@
       "url": "https://lifehacker.com/tech/gopros-mission-1-pro-deal-august-2026?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01M0ERVWGMCKZWVZ4EZ1A576J6/hero-image.jpg",
       "date": "Thu, 20 Aug 2026 12:30:21 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "10 Finder Hacks Every Mac User Should Know",
-      "description": "There's more to Finder than just viewing and opening files.",
-      "url": "https://lifehacker.com/tech/10-finder-hacks-every-mac-user-should-know?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M0ANKAC589C21G7C5Z8J8JZT/hero-image.jpg",
-      "date": "Wed, 19 Aug 2026 22:00:00 +0000"
     }
   ],
   "starwars": [
@@ -732,6 +732,15 @@
     {
       "category": "youtube",
       "source": "Hood Informatik",
+      "title": "Der GTA 6 HACKER kommt aus Deutschland ?!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Sbz8tRIowKE",
+      "image": "https://i.ytimg.com/vi/Sbz8tRIowKE/hqdefault.jpg",
+      "date": "2026-08-21T19:55:56+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
       "title": "Deine Smartwatch kann deine Passwörter verraten #informatik #passwort #smartwatch #code #security",
       "description": "",
       "url": "https://www.youtube.com/shorts/kpq5zsDWGxs",
@@ -809,15 +818,6 @@
       "url": "https://www.youtube.com/shorts/XgDu_PBEzFc",
       "image": "https://i.ytimg.com/vi/XgDu_PBEzFc/hqdefault.jpg",
       "date": "2026-08-11T10:15:39+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Schon mal von Rowhammer gehört ?! #informatik #arbeitsspeicher #ram #code #ddr",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/8XNlkkRauTo",
-      "image": "https://i.ytimg.com/vi/8XNlkkRauTo/hqdefault.jpg",
-      "date": "2026-08-10T10:00:05+00:00"
     },
     {
       "category": "youtube",
