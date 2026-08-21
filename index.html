@@ -11,10 +11,12 @@
 
 <meta
     name="description"
-    content="Yane's Aggregator - MKD, DE and Star Wars News"
+    content="Yane's Aggregator - MKD, DE, ENG and Star Wars News"
 >
 
-<!-- GOOGLE ANALYTICS -->
+<!-- =====================================================
+     GOOGLE ANALYTICS
+===================================================== -->
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5RPGXB9L5W"></script>
 
@@ -92,7 +94,7 @@ header h1 {
 
 header p {
 
-    margin-top: 6px;
+    margin-top: 7px;
 
     color: #cbd5e1;
 
@@ -220,7 +222,7 @@ main {
     max-width: 1150px;
 
     margin:
-        0 auto 14px auto;
+        0 auto 28px auto;
 
 }
 
@@ -240,7 +242,7 @@ main {
 
     width: 100%;
 
-    max-width: 900px;
+    max-width: 950px;
 
     margin:
         0 auto 40px auto;
@@ -329,7 +331,7 @@ main {
 
 .section {
 
-    margin-bottom: 60px;
+    margin-bottom: 65px;
 
     scroll-margin-top: 75px;
 
@@ -555,7 +557,7 @@ main {
     width: fit-content;
 
     margin:
-        10px auto 30px auto;
+        10px auto 35px auto;
 
     padding:
         11px 22px;
@@ -649,6 +651,21 @@ footer {
 
     }
 
+    .section-nav {
+
+        gap: 7px;
+
+    }
+
+    .section-nav a {
+
+        padding:
+            7px 11px;
+
+        font-size: 13px;
+
+    }
+
     .web-banners {
 
         grid-template-columns:
@@ -708,6 +725,10 @@ footer {
 <body id="top">
 
 
+<!-- =====================================================
+     HEADER
+===================================================== -->
+
 <header>
 
 <h1>
@@ -715,7 +736,7 @@ Yane's Aggregator
 </h1>
 
 <p>
-MKD • DE • Star Wars News
+MKD • DE • ENG • Star Wars News
 </p>
 
 </header>
@@ -735,8 +756,12 @@ MKD • DE • Star Wars News
 🇩🇪 DE
 </a>
 
+<a href="#eng-section">
+🇬🇧 ENG
+</a>
+
 <a href="#starwars-section">
-⭐ Star Wars News
+⭐ Star Wars
 </a>
 
 </nav>
@@ -825,7 +850,7 @@ Techy
 
 
 <!-- =====================================================
-     YOUTUBE
+     YOUTUBE BANNERS
 ===================================================== -->
 
 <div class="banner-title">
@@ -880,6 +905,54 @@ EV7 BloxGame
 </span>
 
 25HighTech
+
+</a>
+
+
+<a
+    class="banner youtube-banner"
+    href="https://youtube.com/@hoodinformatik"
+    target="_blank"
+    rel="noopener noreferrer"
+>
+
+<span class="banner-icon">
+▶️
+</span>
+
+Hood Informatik
+
+</a>
+
+
+<a
+    class="banner youtube-banner"
+    href="https://youtube.com/@moddedwarfare"
+    target="_blank"
+    rel="noopener noreferrer"
+>
+
+<span class="banner-icon">
+▶️
+</span>
+
+Modded Warfare
+
+</a>
+
+
+<a
+    class="banner youtube-banner"
+    href="https://youtube.com/@mrmario2011"
+    target="_blank"
+    rel="noopener noreferrer"
+>
+
+<span class="banner-icon">
+▶️
+</span>
+
+MrMario2011
 
 </a>
 
@@ -952,6 +1025,38 @@ Loading DE news...
 
 
 <!-- =====================================================
+     ENG
+===================================================== -->
+
+<section
+    class="section"
+    id="eng-section"
+>
+
+<div class="section-title">
+
+<h2>
+🇬🇧 ENG
+</h2>
+
+</div>
+
+
+<div
+    id="eng"
+    class="news-grid"
+>
+
+<div class="loading">
+Loading ENG news...
+</div>
+
+</div>
+
+</section>
+
+
+<!-- =====================================================
      STAR WARS
 ===================================================== -->
 
@@ -998,6 +1103,10 @@ Loading Star Wars news...
 </main>
 
 
+<!-- =====================================================
+     FOOTER
+===================================================== -->
+
 <footer>
 
 © 2026 Yane's Aggregator
@@ -1008,59 +1117,12 @@ Loading Star Wars news...
 <script>
 
 /* =====================================================
-   RSS SOURCES
+   CONFIGURATION
 ===================================================== */
 
-const feeds = {
+const NEWS_FILE = "news.json";
 
-    mkd: [
-
-        {
-            name: "SmartPortal",
-            url: "https://smartportal.mk/feed/"
-        },
-
-        {
-            name: "TIME.mk",
-            url: "https://time.mk/rss/all"
-        }
-
-    ],
-
-    de: [
-
-        {
-            name: "Centron",
-            url: "https://www.centron.de/feed/"
-        },
-
-        {
-            name: "Tarnkappe",
-            url: "https://tarnkappe.info/feed"
-        }
-
-    ],
-
-    starwars: [
-
-        {
-            name: "Star Wars News Net",
-            url: "https://www.starwarsnewsnet.com/feed"
-        },
-
-        {
-            name: "Star Wars Union",
-            url: "https://starwars-union.de/feed/"
-        },
-
-        {
-            name: "Jedi News",
-            url: "https://www.jedinews.com/feed/"
-        }
-
-    ]
-
-};
+const MAX_NEWS_PER_SECTION = 100;
 
 
 /* =====================================================
@@ -1075,25 +1137,13 @@ const DEFAULT_IMAGES = {
     de:
         "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
 
+    eng:
+        "https://upload.wikimedia.org/wikipedia/commons/4/4a/English_language.svg",
+
     starwars:
         "https://upload.wikimedia.org/wikipedia/commons/6/6c/Star_Wars_Logo.svg"
 
 };
-
-
-/* =====================================================
-   RSS2JSON
-===================================================== */
-
-const RSS_API =
-    "https://api.rss2json.com/v1/api.json?rss_url=";
-
-
-/* =====================================================
-   MAX NEWS PER SECTION
-===================================================== */
-
-const MAX_NEWS_PER_SECTION = 30;
 
 
 /* =====================================================
@@ -1122,435 +1172,6 @@ function escapeHTML(text) {
 
 
 /* =====================================================
-   IMAGE URL CHECK
-===================================================== */
-
-function looksLikeImage(url) {
-
-    if (!url) {
-        return false;
-    }
-
-    const clean =
-        url
-            .split("?")[0]
-            .split("#")[0]
-            .toLowerCase();
-
-    return (
-
-        clean.includes(".jpg") ||
-        clean.includes(".jpeg") ||
-        clean.includes(".png") ||
-        clean.includes(".webp") ||
-        clean.includes(".gif") ||
-        clean.includes(".avif") ||
-        clean.includes(".svg") ||
-
-        clean.includes("/image") ||
-        clean.includes("/images") ||
-        clean.includes("/img") ||
-        clean.includes("/uploads") ||
-        clean.includes("/media")
-
-    );
-
-}
-
-
-/* =====================================================
-   CLEAN IMAGE URL
-===================================================== */
-
-function cleanImageURL(url) {
-
-    if (!url) {
-        return "";
-    }
-
-    let value =
-        String(url).trim();
-
-    value =
-        value
-            .replace(/^['"]/, "")
-            .replace(/['"]$/, "");
-
-    if (
-        value.startsWith("//")
-    ) {
-
-        value =
-            "https:" + value;
-
-    }
-
-    return value;
-
-}
-
-
-/* =====================================================
-   EXTRACT IMAGE FROM HTML
-===================================================== */
-
-function extractImageFromHTML(html) {
-
-    if (!html) {
-        return "";
-    }
-
-    const parser =
-        new DOMParser();
-
-    const doc =
-        parser.parseFromString(
-            html,
-            "text/html"
-        );
-
-
-    const ogImage =
-        doc.querySelector(
-            'meta[property="og:image"]'
-        );
-
-    if (
-        ogImage &&
-        ogImage.content
-    ) {
-
-        return cleanImageURL(
-            ogImage.content
-        );
-
-    }
-
-
-    const twitterImage =
-        doc.querySelector(
-            'meta[name="twitter:image"]'
-        );
-
-    if (
-        twitterImage &&
-        twitterImage.content
-    ) {
-
-        return cleanImageURL(
-            twitterImage.content
-        );
-
-    }
-
-
-    const images =
-        doc.querySelectorAll("img");
-
-
-    for (
-        const img
-        of images
-    ) {
-
-        const attributes = [
-
-            "src",
-
-            "data-src",
-
-            "data-original",
-
-            "data-lazy-src",
-
-            "data-image",
-
-            "data-url"
-
-        ];
-
-
-        for (
-            const attribute
-            of attributes
-        ) {
-
-            const value =
-                img.getAttribute(
-                    attribute
-                );
-
-
-            if (value) {
-
-                return cleanImageURL(
-                    value
-                );
-
-            }
-
-        }
-
-
-        const srcset =
-            img.getAttribute(
-                "srcset"
-            );
-
-
-        if (srcset) {
-
-            const first =
-                srcset
-                    .split(",")[0]
-                    .trim()
-                    .split(" ")[0];
-
-
-            if (first) {
-
-                return cleanImageURL(
-                    first
-                );
-
-            }
-
-        }
-
-    }
-
-
-    return "";
-
-}
-
-
-/* =====================================================
-   IMAGE FROM OBJECT
-===================================================== */
-
-function imageFromObject(value) {
-
-    if (!value) {
-        return "";
-    }
-
-
-    if (
-        typeof value ===
-        "string"
-    ) {
-
-        const url =
-            cleanImageURL(value);
-
-
-        if (
-            url.startsWith("http") &&
-            looksLikeImage(url)
-        ) {
-
-            return url;
-
-        }
-
-        return "";
-
-    }
-
-
-    if (
-        Array.isArray(value)
-    ) {
-
-        for (
-            const item
-            of value
-        ) {
-
-            const result =
-                imageFromObject(item);
-
-
-            if (result) {
-
-                return result;
-
-            }
-
-        }
-
-    }
-
-
-    if (
-        typeof value ===
-        "object"
-    ) {
-
-        const keys = [
-
-            "url",
-            "link",
-            "href",
-            "src",
-            "thumbnail",
-            "image"
-
-        ];
-
-
-        for (
-            const key
-            of keys
-        ) {
-
-            if (
-                value[key]
-            ) {
-
-                const result =
-                    imageFromObject(
-                        value[key]
-                    );
-
-
-                if (result) {
-
-                    return result;
-
-                }
-
-            }
-
-        }
-
-    }
-
-
-    return "";
-
-}
-
-
-/* =====================================================
-   GET BEST IMAGE
-===================================================== */
-
-function getImage(item) {
-
-
-    const directFields = [
-
-        item.thumbnail,
-
-        item.image,
-
-        item.image_url,
-
-        item.imageUrl,
-
-        item.enclosure,
-
-        item.media,
-
-        item.media_content,
-
-        item.media_thumbnail,
-
-        item["media:content"],
-
-        item["media:thumbnail"],
-
-        item["itunes:image"]
-
-    ];
-
-
-    for (
-        const field
-        of directFields
-    ) {
-
-        const result =
-            imageFromObject(field);
-
-
-        if (result) {
-
-            return result;
-
-        }
-
-    }
-
-
-    const descriptionImage =
-        extractImageFromHTML(
-            item.description
-        );
-
-
-    if (descriptionImage) {
-
-        return descriptionImage;
-
-    }
-
-
-    const contentImage =
-        extractImageFromHTML(
-            item.content
-        );
-
-
-    if (contentImage) {
-
-        return contentImage;
-
-    }
-
-
-    const encodedContent =
-        item["content:encoded"];
-
-
-    if (encodedContent) {
-
-        const encodedImage =
-            extractImageFromHTML(
-                encodedContent
-            );
-
-
-        if (encodedImage) {
-
-            return encodedImage;
-
-        }
-
-    }
-
-
-    const summaryImage =
-        extractImageFromHTML(
-            item.summary
-        );
-
-
-    if (summaryImage) {
-
-        return summaryImage;
-
-    }
-
-
-    return "";
-
-}
-
-
-/* =====================================================
    FORMAT DATE
 ===================================================== */
 
@@ -1571,7 +1192,9 @@ function formatDate(value) {
         )
     ) {
 
-        return "";
+        return escapeHTML(
+            value
+        );
 
     }
 
@@ -1588,15 +1211,62 @@ function formatDate(value) {
 
 
 /* =====================================================
-   CREATE CARD
+   CREATE IMAGE
+===================================================== */
+
+function createImage(
+    item,
+    sectionType,
+    title
+) {
+
+    const fallback =
+        DEFAULT_IMAGES[
+            sectionType
+        ];
+
+
+    const image =
+        item.image &&
+        String(item.image).trim()
+            ? item.image
+            : fallback;
+
+
+    return `
+
+        <div class="image-wrapper">
+
+            <img
+                class="card-image"
+                src="${escapeHTML(image)}"
+                alt="${escapeHTML(title)}"
+                loading="lazy"
+                referrerpolicy="no-referrer"
+
+                onerror="
+                    if (this.src !== '${fallback}') {
+                        this.onerror = null;
+                        this.src = '${fallback}';
+                    }
+                "
+            >
+
+        </div>
+
+    `;
+
+}
+
+
+/* =====================================================
+   CREATE NEWS CARD
 ===================================================== */
 
 function createCard(
     item,
-    sourceName,
     sectionType
 ) {
-
 
     const title =
         escapeHTML(
@@ -1605,73 +1275,30 @@ function createCard(
         );
 
 
-    const link =
-        item.link ||
+    const source =
+        escapeHTML(
+            item.source ||
+            ""
+        );
+
+
+    const url =
+        item.url ||
         "#";
-
-
-    const image =
-        getImage(item);
-
-
-    const fallback =
-        DEFAULT_IMAGES[
-            sectionType
-        ];
 
 
     const date =
         formatDate(
-            item.pubDate
+            item.date
         );
 
 
-    let imageHTML;
-
-
-    if (image) {
-
-        imageHTML = `
-
-            <div class="image-wrapper">
-
-                <img
-                    class="card-image"
-                    src="${escapeHTML(image)}"
-                    alt="${title}"
-                    loading="lazy"
-                    referrerpolicy="no-referrer"
-
-                    onerror="
-                        this.onerror=null;
-                        this.src='${fallback}';
-                    "
-                >
-
-            </div>
-
-        `;
-
-    }
-
-    else {
-
-        imageHTML = `
-
-            <div class="image-wrapper">
-
-                <img
-                    class="card-image"
-                    src="${fallback}"
-                    alt="${sectionType}"
-                    loading="lazy"
-                >
-
-            </div>
-
-        `;
-
-    }
+    const image =
+        createImage(
+            item,
+            sectionType,
+            title
+        );
 
 
     return `
@@ -1679,12 +1306,12 @@ function createCard(
         <article class="card">
 
             <a
-                href="${escapeHTML(link)}"
+                href="${escapeHTML(url)}"
                 target="_blank"
                 rel="noopener noreferrer"
             >
 
-                ${imageHTML}
+                ${image}
 
                 <div class="card-content">
 
@@ -1694,13 +1321,13 @@ function createCard(
 
                     </div>
 
+
                     <div class="card-source">
 
-                        ${escapeHTML(
-                            sourceName
-                        )}
+                        ${source}
 
                     </div>
+
 
                     ${
                         date
@@ -1708,7 +1335,7 @@ function createCard(
                         `
                         <div class="card-date">
 
-                            ${date}
+                            ${escapeHTML(date)}
 
                         </div>
                         `
@@ -1728,65 +1355,13 @@ function createCard(
 
 
 /* =====================================================
-   LOAD FEED
+   SHOW ERROR
 ===================================================== */
 
-async function loadFeed(feed) {
-
-    const apiUrl =
-        RSS_API +
-        encodeURIComponent(
-            feed.url
-        );
-
-
-    const response =
-        await fetch(
-            apiUrl
-        );
-
-
-    if (!response.ok) {
-
-        throw new Error(
-            "HTTP " +
-            response.status
-        );
-
-    }
-
-
-    const data =
-        await response.json();
-
-
-    if (
-        data.status !== "ok"
-    ) {
-
-        throw new Error(
-            data.message ||
-            "RSS error"
-        );
-
-    }
-
-
-    return data.items || [];
-
-}
-
-
-/* =====================================================
-   LOAD SECTION
-===================================================== */
-
-async function loadSection(
+function showError(
     elementId,
-    feedList,
-    sectionType
+    message
 ) {
-
 
     const container =
         document.getElementById(
@@ -1796,121 +1371,37 @@ async function loadSection(
 
     container.innerHTML = `
 
-        <div class="loading">
+        <div class="error">
 
-            Loading news...
+            ${escapeHTML(message)}
 
         </div>
 
     `;
 
-
-    const results =
-        await Promise.allSettled(
-
-            feedList.map(
-
-                feed =>
-
-                    loadFeed(feed)
-
-                        .then(
-                            items => ({
-                                feed,
-                                items
-                            })
-                        )
-
-            )
-
-        );
+}
 
 
-    let allItems = [];
+/* =====================================================
+   RENDER SECTION
+===================================================== */
 
+function renderSection(
+    elementId,
+    sectionType,
+    items
+) {
 
-    for (
-        const result
-        of results
-    ) {
-
-
-        if (
-            result.status !==
-            "fulfilled"
-        ) {
-
-            console.error(
-                result.reason
-            );
-
-            continue;
-
-        }
-
-
-        const {
-            feed,
-            items
-        } = result.value;
-
-
-        items.forEach(
-            item => {
-
-                allItems.push({
-
-                    ...item,
-
-                    sourceName:
-                        feed.name
-
-                });
-
-            }
-        );
-
-    }
-
-
-    /* =================================================
-       SORT NEWEST FIRST
-    ================================================= */
-
-    allItems.sort(
-        (a, b) => {
-
-            const dateA =
-                new Date(
-                    a.pubDate || 0
-                ).getTime();
-
-
-            const dateB =
-                new Date(
-                    b.pubDate || 0
-                ).getTime();
-
-
-            return dateB - dateA;
-
-        }
-    );
-
-
-    /* =================================================
-       KEEP ONLY NEWEST 30
-    ================================================= */
-
-    allItems =
-        allItems.slice(
-            0,
-            MAX_NEWS_PER_SECTION
+    const container =
+        document.getElementById(
+            elementId
         );
 
 
     if (
-        allItems.length === 0
+        !Array.isArray(items)
+        ||
+        items.length === 0
     ) {
 
         container.innerHTML = `
@@ -1928,21 +1419,146 @@ async function loadSection(
     }
 
 
+    const news =
+        items.slice(
+            0,
+            MAX_NEWS_PER_SECTION
+        );
+
+
     container.innerHTML =
-
-        allItems
-
+        news
             .map(
                 item =>
-
                     createCard(
                         item,
-                        item.sourceName,
                         sectionType
                     )
             )
-
             .join("");
+
+}
+
+
+/* =====================================================
+   LOAD NEWS.JSON
+===================================================== */
+
+async function loadNews() {
+
+    try {
+
+        const response =
+            await fetch(
+                NEWS_FILE +
+                "?v=" +
+                Date.now()
+            );
+
+
+        if (!response.ok) {
+
+            throw new Error(
+                "Could not load news.json. HTTP " +
+                response.status
+            );
+
+        }
+
+
+        const data =
+            await response.json();
+
+
+        /* =============================================
+           MKD
+        ============================================= */
+
+        renderSection(
+            "mkd",
+            "mkd",
+            data.mkd || []
+        );
+
+
+        /* =============================================
+           DE
+        ============================================= */
+
+        renderSection(
+            "de",
+            "de",
+            data.de || []
+        );
+
+
+        /* =============================================
+           ENG
+        ============================================= */
+
+        renderSection(
+            "eng",
+            "eng",
+            data.eng || []
+        );
+
+
+        /* =============================================
+           STAR WARS
+        ============================================= */
+
+        renderSection(
+            "starwars",
+            "starwars",
+            data.starwars || []
+        );
+
+
+        console.log(
+            "News loaded successfully."
+        );
+
+
+        console.log(
+            "Updated:",
+            data.updated || "unknown"
+        );
+
+
+    }
+
+    catch (error) {
+
+        console.error(
+            "News loading error:",
+            error
+        );
+
+
+        showError(
+            "mkd",
+            "Unable to load news."
+        );
+
+
+        showError(
+            "de",
+            "Unable to load news."
+        );
+
+
+        showError(
+            "eng",
+            "Unable to load news."
+        );
+
+
+        showError(
+            "starwars",
+            "Unable to load news."
+        );
+
+    }
 
 }
 
@@ -1951,25 +1567,7 @@ async function loadSection(
    START
 ===================================================== */
 
-loadSection(
-    "mkd",
-    feeds.mkd,
-    "mkd"
-);
-
-
-loadSection(
-    "de",
-    feeds.de,
-    "de"
-);
-
-
-loadSection(
-    "starwars",
-    feeds.starwars,
-    "starwars"
-);
+loadNews();
 
 </script>
 
