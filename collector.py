@@ -11,6 +11,945 @@ import requests
 SOURCES_FILE = "sources.json"
 OUTPUT_FILE = "news.json"
 
+# Maximum number of news articles saved per category.
+MAX_ITEMS_PER_CATEGORY = 100
+
+# Number of articles requested from each RSS feed.
+MAX_ITEMS_PER_FEED = 30
+
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/151.0 Safari/537.36"
+    )
+}
+
+
+# ============================================================
+# TEXT
+# ============================================================
+
+def clean_text(text):
+
+    if not text:
+        return ""
+
+    text = unescape(str(text))
+
+    text = re.sub(
+        r"<[^>]+>",
+        " ",
+        text
+    )
+
+    text = re.sub(
+        r"\s+",
+        " ",
+        text
+    )
+
+    return text.strip()
+
+
+# ============================================================
+# LOAD SOURCES
+# ============================================================
+
+def load_sources():
+
+    with open(
+        SOURCES_FILE,
+        "r",
+        encoding="utf-8"
+    ) as f:
+
+        return json.load(f)
+
+
+# ============================================================
+# HTTP
+# ============================================================
+
+def get_page(url):
+
+    response = requests.get(
+        url,
+        headers=HEADERS,
+        timeout=30
+    )
+
+    response.raise_for_status()
+
+    return response.text
+
+
+# ============================================================
+# IMAGE HELPERS
+# ============================================================
+
+def clean_image_url(url, base_url=""):
+
+    if not url:
+        return ""
+
+    url = str(url).strip()
+
+    url = url.strip("\"'")
+
+    if url.startswith("//"):
+        url = "https:" + url
+
+    if base_url:
+        url = urljoin(
+            base_url,
+            url
+        )
+
+    return url
+
+
+def looks_like_image(url):
+
+    if not url:
+        return False
+
+    value = url.lower()
+
+    image_extensions = [
+        ".jpg",
+        ".jpeg",
+        ".png",
+        ".webp",
+        ".gif",
+        ".avif",
+        ".svg"
+    ]
+
+    if any(
+        ext in value
+        for ext in image_extensions
+    ):
+        return True
+
+    image_words = [
+        "/image/",
+        "/images/",
+        "/img/",
+        "/uploads/",
+        "/media/",
+        "thumbnail",
+        "featured"
+    ]
+
+    return any(
+        word in value
+        for word in image_words
+    )
+
+
+def extract_image_from_html(
+    html,
+    base_url=""
+):
+
+    if not html:
+        return ""
+
+    # og:image
+    patterns = [
+
+        r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']',
+
+        r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']',
+
+        r'<meta[^>]+name=["\']twitter:image["\'][^>]+content=["\']([^"\']+)["\']',
+
+        r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+name=["\']twitter:image["\']'
+
+    ]
+
+    for pattern in patterns:
+
+        match = re.search(
+            pattern,
+            html,
+            re.IGNORECASE
+        )
+
+        if match:
+
+            image = clean_image_url(
+                match.group(1),
+                base_url
+            )
+
+            if image:
+                return image
+
+
+    # First normal image
+    image_patterns = [
+
+        r'<img[^>]+src=["\']([^"\']+)["\']',
+
+        r'<img[^>]+data-src=["\']([^"\']+)["\']',
+
+        r'<img[^>]+data-lazy-src=["\']([^"\']+)["\']',
+
+        r'<img[^>]+data-original=["\']([^"\']+)["\']'
+
+    ]
+
+
+    for pattern in image_patterns:
+
+        match = re.search(
+            pattern,
+            html,
+            re.IGNORECASE
+        )
+
+        if match:
+
+            image = clean_image_url(
+                match.group(1),
+                base_url
+            )
+
+            if image:
+                return image
+
+
+    return ""
+
+
+# ============================================================
+# RSS IMAGE
+# ============================================================
+
+def get_rss_image(
+    entry,
+    feed_url=""
+):
+
+    # --------------------------------------------------------
+    # media:content
+    # --------------------------------------------------------
+
+    for media in entry.get(
+        "media_content",
+        []
+    ):
+
+        if not isinstance(
+            media,
+            dict
+        ):
+            continue
+
+        url = (
+            media.get("url")
+            or media.get("href")
+        )
+
+        if url:
+
+            image = clean_image_url(
+                url,
+                feed_url
+            )
+
+            if image:
+                return image
+
+
+    # --------------------------------------------------------
+    # media:thumbnail
+    # --------------------------------------------------------
+
+    for media in entry.get(
+        "media_thumbnail",
+        []
+    ):
+
+        if not isinstance(
+            media,
+            dict
+        ):
+            continue
+
+        url = (
+            media.get("url")
+            or media.get("href")
+        )
+
+        if url:
+
+            image = clean_image_url(
+                url,
+                feed_url
+            )
+
+            if image:
+                return image
+
+
+    # --------------------------------------------------------
+    # enclosure
+    # --------------------------------------------------------
+
+    for enclosure in entry.get(
+        "enclosures",
+        []
+    ):
+
+        if not isinstance(
+            enclosure,
+            dict
+        ):
+            continue
+
+        url = (
+            enclosure.get("href")
+            or enclosure.get("url")
+        )
+
+        if url:
+
+            image = clean_image_url(
+                url,
+                feed_url
+            )
+
+            if image:
+                return image
+
+
+    # --------------------------------------------------------
+    # image field
+    # --------------------------------------------------------
+
+    image_field = entry.get(
+        "image"
+    )
+
+    if isinstance(
+        image_field,
+        dict
+    ):
+
+        url = (
+            image_field.get("href")
+            or image_field.get("url")
+            or image_field.get("src")
+        )
+
+        if url:
+
+            image = clean_image_url(
+                url,
+                feed_url
+            )
+
+            if image:
+                return image
+
+    elif isinstance(
+        image_field,
+        str
+    ):
+
+        image = clean_image_url(
+            image_field,
+            feed_url
+        )
+
+        if image:
+            return image
+
+
+    # --------------------------------------------------------
+    # summary
+    # --------------------------------------------------------
+
+    summary = entry.get(
+        "summary",
+        ""
+    )
+
+    image = extract_image_from_html(
+        summary,
+        feed_url
+    )
+
+    if image:
+        return image
+
+
+    # --------------------------------------------------------
+    # content
+    # --------------------------------------------------------
+
+    for content in entry.get(
+        "content",
+        []
+    ):
+
+        if not isinstance(
+            content,
+            dict
+        ):
+            continue
+
+        value = content.get(
+            "value",
+            ""
+        )
+
+        image = extract_image_from_html(
+            value,
+            feed_url
+        )
+
+        if image:
+            return image
+
+
+    # --------------------------------------------------------
+    # content:encoded
+    # --------------------------------------------------------
+
+    encoded = entry.get(
+        "content:encoded",
+        ""
+    )
+
+    image = extract_image_from_html(
+        encoded,
+        feed_url
+    )
+
+    if image:
+        return image
+
+
+    return ""
+
+
+# ============================================================
+# RSS
+# ============================================================
+
+def parse_rss(
+    source,
+    category
+):
+
+    print(
+        f"RSS: {source['name']}"
+    )
+
+    try:
+
+        feed = feedparser.parse(
+            source["url"]
+        )
+
+        if feed.bozo:
+
+            print(
+                f"RSS warning [{source['name']}]: "
+                f"{feed.bozo_exception}"
+            )
+
+
+        items = []
+
+
+        for entry in feed.entries[
+            :MAX_ITEMS_PER_FEED
+        ]:
+
+            link = (
+                entry.get("link")
+                or ""
+            )
+
+            if not link:
+                continue
+
+
+            title = clean_text(
+                entry.get(
+                    "title",
+                    "Без наслов"
+                )
+            )
+
+            if not title:
+                continue
+
+
+            description = clean_text(
+                entry.get(
+                    "summary",
+                    ""
+                )
+            )
+
+
+            if not description:
+
+                description = clean_text(
+                    entry.get(
+                        "description",
+                        ""
+                    )
+                )
+
+
+            image = get_rss_image(
+                entry,
+                source["url"]
+            )
+
+
+            date = (
+
+                entry.get(
+                    "published",
+                    ""
+                )
+
+                or
+
+                entry.get(
+                    "updated",
+                    ""
+                )
+
+            )
+
+
+            # ------------------------------------------------
+            # Try to create a sortable timestamp
+            # ------------------------------------------------
+
+            timestamp = 0
+
+            try:
+
+                parsed = (
+                    entry.get(
+                        "published_parsed"
+                    )
+                    or
+                    entry.get(
+                        "updated_parsed"
+                    )
+                )
+
+                if parsed:
+
+                    timestamp = (
+                        datetime(
+                            *parsed[:6],
+                            tzinfo=timezone.utc
+                        ).timestamp()
+                    )
+
+            except Exception:
+
+                timestamp = 0
+
+
+            items.append({
+
+                "category": category,
+
+                "source":
+                    source["name"],
+
+                "title":
+                    title,
+
+                "description":
+                    description[:500],
+
+                "url":
+                    link,
+
+                "image":
+                    image,
+
+                "date":
+                    date,
+
+                "_timestamp":
+                    timestamp
+
+            })
+
+
+        print(
+            f"  -> {len(items)} articles"
+        )
+
+        return items
+
+
+    except Exception as e:
+
+        print(
+            f"RSS ERROR [{source['name']}]: {e}"
+        )
+
+        return []
+
+
+# ============================================================
+# REMOVE DUPLICATES
+# ============================================================
+
+def remove_duplicates(items):
+
+    result = {}
+
+    for item in items:
+
+        url = (
+            item.get("url")
+            or ""
+        ).strip()
+
+        if not url:
+            continue
+
+        # If duplicate URL exists, prefer the one
+        # which actually has an image.
+        if url not in result:
+
+            result[url] = item
+
+        else:
+
+            old = result[url]
+
+            if (
+                not old.get("image")
+                and item.get("image")
+            ):
+
+                result[url] = item
+
+
+    return list(
+        result.values()
+    )
+
+
+# ============================================================
+# SORT
+# ============================================================
+
+def sort_items(items):
+
+    return sorted(
+        items,
+        key=lambda x:
+            x.get(
+                "_timestamp",
+                0
+            ),
+        reverse=True
+    )
+
+
+# ============================================================
+# CLEAN INTERNAL FIELDS
+# ============================================================
+
+def clean_output(items):
+
+    cleaned = []
+
+    for item in items:
+
+        cleaned.append({
+
+            "category":
+                item.get(
+                    "category",
+                    ""
+                ),
+
+            "source":
+                item.get(
+                    "source",
+                    ""
+                ),
+
+            "title":
+                item.get(
+                    "title",
+                    ""
+                ),
+
+            "description":
+                item.get(
+                    "description",
+                    ""
+                ),
+
+            "url":
+                item.get(
+                    "url",
+                    ""
+                ),
+
+            "image":
+                item.get(
+                    "image",
+                    ""
+                ),
+
+            "date":
+                item.get(
+                    "date",
+                    ""
+                )
+
+        })
+
+    return cleaned
+
+
+# ============================================================
+# COLLECT CATEGORY
+# ============================================================
+
+def collect_category(
+    sources,
+    category
+):
+
+    all_items = []
+
+
+    for source in sources:
+
+        source_type = (
+            source.get("type")
+        )
+
+        # ----------------------------------------------------
+        # RSS ONLY
+        # ----------------------------------------------------
+
+        if source_type != "rss":
+
+            print(
+                f"Skipping non-RSS source: "
+                f"{source.get('name')}"
+            )
+
+            continue
+
+
+        items = parse_rss(
+            source,
+            category
+        )
+
+
+        all_items.extend(
+            items
+        )
+
+
+    # Remove duplicate URLs
+    all_items = remove_duplicates(
+        all_items
+    )
+
+
+    # Sort newest first
+    all_items = sort_items(
+        all_items
+    )
+
+
+    # Keep only newest 100
+    all_items = all_items[
+        :MAX_ITEMS_PER_CATEGORY
+    ]
+
+
+    # Remove internal timestamp
+    all_items = clean_output(
+        all_items
+    )
+
+
+    return all_items
+
+
+# ============================================================
+# MAIN
+# ============================================================
+
+def main():
+
+    print()
+    print("========================================")
+    print("       YANE'S AGGREGATOR")
+    print("       RSS COLLECTOR")
+    print("========================================")
+    print()
+
+
+    sources = load_sources()
+
+
+    result = {
+
+        "updated":
+            datetime.now(
+                timezone.utc
+            ).isoformat(),
+
+        "mkd": [],
+
+        "de": [],
+
+        "eng": [],
+
+        "starwars": []
+
+    }
+
+
+    # ========================================================
+    # MKD
+    # ========================================================
+
+    print("🇲🇰 MKD")
+
+    result["mkd"] = collect_category(
+        sources.get(
+            "mkd",
+            []
+        ),
+        "mkd"
+    )
+
+
+    print(
+        f"MKD saved: "
+        f"{len(result['mkd'])}"
+    )
+
+    print()
+
+
+    # ========================================================
+    # DE
+    # ========================================================
+
+    print("🇩🇪 DE")
+
+    result["de"] = collect_category(
+        sources.get(
+            "de",
+            []
+        ),
+        "de"
+    )
+
+
+    print(
+        f"DE saved: "
+        f"{len(result['de'])}"
+    )
+
+    print()
+
+
+    # ========================================================
+    # ENG
+    # ========================================================
+
+    print("🇬🇧 ENG")
+
+    result["eng"] = collect_category(
+        sources.get(
+            "eng",
+            []
+        ),
+        "eng"
+    )
+
+
+    print(
+        f"ENG saved: "
+        f"{len(result['eng'])}"
+    )
+
+    print()
+
+
+    # ========================================================
+    # STAR WARS
+    # ========================================================
+
+    print("⭐ STAR WARS")
+
+    result["starwars"] = collect_category(
+        sources.get(
+            "starwars",
+            []
+        ),
+        "starwars"
+    )
+
+
+    print(
+        f"Star Wars saved: "
+        f"{len(result['starwars'])}"
+    )
+
+    print()
+
+
+    # ========================================================
+    # SAVE
+    # ========================================================
+
+    with open(
+        OUTPUT_FILE,
+        "w",
+        encoding="utf-8"
+    ) as f:
+
+        json.dump(
+            result,
+            f,
+            ensure_ascii=False,
+            indent=2
+        )import json
+import re
+from datetime import datetime, timezone
+from html import unescape
+from urllib.parse import urljoin
+
+import feedparser
+import requests
+
+
+SOURCES_FILE = "sources.json"
+OUTPUT_FILE = "news.json"
+
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 }
@@ -66,428 +1005,47 @@ def get_rss_image(entry):
 
     summary = entry.get("summary", "")
 
-    match = re.search(
-        r'<img[^>]+src=["\']([^"\']+)["\']',
-        summary,
-        re.IGNORECASE
-    )
-
-    if match:
-        return match.group(1)
-
-    return ""
 
 
-def parse_rss(source, category):
+    # ========================================================
+    # SUMMARY
+    # ========================================================
 
-    print(f"RSS: {source['name']}")
-
-    try:
-
-        feed = feedparser.parse(source["url"])
-
-        items = []
-
-        for entry in feed.entries[:15]:
-
-            link = entry.get("link", "")
-
-            if not link:
-                continue
-
-            items.append({
-                "category": category,
-                "source": source["name"],
-                "title": clean_text(
-                    entry.get("title", "Без наслов")
-                ),
-                "description": clean_text(
-                    entry.get("summary", "")
-                )[:300],
-                "url": link,
-                "image": get_rss_image(entry),
-                "date": (
-                    entry.get("published", "")
-                    or entry.get("updated", "")
-                )
-            })
-
-        return items
-
-    except Exception as e:
-
-        print(
-            f"RSS ERROR [{source['name']}]: {e}"
-        )
-
-        return []
-
-
-# ==========================================
-# SIMPLE WEBSITE SCRAPER
-# ==========================================
-
-def scrape_website(source, category):
-
-    print(f"SCRAPE: {source['name']}")
-
-    try:
-
-        html = get_page(source["url"])
-
-        items = []
-        seen = set()
-
-        links = re.findall(
-            r'<a\b[^>]*href=["\']([^"\']+)["\'][^>]*>(.*?)</a>',
-            html,
-            re.IGNORECASE | re.DOTALL
-        )
-
-        for href, content in links:
-
-            title = clean_text(content)
-
-            if len(title) < 25:
-                continue
-
-            if len(title) > 250:
-                continue
-
-            url = urljoin(
-                source["url"],
-                href
-            )
-
-            if url in seen:
-                continue
-
-            lowered = url.lower()
-
-            if any(
-                x in lowered
-                for x in [
-                    "javascript:",
-                    "/tag/",
-                    "/category/",
-                    "/author/",
-                    "/page/"
-                ]
-            ):
-                continue
-
-            seen.add(url)
-
-            image = ""
-
-            position = html.find(href)
-
-            if position >= 0:
-
-                area = html[
-                    max(0, position - 2000):
-                    position + 2000
-                ]
-
-                match = re.search(
-                    r'<img[^>]+(?:src|data-src)=["\']([^"\']+)["\']',
-                    area,
-                    re.IGNORECASE
-                )
-
-                if match:
-
-                    image = urljoin(
-                        source["url"],
-                        match.group(1)
-                    )
-
-            items.append({
-                "category": category,
-                "source": source["name"],
-                "title": title,
-                "description": "",
-                "url": url,
-                "image": image,
-                "date": ""
-            })
-
-            if len(items) >= 15:
-                break
-
-        return items
-
-    except Exception as e:
-
-        print(
-            f"SCRAPE ERROR [{source['name']}]: {e}"
-        )
-
-        return []
-
-
-# ==========================================
-# YOUTUBE
-# ==========================================
-
-def get_youtube_channel_id(url):
-
-    try:
-
-        html = get_page(url)
-
-        patterns = [
-            r'"channelId":"(UC[^"]+)"',
-            r'"externalId":"(UC[^"]+)"',
-            r'"browseId":"(UC[^"]+)"',
-            r'itemprop="channelId" content="(UC[^"]+)"'
-        ]
-
-        for pattern in patterns:
-
-            match = re.search(
-                pattern,
-                html
-            )
-
-            if match:
-                return match.group(1)
-
-    except Exception as e:
-
-        print(
-            f"YouTube ID ERROR: {e}"
-        )
-
-    return None
-
-
-def parse_youtube(source):
+    print("========================================")
+    print("COLLECTION COMPLETE")
+    print("========================================")
 
     print(
-        f"YouTube: {source['name']}"
+        f"🇲🇰 MKD: "
+        f"{len(result['mkd'])}"
     )
 
-    try:
-
-        channel_id = get_youtube_channel_id(
-            source["url"]
-        )
-
-        if not channel_id:
-
-            print(
-                f"Channel ID not found: "
-                f"{source['name']}"
-            )
-
-            return []
-
-        feed_url = (
-            "https://www.youtube.com/feeds/videos.xml?"
-            f"channel_id={channel_id}"
-        )
-
-        feed = feedparser.parse(
-            feed_url
-        )
-
-        items = []
-
-        for entry in feed.entries[:10]:
-
-            video_id = entry.get(
-                "yt_videoid",
-                ""
-            )
-
-            image = ""
-
-            if video_id:
-
-                image = (
-                    "https://i.ytimg.com/vi/"
-                    f"{video_id}/hqdefault.jpg"
-                )
-
-            items.append({
-                "category": "youtube",
-                "source": source["name"],
-                "title": clean_text(
-                    entry.get(
-                        "title",
-                        "Без наслов"
-                    )
-                ),
-                "description": "",
-                "url": entry.get(
-                    "link",
-                    ""
-                ),
-                "image": image,
-                "date": entry.get(
-                    "published",
-                    ""
-                )
-            })
-
-        return items
-
-    except Exception as e:
-
-        print(
-            f"YouTube ERROR "
-            f"[{source['name']}]: {e}"
-        )
-
-        return []
-
-
-# ==========================================
-# REMOVE DUPLICATES
-# ==========================================
-
-def remove_duplicates(items):
-
-    result = {}
-    
-    for item in items:
-
-        url = item.get("url")
-
-        if url:
-            result[url] = item
-
-    return list(result.values())
-
-
-# ==========================================
-# MAIN
-# ==========================================
-
-def main():
-
-    print("================================")
-    print("YANE'S AGGREGATOR")
-    print("Collector started")
-    print("================================")
-
-    sources = load_sources()
-
-    result = {
-        "updated": datetime.now(
-            timezone.utc
-        ).isoformat(),
-
-        "mkd": [],
-        "de": [],
-        "youtube": []
-    }
-
-
-    # MKD
-
-    for source in sources.get("mkd", []):
-
-        if source.get("type") == "rss":
-
-            items = parse_rss(
-                source,
-                "mkd"
-            )
-
-        else:
-
-            items = scrape_website(
-                source,
-                "mkd"
-            )
-
-        result["mkd"].extend(items)
-
-
-    # DE
-
-    for source in sources.get("de", []):
-
-        if source.get("type") == "rss":
-
-            items = parse_rss(
-                source,
-                "de"
-            )
-
-        else:
-
-            items = scrape_website(
-                source,
-                "de"
-            )
-
-        result["de"].extend(items)
-
-
-    # YouTube
-
-    for source in sources.get("youtube", []):
-
-        items = parse_youtube(
-            source
-        )
-
-        result["youtube"].extend(items)
-
-
-    # Remove duplicates
-
-    result["mkd"] = remove_duplicates(
-        result["mkd"]
-    )
-
-    result["de"] = remove_duplicates(
-        result["de"]
-    )
-
-    result["youtube"] = remove_duplicates(
-        result["youtube"]
-    )
-
-
-    # Limit results
-
-    result["mkd"] = result["mkd"][:30]
-    result["de"] = result["de"][:30]
-    result["youtube"] = result["youtube"][:30]
-
-
-    # Save news.json
-
-    with open(
-        OUTPUT_FILE,
-        "w",
-        encoding="utf-8"
-    ) as f:
-
-        json.dump(
-            result,
-            f,
-            ensure_ascii=False,
-            indent=2
-        )
-
-
-    print("================================")
     print(
-        f"MKD: {len(result['mkd'])}"
+        f"🇩🇪 DE: "
+        f"{len(result['de'])}"
     )
+
     print(
-        f"DE: {len(result['de'])}"
+        f"🇬🇧 ENG: "
+        f"{len(result['eng'])}"
     )
+
     print(
-        f"YouTube: {len(result['youtube'])}"
+        f"⭐ Star Wars: "
+        f"{len(result['starwars'])}"
     )
-    print("news.json created")
-    print("================================")
+
+    print()
+    print(
+        f"Maximum per category: "
+        f"{MAX_ITEMS_PER_CATEGORY}"
+    )
+
+    print(
+        "news.json created successfully"
+    )
+
+    print("========================================")
 
 
 if __name__ == "__main__":
