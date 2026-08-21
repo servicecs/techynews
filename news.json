@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T21:26:55.026436+00:00",
+  "updated": "2026-08-21T21:51:38.220627+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -112,18 +112,18 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Истото сценарио како лани: Гори кај Никуштак, огнот се движи кон Матејче | Рацин",
+      "title": "Огнот се шири кон манастирот над Матејче, во тек е борба со 15 пожари | Трн",
       "description": "",
-      "url": "https://time.mk/c/45be56b64f/istoto-scenario-kako-lani-gori-kaj-nikustak-ognot-se-dvizi-kon-matejce.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/08/nikushtak-848x470.jpg?x39245",
-      "date": "Fri, 21 Aug 2026 18:32:46 +0000"
+      "url": "https://time.mk/c/623154a633/ognot-se-siri-kon-manastirot-nad-matejce-vo-tek-e-borba-so-15-pozari.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/08/pozar-matejce.jpg",
+      "date": "Fri, 21 Aug 2026 17:08:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - Sport",
       "title": "Охрид и Вардар ќе играат во финалето на турнирот „Крсте Андоноски“ | Спортманија",
       "description": "",
-      "url": "https://time.mk/c/9f9e5f46c9/ohrid-i-vardar-ke-igraat-vo-finaleto-na-turnirot-krste-andonoski.html",
+      "url": "https://time.mk/c/3def614d58/ohrid-i-vardar-ke-igraat-vo-finaleto-na-turnirot-krste-andonoski.html",
       "image": "https://sportmanija.mk/wp-content/uploads/2026/08/Ohrid-radost-2-696x377.jpg",
       "date": "Fri, 21 Aug 2026 21:00:53 +0000"
     },
@@ -159,7 +159,7 @@
       "source": "Time.mk - All",
       "title": "Колку вреди македонската плата во услови на сè поголема инфлација? | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/0edfe09603/kolku-vredi-makedonskata-plata-vo-uslovi-na-se-pogolema-inflacija.html",
+      "url": "https://time.mk/c/38d435e048/kolku-vredi-makedonskata-plata-vo-uslovi-na-se-pogolema-inflacija.html",
       "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1787323787/one6um7cavo10svs0qzu.jpg",
       "date": "Fri, 21 Aug 2026 14:56:54 +0000"
     },
@@ -175,11 +175,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Огромни мршојадци слетуваат на преполните грчки плажи | Либертас",
+      "title": "МИСЛЕЛЕ ДЕКА ПОМИНАЛО: На Табановце ги чекаат казни снимени пред неколку месеци | ПРВ.мк",
       "description": "",
-      "url": "https://time.mk/c/a70e967255/ogromni-mrsojadci-sletuvaat-na-prepolnite-grcki-plazi.html",
-      "image": "https://libertas.mk/wp-content/uploads/2026/08/xx.jpg",
-      "date": "Fri, 21 Aug 2026 20:36:51 +0000"
+      "url": "https://time.mk/c/33ef27f911/mislele-deka-pominalo-na-tabanovce-gi-cekaat-kazni-snimeni-pred-nekolku-meseci.html",
+      "image": "https://cmsnebula.eu-central-1.linodeobjects.com/cdf7130d-94d0-4983-ba14-4bb301cd463a/$c89f5854-202d-42a5-90e0-73a561cbcaf1/image.webp",
+      "date": "Fri, 21 Aug 2026 21:38:33 +0000"
     }
   ],
   "de": [
@@ -368,6 +368,15 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week",
+      "description": "Find great deals on OLED TVs, gaming monitors, new Samsung Galaxy devices, and more.",
+      "url": "https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png",
+      "date": "Fri, 21 Aug 2026 21:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "10 Hacks Every Facebook Marketplace Buyer and Seller Should Know",
       "description": "How to get the most out of the algorithm, avoid the hassles, and score major bargains.",
       "url": "https://lifehacker.com/tech/hacks-for-facebook-marketplace-users?utm_medium=RSS",
@@ -535,15 +544,6 @@
       "url": "https://lifehacker.com/tech/crkd-nitro-deck-for-nintendo-switch-sale-august-2026?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01KPNE61BN28J9SM0MMCXW5YQ1/hero-image.jpg",
       "date": "Thu, 20 Aug 2026 13:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "The GoPro Mission 1 Pro Is $100 Off Right Now",
-      "description": "It's a serious option for creators who actually need the extra headroom.",
-      "url": "https://lifehacker.com/tech/gopros-mission-1-pro-deal-august-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M0ERVWGMCKZWVZ4EZ1A576J6/hero-image.jpg",
-      "date": "Thu, 20 Aug 2026 12:30:21 +0000"
     }
   ],
   "starwars": [
