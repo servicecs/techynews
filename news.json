@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T19:27:42.542000+00:00",
+  "updated": "2026-08-21T19:49:52.416953+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -112,6 +112,15 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
+      "title": "Пожарот во Церово под будно следење, екипите со максимален ангажман на терен | 4NEWS",
+      "description": "",
+      "url": "https://time.mk/c/2707667ba7/pozarot-vo-cerovo-pod-budno-sledenje-ekipite-so-maksimalen-angazman-na-teren.html",
+      "image": "https://4news.mk/wp-content/uploads/2026/08/img_2863-1024x768.avif",
+      "date": "Fri, 21 Aug 2026 19:42:34 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
       "title": "Најризични за ширењето на западно-нилската треска каналите за наводнување | еМагазин",
       "description": "",
       "url": "https://time.mk/c/6510131f7c/najrizicni-za-sirenjeto-na-zapadno-nilskata-treska-kanalite-za-navodnuvanje.html",
@@ -135,15 +144,6 @@
       "url": "https://time.mk/c/608f005572/vredi-sekoe-novo-soocuvanje-na-dui-so-gragjanite-za-niv-znaci-uste-edna-slakanica.html",
       "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/83402/conversions/text-max.jpg",
       "date": "Fri, 21 Aug 2026 13:24:47 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Филипче: Не сме исти, ние сакаме повисок стандард, плати и пензии – Мицкоски сака нов авион | Press24",
-      "description": "",
-      "url": "https://time.mk/c/f9ed8d5601/filipce-ne-sme-isti-nie-sakame-povisok-standard-plati-i-penzii-mickoski-saka-nov-avion.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/65983.jpeg",
-      "date": "Fri, 21 Aug 2026 18:02:35 +0000"
     },
     {
       "category": "mkd",
@@ -368,6 +368,15 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "Seven Emergency Features You Should Enable on Your Google Pixel",
+      "description": "A little bit of preparation goes a long way in a crisis.",
+      "url": "https://lifehacker.com/tech/emergency-features-you-should-enable-on-your-android?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M0BDAGCXA56M8AFE9TRDRV0F/hero-image.jpg",
+      "date": "Fri, 21 Aug 2026 19:30:29 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "Google Will Soon Let You Tell It What Stories You Want to See in Your Discovery Feed",
       "description": "Natural language prompts are coming to the Google app's Discovery feed.",
       "url": "https://lifehacker.com/tech/google-news-will-soon-let-you-tell-it-what-stories-you-want-to-see?utm_medium=RSS",
@@ -535,15 +544,6 @@
       "url": "https://lifehacker.com/tech/10-finder-hacks-every-mac-user-should-know?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01M0ANKAC589C21G7C5Z8J8JZT/hero-image.jpg",
       "date": "Wed, 19 Aug 2026 22:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "These Beats Products Are on Sale for Up to 50% Off",
-      "description": "Find great deals on Beats wireless headphones, earbuds, and more.",
-      "url": "https://lifehacker.com/tech/beats-headphones-sale-amazon-august-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M0DV0XHSBJ3N57EGHWVMK79N/hero-image.jpg",
-      "date": "Wed, 19 Aug 2026 21:30:00 +0000"
     }
   ],
   "starwars": [
