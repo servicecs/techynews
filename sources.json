@@ -1,37 +1,83 @@
 {
   "mkd": [
     {
-      "name": "Time.mk",
-      "type": "rss",
-      "url": "https://time.mk/rss"
-    },
-    {
-      "name": "OhridNews",
-      "type": "website",
-      "url": "https://ohridnews.com/"
-    },
-    {
       "name": "SmartPortal",
-      "type": "website",
-      "url": "https://smartportal.mk/"
+      "type": "rss",
+      "url": "https://smartportal.mk/feed/"
+    },
+    {
+      "name": "Time.mk - All",
+      "type": "rss",
+      "url": "https://time.mk/rss/all"
+    },
+    {
+      "name": "Motika",
+      "type": "rss",
+      "url": "https://motika.mk/feed/"
+    },
+    {
+      "name": "Ohrid1",
+      "type": "rss",
+      "url": "https://ohrid1.com/feed"
+    },
+    {
+      "name": "Time.mk - Sport",
+      "type": "rss",
+      "url": "https://time.mk/rss/sport"
+    },
+    {
+      "name": "Time.mk - Magazin",
+      "type": "rss",
+      "url": "https://time.mk/rss/magazin"
     }
   ],
 
   "de": [
     {
-      "name": "ComputerBase",
+      "name": "Centron",
       "type": "rss",
-      "url": "https://www.computerbase.de/feeds/news.xml"
+      "url": "https://www.centron.de/feed/"
     },
     {
       "name": "Tarnkappe",
-      "type": "website",
-      "url": "https://tarnkappe.info/"
+      "type": "rss",
+      "url": "https://tarnkappe.info/feed"
+    }
+  ],
+
+  "eng": [
+    {
+      "name": "Gizmodo",
+      "type": "rss",
+      "url": "https://gizmodo.com/feed"
     },
     {
-      "name": "Linux Magazine",
+      "name": "Lifehacker",
       "type": "rss",
-      "url": "https://www.linux-magazine.com/Online/RSS-Feeds"
+      "url": "https://lifehacker.com/feed/rss"
+    },
+    {
+      "name": "PCWorld",
+      "type": "rss",
+      "url": "https://www.pcworld.com/feed"
+    }
+  ],
+
+  "starwars": [
+    {
+      "name": "Star Wars News Net",
+      "type": "rss",
+      "url": "https://www.starwarsnewsnet.com/feed"
+    },
+    {
+      "name": "Star Wars Union",
+      "type": "rss",
+      "url": "https://starwars-union.de/feed/"
+    },
+    {
+      "name": "Jedi News",
+      "type": "rss",
+      "url": "https://www.jedinews.com/feed/"
     }
   ],
 
@@ -60,6 +106,11 @@
       "name": "Dragan Laboski",
       "type": "youtube",
       "url": "https://youtube.com/@draganlaboski-d8d"
+    },
+    {
+      "name": "EV7 BloxGame",
+      "type": "youtube",
+      "url": "https://youtube.com/@ev7bloxgame"
     }
   ]
 }
