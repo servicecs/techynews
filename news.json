@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T09:38:41.620209+00:00",
+  "updated": "2026-08-21T10:32:38.347272+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -13,10 +13,19 @@
     {
       "category": "mkd",
       "source": "SmartPortal",
+      "title": "Call of Duty: Modern Warfare 4 бета верзијата започнува вечерва: Објавени…",
+      "description": "",
+      "url": "https://smartportal.mk/novosti/gejming/call-of-duty-modern-warfare-4-beta-zapocnuva-vecerva/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/MW4-BETA-EARLY-INTEL-004-f-218x150.webp",
+      "date": ""
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
       "title": "Sony најави претставување на нов телефон од серијата Xperia идната недела",
       "description": "",
       "url": "https://smartportal.mk/novosti/smartfoni/sony-najavi-pretstavuvanje-na-nov-xperia/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/5974_Product-Intro-1_M-1-218x150.webp",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/MW4-BETA-EARLY-INTEL-004-f-218x150.webp",
       "date": ""
     },
     {
@@ -35,15 +44,6 @@
       "description": "",
       "url": "https://smartportal.mk/novosti/operativni-sistemi/microsoft-testira-ogranicuvanje-pristap-mikrofon-kanera-win32-aplikacii/",
       "image": "https://smartportal.mk/wp-content/uploads/2026/08/johny-georgiadis-3ewkNkfJj2k-unsplash-f-218x150.webp",
-      "date": ""
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Google најави нови едукативни алатки базирани на вештачка интелигенција во Google…",
-      "description": "",
-      "url": "https://smartportal.mk/novosti/ai/google-novi-edukativni-alatki-google-search/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/04/Depositphotos_485250286_L-218x150.webp",
       "date": ""
     },
     {
@@ -137,143 +137,7 @@
       "date": ""
     }
   ],
-  "de": [
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Hero Deal: hide.me senkt erneut die Preise!",
-      "description": "",
-      "url": "https://tarnkappe.info/advertorial/hero-deal-hide-me-senkt-erneut-die-preise-331653.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/Sommeraktion-Beitragsbild-700x300.png",
-      "date": ""
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "CyberLeek: Besitzt der Leaker eine spielbare Version von GTA 6?",
-      "description": "",
-      "url": "https://tarnkappe.info/artikel/gaming/cyberleek-besitzt-der-leaker-eine-spielbare-version-von-gta-6-332833.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/Cyberleek-GTA6-Beitragsbild-700x300.png",
-      "date": ""
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Beitragsservice ohne Service: Haushaltspauschale künftig ohne Erinnerung",
-      "description": "",
-      "url": "https://tarnkappe.info/artikel/beitragsservice-ohne-service-haushaltspauschale-kuenftig-ohne-erinnerung-332831.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/ARD-ZDF-Schreiben-beitragsservice-700x300.jpg",
-      "date": ""
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "RTX 5080 gestohlen: Dreister GPU-Tausch fliegt erst nach Blackout auf",
-      "description": "",
-      "url": "https://tarnkappe.info/artikel/gaming/rtx-5080-gestohlen-dreister-gpu-tausch-fliegt-erst-nach-blackout-auf-332816.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/W020260807366277706444_ORIGIN-700x300.jpg",
-      "date": ""
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Amazon führt neues DRM ein, schließt Libby-Schlupfloch",
-      "description": "",
-      "url": "https://tarnkappe.info/artikel/e-books/amazon-fuehrt-neues-drm-ein-schliesst-libby-schlupfloch-332806.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/Amazon-Halle-700x300.jpg",
-      "date": ""
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "CUII: LG Köln ließ KinoGo und Streamed sperren",
-      "description": "",
-      "url": "https://tarnkappe.info/artikel/rechtssachen/cuii-lg-koeln-liess-kinogo-und-streamed-sperren-332792.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/Blockade-1-700x300.png",
-      "date": ""
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Microsoft Copilot gehackt: KI verrät Forschern ihren eigenen Angriffsweg",
-      "description": "",
-      "url": "https://tarnkappe.info/artikel/it-sicherheit/microsoft-copilot-gehackt-332791.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/Use-AI-Image-Aug-19-2026-15_54_40-700x300.png",
-      "date": ""
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "c-network.to: Domain vom neuen Crimenetwork beschlagnahmt",
-      "description": "",
-      "url": "https://tarnkappe.info/artikel/szene/dark-commerce/c-network-to-domain-vom-neuen-crimenetwork-beschlagnahmt-332788.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/crimenetwork-sized-700x300.jpg",
-      "date": ""
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "IPTV-Reseller: „Ich verticke Abos fast wie ein Drogenhändler“",
-      "description": "",
-      "url": "https://tarnkappe.info/artikel/iptv/iptv-reseller-illegales-streaming-332763.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/ChatGPT-Image-18.-Aug.-2026-14_25_39-700x300.png",
-      "date": ""
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Cover Downloads im August 2026",
-      "description": "",
-      "url": "https://tarnkappe.info/listen/cover-downloads-im-august-2026-332747.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/schallplatten-staender-700x300.jpg",
-      "date": ""
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Boeing 737 gehackt: Mini-Gerät manipuliert Autopiloten",
-      "description": "",
-      "url": "https://tarnkappe.info/artikel/boeing-737-gehackt-mini-geraet-manipuliert-autopiloten-332742.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/schallplatten-staender-700x300.jpg",
-      "date": ""
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Darknet-Websites: die Dark-Web-Links im August 2026",
-      "description": "",
-      "url": "https://tarnkappe.info/listen/darknet-websites-die-dark-web-links-im-august-2026-332711.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/Darknet-Websites-August-2026-700x300.jpg",
-      "date": ""
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Streaming-Imperium: 7 Millionen Dollar für alte Domains – Malware inklusive",
-      "description": "",
-      "url": "https://tarnkappe.info/artikel/szene/dark-commerce/streaming-imperium-7-millionen-dollar-alte-domains-332703.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/Use-AI-Image-Aug-16-2026-16_25_56-700x300.png",
-      "date": ""
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Projectivy übernimmt die Home-Taste auf dem Fire TV",
-      "description": "",
-      "url": "https://tarnkappe.info/tutorials/projectivy-uebernimmt-die-home-taste-auf-dem-fire-tv-332543.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/Projectivy-Artikelbild-700x300.png",
-      "date": ""
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Meta KI-Brille: Gesichtserkennung macht aus Dinnerpartys Überwachungsclips",
-      "description": "",
-      "url": "https://tarnkappe.info/artikel/it-sicherheit/meta-ki-brille-gesichtserkennung-ueberwachungsclips-332516.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/ChatGPT-Image-15.-Aug.-2026-17_04_19-700x300.png",
-      "date": ""
-    }
-  ],
+  "de": [],
   "youtube": [
     {
       "category": "youtube",
