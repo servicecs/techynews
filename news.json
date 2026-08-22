@@ -1,21 +1,111 @@
 {
-  "updated": "2026-08-22T02:36:08.493683+00:00",
+  "updated": "2026-08-22T03:43:19.542193+00:00",
   "mkd": [
     {
       "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Кои професии и вештини ќе бидат најбарани во иднина? Бесплатни панел-дискусии во Семос Едукација",
+      "description": "Кои професии се бараат денес, кои вештини ќе бидат неопходни во иднина и како вештачката интелигенција веќе го менува начинот на кој учиме и работиме? На 24 и 25 август, Семос Академии организира бесплатен дводневен настан „Што е следно? Знаење. Вештини. Кариера. Иднина.“, со четири панел-дискусии и повеќе од 20 професионалци од различни индустрии. Настанот […]",
+      "url": "https://smartportal.mk/novosti/nastani/koi-profesii-i-vestini-ke-bida-najbarani-vo-idnina/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/semos-image-2-150x150.webp",
+      "date": "Fri, 21 Aug 2026 12:33:23 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Програмерите кои работат на развојот на Firefox објаснуваат зошто обидот на Alibaba за WebAudio следење е речиси неупотреблив",
+      "description": "Неодамнешните информации за користење на „WebAudio“ технологијата за дигитално идентификување (fingerprinting) од страна на платформата Alibaba предизвикаа дискусии за приватноста на корисниците. Техниката, која во еден случај предизвикала пречки при користење на Bluetooth слушалки, претставува метод за следење на активностите на корисниците низ различни веб страници. Сепак, инженерите кои работат на развојот на Firefox посочуваат […]",
+      "url": "https://smartportal.mk/novosti/veb-i-bezbednost/obid-alibaba-webaudio-sledenje-neupotrebliv/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/07/zulfugar-karimov-bLsYAO69c_s-unsplash-f-150x150.webp",
+      "date": "Fri, 21 Aug 2026 12:11:06 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Google најави нови опции за персонализација на Google Search, Discover и News",
+      "description": "Google претстави нови функции за персонализација кои ги опфаќаат платформите Search, Discover и Google News. Целта на овие промени е да им се овозможи на корисниците полесно да ги пронаоѓаат темите и изворите на информации кои најмногу ги интересираат, додека истовремено им помагаат на издавачите да изградат подиректна врска со својата публика. Една од клучните […]",
+      "url": "https://smartportal.mk/novosti/veb-i-bezbednost/google-novi-opcii-personalizacija-search-discover-i-news/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Untitled-13V_1.width-2200.format-webp-150x150.webp",
+      "date": "Fri, 21 Aug 2026 11:05:28 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Звукот на тишината: Како потивките машини за перење го менуваат доживувањето на перењето алишта",
+      "description": "Скопје, 21 август 2026 година – Перењето не треба да ви го прекинува денот. Откријте како Самсунг („Samsung“) машините за перење, создадени со фокус на тивко работење, им помагаат на домаќинствата ширум Европа конечно да уживаат во мирот. Постои еден момент што повеќето од нас добро го познаваат. Конечно сте успеале да го успиете бебето, […]",
+      "url": "https://smartportal.mk/novosti/uredi/potivki-masini-za-perenje-samsung/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Samsung-Digital-Appliances-AI-150x150.webp",
+      "date": "Fri, 21 Aug 2026 10:47:40 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Call of Duty: Modern Warfare 4 бета верзијата започнува вечерва: Објавени хардверските барања и новите безбедносни правила",
+      "description": "Infinity Ward потврди дека бета верзијата за Call of Duty: Modern Warfare 4 официјално започнува вечерва во 20:00 часот по наше време, веднаш по завршувањето на специјалниот „стриминг“ настан Call of Duty: NEXT, кој стартува два часа порано. Заедно со распоредот за тестирање, објавени се и деталните хардверски барања за компјутерите, како и неколку клучни […]",
+      "url": "https://smartportal.mk/novosti/gejming/call-of-duty-modern-warfare-4-beta-zapocnuva-vecerva/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/MW4-BETA-EARLY-INTEL-004-f-150x150.webp",
+      "date": "Fri, 21 Aug 2026 10:02:25 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Sony најави претставување на нов телефон од серијата Xperia идната недела",
+      "description": "Sony официјално потврди дека идната недела ќе претстави нов производ од линијата Xperia. Онлајн настанот е закажан за 25 август 2026 година, со почеток во 11 часот по јапонско време, што е 4 часот наутро по македонско време. Иако производителот сè уште не го открива точниот модел, досегашните информации сугерираат дека станува збор за премиера […]",
+      "url": "https://smartportal.mk/novosti/smartfoni/sony-najavi-pretstavuvanje-na-nov-xperia/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/5974_Product-Intro-1_M-1-150x150.webp",
+      "date": "Fri, 21 Aug 2026 08:58:03 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Google Research развива технологија за проценка на метаболичкиот ризик преку фотографии од телефоните",
+      "description": "Истражувачите од Google Research претставија нов систем базиран на длабоко учење, наменет за проценка на ризикот од „кардиометаболички“ заболувања преку користење на камерите од паметните телефони. Алатката, наречена PhotoScan, е развиена со цел да овозможи предвидување на инсулинската резистентност, состојба која често претходи на дијабетес тип 2. Системот функционира преку проценка на тродимензионалната структура на […]",
+      "url": "https://smartportal.mk/novosti/nauka-istrazuvanja/google-research-photoscan/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/johny-georgiadis-3ewkNkfJj2k-unsplash-f-150x150.webp",
+      "date": "Thu, 20 Aug 2026 12:29:50 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Microsoft тестира можност за ограничување на пристапот до микрофонот и камерата на „Win32“ апликациите",
+      "description": "Microsoft работи на значително подобрување на приватноста во својот оперативен систем преку интегрирање на нови опции за контрола на периферните уреди. Со најновата тест верзија од „експерименталниот“ канал, корисниците на Windows 11 ќе добијат можност директно да го блокираат пристапот до микрофонот и веб камерата за конкретни „Win32“ апликации. Оваа можност засега е достапна само […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/microsoft-testira-ogranicuvanje-pristap-mikrofon-kanera-win32-aplikacii/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/04/Depositphotos_485250286_L-150x150.webp",
+      "date": "Thu, 20 Aug 2026 10:23:25 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Google најави нови едукативни алатки базирани на вештачка интелигенција во Google Search",
+      "description": "Google претстави нови едукативни функции во рамки на својот пребарувач, дизајнирани да им помогнат на корисниците при совладување нови концепти и организирање на материјалите преку вештачка интелигенција. Пребарувачот сега може да генерира интерактивни визуелизации и симулации преку AI Mode, со што комплексните теми стануваат полесни за разбирање. Покрај тоа, воведени се персонализирани тестови за вежбање […]",
+      "url": "https://smartportal.mk/novosti/ai/google-novi-edukativni-alatki-google-search/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Blog_header_2_JwwDb02.width-2200.format-webp-150x150.webp",
+      "date": "Thu, 20 Aug 2026 09:53:55 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Apple возврати на обидот на OpenAI за отфрлање на тужбата за кражба на деловни тајни",
+      "description": "Apple поднесе официјален одговор на неодамнешното барање на OpenAI за отфрлање на тужбата во која ги обвинува OpenAI, io Products и двајца свои поранешни вработени за кражба на деловни тајни. Во својот одговор, Apple тврди дека аргументите на одбраната не ги адресираат основните обвинувања од првичната тужба и дека OpenAI неосновано ги минимизира нивните деловни […]",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/apple-vozvrati-na-openai/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Depositphotos_753415950_XL-f-150x150.webp",
+      "date": "Thu, 20 Aug 2026 09:29:44 +0000"
+    },
+    {
+      "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Мицкоски: Случајот може повторно да се отвори – „Не му е прв пат на Мицкоски да се заканува, не му се плашам“, вели Филипче | ТВ21",
+      "title": "МИЦКОСКИ 5 ГОДИНИ ЗБОРИ ДЕКА СУМ УБИЕЦ, ДА СЕ ИЗВИНИ ЗА ШИРЕЊЕ НА ЛАЖНИТЕ ВЕСТИ ЗА МОДУЛАРНАТА БОЛНИЦА, РЕЧЕ ФИЛИПЧЕ | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/0e785cddd1/mickoski-slucajot-moze-povtorno-da-se-otvori-ne-mu-e-prv-pat-na-mickoski-da-se-zakanuva-ne-mu-se-plasam-veli-filipce.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2025/04/mickoski-venko-1-1024x615.jpg",
-      "date": "Fri, 21 Aug 2026 16:10:48 +0000"
+      "url": "https://time.mk/c/e34babc582/mickoski-5-godini-zbori-deka-sum-ubiec-da-se-izvini-za-sirenje-na-laznite-vesti-za-modularnata-bolnica-rece-filipce.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/08/venko-filipce-pres-21.08.2026.jpeg",
+      "date": "Fri, 21 Aug 2026 14:08:53 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
       "title": "Огнот се шири кон манастирот над Матејче, во тек е борба со 15 пожари | Трн",
       "description": "",
-      "url": "https://time.mk/c/623154a633/ognot-se-siri-kon-manastirot-nad-matejce-vo-tek-e-borba-so-15-pozari.html",
+      "url": "https://time.mk/c/941468aacd/ognot-se-siri-kon-manastirot-nad-matejce-vo-tek-e-borba-so-15-pozari.html",
       "image": "https://trn.mk/wp-content/uploads/2026/08/pozar-matejce.jpg",
       "date": "Fri, 21 Aug 2026 17:08:47 +0000"
     },
@@ -58,11 +148,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Бројки за по дома – колку вреди македонската плата? | Независен",
+      "title": "Колку вреди македонската плата во услови на сè поголема инфлација? | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/5a87205244/brojki-za-po-doma-kolku-vredi-makedonskata-plata.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/08/Ovosje-i-zelencuk-od-pazar-potrosuvacka-kosnica-9-bg.jpg",
-      "date": "Fri, 21 Aug 2026 11:00:50 +0000"
+      "url": "https://time.mk/c/38d435e048/kolku-vredi-makedonskata-plata-vo-uslovi-na-se-pogolema-inflacija.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1787323787/one6um7cavo10svs0qzu.jpg",
+      "date": "Fri, 21 Aug 2026 14:56:54 +0000"
     },
     {
       "category": "mkd",
@@ -90,96 +180,6 @@
       "url": "https://time.mk/c/eaca646d39/video-srbija-e-vo-plamen-aktiviran-e-mehanizmot-za-civilna-zastita-na-eu-cadot-napravi-problemi-i-vo-romanija.html",
       "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/08/pozari-srbija-300x178.jpg",
       "date": "Fri, 21 Aug 2026 16:48:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Турција бара меѓународна потерница за Нетанјаху, тој го нарече Ердоган „антисемитски диктатор“ | Слободен Печат",
-      "description": "",
-      "url": "https://time.mk/c/5e6df90dcc/turcija-bara-megjunarodna-poternica-za-netanjahu-toj-go-narece-erdogan-antisemitski-diktator.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2023/09/ÐµÑÐ´Ð¾Ð³Ð°Ð½-Ð¸-Ð½ÐµÑÐ°Ð½ÑÐ°ÑÑ-300x204.jpg",
-      "date": "Fri, 21 Aug 2026 17:52:46 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Најмалку 15 загинати и 130 повредени во руски напад со дрон врз трговски центар во Кривиј Рог | Либертас",
-      "description": "",
-      "url": "https://time.mk/c/9f08f469c9/najmalku-15-zaginati-i-130-povredeni-vo-ruski-napad-so-dron-vrz-trgovski-centar-vo-krivij-rog.html",
-      "image": "https://libertas.mk/wp-content/uploads/2026/08/ssss.webp",
-      "date": "Fri, 21 Aug 2026 20:06:53 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Клековски: Средствата за прскање против комарци се безбедни и препорачани од СЗО | Нова Македонија",
-      "description": "",
-      "url": "https://time.mk/c/56f67c15ed/klekovski-sredstvata-za-prskanje-protiv-komarci-se-bezbedni-i-preporacani-od-szo.html",
-      "image": "https://novamakedonija.com.mk/wp-content/uploads/2025/11/klekovski-fzo-150x150.jpg",
-      "date": "Fri, 21 Aug 2026 11:50:45 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Скопје ги следи сите службени возила со GPS, а со посебни сонди се контролира и нивото на гориво со цел да се спречат можни злоупотреби | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/2bf9117899/skopje-gi-sledi-site-sluzbeni-vozila-so-gps-a-so-posebni-sondi-se-kontrolira-i-nivoto-na-gorivo-so-cel-da-se-sprecat-mozni-zloupotrebi.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84173/conversions/text-max.jpg",
-      "date": "Fri, 21 Aug 2026 09:03:19 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Натепана 80 годишна жена во сопствениот дом – ја нападнал роднина | Press24",
-      "description": "",
-      "url": "https://time.mk/c/ac7725a14a/natepana-80-godisna-zena-vo-sopstveniot-dom-ja-napadnal-rodnina.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/66001.jpg",
-      "date": "Fri, 21 Aug 2026 20:26:36 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Ловџија од Жупа пукал со пушка во кучиња скитници, едно убил и сега ќе одговара | Слободен Печат",
-      "description": "",
-      "url": "https://time.mk/c/8e18207bcf/lovdzija-od-zupa-pukal-so-puska-vo-kucinja-skitnici-edno-ubil-i-sega-ke-odgovara.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2024/03/DSC_5578-300x274.jpg",
-      "date": "Fri, 21 Aug 2026 19:36:47 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Заврши асфалтирањето на патот кој води кон црквата „Свети Наум“ во село Орман | Охрид1",
-      "description": "",
-      "url": "https://time.mk/c/7eabba8c85/zavrsi-asfaltiranjeto-na-patot-koj-vodi-kon-crkvata-sveti-naum-vo-selo-orman.html",
-      "image": "https://ohrid1.com/wp-content/uploads/2026/08/Messenger_creation_677068C6-BA0C-41B9-B7C1-41509A5BAD06-750x460.jpeg",
-      "date": "Fri, 21 Aug 2026 15:46:34 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Дивокоза за првпат после долго време е забележана на фотозамките на Пелистер | 4NEWS",
-      "description": "",
-      "url": "https://time.mk/c/211412df62/divokoza-za-prvpat-posle-dolgo-vreme-e-zabelezana-na-fotozamkite-na-pelister.html",
-      "image": "https://4news.mk/wp-content/uploads/2026/08/fb_img_1787296225975-1024x567.avif",
-      "date": "Fri, 21 Aug 2026 07:12:43 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "„Скејтбордингот не е за девојчиња“ во трка за главната награда на Сараевскиот филмски фестивал, „Мала Југославија“ освои награда | Макфакс",
-      "description": "",
-      "url": "https://time.mk/c/f1693a94ea/skejtbordingot-ne-e-za-devojcinja-vo-trka-za-glavnata-nagrada-na-saraevskiot-filmski-festival-mala-jugoslavija-osvoi-nagrada.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/08/sff-5.webp",
-      "date": "Fri, 21 Aug 2026 14:14:41 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ОБЈАВЕНИ ТРИ ПОВИЦИ ЗА ПРОЕКТИ ЗА „СКОПЈЕ 2028“ ВО ВРЕДНОСТ ОД 3.000 ДО 150.000 ЕВРА | Сакам да кажам",
-      "description": "",
-      "url": "https://time.mk/c/116f2758c5/objaveni-tri-povici-za-proekti-za-skopje-2028-vo-vrednost-od-3-000-do-150-000-evra.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/08/ficer-skopje-toplo-vreme-8-2026.jpg",
-      "date": "Fri, 21 Aug 2026 11:36:51 +0000"
     }
   ],
   "de": [
@@ -731,96 +731,6 @@
   "youtube": [
     {
       "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Der GTA 6 HACKER kommt aus Deutschland ?!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=Sbz8tRIowKE",
-      "image": "https://i.ytimg.com/vi/Sbz8tRIowKE/hqdefault.jpg",
-      "date": "2026-08-21T19:55:56+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Deine Smartwatch kann deine Passwörter verraten #informatik #passwort #smartwatch #code #security",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/kpq5zsDWGxs",
-      "image": "https://i.ytimg.com/vi/kpq5zsDWGxs/hqdefault.jpg",
-      "date": "2026-08-20T16:00:24+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Ein NAT und seine Schwächen... #informatik #code #netzwerk #news",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/bQipb_ZkNmg",
-      "image": "https://i.ytimg.com/vi/bQipb_ZkNmg/hqdefault.jpg",
-      "date": "2026-08-19T16:22:12+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Der Delta Airlines WLAN Fall #informatik #code #delta #wifi #news #flugzeug",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/Csj-3e8i8Wc",
-      "image": "https://i.ytimg.com/vi/Csj-3e8i8Wc/hqdefault.jpg",
-      "date": "2026-08-18T16:59:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Der schnellste Weg ein Flugzeug zu boarden und warum dieser nicht genutzt wird...",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/ZcD9yZtJWBo",
-      "image": "https://i.ytimg.com/vi/ZcD9yZtJWBo/hqdefault.jpg",
-      "date": "2026-08-16T16:15:14+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "ZIP Dateien die dein Antivirus Programm in die Knie zwingen... #informatik #code #zip #antivirus",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/P9bfdmMjy7w",
-      "image": "https://i.ytimg.com/vi/P9bfdmMjy7w/hqdefault.jpg",
-      "date": "2026-08-15T11:52:13+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Einfach mal den Spieß umdrehen und Lazarus APTs bei sich bewerben lassen...",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/_bHm3DF6V3Y",
-      "image": "https://i.ytimg.com/vi/_bHm3DF6V3Y/hqdefault.jpg",
-      "date": "2026-08-14T10:00:05+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Was hat es mit dem Claude Watermark aufsich ?! #informatik #code #algorithmus #news #claude",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/-5cJCHzp6uo",
-      "image": "https://i.ytimg.com/vi/-5cJCHzp6uo/hqdefault.jpg",
-      "date": "2026-08-13T10:00:23+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "VPN-Anbieter verkaufen dir die Angst von 2012... #informatik #vpn #https #code #news",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/gffe88f7JB4",
-      "image": "https://i.ytimg.com/vi/gffe88f7JB4/hqdefault.jpg",
-      "date": "2026-08-12T16:15:33+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Über die Grafikkarte zum Administrator ?! #informatik #news #arbeitsspeicher #grafikkarte #hardware",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/XgDu_PBEzFc",
-      "image": "https://i.ytimg.com/vi/XgDu_PBEzFc/hqdefault.jpg",
-      "date": "2026-08-11T10:15:39+00:00"
-    },
-    {
-      "category": "youtube",
       "source": "Modded Warfare",
       "title": "Rocketdyne Santa Susana Field Laboratory Abandoned America Space Race (1948)",
       "description": "",
@@ -911,93 +821,93 @@
     },
     {
       "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Install Windows 11 with a Local Account in 2026",
+      "source": "25HighTech",
+      "title": "steal a brainrot",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=juIh1auHo3s",
-      "image": "https://i.ytimg.com/vi/juIh1auHo3s/hqdefault.jpg",
-      "date": "2026-08-05T17:00:04+00:00"
+      "url": "https://www.youtube.com/watch?v=70-NtG02QAA",
+      "image": "https://i.ytimg.com/vi/70-NtG02QAA/hqdefault.jpg",
+      "date": "2026-01-11T06:08:17+00:00"
     },
     {
       "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Replace the Battery in a Dell Precision 7760 Laptop",
+      "source": "25HighTech",
+      "title": "roblox games",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=JOVmOahO2xs",
-      "image": "https://i.ytimg.com/vi/JOVmOahO2xs/hqdefault.jpg",
-      "date": "2026-03-11T17:00:00+00:00"
+      "url": "https://www.youtube.com/watch?v=gwStGvaBjFI",
+      "image": "https://i.ytimg.com/vi/gwStGvaBjFI/hqdefault.jpg",
+      "date": "2026-01-10T18:51:41+00:00"
     },
     {
       "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Use & Combine Joy-Con Controllers on the Steam Deck!",
+      "source": "25HighTech",
+      "title": "steal a brainrot update",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=p9ZdCe-eW1M",
-      "image": "https://i.ytimg.com/vi/p9ZdCe-eW1M/hqdefault.jpg",
-      "date": "2025-12-05T18:01:07+00:00"
+      "url": "https://www.youtube.com/watch?v=dxImxCzc_f0",
+      "image": "https://i.ytimg.com/vi/dxImxCzc_f0/hqdefault.jpg",
+      "date": "2026-01-10T17:17:11+00:00"
     },
     {
       "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Borderlands GOTY Enhanced Co-Op Lag Fix on PC | Windows & Steam Deck",
+      "source": "25HighTech",
+      "title": "How to install Retroarch on Linux Mint",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=UsaKlS3WBBs",
-      "image": "https://i.ytimg.com/vi/UsaKlS3WBBs/hqdefault.jpg",
-      "date": "2025-08-20T17:00:42+00:00"
+      "url": "https://www.youtube.com/watch?v=fYyG9aDDkN8",
+      "image": "https://i.ytimg.com/vi/fYyG9aDDkN8/hqdefault.jpg",
+      "date": "2025-10-03T17:31:05+00:00"
     },
     {
       "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Thrifty Gaming Pickups 058 - Going Through a Bag of Games, Controllers, and More!",
+      "source": "25HighTech",
+      "title": "How to delete application on linux mint",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=yKwMn2OMLLY",
-      "image": "https://i.ytimg.com/vi/yKwMn2OMLLY/hqdefault.jpg",
-      "date": "2025-05-07T17:01:12+00:00"
+      "url": "https://www.youtube.com/watch?v=OXJHSVPDBVE",
+      "image": "https://i.ytimg.com/vi/OXJHSVPDBVE/hqdefault.jpg",
+      "date": "2025-10-03T17:29:28+00:00"
     },
     {
       "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Thrifty Gaming Pickups 057 - Returning to Old Thrift Shops + A Big Xbox 360 Bundle!",
+      "source": "25HighTech",
+      "title": "How to install VICE commodore64 on linux mint",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=EOQgA7Q8Kw8",
-      "image": "https://i.ytimg.com/vi/EOQgA7Q8Kw8/hqdefault.jpg",
-      "date": "2024-12-04T18:00:14+00:00"
+      "url": "https://www.youtube.com/watch?v=JVR2o934puQ",
+      "image": "https://i.ytimg.com/vi/JVR2o934puQ/hqdefault.jpg",
+      "date": "2025-10-03T17:27:00+00:00"
     },
     {
       "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Thrifty Gaming Pickups 056 - Import Switch Games, Switch Lite, Xbox, and Xbox 360 Games!",
+      "source": "25HighTech",
+      "title": "How to install Abiword on Linux Mint",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=xaNcbxQkk5k",
-      "image": "https://i.ytimg.com/vi/xaNcbxQkk5k/hqdefault.jpg",
-      "date": "2024-06-12T17:00:40+00:00"
+      "url": "https://www.youtube.com/watch?v=WTtXBhyIISQ",
+      "image": "https://i.ytimg.com/vi/WTtXBhyIISQ/hqdefault.jpg",
+      "date": "2025-09-21T14:27:28+00:00"
     },
     {
       "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Thrifty Gaming Pickups 055 - Japanese Xbox 360 Imports, Consoles, and More!",
+      "source": "25HighTech",
+      "title": "How to install MVP player on Linux Mint",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=fvzT178zAlk",
-      "image": "https://i.ytimg.com/vi/fvzT178zAlk/hqdefault.jpg",
-      "date": "2024-05-15T17:00:26+00:00"
+      "url": "https://www.youtube.com/shorts/1DzS8278whw",
+      "image": "https://i.ytimg.com/vi/1DzS8278whw/hqdefault.jpg",
+      "date": "2025-09-21T14:25:56+00:00"
     },
     {
       "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Final Fantasy VII Rebirth Best Buy Steelbook (PS5) #shorts",
+      "source": "25HighTech",
+      "title": "How to install Midori browser on Linux Mint",
       "description": "",
-      "url": "https://www.youtube.com/shorts/k02mkNRvIYE",
-      "image": "https://i.ytimg.com/vi/k02mkNRvIYE/hqdefault.jpg",
-      "date": "2024-03-01T18:00:24+00:00"
+      "url": "https://www.youtube.com/shorts/q7Ts4jxumj8",
+      "image": "https://i.ytimg.com/vi/q7Ts4jxumj8/hqdefault.jpg",
+      "date": "2025-09-21T14:25:47+00:00"
     },
     {
       "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Final Fantasy VII Rebirth Deluxe Edition Unboxing (PS5) #shorts",
+      "source": "25HighTech",
+      "title": "roblox live",
       "description": "",
-      "url": "https://www.youtube.com/shorts/SFwXpq5kwe4",
-      "image": "https://i.ytimg.com/vi/SFwXpq5kwe4/hqdefault.jpg",
-      "date": "2024-03-01T02:23:40+00:00"
+      "url": "https://www.youtube.com/watch?v=WGjYQ-KT7V4",
+      "image": "https://i.ytimg.com/vi/WGjYQ-KT7V4/hqdefault.jpg",
+      "date": "2025-09-14T19:48:21+00:00"
     }
   ]
 }
