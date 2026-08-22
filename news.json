@@ -1,96 +1,6 @@
 {
-  "updated": "2026-08-22T01:20:28.876925+00:00",
+  "updated": "2026-08-22T02:36:08.493683+00:00",
   "mkd": [
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Кои професии и вештини ќе бидат најбарани во иднина? Бесплатни панел-дискусии во Семос Едукација",
-      "description": "Кои професии се бараат денес, кои вештини ќе бидат неопходни во иднина и како вештачката интелигенција веќе го менува начинот на кој учиме и работиме? На 24 и 25 август, Семос Академии организира бесплатен дводневен настан „Што е следно? Знаење. Вештини. Кариера. Иднина.“, со четири панел-дискусии и повеќе од 20 професионалци од различни индустрии. Настанот […]",
-      "url": "https://smartportal.mk/novosti/nastani/koi-profesii-i-vestini-ke-bida-najbarani-vo-idnina/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/semos-image-2-150x150.webp",
-      "date": "Fri, 21 Aug 2026 12:33:23 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Програмерите кои работат на развојот на Firefox објаснуваат зошто обидот на Alibaba за WebAudio следење е речиси неупотреблив",
-      "description": "Неодамнешните информации за користење на „WebAudio“ технологијата за дигитално идентификување (fingerprinting) од страна на платформата Alibaba предизвикаа дискусии за приватноста на корисниците. Техниката, која во еден случај предизвикала пречки при користење на Bluetooth слушалки, претставува метод за следење на активностите на корисниците низ различни веб страници. Сепак, инженерите кои работат на развојот на Firefox посочуваат […]",
-      "url": "https://smartportal.mk/novosti/veb-i-bezbednost/obid-alibaba-webaudio-sledenje-neupotrebliv/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/07/zulfugar-karimov-bLsYAO69c_s-unsplash-f-150x150.webp",
-      "date": "Fri, 21 Aug 2026 12:11:06 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Google најави нови опции за персонализација на Google Search, Discover и News",
-      "description": "Google претстави нови функции за персонализација кои ги опфаќаат платформите Search, Discover и Google News. Целта на овие промени е да им се овозможи на корисниците полесно да ги пронаоѓаат темите и изворите на информации кои најмногу ги интересираат, додека истовремено им помагаат на издавачите да изградат подиректна врска со својата публика. Една од клучните […]",
-      "url": "https://smartportal.mk/novosti/veb-i-bezbednost/google-novi-opcii-personalizacija-search-discover-i-news/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Untitled-13V_1.width-2200.format-webp-150x150.webp",
-      "date": "Fri, 21 Aug 2026 11:05:28 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Звукот на тишината: Како потивките машини за перење го менуваат доживувањето на перењето алишта",
-      "description": "Скопје, 21 август 2026 година – Перењето не треба да ви го прекинува денот. Откријте како Самсунг („Samsung“) машините за перење, создадени со фокус на тивко работење, им помагаат на домаќинствата ширум Европа конечно да уживаат во мирот. Постои еден момент што повеќето од нас добро го познаваат. Конечно сте успеале да го успиете бебето, […]",
-      "url": "https://smartportal.mk/novosti/uredi/potivki-masini-za-perenje-samsung/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Samsung-Digital-Appliances-AI-150x150.webp",
-      "date": "Fri, 21 Aug 2026 10:47:40 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Call of Duty: Modern Warfare 4 бета верзијата започнува вечерва: Објавени хардверските барања и новите безбедносни правила",
-      "description": "Infinity Ward потврди дека бета верзијата за Call of Duty: Modern Warfare 4 официјално започнува вечерва во 20:00 часот по наше време, веднаш по завршувањето на специјалниот „стриминг“ настан Call of Duty: NEXT, кој стартува два часа порано. Заедно со распоредот за тестирање, објавени се и деталните хардверски барања за компјутерите, како и неколку клучни […]",
-      "url": "https://smartportal.mk/novosti/gejming/call-of-duty-modern-warfare-4-beta-zapocnuva-vecerva/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/MW4-BETA-EARLY-INTEL-004-f-150x150.webp",
-      "date": "Fri, 21 Aug 2026 10:02:25 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Sony најави претставување на нов телефон од серијата Xperia идната недела",
-      "description": "Sony официјално потврди дека идната недела ќе претстави нов производ од линијата Xperia. Онлајн настанот е закажан за 25 август 2026 година, со почеток во 11 часот по јапонско време, што е 4 часот наутро по македонско време. Иако производителот сè уште не го открива точниот модел, досегашните информации сугерираат дека станува збор за премиера […]",
-      "url": "https://smartportal.mk/novosti/smartfoni/sony-najavi-pretstavuvanje-na-nov-xperia/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/5974_Product-Intro-1_M-1-150x150.webp",
-      "date": "Fri, 21 Aug 2026 08:58:03 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Google Research развива технологија за проценка на метаболичкиот ризик преку фотографии од телефоните",
-      "description": "Истражувачите од Google Research претставија нов систем базиран на длабоко учење, наменет за проценка на ризикот од „кардиометаболички“ заболувања преку користење на камерите од паметните телефони. Алатката, наречена PhotoScan, е развиена со цел да овозможи предвидување на инсулинската резистентност, состојба која често претходи на дијабетес тип 2. Системот функционира преку проценка на тродимензионалната структура на […]",
-      "url": "https://smartportal.mk/novosti/nauka-istrazuvanja/google-research-photoscan/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/johny-georgiadis-3ewkNkfJj2k-unsplash-f-150x150.webp",
-      "date": "Thu, 20 Aug 2026 12:29:50 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Microsoft тестира можност за ограничување на пристапот до микрофонот и камерата на „Win32“ апликациите",
-      "description": "Microsoft работи на значително подобрување на приватноста во својот оперативен систем преку интегрирање на нови опции за контрола на периферните уреди. Со најновата тест верзија од „експерименталниот“ канал, корисниците на Windows 11 ќе добијат можност директно да го блокираат пристапот до микрофонот и веб камерата за конкретни „Win32“ апликации. Оваа можност засега е достапна само […]",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/microsoft-testira-ogranicuvanje-pristap-mikrofon-kanera-win32-aplikacii/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/04/Depositphotos_485250286_L-150x150.webp",
-      "date": "Thu, 20 Aug 2026 10:23:25 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Google најави нови едукативни алатки базирани на вештачка интелигенција во Google Search",
-      "description": "Google претстави нови едукативни функции во рамки на својот пребарувач, дизајнирани да им помогнат на корисниците при совладување нови концепти и организирање на материјалите преку вештачка интелигенција. Пребарувачот сега може да генерира интерактивни визуелизации и симулации преку AI Mode, со што комплексните теми стануваат полесни за разбирање. Покрај тоа, воведени се персонализирани тестови за вежбање […]",
-      "url": "https://smartportal.mk/novosti/ai/google-novi-edukativni-alatki-google-search/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Blog_header_2_JwwDb02.width-2200.format-webp-150x150.webp",
-      "date": "Thu, 20 Aug 2026 09:53:55 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Apple возврати на обидот на OpenAI за отфрлање на тужбата за кражба на деловни тајни",
-      "description": "Apple поднесе официјален одговор на неодамнешното барање на OpenAI за отфрлање на тужбата во која ги обвинува OpenAI, io Products и двајца свои поранешни вработени за кражба на деловни тајни. Во својот одговор, Apple тврди дека аргументите на одбраната не ги адресираат основните обвинувања од првичната тужба и дека OpenAI неосновано ги минимизира нивните деловни […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/apple-vozvrati-na-openai/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Depositphotos_753415950_XL-f-150x150.webp",
-      "date": "Thu, 20 Aug 2026 09:29:44 +0000"
-    },
     {
       "category": "mkd",
       "source": "Time.mk - All",
@@ -112,11 +22,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "КАНАЛИТЕ, СЕПТИЧКИТЕ ЈАМИ, ВАЗНИТЕ НА ГРОБИШТАТА И СТАРИТЕ ГУМИ СЕ ВИСОКОРИЗИЧНИ МЕСТА ЗА ШИРЕЊЕ НА ЗАПАДНОНИЛСКИОТ ВИРУС, РЕЧЕ КЛЕКОВСКИ, ДОСЕГА 43 ЗАРАЗЕНИ | Сакам да кажам",
+      "title": "Најризични за ширењето на западно-нилската треска каналите за наводнување | еМагазин",
       "description": "",
-      "url": "https://time.mk/c/62893176a2/kanalite-septickite-jami-vaznite-na-grobistata-i-starite-gumi-se-visokorizicni-mesta-za-sirenje-na-zapadnonilskiot-virus-rece-klekovski-dosega-43-zarazeni.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/08/ficer-skopje-kp.jpg",
-      "date": "Fri, 21 Aug 2026 11:02:36 +0000"
+      "url": "https://time.mk/c/6510131f7c/najrizicni-za-sirenjeto-na-zapadno-nilskata-treska-kanalite-za-navodnuvanje.html",
+      "image": "https://emagazin.mk/wp-content/uploads/2026/08/komarec-2-300x200.jpg",
+      "date": "Fri, 21 Aug 2026 16:36:47 +0000"
     },
     {
       "category": "mkd",
@@ -180,6 +90,96 @@
       "url": "https://time.mk/c/eaca646d39/video-srbija-e-vo-plamen-aktiviran-e-mehanizmot-za-civilna-zastita-na-eu-cadot-napravi-problemi-i-vo-romanija.html",
       "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/08/pozari-srbija-300x178.jpg",
       "date": "Fri, 21 Aug 2026 16:48:48 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Турција бара меѓународна потерница за Нетанјаху, тој го нарече Ердоган „антисемитски диктатор“ | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/5e6df90dcc/turcija-bara-megjunarodna-poternica-za-netanjahu-toj-go-narece-erdogan-antisemitski-diktator.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2023/09/ÐµÑÐ´Ð¾Ð³Ð°Ð½-Ð¸-Ð½ÐµÑÐ°Ð½ÑÐ°ÑÑ-300x204.jpg",
+      "date": "Fri, 21 Aug 2026 17:52:46 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Најмалку 15 загинати и 130 повредени во руски напад со дрон врз трговски центар во Кривиј Рог | Либертас",
+      "description": "",
+      "url": "https://time.mk/c/9f08f469c9/najmalku-15-zaginati-i-130-povredeni-vo-ruski-napad-so-dron-vrz-trgovski-centar-vo-krivij-rog.html",
+      "image": "https://libertas.mk/wp-content/uploads/2026/08/ssss.webp",
+      "date": "Fri, 21 Aug 2026 20:06:53 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Клековски: Средствата за прскање против комарци се безбедни и препорачани од СЗО | Нова Македонија",
+      "description": "",
+      "url": "https://time.mk/c/56f67c15ed/klekovski-sredstvata-za-prskanje-protiv-komarci-se-bezbedni-i-preporacani-od-szo.html",
+      "image": "https://novamakedonija.com.mk/wp-content/uploads/2025/11/klekovski-fzo-150x150.jpg",
+      "date": "Fri, 21 Aug 2026 11:50:45 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Скопје ги следи сите службени возила со GPS, а со посебни сонди се контролира и нивото на гориво со цел да се спречат можни злоупотреби | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/2bf9117899/skopje-gi-sledi-site-sluzbeni-vozila-so-gps-a-so-posebni-sondi-se-kontrolira-i-nivoto-na-gorivo-so-cel-da-se-sprecat-mozni-zloupotrebi.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84173/conversions/text-max.jpg",
+      "date": "Fri, 21 Aug 2026 09:03:19 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Натепана 80 годишна жена во сопствениот дом – ја нападнал роднина | Press24",
+      "description": "",
+      "url": "https://time.mk/c/ac7725a14a/natepana-80-godisna-zena-vo-sopstveniot-dom-ja-napadnal-rodnina.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/66001.jpg",
+      "date": "Fri, 21 Aug 2026 20:26:36 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Ловџија од Жупа пукал со пушка во кучиња скитници, едно убил и сега ќе одговара | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/8e18207bcf/lovdzija-od-zupa-pukal-so-puska-vo-kucinja-skitnici-edno-ubil-i-sega-ke-odgovara.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2024/03/DSC_5578-300x274.jpg",
+      "date": "Fri, 21 Aug 2026 19:36:47 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Заврши асфалтирањето на патот кој води кон црквата „Свети Наум“ во село Орман | Охрид1",
+      "description": "",
+      "url": "https://time.mk/c/7eabba8c85/zavrsi-asfaltiranjeto-na-patot-koj-vodi-kon-crkvata-sveti-naum-vo-selo-orman.html",
+      "image": "https://ohrid1.com/wp-content/uploads/2026/08/Messenger_creation_677068C6-BA0C-41B9-B7C1-41509A5BAD06-750x460.jpeg",
+      "date": "Fri, 21 Aug 2026 15:46:34 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Дивокоза за првпат после долго време е забележана на фотозамките на Пелистер | 4NEWS",
+      "description": "",
+      "url": "https://time.mk/c/211412df62/divokoza-za-prvpat-posle-dolgo-vreme-e-zabelezana-na-fotozamkite-na-pelister.html",
+      "image": "https://4news.mk/wp-content/uploads/2026/08/fb_img_1787296225975-1024x567.avif",
+      "date": "Fri, 21 Aug 2026 07:12:43 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "„Скејтбордингот не е за девојчиња“ во трка за главната награда на Сараевскиот филмски фестивал, „Мала Југославија“ освои награда | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/f1693a94ea/skejtbordingot-ne-e-za-devojcinja-vo-trka-za-glavnata-nagrada-na-saraevskiot-filmski-festival-mala-jugoslavija-osvoi-nagrada.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/08/sff-5.webp",
+      "date": "Fri, 21 Aug 2026 14:14:41 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "ОБЈАВЕНИ ТРИ ПОВИЦИ ЗА ПРОЕКТИ ЗА „СКОПЈЕ 2028“ ВО ВРЕДНОСТ ОД 3.000 ДО 150.000 ЕВРА | Сакам да кажам",
+      "description": "",
+      "url": "https://time.mk/c/116f2758c5/objaveni-tri-povici-za-proekti-za-skopje-2028-vo-vrednost-od-3-000-do-150-000-evra.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/08/ficer-skopje-toplo-vreme-8-2026.jpg",
+      "date": "Fri, 21 Aug 2026 11:36:51 +0000"
     }
   ],
   "de": [
