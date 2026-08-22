@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T16:26:57.356438+00:00",
+  "updated": "2026-08-22T16:52:54.808697+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -94,20 +94,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Пожарот кај Струмица се приближил до куќите: Огнот сопрен пред домовите, на терен и „Ер трактор“ | Скопје1",
+      "title": "(ФОТО+ВИДЕО) Пожарот кај Струмичко спречен пред да зафати дворови и куќи, интервенира и еден „ертрактор“ | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/55c956aa55/pozarot-kaj-strumica-se-priblizil-do-kukite-ognot-sopren-pred-domovite-na-teren-i-er-traktor.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84228/conversions/text-max.jpg",
-      "date": "Sat, 22 Aug 2026 15:18:44 +0000"
+      "url": "https://time.mk/c/2d3596b300/foto-video-pozarot-kaj-strumicko-sprecen-pred-da-zafati-dvorovi-i-kuki-intervenira-i-eden-ertraktor.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/08/pozar-selo-Vodoca5.jpg",
+      "date": "Sat, 22 Aug 2026 16:26:34 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Нов, голем пожар во Струмичко, повик од Прилеп до граѓаните да се упатат кон викендичките кај Коњари | Слободен Печат",
+      "title": "Ангелов: Ова е еден од најтешките денови во сезоната, има повеќе од 15 активни пожари | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/c9cf729397/nov-golem-pozar-vo-strumicko-povik-od-prilep-do-gragjanite-da-se-upatat-kon-vikendickite-kaj-konjari.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/08/pozar-mariovo-300x172.jpg",
-      "date": "Sat, 22 Aug 2026 12:58:34 +0000"
+      "url": "https://time.mk/c/37615c3d8f/angelov-ova-e-eden-od-najteskite-denovi-vo-sezonata-ima-poveke-od-15-aktivni-pozari.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84230/conversions/text-max.jpg",
+      "date": "Sat, 22 Aug 2026 16:30:35 +0000"
     },
     {
       "category": "mkd",
@@ -120,21 +120,12 @@
     },
     {
       "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ВЛЕН: ДУИ две децении беше на власт, а нема абер од законите | 24Инфо",
+      "source": "Time.mk - Sport",
+      "title": "Анализа: Како Хал Сити му одржа сурова тактичка лекција на Манчестер Јунајтед уште на стартот! | SportStation",
       "description": "",
-      "url": "https://time.mk/c/780e8d6a32/vlen-dui-dve-decenii-bese-na-vlast-a-nema-aber-od-zakonite.html",
-      "image": "https://24info.mk/wp-content/uploads/2026/05/vlen.webp",
-      "date": "Sat, 22 Aug 2026 14:40:52 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "(Видео) Едмонд Темелко-Албанската химна на фестивалот „Преспа“ беше интонирана. Видеото е доказ дека Рама бил излажан | Либертас",
-      "description": "",
-      "url": "https://time.mk/c/ef3a5f35f9/video-edmond-temelko-albanskata-himna-na-festivalot-prespa-bese-intonirana-videoto-e-dokaz-deka-rama-bil-izlazan.html",
-      "image": "https://expres.mk/wp-content/uploads/2026/08/ZomboDroid_22082026144531.jpg",
-      "date": "Sat, 22 Aug 2026 15:08:51 +0000"
+      "url": "https://time.mk/c/84fff059b7/analiza-kako-hal-siti-mu-odrza-surova-takticka-lekcija-na-mancester-junajted-uste-na-startot.html",
+      "image": "https://sportstation.mk/wp-content/uploads/2026/08/2026-08-22t132934z_2116421661_up1em8m11h9jw_rtrmadp_3_soccer-england-hul-mun-1024x576.webp",
+      "date": "Sat, 22 Aug 2026 16:40:55 +0000"
     },
     {
       "category": "mkd",
@@ -144,6 +135,15 @@
       "url": "https://time.mk/c/b097ea6bb2/nov-zrtva-od-zapadnonilska-treska-vo-makedonija-pocina-73-godisen-pacient-od-skopje.html",
       "image": "https://mk.tv21.tv/wp-content/uploads/2024/06/komarec.jpg",
       "date": "Sat, 22 Aug 2026 12:42:33 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "(Видео) Едмонд Темелко-Албанската химна на фестивалот „Преспа“ беше интонирана. Видеото е доказ дека Рама бил излажан | Либертас",
+      "description": "",
+      "url": "https://time.mk/c/ef3a5f35f9/video-edmond-temelko-albanskata-himna-na-festivalot-prespa-bese-intonirana-videoto-e-dokaz-deka-rama-bil-izlazan.html",
+      "image": "https://expres.mk/wp-content/uploads/2026/08/ZomboDroid_22082026144531.jpg",
+      "date": "Sat, 22 Aug 2026 15:08:51 +0000"
     },
     {
       "category": "mkd",
@@ -166,20 +166,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "МВР: Со апликацијата „Безбеден град“ за странци, значително намалена гужвата на Г.П. Табановце | 24 Вести",
+      "title": "Трагичен крај на потрагата по малиот авион во Хрватска: загинаа двајца германски државјани | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/4157a21ba4/mvr-so-aplikacijata-bezbeden-grad-za-stranci-znacitelno-namalena-guzvata-na-g-p-tabanovce.html",
-      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1787411013/wyre4xsypgvfwsnbhlkp.jpg",
-      "date": "Sat, 22 Aug 2026 15:06:42 +0000"
+      "url": "https://time.mk/c/218da73956/tragicen-kraj-na-potragata-po-maliot-avion-vo-hrvatska-zaginaa-dvajca-germanski-drzavjani.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/79256/conversions/text-max.jpg",
+      "date": "Sat, 22 Aug 2026 16:40:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Маж загина додека гасел пожар во БиХ, огнот се шири и кон границата со Хрватска | Трн",
+      "title": "МВР: Со апликацијата „Безбеден град“ за странци, значително намалена гужвата на Г.П. Табановце | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/1a096ae51e/maz-zagina-dodeka-gasel-pozar-vo-bih-ognot-se-siri-i-kon-granicata-so-hrvatska.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/08/pozar-omis1.webp",
-      "date": "Fri, 21 Aug 2026 13:20:50 +0000"
+      "url": "https://time.mk/c/cb5f86c0a3/mvr-so-aplikacijata-bezbeden-grad-za-stranci-znacitelno-namalena-guzvata-na-g-p-tabanovce.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1787411013/wyre4xsypgvfwsnbhlkp.jpg",
+      "date": "Sat, 22 Aug 2026 15:06:42 +0000"
     }
   ],
   "de": [
