@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T20:24:57.406123+00:00",
+  "updated": "2026-08-22T20:50:12.363515+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -96,9 +96,18 @@
       "source": "Time.mk - All",
       "title": "Големиот пожар кај Струмица е ставен под контрола | Независен",
       "description": "",
-      "url": "https://time.mk/c/5263199f53/golemiot-pozar-kaj-strumica-e-staven-pod-kontrola.html",
+      "url": "https://time.mk/c/f84414cf66/golemiot-pozar-kaj-strumica-e-staven-pod-kontrola.html",
       "image": "https://nezavisen.mk/wp-content/uploads/2026/08/pozar-strumica.jpg",
       "date": "Sat, 22 Aug 2026 19:20:48 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - Sport",
+      "title": "Браун и Олисе ја замолкнаа „Сигнал Идуна парк“, Баерн отвори со трофеј во новата сезона (Видео) | Дерби",
+      "description": "",
+      "url": "https://time.mk/c/5988b1b64d/braun-i-olise-ja-zamolknaa-signal-iduna-park-baern-otvori-so-trofej-vo-novata-sezona-video.html",
+      "image": "https://derbi.mk/wp-content/uploads/2026/08/kimih-braun.jpg",
+      "date": "Sat, 22 Aug 2026 20:36:51 +0000"
     },
     {
       "category": "mkd",
@@ -114,35 +123,26 @@
       "source": "Time.mk - Sport",
       "title": "Охрид вторпат го надигра Вардар во една недела: „Гладијаторите“ го одбранија трофејот „Крсте Андоновски“ | Дерби",
       "description": "",
-      "url": "https://time.mk/c/fcacd2994a/ohrid-vtorpat-go-nadigra-vardar-vo-edna-nedela-gladijatorite-go-odbranija-trofejot-krste-andonovski.html",
+      "url": "https://time.mk/c/207e07fe38/ohrid-vtorpat-go-nadigra-vardar-vo-edna-nedela-gladijatorite-go-odbranija-trofejot-krste-andonovski.html",
       "image": "https://derbi.mk/wp-content/uploads/2026/08/grk-ohrid.jpg",
       "date": "Sat, 22 Aug 2026 20:18:33 +0000"
     },
     {
       "category": "mkd",
-      "source": "Time.mk - Sport",
-      "title": "Интер на убедлив начин ја почна одбраната на титулата во Серија А (Видео) | Спортманија",
-      "description": "",
-      "url": "https://time.mk/c/3b25be030d/inter-na-ubedliv-nacin-ja-pocna-odbranata-na-titulata-vo-serija-a-video.html",
-      "image": "https://sportmanija.mk/wp-content/uploads/2026/08/espozito-inter-3-696x430.jpg",
-      "date": "Sat, 22 Aug 2026 18:46:43 +0000"
-    },
-    {
-      "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Пожарот во струмичко под контрола, нов пожар вечерва над селото Палиград | Проверено",
+      "title": "ДРАМАТИЧНА НОЌ ВО ПАЛИГРАД: Пожарот се приближува кон селото, пожарникарите остануваат на терен | 24Инфо",
       "description": "",
-      "url": "https://time.mk/c/efab79912a/pozarot-vo-strumicko-pod-kontrola-nov-pozar-vecerva-nad-seloto-paligrad.html",
-      "image": "https://infomax.mk/wp-content/uploads/2026/08/pozar-paligrad-zelenikovo.jpg",
-      "date": "Sat, 22 Aug 2026 19:44:53 +0000"
+      "url": "https://time.mk/c/5f1b2e2f87/dramaticna-nok-vo-paligrad-pozarot-se-priblizuva-kon-seloto-pozarnikarite-ostanuvaat-na-teren.html",
+      "image": "https://24info.mk/wp-content/uploads/2026/08/img_2415.jpeg",
+      "date": "Sat, 22 Aug 2026 20:40:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
       "title": "Јотова: Нема да се откажеме од Бугарите во Северна Македонија, ќе ги заштитиме нивните права | Фокус",
       "description": "",
-      "url": "https://time.mk/r/NONE/af3f126e89/jotova-nema-da-se-otkazeme-od-bugarite-vo-severna-makedonija-ke-gi-zastitime-nivnite-prava.html",
-      "image": "https://time.mk/r/NONE/af3f126e89/images/thumb/dd6c915a2a.jpg",
+      "url": "https://time.mk/c/0d337597a9/jotova-nema-da-se-otkazeme-od-bugarite-vo-severna-makedonija-ke-gi-zastitime-nivnite-prava.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/02/jotova.jpg",
       "date": "Sat, 22 Aug 2026 19:26:45 +0000"
     },
     {
