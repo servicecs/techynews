@@ -1,14 +1,122 @@
 {
-  "updated": "2026-08-22T08:32:47.847562+00:00",
+  "updated": "2026-08-22T09:28:50.482285+00:00",
   "mkd": [
     {
       "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Кои професии и вештини ќе бидат најбарани во иднина? Бесплатни панел-дискусии во Семос Едукација",
+      "description": "Кои професии се бараат денес, кои вештини ќе бидат неопходни во иднина и како вештачката интелигенција веќе го менува начинот на кој учиме и работиме? На 24 и 25 август, Семос Академии организира бесплатен дводневен настан „Што е следно? Знаење. Вештини. Кариера. Иднина.“, со четири панел-дискусии и повеќе од 20 професионалци од различни индустрии. Настанот […]",
+      "url": "https://smartportal.mk/novosti/nastani/koi-profesii-i-vestini-ke-bida-najbarani-vo-idnina/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/semos-image-2-150x150.webp",
+      "date": "Fri, 21 Aug 2026 12:33:23 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Програмерите кои работат на развојот на Firefox објаснуваат зошто обидот на Alibaba за WebAudio следење е речиси неупотреблив",
+      "description": "Неодамнешните информации за користење на „WebAudio“ технологијата за дигитално идентификување (fingerprinting) од страна на платформата Alibaba предизвикаа дискусии за приватноста на корисниците. Техниката, која во еден случај предизвикала пречки при користење на Bluetooth слушалки, претставува метод за следење на активностите на корисниците низ различни веб страници. Сепак, инженерите кои работат на развојот на Firefox посочуваат […]",
+      "url": "https://smartportal.mk/novosti/veb-i-bezbednost/obid-alibaba-webaudio-sledenje-neupotrebliv/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/07/zulfugar-karimov-bLsYAO69c_s-unsplash-f-150x150.webp",
+      "date": "Fri, 21 Aug 2026 12:11:06 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Google најави нови опции за персонализација на Google Search, Discover и News",
+      "description": "Google претстави нови функции за персонализација кои ги опфаќаат платформите Search, Discover и Google News. Целта на овие промени е да им се овозможи на корисниците полесно да ги пронаоѓаат темите и изворите на информации кои најмногу ги интересираат, додека истовремено им помагаат на издавачите да изградат подиректна врска со својата публика. Една од клучните […]",
+      "url": "https://smartportal.mk/novosti/veb-i-bezbednost/google-novi-opcii-personalizacija-search-discover-i-news/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Untitled-13V_1.width-2200.format-webp-150x150.webp",
+      "date": "Fri, 21 Aug 2026 11:05:28 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Звукот на тишината: Како потивките машини за перење го менуваат доживувањето на перењето алишта",
+      "description": "Скопје, 21 август 2026 година – Перењето не треба да ви го прекинува денот. Откријте како Самсунг („Samsung“) машините за перење, создадени со фокус на тивко работење, им помагаат на домаќинствата ширум Европа конечно да уживаат во мирот. Постои еден момент што повеќето од нас добро го познаваат. Конечно сте успеале да го успиете бебето, […]",
+      "url": "https://smartportal.mk/novosti/uredi/potivki-masini-za-perenje-samsung/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Samsung-Digital-Appliances-AI-150x150.webp",
+      "date": "Fri, 21 Aug 2026 10:47:40 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Call of Duty: Modern Warfare 4 бета верзијата започнува вечерва: Објавени хардверските барања и новите безбедносни правила",
+      "description": "Infinity Ward потврди дека бета верзијата за Call of Duty: Modern Warfare 4 официјално започнува вечерва во 20:00 часот по наше време, веднаш по завршувањето на специјалниот „стриминг“ настан Call of Duty: NEXT, кој стартува два часа порано. Заедно со распоредот за тестирање, објавени се и деталните хардверски барања за компјутерите, како и неколку клучни […]",
+      "url": "https://smartportal.mk/novosti/gejming/call-of-duty-modern-warfare-4-beta-zapocnuva-vecerva/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/MW4-BETA-EARLY-INTEL-004-f-150x150.webp",
+      "date": "Fri, 21 Aug 2026 10:02:25 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Sony најави претставување на нов телефон од серијата Xperia идната недела",
+      "description": "Sony официјално потврди дека идната недела ќе претстави нов производ од линијата Xperia. Онлајн настанот е закажан за 25 август 2026 година, со почеток во 11 часот по јапонско време, што е 4 часот наутро по македонско време. Иако производителот сè уште не го открива точниот модел, досегашните информации сугерираат дека станува збор за премиера […]",
+      "url": "https://smartportal.mk/novosti/smartfoni/sony-najavi-pretstavuvanje-na-nov-xperia/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/5974_Product-Intro-1_M-1-150x150.webp",
+      "date": "Fri, 21 Aug 2026 08:58:03 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Google Research развива технологија за проценка на метаболичкиот ризик преку фотографии од телефоните",
+      "description": "Истражувачите од Google Research претставија нов систем базиран на длабоко учење, наменет за проценка на ризикот од „кардиометаболички“ заболувања преку користење на камерите од паметните телефони. Алатката, наречена PhotoScan, е развиена со цел да овозможи предвидување на инсулинската резистентност, состојба која често претходи на дијабетес тип 2. Системот функционира преку проценка на тродимензионалната структура на […]",
+      "url": "https://smartportal.mk/novosti/nauka-istrazuvanja/google-research-photoscan/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/johny-georgiadis-3ewkNkfJj2k-unsplash-f-150x150.webp",
+      "date": "Thu, 20 Aug 2026 12:29:50 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Microsoft тестира можност за ограничување на пристапот до микрофонот и камерата на „Win32“ апликациите",
+      "description": "Microsoft работи на значително подобрување на приватноста во својот оперативен систем преку интегрирање на нови опции за контрола на периферните уреди. Со најновата тест верзија од „експерименталниот“ канал, корисниците на Windows 11 ќе добијат можност директно да го блокираат пристапот до микрофонот и веб камерата за конкретни „Win32“ апликации. Оваа можност засега е достапна само […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/microsoft-testira-ogranicuvanje-pristap-mikrofon-kanera-win32-aplikacii/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/04/Depositphotos_485250286_L-150x150.webp",
+      "date": "Thu, 20 Aug 2026 10:23:25 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Google најави нови едукативни алатки базирани на вештачка интелигенција во Google Search",
+      "description": "Google претстави нови едукативни функции во рамки на својот пребарувач, дизајнирани да им помогнат на корисниците при совладување нови концепти и организирање на материјалите преку вештачка интелигенција. Пребарувачот сега може да генерира интерактивни визуелизации и симулации преку AI Mode, со што комплексните теми стануваат полесни за разбирање. Покрај тоа, воведени се персонализирани тестови за вежбање […]",
+      "url": "https://smartportal.mk/novosti/ai/google-novi-edukativni-alatki-google-search/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Blog_header_2_JwwDb02.width-2200.format-webp-150x150.webp",
+      "date": "Thu, 20 Aug 2026 09:53:55 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Apple возврати на обидот на OpenAI за отфрлање на тужбата за кражба на деловни тајни",
+      "description": "Apple поднесе официјален одговор на неодамнешното барање на OpenAI за отфрлање на тужбата во која ги обвинува OpenAI, io Products и двајца свои поранешни вработени за кражба на деловни тајни. Во својот одговор, Apple тврди дека аргументите на одбраната не ги адресираат основните обвинувања од првичната тужба и дека OpenAI неосновано ги минимизира нивните деловни […]",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/apple-vozvrati-na-openai/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Depositphotos_753415950_XL-f-150x150.webp",
+      "date": "Thu, 20 Aug 2026 09:29:44 +0000"
+    },
+    {
+      "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Околу еден час се чека за влез во Грција | Слободен Печат",
+      "title": "(Фото) Колони на Табановце и Богородица: Задржувањата до 60 минути | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/218e76d266/okolu-eden-cas-se-ceka-za-vlez-vo-grcija.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/08/granica-grcija-300x199.jpg",
-      "date": "Sat, 22 Aug 2026 06:44:46 +0000"
+      "url": "https://time.mk/c/5059d18de9/foto-koloni-na-tabanovce-i-bogorodica-zadrzuvanjata-do-60-minuti.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84219/conversions/text-max.jpg",
+      "date": "Sat, 22 Aug 2026 08:54:35 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "ТЕЦ Неготино остварила рекордна добивка од мазутот на РКМ! | Либертас",
+      "description": "",
+      "url": "https://time.mk/c/c0033cc8ca/tec-negotino-ostvarila-rekordna-dobivka-od-mazutot-na-rkm.html",
+      "image": "https://libertas.mk/wp-content/uploads/2026/08/20230928011227-1.jpg",
+      "date": "Sat, 22 Aug 2026 08:52:46 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "ЗА 7 ГОДИНИ ВЛАДА НА СДСМ ПРОСЕЧНАТА ПЛАТА РАСТЕШЕ СО МЕСЕЧНО ТЕМПО ОД 0,72%, А ЗА 2 ГОДИНИ ВЛАДА НА ВМРО-ДПМНЕ СО 0,73% | Сакам да кажам",
+      "description": "",
+      "url": "https://time.mk/c/a99d740cd1/za-7-godini-vlada-na-sdsm-prosecnata-plata-rastese-so-mesecno-tempo-od-0-72-a-za-2-godini-vlada-na-vmro-dpmne-so-0-73.html",
+      "image": "https://sdk.mk/wp-content/uploads/2025/07/ficer1.jpg",
+      "date": "Sat, 22 Aug 2026 08:04:49 +0000"
     },
     {
       "category": "mkd",
@@ -22,24 +130,6 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ЗА 7 ГОДИНИ ВЛАДА НА СДСМ ПРОСЕЧНАТА ПЛАТА РАСТЕШЕ СО МЕСЕЧНО ТЕМПО ОД 0,72%, А ЗА 2 ГОДИНИ ВЛАДА НА ВМРО-ДПМНЕ СО 0,73% | Сакам да кажам",
-      "description": "",
-      "url": "https://time.mk/c/6b25ff170e/za-7-godini-vlada-na-sdsm-prosecnata-plata-rastese-so-mesecno-tempo-od-0-72-a-za-2-godini-vlada-na-vmro-dpmne-so-0-73.html",
-      "image": "https://sdk.mk/wp-content/uploads/2025/07/ficer1.jpg",
-      "date": "Sat, 22 Aug 2026 08:04:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ТУНЕЛОТ КАТЛАНОВО И ВОДОВОДОТ КОЖЛЕ 7 ЧАСА ЌЕ БИДАТ БЕЗ СТРУЈА Најавено е исклучување и на повеќе скопски села | +инфо",
-      "description": "",
-      "url": "https://time.mk/c/11bffa09e4/tunelot-katlanovo-i-vodovodot-kozle-7-casa-ke-bidat-bez-struja-najaveno-e-isklucuvanje-i-na-poveke-skopski-sela.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2022/08/tunel.jpg",
-      "date": "Sat, 22 Aug 2026 07:52:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
       "title": "Мицкоски и Вучиќ ја почнуваат операцијата „Талог“ – следуваат меѓуетнички тензии и поделби, обвинува СДСМ | Скопје1",
       "description": "",
       "url": "https://time.mk/c/2305b860bb/mickoski-i-vucik-ja-pocnuvaat-operacijata-talog-sleduvaat-megjuetnicki-tenzii-i-podelbi-obvinuva-sdsm.html",
@@ -49,11 +139,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "За Македонија којзнае по кој пат… | Нова Македонија",
+      "title": "Ангелов: Точно е тоа што го кажа Мицкоски дека имаме пожари поради тоа што немаме крави, јас му ја дадов таа информација | Фактор",
       "description": "",
-      "url": "https://time.mk/c/039eace734/za-makedonija-kojznae-po-koj-pat.html",
-      "image": "https://novamakedonija.com.mk/wp-content/uploads/2024/11/aljosa-simjanovski-nova-150x150.jpg",
-      "date": "Sat, 22 Aug 2026 08:22:34 +0000"
+      "url": "https://time.mk/r/NONE/a604b84d02/angelov-tocno-e-toa-sto-go-kaza-mickoski-deka-imame-pozari-poradi-toa-sto-nemame-kravi-jas-mu-ja-dadov-taa-informacija.html",
+      "image": "https://time.mk/r/NONE/a604b84d02/images/thumb/7c88615572.jpg",
+      "date": "Sat, 22 Aug 2026 09:16:47 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "И Здравје и работа: Одлуките за рударството треба да се темелат на науката, стручноста и институционалната контрола | Бизнис Вести",
+      "description": "",
+      "url": "https://time.mk/c/1f1a636841/i-zdravje-i-rabota-odlukite-za-rudarstvoto-treba-da-se-temelat-na-naukata-strucnosta-i-institucionalnata-kontrola.html",
+      "image": "https://biznisvesti.mk/wp-content/uploads/2026/07/IZIR-300x300.jpg",
+      "date": "Sat, 22 Aug 2026 09:14:41 +0000"
     },
     {
       "category": "mkd",
@@ -67,18 +166,9 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Филипче: Вториот пензиски столб е ставен во ризик – власта сака да посегне по парите | Рацин",
-      "description": "",
-      "url": "https://time.mk/c/db72271820/filipce-vtoriot-penziski-stolb-e-staven-vo-rizik-vlasta-saka-da-posegne-po-parite.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/08/filipche-venko-sdsm-sitel-1-722x480.jpg?x39245",
-      "date": "Sat, 22 Aug 2026 07:28:45 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
       "title": "Пронајден авионот кој исчезна над Велебит, две лица загинаа | Трн",
       "description": "",
-      "url": "https://time.mk/c/0bcfe50924/pronajden-avionot-koj-iscezna-nad-velebit-dve-lica-zaginaa.html",
+      "url": "https://time.mk/c/177af41041/pronajden-avionot-koj-iscezna-nad-velebit-dve-lica-zaginaa.html",
       "image": "https://trn.mk/wp-content/uploads/2026/08/avion-velebit.jpg",
       "date": "Sat, 22 Aug 2026 07:48:49 +0000"
     },
@@ -87,99 +177,9 @@
       "source": "Time.mk - All",
       "title": "„Безбеден град“ го полни буџетот, дали ќе ги избрка туристите? | Независен",
       "description": "",
-      "url": "https://time.mk/c/4946cb25ad/bezbeden-grad-go-polni-budzetot-dali-ke-gi-izbrka-turistite.html",
+      "url": "https://time.mk/c/8ef5b187a3/bezbeden-grad-go-polni-budzetot-dali-ke-gi-izbrka-turistite.html",
       "image": "https://nezavisen.mk/wp-content/uploads/2021/12/Mirce-Jovanovski-kolumna-1.jpg",
       "date": "Sat, 22 Aug 2026 06:54:36 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Бројот на загинати расте во Кривиj Рих, Украина го возвраќа ударот | Deutsche Welle",
-      "description": "",
-      "url": "https://time.mk/c/fb9deb617c/brojot-na-zaginati-raste-vo-krivij-rih-ukraina-go-vozvraka-udarot.html",
-      "image": "https://static.dw.com/image/78466916_302.jpg",
-      "date": "Sat, 22 Aug 2026 08:04:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Иран ги оцени новите санкции од САД како директно кршење на Повелбата на ОН | Трн",
-      "description": "",
-      "url": "https://time.mk/c/d962a50169/iran-gi-oceni-novite-sankcii-od-sad-kako-direktno-krsenje-na-povelbata-na-on.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/08/teheran.jpeg",
-      "date": "Sat, 22 Aug 2026 08:12:47 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Вирусот Западен Нил се шири низ Европа: Повеќе од 10 земји пријавуваат случаи | Проверено",
-      "description": "",
-      "url": "https://time.mk/c/42a27ff7d0/virusot-zapaden-nil-se-siri-niz-evropa-poveke-od-10-zemji-prijavuvaat-slucai.html",
-      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/avgust/image-258627.jpg?itok=HTyS3AZu",
-      "date": "Sat, 22 Aug 2026 04:24:53 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Што треба да знаат граѓаните за прскањето против комарци | Нова ТВ",
-      "description": "",
-      "url": "https://time.mk/c/e39eb38886/sto-treba-da-znaat-gragjanite-za-prskanjeto-protiv-komarci.html",
-      "image": "https://novatv.b-cdn.net/wp-content/uploads/2026/08/mosquito-spraying-prskanje-protiv-komarci-768x562.jpg",
-      "date": "Sat, 22 Aug 2026 08:26:32 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "262 сообраќајни прекршоци синоќа во Скопје: Санкционирани 102 мотоциклисти, шестмина уапсени | Скопје инфо",
-      "description": "",
-      "url": "https://time.mk/c/96d9ccc728/262-soobrakajni-prekrsoci-sinoka-vo-skopje-sankcionirani-102-motociklisti-sestmina-uapseni.html",
-      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/avgust/image-258620.jpg?itok=EaLFnQPn",
-      "date": "Sat, 22 Aug 2026 07:36:55 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Девет пожари и натаму активни низ Македонија | Бизнис Вести",
-      "description": "",
-      "url": "https://time.mk/c/e5f524f9e1/devet-pozari-i-natamu-aktivni-niz-makedonija.html",
-      "image": "https://biznisvesti.mk/wp-content/uploads/2026/06/pozar-1-300x266.jpg",
-      "date": "Sat, 22 Aug 2026 06:12:50 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "25 години Единица за брзо распоредување | Проверено",
-      "description": "",
-      "url": "https://time.mk/c/012794418c/25-godini-edinica-za-brzo-rasporeduvanje.html",
-      "image": "https://libertas.mk/wp-content/uploads/2026/08/20260822081614_big_730x400_59.webp",
-      "date": "Sat, 22 Aug 2026 04:48:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Заврши асфалтирањето на патот кој води кон црквата „Свети Наум“ во село Орман | Охрид1",
-      "description": "",
-      "url": "https://time.mk/c/7eabba8c85/zavrsi-asfaltiranjeto-na-patot-koj-vodi-kon-crkvata-sveti-naum-vo-selo-orman.html",
-      "image": "https://ohrid1.com/wp-content/uploads/2026/08/Messenger_creation_677068C6-BA0C-41B9-B7C1-41509A5BAD06-750x460.jpeg",
-      "date": "Fri, 21 Aug 2026 15:46:34 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Македонските филмови со пет награди на Сараевскиот филмски фестивал | Скопје инфо",
-      "description": "",
-      "url": "https://time.mk/c/d97584b39a/makedonskite-filmovi-so-pet-nagradi-na-saraevskiot-filmski-festival.html",
-      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/avgust/image-258609.jpeg?itok=h0_bKQfx",
-      "date": "Sat, 22 Aug 2026 06:20:57 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Отворена 38. Поетска ноќ во Велестово | Независен",
-      "description": "",
-      "url": "https://time.mk/c/270d7b7995/otvorena-38-poetska-nok-vo-velestovo.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/08/poetska-nok-velestovo.jpg",
-      "date": "Sat, 22 Aug 2026 06:56:53 +0000"
     }
   ],
   "de": [
@@ -272,6 +272,96 @@
       "url": "https://www.centron.de/edge-computing-die-zukunft-der-datenverarbeitung/",
       "image": "https://www.centron.de/wp-content/uploads/2025/10/Blogbeitraege-4.jpg.webp",
       "date": "Wed, 05 Feb 2025 06:54:47 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Resonance: A Plague Tale Legacy geleakt – noch nicht erschienen, schon raubkopiert",
+      "description": "Resonance: A Plague Tale Legacy ist eine Woche vor Release geleakt. Die PC-Version kursiert bereits in der Piraterie-Szene – Spoilergefahr. Der Artikel Resonance: A Plague Tale Legacy geleakt – noch nicht erschienen, schon raubkopiert erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/gaming/resonance-a-plague-tale-legacy-geleakt-332866.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/resonance-a-plague-tale-legacy-geleakt",
+      "date": "Fri, 21 Aug 2026 12:39:18 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "CyberLeek: Besitzt der Leaker eine spielbare Version von GTA 6?",
+      "description": "Im Telegram-Kanal CyberLeek zeigt man mehrere Videos einer recht fertig aussehenden Version von GTA 6. Bei X hat man den Account gesperrt. Der Artikel CyberLeek: Besitzt der Leaker eine spielbare Version von GTA 6? erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/gaming/cyberleek-besitzt-der-leaker-eine-spielbare-version-von-gta-6-332833.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/cyberleek-besitzt-der-leaker-eine-spielbare-version-von-gta-6",
+      "date": "Thu, 20 Aug 2026 19:43:27 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Beitragsservice ohne Service: Haushaltspauschale künftig ohne Erinnerung",
+      "description": "Einzugsermächtigung erteilt? Die Erinnerungen der Rundfunkgebühren fallen weg. Der Beitragsservice verschickt gerade 4,5 Millionen Briefe. Der Artikel Beitragsservice ohne Service: Haushaltspauschale künftig ohne Erinnerung erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/beitragsservice-ohne-service-haushaltspauschale-kuenftig-ohne-erinnerung-332831.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/beitragsservice-ohne-service-haushaltspauschale-kuenftig-ohne-erinnerung",
+      "date": "Thu, 20 Aug 2026 17:18:44 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "RTX 5080 gestohlen: Dreister GPU-Tausch fliegt erst nach Blackout auf",
+      "description": "In chinesischen Gaming-Hotels tauschten Diebe High-End-GPUs gegen RTX 3060. Erst ein Stromausfall brachte den Betrug ans Licht Der Artikel RTX 5080 gestohlen: Dreister GPU-Tausch fliegt erst nach Blackout auf erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/gaming/rtx-5080-gestohlen-dreister-gpu-tausch-fliegt-erst-nach-blackout-auf-332816.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/rtx-5080-gestohlen-dreister-gpu-tausch-fliegt-erst-nach-blackout-auf",
+      "date": "Thu, 20 Aug 2026 12:39:43 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Amazon führt neues DRM ein, schließt Libby-Schlupfloch",
+      "description": "Amazon hat ein neues, stärker abgesichertes DRM auf einigen Geräten ihres Kindle Oasis ausgerollt und das Libby-Schlupfloch geschlossen. Der Artikel Amazon führt neues DRM ein, schließt Libby-Schlupfloch erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/e-books/amazon-fuehrt-neues-drm-ein-schliesst-libby-schlupfloch-332806.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/amazon-fuehrt-neues-drm-ein-schliesst-libby-schlupfloch",
+      "date": "Thu, 20 Aug 2026 09:30:19 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "CUII: LG Köln ließ KinoGo und Streamed sperren",
+      "description": "Die großen Internet-Anbieter müssen nun den Zugang zu den Domains der beiden Streaming-Websites KinoGo und Streamed sperren. Der Artikel CUII: LG Köln ließ KinoGo und Streamed sperren erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/rechtssachen/cuii-lg-koeln-liess-kinogo-und-streamed-sperren-332792.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/cuii-lg-koeln-liess-kinogo-und-streamed-sperren",
+      "date": "Wed, 19 Aug 2026 14:24:47 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Microsoft Copilot gehackt: KI verrät Forschern ihren eigenen Angriffsweg",
+      "description": "Microsoft Copilot gehackt: Forscher bringen KI dazu, ihren eigenen Angriffsweg zu verraten. CoSnitch konnte Daten per One-Click abgreifen. Der Artikel Microsoft Copilot gehackt: KI verrät Forschern ihren eigenen Angriffsweg erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/it-sicherheit/microsoft-copilot-gehackt-332791.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/microsoft-copilot-gehackt",
+      "date": "Wed, 19 Aug 2026 14:03:34 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "c-network.to: Domain vom neuen Crimenetwork beschlagnahmt",
+      "description": "Gestern beschlagnahmte das BKA die Domain der dritten Version des Fraud-Forums Crimenetwork. Offenbar sind auch die Server betroffen. Der Artikel c-network.to: Domain vom neuen Crimenetwork beschlagnahmt erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/szene/dark-commerce/c-network-to-domain-vom-neuen-crimenetwork-beschlagnahmt-332788.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/c-network-to-domain-vom-neuen-crimenetwork-beschlagnahmt",
+      "date": "Wed, 19 Aug 2026 08:36:11 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "IPTV-Reseller: „Ich verticke Abos fast wie ein Drogenhändler“",
+      "description": "IPTV-Reseller packt aus: 1.000 Kunden und angeblich 100.000 Euro Jahresverdienst mit illegalen Pay-TV-Abos. Der Artikel IPTV-Reseller: „Ich verticke Abos fast wie ein Drogenhändler“ erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/iptv/iptv-reseller-illegales-streaming-332763.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/iptv-reseller-illegales-streaming",
+      "date": "Tue, 18 Aug 2026 12:37:41 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Cover Downloads im August 2026",
+      "description": "Cover downloaden kostenlos. Cover für PC-Games, Konsolenspiele, Musik, Filme etc. Wer ist schon weg, welche Portale sind noch aktiv? Der Artikel Cover Downloads im August 2026 erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/listen/cover-downloads-im-august-2026-332747.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/cover-downloads-im-august-2026",
+      "date": "Tue, 18 Aug 2026 06:00:00 +0000"
     }
   ],
   "eng": [
@@ -627,6 +717,15 @@
       "url": "https://starwars-union.de/erste-eindruecke-zu-zero-company/",
       "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/08/Zero-Company.jpg",
       "date": "Wed, 12 Aug 2026 07:41:23 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Star Wars: Visions Presents – The Ninth Jedi | Scene Breakdown | Now Streaming on Disney+ & Hulu",
+      "description": "I will bring order to the chaos that surrounds us. Kenji Kamiyama discusses Nawaam's character in Star Wars: Visions Presents - The Ninth Jedi; available now on Disney+ & Hulu. The post Star Wars: Visions Presents – The Ninth Jedi | Scene Breakdown | Now Streaming on Disney+ & Hulu appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/star-wars-visions-presents-the-ninth-jedi-scene-breakdown-now-streaming-on-disney-hulu/?utm_source=rss&utm_medium=rss&utm_campaign=star-wars-visions-presents-the-ninth-jedi-scene-breakdown-now-streaming-on-disney-hulu",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/08/maxresdefault-38-300x169.jpg",
+      "date": "Fri, 21 Aug 2026 18:23:21 +0000"
     }
   ],
   "youtube": [
