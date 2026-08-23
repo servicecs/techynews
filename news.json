@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T11:23:10.503028+00:00",
+  "updated": "2026-08-23T11:47:13.250169+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -96,7 +96,7 @@
       "source": "Time.mk - All",
       "title": "(ВИДЕО) Лефков: Филипче во време на здравствена криза не мислел на пациентите, туку како да го наполни џебот | Фокус",
       "description": "",
-      "url": "https://time.mk/c/6ab593e627/video-lefkov-filipce-vo-vreme-na-zdravstvena-kriza-ne-mislel-na-pacientite-tuku-kako-da-go-napolni-dzebot.html",
+      "url": "https://time.mk/c/0a130cddc8/video-lefkov-filipce-vo-vreme-na-zdravstvena-kriza-ne-mislel-na-pacientite-tuku-kako-da-go-napolni-dzebot.html",
       "image": "https://fokus.mk/wp-content/uploads/2026/08/Lefkov-23.08-1170x658.jpg",
       "date": "Sun, 23 Aug 2026 10:46:36 +0000"
     },
@@ -148,15 +148,6 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Една плата, три деца и алиментација ако стигне: Како преживуваат самохраните родители? | Трн",
-      "description": "",
-      "url": "https://time.mk/c/a3b485c8df/edna-plata-tri-deca-i-alimentacija-ako-stigne-kako-prezivuvaat-samohranite-roditeli.html",
-      "image": "https://trn.mk/wp-content/uploads/2025/02/pari-povrat-na-ddv-moÑddv.jpg",
-      "date": "Sun, 23 Aug 2026 10:04:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
       "title": "(Видео) Петкоска: Македонските аеродроми најбрзорастечки во регионот, за седум месеци 2,4 милиони патници на аеродромите во Скопје и Охрид | Макфакс",
       "description": "",
       "url": "https://time.mk/c/81e30362c0/video-petkoska-makedonskite-aerodromi-najbrzorastecki-vo-regionot-za-sedum-meseci-2-4-milioni-patnici-na-aerodromite-vo-skopje-i-ohrid.html",
@@ -166,11 +157,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Вучиќ: Србија е „европска велесила“ за гаснење пожари | Скопје1",
+      "title": "Една плата, три деца и алиментација ако стигне: Како преживуваат самохраните родители? | Трн",
       "description": "",
-      "url": "https://time.mk/c/9d4c790890/vucik-srbija-e-evropska-velesila-za-gasnenje-pozari.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/71773/conversions/text-max.jpg",
-      "date": "Sun, 23 Aug 2026 09:34:40 +0000"
+      "url": "https://time.mk/c/a3b485c8df/edna-plata-tri-deca-i-alimentacija-ako-stigne-kako-prezivuvaat-samohranite-roditeli.html",
+      "image": "https://trn.mk/wp-content/uploads/2025/02/pari-povrat-na-ddv-moÑddv.jpg",
+      "date": "Sun, 23 Aug 2026 10:04:49 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Вучиќ се самопофали и ја нарече Србија „европска велесила“ во гаснење пожари, иако побара помош од ЕУ и Русија | Рацин",
+      "description": "",
+      "url": "https://time.mk/c/f2af8f2683/vucik-se-samopofali-i-ja-narece-srbija-evropska-velesila-vo-gasnenje-pozari-iako-pobara-pomos-od-eu-i-rusija.html",
+      "image": "https://racin.mk/wp-content/uploads/2026/08/vuchik-2-848x477.jpg?x47969",
+      "date": "Sun, 23 Aug 2026 11:28:54 +0000"
     },
     {
       "category": "mkd",
@@ -272,6 +272,96 @@
       "url": "https://www.centron.de/edge-computing-die-zukunft-der-datenverarbeitung/",
       "image": "https://www.centron.de/wp-content/uploads/2025/10/Blogbeitraege-4.jpg.webp",
       "date": "Wed, 05 Feb 2025 06:54:47 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Illegale IPTV-Streams: 200.000 Pfund kassiert – Millionen-Schaden für Sky?",
+      "description": "Illegales IPTV brachte einem Reseller über 200.000 Pfund ein. Sky beziffert die entgangenen Einnahmen auf 3,66 Millionen Pfund. Der Artikel Illegale IPTV-Streams: 200.000 Pfund kassiert – Millionen-Schaden für Sky? erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/iptv/illegale-iptv-streams-200000-pfund-sky-332913.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/illegale-iptv-streams-200000-pfund-sky",
+      "date": "Sat, 22 Aug 2026 12:46:36 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Malware versteckt sich häufig in E-Book-Warez",
+      "description": "Die US-Verlage stöhnen über große Verluste, dabei versteckt sich Malware auch in den E-Book-Warez. Doch wie funktioniert das Ganze? Der Artikel Malware versteckt sich häufig in E-Book-Warez erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/e-books/malware-versteckt-sich-haeufig-in-e-book-warez-332912.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/malware-versteckt-sich-haeufig-in-e-book-warez",
+      "date": "Sat, 22 Aug 2026 10:05:06 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Resonance: A Plague Tale Legacy geleakt – noch nicht erschienen, schon raubkopiert",
+      "description": "Resonance: A Plague Tale Legacy ist eine Woche vor Release geleakt. Die PC-Version kursiert bereits in der Piraterie-Szene – Spoilergefahr. Der Artikel Resonance: A Plague Tale Legacy geleakt – noch nicht erschienen, schon raubkopiert erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/gaming/resonance-a-plague-tale-legacy-geleakt-332866.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/resonance-a-plague-tale-legacy-geleakt",
+      "date": "Fri, 21 Aug 2026 12:39:18 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "CyberLeek: Besitzt der Leaker eine spielbare Version von GTA 6?",
+      "description": "Im Telegram-Kanal CyberLeek zeigt man mehrere Videos einer recht fertig aussehenden Version von GTA 6. Bei X hat man den Account gesperrt. Der Artikel CyberLeek: Besitzt der Leaker eine spielbare Version von GTA 6? erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/gaming/cyberleek-besitzt-der-leaker-eine-spielbare-version-von-gta-6-332833.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/cyberleek-besitzt-der-leaker-eine-spielbare-version-von-gta-6",
+      "date": "Thu, 20 Aug 2026 19:43:27 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Beitragsservice ohne Service: Haushaltspauschale künftig ohne Erinnerung",
+      "description": "Einzugsermächtigung erteilt? Die Erinnerungen der Rundfunkgebühren fallen weg. Der Beitragsservice verschickt gerade 4,5 Millionen Briefe. Der Artikel Beitragsservice ohne Service: Haushaltspauschale künftig ohne Erinnerung erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/beitragsservice-ohne-service-haushaltspauschale-kuenftig-ohne-erinnerung-332831.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/beitragsservice-ohne-service-haushaltspauschale-kuenftig-ohne-erinnerung",
+      "date": "Thu, 20 Aug 2026 17:18:44 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "RTX 5080 gestohlen: Dreister GPU-Tausch fliegt erst nach Blackout auf",
+      "description": "In chinesischen Gaming-Hotels tauschten Diebe High-End-GPUs gegen RTX 3060. Erst ein Stromausfall brachte den Betrug ans Licht Der Artikel RTX 5080 gestohlen: Dreister GPU-Tausch fliegt erst nach Blackout auf erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/gaming/rtx-5080-gestohlen-dreister-gpu-tausch-fliegt-erst-nach-blackout-auf-332816.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/rtx-5080-gestohlen-dreister-gpu-tausch-fliegt-erst-nach-blackout-auf",
+      "date": "Thu, 20 Aug 2026 12:39:43 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Amazon führt neues DRM ein, schließt Libby-Schlupfloch",
+      "description": "Amazon hat ein neues, stärker abgesichertes DRM auf einigen Geräten ihres Kindle Oasis ausgerollt und das Libby-Schlupfloch geschlossen. Der Artikel Amazon führt neues DRM ein, schließt Libby-Schlupfloch erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/e-books/amazon-fuehrt-neues-drm-ein-schliesst-libby-schlupfloch-332806.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/amazon-fuehrt-neues-drm-ein-schliesst-libby-schlupfloch",
+      "date": "Thu, 20 Aug 2026 09:30:19 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "CUII: LG Köln ließ KinoGo und Streamed sperren",
+      "description": "Die großen Internet-Anbieter müssen nun den Zugang zu den Domains der beiden Streaming-Websites KinoGo und Streamed sperren. Der Artikel CUII: LG Köln ließ KinoGo und Streamed sperren erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/rechtssachen/cuii-lg-koeln-liess-kinogo-und-streamed-sperren-332792.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/cuii-lg-koeln-liess-kinogo-und-streamed-sperren",
+      "date": "Wed, 19 Aug 2026 14:24:47 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Microsoft Copilot gehackt: KI verrät Forschern ihren eigenen Angriffsweg",
+      "description": "Microsoft Copilot gehackt: Forscher bringen KI dazu, ihren eigenen Angriffsweg zu verraten. CoSnitch konnte Daten per One-Click abgreifen. Der Artikel Microsoft Copilot gehackt: KI verrät Forschern ihren eigenen Angriffsweg erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/it-sicherheit/microsoft-copilot-gehackt-332791.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/microsoft-copilot-gehackt",
+      "date": "Wed, 19 Aug 2026 14:03:34 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "c-network.to: Domain vom neuen Crimenetwork beschlagnahmt",
+      "description": "Gestern beschlagnahmte das BKA die Domain der dritten Version des Fraud-Forums Crimenetwork. Offenbar sind auch die Server betroffen. Der Artikel c-network.to: Domain vom neuen Crimenetwork beschlagnahmt erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/szene/dark-commerce/c-network-to-domain-vom-neuen-crimenetwork-beschlagnahmt-332788.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/c-network-to-domain-vom-neuen-crimenetwork-beschlagnahmt",
+      "date": "Wed, 19 Aug 2026 08:36:11 +0000"
     }
   ],
   "eng": [
