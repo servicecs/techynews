@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T15:25:06.806074+00:00",
+  "updated": "2026-08-23T15:48:40.523932+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -114,9 +114,18 @@
       "source": "Time.mk - All",
       "title": "(Видео) Ангелов: Нов силен шумски пожар кај Пехчево, ер-тракторите пренасочени кон границата со Бугарија | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/30bf7db5c8/video-angelov-nov-silen-sumski-pozar-kaj-pehcevo-er-traktorite-prenasoceni-kon-granicata-so-bugarija.html",
+      "url": "https://time.mk/c/ed5e5b2043/video-angelov-nov-silen-sumski-pozar-kaj-pehcevo-er-traktorite-prenasoceni-kon-granicata-so-bugarija.html",
       "image": "https://makfax.com.mk/wp-content/uploads/2026/08/screenshot-2026-08-23-165856.webp",
       "date": "Sun, 23 Aug 2026 15:00:52 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Високи плати, патни трошоци, кирии и приватна мамографија за пратениците, за граѓаните нема термин | Рацин",
+      "description": "",
+      "url": "https://time.mk/c/2ed0326003/visoki-plati-patni-trosoci-kirii-i-privatna-mamografija-za-pratenicite-za-gragjanite-nema-termin.html",
+      "image": "https://racin.mk/wp-content/uploads/2026/08/sobranie-makedonija-719x480.jpg?x47969",
+      "date": "Sun, 23 Aug 2026 15:28:45 +0000"
     },
     {
       "category": "mkd",
@@ -126,15 +135,6 @@
       "url": "https://time.mk/c/dd8e56f7db/apelacija-ima-uste-cetiri-dena-da-odluci-za-talir-i-nikola-gruevski.html",
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
       "date": "Sun, 23 Aug 2026 15:14:36 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Пратениците и вработени на државно добиваат можност за приватно здравство на товар на институциите, граѓаните нека чекаат термини, вели Мицковски | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/1c4e420a09/pratenicite-i-vraboteni-na-drzavno-dobivaat-moznost-za-privatno-zdravstvo-na-tovar-na-instituciite-gragjanite-neka-cekaat-termini-veli-mickovski.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/42369/conversions/sobranie-nov-sostav-sdsm-max.jpg",
-      "date": "Sun, 23 Aug 2026 12:36:46 +0000"
     },
     {
       "category": "mkd",
@@ -168,7 +168,7 @@
       "source": "Time.mk - All",
       "title": "(Видео) Во Шпанија запленети 1,5 тони кокаин: Хрват бил „нотар“ во шверцерска операција | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/e916402219/video-vo-spanija-zapleneti-1-5-toni-kokain-hrvat-bil-notar-vo-svercerska-operacija.html",
+      "url": "https://time.mk/c/70374ef1da/video-vo-spanija-zapleneti-1-5-toni-kokain-hrvat-bil-notar-vo-svercerska-operacija.html",
       "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84247/conversions/text-max.jpg",
       "date": "Sun, 23 Aug 2026 13:28:54 +0000"
     },
