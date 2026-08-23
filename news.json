@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T09:54:42.233215+00:00",
+  "updated": "2026-08-23T10:26:48.386568+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -94,38 +94,47 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВМРО-ДПМНЕ: Абази пред заминување го спаси Филипче од одговорност, СДСМ: Пет години лаги за модуларната, монструозна кампања против Филипче | ТВ21",
+      "title": "Партиите за одлуката за модуларните болници – власта обвини дека се штити Филипче, опозицијата одговори дека сите лаги потонале | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/bef7e84496/vmro-dpmne-abazi-pred-zaminuvanje-go-spasi-filipce-od-odgovornost-sdsm-pet-godini-lagi-za-modularnata-monstruozna-kampanja-protiv-filipce.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2022/02/sdsm-vmro-1024x574.jpg",
-      "date": "Sun, 23 Aug 2026 09:42:35 +0000"
+      "url": "https://time.mk/c/eb1fa92c51/partiite-za-odlukata-za-modularnite-bolnici-vlasta-obvini-deka-se-stiti-filipce-opozicijata-odgovori-deka-site-lagi-potonale.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2023/11/VMRO-SDSM.jpg",
+      "date": "Sun, 23 Aug 2026 09:56:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Три „ертрактори“ се борат со огнот кај Палиград: Пожарите беснеат на осум локации, Бонче спасено од огнената стихија | Трн",
+      "title": "(Видео) „За 20 години на пожари вакво нешто немаме видено“, херојска интервенција кај Бонче, пожарникари со гас маски го бранеле селото | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/463e0ef7e8/tri-ertraktori-se-borat-so-ognot-kaj-paligrad-pozarite-besneat-na-osum-lokacii-bonce-spaseno-od-ognenata-stihija.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/06/719598975_1428701889290522_1495171209310879533_n.jpg",
-      "date": "Sun, 23 Aug 2026 09:20:48 +0000"
+      "url": "https://time.mk/c/414746e3df/video-za-20-godini-na-pozari-vakvo-nesto-nemame-videno-herojska-intervencija-kaj-bonce-pozarnikari-so-gas-maski-go-branele-seloto.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84244/conversions/text-max.jpg",
+      "date": "Sun, 23 Aug 2026 10:18:33 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Се враќате од одмор? Проверете ги гужвите на граничните премини | Трн",
+      "description": "",
+      "url": "https://time.mk/c/3bc5133141/se-vrakate-od-odmor-proverete-gi-guzvite-na-granicnite-premini.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/06/granicza-guzhva.jpg",
+      "date": "Sun, 23 Aug 2026 10:12:50 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Една плата, три деца и алиментација ако стигне: Како преживуваат самохраните родители? | Трн",
+      "description": "",
+      "url": "https://time.mk/c/a3b485c8df/edna-plata-tri-deca-i-alimentacija-ako-stigne-kako-prezivuvaat-samohranite-roditeli.html",
+      "image": "https://trn.mk/wp-content/uploads/2025/02/pari-povrat-na-ddv-moÑddv.jpg",
+      "date": "Sun, 23 Aug 2026 10:04:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
       "title": "ВРЕДИ: Али Ахмети молчи, Ислам Абази ја затвори истрагата: Кој ќе одговара за 14 жртви во модуларната болница? | Фокус",
       "description": "",
-      "url": "https://time.mk/c/a8fa7da3b2/vredi-ali-ahmeti-molci-islam-abazi-ja-zatvori-istragata-koj-ke-odgovara-za-14-zrtvi-vo-modularnata-bolnica.html",
+      "url": "https://time.mk/c/d70a0bc324/vredi-ali-ahmeti-molci-islam-abazi-ja-zatvori-istragata-koj-ke-odgovara-za-14-zrtvi-vo-modularnata-bolnica.html",
       "image": "https://fokus.mk/wp-content/uploads/2026/08/vredi.jpg",
       "date": "Sun, 23 Aug 2026 09:13:00 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Голем пожар од Србија се приближува кон Македонија, густ чад над Липково и Куманово | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/df5ddf289f/golem-pozar-od-srbija-se-priblizuva-kon-makedonija-gust-cad-nad-lipkovo-i-kumanovo.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/83999/conversions/text-max.jpg",
-      "date": "Sun, 23 Aug 2026 09:28:49 +0000"
     },
     {
       "category": "mkd",
@@ -139,29 +148,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Се враќате од одмор? Проверете ги Богородица и Табановце пред да тргнете | Рацин",
-      "description": "",
-      "url": "https://time.mk/c/e473f01416/se-vrakate-od-odmor-proverete-gi-bogorodica-i-tabanovce-pred-da-trgnete.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/08/guzva-granica-826x480.jpg?x47969",
-      "date": "Sun, 23 Aug 2026 09:40:47 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "На едно четиричлено семејство му требаат 68.675 денари месечно. Мојата плата е далеку под таа бројка | Трн",
-      "description": "",
-      "url": "https://time.mk/c/108f4a7db1/na-edno-cetiricleno-semejstvo-mu-trebaat-68-675-denari-mesecno-mojata-plata-e-daleku-pod-taa-brojka.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/03/screenshot-2026-03-06-172744.jpg",
-      "date": "Sun, 23 Aug 2026 09:40:47 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
       "title": "ПАТУВАЊАТА ЌЕ БИДАТ ПОЛЕСНИ: 28 НОВИ ДИРЕКТНИ ЛЕТОВИ од Македонија – еве каде ќе можете да летате! | ПРВ.мк",
       "description": "",
       "url": "https://time.mk/c/1385a03c1c/patuvanjata-ke-bidat-polesni-28-novi-direktni-letovi-od-makedonija-eve-kade-ke-mozete-da-letate.html",
       "image": "https://cmsnebula.eu-central-1.linodeobjects.com/cdf7130d-94d0-4983-ba14-4bb301cd463a/$b0157415-0a67-4ab2-bcda-fa29a6a4b042/20250411113429-ogimage-44.jpg",
       "date": "Sun, 23 Aug 2026 08:50:35 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "СДСМ: Владата има пари за авион – нема за плати | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/cab51c1d0f/sdsm-vladata-ima-pari-za-avion-nema-za-plati.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2024/03/sdsm4.jpg",
+      "date": "Sun, 23 Aug 2026 07:34:36 +0000"
     },
     {
       "category": "mkd",
@@ -175,11 +175,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ОБИД ЗА ТЕШКО УБИСТВО: Се бара возачот кој се влета со автомобил на манифестација кај Билеќа | Вечер Прес",
+      "title": "Цените на храната во ЕУ ќе скокнат до 11,8 отсто – еве што прво ќе поскапи | Трн",
       "description": "",
-      "url": "https://time.mk/c/c8231bf47e/obid-za-tesko-ubistvo-se-bara-vozacot-koj-se-vleta-so-avtomobil-na-manifestacija-kaj-bileka.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/08/bilekja-screen.jpg",
-      "date": "Sun, 23 Aug 2026 08:14:33 +0000"
+      "url": "https://time.mk/c/9a30716fcf/cenite-na-hranata-vo-eu-ke-skoknat-do-11-8-otsto-eve-sto-prvo-ke-poskapi.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/04/pexels-polina-tankilevitch-4443442.jpg",
+      "date": "Sun, 23 Aug 2026 10:24:48 +0000"
     }
   ],
   "de": [
