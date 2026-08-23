@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T17:47:31.349516+00:00",
+  "updated": "2026-08-23T18:32:48.513497+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -94,11 +94,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Фото+видео) 300 луѓе на терен го гаснат големиот пожар кај Бигла | Макфакс",
+      "title": "Пожарот кај делчевски Голак ставен под целосна контрола | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/cc6a94d76c/foto-video-300-lugje-na-teren-go-gasnat-golemiot-pozar-kaj-bigla.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/08/viber_image_2026-08-23_18-32-34-658.webp",
-      "date": "Sun, 23 Aug 2026 16:40:49 +0000"
+      "url": "https://time.mk/c/316a5b4a19/pozarot-kaj-delcevski-golak-staven-pod-celosna-kontrola.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2026/08/pozhar-golak.png",
+      "date": "Sun, 23 Aug 2026 18:24:48 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Пламени јазици високи до пет метри, за малку ќе го „проголтале“ прилепското село Бонче | еМагазин",
+      "description": "",
+      "url": "https://time.mk/c/4dc71987eb/plameni-jazici-visoki-do-pet-metri-za-malku-ke-go-progoltale-prilepskoto-selo-bonce.html",
+      "image": "https://emagazin.mk/wp-content/uploads/2025/09/pozarnikari-300x200.jpg",
+      "date": "Sun, 23 Aug 2026 16:46:34 +0000"
     },
     {
       "category": "mkd",
@@ -108,15 +117,6 @@
       "url": "https://time.mk/c/14db026b70/vmro-dpmne-nasproti-sdsm-obvinuvanja-za-modularnite-bolnici.html",
       "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1787494615/kw0wobfzydbpzw1fxy64.jpg",
       "date": "Sun, 23 Aug 2026 14:32:57 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Сипаниците кај овците предизвикуваат катастрофа во сточарството – Угинаа над 10 илјади овци, сточарите бараат итна вакцинација | ТВ21",
-      "description": "",
-      "url": "https://time.mk/c/8a41128994/sipanicite-kaj-ovcite-predizvikuvaat-katastrofa-vo-stocarstvoto-uginaa-nad-10-iljadi-ovci-stocarite-baraat-itna-vakcinacija.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2024/02/ovci-1024x574.jpg",
-      "date": "Sun, 23 Aug 2026 17:22:43 +0000"
     },
     {
       "category": "mkd",
@@ -148,20 +148,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
+      "title": "Сипаниците кај овците предизвикуваат катастрофа во сточарството – Угинаа над 10 илјади овци, сточарите бараат итна вакцинација | ТВ21",
+      "description": "",
+      "url": "https://time.mk/c/8a41128994/sipanicite-kaj-ovcite-predizvikuvaat-katastrofa-vo-stocarstvoto-uginaa-nad-10-iljadi-ovci-stocarite-baraat-itna-vakcinacija.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2024/02/ovci-1024x574.jpg",
+      "date": "Sun, 23 Aug 2026 17:22:43 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
       "title": "Септемвриската пензија ќе биде повисока – кој ќе добие 600, а кој до 1.500 денари повеќе? | Вечер Прес",
       "description": "",
       "url": "https://time.mk/c/6da3c1c13a/septemvriskata-penzija-ke-bide-povisoka-koj-ke-dobie-600-a-koj-do-1-500-denari-poveke.html",
       "image": "https://www.vecer.press/wp-content/uploads/2026/08/penzioneri-32103-2-3-scaled.jpg",
       "date": "Sun, 23 Aug 2026 14:12:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Секоја четврта германска компанија стравува дека ја губи конкурентноста надвор од ЕУ | Трн",
-      "description": "",
-      "url": "https://time.mk/c/af6939a652/sekoja-cetvrta-germanska-kompanija-stravuva-deka-ja-gubi-konkurentnosta-nadvor-od-eu.html",
-      "image": "https://trn.mk/wp-content/uploads/2025/12/germanija.jpg",
-      "date": "Sun, 23 Aug 2026 16:32:48 +0000"
     },
     {
       "category": "mkd",
