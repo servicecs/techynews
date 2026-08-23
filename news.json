@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T21:23:41.470650+00:00",
+  "updated": "2026-08-23T21:47:06.914988+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -111,6 +111,15 @@
     },
     {
       "category": "mkd",
+      "source": "Time.mk - Sport",
+      "title": "Шампионот отвори шампионски: Барселона испука „петарда“ на стартот на сезоната во Ла Лига (Видео) | Дерби",
+      "description": "",
+      "url": "https://time.mk/c/8fbf49336f/sampionot-otvori-sampionski-barselona-ispuka-petarda-na-startot-na-sezonata-vo-la-liga-video.html",
+      "image": "https://derbi.mk/wp-content/uploads/2026/08/fermin-slavi.jpg",
+      "date": "Sun, 23 Aug 2026 21:30:37 +0000"
+    },
+    {
+      "category": "mkd",
       "source": "Time.mk - All",
       "title": "Пламени јазици високи до пет метри, за малку ќе го „проголтале“ прилепското село Бонче | еМагазин",
       "description": "",
@@ -120,12 +129,12 @@
     },
     {
       "category": "mkd",
-      "source": "Time.mk - Sport",
-      "title": "Елмас доби минутажа во триумфот на Аталанта, Милан победи и покрај чудесниот гол на Адамс (Видео) | Дерби",
+      "source": "Time.mk - All",
+      "title": "Кој најмногу посакува предвремени избори? Арсовски: Потребен е разумен мотив, во спротивно ќе се смета за политички маневар | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/dac79fc068/elmas-dobi-minutaza-vo-triumfot-na-atalanta-milan-pobedi-i-pokraj-cudesniot-gol-na-adams-video.html",
-      "image": "https://derbi.mk/wp-content/uploads/2026/08/adams.jpg",
-      "date": "Sun, 23 Aug 2026 20:52:50 +0000"
+      "url": "https://time.mk/c/6e8522f3f3/koj-najmnogu-posakuva-predvremeni-izbori-arsovski-potreben-e-razumen-motiv-vo-sprotivno-ke-se-smeta-za-politicki-manevar.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2026/08/petar-arsovski-1024x615.png",
+      "date": "Sun, 23 Aug 2026 17:22:43 +0000"
     },
     {
       "category": "mkd",
@@ -135,15 +144,6 @@
       "url": "https://time.mk/c/14db026b70/vmro-dpmne-nasproti-sdsm-obvinuvanja-za-modularnite-bolnici.html",
       "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1787494615/kw0wobfzydbpzw1fxy64.jpg",
       "date": "Sun, 23 Aug 2026 14:32:57 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Кој најмногу посакува предвремени избори? Арсовски: Потребен е разумен мотив, во спротивно ќе се смета за политички маневар | ТВ21",
-      "description": "",
-      "url": "https://time.mk/c/6e8522f3f3/koj-najmnogu-posakuva-predvremeni-izbori-arsovski-potreben-e-razumen-motiv-vo-sprotivno-ke-se-smeta-za-politicki-manevar.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2026/08/petar-arsovski-1024x615.png",
-      "date": "Sun, 23 Aug 2026 17:22:43 +0000"
     },
     {
       "category": "mkd",
@@ -175,11 +175,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Бунт во камп за мигранти во Грција, потрагата по избеганите продолжува | Вечер Прес",
+      "title": "НЕМИРИ ВО СЕВЕРНА ГРЦИЈА: Мигранти ја урнаа оградата и ја нападнаа полицијата - 17 уапсени | Вечер",
       "description": "",
-      "url": "https://time.mk/c/ddba063f79/bunt-vo-kamp-za-migranti-vo-grcija-potragata-po-izbeganite-prodolzuva.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/08/migranti-pexels-depthofraw-13667119.jpg",
-      "date": "Sun, 23 Aug 2026 13:56:52 +0000"
+      "url": "https://time.mk/c/ddba063f79/nemiri-vo-severna-grcija-migranti-ja-urnaa-ogradata-i-ja-napadnaa-policijata-17-uapseni.html",
+      "image": "https://cmsnebula.eu-central-1.linodeobjects.com/b79723b0-fe00-4f46-ae15-f16613a5853e/$246fb446-f78d-4e2e-a4a5-106f465d0f9a/210528-11844396-f.webp",
+      "date": "Sun, 23 Aug 2026 21:36:47 +0000"
     }
   ],
   "de": [
