@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T19:45:55.441073+00:00",
+  "updated": "2026-08-23T20:25:28.596977+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -96,7 +96,7 @@
       "source": "Time.mk - All",
       "title": "Пожарот кај делчевски Голак ставен под целосна контрола | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/316a5b4a19/pozarot-kaj-delcevski-golak-staven-pod-celosna-kontrola.html",
+      "url": "https://time.mk/c/b8174e4c30/pozarot-kaj-delcevski-golak-staven-pod-celosna-kontrola.html",
       "image": "https://mk.tv21.tv/wp-content/uploads/2026/08/pozhar-golak.png",
       "date": "Sun, 23 Aug 2026 18:24:48 +0000"
     },
@@ -108,6 +108,15 @@
       "url": "https://time.mk/c/083debcdb1/utre-treba-da-pocne-sudenjeto-na-artan-grubi-i-uste-sedum-obvineti-za-slucajot-drzavna-lotarija.html",
       "image": "https://360stepeni.mk/wp-content/uploads/2021/07/ARTAN-GRUBI-PRESPA-FORUM-DIALOGUE-5-1.jpeg",
       "date": "Sun, 23 Aug 2026 19:10:35 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - Sport",
+      "title": "Атлетико му „нареди“ на Хулијан Алварес да не ги поздравува навивачите?! | Спортманија",
+      "description": "",
+      "url": "https://time.mk/c/424a25879b/atletiko-mu-naredi-na-hulijan-alvares-da-ne-gi-pozdravuva-navivacite.html",
+      "image": "https://sportmanija.mk/wp-content/uploads/2026/08/alvarez-atletiko-8-696x420.jpg",
+      "date": "Sun, 23 Aug 2026 19:30:46 +0000"
     },
     {
       "category": "mkd",
@@ -130,20 +139,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Кој најмногу посакува предвремени избори? Арсовски: Потребен е разумен мотив, во спротивно ќе се смета за политички маневар | ТВ21",
+      "title": "Пожарот кај Илинден опасно се приближува до цистерни на „Макпетрол“ и бензинска пумпа | 4NEWS",
       "description": "",
-      "url": "https://time.mk/c/6e8522f3f3/koj-najmnogu-posakuva-predvremeni-izbori-arsovski-potreben-e-razumen-motiv-vo-sprotivno-ke-se-smeta-za-politicki-manevar.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2026/08/petar-arsovski-1024x615.png",
-      "date": "Sun, 23 Aug 2026 17:22:43 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Високи плати, патни трошоци, кирии и приватна мамографија за пратениците, за граѓаните нема термин | Рацин",
-      "description": "",
-      "url": "https://time.mk/c/2ed0326003/visoki-plati-patni-trosoci-kirii-i-privatna-mamografija-za-pratenicite-za-gragjanite-nema-termin.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/08/sobranie-makedonija-719x480.jpg?x47969",
-      "date": "Sun, 23 Aug 2026 15:28:45 +0000"
+      "url": "https://time.mk/c/d085da62e5/pozarot-kaj-ilinden-opasno-se-priblizuva-do-cisterni-na-makpetrol-i-benzinska-pumpa.html",
+      "image": "https://4news.mk/wp-content/uploads/2026/08/img_2890-1024x734.avif",
+      "date": "Sun, 23 Aug 2026 20:06:34 +0000"
     },
     {
       "category": "mkd",
@@ -721,11 +721,11 @@
     {
       "category": "starwars",
       "source": "Jedi News",
-      "title": "ILM Model Shop & Friends 2026 Reunion",
-      "description": "Former Industrial Light & Magic artists behind a half-century of unforgettable visual effects celebrate the bonds that last long after the cameras stop rolling at their 2026 reunion party held earlier this month. The post ILM Model Shop & Friends 2026 Reunion appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/events/articles/ilm-model-shop-friends-2026-reunion/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/08/ILM-Model-Shop-Reunion-Aug26-300x201.jpg",
-      "date": "Sat, 22 Aug 2026 15:04:17 +0000"
+      "title": "Coffee With Kenobi #860: Ahsoka Season Two Trailer",
+      "description": "Join Dan Zehr and co for episode 860 of Coffee With Kenobi. The post Coffee With Kenobi #860: Ahsoka Season Two Trailer appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/coffee-with-kenobi-860-ahsoka-season-two-trailer/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2022/04/Coffee-with-Kenobi-New-Logo-April-2022-300x201.jpg",
+      "date": "Sun, 23 Aug 2026 19:06:47 +0000"
     }
   ],
   "youtube": [
