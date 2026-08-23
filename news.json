@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T17:22:12.315922+00:00",
+  "updated": "2026-08-23T17:47:31.349516+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -96,7 +96,7 @@
       "source": "Time.mk - All",
       "title": "(Фото+видео) 300 луѓе на терен го гаснат големиот пожар кај Бигла | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/5fe8779c6a/foto-video-300-lugje-na-teren-go-gasnat-golemiot-pozar-kaj-bigla.html",
+      "url": "https://time.mk/c/cc6a94d76c/foto-video-300-lugje-na-teren-go-gasnat-golemiot-pozar-kaj-bigla.html",
       "image": "https://makfax.com.mk/wp-content/uploads/2026/08/viber_image_2026-08-23_18-32-34-658.webp",
       "date": "Sun, 23 Aug 2026 16:40:49 +0000"
     },
@@ -112,20 +112,29 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
+      "title": "Сипаниците кај овците предизвикуваат катастрофа во сточарството – Угинаа над 10 илјади овци, сточарите бараат итна вакцинација | ТВ21",
+      "description": "",
+      "url": "https://time.mk/c/8a41128994/sipanicite-kaj-ovcite-predizvikuvaat-katastrofa-vo-stocarstvoto-uginaa-nad-10-iljadi-ovci-stocarite-baraat-itna-vakcinacija.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2024/02/ovci-1024x574.jpg",
+      "date": "Sun, 23 Aug 2026 17:22:43 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Кој најмногу посакува предвремени избори? Арсовски: Потребен е разумен мотив, во спротивно ќе се смета за политички маневар | ТВ21",
+      "description": "",
+      "url": "https://time.mk/c/3dfcf8df23/koj-najmnogu-posakuva-predvremeni-izbori-arsovski-potreben-e-razumen-motiv-vo-sprotivno-ke-se-smeta-za-politicki-manevar.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2026/08/petar-arsovski-1024x615.png",
+      "date": "Sun, 23 Aug 2026 17:22:43 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
       "title": "Високи плати, патни трошоци, кирии и приватна мамографија за пратениците, за граѓаните нема термин | Рацин",
       "description": "",
       "url": "https://time.mk/c/2ed0326003/visoki-plati-patni-trosoci-kirii-i-privatna-mamografija-za-pratenicite-za-gragjanite-nema-termin.html",
       "image": "https://racin.mk/wp-content/uploads/2026/08/sobranie-makedonija-719x480.jpg?x47969",
       "date": "Sun, 23 Aug 2026 15:28:45 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - Sport",
-      "title": "Две финалиња во Таранто: Вејсели и Хајтари ќе се борат за златни медали во борење | Дерби",
-      "description": "",
-      "url": "https://time.mk/c/5f3cc63c83/dve-finalinja-vo-taranto-vejseli-i-hajtari-ke-se-borat-za-zlatni-medali-vo-borenje.html",
-      "image": "https://derbi.mk/wp-content/uploads/2026/08/Vejseli-Taranto.jpg",
-      "date": "Sun, 23 Aug 2026 16:30:37 +0000"
     },
     {
       "category": "mkd",
@@ -139,18 +148,9 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Вреди: Политичката одговорност за трагедијата во Тетово | 24 Вести",
-      "description": "",
-      "url": "https://time.mk/c/42ea71c38a/vredi-politickata-odgovornost-za-tragedijata-vo-tetovo.html",
-      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1787494825/ouivp42mhpj8e7synesj.jpg",
-      "date": "Sun, 23 Aug 2026 14:32:57 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
       "title": "Септемвриската пензија ќе биде повисока – кој ќе добие 600, а кој до 1.500 денари повеќе? | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/1df5abeac7/septemvriskata-penzija-ke-bide-povisoka-koj-ke-dobie-600-a-koj-do-1-500-denari-poveke.html",
+      "url": "https://time.mk/c/6da3c1c13a/septemvriskata-penzija-ke-bide-povisoka-koj-ke-dobie-600-a-koj-do-1-500-denari-poveke.html",
       "image": "https://www.vecer.press/wp-content/uploads/2026/08/penzioneri-32103-2-3-scaled.jpg",
       "date": "Sun, 23 Aug 2026 14:12:48 +0000"
     },
