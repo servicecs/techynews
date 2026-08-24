@@ -1,6 +1,24 @@
 {
-  "updated": "2026-08-24T09:23:47.193030+00:00",
+  "updated": "2026-08-24T10:11:27.955691+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Што е ново во WordPress 7.1: Повеќе контрола над дизајнот и проширени опции за програмерите",
+      "description": "Објавена е верзијата 7.1 на системот за управување со содржини WordPress, која го носи кодното име „Mary Lou“ во чест на џез пијанистката Мери Лу Вилијамс. Ова издание е направено со цел да го подобри начинот на кој корисниците се движат низ системот, го контролираат дизајнот и соработуваат со други лица. Една од основните промени […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/sto-e-novo-vo-wordpress-7-1/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/07/deng-xiang-YBtAJPcvc4Y-unsplash-f-150x150.webp",
+      "date": "Mon, 24 Aug 2026 10:09:21 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "OpenAI претстави ChatGPT додаток за Messages на macOS кој може да чита и испраќа пораки",
+      "description": "Минатата недела OpenAI објави дека нивниот ChatGPT сега може да се „интегрира“ во Messages апликацијата од Apple на macOS, а со тоа да добие и целосен пристап до сите разговори на корисникот. Интеграцијата доаѓа преку додаток кој може да се најде преку „Pugins > Public“, односно делот за додатоци во ChatGPT апликацијата, по што вештачката […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/chatgpt-dodatok-za-apple-messages/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/brett-jordan-jdm0UlDkOEI-unsplash-150x150.webp",
+      "date": "Mon, 24 Aug 2026 09:26:50 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -75,39 +93,39 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Microsoft тестира можност за ограничување на пристапот до микрофонот и камерата на „Win32“ апликациите",
-      "description": "Microsoft работи на значително подобрување на приватноста во својот оперативен систем преку интегрирање на нови опции за контрола на периферните уреди. Со најновата тест верзија од „експерименталниот“ канал, корисниците на Windows 11 ќе добијат можност директно да го блокираат пристапот до микрофонот и веб камерата за конкретни „Win32“ апликации. Оваа можност засега е достапна само […]",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/microsoft-testira-ogranicuvanje-pristap-mikrofon-kanera-win32-aplikacii/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/04/Depositphotos_485250286_L-150x150.webp",
-      "date": "Thu, 20 Aug 2026 10:23:25 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Google најави нови едукативни алатки базирани на вештачка интелигенција во Google Search",
-      "description": "Google претстави нови едукативни функции во рамки на својот пребарувач, дизајнирани да им помогнат на корисниците при совладување нови концепти и организирање на материјалите преку вештачка интелигенција. Пребарувачот сега може да генерира интерактивни визуелизации и симулации преку AI Mode, со што комплексните теми стануваат полесни за разбирање. Покрај тоа, воведени се персонализирани тестови за вежбање […]",
-      "url": "https://smartportal.mk/novosti/ai/google-novi-edukativni-alatki-google-search/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Blog_header_2_JwwDb02.width-2200.format-webp-150x150.webp",
-      "date": "Thu, 20 Aug 2026 09:53:55 +0000"
+      "source": "Time.mk - All",
+      "title": "Се одложи главната расправа за судењето за злоупотреби во Државна лотарија | Фокус",
+      "description": "",
+      "url": "https://time.mk/c/a2960cac0b/se-odlozi-glavnata-rasprava-za-sudenjeto-za-zloupotrebi-vo-drzavna-lotarija.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/02/DX18Y-grubi1.jpg",
+      "date": "Mon, 24 Aug 2026 09:40:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Осум кутии докази за случајот „Државна лотарија“: На Груби, Бајрами и другите ќе им се суди по двапати неделно - обвинителот најави осум сведоци | Скопје1",
+      "title": "Филипче: СДСМ е спремен за избори уште утре, но нема да бидеме алиби за Мицкоски | Press24",
       "description": "",
-      "url": "https://time.mk/c/f17fec3bb0/osum-kutii-dokazi-za-slucajot-drzavna-lotarija-na-grubi-bajrami-i-drugite-ke-im-se-sudi-po-dvapati-nedelno-obvinitelot-najavi-osum-svedoci.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84261/conversions/text-max.jpg",
-      "date": "Mon, 24 Aug 2026 08:52:52 +0000"
+      "url": "https://time.mk/c/fa2399cdf0/filipce-sdsm-e-spremen-za-izbori-uste-utre-no-nema-da-bideme-alibi-za-mickoski.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/66230.jpeg",
+      "date": "Mon, 24 Aug 2026 10:04:46 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Светските берзи најавуваат поскапување на храната, ударот во Македонија наесен | Трн",
+      "title": "Од 26 август почнува пријавувањето за субвенциониран студентски оброк | Бизнис Вести",
       "description": "",
-      "url": "https://time.mk/c/e510e1b883/svetskite-berzi-najavuvaat-poskapuvanje-na-hranata-udarot-vo-makedonija-naesen.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/05/marketi.jpg",
-      "date": "Mon, 24 Aug 2026 09:08:49 +0000"
+      "url": "https://time.mk/c/2169b85674/od-26-avgust-pocnuva-prijavuvanjeto-za-subvencioniran-studentski-obrok.html",
+      "image": "https://biznisvesti.mk/wp-content/uploads/2025/10/mon-1-300x174.png",
+      "date": "Mon, 24 Aug 2026 09:38:38 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Земјоделците на нов протест за „ајварката“. Мицкоски повикан на „екскурзија до Струмица“ | Независен",
+      "description": "",
+      "url": "https://time.mk/c/804f1e4cf6/zemjodelcite-na-nov-protest-za-ajvarkata-mickoski-povikan-na-ekskurzija-do-strumica.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/08/Piperka-ajvarka-1024x900.jpg",
+      "date": "Mon, 24 Aug 2026 09:36:51 +0000"
     },
     {
       "category": "mkd",
@@ -121,29 +139,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "EISA Awards 2026-2027: Официјално прогласени најдобрите мобилни уреди во светот | Конект",
+      "title": "Температурите се искачуваат: Измерени речиси 34 степени во 11 часот | Press24",
       "description": "",
-      "url": "https://time.mk/c/d55a21cef8/eisa-awards-2026-2027-oficijalno-proglaseni-najdobrite-mobilni-uredi-vo-svetot.html",
-      "image": "https://konekt.mk/wp-content/uploads/2026/08/eisa-awards-2026-2027-ovo-su-sluzbeno-najbolji-mobilni-uredjaji-na-svijetu_Rzb6_i.jpg",
+      "url": "https://time.mk/c/6f15245450/temperaturite-se-iskacuvaat-izmereni-recisi-34-stepeni-vo-11-casot.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/66228.jpg",
+      "date": "Mon, 24 Aug 2026 09:54:39 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Светските берзи најавуваат поскапување на храната, ударот во Македонија наесен | Трн",
+      "description": "",
+      "url": "https://time.mk/c/e510e1b883/svetskite-berzi-najavuvaat-poskapuvanje-na-hranata-udarot-vo-makedonija-naesen.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/05/marketi.jpg",
       "date": "Mon, 24 Aug 2026 09:08:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "СОБРАНИЕТО ДЕМАНТИРА ДЕКА ПЛАЌА ПРИВАТНО ЗДРАВСТВЕНО ОСИГУРУВАЊЕ ЗА ПРАТЕНИЦИТЕ И ЗА ВРАБОТЕНИТЕ Станува збор за пакет за задолжителни систематски прегледи | +инфо",
-      "description": "",
-      "url": "https://time.mk/c/de70723e79/sobranieto-demantira-deka-plaka-privatno-zdravstveno-osiguruvanje-za-pratenicite-i-za-vrabotenite-stanuva-zbor-za-paket-za-zadolzitelni-sistematski-pregledi.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2026/08/sobranie-a-8.jpg",
-      "date": "Mon, 24 Aug 2026 08:16:47 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ВЛЕН: Артан Груби е пред правдата, а Бујар сè уште го чека моментот да направи чекор кон лидерската позиција во ДУИ | Макфакс",
-      "description": "",
-      "url": "https://time.mk/c/d4bef8f0a7/vlen-artan-grubi-e-pred-pravdata-a-bujar-se-uste-go-ceka-momentot-da-napravi-cekor-kon-liderskata-pozicija-vo-dui.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2019/02/Artan-Grubi.png",
-      "date": "Mon, 24 Aug 2026 07:32:57 +0000"
     },
     {
       "category": "mkd",
@@ -153,15 +162,6 @@
       "url": "https://time.mk/c/ae2d1930dd/italija-dobiva-bankarski-dzin-tezok-80-milijardi-evra-monte-dei-paski-gi-kupuva-banko-bpm-i-banka-generali.html",
       "image": "http://pari.com.mk/wp-content/uploads/2026/08/Screenshot-2026-08-24-085014.png",
       "date": "Mon, 24 Aug 2026 08:46:36 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ЗОШТО ЕУ ИМ ДАВА ПРОФЕСИОНАЛНИ ВИЗИ САМО НА ТУРСКИТЕ ВОЗАЧИ? Превозниците ќе протестираат пред делегацијата на ЕУ во Скопје | +инфо",
-      "description": "",
-      "url": "https://time.mk/c/17a7ef2774/zosto-eu-im-dava-profesionalni-vizi-samo-na-turskite-vozaci-prevoznicite-ke-protestiraat-pred-delegacijata-na-eu-vo-skopje.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2026/06/eu-zgrada-skopje-1.jpg",
-      "date": "Mon, 24 Aug 2026 08:30:46 +0000"
     },
     {
       "category": "mkd",
