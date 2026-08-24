@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T20:32:40.155313+00:00",
+  "updated": "2026-08-24T21:31:53.699054+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -93,12 +93,39 @@
     },
     {
       "category": "mkd",
+      "source": "Time.mk - Sport",
+      "title": "Жоао Педро погоди во 32 секунда: Победнички старт на Чаби Алонсо со Челзи! | SportSport",
+      "description": "",
+      "url": "https://time.mk/c/b38ca1465e/zoao-pedro-pogodi-vo-32-sekunda-pobednicki-start-na-cabi-alonso-so-celzi.html",
+      "image": "https://sportsport.mk/wp-content/uploads/2026/08/Zoao-Pedro-Celzi-26-150x150.png",
+      "date": "Mon, 24 Aug 2026 21:18:45 +0000"
+    },
+    {
+      "category": "mkd",
       "source": "Time.mk - All",
       "title": "Ангелов: Дел од чадот во Скопје доаѓа од пожарите кај Бојане и на Китка | Скопје1",
       "description": "",
       "url": "https://time.mk/c/2b04d74d6b/angelov-del-od-cadot-vo-skopje-doagja-od-pozarite-kaj-bojane-i-na-kitka.html",
       "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84291/conversions/text-max.jpg",
       "date": "Mon, 24 Aug 2026 17:18:35 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Аларм за цел свет: Океаните вријат и го интензивираат Ел Нињо – измерени рекордни максимуми во август, може да дојде до катастрофа | Вечер Прес",
+      "description": "",
+      "url": "https://time.mk/c/a375e4b527/alarm-za-cel-svet-okeanite-vrijat-i-go-intenziviraat-el-ninjo-izmereni-rekordni-maksimumi-vo-avgust-moze-da-dojde-do-katastrofa.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/08/toplo-opsto-7.jpg",
+      "date": "Mon, 24 Aug 2026 20:36:49 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "ДОМ бара да се запре постапка за дата-центар во Општина Пехчево пред утрешното гласање | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/68948c5a24/dom-bara-da-se-zapre-postapka-za-data-centar-vo-opstina-pehcevo-pred-utresnoto-glasanje.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2025/02/Screenshot-2025-02-17-193504-300x146.png",
+      "date": "Mon, 24 Aug 2026 21:18:45 +0000"
     },
     {
       "category": "mkd",
@@ -117,33 +144,6 @@
       "url": "https://time.mk/c/f656e016e6/cad-od-pozarot-na-kitka-se-spusti-vrz-glavniot-grad-angelov-zlobnici-go-razgorea-pozarot-na-planinite-rizikuvaat-da-ubijat-lugje.html",
       "image": "https://mk.tv21.tv/wp-content/uploads/2026/08/Screenshot_2-8-1024x569.jpg",
       "date": "Mon, 24 Aug 2026 19:02:36 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Силно невреме во Дебреште: Град со големина на орев ги уништи земјоделските насади | 4NEWS",
-      "description": "",
-      "url": "https://time.mk/c/465bf31f38/silno-nevreme-vo-debreste-grad-so-golemina-na-orev-gi-unisti-zemjodelskite-nasadi.html",
-      "image": "https://4news.mk/wp-content/uploads/2026/08/screenshot_6-7-1024x660.avif",
-      "date": "Mon, 24 Aug 2026 19:54:38 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ДЕЛ ОД ПАРИТЕ ЗА ОДБРАНАТА ДА ОСТАНАТ ВО МАКЕДОНИЈА Мисајловски ќе разговара со домашните фирми за развој на воена индустрија | +инфо",
-      "description": "",
-      "url": "https://time.mk/c/65b9b1b328/del-od-parite-za-odbranata-da-ostanat-vo-makedonija-misajlovski-ke-razgovara-so-domasnite-firmi-za-razvoj-na-voena-industrija.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2026/08/misjalovski.jpg",
-      "date": "Mon, 24 Aug 2026 19:02:36 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ВМРО-ДПМНЕ: На Филипче му е јасен епилогот со изборите и затоа бега од соочување со граѓаните | 360 степени",
-      "description": "",
-      "url": "https://time.mk/c/c75f3e4024/vmro-dpmne-na-filipce-mu-e-jasen-epilogot-so-izborite-i-zatoa-bega-od-soocuvanje-so-gragjanite.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/08/VMRO-FILIPCHE-scaled.jpg",
-      "date": "Mon, 24 Aug 2026 12:46:37 +0000"
     },
     {
       "category": "mkd",
@@ -175,11 +175,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Албанец ѝ дал на сопругата 1.000 евра „за да ги има“, па отишол да ја убие љубовницата? Детали за ужасниот злостор во Грција | Пулс24",
+      "title": "Седум од десет мали и средни бизниси во Атина со полош промет од лани за време на летните попусти | Независен",
       "description": "",
-      "url": "https://time.mk/c/615bec9000/albanec-i-dal-na-soprugata-1-000-evra-za-da-gi-ima-pa-otisol-da-ja-ubie-ljubovnicata-detali-za-uzasniot-zlostor-vo-grcija.html",
-      "image": "https://puls24.mk/wp-content/uploads/2026/08/albanac-368439-670x447-1.jpeg",
-      "date": "Mon, 24 Aug 2026 19:00:54 +0000"
+      "url": "https://time.mk/c/17f26ecf1f/sedum-od-deset-mali-i-sredni-biznisi-vo-atina-so-polos-promet-od-lani-za-vreme-na-letnite-popusti.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2023/07/atina.jpg",
+      "date": "Mon, 24 Aug 2026 15:54:35 +0000"
     }
   ],
   "de": [
@@ -368,6 +368,15 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "This Luna Controller and Fire TV Stick Bundle Is 46% Off Right Now",
+      "description": "If you have Amazon Prime, you already have free access to games like \"Assassin's Creed,\" \"EA FC 26,\" \"Hogwarts Legacy,\" and more.",
+      "url": "https://lifehacker.com/entertainment/luna-controller-and-fire-tv-stick-bundle-deal-august-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M0TPFF9ABNTGY5Y1DA19RBQB/hero-image.jpg",
+      "date": "Mon, 24 Aug 2026 20:30:04 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "Five Hacks Every Suunto Race 2 User Should Know",
       "description": "Automatic laps for my strides? Yes, please.",
       "url": "https://lifehacker.com/health/best-suunto-race-2-watch-hacks?utm_medium=RSS",
@@ -535,15 +544,6 @@
       "url": "https://lifehacker.com/tech/amazon-fire-tv-soundbar-plus-sale-august-2026?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01KJ51ECG1DFHCN0K6E55XRKES/hero-image.jpg",
       "date": "Fri, 21 Aug 2026 12:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place",
-      "description": "Keep up with all of the best deals that Lifehacker publishes, including laptops, speakers, TVs, security cameras, and more.",
-      "url": "https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg",
-      "date": "Thu, 20 Aug 2026 21:36:43 +0000"
     }
   ],
   "starwars": [
@@ -670,7 +670,7 @@
       "title": "Traileranalyse: Ahsoka – Staffel 2 – Teaser",
       "description": "Das erste Bewegtbildmaterial zur 2. Season der Serie liefert allerhand Schauwerte und Spekulationsmaterial.",
       "url": "https://starwars-union.de/traileranalyse-ahsoka-staffel-2-teaser/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/08/20260815-ahsoka-s2-teaser-45.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Star_Wars_Logo.svg",
       "date": "Sun, 16 Aug 2026 11:18:47 +0000"
     },
     {
