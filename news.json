@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-24T08:11:43.779221+00:00",
+  "updated": "2026-08-24T09:23:47.193030+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Супериорниот Hi-Fi звук на Samsung Galaxy Buds4 Pro препознаен од аудио експертите",
+      "description": "Скопје 24 август 2026 година – Компанијата Самсунг („Samsung“) денес објави дека Galaxy Buds4 Pro слушалките ја добија наградата „EISA Слушалки за во уво 2026-2027“ (EISA In-Ear Headphones 2026-2027) од Асоцијацијата за експертско оценување на слика и звук (Expert Imaging and Sound Association – EISA). Ова е првпат производ од серијата Galaxy Buds да го […]",
+      "url": "https://smartportal.mk/novosti/uredi/hi-fi-zvuk-galaxy-buds4-pro-prepoznaen-od-audio-ekspertite/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Galaxy-Buds4-Pro-EISA-Award-Image-150x150.webp",
+      "date": "Mon, 24 Aug 2026 08:44:39 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -84,12 +93,21 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Apple возврати на обидот на OpenAI за отфрлање на тужбата за кражба на деловни тајни",
-      "description": "Apple поднесе официјален одговор на неодамнешното барање на OpenAI за отфрлање на тужбата во која ги обвинува OpenAI, io Products и двајца свои поранешни вработени за кражба на деловни тајни. Во својот одговор, Apple тврди дека аргументите на одбраната не ги адресираат основните обвинувања од првичната тужба и дека OpenAI неосновано ги минимизира нивните деловни […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/apple-vozvrati-na-openai/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Depositphotos_753415950_XL-f-150x150.webp",
-      "date": "Thu, 20 Aug 2026 09:29:44 +0000"
+      "source": "Time.mk - All",
+      "title": "Осум кутии докази за случајот „Државна лотарија“: На Груби, Бајрами и другите ќе им се суди по двапати неделно - обвинителот најави осум сведоци | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/f17fec3bb0/osum-kutii-dokazi-za-slucajot-drzavna-lotarija-na-grubi-bajrami-i-drugite-ke-im-se-sudi-po-dvapati-nedelno-obvinitelot-najavi-osum-svedoci.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84261/conversions/text-max.jpg",
+      "date": "Mon, 24 Aug 2026 08:52:52 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Светските берзи најавуваат поскапување на храната, ударот во Македонија наесен | Трн",
+      "description": "",
+      "url": "https://time.mk/c/e510e1b883/svetskite-berzi-najavuvaat-poskapuvanje-na-hranata-udarot-vo-makedonija-naesen.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/05/marketi.jpg",
+      "date": "Mon, 24 Aug 2026 09:08:49 +0000"
     },
     {
       "category": "mkd",
@@ -103,83 +121,65 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
+      "title": "EISA Awards 2026-2027: Официјално прогласени најдобрите мобилни уреди во светот | Конект",
+      "description": "",
+      "url": "https://time.mk/c/d55a21cef8/eisa-awards-2026-2027-oficijalno-proglaseni-najdobrite-mobilni-uredi-vo-svetot.html",
+      "image": "https://konekt.mk/wp-content/uploads/2026/08/eisa-awards-2026-2027-ovo-su-sluzbeno-najbolji-mobilni-uredjaji-na-svijetu_Rzb6_i.jpg",
+      "date": "Mon, 24 Aug 2026 09:08:49 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "СОБРАНИЕТО ДЕМАНТИРА ДЕКА ПЛАЌА ПРИВАТНО ЗДРАВСТВЕНО ОСИГУРУВАЊЕ ЗА ПРАТЕНИЦИТЕ И ЗА ВРАБОТЕНИТЕ Станува збор за пакет за задолжителни систематски прегледи | +инфо",
+      "description": "",
+      "url": "https://time.mk/c/de70723e79/sobranieto-demantira-deka-plaka-privatno-zdravstveno-osiguruvanje-za-pratenicite-i-za-vrabotenite-stanuva-zbor-za-paket-za-zadolzitelni-sistematski-pregledi.html",
+      "image": "https://plusinfo.mk/wp-content/uploads/2026/08/sobranie-a-8.jpg",
+      "date": "Mon, 24 Aug 2026 08:16:47 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
       "title": "ВЛЕН: Артан Груби е пред правдата, а Бујар сè уште го чека моментот да направи чекор кон лидерската позиција во ДУИ | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/f2b1608f48/vlen-artan-grubi-e-pred-pravdata-a-bujar-se-uste-go-ceka-momentot-da-napravi-cekor-kon-liderskata-pozicija-vo-dui.html",
+      "url": "https://time.mk/c/d4bef8f0a7/vlen-artan-grubi-e-pred-pravdata-a-bujar-se-uste-go-ceka-momentot-da-napravi-cekor-kon-liderskata-pozicija-vo-dui.html",
       "image": "https://makfax.com.mk/wp-content/uploads/2019/02/Artan-Grubi.png",
       "date": "Mon, 24 Aug 2026 07:32:57 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "КОГА ВЕШТАЧКАТА ИНТЕЛИГЕНЦИЈА ЌЕ ДОБИЕ РАЦЕ И НОЗЕ: Ќе исчезне ли физичкиот труд за пет години? | Пари",
+      "title": "ИТАЛИЈА ДОБИВА БАНКАРСКИ ЏИН ТЕЖОК 80 МИЛИЈАРДИ ЕВРА: Монте деи Паски ги купува Банко БПМ и Банка Генерали | Пари",
       "description": "",
-      "url": "https://time.mk/c/3333b9f9e8/koga-vestackata-inteligencija-ke-dobie-race-i-noze-ke-iscezne-li-fizickiot-trud-za-pet-godini.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/08/igor-omilaev-FHgWFzDDAOs-unsplash-scaled.jpg",
-      "date": "Mon, 24 Aug 2026 07:26:37 +0000"
+      "url": "https://time.mk/c/ae2d1930dd/italija-dobiva-bankarski-dzin-tezok-80-milijardi-evra-monte-dei-paski-gi-kupuva-banko-bpm-i-banka-generali.html",
+      "image": "http://pari.com.mk/wp-content/uploads/2026/08/Screenshot-2026-08-24-085014.png",
+      "date": "Mon, 24 Aug 2026 08:46:36 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Кој тоа ја тера Софија да се откаже од бугарското малцинство во Македонија? | Нова Македонија",
+      "title": "ЗОШТО ЕУ ИМ ДАВА ПРОФЕСИОНАЛНИ ВИЗИ САМО НА ТУРСКИТЕ ВОЗАЧИ? Превозниците ќе протестираат пред делегацијата на ЕУ во Скопје | +инфо",
       "description": "",
-      "url": "https://time.mk/c/7e41efde13/koj-toa-ja-tera-sofija-da-se-otkaze-od-bugarskoto-malcinstvo-vo-makedonija.html",
-      "image": "https://novamakedonija.com.mk/wp-content/uploads/2026/08/9532589-150x150.jpg",
-      "date": "Mon, 24 Aug 2026 07:30:37 +0000"
+      "url": "https://time.mk/c/17a7ef2774/zosto-eu-im-dava-profesionalni-vizi-samo-na-turskite-vozaci-prevoznicite-ke-protestiraat-pred-delegacijata-na-eu-vo-skopje.html",
+      "image": "https://plusinfo.mk/wp-content/uploads/2026/06/eu-zgrada-skopje-1.jpg",
+      "date": "Mon, 24 Aug 2026 08:30:46 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Ако не си убав, крши го огледалото! | Слободен Печат",
+      "title": "Ужас во Косово: Убиена бремена жена, а нејзиниот сопруг се бори за живот — биле пронајдени застрелани во нивната спална соба | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/5332b87031/ako-ne-si-ubav-krsi-go-ogledaloto.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2019/11/mersel-bilali-300x158.jpg",
-      "date": "Mon, 24 Aug 2026 07:32:57 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "БЕЗБЕДЕН ГРАД – ЗА БЕЗБЕДНИ УЧЕСНИЦИ ВО СООБРАЌАЈОТ Кампања за поголема сообраќајна безбедност и поддршка на „Сејф сити“ | +инфо",
-      "description": "",
-      "url": "https://time.mk/c/413e679a83/bezbeden-grad-za-bezbedni-ucesnici-vo-soobrakajot-kampanja-za-pogolema-soobrakajna-bezbednost-i-poddrska-na-sejf-siti.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2026/08/sejf-siti-kampanja.jpg",
-      "date": "Mon, 24 Aug 2026 07:14:45 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Македонските превозници најавија протест пред Делегацијата на ЕУ на 31 август | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/f47e9ad8f4/makedonskite-prevoznici-najavija-protest-pred-delegacijata-na-eu-na-31-avgust.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/59844/conversions/prevoznici-max.jpg",
-      "date": "Mon, 24 Aug 2026 06:54:34 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Извозот дава надеж, но проблемите остануваат: Германскиот индустриски модел на тежок тест | Пари",
-      "description": "",
-      "url": "https://time.mk/c/2428972354/izvozot-dava-nadez-no-problemite-ostanuvaat-germanskiot-industriski-model-na-tezok-test.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/08/ansgar-scheffold-gGI9zZKMG4g-unsplash-scaled.jpg",
-      "date": "Mon, 24 Aug 2026 06:34:36 +0000"
+      "url": "https://time.mk/c/e9eb34c9ff/uzas-vo-kosovo-ubiena-bremena-zena-a-nejziniot-soprug-se-bori-za-zivot-bile-pronajdeni-zastrelani-vo-nivnata-spalna-soba.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2023/12/Ð¿Ð¾Ð»Ð¸ÑÐ¸ÑÐ°-ÐÐ¾ÑÐ¾Ð²Ð¾-300x189.webp",
+      "date": "Mon, 24 Aug 2026 09:22:54 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
       "title": "Се затвора дел од обиколницата кај Солун, сообраќајот ќе се пренасочува низ градот | Трн",
       "description": "",
-      "url": "https://time.mk/c/0a6c5bc06f/se-zatvora-del-od-obikolnicata-kaj-solun-soobrakajot-ke-se-prenasocuva-niz-gradot.html",
+      "url": "https://time.mk/c/504ba64178/se-zatvora-del-od-obikolnicata-kaj-solun-soobrakajot-ke-se-prenasocuva-niz-gradot.html",
       "image": "https://trn.mk/wp-content/uploads/2026/08/solun-obikolnica.jpg",
       "date": "Mon, 24 Aug 2026 08:04:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Грција под нов топлотен бран: Температурите викендов ќе достигнат 42 степени | Трн",
-      "description": "",
-      "url": "https://time.mk/c/34f41122a2/grcija-pod-nov-toploten-bran-temperaturite-vikendov-ke-dostignat-42-stepeni.html",
-      "image": "https://trn.mk/wp-content/uploads/2024/08/toplo-toplomer.jpg",
-      "date": "Sat, 22 Aug 2026 10:52:48 +0000"
     }
   ],
   "de": [
