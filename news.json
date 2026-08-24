@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-24T10:11:27.955691+00:00",
+  "updated": "2026-08-24T11:02:32.842250+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Exynos 2700 на Samsung би можел да ги надмине Snapdragon процесорите кај Galaxy S27 серијата",
+      "description": "Samsung наводно изразува висока доверба дека нејзиниот следен водечки чип, Exynos 2700, ќе ги надмине претстојните процесори од серијата Snapdragon 8 Elite Gen 6, во поглед на брзината и енергетската ефикасност. Според информациите, овој процесор најверојатно ќе биде вграден во Galaxy S27 и Galaxy S27+ серијата на повеќето пазари ширум светот. Иако Exynos чиповите бележат […]",
+      "url": "https://smartportal.mk/novosti/smartfoni/exynos-2700-nadminuva-snapdragon-procesori/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/boliviainteligente-s6Z3d1pRa2o-unsplash-f-150x150.webp",
+      "date": "Mon, 24 Aug 2026 10:43:18 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -84,30 +93,48 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Google Research развива технологија за проценка на метаболичкиот ризик преку фотографии од телефоните",
-      "description": "Истражувачите од Google Research претставија нов систем базиран на длабоко учење, наменет за проценка на ризикот од „кардиометаболички“ заболувања преку користење на камерите од паметните телефони. Алатката, наречена PhotoScan, е развиена со цел да овозможи предвидување на инсулинската резистентност, состојба која често претходи на дијабетес тип 2. Системот функционира преку проценка на тродимензионалната структура на […]",
-      "url": "https://smartportal.mk/novosti/nauka-istrazuvanja/google-research-photoscan/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/johny-georgiadis-3ewkNkfJj2k-unsplash-f-150x150.webp",
-      "date": "Thu, 20 Aug 2026 12:29:50 +0000"
+      "source": "Time.mk - All",
+      "title": "ФОТО+ВИДЕО | Ексдиректорот на „Лотарија“ Перпарим Бајрами го нема ни под дрво ни под камен, а ни во судница | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/bf91ca6df9/foto-video-eksdirektorot-na-lotarija-perparim-bajrami-go-nema-ni-pod-drvo-ni-pod-kamen-a-ni-vo-sudnica.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/08/sudenje8-1-300x200.jpg",
+      "date": "Mon, 24 Aug 2026 10:56:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Се одложи главната расправа за судењето за злоупотреби во Државна лотарија | Фокус",
+      "title": "Филипче до Левица: Откажете се од „мајка Русија и татко Мицкоски“ и може да се обединиме | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/a2960cac0b/se-odlozi-glavnata-rasprava-za-sudenjeto-za-zloupotrebi-vo-drzavna-lotarija.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/02/DX18Y-grubi1.jpg",
-      "date": "Mon, 24 Aug 2026 09:40:49 +0000"
+      "url": "https://time.mk/c/4170c88bfa/filipce-do-levica-otkazete-se-od-majka-rusija-i-tatko-mickoski-i-moze-da-se-obedinime.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/07/filipce-brifing.webp",
+      "date": "Mon, 24 Aug 2026 10:18:44 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Филипче: СДСМ е спремен за избори уште утре, но нема да бидеме алиби за Мицкоски | Press24",
+      "title": "Горивата поскапуваат, дизелот надмина 100 денари за литар! | CARClub",
       "description": "",
-      "url": "https://time.mk/c/fa2399cdf0/filipce-sdsm-e-spremen-za-izbori-uste-utre-no-nema-da-bideme-alibi-za-mickoski.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/66230.jpeg",
-      "date": "Mon, 24 Aug 2026 10:04:46 +0000"
+      "url": "https://time.mk/c/8144141bab/gorivata-poskapuvaat-dizelot-nadmina-100-denari-za-litar.html",
+      "image": "https://www.carclub.mk/wp-content/uploads/2019/05/makpetrol-pumpa-kumanovo2-300x200.jpg",
+      "date": "Mon, 24 Aug 2026 10:49:00 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Килограм „ајварка“ носи 10 денари загуба – земјоделците од Струмичко утре ќе протестираат | Пари",
+      "description": "",
+      "url": "https://time.mk/c/df53780b9b/kilogram-ajvarka-nosi-10-denari-zaguba-zemjodelcite-od-strumicko-utre-ke-protestiraat.html",
+      "image": "http://pari.com.mk/wp-content/uploads/2024/08/piperki-ajvar.jpg",
+      "date": "Mon, 24 Aug 2026 10:38:38 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Новинарот Салиу: Процесот за Груби може да стане медиумско шоу во пресрет на предвремени избори | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/17e2cdaf79/novinarot-saliu-procesot-za-grubi-moze-da-stane-mediumsko-sou-vo-presret-na-predvremeni-izbori.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84274/conversions/text-max.jpg",
+      "date": "Mon, 24 Aug 2026 10:36:57 +0000"
     },
     {
       "category": "mkd",
@@ -121,54 +148,27 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Земјоделците на нов протест за „ајварката“. Мицкоски повикан на „екскурзија до Струмица“ | Независен",
+      "title": "Од сушите до маркетите: Зошто новиот глобален ценовен удар допрва ќе стигне до потрошувачите | CivilMedia",
       "description": "",
-      "url": "https://time.mk/c/804f1e4cf6/zemjodelcite-na-nov-protest-za-ajvarkata-mickoski-povikan-na-ekskurzija-do-strumica.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/08/Piperka-ajvarka-1024x900.jpg",
-      "date": "Mon, 24 Aug 2026 09:36:51 +0000"
+      "url": "https://time.mk/c/8b340a98f3/od-susite-do-marketite-zosto-noviot-globalen-cenoven-udar-doprva-ke-stigne-do-potrosuvacite.html",
+      "image": "https://civilmedia.b-cdn.net/wp-content/uploads/market-foto-TSIVIL-750x375.jpeg",
+      "date": "Mon, 24 Aug 2026 10:33:05 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Држава на 35 години уште живее кај родителите | Слободен Печат",
+      "title": "МАКЕДОНСКИТЕ ПРЕВОЗНИЦИ НА ПРОТЕСТ ПРЕД ЗГРАДАТА НА ЕУ ВО СКОПЈЕ, министерот за транспорт Александар Николоски денеска изјави дека Владата прави сè што може за да им помогне на транспортерите | Економија и Бизнис",
       "description": "",
-      "url": "https://time.mk/c/c572f917c4/drzava-na-35-godini-uste-zivee-kaj-roditelite.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2025/10/martin-bogatinoski-300x200.jpeg",
-      "date": "Mon, 24 Aug 2026 07:36:57 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Температурите се искачуваат: Измерени речиси 34 степени во 11 часот | Press24",
-      "description": "",
-      "url": "https://time.mk/c/6f15245450/temperaturite-se-iskacuvaat-izmereni-recisi-34-stepeni-vo-11-casot.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/66228.jpg",
-      "date": "Mon, 24 Aug 2026 09:54:39 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Светските берзи најавуваат поскапување на храната, ударот во Македонија наесен | Трн",
-      "description": "",
-      "url": "https://time.mk/c/e510e1b883/svetskite-berzi-najavuvaat-poskapuvanje-na-hranata-udarot-vo-makedonija-naesen.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/05/marketi.jpg",
-      "date": "Mon, 24 Aug 2026 09:08:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ИТАЛИЈА ДОБИВА БАНКАРСКИ ЏИН ТЕЖОК 80 МИЛИЈАРДИ ЕВРА: Монте деи Паски ги купува Банко БПМ и Банка Генерали | Пари",
-      "description": "",
-      "url": "https://time.mk/c/ae2d1930dd/italija-dobiva-bankarski-dzin-tezok-80-milijardi-evra-monte-dei-paski-gi-kupuva-banko-bpm-i-banka-generali.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/08/Screenshot-2026-08-24-085014.png",
-      "date": "Mon, 24 Aug 2026 08:46:36 +0000"
+      "url": "https://time.mk/c/36677644f2/makedonskite-prevoznici-na-protest-pred-zgradata-na-eu-vo-skopje-ministerot-za-transport-aleksandar-nikoloski-deneska-izjavi-deka-vladata-pravi-se-sto-moze-za-da-im-pomogne-na-transporterite.html",
+      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/03/eu_za_tebe.jpg",
+      "date": "Mon, 24 Aug 2026 10:52:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
       "title": "Ужас во Косово: Убиена бремена жена, а нејзиниот сопруг се бори за живот — биле пронајдени застрелани во нивната спална соба | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/e9eb34c9ff/uzas-vo-kosovo-ubiena-bremena-zena-a-nejziniot-soprug-se-bori-za-zivot-bile-pronajdeni-zastrelani-vo-nivnata-spalna-soba.html",
+      "url": "https://time.mk/c/498f77f832/uzas-vo-kosovo-ubiena-bremena-zena-a-nejziniot-soprug-se-bori-za-zivot-bile-pronajdeni-zastrelani-vo-nivnata-spalna-soba.html",
       "image": "https://www.slobodenpecat.mk/wp-content/uploads/2023/12/Ð¿Ð¾Ð»Ð¸ÑÐ¸ÑÐ°-ÐÐ¾ÑÐ¾Ð²Ð¾-300x189.webp",
       "date": "Mon, 24 Aug 2026 09:22:54 +0000"
     },
