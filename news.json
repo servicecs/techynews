@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T23:46:57.435464+00:00",
+  "updated": "2026-08-24T01:24:54.886117+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -94,20 +94,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Пожарот во борова шума кај Црник е под контрола | Макфакс",
+      "title": "Пожарот кај делчевски Голак ставен под целосна контрола | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/19ab5370ad/pozarot-vo-borova-suma-kaj-crnik-e-pod-kontrola.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/08/screenshot-2026-08-23-193812.webp",
-      "date": "Sun, 23 Aug 2026 17:42:35 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "За 20 години вакво нешто немаме видено, пламените јазици беа високи неколку метри! | Вечер Прес",
-      "description": "",
-      "url": "https://time.mk/c/5bb1bf7141/za-20-godini-vakvo-nesto-nemame-videno-plamenite-jazici-bea-visoki-nekolku-metri.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/08/bonce.jpg",
-      "date": "Sun, 23 Aug 2026 13:30:36 +0000"
+      "url": "https://time.mk/c/b8174e4c30/pozarot-kaj-delcevski-golak-staven-pod-celosna-kontrola.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2026/08/pozhar-golak.png",
+      "date": "Sun, 23 Aug 2026 18:24:48 +0000"
     },
     {
       "category": "mkd",
@@ -117,6 +108,15 @@
       "url": "https://time.mk/c/14db026b70/vmro-dpmne-nasproti-sdsm-obvinuvanja-za-modularnite-bolnici.html",
       "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1787494615/kw0wobfzydbpzw1fxy64.jpg",
       "date": "Sun, 23 Aug 2026 14:32:57 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "За 20 години вакво нешто немаме видено, пламените јазици беа високи неколку метри! | Вечер Прес",
+      "description": "",
+      "url": "https://time.mk/c/5bb1bf7141/za-20-godini-vakvo-nesto-nemame-videno-plamenite-jazici-bea-visoki-nekolku-metri.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/08/bonce.jpg",
+      "date": "Sun, 23 Aug 2026 13:30:36 +0000"
     },
     {
       "category": "mkd",
