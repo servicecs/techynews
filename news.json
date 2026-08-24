@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T14:44:40.970126+00:00",
+  "updated": "2026-08-24T15:41:30.296626+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -94,18 +94,18 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Скопје под чад од пожарот на Китка, гори и во Сарај — огнови се гаснат во Илинден и во Кисела Вода | Слободен Печат",
+      "title": "Скопје под чад од пожари на Китка и Сарај | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/b88f479f69/skopje-pod-cad-od-pozarot-na-kitka-gori-i-vo-saraj-ognovi-se-gasnat-vo-ilinden-i-vo-kisela-voda.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/08/pozar-skopje-scaled-e1787575506861-300x181.jpg",
-      "date": "Mon, 24 Aug 2026 12:52:51 +0000"
+      "url": "https://time.mk/c/39fd8fa955/skopje-pod-cad-od-pozari-na-kitka-i-saraj.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1787582362/mdbfb33q0dqx601kywhq.jpg",
+      "date": "Mon, 24 Aug 2026 14:56:54 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
       "title": "Филипче: Пред избори купуваат медиуми – влегува и тешката српска пропагандна артилерија | Либертас",
       "description": "",
-      "url": "https://time.mk/c/1e780cd4c7/filipce-pred-izbori-kupuvaat-mediumi-vleguva-i-teskata-srpska-propagandna-artilerija.html",
+      "url": "https://time.mk/c/a26573e93e/filipce-pred-izbori-kupuvaat-mediumi-vleguva-i-teskata-srpska-propagandna-artilerija.html",
       "image": "https://360stepeni.mk/wp-content/uploads/2026/08/VMRO-FILIPCHE-scaled.jpg",
       "date": "Mon, 24 Aug 2026 14:06:43 +0000"
     },
@@ -114,18 +114,18 @@
       "source": "Time.mk - All",
       "title": "Пратеници Албанци не му простуваат на Зеленски, бојкотирана сесијата организирана во чест на Украина | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/8cf9449da7/pratenici-albanci-ne-mu-prostuvaat-na-zelenski-bojkotirana-sesijata-organizirana-vo-cest-na-ukraina.html",
+      "url": "https://time.mk/c/897b9845ed/pratenici-albanci-ne-mu-prostuvaat-na-zelenski-bojkotirana-sesijata-organizirana-vo-cest-na-ukraina.html",
       "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/08/ukraina-300x200.jpg",
       "date": "Mon, 24 Aug 2026 13:04:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Старите ветувања неисполнети, а новите веќе се печатат | Слободен Печат",
+      "title": "Коридорот 8 ќе се гради до Ќафасан – Николоски: Бараме соодветна траса | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/15f3338e58/starite-vetuvanja-neispolneti-a-novite-veke-se-pecatat.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2025/10/signal-2025-10-19-095646_006-300x200.jpeg",
-      "date": "Mon, 24 Aug 2026 13:16:57 +0000"
+      "url": "https://time.mk/c/ba0e46499f/koridorot-8-ke-se-gradi-do-kafasan-nikoloski-barame-soodvetna-trasa.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2026/07/nikoloski123-1024x561.jpg",
+      "date": "Mon, 24 Aug 2026 15:00:55 +0000"
     },
     {
       "category": "mkd",
@@ -175,11 +175,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "АЛБАНЦИТЕ СЕ НАЈБРОЈНИ СТРАНЦИ ВО БРИТАНСКИТЕ ЗАТВОРИ Во Албанија за 3 години биле префрлени само 13 лица | +инфо",
+      "title": "Зошто сè уште се разгорува омразата меѓу Софија и Скопје! | Журнал",
       "description": "",
-      "url": "https://time.mk/c/c995018e37/albancite-se-najbrojni-stranci-vo-britanskite-zatvori-vo-albanija-za-3-godini-bile-prefrleni-samo-13-lica.html",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
-      "date": "Mon, 24 Aug 2026 14:34:45 +0000"
+      "url": "https://time.mk/c/99edaebffb/zosto-se-uste-se-razgoruva-omrazata-megju-sofija-i-skopje.html",
+      "image": "https://novamakedonija.com.mk/wp-content/uploads/2026/08/9532589-150x150.jpg",
+      "date": "Mon, 24 Aug 2026 15:38:35 +0000"
     }
   ],
   "de": [
@@ -276,6 +276,15 @@
     {
       "category": "de",
       "source": "Tarnkappe",
+      "title": "GTA VI Fake-ISO: 113 GB Download entpuppt sich als Malware-Falle",
+      "description": "GTA VI Fake-ISO mit 113 GB entpuppt sich als Malware-Falle: 99,99 Prozent sollen nur aus Datenmüll bestehen. Der Artikel GTA VI Fake-ISO: 113 GB Download entpuppt sich als Malware-Falle erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/gaming/gta-vi-fake-iso-malware-falle-332956.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/gta-vi-fake-iso-malware-falle",
+      "date": "Mon, 24 Aug 2026 15:06:33 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
       "title": "E-Book-Piratin gestoppt: BREIN pfändet Haus und Mercedes",
       "description": "E-Book-Piratin gestoppt: BREIN pfändet Haus und Auto. Erst danach gibt die hartnäckige Verkäuferin illegaler E-Books auf. Der Artikel E-Book-Piratin gestoppt: BREIN pfändet Haus und Mercedes erschien zuerst auf TARNKAPPE.INFO",
       "url": "https://tarnkappe.info/artikel/e-books/e-book-piratin-gestoppt-brein-pfaendet-wohnung-mercedes-332947.html",
@@ -353,15 +362,6 @@
       "url": "https://tarnkappe.info/artikel/e-books/amazon-fuehrt-neues-drm-ein-schliesst-libby-schlupfloch-332806.html",
       "image": "https://cdn.tarnkappe.info/wpimg/amazon-fuehrt-neues-drm-ein-schliesst-libby-schlupfloch",
       "date": "Thu, 20 Aug 2026 09:30:19 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "CUII: LG Köln ließ KinoGo und Streamed sperren",
-      "description": "Die großen Internet-Anbieter müssen nun den Zugang zu den Domains der beiden Streaming-Websites KinoGo und Streamed sperren. Der Artikel CUII: LG Köln ließ KinoGo und Streamed sperren erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/rechtssachen/cuii-lg-koeln-liess-kinogo-und-streamed-sperren-332792.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/cuii-lg-koeln-liess-kinogo-und-streamed-sperren",
-      "date": "Wed, 19 Aug 2026 14:24:47 +0000"
     }
   ],
   "eng": [
