@@ -1,6 +1,105 @@
 {
-  "updated": "2026-08-25T16:09:06.415602+00:00",
+  "updated": "2026-08-25T17:06:03.859174+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Apple ги претстави M6 и M5 Ultra процесорите со фокус на вештачката интелигенција",
+      "description": "Apple денес официјално ги претстави своите најнови процесори, M6 и M5 Ultra, кои носат унапредени перформанси и хардверска оптимизација за задачи поврзани со вештачка интелигенција. Марк Гурман најави дека од компанијата планираат да го претстават М6 чипот, но дека ќе ги прескокнат M6 Pro и M6 Max верзиите, па засега неговите најави се остваруваат. Моделот […]",
+      "url": "https://smartportal.mk/novosti/kompjuteri/apple-gi-pretstavi-m6-i-m5-ultra/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Apple-M6-and-M5-Ultra-hero-260825-150x150.webp",
+      "date": "Tue, 25 Aug 2026 13:46:48 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Кога високата технологија се среќава со врвната уметност: Како „Samsung“ ги носи светските музеи во модерните дневни соби",
+      "description": "Скопје 25 август 2026 година – Со децении, изборот на телевизор значеше одлука помеѓу филмски квалитет на сликата и естетиката на домот. Кога беше исклучен, дури и најнапредниот екран едноставно изгледаше како голем црн правоаголник на ѕидот. Проширувањето на Samsung Art Store низ водечката линија на модели за 2026 година целосно ја менува оваа слика. […]",
+      "url": "https://smartportal.mk/novosti/uredi/kako-samsung-gi-nosi-svetskite-muzei-vo-modernite-dnevni-sobi/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/▲Athene-Galiciadis_-StilllebenReflection-on-longings-and-belongings-2021-displayed-on-S95H-150x150.webp",
+      "date": "Tue, 25 Aug 2026 13:31:58 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "iPhone на преклоп ќе биде првиот „возбудлив“ нов производ од Apple после повеќе години",
+      "description": "Наредниот настан кој Apple традиционално со години веќе го одржува во септември, неофицијално се очекува за 9 септември. Тоа значи дека останува уште малку до настанот кој изгледа ќе предизвика поголемо внимание од претходните неколку. Оваа година се очекуваат две новини при презентирањето на новите iPhone модели. Едната е поделбата на телефоните според класата, односно […]",
+      "url": "https://smartportal.mk/novosti/uredi/iphone-na-preklop-prv-vozbudliv-nov-proizvod-posle-poveke-godini/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/07/ubeyonroad-Po-LiCdN28M-unsplash-150x150.webp",
+      "date": "Tue, 25 Aug 2026 10:47:17 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Qualcomm повлече дел од тестовите за перформансите на новиот Snapdragon C процесор",
+      "description": "Qualcomm неочекувано побара од медиумите да ја заменат презентацијата со тестовите за перформансите за нивниот нов Snapdragon C процесор, наменет за поевтините лаптоп компјутери. Новата верзија на презентацијата ги изоставува претходно споделените податоци за енергетската ефикасност на чипот кога уредот извршува неактивни апликации или при „сурфање“ на интернет. Овој потег доаѓа речиси една недела по […]",
+      "url": "https://smartportal.mk/novosti/kompjuteri/qualcomm-povlece-del-od-testovite-za-snapdragon-c/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/06/SnapdragonCPlatformHero-150x150.webp",
+      "date": "Tue, 25 Aug 2026 09:08:32 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Новите правила на уредување на домот: Четири ентериерни стилови што го обликуваат современиот дневен престој",
+      "description": "Скопје, 25 август 2026 година – Највпечатливите ентериери не се само исполнети со убави предмети. Тие се внимателно обликувани така што мебелот, осветлувањето, материјалите и технологијата се вклопуваат во една единствена, хармонична естетика. Луѓето кои сакаат дом со внимателно дизајниран изглед сѐ почесто избираат впечатливи парчиња што имаат долготрајна вредност, а воедно оставаат простор ентериерот […]",
+      "url": "https://smartportal.mk/novosti/uredi/novite-pravila-za-ureduvanje-na-domot/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/The-Frame-Pro-2025-Lifestyle-02-150x150.webp",
+      "date": "Tue, 25 Aug 2026 08:52:22 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Meta ја пушти Pocket апликацијата за креирање и споделување игри преку вештачка интелигенција",
+      "description": "Meta официјално ја прошири достапноста на својата експериментална апликација Pocket за корисниците во САД. Станува збор за платформа базирана на вештачка интелигенција која им овозможува на корисниците да создаваат и споделуваат мали интерактивни игри, кои во рамките на апликацијата се наречени „gizmos“. Пуштањето на апликацијата доаѓа по тестирањето кое се одвиваше во Бразил минатиот месец. […]",
+      "url": "https://smartportal.mk/novosti/ai/meta-pocket-aplikacija-kreiranje-igri-preku-vi/",
+      "image": "https://smartportal.mk/wp-content/uploads/2024/10/shutterstock_2452455799-150x150.jpg",
+      "date": "Tue, 25 Aug 2026 08:38:58 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Додека спиете, вашето тело се обновува, а вашиот Galaxy Watch ви покажува колку успешно се одвива тој процес",
+      "description": "Скопје, 24 август 2026 година – Повеќето луѓе кои носат паметен часовник додека спијат наутро проверуваат една бројка: колку долго спиеле. Сепак, часовите поминати во сон содржат многу повеќе информации од едноставното времетраење, а голем дел од нив покажуваат колку е подготвено телото за денот што следува. Galaxy Watch Ultra2 и Galaxy Watch9 располагаат со […]",
+      "url": "https://smartportal.mk/novosti/uredi/dodeka-spiete-vaseto-telo-se-obnovuva-a-galaxy-watch-vi-pokazuva/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/201-lifestyle-galaxy-watch9-sleep-apnea-150x150.webp",
+      "date": "Mon, 24 Aug 2026 12:24:52 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Windows 11 ќе добие можност за контрола на користењето на обединетата меморија за графички и задачи со вештачка интелигенција",
+      "description": "Windows 11 во блиска иднина ќе добие нова опција која ќе им овозможи на корисниците рачно да управуваат со обединетата меморија наменета за графички задачи и процесите поврзани со вештачка интелигенција. Оваа опција е наменета првенствено за компјутерите кои користат обединета меморија, концепт каде една системска меморија со висок проток се споделува помеѓу централниот процесор, […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/windows-11-kontrola-na-obedinetata-memorija/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/daniel-romero-MBm5AtVdiVY-unsplash-f-150x150.webp",
+      "date": "Mon, 24 Aug 2026 11:53:29 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Exynos 2700 на Samsung би можел да ги надмине Snapdragon процесорите кај Galaxy S27 серијата",
+      "description": "Samsung наводно изразува висока доверба дека нејзиниот следен водечки чип, Exynos 2700, ќе ги надмине претстојните процесори од серијата Snapdragon 8 Elite Gen 6, во поглед на брзината и енергетската ефикасност. Според информациите, овој процесор најверојатно ќе биде вграден во Galaxy S27 и Galaxy S27+ серијата на повеќето пазари ширум светот. Иако Exynos чиповите бележат […]",
+      "url": "https://smartportal.mk/novosti/smartfoni/exynos-2700-nadminuva-snapdragon-procesori/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/boliviainteligente-s6Z3d1pRa2o-unsplash-f-150x150.webp",
+      "date": "Mon, 24 Aug 2026 10:43:18 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Што е ново во WordPress 7.1: Повеќе контрола над дизајнот и проширени опции за програмерите",
+      "description": "Објавена е верзијата 7.1 на системот за управување со содржини WordPress, која го носи кодното име „Mary Lou“ во чест на џез пијанистката Мери Лу Вилијамс. Ова издание е направено со цел да го подобри начинот на кој корисниците се движат низ системот, го контролираат дизајнот и соработуваат со други лица. Една од основните промени […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/sto-e-novo-vo-wordpress-7-1/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/07/deng-xiang-YBtAJPcvc4Y-unsplash-f-150x150.webp",
+      "date": "Mon, 24 Aug 2026 10:09:21 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Огнена линија од 10 километри кај Градско, на Китка сомнеж за сериски потпалувачи | Трн",
+      "description": "",
+      "url": "https://time.mk/c/72c6e86afe/ognena-linija-od-10-kilometri-kaj-gradsko-na-kitka-somnez-za-seriski-potpaluvaci.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/08/pozar-kitka.jpg",
+      "date": "Tue, 25 Aug 2026 16:24:50 +0000"
+    },
     {
       "category": "mkd",
       "source": "Time.mk - All",
@@ -9,15 +108,6 @@
       "url": "https://time.mk/c/c12d5f75e0/katastrofalen-pad-na-zapisani-prvacinja-vo-ucilistata.html",
       "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1787670428/qeif5qblct9vwzejm5xx.jpg",
       "date": "Tue, 25 Aug 2026 15:08:46 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ВИДЕО | Пожарникарите водат борба со огнот во Велешко, ноќеска е спасено скопското село Палиград | Слободен Печат",
-      "description": "",
-      "url": "https://time.mk/c/8c1f3dd973/video-pozarnikarite-vodat-borba-so-ognot-vo-velesko-nokeska-e-spaseno-skopskoto-selo-paligrad.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/08/pozar-ilustracija4-300x162.jpg",
-      "date": "Tue, 25 Aug 2026 14:30:47 +0000"
     },
     {
       "category": "mkd",
@@ -31,11 +121,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "“Внатрешниот“ долг на државата се доближи до 700 милиони евра | 24 Вести",
+      "title": "Лидерите на Влен делеа решенија за вработување во тетовската болница, за директорот настанот не бил партизиран | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/fabe6b0bd8/vnatresniot-dolg-na-drzavata-se-doblizi-do-700-milioni-evra.html",
-      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1787671171/io9v4c1vmywc5p8qs1gd.jpg",
-      "date": "Tue, 25 Aug 2026 15:20:54 +0000"
+      "url": "https://time.mk/c/44ff0c8ce1/liderite-na-vlen-delea-resenija-za-vrabotuvanje-vo-tetovskata-bolnica-za-direktorot-nastanot-ne-bil-partiziran.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/08/ChatGPT-Image-Aug-25-2026-05_25_52-PM.png",
+      "date": "Tue, 25 Aug 2026 15:32:47 +0000"
     },
     {
       "category": "mkd",
@@ -58,128 +148,38 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Пиперката на кантар, земјоделецот на мака | Вечер Прес",
+      "title": "“Внатрешниот“ долг на државата се доближи до 700 милиони евра | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/87c019fb16/piperkata-na-kantar-zemjodelecot-na-maka.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/08/785993196_1637909607904711_1871881781779396025_n.jpg",
-      "date": "Tue, 25 Aug 2026 13:38:40 +0000"
+      "url": "https://time.mk/c/fabe6b0bd8/vnatresniot-dolg-na-drzavata-se-doblizi-do-700-milioni-evra.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1787671171/io9v4c1vmywc5p8qs1gd.jpg",
+      "date": "Tue, 25 Aug 2026 15:20:54 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ГАСИФИКАЦИЈАТА ВЛЕГУВА ВО НОВА ФАЗА – Македонија се врзува со Грција, Србија и Вертикалниот коридор | Пари",
+      "title": "Преку 1.000 хектари со тутун, сончоглед, пченка и пиперки се столчени од градот во Долнени и околината | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/f4f6ffca94/gasifikacijata-vleguva-vo-nova-faza-makedonija-se-vrzuva-so-grcija-srbija-i-vertikalniot-koridor.html",
-      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/08/bozinovska_novagas-1024x683.jpg",
+      "url": "https://time.mk/c/f4e9bb4c92/preku-1-000-hektari-so-tutun-soncogled-pcenka-i-piperki-se-stolceni-od-gradot-vo-dolneni-i-okolinata.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/08/grad-tutun-debreste-300x245.jpg",
       "date": "Tue, 25 Aug 2026 14:46:45 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВОЗНЕМИРУВАЧКО ВИДЕО | Страшна несреќа во Србија: автомобил удри во мајка и две деца на тротоар, едното дете почина | Слободен Печат",
+      "title": "Радикална акција на Халкидики! Со булдожери на оние што нелегално ги окупираат плажите/ВИДЕО | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/5e64996eb8/voznemiruvacko-video-strasna-nesreka-vo-srbija-avtomobil-udri-vo-majka-i-dve-deca-na-trotoar-ednoto-dete-pocina.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/08/a8b293e3-7ef3-42fa-b3cd-e6b5de0d78be-e1787659356158-300x166.webp",
-      "date": "Tue, 25 Aug 2026 12:10:46 +0000"
+      "url": "https://time.mk/c/23aa473a9f/radikalna-akcija-na-halkidiki-so-buldozeri-na-onie-sto-nelegalno-gi-okupiraat-plazite-video.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/08/plaza-lezalki-pexels-vladyslav-yurevych-660535058-17717479-1.jpg",
+      "date": "Tue, 25 Aug 2026 16:32:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВИРУСОТ ОД КОЈ ПОЧИНА МИРА ФУРЛАН ПОВТОРНО СЕ ШИРИ ВО РЕГИОНОТ Во Македонија веќе се потврдени 44 случаи на западнонилска треска и петмина починаа | +инфо",
+      "title": "Активни шест пожари, гори и мешана шума кај Палиград и Вражале | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/234d69c72f/virusot-od-koj-pocina-mira-furlan-povtorno-se-siri-vo-regionot-vo-makedonija-veke-se-potvrdeni-44-slucai-na-zapadnonilska-treska-i-petmina-pocinaa.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2026/08/Mira-Furlan.jpg",
-      "date": "Tue, 25 Aug 2026 13:50:46 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Администрацијата на американскиот претседател најави воведување на најтешки санкции за Иран | 24 Вести",
-      "description": "",
-      "url": "https://time.mk/c/92a0d33ee9/administracijata-na-amerikanskiot-pretsedatel-najavi-voveduvanje-na-najteski-sankcii-za-iran.html",
-      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1787671775/xxcekmezak2xbmmmv8me.jpg",
-      "date": "Tue, 25 Aug 2026 15:30:38 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Лавров: Москва и Ватикан го зачуваа дијалогот заснован на заемна почит и доверба | Либертас",
-      "description": "",
-      "url": "https://time.mk/c/d48b8634c6/lavrov-moskva-i-vatikan-go-zacuvaa-dijalogot-zasnovan-na-zaemna-pocit-i-doverba.html",
-      "image": "https://libertas.mk/wp-content/uploads/2026/08/a-6.webp",
-      "date": "Tue, 25 Aug 2026 15:36:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Училиштето „Ристо Крле“ во Илинден реновирано и со нова опрема ќе ги пречека учениците од 1. септември | Скопје инфо",
-      "description": "",
-      "url": "https://time.mk/c/8f6ace9b56/ucilisteto-risto-krle-vo-ilinden-renovirano-i-so-nova-oprema-ke-gi-preceka-ucenicite-od-1-septemvri.html",
-      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/avgust/image-258836.jpg?itok=L2qcUiu8",
-      "date": "Tue, 25 Aug 2026 12:08:46 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Цело лето Скопје без жичница, ЈСП сè уште не нашло сервисер | Слободен Печат",
-      "description": "",
-      "url": "https://time.mk/c/48685ad262/celo-leto-skopje-bez-zicnica-jsp-se-uste-ne-naslo-serviser.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/05/M79_1454-300x200.jpg",
-      "date": "Tue, 25 Aug 2026 13:32:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "(Видео) Пожарот излезе надвор од кавадаречката депонија, ситуацијата е доста алармантна, изјави Ангелов | Макфакс",
-      "description": "",
-      "url": "https://time.mk/c/05b79fb13c/video-pozarot-izleze-nadvor-od-kavadareckata-deponija-situacijata-e-dosta-alarmantna-izjavi-angelov.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/08/stojance-angelov-pozar-2.webp",
-      "date": "Tue, 25 Aug 2026 15:22:35 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "НА СУДЕЊЕТО ЗА ПОЖАРОТ ВО „ПУЛС“, СЕ СУДРИЈА СОПСТВЕНИКОТ НА ПРОИЗВОДСТВЕНИОТ ПОГОН И ГАЗДАТА ДЕЈАН ЈОВАНОВ, ШТО ГО ПРЕНАМЕНИЛ ВО ДИСКОТЕКАТА | Сакам да кажам",
-      "description": "",
-      "url": "https://time.mk/c/84a2966911/na-sudenjeto-za-pozarot-vo-puls-se-sudrija-sopstvenikot-na-proizvodstveniot-pogon-i-gazdata-dejan-jovanov-sto-go-prenamenil-vo-diskotekata.html",
-      "image": "https://sdk.mk/wp-content/uploads/2025/03/pozar-kocani-2.jpg",
-      "date": "Tue, 25 Aug 2026 09:50:43 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "(Видео) Советниците на СДСМ во Пехчево против дата центар – побараа тргање на точката од дневен ред | Либертас",
-      "description": "",
-      "url": "https://time.mk/c/43ff250f58/video-sovetnicite-na-sdsm-vo-pehcevo-protiv-data-centar-pobaraa-trganje-na-tockata-od-dneven-red.html",
-      "image": "https://libertas.mk/wp-content/uploads/2026/05/SDSM-2.jpg",
-      "date": "Tue, 25 Aug 2026 09:38:51 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Стар мебел, гранки и трева не се за покрај контејнерите – „Охридски Комуналец“ со апел до граѓаните | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/54faa7d9fc/star-mebel-granki-i-treva-ne-se-za-pokraj-kontejnerite-ohridski-komunalec-so-apel-do-gragjanite.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/39128/conversions/komunalna-otpad-1-max.jpg",
-      "date": "Tue, 25 Aug 2026 10:40:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "МакеДокс – одржана панел-дискусија за киноприкажувачката дејност во Скопје | Екран",
-      "description": "",
-      "url": "https://time.mk/c/fca6577f47/makedoks-odrzana-panel-diskusija-za-kinoprikazuvackata-dejnost-vo-skopje.html",
-      "image": "https://ekran.mk/wp-content/uploads/2026/08/Makedox.17-Panel-Kinoto-24082026-01-696x464.jpg",
-      "date": "Tue, 25 Aug 2026 14:58:38 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "МОРАВ ДА НАУЧАМ ДА ПРАВАМ ФИЛМ ЗА ДА ЈА ДОКУМЕНТИРАМ РЕСТАВРАЦИЈАТА НА СПОМЕНИКОТ НА СЛОБОДАТА ВО КОЧАНИ, РЕЧЕ ЕЛЕНА ЧЕМЕРСКА НА ПРЕМИЕРАТА НА „РУИНИ“ НА МАКЕДОКС | Сакам да кажам",
-      "description": "",
-      "url": "https://time.mk/c/c4740794b6/morav-da-naucam-da-pravam-film-za-da-ja-dokumentiram-restavracijata-na-spomenikot-na-slobodata-vo-kocani-rece-elena-cemerska-na-premierata-na-ruini-na-makedoks.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/08/Ruini-Makedox-2026.jpg",
-      "date": "Tue, 25 Aug 2026 09:04:47 +0000"
+      "url": "https://time.mk/c/cb2145998a/aktivni-sest-pozari-gori-i-mesana-suma-kaj-paligrad-i-vrazale.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/83937/conversions/text-max.jpg",
+      "date": "Tue, 25 Aug 2026 11:34:35 +0000"
     }
   ],
   "de": [
@@ -368,6 +368,15 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "Garmin Just Launched Two New Rugged Sport Watches",
+      "description": "The Fenix 9 and Fenix 9 Pro have arrived.",
+      "url": "https://lifehacker.com/health/garmin-just-launched-the-fenix-and-fenix-9-pro-sport-watches?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M0WRY80R7983VTKBE81A0YRZ/hero-image.jpg",
+      "date": "Tue, 25 Aug 2026 16:30:10 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "The Garmin Fēnix 8 Smartwatch Is $250 Off Right Now",
       "description": "This smartwatch tracks your endurance, stamina, resistance to injury, and other workout-related performance metrics.",
       "url": "https://lifehacker.com/tech/garmin-fenix-8-smartwatch-sale-august-2026?utm_medium=RSS",
@@ -535,15 +544,6 @@
       "url": "https://lifehacker.com/tech/emergency-features-you-should-enable-on-your-android?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01M0BDAGCXA56M8AFE9TRDRV0F/hero-image.jpg",
       "date": "Fri, 21 Aug 2026 19:30:29 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "Google Will Soon Let You Tell It What Stories You Want to See in Your Discovery Feed",
-      "description": "Natural language prompts are coming to the Google app's Discovery feed.",
-      "url": "https://lifehacker.com/tech/google-news-will-soon-let-you-tell-it-what-stories-you-want-to-see?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M0JQSCTY4ZDT7HKTNB1ZSXAS/hero-image.jpg",
-      "date": "Fri, 21 Aug 2026 19:00:02 +0000"
     }
   ],
   "starwars": [
