@@ -1,59 +1,158 @@
 {
-  "updated": "2026-08-25T07:45:56.046253+00:00",
+  "updated": "2026-08-25T08:45:02.554171+00:00",
   "mkd": [
     {
       "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Meta ја пушти Pocket апликацијата за креирање и споделување игри преку вештачка интелигенција",
+      "description": "Meta официјално ја прошири достапноста на својата експериментална апликација Pocket за корисниците во САД. Станува збор за платформа базирана на вештачка интелигенција која им овозможува на корисниците да создаваат и споделуваат мали интерактивни игри, кои во рамките на апликацијата се наречени „gizmos“. Пуштањето на апликацијата доаѓа по тестирањето кое се одвиваше во Бразил минатиот месец. […]",
+      "url": "https://smartportal.mk/novosti/ai/meta-pocket-aplikacija-kreiranje-igri-preku-vi/",
+      "image": "https://smartportal.mk/wp-content/uploads/2024/10/shutterstock_2452455799-150x150.jpg",
+      "date": "Tue, 25 Aug 2026 08:38:58 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Додека спиете, вашето тело се обновува, а вашиот Galaxy Watch ви покажува колку успешно се одвива тој процес",
+      "description": "Скопје, 24 август 2026 година – Повеќето луѓе кои носат паметен часовник додека спијат наутро проверуваат една бројка: колку долго спиеле. Сепак, часовите поминати во сон содржат многу повеќе информации од едноставното времетраење, а голем дел од нив покажуваат колку е подготвено телото за денот што следува. Galaxy Watch Ultra2 и Galaxy Watch9 располагаат со […]",
+      "url": "https://smartportal.mk/novosti/uredi/dodeka-spiete-vaseto-telo-se-obnovuva-a-galaxy-watch-vi-pokazuva/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/201-lifestyle-galaxy-watch9-sleep-apnea-150x150.webp",
+      "date": "Mon, 24 Aug 2026 12:24:52 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Windows 11 ќе добие можност за контрола на користењето на обединетата меморија за графички и задачи со вештачка интелигенција",
+      "description": "Windows 11 во блиска иднина ќе добие нова опција која ќе им овозможи на корисниците рачно да управуваат со обединетата меморија наменета за графички задачи и процесите поврзани со вештачка интелигенција. Оваа опција е наменета првенствено за компјутерите кои користат обединета меморија, концепт каде една системска меморија со висок проток се споделува помеѓу централниот процесор, […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/windows-11-kontrola-na-obedinetata-memorija/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/daniel-romero-MBm5AtVdiVY-unsplash-f-150x150.webp",
+      "date": "Mon, 24 Aug 2026 11:53:29 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Exynos 2700 на Samsung би можел да ги надмине Snapdragon процесорите кај Galaxy S27 серијата",
+      "description": "Samsung наводно изразува висока доверба дека нејзиниот следен водечки чип, Exynos 2700, ќе ги надмине претстојните процесори од серијата Snapdragon 8 Elite Gen 6, во поглед на брзината и енергетската ефикасност. Според информациите, овој процесор најверојатно ќе биде вграден во Galaxy S27 и Galaxy S27+ серијата на повеќето пазари ширум светот. Иако Exynos чиповите бележат […]",
+      "url": "https://smartportal.mk/novosti/smartfoni/exynos-2700-nadminuva-snapdragon-procesori/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/boliviainteligente-s6Z3d1pRa2o-unsplash-f-150x150.webp",
+      "date": "Mon, 24 Aug 2026 10:43:18 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Што е ново во WordPress 7.1: Повеќе контрола над дизајнот и проширени опции за програмерите",
+      "description": "Објавена е верзијата 7.1 на системот за управување со содржини WordPress, која го носи кодното име „Mary Lou“ во чест на џез пијанистката Мери Лу Вилијамс. Ова издание е направено со цел да го подобри начинот на кој корисниците се движат низ системот, го контролираат дизајнот и соработуваат со други лица. Една од основните промени […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/sto-e-novo-vo-wordpress-7-1/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/07/deng-xiang-YBtAJPcvc4Y-unsplash-f-150x150.webp",
+      "date": "Mon, 24 Aug 2026 10:09:21 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "OpenAI претстави ChatGPT додаток за Messages на macOS кој може да чита и испраќа пораки",
+      "description": "Минатата недела OpenAI објави дека нивниот ChatGPT сега може да се „интегрира“ во Messages апликацијата од Apple на macOS, а со тоа да добие и целосен пристап до сите разговори на корисникот. Интеграцијата доаѓа преку додаток кој може да се најде преку „Pugins > Public“, односно делот за додатоци во ChatGPT апликацијата, по што вештачката […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/chatgpt-dodatok-za-apple-messages/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/brett-jordan-jdm0UlDkOEI-unsplash-150x150.webp",
+      "date": "Mon, 24 Aug 2026 09:26:50 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Супериорниот Hi-Fi звук на Samsung Galaxy Buds4 Pro препознаен од аудио експертите",
+      "description": "Скопје 24 август 2026 година – Компанијата Самсунг („Samsung“) денес објави дека Galaxy Buds4 Pro слушалките ја добија наградата „EISA Слушалки за во уво 2026-2027“ (EISA In-Ear Headphones 2026-2027) од Асоцијацијата за експертско оценување на слика и звук (Expert Imaging and Sound Association – EISA). Ова е првпат производ од серијата Galaxy Buds да го […]",
+      "url": "https://smartportal.mk/novosti/uredi/hi-fi-zvuk-galaxy-buds4-pro-prepoznaen-od-audio-ekspertite/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Galaxy-Buds4-Pro-EISA-Award-Image-150x150.webp",
+      "date": "Mon, 24 Aug 2026 08:44:39 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Кои професии и вештини ќе бидат најбарани во иднина? Бесплатни панел-дискусии во Семос Едукација",
+      "description": "Кои професии се бараат денес, кои вештини ќе бидат неопходни во иднина и како вештачката интелигенција веќе го менува начинот на кој учиме и работиме? На 24 и 25 август, Семос Академии организира бесплатен дводневен настан „Што е следно? Знаење. Вештини. Кариера. Иднина.“, со четири панел-дискусии и повеќе од 20 професионалци од различни индустрии. Настанот […]",
+      "url": "https://smartportal.mk/novosti/nastani/koi-profesii-i-vestini-ke-bida-najbarani-vo-idnina/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/semos-image-2-150x150.webp",
+      "date": "Fri, 21 Aug 2026 12:33:23 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Програмерите кои работат на развојот на Firefox објаснуваат зошто обидот на Alibaba за WebAudio следење е речиси неупотреблив",
+      "description": "Неодамнешните информации за користење на „WebAudio“ технологијата за дигитално идентификување (fingerprinting) од страна на платформата Alibaba предизвикаа дискусии за приватноста на корисниците. Техниката, која во еден случај предизвикала пречки при користење на Bluetooth слушалки, претставува метод за следење на активностите на корисниците низ различни веб страници. Сепак, инженерите кои работат на развојот на Firefox посочуваат […]",
+      "url": "https://smartportal.mk/novosti/veb-i-bezbednost/obid-alibaba-webaudio-sledenje-neupotrebliv/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/07/zulfugar-karimov-bLsYAO69c_s-unsplash-f-150x150.webp",
+      "date": "Fri, 21 Aug 2026 12:11:06 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Google најави нови опции за персонализација на Google Search, Discover и News",
+      "description": "Google претстави нови функции за персонализација кои ги опфаќаат платформите Search, Discover и Google News. Целта на овие промени е да им се овозможи на корисниците полесно да ги пронаоѓаат темите и изворите на информации кои најмногу ги интересираат, додека истовремено им помагаат на издавачите да изградат подиректна врска со својата публика. Една од клучните […]",
+      "url": "https://smartportal.mk/novosti/veb-i-bezbednost/google-novi-opcii-personalizacija-search-discover-i-news/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Untitled-13V_1.width-2200.format-webp-150x150.webp",
+      "date": "Fri, 21 Aug 2026 11:05:28 +0000"
+    },
+    {
+      "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВМРО-ДПМНЕ: Се гради нов Клинички центар во Скопје, над 10 здравствени објекти веќе се реконструирани | Press24",
+      "title": "АНАЛИЗА: “Внатрешниот“ долг на државата се доближи до 700 милиони евра | Мета",
       "description": "",
-      "url": "https://time.mk/c/b6dc720183/vmro-dpmne-se-gradi-nov-klinicki-centar-vo-skopje-nad-10-zdravstveni-objekti-veke-se-rekonstruirani.html",
+      "url": "https://time.mk/c/6401f767fe/analiza-vnatresniot-dolg-na-drzavata-se-doblizi-do-700-milioni-evra.html",
+      "image": "https://meta.mk/wp-content/uploads/2024/06/745c7d00-de9c-4ff7-809b-94f86ce63b42-800x450.jpg.webp",
+      "date": "Tue, 25 Aug 2026 08:22:39 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Кој обвинител му нудел спогодба на Груби, прашуваат од „Вреди’ | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/715eb8b2c4/koj-obvinitel-mu-nudel-spogodba-na-grubi-prasuvaat-od-vredi.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/02/grubi-evra.jpg",
+      "date": "Tue, 25 Aug 2026 07:56:49 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Мицкоски за „Брајтбарт“: Македонија стои зад Трамп, сакаме инвестиции и нула царини | Press24",
+      "description": "",
+      "url": "https://time.mk/c/a7def0926d/mickoski-za-brajtbart-makedonija-stoi-zad-tramp-sakame-investicii-i-nula-carini.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/66431.jpg",
+      "date": "Tue, 25 Aug 2026 08:02:45 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "НОСТАЛГИЈА ИЛИ НЕШТО ПОДЛАБОКО: Генерацијата Z масовно и` се враќа на аналогната тeхнологија | Пари",
+      "description": "",
+      "url": "https://time.mk/c/58493caad7/nostalgija-ili-nesto-podlaboko-generacijata-z-masovno-i-se-vraka-na-analognata-tehnologija.html",
+      "image": "http://pari.com.mk/wp-content/uploads/2026/08/Digitalni-kameri.jpg",
+      "date": "Tue, 25 Aug 2026 08:30:37 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Велковски: Потенцијалот на младите, дијаспората и повратниците мора да го претвориме во конкретен развој | Скопје инфо",
+      "description": "",
+      "url": "https://time.mk/c/1df10d7b28/velkovski-potencijalot-na-mladite-dijasporata-i-povratnicite-mora-da-go-pretvorime-vo-konkreten-razvoj.html",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
+      "date": "Tue, 25 Aug 2026 08:42:35 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "ВМРО-ДПМНЕ: Нови клинички болници и Клинички центар во Скопје, над 10 здравствени објекти веќе се реконструирани | Press24",
+      "description": "",
+      "url": "https://time.mk/c/f457dce9c7/vmro-dpmne-novi-klinicki-bolnici-i-klinicki-centar-vo-skopje-nad-10-zdravstveni-objekti-veke-se-rekonstruirani.html",
       "image": "http://press24.mk/wp-content/uploads/ndb-featured/66417.jpg",
       "date": "Tue, 25 Aug 2026 07:36:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Територијата не се брани само на државната граница | Нова Македонија",
+      "title": "Голема наградна игра на УНИБанка и Mastercard –“Плаќај и влези во игра”! | Пари",
       "description": "",
-      "url": "https://time.mk/c/c1205a08f7/teritorijata-ne-se-brani-samo-na-drzavnata-granica.html",
-      "image": "https://novamakedonija.com.mk/wp-content/uploads/2025/07/granicna-policija-150x150.jpg",
-      "date": "Tue, 25 Aug 2026 07:30:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Продолжува судењето за пожарот во дискотеката „Пулс“ во Кочани | Независен",
-      "description": "",
-      "url": "https://time.mk/c/e34df5b049/prodolzuva-sudenjeto-za-pozarot-vo-diskotekata-puls-vo-kocani.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/05/puls-sudenje.jpg",
-      "date": "Tue, 25 Aug 2026 06:48:47 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ВМРО-ДПМНЕ: Филипче решил модуларните болници да бидат поставени и покрај сите институционални пречки и неисполнети услови, Абази не го смета за виновен оти и самиот е инсталација на СДС | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/eb7a89b064/vmro-dpmne-filipce-resil-modularnite-bolnici-da-bidat-postaveni-i-pokraj-site-institucionalni-precki-i-neispolneti-uslovi-abazi-ne-go-smeta-za-vinoven-oti-i-samiot-e-instalacija-na-sds.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84179/conversions/text-max.jpg",
-      "date": "Tue, 25 Aug 2026 07:20:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Ја мразиме земјата, ги сакаме политичарите | Призма",
-      "description": "",
-      "url": "https://time.mk/c/3dc014b96e/ja-mrazime-zemjata-gi-sakame-politicarite.html",
-      "image": "https://prizma.mk/wp-content/uploads/2023/10/Irena-Cvetkovikj-FINAL-1-1024x1024-1-1024x1024.png",
-      "date": "Tue, 25 Aug 2026 04:50:35 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Транспарентноста на власта е услов за намалување на корупцијата, но и за зголемување на довербата кај граѓаните | Мета",
-      "description": "",
-      "url": "https://time.mk/r/NONE/12cf578e80/transparentnosta-na-vlasta-e-uslov-za-namaluvanje-na-korupcijata-no-i-za-zgolemuvanje-na-doverbata-kaj-gragjanite.html",
-      "image": "https://time.mk/r/NONE/12cf578e80/images/thumb/3519c8a66c.jpg",
-      "date": "Tue, 25 Aug 2026 06:28:48 +0000"
+      "url": "https://time.mk/c/c5dfc17ac1/golema-nagradna-igra-na-unibanka-i-mastercard-plakaj-i-vlezi-vo-igra.html",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
+      "date": "Tue, 25 Aug 2026 08:42:35 +0000"
     },
     {
       "category": "mkd",
@@ -67,119 +166,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Долгот на државата кон приватниот сектор достигна 315 милиони евра | Фактор",
+      "title": "ЦРНА ГОРА ГО ГЛЕДА ФИНИШОТ: ЕУ веќе го подготвува договорот за нејзино членство | Пари",
       "description": "",
-      "url": "https://time.mk/c/c341b7f534/dolgot-na-drzavata-kon-privatniot-sektor-dostigna-315-milioni-evra.html",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
-      "date": "Tue, 25 Aug 2026 06:56:46 +0000"
+      "url": "https://time.mk/c/7e9e1a2550/crna-gora-go-gleda-finisot-eu-veke-go-podgotvuva-dogovorot-za-nejzino-clenstvo.html",
+      "image": "http://pari.com.mk/wp-content/uploads/2021/06/crna-gora.jpg",
+      "date": "Tue, 25 Aug 2026 08:06:36 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Затвор или враќање“ е новата миграциска политика на Атина | Нова Македонија",
+      "title": "ЗАПАДНОНИЛСКАТА ТРЕСКА СЕ ШИРИ НИЗ БАЛКАНОТ Нови случаи во Хрватска и во Албанија, Македонија меѓу најпогодените | +инфо",
       "description": "",
-      "url": "https://time.mk/c/1c7b55cffe/zatvor-ili-vrakanje-e-novata-migraciska-politika-na-atina.html",
-      "image": "https://novamakedonija.com.mk/wp-content/uploads/2026/08/za-grcija-2-atina-protesti-banskoliev-24-150x150.jpg",
-      "date": "Tue, 25 Aug 2026 07:46:35 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Црна Гора очекува до крајот на годината да ги затвори сите преговарачки поглавја со ЕУ | Бизнис Вести",
-      "description": "",
-      "url": "https://time.mk/c/0f75c127e3/crna-gora-ocekuva-do-krajot-na-godinata-da-gi-zatvori-site-pregovaracki-poglavja-so-eu.html",
-      "image": "https://biznisvesti.mk/wp-content/uploads/2025/12/crnagora-300x225.jpg",
-      "date": "Tue, 25 Aug 2026 06:38:46 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Иран велат дека се „целосно подготвени“ да се спротивстават на проширените економски санкции на САД | Мета",
-      "description": "",
-      "url": "https://time.mk/c/06aaa234bb/iran-velat-deka-se-celosno-podgotveni-da-se-sprotivstavat-na-prosirenite-ekonomski-sankcii-na-sad.html",
-      "image": "https://meta.mk/wp-content/uploads/2026/08/960px-alimadanizadeh-800x450.jpg.webp",
-      "date": "Tue, 25 Aug 2026 07:38:35 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "КРИПТОТО СЕ РАЗБУДИ: Трговците со биткоини се обложуваат на брз скок на цената над 82.000 долари | Пари",
-      "description": "",
-      "url": "https://time.mk/c/d80d827f80/kriptoto-se-razbudi-trgovcite-so-bitkoini-se-oblozuvaat-na-brz-skok-na-cenata-nad-82-000-dolari.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/08/Bitcoin-2.jpg",
-      "date": "Tue, 25 Aug 2026 06:50:52 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ФОТО: До 3:30 часот во Гази Баба се прскаше против комарци – Градоначалникот со тимовите на терен | Press24",
-      "description": "",
-      "url": "https://time.mk/c/a5511537cb/foto-do-3-30-casot-vo-gazi-baba-se-prskase-protiv-komarci-gradonacalnikot-so-timovite-na-teren.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/66380.jpg",
-      "date": "Tue, 25 Aug 2026 06:12:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Без вода улиците „Јоаким Крчовски“, „Самоилова“ и „Банатска“ | Независен",
-      "description": "",
-      "url": "https://time.mk/c/1bd44a9f2e/bez-voda-ulicite-joakim-krcovski-samoilova-i-banatska.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2025/01/Voda-cesma-slavina-kapki-4-bg.jpg",
-      "date": "Tue, 25 Aug 2026 07:28:46 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Пожарот кај Студеничани се шири – Во друг пожар настрадало и гнездо од штрк | Press24",
-      "description": "",
-      "url": "https://time.mk/c/ab838fdbaa/pozarot-kaj-studenicani-se-siri-vo-drug-pozar-nastradalo-i-gnezdo-od-strk.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/66371.jpg",
-      "date": "Tue, 25 Aug 2026 06:02:55 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Утрово целосно блокиран патот Крива Паланка–Куманово поради сообраќајна несреќа | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/f233fa5810/utrovo-celosno-blokiran-patot-kriva-palanka-kumanovo-poradi-soobrakajna-nesreka.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/82600/conversions/text-max.jpg",
-      "date": "Tue, 25 Aug 2026 06:30:36 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ПО ИНЦИДЕНТ СО БРОТЧЕ ШТО УДРИ ВО КАПАЧИ НА ДАСКА БЛИСКУ ДО БРЕГОТ И ПРОТЕСТ НА ЕКОЛОШКИ АКТИВИСТИ, КАПЕТАНИЈАТА НАЈАВУВА ЗАСИЛЕНИ КОНТРОЛИ НА ОХРИДСКОТО ЕЗЕРО | Сакам да кажам",
-      "description": "",
-      "url": "https://time.mk/c/10e6338ede/po-incident-so-brotce-sto-udri-vo-kapaci-na-daska-blisku-do-bregot-i-protest-na-ekoloski-aktivisti-kapetanijata-najavuva-zasileni-kontroli-na-ohridskoto-ezero.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/08/SUP-blokada-Lagadin.jpg",
-      "date": "Tue, 25 Aug 2026 06:36:47 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Се намалува бројот на првачиња во штипските основни училишта – оваа година 27 помалку од лани | Журнал",
-      "description": "",
-      "url": "https://time.mk/c/63307b4c6f/se-namaluva-brojot-na-prvacinja-vo-stipskite-osnovni-ucilista-ovaa-godina-27-pomalku-od-lani.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2025/01/ucilnica.jpg",
-      "date": "Mon, 24 Aug 2026 17:58:35 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Каде исчезнаа кината? Во „Лабораториум“ се дискутираше за културната инфраструктура пред Скопје 2028 | Трн",
-      "description": "",
-      "url": "https://time.mk/c/2c3d4c7000/kade-isceznaa-kinata-vo-laboratorium-se-diskutirase-za-kulturnata-infrastruktura-pred-skopje-2028.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/08/nad_2120.jpg",
-      "date": "Tue, 25 Aug 2026 07:32:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Фотографски натпревар „Вики ги сака спомениците 2026“ на Википедија | Независен",
-      "description": "",
-      "url": "https://time.mk/c/8a4c3d5d96/fotografski-natprevar-viki-gi-saka-spomenicite-2026-na-vikipedija.html",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
-      "date": "Tue, 25 Aug 2026 06:20:50 +0000"
+      "url": "https://time.mk/c/23ba99ef5e/zapadnonilskata-treska-se-siri-niz-balkanot-novi-slucai-vo-hrvatska-i-vo-albanija-makedonija-megju-najpogodenite.html",
+      "image": "https://plusinfo.mk/wp-content/uploads/2026/08/zapadnonilska-treska.png",
+      "date": "Tue, 25 Aug 2026 08:16:48 +0000"
     }
   ],
   "de": [
