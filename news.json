@@ -1,96 +1,6 @@
 {
-  "updated": "2026-08-24T23:47:54.260401+00:00",
+  "updated": "2026-08-25T01:22:06.477351+00:00",
   "mkd": [
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Додека спиете, вашето тело се обновува, а вашиот Galaxy Watch ви покажува колку успешно се одвива тој процес",
-      "description": "Скопје, 24 август 2026 година – Повеќето луѓе кои носат паметен часовник додека спијат наутро проверуваат една бројка: колку долго спиеле. Сепак, часовите поминати во сон содржат многу повеќе информации од едноставното времетраење, а голем дел од нив покажуваат колку е подготвено телото за денот што следува. Galaxy Watch Ultra2 и Galaxy Watch9 располагаат со […]",
-      "url": "https://smartportal.mk/novosti/uredi/dodeka-spiete-vaseto-telo-se-obnovuva-a-galaxy-watch-vi-pokazuva/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/201-lifestyle-galaxy-watch9-sleep-apnea-150x150.webp",
-      "date": "Mon, 24 Aug 2026 12:24:52 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Windows 11 ќе добие можност за контрола на користењето на обединетата меморија за графички и задачи со вештачка интелигенција",
-      "description": "Windows 11 во блиска иднина ќе добие нова опција која ќе им овозможи на корисниците рачно да управуваат со обединетата меморија наменета за графички задачи и процесите поврзани со вештачка интелигенција. Оваа опција е наменета првенствено за компјутерите кои користат обединета меморија, концепт каде една системска меморија со висок проток се споделува помеѓу централниот процесор, […]",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/windows-11-kontrola-na-obedinetata-memorija/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/daniel-romero-MBm5AtVdiVY-unsplash-f-150x150.webp",
-      "date": "Mon, 24 Aug 2026 11:53:29 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Exynos 2700 на Samsung би можел да ги надмине Snapdragon процесорите кај Galaxy S27 серијата",
-      "description": "Samsung наводно изразува висока доверба дека нејзиниот следен водечки чип, Exynos 2700, ќе ги надмине претстојните процесори од серијата Snapdragon 8 Elite Gen 6, во поглед на брзината и енергетската ефикасност. Според информациите, овој процесор најверојатно ќе биде вграден во Galaxy S27 и Galaxy S27+ серијата на повеќето пазари ширум светот. Иако Exynos чиповите бележат […]",
-      "url": "https://smartportal.mk/novosti/smartfoni/exynos-2700-nadminuva-snapdragon-procesori/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/boliviainteligente-s6Z3d1pRa2o-unsplash-f-150x150.webp",
-      "date": "Mon, 24 Aug 2026 10:43:18 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Што е ново во WordPress 7.1: Повеќе контрола над дизајнот и проширени опции за програмерите",
-      "description": "Објавена е верзијата 7.1 на системот за управување со содржини WordPress, која го носи кодното име „Mary Lou“ во чест на џез пијанистката Мери Лу Вилијамс. Ова издание е направено со цел да го подобри начинот на кој корисниците се движат низ системот, го контролираат дизајнот и соработуваат со други лица. Една од основните промени […]",
-      "url": "https://smartportal.mk/novosti/softver-prog/sto-e-novo-vo-wordpress-7-1/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/07/deng-xiang-YBtAJPcvc4Y-unsplash-f-150x150.webp",
-      "date": "Mon, 24 Aug 2026 10:09:21 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "OpenAI претстави ChatGPT додаток за Messages на macOS кој може да чита и испраќа пораки",
-      "description": "Минатата недела OpenAI објави дека нивниот ChatGPT сега може да се „интегрира“ во Messages апликацијата од Apple на macOS, а со тоа да добие и целосен пристап до сите разговори на корисникот. Интеграцијата доаѓа преку додаток кој може да се најде преку „Pugins > Public“, односно делот за додатоци во ChatGPT апликацијата, по што вештачката […]",
-      "url": "https://smartportal.mk/novosti/softver-prog/chatgpt-dodatok-za-apple-messages/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/brett-jordan-jdm0UlDkOEI-unsplash-150x150.webp",
-      "date": "Mon, 24 Aug 2026 09:26:50 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Супериорниот Hi-Fi звук на Samsung Galaxy Buds4 Pro препознаен од аудио експертите",
-      "description": "Скопје 24 август 2026 година – Компанијата Самсунг („Samsung“) денес објави дека Galaxy Buds4 Pro слушалките ја добија наградата „EISA Слушалки за во уво 2026-2027“ (EISA In-Ear Headphones 2026-2027) од Асоцијацијата за експертско оценување на слика и звук (Expert Imaging and Sound Association – EISA). Ова е првпат производ од серијата Galaxy Buds да го […]",
-      "url": "https://smartportal.mk/novosti/uredi/hi-fi-zvuk-galaxy-buds4-pro-prepoznaen-od-audio-ekspertite/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Galaxy-Buds4-Pro-EISA-Award-Image-150x150.webp",
-      "date": "Mon, 24 Aug 2026 08:44:39 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Кои професии и вештини ќе бидат најбарани во иднина? Бесплатни панел-дискусии во Семос Едукација",
-      "description": "Кои професии се бараат денес, кои вештини ќе бидат неопходни во иднина и како вештачката интелигенција веќе го менува начинот на кој учиме и работиме? На 24 и 25 август, Семос Академии организира бесплатен дводневен настан „Што е следно? Знаење. Вештини. Кариера. Иднина.“, со четири панел-дискусии и повеќе од 20 професионалци од различни индустрии. Настанот […]",
-      "url": "https://smartportal.mk/novosti/nastani/koi-profesii-i-vestini-ke-bida-najbarani-vo-idnina/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/semos-image-2-150x150.webp",
-      "date": "Fri, 21 Aug 2026 12:33:23 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Програмерите кои работат на развојот на Firefox објаснуваат зошто обидот на Alibaba за WebAudio следење е речиси неупотреблив",
-      "description": "Неодамнешните информации за користење на „WebAudio“ технологијата за дигитално идентификување (fingerprinting) од страна на платформата Alibaba предизвикаа дискусии за приватноста на корисниците. Техниката, која во еден случај предизвикала пречки при користење на Bluetooth слушалки, претставува метод за следење на активностите на корисниците низ различни веб страници. Сепак, инженерите кои работат на развојот на Firefox посочуваат […]",
-      "url": "https://smartportal.mk/novosti/veb-i-bezbednost/obid-alibaba-webaudio-sledenje-neupotrebliv/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/07/zulfugar-karimov-bLsYAO69c_s-unsplash-f-150x150.webp",
-      "date": "Fri, 21 Aug 2026 12:11:06 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Google најави нови опции за персонализација на Google Search, Discover и News",
-      "description": "Google претстави нови функции за персонализација кои ги опфаќаат платформите Search, Discover и Google News. Целта на овие промени е да им се овозможи на корисниците полесно да ги пронаоѓаат темите и изворите на информации кои најмногу ги интересираат, додека истовремено им помагаат на издавачите да изградат подиректна врска со својата публика. Една од клучните […]",
-      "url": "https://smartportal.mk/novosti/veb-i-bezbednost/google-novi-opcii-personalizacija-search-discover-i-news/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Untitled-13V_1.width-2200.format-webp-150x150.webp",
-      "date": "Fri, 21 Aug 2026 11:05:28 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Звукот на тишината: Како потивките машини за перење го менуваат доживувањето на перењето алишта",
-      "description": "Скопје, 21 август 2026 година – Перењето не треба да ви го прекинува денот. Откријте како Самсунг („Samsung“) машините за перење, создадени со фокус на тивко работење, им помагаат на домаќинствата ширум Европа конечно да уживаат во мирот. Постои еден момент што повеќето од нас добро го познаваат. Конечно сте успеале да го успиете бебето, […]",
-      "url": "https://smartportal.mk/novosti/uredi/potivki-masini-za-perenje-samsung/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Samsung-Digital-Appliances-AI-150x150.webp",
-      "date": "Fri, 21 Aug 2026 10:47:40 +0000"
-    },
     {
       "category": "mkd",
       "source": "Time.mk - All",
@@ -120,12 +30,12 @@
     },
     {
       "category": "mkd",
-      "source": "Time.mk - Magazin",
-      "title": "Интервју со Драган Даниловски: Дел од заболените и починатите од западнонилска треска се заразиле во Македонија | Фокус",
+      "source": "Time.mk - All",
+      "title": "Аларм за цел свет: Океаните вријат и го интензивираат Ел Нињо – измерени рекордни максимуми во август, може да дојде до катастрофа | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/c3043a4389/intervju-so-dragan-danilovski-del-od-zabolenite-i-pocinatite-od-zapadnonilska-treska-se-zarazile-vo-makedonija.html",
-      "image": "https://fokus.mk/wp-content/uploads/2025/07/Dragan-Danilovski.jpg",
-      "date": "Mon, 24 Aug 2026 18:06:35 +0000"
+      "url": "https://time.mk/c/a375e4b527/alarm-za-cel-svet-okeanite-vrijat-i-go-intenziviraat-el-ninjo-izmereni-rekordni-maksimumi-vo-avgust-moze-da-dojde-do-katastrofa.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/08/toplo-opsto-7.jpg",
+      "date": "Mon, 24 Aug 2026 20:36:49 +0000"
     },
     {
       "category": "mkd",
@@ -139,20 +49,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВИДЕО | Невреме со град го столчи тутунот во Прилепско, најмногу настрадаа посевите околу Дебреште | Слободен Печат",
+      "title": "Силно невреме во Дебреште: Град со големина на орев ги уништи земјоделските насади | 4NEWS",
       "description": "",
-      "url": "https://time.mk/c/6c93156e80/video-nevreme-so-grad-go-stolci-tutunot-vo-prilepsko-najmnogu-nastradaa-posevite-okolu-debreste.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/08/grad-tutun-debreste-300x245.jpg",
-      "date": "Mon, 24 Aug 2026 17:46:40 +0000"
+      "url": "https://time.mk/c/465bf31f38/silno-nevreme-vo-debreste-grad-so-golemina-na-orev-gi-unisti-zemjodelskite-nasadi.html",
+      "image": "https://4news.mk/wp-content/uploads/2026/08/screenshot_6-7-1024x660.avif",
+      "date": "Mon, 24 Aug 2026 19:54:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Експертите очекуваат ново поскапување на храната – Македонија нема да биде изолирана | Журнал",
+      "title": "ПЧЕНИЦАТА ПОД ТРОЕН ПРИТИСОК – Војна, суша и скапи ѓубрива ја креваат цената на храната | Пари",
       "description": "",
-      "url": "https://time.mk/c/d3f2399987/ekspertite-ocekuvaat-novo-poskapuvanje-na-hranata-makedonija-nema-da-bide-izolirana.html",
+      "url": "https://time.mk/c/1d51a8bb6c/pcenicata-pod-troen-pritisok-vojna-susa-i-skapi-gjubriva-ja-krevaat-cenata-na-hranata.html",
       "image": "http://pari.com.mk/wp-content/uploads/2022/04/hrana-660x403-1.jpg",
-      "date": "Mon, 24 Aug 2026 17:58:35 +0000"
+      "date": "Mon, 24 Aug 2026 11:42:47 +0000"
     },
     {
       "category": "mkd",
@@ -180,6 +90,96 @@
       "url": "https://time.mk/c/9f97d11b20/sekoj-petti-rabotnik-vo-ovaa-evropska-zemja-zarabotuva-pomalku-od-1-000-evra.html",
       "image": "https://faktor.mk/media/main/2026/08/20260824210546.jpg",
       "date": "Mon, 24 Aug 2026 19:06:35 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Велика Британија ѝ дава на Украина тајна ракетна технологија, Кремљ е бесен: „Доливаат масло на огнот“ | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/ad9386c594/velika-britanija-i-dava-na-ukraina-tajna-raketna-tehnologija-kremlj-e-besen-dolivaat-maslo-na-ognot.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/08/depositphotos_45317895_xl.webp",
+      "date": "Mon, 24 Aug 2026 18:12:49 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Вашингтон го зголемува притисокот, Техеран возвраќа – Иран ѝ порача на Америка: „Новиот план ќе заврши со неуспех“ | Вечер Прес",
+      "description": "",
+      "url": "https://time.mk/c/efe40403c5/vasington-go-zgolemuva-pritisokot-teheran-vozvraka-iran-i-poraca-na-amerika-noviot-plan-ke-zavrsi-so-neuspeh.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/08/iran-3.jpg",
+      "date": "Mon, 24 Aug 2026 20:58:34 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Куртули од казна бутелчанецот кој во Скопје Север започна да гради на диво – навреме ја запрел „операцијата“ | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/cfdc238b0c/kurtuli-od-kazna-butelcanecot-koj-vo-skopje-sever-zapocna-da-gradi-na-divo-navreme-ja-zaprel-operacijata.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/08/bandera-butel1-e1787573967756-300x180.jpg",
+      "date": "Mon, 24 Aug 2026 12:24:50 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Средните училишта во Скопје добиваат современи лаборатории, паметен пластеник и метеоролошка станица | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/aa155ba4a3/srednite-ucilista-vo-skopje-dobivaat-sovremeni-laboratorii-pameten-plastenik-i-meteoroloska-stanica.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84286/conversions/text-max.jpg",
+      "date": "Mon, 24 Aug 2026 14:02:37 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "(Видео) Пожарот кај Бојане ставен под контрола, тетовските пожарникари спречија ширење кон лозјата | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/a18de0b6cd/video-pozarot-kaj-bojane-staven-pod-kontrola-tetovskite-pozarnikari-sprecija-sirenje-kon-lozjata.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84288/conversions/text-max.jpg",
+      "date": "Mon, 24 Aug 2026 16:12:47 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Приведен скопјанец кој со остар предмет се заканувал кон лице од Охрид | Охрид1",
+      "description": "",
+      "url": "https://time.mk/c/cce10404ee/priveden-skopjanec-koj-so-ostar-predmet-se-zakanuval-kon-lice-od-ohrid.html",
+      "image": "https://ohrid1.com/wp-content/uploads/2026/07/Ohrid-7-750x460.jpeg",
+      "date": "Mon, 24 Aug 2026 21:51:24 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Во штипските основни и средни училишта новата учебна година ќе ја почнат 5.569 ученици | Независен",
+      "description": "",
+      "url": "https://time.mk/c/59d1b0c74b/vo-stipskite-osnovni-i-sredni-ucilista-novata-ucebna-godina-ke-ja-pocnat-5-569-ucenici.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2025/01/ucilnica.jpg",
+      "date": "Mon, 24 Aug 2026 11:14:49 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Преспа формира прекугранична заштита за спас на шумите и езерото | Трн",
+      "description": "",
+      "url": "https://time.mk/c/df5ca83a5a/prespa-formira-prekugranicna-zastita-za-spas-na-sumite-i-ezeroto.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/08/mojot-del-od-prirodata-poster-mk.jpg",
+      "date": "Mon, 24 Aug 2026 17:32:59 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "„Добри луѓе“ на Манчевски имаше македонска премиера на 17.МакеДокс | Кајгана",
+      "description": "",
+      "url": "https://time.mk/c/846131a844/dobri-lugje-na-mancevski-imase-makedonska-premiera-na-17-makedoks.html",
+      "image": "https://kajgana.com/sites/default/files/styles/article_image_xxl/public/2026-08/Makedox.17 Manchevski Dobri lugje 23082026 01.jpg?itok=Y_bk52rQ",
+      "date": "Mon, 24 Aug 2026 18:46:40 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "На денешен ден е роден Тихомир Јанчовски – поетот што пишуваше за животот, смртта и човекот меѓу нив | Скопје инфо",
+      "description": "",
+      "url": "https://time.mk/c/5136fa803a/na-denesen-den-e-roden-tihomir-jancovski-poetot-sto-pisuvase-za-zivotot-smrtta-i-covekot-megju-niv.html",
+      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/avgust/image-258762.jpeg?itok=5jRoJztW",
+      "date": "Mon, 24 Aug 2026 14:50:38 +0000"
     }
   ],
   "de": [
