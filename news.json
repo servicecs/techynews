@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-25T17:06:03.859174+00:00",
+  "updated": "2026-08-25T17:56:55.643495+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Apple ја претстави наредната генерација од Mac mini со M6 и M5 Pro процесорите",
+      "description": "Apple денеска ја најави новата генерација на Mac mini, која доаѓа со најновите M6 и M5 Pro процесори. Новите компјутери го задржуваат својот карактеристичен „ултракомпактен“ дизајн, но нудат значително поголема процесорска и графичка моќ, со посебен фокус на извршувањето на задачи поврзани со вештачка интелигенција. Компанијата истакнува дека основниот модел овозможува до четири пати побрзи […]",
+      "url": "https://smartportal.mk/novosti/kompjuteri/apple-mac-mini-m6-m5-pro/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Apple-Mac-mini-hero-260825-150x150.webp",
+      "date": "Tue, 25 Aug 2026 17:44:51 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -84,19 +93,10 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Што е ново во WordPress 7.1: Повеќе контрола над дизајнот и проширени опции за програмерите",
-      "description": "Објавена е верзијата 7.1 на системот за управување со содржини WordPress, која го носи кодното име „Mary Lou“ во чест на џез пијанистката Мери Лу Вилијамс. Ова издание е направено со цел да го подобри начинот на кој корисниците се движат низ системот, го контролираат дизајнот и соработуваат со други лица. Една од основните промени […]",
-      "url": "https://smartportal.mk/novosti/softver-prog/sto-e-novo-vo-wordpress-7-1/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/07/deng-xiang-YBtAJPcvc4Y-unsplash-f-150x150.webp",
-      "date": "Mon, 24 Aug 2026 10:09:21 +0000"
-    },
-    {
-      "category": "mkd",
       "source": "Time.mk - All",
       "title": "Огнена линија од 10 километри кај Градско, на Китка сомнеж за сериски потпалувачи | Трн",
       "description": "",
-      "url": "https://time.mk/c/72c6e86afe/ognena-linija-od-10-kilometri-kaj-gradsko-na-kitka-somnez-za-seriski-potpaluvaci.html",
+      "url": "https://time.mk/c/31f48aec2b/ognena-linija-od-10-kilometri-kaj-gradsko-na-kitka-somnez-za-seriski-potpaluvaci.html",
       "image": "https://trn.mk/wp-content/uploads/2026/08/pozar-kitka.jpg",
       "date": "Tue, 25 Aug 2026 16:24:50 +0000"
     },
@@ -112,20 +112,29 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "СДСМ: Има ли некој што Мицкоски не го излажа – на сите пензионери им украде пари | Скопје1",
+      "title": "Шест нови случаи на западнонилска треска за еден ден – вкупниот број се искачи на 50 | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/0072d7e66d/sdsm-ima-li-nekoj-sto-mickoski-ne-go-izlaza-na-site-penzioneri-im-ukrade-pari.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/45678/conversions/sdsm-zgrada-1-366121-max.jpg",
-      "date": "Tue, 25 Aug 2026 14:38:38 +0000"
+      "url": "https://time.mk/c/16d9d6752b/sest-novi-slucai-na-zapadnonilska-treska-za-eden-den-vkupniot-broj-se-iskaci-na-50.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2024/08/20200910-tigrestiot-komarec-e-odomakjen-klasichnoto-prskanje-ne-go-unishtuva-veli-prof-d-r-jovana-stefanovska-1.jpg",
+      "date": "Tue, 25 Aug 2026 17:22:46 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
       "title": "Лидерите на Влен делеа решенија за вработување во тетовската болница, за директорот настанот не бил партизиран | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/44ff0c8ce1/liderite-na-vlen-delea-resenija-za-vrabotuvanje-vo-tetovskata-bolnica-za-direktorot-nastanot-ne-bil-partiziran.html",
+      "url": "https://time.mk/c/65e6ad4959/liderite-na-vlen-delea-resenija-za-vrabotuvanje-vo-tetovskata-bolnica-za-direktorot-nastanot-ne-bil-partiziran.html",
       "image": "https://360stepeni.mk/wp-content/uploads/2026/08/ChatGPT-Image-Aug-25-2026-05_25_52-PM.png",
       "date": "Tue, 25 Aug 2026 15:32:47 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Пренџов: Следниот обвинител на ОЈО ГОКК да го преиспита случајот што Абази го затвори, 14 луѓе загинаа, не може никој да не е виновен | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/8260056c71/prendzov-sledniot-obvinitel-na-ojo-gokk-da-go-preispita-slucajot-sto-abazi-go-zatvori-14-lugje-zaginaa-ne-moze-nikoj-da-ne-e-vinoven.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84322/conversions/text-max.jpg",
+      "date": "Tue, 25 Aug 2026 17:16:49 +0000"
     },
     {
       "category": "mkd",
@@ -135,15 +144,6 @@
       "url": "https://time.mk/c/7a264bde42/data-centarot-vo-pehcevo-e-sopren-dpmne-neka-ne-se-obiduva-povtorno-da-go-protne-i-da-gi-laze-gragjanite-velat-od-levica.html",
       "image": "https://makfax.com.mk/wp-content/uploads/2026/08/depositphotos_163607140_s.webp",
       "date": "Tue, 25 Aug 2026 11:10:36 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "СДСМ обвинува за намерно предизвикување меѓуетнички тензии, власта возвраќа за безидејност на опозицијата | 24 Вести",
-      "description": "",
-      "url": "https://time.mk/c/e4b8f45e0f/sdsm-obvinuva-za-namerno-predizvikuvanje-megjuetnicki-tenzii-vlasta-vozvraka-za-bezidejnost-na-opozicijata.html",
-      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1787669575/o0ftaespdkmncolqwgkq.jpg",
-      "date": "Tue, 25 Aug 2026 14:54:36 +0000"
     },
     {
       "category": "mkd",
@@ -368,6 +368,24 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "10 Shows Like 'Modern Family' You Should Watch Next",
+      "description": "Modern families for every mood.",
+      "url": "https://lifehacker.com/entertainment/best-shows-like-modern-family?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M0WK9KM3GG98SMCS8HER5X2H/hero-image.jpg",
+      "date": "Tue, 25 Aug 2026 17:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Apple Just Made Its First Product Announcements of the Season",
+      "description": "Apple just announced a new Mac mini and Mac Studio.",
+      "url": "https://lifehacker.com/tech/apple-announces-new-mac-mini-and-mac-studio-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M0WTHR2EV4418E9G7S0HHPK1/hero-image.jpg",
+      "date": "Tue, 25 Aug 2026 17:00:12 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "Garmin Just Launched Two New Rugged Sport Watches",
       "description": "The Fenix 9 and Fenix 9 Pro have arrived.",
       "url": "https://lifehacker.com/health/garmin-just-launched-the-fenix-and-fenix-9-pro-sport-watches?utm_medium=RSS",
@@ -526,24 +544,6 @@
       "url": "https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png",
       "date": "Fri, 21 Aug 2026 21:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "10 Hacks Every Facebook Marketplace Buyer and Seller Should Know",
-      "description": "How to get the most out of the algorithm, avoid the hassles, and score major bargains.",
-      "url": "https://lifehacker.com/tech/hacks-for-facebook-marketplace-users?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M0GC7823K9AQ1CPFAHZT037C/hero-image.jpg",
-      "date": "Fri, 21 Aug 2026 20:00:51 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "Seven Emergency Features You Should Enable on Your Google Pixel",
-      "description": "A little bit of preparation goes a long way in a crisis.",
-      "url": "https://lifehacker.com/tech/emergency-features-you-should-enable-on-your-android?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M0BDAGCXA56M8AFE9TRDRV0F/hero-image.jpg",
-      "date": "Fri, 21 Aug 2026 19:30:29 +0000"
     }
   ],
   "starwars": [
@@ -732,6 +732,15 @@
     {
       "category": "youtube",
       "source": "Hood Informatik",
+      "title": "Aliexpress trackt dich über Audio Berechnungen... #sound #tracking#code#news#informatik #security",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/GYNdziCFS10",
+      "image": "https://i.ytimg.com/vi/GYNdziCFS10/hqdefault.jpg",
+      "date": "2026-08-25T17:19:04+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
       "title": "Die wundervolle Pyramide des Schmerzes 😂😂😂 auf deutsch nochmal viel wilder",
       "description": "",
       "url": "https://www.youtube.com/shorts/YpkZK7RxcFU",
@@ -809,15 +818,6 @@
       "url": "https://www.youtube.com/shorts/P9bfdmMjy7w",
       "image": "https://i.ytimg.com/vi/P9bfdmMjy7w/hqdefault.jpg",
       "date": "2026-08-15T11:52:13+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Einfach mal den Spieß umdrehen und Lazarus APTs bei sich bewerben lassen...",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/_bHm3DF6V3Y",
-      "image": "https://i.ytimg.com/vi/_bHm3DF6V3Y/hqdefault.jpg",
-      "date": "2026-08-14T10:00:05+00:00"
     },
     {
       "category": "youtube",
