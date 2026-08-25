@@ -1,96 +1,6 @@
 {
-  "updated": "2026-08-25T15:21:56.592489+00:00",
+  "updated": "2026-08-25T16:09:06.415602+00:00",
   "mkd": [
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Apple ги претстави M6 и M5 Ultra процесорите со фокус на вештачката интелигенција",
-      "description": "Apple денес официјално ги претстави своите најнови процесори, M6 и M5 Ultra, кои носат унапредени перформанси и хардверска оптимизација за задачи поврзани со вештачка интелигенција. Марк Гурман најави дека од компанијата планираат да го претстават М6 чипот, но дека ќе ги прескокнат M6 Pro и M6 Max верзиите, па засега неговите најави се остваруваат. Моделот […]",
-      "url": "https://smartportal.mk/novosti/kompjuteri/apple-gi-pretstavi-m6-i-m5-ultra/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Apple-M6-and-M5-Ultra-hero-260825-150x150.webp",
-      "date": "Tue, 25 Aug 2026 13:46:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Кога високата технологија се среќава со врвната уметност: Како „Samsung“ ги носи светските музеи во модерните дневни соби",
-      "description": "Скопје 25 август 2026 година – Со децении, изборот на телевизор значеше одлука помеѓу филмски квалитет на сликата и естетиката на домот. Кога беше исклучен, дури и најнапредниот екран едноставно изгледаше како голем црн правоаголник на ѕидот. Проширувањето на Samsung Art Store низ водечката линија на модели за 2026 година целосно ја менува оваа слика. […]",
-      "url": "https://smartportal.mk/novosti/uredi/kako-samsung-gi-nosi-svetskite-muzei-vo-modernite-dnevni-sobi/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/▲Athene-Galiciadis_-StilllebenReflection-on-longings-and-belongings-2021-displayed-on-S95H-150x150.webp",
-      "date": "Tue, 25 Aug 2026 13:31:58 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "iPhone на преклоп ќе биде првиот „возбудлив“ нов производ од Apple после повеќе години",
-      "description": "Наредниот настан кој Apple традиционално со години веќе го одржува во септември, неофицијално се очекува за 9 септември. Тоа значи дека останува уште малку до настанот кој изгледа ќе предизвика поголемо внимание од претходните неколку. Оваа година се очекуваат две новини при презентирањето на новите iPhone модели. Едната е поделбата на телефоните според класата, односно […]",
-      "url": "https://smartportal.mk/novosti/uredi/iphone-na-preklop-prv-vozbudliv-nov-proizvod-posle-poveke-godini/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/07/ubeyonroad-Po-LiCdN28M-unsplash-150x150.webp",
-      "date": "Tue, 25 Aug 2026 10:47:17 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Qualcomm повлече дел од тестовите за перформансите на новиот Snapdragon C процесор",
-      "description": "Qualcomm неочекувано побара од медиумите да ја заменат презентацијата со тестовите за перформансите за нивниот нов Snapdragon C процесор, наменет за поевтините лаптоп компјутери. Новата верзија на презентацијата ги изоставува претходно споделените податоци за енергетската ефикасност на чипот кога уредот извршува неактивни апликации или при „сурфање“ на интернет. Овој потег доаѓа речиси една недела по […]",
-      "url": "https://smartportal.mk/novosti/kompjuteri/qualcomm-povlece-del-od-testovite-za-snapdragon-c/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/06/SnapdragonCPlatformHero-150x150.webp",
-      "date": "Tue, 25 Aug 2026 09:08:32 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Новите правила на уредување на домот: Четири ентериерни стилови што го обликуваат современиот дневен престој",
-      "description": "Скопје, 25 август 2026 година – Највпечатливите ентериери не се само исполнети со убави предмети. Тие се внимателно обликувани така што мебелот, осветлувањето, материјалите и технологијата се вклопуваат во една единствена, хармонична естетика. Луѓето кои сакаат дом со внимателно дизајниран изглед сѐ почесто избираат впечатливи парчиња што имаат долготрајна вредност, а воедно оставаат простор ентериерот […]",
-      "url": "https://smartportal.mk/novosti/uredi/novite-pravila-za-ureduvanje-na-domot/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/The-Frame-Pro-2025-Lifestyle-02-150x150.webp",
-      "date": "Tue, 25 Aug 2026 08:52:22 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Meta ја пушти Pocket апликацијата за креирање и споделување игри преку вештачка интелигенција",
-      "description": "Meta официјално ја прошири достапноста на својата експериментална апликација Pocket за корисниците во САД. Станува збор за платформа базирана на вештачка интелигенција која им овозможува на корисниците да создаваат и споделуваат мали интерактивни игри, кои во рамките на апликацијата се наречени „gizmos“. Пуштањето на апликацијата доаѓа по тестирањето кое се одвиваше во Бразил минатиот месец. […]",
-      "url": "https://smartportal.mk/novosti/ai/meta-pocket-aplikacija-kreiranje-igri-preku-vi/",
-      "image": "https://smartportal.mk/wp-content/uploads/2024/10/shutterstock_2452455799-150x150.jpg",
-      "date": "Tue, 25 Aug 2026 08:38:58 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Додека спиете, вашето тело се обновува, а вашиот Galaxy Watch ви покажува колку успешно се одвива тој процес",
-      "description": "Скопје, 24 август 2026 година – Повеќето луѓе кои носат паметен часовник додека спијат наутро проверуваат една бројка: колку долго спиеле. Сепак, часовите поминати во сон содржат многу повеќе информации од едноставното времетраење, а голем дел од нив покажуваат колку е подготвено телото за денот што следува. Galaxy Watch Ultra2 и Galaxy Watch9 располагаат со […]",
-      "url": "https://smartportal.mk/novosti/uredi/dodeka-spiete-vaseto-telo-se-obnovuva-a-galaxy-watch-vi-pokazuva/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/201-lifestyle-galaxy-watch9-sleep-apnea-150x150.webp",
-      "date": "Mon, 24 Aug 2026 12:24:52 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Windows 11 ќе добие можност за контрола на користењето на обединетата меморија за графички и задачи со вештачка интелигенција",
-      "description": "Windows 11 во блиска иднина ќе добие нова опција која ќе им овозможи на корисниците рачно да управуваат со обединетата меморија наменета за графички задачи и процесите поврзани со вештачка интелигенција. Оваа опција е наменета првенствено за компјутерите кои користат обединета меморија, концепт каде една системска меморија со висок проток се споделува помеѓу централниот процесор, […]",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/windows-11-kontrola-na-obedinetata-memorija/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/daniel-romero-MBm5AtVdiVY-unsplash-f-150x150.webp",
-      "date": "Mon, 24 Aug 2026 11:53:29 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Exynos 2700 на Samsung би можел да ги надмине Snapdragon процесорите кај Galaxy S27 серијата",
-      "description": "Samsung наводно изразува висока доверба дека нејзиниот следен водечки чип, Exynos 2700, ќе ги надмине претстојните процесори од серијата Snapdragon 8 Elite Gen 6, во поглед на брзината и енергетската ефикасност. Според информациите, овој процесор најверојатно ќе биде вграден во Galaxy S27 и Galaxy S27+ серијата на повеќето пазари ширум светот. Иако Exynos чиповите бележат […]",
-      "url": "https://smartportal.mk/novosti/smartfoni/exynos-2700-nadminuva-snapdragon-procesori/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/boliviainteligente-s6Z3d1pRa2o-unsplash-f-150x150.webp",
-      "date": "Mon, 24 Aug 2026 10:43:18 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Што е ново во WordPress 7.1: Повеќе контрола над дизајнот и проширени опции за програмерите",
-      "description": "Објавена е верзијата 7.1 на системот за управување со содржини WordPress, која го носи кодното име „Mary Lou“ во чест на џез пијанистката Мери Лу Вилијамс. Ова издание е направено со цел да го подобри начинот на кој корисниците се движат низ системот, го контролираат дизајнот и соработуваат со други лица. Една од основните промени […]",
-      "url": "https://smartportal.mk/novosti/softver-prog/sto-e-novo-vo-wordpress-7-1/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/07/deng-xiang-YBtAJPcvc4Y-unsplash-f-150x150.webp",
-      "date": "Mon, 24 Aug 2026 10:09:21 +0000"
-    },
     {
       "category": "mkd",
       "source": "Time.mk - All",
@@ -105,7 +15,7 @@
       "source": "Time.mk - All",
       "title": "ВИДЕО | Пожарникарите водат борба со огнот во Велешко, ноќеска е спасено скопското село Палиград | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/fe155d3d21/video-pozarnikarite-vodat-borba-so-ognot-vo-velesko-nokeska-e-spaseno-skopskoto-selo-paligrad.html",
+      "url": "https://time.mk/c/8c1f3dd973/video-pozarnikarite-vodat-borba-so-ognot-vo-velesko-nokeska-e-spaseno-skopskoto-selo-paligrad.html",
       "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/08/pozar-ilustracija4-300x162.jpg",
       "date": "Tue, 25 Aug 2026 14:30:47 +0000"
     },
@@ -130,20 +40,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "СДСМ обвинува за намерно предизвикување меѓуетнички тензии, власта возвраќа за безидејност на опозицијата | 24 Вести",
-      "description": "",
-      "url": "https://time.mk/c/e4b8f45e0f/sdsm-obvinuva-za-namerno-predizvikuvanje-megjuetnicki-tenzii-vlasta-vozvraka-za-bezidejnost-na-opozicijata.html",
-      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1787669575/o0ftaespdkmncolqwgkq.jpg",
-      "date": "Tue, 25 Aug 2026 14:54:36 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
       "title": "Дата-центарот во Пехчево е сопрен, ДПМНЕ нека не се обидува повторно да го протне и да ги лаже граѓаните, велат од Левица | Макфакс",
       "description": "",
       "url": "https://time.mk/c/7a264bde42/data-centarot-vo-pehcevo-e-sopren-dpmne-neka-ne-se-obiduva-povtorno-da-go-protne-i-da-gi-laze-gragjanite-velat-od-levica.html",
       "image": "https://makfax.com.mk/wp-content/uploads/2026/08/depositphotos_163607140_s.webp",
       "date": "Tue, 25 Aug 2026 11:10:36 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "СДСМ обвинува за намерно предизвикување меѓуетнички тензии, власта возвраќа за безидејност на опозицијата | 24 Вести",
+      "description": "",
+      "url": "https://time.mk/c/e4b8f45e0f/sdsm-obvinuva-za-namerno-predizvikuvanje-megjuetnicki-tenzii-vlasta-vozvraka-za-bezidejnost-na-opozicijata.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1787669575/o0ftaespdkmncolqwgkq.jpg",
+      "date": "Tue, 25 Aug 2026 14:54:36 +0000"
     },
     {
       "category": "mkd",
@@ -180,6 +90,96 @@
       "url": "https://time.mk/c/234d69c72f/virusot-od-koj-pocina-mira-furlan-povtorno-se-siri-vo-regionot-vo-makedonija-veke-se-potvrdeni-44-slucai-na-zapadnonilska-treska-i-petmina-pocinaa.html",
       "image": "https://plusinfo.mk/wp-content/uploads/2026/08/Mira-Furlan.jpg",
       "date": "Tue, 25 Aug 2026 13:50:46 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Администрацијата на американскиот претседател најави воведување на најтешки санкции за Иран | 24 Вести",
+      "description": "",
+      "url": "https://time.mk/c/92a0d33ee9/administracijata-na-amerikanskiot-pretsedatel-najavi-voveduvanje-na-najteski-sankcii-za-iran.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1787671775/xxcekmezak2xbmmmv8me.jpg",
+      "date": "Tue, 25 Aug 2026 15:30:38 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Лавров: Москва и Ватикан го зачуваа дијалогот заснован на заемна почит и доверба | Либертас",
+      "description": "",
+      "url": "https://time.mk/c/d48b8634c6/lavrov-moskva-i-vatikan-go-zacuvaa-dijalogot-zasnovan-na-zaemna-pocit-i-doverba.html",
+      "image": "https://libertas.mk/wp-content/uploads/2026/08/a-6.webp",
+      "date": "Tue, 25 Aug 2026 15:36:48 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Училиштето „Ристо Крле“ во Илинден реновирано и со нова опрема ќе ги пречека учениците од 1. септември | Скопје инфо",
+      "description": "",
+      "url": "https://time.mk/c/8f6ace9b56/ucilisteto-risto-krle-vo-ilinden-renovirano-i-so-nova-oprema-ke-gi-preceka-ucenicite-od-1-septemvri.html",
+      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/avgust/image-258836.jpg?itok=L2qcUiu8",
+      "date": "Tue, 25 Aug 2026 12:08:46 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Цело лето Скопје без жичница, ЈСП сè уште не нашло сервисер | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/48685ad262/celo-leto-skopje-bez-zicnica-jsp-se-uste-ne-naslo-serviser.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/05/M79_1454-300x200.jpg",
+      "date": "Tue, 25 Aug 2026 13:32:49 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "(Видео) Пожарот излезе надвор од кавадаречката депонија, ситуацијата е доста алармантна, изјави Ангелов | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/05b79fb13c/video-pozarot-izleze-nadvor-od-kavadareckata-deponija-situacijata-e-dosta-alarmantna-izjavi-angelov.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/08/stojance-angelov-pozar-2.webp",
+      "date": "Tue, 25 Aug 2026 15:22:35 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "НА СУДЕЊЕТО ЗА ПОЖАРОТ ВО „ПУЛС“, СЕ СУДРИЈА СОПСТВЕНИКОТ НА ПРОИЗВОДСТВЕНИОТ ПОГОН И ГАЗДАТА ДЕЈАН ЈОВАНОВ, ШТО ГО ПРЕНАМЕНИЛ ВО ДИСКОТЕКАТА | Сакам да кажам",
+      "description": "",
+      "url": "https://time.mk/c/84a2966911/na-sudenjeto-za-pozarot-vo-puls-se-sudrija-sopstvenikot-na-proizvodstveniot-pogon-i-gazdata-dejan-jovanov-sto-go-prenamenil-vo-diskotekata.html",
+      "image": "https://sdk.mk/wp-content/uploads/2025/03/pozar-kocani-2.jpg",
+      "date": "Tue, 25 Aug 2026 09:50:43 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "(Видео) Советниците на СДСМ во Пехчево против дата центар – побараа тргање на точката од дневен ред | Либертас",
+      "description": "",
+      "url": "https://time.mk/c/43ff250f58/video-sovetnicite-na-sdsm-vo-pehcevo-protiv-data-centar-pobaraa-trganje-na-tockata-od-dneven-red.html",
+      "image": "https://libertas.mk/wp-content/uploads/2026/05/SDSM-2.jpg",
+      "date": "Tue, 25 Aug 2026 09:38:51 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Стар мебел, гранки и трева не се за покрај контејнерите – „Охридски Комуналец“ со апел до граѓаните | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/54faa7d9fc/star-mebel-granki-i-treva-ne-se-za-pokraj-kontejnerite-ohridski-komunalec-so-apel-do-gragjanite.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/39128/conversions/komunalna-otpad-1-max.jpg",
+      "date": "Tue, 25 Aug 2026 10:40:48 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "МакеДокс – одржана панел-дискусија за киноприкажувачката дејност во Скопје | Екран",
+      "description": "",
+      "url": "https://time.mk/c/fca6577f47/makedoks-odrzana-panel-diskusija-za-kinoprikazuvackata-dejnost-vo-skopje.html",
+      "image": "https://ekran.mk/wp-content/uploads/2026/08/Makedox.17-Panel-Kinoto-24082026-01-696x464.jpg",
+      "date": "Tue, 25 Aug 2026 14:58:38 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "МОРАВ ДА НАУЧАМ ДА ПРАВАМ ФИЛМ ЗА ДА ЈА ДОКУМЕНТИРАМ РЕСТАВРАЦИЈАТА НА СПОМЕНИКОТ НА СЛОБОДАТА ВО КОЧАНИ, РЕЧЕ ЕЛЕНА ЧЕМЕРСКА НА ПРЕМИЕРАТА НА „РУИНИ“ НА МАКЕДОКС | Сакам да кажам",
+      "description": "",
+      "url": "https://time.mk/c/c4740794b6/morav-da-naucam-da-pravam-film-za-da-ja-dokumentiram-restavracijata-na-spomenikot-na-slobodata-vo-kocani-rece-elena-cemerska-na-premierata-na-ruini-na-makedoks.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/08/Ruini-Makedox-2026.jpg",
+      "date": "Tue, 25 Aug 2026 09:04:47 +0000"
     }
   ],
   "de": [
@@ -368,6 +368,15 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "The Garmin Fēnix 8 Smartwatch Is $250 Off Right Now",
+      "description": "This smartwatch tracks your endurance, stamina, resistance to injury, and other workout-related performance metrics.",
+      "url": "https://lifehacker.com/tech/garmin-fenix-8-smartwatch-sale-august-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M0TN7WRKRTW6J0TYFDHYM1JK/hero-image.jpg",
+      "date": "Tue, 25 Aug 2026 14:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "This 250W Anker Charging Station Is 37% Off Right Now",
       "description": "This six-port charging hub can power everything on your desk from a single outlet.",
       "url": "https://lifehacker.com/tech/250w-anker-prime-desktop-charging-station-sale-august-2026?utm_medium=RSS",
@@ -535,15 +544,6 @@
       "url": "https://lifehacker.com/tech/google-news-will-soon-let-you-tell-it-what-stories-you-want-to-see?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01M0JQSCTY4ZDT7HKTNB1ZSXAS/hero-image.jpg",
       "date": "Fri, 21 Aug 2026 19:00:02 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "The Best Tech Deals From Best Buy's 60th Anniversary Sale",
-      "description": "Find deals on TVs, laptops, tablets, headphones, and more.",
-      "url": "https://lifehacker.com/tech/best-tech-deals-from-the-best-buy-60th-anniversary-sale?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M08PDVXFV4T67WE2DBBVT9AT/hero-image.jpg",
-      "date": "Fri, 21 Aug 2026 17:30:46 +0000"
     }
   ],
   "starwars": [
@@ -595,6 +595,15 @@
     {
       "category": "starwars",
       "source": "Star Wars News Net",
+      "title": "Top Key Platforms for Star Wars Zero Company Ranked by Price, Speed, and Safety",
+      "description": "Two days. That’s the gap between now and the strangest Star Wars release EA has greenlit in years. Star Wars The post Top Key Platforms for Star Wars Zero Company Ranked by Price, Speed, and Safety appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/08/183846.html",
+      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/05/Star-Wars-Zero-Company.png",
+      "date": "Tue, 25 Aug 2026 13:10:21 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
       "title": "Review – ‘The High Republic Adventures: Pathfinders’ #4 Reveals the Mastermind Behind the Murder Mystery",
       "description": "The murder mystery in George Mann’s The High Republic Adventures: Pathfinders has seemingly revealed its chief suspect. Of course, as The post Review – ‘The High Republic Adventures: Pathfinders’ #4 Reveals the Mastermind Behind the Murder Mystery appeared first on Star Wars News Net .",
       "url": "https://www.starwarsnewsnet.com/2026/08/review-the-high-republic-adventures-pathfinders-4-reveals-the-mastermind-behind-the-murder-mystery.html",
@@ -618,15 +627,6 @@
       "url": "https://www.starwarsnewsnet.com/2026/08/droids-the-unsung-heroes-of-star-wars.html",
       "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2015/08/ralph-mcquarrie-C3P0-and-R2D2.jpg",
       "date": "Tue, 25 Aug 2026 09:07:00 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars News Net",
-      "title": "Dexter Jettster – ‘Star Wars’ Character Spotlight",
-      "description": "Affable Besalisk Dexter Jettster is getting a Star Wars Character Spotlight this week. Debuting in Attack of the Clones as The post Dexter Jettster – ‘Star Wars’ Character Spotlight appeared first on Star Wars News Net .",
-      "url": "https://www.starwarsnewsnet.com/2026/08/dexter-jettster-star-wars-character-spotlight.html",
-      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2022/06/databank_dexterjettster_01_169_09c89b71.jpeg",
-      "date": "Fri, 21 Aug 2026 15:00:08 +0000"
     },
     {
       "category": "starwars",
