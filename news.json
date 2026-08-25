@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T22:29:38.002654+00:00",
+  "updated": "2026-08-25T22:58:16.766506+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -96,7 +96,7 @@
       "source": "Time.mk - All",
       "title": "Огнена линија од 10 километри кај Градско, на Китка сомнеж за сериски потпалувачи | Трн",
       "description": "",
-      "url": "https://time.mk/c/1ed119e139/ognena-linija-od-10-kilometri-kaj-gradsko-na-kitka-somnez-za-seriski-potpaluvaci.html",
+      "url": "https://time.mk/c/a1dc01ae0b/ognena-linija-od-10-kilometri-kaj-gradsko-na-kitka-somnez-za-seriski-potpaluvaci.html",
       "image": "https://trn.mk/wp-content/uploads/2026/08/pozar-kitka.jpg",
       "date": "Tue, 25 Aug 2026 16:24:50 +0000"
     },
@@ -368,6 +368,15 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "10 Hacks Every Apple Wallet User Should Know",
+      "description": "Get the most out of your Wallet.",
+      "url": "https://lifehacker.com/tech/10-hacks-every-apple-wallet-user-should-know?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M0TC8DWKKR23JR7NT13HMFJP/hero-image.jpg",
+      "date": "Tue, 25 Aug 2026 22:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "10 Hacks Every iOS 27 User Should Know",
       "description": "These 10 hacks are essential for anyone upgrading to iOS 27.",
       "url": "https://lifehacker.com/tech/10-hacks-every-ios-27-user-should-know?utm_medium=RSS",
@@ -535,15 +544,6 @@
       "url": "https://lifehacker.com/tech/what-is-android-pulse-app?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01M0TFY5SHD55JZ5YAMZCXS0Z1/hero-image.jpg",
       "date": "Mon, 24 Aug 2026 19:00:22 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "This Four-Pack of Apple's 2nd Generation AirTags Is Just $80 Right Now",
-      "description": "Apple’s second-generation AirTag has a larger Precision Finding range, a 50% louder speaker, and Apple Watch support.",
-      "url": "https://lifehacker.com/tech/apple-airtag-four-pack-deal-august-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01KYS5NZMBFBZJYXD7P6WVXRFH/hero-image.png",
-      "date": "Mon, 24 Aug 2026 18:30:00 +0000"
     }
   ],
   "starwars": [
