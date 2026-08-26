@@ -1,6 +1,96 @@
 {
-  "updated": "2026-08-26T02:48:58.700057+00:00",
+  "updated": "2026-08-26T03:55:03.915771+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Apple го претстави новиот Mac Studio со M5 Max и M5 Ultra процесорите",
+      "description": "Apple официјално ја најави новата генерација на Mac Studio, кој доаѓа со M5 Max и новиот M5 Ultra. Овие чипови се дизајнирани да понудат зголемена процесорска и графичка моќ, со посебен фокус врз извршувањето задачи поврзани со вештачка интелигенција директно на самиот уред, продолжувајќи го угледот на Mac Studio за еден од најдобрите компјутери за […]",
+      "url": "https://smartportal.mk/novosti/kompjuteri/apple-mac-studio-m5-max-m5-ultra/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Apple-Mac-Studio-hero-260825-150x150.webp",
+      "date": "Tue, 25 Aug 2026 18:11:11 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Apple ја претстави наредната генерација од Mac mini со M6 и M5 Pro процесорите",
+      "description": "Apple денеска ја најави новата генерација на Mac mini, која доаѓа со најновите M6 и M5 Pro процесори. Новите компјутери го задржуваат својот карактеристичен „ултракомпактен“ дизајн, но нудат значително поголема процесорска и графичка моќ, со посебен фокус на извршувањето на задачи поврзани со вештачка интелигенција. Компанијата истакнува дека основниот модел овозможува до четири пати побрзи […]",
+      "url": "https://smartportal.mk/novosti/kompjuteri/apple-mac-mini-m6-m5-pro/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Apple-Mac-mini-hero-260825-150x150.webp",
+      "date": "Tue, 25 Aug 2026 17:44:51 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Apple ги претстави M6 и M5 Ultra процесорите со фокус на вештачката интелигенција",
+      "description": "Apple денес официјално ги претстави своите најнови процесори, M6 и M5 Ultra, кои носат унапредени перформанси и хардверска оптимизација за задачи поврзани со вештачка интелигенција. Марк Гурман најави дека од компанијата планираат да го претстават М6 чипот, но дека ќе ги прескокнат M6 Pro и M6 Max верзиите, па засега неговите најави се остваруваат. Моделот […]",
+      "url": "https://smartportal.mk/novosti/kompjuteri/apple-gi-pretstavi-m6-i-m5-ultra/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Apple-M6-and-M5-Ultra-hero-260825-150x150.webp",
+      "date": "Tue, 25 Aug 2026 13:46:48 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Кога високата технологија се среќава со врвната уметност: Како „Samsung“ ги носи светските музеи во модерните дневни соби",
+      "description": "Скопје 25 август 2026 година – Со децении, изборот на телевизор значеше одлука помеѓу филмски квалитет на сликата и естетиката на домот. Кога беше исклучен, дури и најнапредниот екран едноставно изгледаше како голем црн правоаголник на ѕидот. Проширувањето на Samsung Art Store низ водечката линија на модели за 2026 година целосно ја менува оваа слика. […]",
+      "url": "https://smartportal.mk/novosti/uredi/kako-samsung-gi-nosi-svetskite-muzei-vo-modernite-dnevni-sobi/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/▲Athene-Galiciadis_-StilllebenReflection-on-longings-and-belongings-2021-displayed-on-S95H-150x150.webp",
+      "date": "Tue, 25 Aug 2026 13:31:58 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "iPhone на преклоп ќе биде првиот „возбудлив“ нов производ од Apple после повеќе години",
+      "description": "Наредниот настан кој Apple традиционално со години веќе го одржува во септември, неофицијално се очекува за 9 септември. Тоа значи дека останува уште малку до настанот кој изгледа ќе предизвика поголемо внимание од претходните неколку. Оваа година се очекуваат две новини при презентирањето на новите iPhone модели. Едната е поделбата на телефоните според класата, односно […]",
+      "url": "https://smartportal.mk/novosti/uredi/iphone-na-preklop-prv-vozbudliv-nov-proizvod-posle-poveke-godini/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/07/ubeyonroad-Po-LiCdN28M-unsplash-150x150.webp",
+      "date": "Tue, 25 Aug 2026 10:47:17 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Qualcomm повлече дел од тестовите за перформансите на новиот Snapdragon C процесор",
+      "description": "Qualcomm неочекувано побара од медиумите да ја заменат презентацијата со тестовите за перформансите за нивниот нов Snapdragon C процесор, наменет за поевтините лаптоп компјутери. Новата верзија на презентацијата ги изоставува претходно споделените податоци за енергетската ефикасност на чипот кога уредот извршува неактивни апликации или при „сурфање“ на интернет. Овој потег доаѓа речиси една недела по […]",
+      "url": "https://smartportal.mk/novosti/kompjuteri/qualcomm-povlece-del-od-testovite-za-snapdragon-c/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/06/SnapdragonCPlatformHero-150x150.webp",
+      "date": "Tue, 25 Aug 2026 09:08:32 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Новите правила на уредување на домот: Четири ентериерни стилови што го обликуваат современиот дневен престој",
+      "description": "Скопје, 25 август 2026 година – Највпечатливите ентериери не се само исполнети со убави предмети. Тие се внимателно обликувани така што мебелот, осветлувањето, материјалите и технологијата се вклопуваат во една единствена, хармонична естетика. Луѓето кои сакаат дом со внимателно дизајниран изглед сѐ почесто избираат впечатливи парчиња што имаат долготрајна вредност, а воедно оставаат простор ентериерот […]",
+      "url": "https://smartportal.mk/novosti/uredi/novite-pravila-za-ureduvanje-na-domot/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/The-Frame-Pro-2025-Lifestyle-02-150x150.webp",
+      "date": "Tue, 25 Aug 2026 08:52:22 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Meta ја пушти Pocket апликацијата за креирање и споделување игри преку вештачка интелигенција",
+      "description": "Meta официјално ја прошири достапноста на својата експериментална апликација Pocket за корисниците во САД. Станува збор за платформа базирана на вештачка интелигенција која им овозможува на корисниците да создаваат и споделуваат мали интерактивни игри, кои во рамките на апликацијата се наречени „gizmos“. Пуштањето на апликацијата доаѓа по тестирањето кое се одвиваше во Бразил минатиот месец. […]",
+      "url": "https://smartportal.mk/novosti/ai/meta-pocket-aplikacija-kreiranje-igri-preku-vi/",
+      "image": "https://smartportal.mk/wp-content/uploads/2024/10/shutterstock_2452455799-150x150.jpg",
+      "date": "Tue, 25 Aug 2026 08:38:58 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Додека спиете, вашето тело се обновува, а вашиот Galaxy Watch ви покажува колку успешно се одвива тој процес",
+      "description": "Скопје, 24 август 2026 година – Повеќето луѓе кои носат паметен часовник додека спијат наутро проверуваат една бројка: колку долго спиеле. Сепак, часовите поминати во сон содржат многу повеќе информации од едноставното времетраење, а голем дел од нив покажуваат колку е подготвено телото за денот што следува. Galaxy Watch Ultra2 и Galaxy Watch9 располагаат со […]",
+      "url": "https://smartportal.mk/novosti/uredi/dodeka-spiete-vaseto-telo-se-obnovuva-a-galaxy-watch-vi-pokazuva/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/201-lifestyle-galaxy-watch9-sleep-apnea-150x150.webp",
+      "date": "Mon, 24 Aug 2026 12:24:52 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Windows 11 ќе добие можност за контрола на користењето на обединетата меморија за графички и задачи со вештачка интелигенција",
+      "description": "Windows 11 во блиска иднина ќе добие нова опција која ќе им овозможи на корисниците рачно да управуваат со обединетата меморија наменета за графички задачи и процесите поврзани со вештачка интелигенција. Оваа опција е наменета првенствено за компјутерите кои користат обединета меморија, концепт каде една системска меморија со висок проток се споделува помеѓу централниот процесор, […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/windows-11-kontrola-na-obedinetata-memorija/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/daniel-romero-MBm5AtVdiVY-unsplash-f-150x150.webp",
+      "date": "Mon, 24 Aug 2026 11:53:29 +0000"
+    },
     {
       "category": "mkd",
       "source": "Time.mk - All",
@@ -90,96 +180,6 @@
       "url": "https://time.mk/c/8cae07a929/pozari-i-natamu-besneat-vo-pet-opstini-vo-crna-gora.html",
       "image": "https://libertas.mk/wp-content/uploads/2026/08/20260825203257_big_730x400_89.webp",
       "date": "Tue, 25 Aug 2026 19:34:34 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Ратклиф, шефот на ЦИА е важниот патник на американскиот воен авион што слета во Москва | ТВ21",
-      "description": "",
-      "url": "https://time.mk/c/cd0afaa556/ratklif-sefot-na-cia-e-vazniot-patnik-na-amerikanskiot-voen-avion-sto-sleta-vo-moskva.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2026/08/Screenshot_7-5-1024x574.jpg",
-      "date": "Tue, 25 Aug 2026 19:14:41 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "„Волстрит џурнал“: Трамп ги игнорирал предупредувањата пред одлуката за напад врз Иран | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/1bbb4454b3/volstrit-dzurnal-tramp-gi-ignoriral-predupreduvanjata-pred-odlukata-za-napad-vrz-iran.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/71112/conversions/tramp-max.jpg",
-      "date": "Tue, 25 Aug 2026 17:00:50 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Училиштето „Ристо Крле“ во Илинден реновирано и со нова опрема ќе ги пречека учениците од 1. септември | Скопје инфо",
-      "description": "",
-      "url": "https://time.mk/c/8f6ace9b56/ucilisteto-risto-krle-vo-ilinden-renovirano-i-so-nova-oprema-ke-gi-preceka-ucenicite-od-1-septemvri.html",
-      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/avgust/image-258836.jpg?itok=L2qcUiu8",
-      "date": "Tue, 25 Aug 2026 12:08:46 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Нови смарт-табли во ООУ „Блаже Конески“ за целосно современа настава | Независен",
-      "description": "",
-      "url": "https://time.mk/c/8e7067ec70/novi-smart-tabli-vo-oou-blaze-koneski-za-celosno-sovremena-nastava.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/08/smart-tabli.jpg",
-      "date": "Tue, 25 Aug 2026 10:42:44 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Приведени скопјанец и битолчанец во Охрид поради физичка пресметка | Охрид1",
-      "description": "",
-      "url": "https://time.mk/c/fb7d54f798/privedeni-skopjanec-i-bitolcanec-vo-ohrid-poradi-fizicka-presmetka.html",
-      "image": "https://ohrid1.com/wp-content/uploads/2022/01/svr-ohrid.jpg",
-      "date": "Tue, 25 Aug 2026 21:26:35 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "НА СУДЕЊЕТО ЗА ПОЖАРОТ ВО „ПУЛС“, СЕ СУДРИЈА СОПСТВЕНИКОТ НА ПРОИЗВОДСТВЕНИОТ ПОГОН И ГАЗДАТА ДЕЈАН ЈОВАНОВ, ШТО ГО ПРЕНАМЕНИЛ ВО ДИСКОТЕКАТА | Сакам да кажам",
-      "description": "",
-      "url": "https://time.mk/c/84a2966911/na-sudenjeto-za-pozarot-vo-puls-se-sudrija-sopstvenikot-na-proizvodstveniot-pogon-i-gazdata-dejan-jovanov-sto-go-prenamenil-vo-diskotekata.html",
-      "image": "https://sdk.mk/wp-content/uploads/2025/03/pozar-kocani-2.jpg",
-      "date": "Tue, 25 Aug 2026 09:50:43 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ОПШТИНА ПРОБИШТИП ПОЧНА СО ОДБЕЛЕЖУВАЊЕ НА ДЕНОТ НА РУДАРИТЕ, настапи на Мелани Тарчуловска, Madonna Tribute Band, Саша Ковачевиќ и DJ DUFF… | Економија и Бизнис",
-      "description": "",
-      "url": "https://time.mk/c/26ec34f7c7/opstina-probistip-pocna-so-odbelezuvanje-na-denot-na-rudarite-nastapi-na-melani-tarculovska-madonna-tribute-band-sasa-kovacevik-i-dj-duff.html",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
-      "date": "Tue, 25 Aug 2026 18:32:46 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "(Видео) Советниците на СДСМ во Пехчево против дата центар – побараа тргање на точката од дневен ред | Либертас",
-      "description": "",
-      "url": "https://time.mk/c/43ff250f58/video-sovetnicite-na-sdsm-vo-pehcevo-protiv-data-centar-pobaraa-trganje-na-tockata-od-dneven-red.html",
-      "image": "https://libertas.mk/wp-content/uploads/2026/05/SDSM-2.jpg",
-      "date": "Tue, 25 Aug 2026 09:38:51 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Ова се десетте филмови со најголема заработка досега годинава | Слободен Печат",
-      "description": "",
-      "url": "https://time.mk/c/cecd09256d/ova-se-desette-filmovi-so-najgolema-zarabotka-dosega-godinava.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/07/Met-Dejmon-i-Zendaja-300x185.jpg",
-      "date": "Tue, 25 Aug 2026 20:32:51 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "МОРАВ ДА НАУЧАМ ДА ПРАВАМ ФИЛМ ЗА ДА ЈА ДОКУМЕНТИРАМ РЕСТАВРАЦИЈАТА НА СПОМЕНИКОТ НА СЛОБОДАТА ВО КОЧАНИ, РЕЧЕ ЕЛЕНА ЧЕМЕРСКА НА ПРЕМИЕРАТА НА „РУИНИ“ НА МАКЕДОКС | Сакам да кажам",
-      "description": "",
-      "url": "https://time.mk/c/ea3737968a/morav-da-naucam-da-pravam-film-za-da-ja-dokumentiram-restavracijata-na-spomenikot-na-slobodata-vo-kocani-rece-elena-cemerska-na-premierata-na-ruini-na-makedoks.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/08/Ruini-Makedox-2026.jpg",
-      "date": "Tue, 25 Aug 2026 09:04:47 +0000"
     }
   ],
   "de": [
