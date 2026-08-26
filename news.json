@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-26T09:44:08.348251+00:00",
+  "updated": "2026-08-26T10:37:22.188080+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Instagram ја претстави опцијата „First Draft“ за полесно уредување на Reels видеата",
+      "description": "Instagram објави дека воведува нова алатка наречена „First Draft“, дизајнирана значително да го олесни и забрза процесот на уредување на Reels видеа. Компанијата ја најави оваа новина преку објава на Threads, истакнувајќи дека нејзината главна цел е да го реши еден од најдосадните делови од видео продукцијата. Опцијата автоматски ги анализира избраните видео „клипови“, ги […]",
+      "url": "https://smartportal.mk/novosti/socijalni-mrezi/instagram-first-draft/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/03/brett-jordan-fmqhTMu4IVU-unsplash-150x150.webp",
+      "date": "Wed, 26 Aug 2026 10:05:32 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -84,30 +93,39 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Новите правила на уредување на домот: Четири ентериерни стилови што го обликуваат современиот дневен престој",
-      "description": "Скопје, 25 август 2026 година – Највпечатливите ентериери не се само исполнети со убави предмети. Тие се внимателно обликувани така што мебелот, осветлувањето, материјалите и технологијата се вклопуваат во една единствена, хармонична естетика. Луѓето кои сакаат дом со внимателно дизајниран изглед сѐ почесто избираат впечатливи парчиња што имаат долготрајна вредност, а воедно оставаат простор ентериерот […]",
-      "url": "https://smartportal.mk/novosti/uredi/novite-pravila-za-ureduvanje-na-domot/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/The-Frame-Pro-2025-Lifestyle-02-150x150.webp",
-      "date": "Tue, 25 Aug 2026 08:52:22 +0000"
-    },
-    {
-      "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Се гради автопатот Скопје – Блаце: На 10,5 км ќе има 5 тунели и 8 моста | Независен",
+      "title": "Се гради автопатот Скопје – Блаце: На 10,5 км ќе има 5 тунели и 8 моста (во живо) | Независен",
       "description": "",
-      "url": "https://time.mk/c/e333fc1214/se-gradi-avtopatot-skopje-blace-na-10-5-km-ke-ima-5-tuneli-i-8-mosta.html",
+      "url": "https://time.mk/c/196f883da1/se-gradi-avtopatot-skopje-blace-na-10-5-km-ke-ima-5-tuneli-i-8-mosta-vo-zivo.html",
       "image": "https://nezavisen.mk/wp-content/uploads/2026/07/pat-skopje-blace-2.jpg",
       "date": "Wed, 26 Aug 2026 09:40:51 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Гасот ја засени нафтата, станува главен ризик за инфлацијата во Европа | Bloomberg Adria",
+      "title": "Апелација ја потврди ослободителната пресуда за Груевски во ,,Талир 2″, ВМРО-ДПМНЕ си ја врати тапијата за ,,Белата палата” | Фокус",
       "description": "",
-      "url": "https://time.mk/c/127ca99303/gasot-ja-zaseni-naftata-stanuva-glaven-rizik-za-inflacijata-vo-evropa.html",
-      "image": "https://mk.bloombergadria.com/data/images/2026-08-26/114896_gas-evropa-1_f.jpg?timestamp=1787695200",
-      "date": "Wed, 26 Aug 2026 09:20:50 +0000"
+      "url": "https://time.mk/c/97a68c9cf4/apelacija-ja-potvrdi-osloboditelnata-presuda-za-gruevski-vo-talir-2-vmro-dpmne-si-ja-vrati-tapijata-za-belata-palata.html",
+      "image": "https://fokus.mk/wp-content/uploads/2025/07/gruevski-2-2-585x329.jpg",
+      "date": "Wed, 26 Aug 2026 10:24:47 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Познаници, роднини, симпатии бараат од деца да им пратат интимни фотографии – децата се срамат и не пријавуваат | Независен",
+      "description": "",
+      "url": "https://time.mk/c/8b05461583/poznanici-rodnini-simpatii-baraat-od-deca-da-im-pratat-intimni-fotografii-decata-se-sramat-i-ne-prijavuvaat.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/08/tech-abuse-article-feature.webp",
+      "date": "Wed, 26 Aug 2026 10:34:41 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Европа ја чека зимата со само 62% полни складишта за гас – Се враќа стравот од нов инфлациски бран | Пари",
+      "description": "",
+      "url": "https://time.mk/c/e693f28f55/evropa-ja-ceka-zimata-so-samo-62-polni-skladista-za-gas-se-vraka-stravot-od-nov-inflaciski-bran.html",
+      "image": "http://pari.com.mk/wp-content/uploads/2026/08/martin-adams-a_PDPUPuNZ8-unsplash-scaled.jpg",
+      "date": "Wed, 26 Aug 2026 10:10:37 +0000"
     },
     {
       "category": "mkd",
@@ -121,29 +139,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ФОТО: Паднатите дрва од невремето се претворија во нешто корисно – Водно доби нов моторички парк | Press24",
+      "title": "МЕЃУНАРОДЕН ДЕН НА КУЧИЊАТА: ОДНОСОТ КОН ЖИВОТНИТЕ Е ОДРАЗ НА ОПШТЕСТВОТО ШТО ГО ГРАДИМЕ | Градина",
       "description": "",
-      "url": "https://time.mk/c/f9d58deb64/foto-padnatite-drva-od-nevremeto-se-pretvorija-vo-nesto-korisno-vodno-dobi-nov-motoricki-park.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/66795.jpg",
-      "date": "Wed, 26 Aug 2026 08:38:41 +0000"
+      "url": "https://time.mk/c/e03a1d1c1a/megjunaroden-den-na-kucinjata-odnosot-kon-zivotnite-e-odraz-na-opstestvoto-sto-go-gradime.html",
+      "image": "https://gradina.mk/wp-content/uploads/2021/02/kucedvor1-150x150.png",
+      "date": "Wed, 26 Aug 2026 09:42:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Видео) Димитријевиќ: Апелација да постапи веднаш – „Талир 2“ не смее да заврши со спас на Никола Груевски | Скопје1",
+      "title": "Иловица-Штука може да покаже дека Македонија може да има и развој и заштитена животна средина | +инфо",
       "description": "",
-      "url": "https://time.mk/c/1e666be9de/video-dimitrijevik-apelacija-da-postapi-vednas-talir-2-ne-smee-da-zavrsi-so-spas-na-nikola-gruevski.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84340/conversions/text-max.jpg",
-      "date": "Wed, 26 Aug 2026 09:10:41 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Ново рочиште за „Онкологија“ – Тројца лекари пред Кривичен | Press24",
-      "description": "",
-      "url": "https://time.mk/c/801a7947ff/novo-rociste-za-onkologija-trojca-lekari-pred-krivicen.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/66770.jpg",
-      "date": "Wed, 26 Aug 2026 08:04:49 +0000"
+      "url": "https://time.mk/c/fd9d84333e/ilovica-stuka-moze-da-pokaze-deka-makedonija-moze-da-ima-i-razvoj-i-zastitena-zivotna-sredina.html",
+      "image": "https://plusinfo.mk/wp-content/uploads/2026/06/viktor-grozdanov-Kolumna.jpeg",
+      "date": "Wed, 26 Aug 2026 10:02:36 +0000"
     },
     {
       "category": "mkd",
@@ -157,29 +166,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Над 220 милиони евра годишно од пензискиот фонд одат за здравствено осигурување | Економија и Бизнис",
+      "title": "Ако патувате кон Грција овој викенд, подгответе се за гужви на Богородица | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/3503739620/nad-220-milioni-evra-godisno-od-penziskiot-fond-odat-za-zdravstveno-osiguruvanje.html",
-      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/08/nikola_memov_3-1024x683.jpg",
-      "date": "Wed, 26 Aug 2026 09:28:47 +0000"
+      "url": "https://time.mk/c/783dbb85e0/ako-patuvate-kon-grcija-ovoj-vikend-podgotvete-se-za-guzvi-na-bogorodica.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/81869/conversions/text-max.jpg",
+      "date": "Wed, 26 Aug 2026 09:56:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„ПЕКОЛ“ НА ЕВЗОНИ ВО НАЈАВА: Пред последниот викенд од август се очекуваат два големи бранови на гужва! | Вечер Прес",
+      "title": "Халкидики е хит за странските купувачи: Еве колку чини квадрат во најбараните места | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/9676a06a6e/pekol-na-evzoni-vo-najava-pred-posledniot-vikend-od-avgust-se-ocekuvaat-dva-golemi-branovi-na-guzva.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/08/evzoni-guzva-video-2-1.png",
-      "date": "Wed, 26 Aug 2026 09:32:53 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ВИДЕО: Халкидики ги чисти плажите, отстранети над 170 трајно поставени чадори | Трн",
-      "description": "",
-      "url": "https://time.mk/c/a03ae40249/video-halkidiki-gi-cisti-plazite-otstraneti-nad-170-trajno-postaveni-cadori.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/08/lezalki-halkidiki.jpg",
-      "date": "Wed, 26 Aug 2026 08:28:49 +0000"
+      "url": "https://time.mk/c/1613afd81d/halkidiki-e-hit-za-stranskite-kupuvaci-eve-kolku-cini-kvadrat-vo-najbaranite-mesta.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2024/06/grcija.jpg",
+      "date": "Wed, 26 Aug 2026 08:20:50 +0000"
     }
   ],
   "de": [
