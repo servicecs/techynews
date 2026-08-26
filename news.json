@@ -1,6 +1,24 @@
 {
-  "updated": "2026-08-26T08:46:51.126478+00:00",
+  "updated": "2026-08-26T09:44:08.348251+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Apple се откажа од планираната промена на доменот за „Hide My Email“",
+      "description": "Apple потврди дека се откажува од планираната промена за својата функција за приватност „Hide My Email“. Компанијата претходно најави дека маскираните адреси за електронска пошта ќе бидат постепено префрлени на новиот домен @private.icloud.com. Сепак, по острите критики од јавноста и експертите, оваа одлука е повлечена, па алатката ќе продолжи да го користи стандардниот @icloud.com домен […]",
+      "url": "https://smartportal.mk/novosti/servisi/apple-se-otkaza-od-promenata-na-domenot-za-hide-my-email/",
+      "image": "https://smartportal.mk/wp-content/uploads/2024/11/shutterstock_2327822961-150x150.jpg",
+      "date": "Wed, 26 Aug 2026 09:32:21 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "X испрати барање за прекин на работата до проектот Nitter",
+      "description": "X испрати официјално правно барање за прекин на работата до Nitter, популарен проект со отворен код кој функционираше како алтернативен кориснички интерфејс за објавите од оваа популарна социјална мрежа. Правното известување, кое беше доставено до главниот развивач познат под псевдонимот „zedeus“, инсистира на целосно отстранување на сите активни инстанци на Nitter, како и на јавно […]",
+      "url": "https://smartportal.mk/novosti/socijalni-mrezi/x-baranje-prekin-rabota-nitter/",
+      "image": "https://smartportal.mk/wp-content/uploads/2023/08/shutterstock_2336648595-150x150.jpg",
+      "date": "Wed, 26 Aug 2026 08:57:54 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -75,30 +93,21 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Meta ја пушти Pocket апликацијата за креирање и споделување игри преку вештачка интелигенција",
-      "description": "Meta официјално ја прошири достапноста на својата експериментална апликација Pocket за корисниците во САД. Станува збор за платформа базирана на вештачка интелигенција која им овозможува на корисниците да создаваат и споделуваат мали интерактивни игри, кои во рамките на апликацијата се наречени „gizmos“. Пуштањето на апликацијата доаѓа по тестирањето кое се одвиваше во Бразил минатиот месец. […]",
-      "url": "https://smartportal.mk/novosti/ai/meta-pocket-aplikacija-kreiranje-igri-preku-vi/",
-      "image": "https://smartportal.mk/wp-content/uploads/2024/10/shutterstock_2452455799-150x150.jpg",
-      "date": "Tue, 25 Aug 2026 08:38:58 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Додека спиете, вашето тело се обновува, а вашиот Galaxy Watch ви покажува колку успешно се одвива тој процес",
-      "description": "Скопје, 24 август 2026 година – Повеќето луѓе кои носат паметен часовник додека спијат наутро проверуваат една бројка: колку долго спиеле. Сепак, часовите поминати во сон содржат многу повеќе информации од едноставното времетраење, а голем дел од нив покажуваат колку е подготвено телото за денот што следува. Galaxy Watch Ultra2 и Galaxy Watch9 располагаат со […]",
-      "url": "https://smartportal.mk/novosti/uredi/dodeka-spiete-vaseto-telo-se-obnovuva-a-galaxy-watch-vi-pokazuva/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/201-lifestyle-galaxy-watch9-sleep-apnea-150x150.webp",
-      "date": "Mon, 24 Aug 2026 12:24:52 +0000"
+      "source": "Time.mk - All",
+      "title": "Се гради автопатот Скопје – Блаце: На 10,5 км ќе има 5 тунели и 8 моста | Независен",
+      "description": "",
+      "url": "https://time.mk/c/e333fc1214/se-gradi-avtopatot-skopje-blace-na-10-5-km-ke-ima-5-tuneli-i-8-mosta.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/07/pat-skopje-blace-2.jpg",
+      "date": "Wed, 26 Aug 2026 09:40:51 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Ново рочиште за „Онкологија“ – Тројца лекари пред Кривичен | Press24",
+      "title": "Гасот ја засени нафтата, станува главен ризик за инфлацијата во Европа | Bloomberg Adria",
       "description": "",
-      "url": "https://time.mk/c/801a7947ff/novo-rociste-za-onkologija-trojca-lekari-pred-krivicen.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/66770.jpg",
-      "date": "Wed, 26 Aug 2026 08:04:49 +0000"
+      "url": "https://time.mk/c/127ca99303/gasot-ja-zaseni-naftata-stanuva-glaven-rizik-za-inflacijata-vo-evropa.html",
+      "image": "https://mk.bloombergadria.com/data/images/2026-08-26/114896_gas-evropa-1_f.jpg?timestamp=1787695200",
+      "date": "Wed, 26 Aug 2026 09:20:50 +0000"
     },
     {
       "category": "mkd",
@@ -112,56 +121,56 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Денеска се одбележуваат 116 години од раѓањето на Мајка Тереза | Макфакс",
+      "title": "ФОТО: Паднатите дрва од невремето се претворија во нешто корисно – Водно доби нов моторички парк | Press24",
       "description": "",
-      "url": "https://time.mk/c/0847f03912/deneska-se-odbelezuvaat-116-godini-od-ragjanjeto-na-majka-tereza.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/08/depositphotos_677757610_s.webp",
-      "date": "Wed, 26 Aug 2026 06:08:47 +0000"
+      "url": "https://time.mk/c/f9d58deb64/foto-padnatite-drva-od-nevremeto-se-pretvorija-vo-nesto-korisno-vodno-dobi-nov-motoricki-park.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/66795.jpg",
+      "date": "Wed, 26 Aug 2026 08:38:41 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "СДСМ се зацврсти како опозициска партија на ... Александар Вучиќ?! | Фактор",
+      "title": "(Видео) Димитријевиќ: Апелација да постапи веднаш – „Талир 2“ не смее да заврши со спас на Никола Груевски | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/827c6965b2/sdsm-se-zacvrsti-kako-opoziciska-partija-na-aleksandar-vucik.html",
-      "image": "https://faktor.mk/media/main/2026/08/20260826095308.png",
-      "date": "Wed, 26 Aug 2026 07:54:38 +0000"
+      "url": "https://time.mk/c/1e666be9de/video-dimitrijevik-apelacija-da-postapi-vednas-talir-2-ne-smee-da-zavrsi-so-spas-na-nikola-gruevski.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84340/conversions/text-max.jpg",
+      "date": "Wed, 26 Aug 2026 09:10:41 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Левица: Студентскиот оброк со години стои на 140 денари | Press24",
+      "title": "Ново рочиште за „Онкологија“ – Тројца лекари пред Кривичен | Press24",
       "description": "",
-      "url": "https://time.mk/c/72357d1b92/levica-studentskiot-obrok-so-godini-stoi-na-140-denari.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/66757.jpg",
-      "date": "Wed, 26 Aug 2026 07:30:40 +0000"
+      "url": "https://time.mk/c/801a7947ff/novo-rociste-za-onkologija-trojca-lekari-pred-krivicen.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/66770.jpg",
+      "date": "Wed, 26 Aug 2026 08:04:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ДУИ: ВЛЕН ја претвора „Бардовци“ во семеен бизнис - тендер од 42 илјади евра кај братучедот на директорот | Скопје1",
+      "title": "Поранешниот премиер Ковачевски: САД и Кина имаат среќа што го немаат Пехчево | Фактор",
       "description": "",
-      "url": "https://time.mk/c/a14b2e3351/dui-vlen-ja-pretvora-bardovci-vo-semeen-biznis-tender-od-42-iljadi-evra-kaj-bratucedot-na-direktorot.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/71333/conversions/dui-max.jpg",
-      "date": "Wed, 26 Aug 2026 07:54:38 +0000"
+      "url": "https://time.mk/c/78bc7ed611/poranesniot-premier-kovacevski-sad-i-kina-imaat-sreka-sto-go-nemaat-pehcevo.html",
+      "image": "https://faktor.mk/media/main/2022/02/20220207095607.jpg",
+      "date": "Wed, 26 Aug 2026 07:40:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Митреска на конференција на БИС во Базел: Пополнување на информациските празнини во централното банкарство: ефикасно искористување на податоците и иновативните алатки | Бизнис Вести",
+      "title": "Над 220 милиони евра годишно од пензискиот фонд одат за здравствено осигурување | Економија и Бизнис",
       "description": "",
-      "url": "https://time.mk/c/3679c9d105/mitreska-na-konferencija-na-bis-vo-bazel-popolnuvanje-na-informaciskite-praznini-vo-centralnoto-bankarstvo-efikasno-iskoristuvanje-na-podatocite-i-inovativnite-alatki.html",
-      "image": "https://biznisvesti.mk/wp-content/uploads/2026/08/Konferentsija-BIS-300x225.jpg",
-      "date": "Wed, 26 Aug 2026 08:02:41 +0000"
+      "url": "https://time.mk/c/3503739620/nad-220-milioni-evra-godisno-od-penziskiot-fond-odat-za-zdravstveno-osiguruvanje.html",
+      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/08/nikola_memov_3-1024x683.jpg",
+      "date": "Wed, 26 Aug 2026 09:28:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ММФ СО УМЕРЕН ОТИМИЗАМ: Светот го апсорбира енергетскиот шок подобро од очекуваното, но „кризата уште не е завршена“ | Пари",
+      "title": "„ПЕКОЛ“ НА ЕВЗОНИ ВО НАЈАВА: Пред последниот викенд од август се очекуваат два големи бранови на гужва! | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/32fcb6461a/mmf-so-umeren-otimizam-svetot-go-apsorbira-energetskiot-sok-podobro-od-ocekuvanoto-no-krizata-uste-ne-e-zavrsena.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/08/Kristalina.jpg",
-      "date": "Wed, 26 Aug 2026 07:42:37 +0000"
+      "url": "https://time.mk/c/9676a06a6e/pekol-na-evzoni-vo-najava-pred-posledniot-vikend-od-avgust-se-ocekuvaat-dva-golemi-branovi-na-guzva.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/08/evzoni-guzva-video-2-1.png",
+      "date": "Wed, 26 Aug 2026 09:32:53 +0000"
     },
     {
       "category": "mkd",
@@ -171,15 +180,6 @@
       "url": "https://time.mk/c/a03ae40249/video-halkidiki-gi-cisti-plazite-otstraneti-nad-170-trajno-postaveni-cadori.html",
       "image": "https://trn.mk/wp-content/uploads/2026/08/lezalki-halkidiki.jpg",
       "date": "Wed, 26 Aug 2026 08:28:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Халкидики е хит за странските купувачи: Еве колку чини квадрат во најбараните места | ТВ21",
-      "description": "",
-      "url": "https://time.mk/c/1613afd81d/halkidiki-e-hit-za-stranskite-kupuvaci-eve-kolku-cini-kvadrat-vo-najbaranite-mesta.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2024/06/grcija.jpg",
-      "date": "Wed, 26 Aug 2026 08:20:50 +0000"
     }
   ],
   "de": [
@@ -586,15 +586,6 @@
     {
       "category": "starwars",
       "source": "Star Wars News Net",
-      "title": "Gambling as a Narrative Tool in Star Wars",
-      "description": "The Star Wars universe is celebrated for its space battles, lightsabers, and the eternal conflict between the Jedi and the The post Gambling as a Narrative Tool in Star Wars appeared first on Star Wars News Net .",
-      "url": "https://www.starwarsnewsnet.com/2026/08/gambling-as-a-narrative-tool-in-star-wars.html",
-      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2025/02/Sabacc_3.webp",
-      "date": "Tue, 25 Aug 2026 13:20:37 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars News Net",
       "title": "Top Key Platforms for Star Wars Zero Company Ranked by Price, Speed, and Safety",
       "description": "Two days. That’s the gap between now and the strangest Star Wars release EA has greenlit in years. Star Wars The post Top Key Platforms for Star Wars Zero Company Ranked by Price, Speed, and Safety appeared first on Star Wars News Net .",
       "url": "https://www.starwarsnewsnet.com/2026/08/183846.html",
@@ -627,6 +618,15 @@
       "url": "https://www.starwarsnewsnet.com/2026/08/droids-the-unsung-heroes-of-star-wars.html",
       "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2015/08/ralph-mcquarrie-C3P0-and-R2D2.jpg",
       "date": "Tue, 25 Aug 2026 09:07:00 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "Dexter Jettster – ‘Star Wars’ Character Spotlight",
+      "description": "Affable Besalisk Dexter Jettster is getting a Star Wars Character Spotlight this week. Debuting in Attack of the Clones as The post Dexter Jettster – ‘Star Wars’ Character Spotlight appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/08/dexter-jettster-star-wars-character-spotlight.html",
+      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2022/06/databank_dexterjettster_01_169_09c89b71.jpeg",
+      "date": "Fri, 21 Aug 2026 15:00:08 +0000"
     },
     {
       "category": "starwars",
