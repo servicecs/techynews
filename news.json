@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T23:32:14.115657+00:00",
+  "updated": "2026-08-26T01:25:26.773904+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -94,20 +94,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Огнена линија од 10 километри кај Градско, на Китка сомнеж за сериски потпалувачи | Трн",
-      "description": "",
-      "url": "https://time.mk/c/a1dc01ae0b/ognena-linija-od-10-kilometri-kaj-gradsko-na-kitka-somnez-za-seriski-potpaluvaci.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/08/pozar-kitka.jpg",
-      "date": "Tue, 25 Aug 2026 16:24:50 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
       "title": "(ВИДЕО) Се затрупува кавадаречката депонија за да се запре чадењето, пожарот е делумно изгаснат | 360 степени",
       "description": "",
       "url": "https://time.mk/c/2765b99603/video-se-zatrupuva-kavadareckata-deponija-za-da-se-zapre-cadenjeto-pozarot-e-delumno-izgasnat.html",
       "image": "https://360stepeni.mk/wp-content/uploads/2026/08/zatrupuvawe-deponija-Kavadarci.jpg",
       "date": "Tue, 25 Aug 2026 20:20:57 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Огновите не стивнуваат – горат шуми и полиња, во опасност и две села | Вечер Прес",
+      "description": "",
+      "url": "https://time.mk/c/c48baff0ca/ognovite-ne-stivnuvaat-gorat-sumi-i-polinja-vo-opasnost-i-dve-sela.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/08/pozari-3.jpg",
+      "date": "Tue, 25 Aug 2026 13:54:36 +0000"
     },
     {
       "category": "mkd",
@@ -670,7 +670,7 @@
       "title": "Traileranalyse: Ahsoka – Staffel 2 – Teaser",
       "description": "Das erste Bewegtbildmaterial zur 2. Season der Serie liefert allerhand Schauwerte und Spekulationsmaterial.",
       "url": "https://starwars-union.de/traileranalyse-ahsoka-staffel-2-teaser/",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Star_Wars_Logo.svg",
+      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/08/20260815-ahsoka-s2-teaser-45.jpg",
       "date": "Sun, 16 Aug 2026 11:18:47 +0000"
     },
     {
