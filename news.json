@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-26T07:49:07.147175+00:00",
+  "updated": "2026-08-26T08:46:51.126478+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "35 години од почетокот на развојот на Linux",
+      "description": "Оперативниот систем Linux одбележува 35 години од своето постоење. Првичната верзија беше најавена во август 1991 година како личен проект на Линус Торвалдс, со цел да се создаде бесплатен оперативен систем. Три и пол децении подоцна, овој софтвер претставува основа за голем дел од модерната компјутерска инфраструктура, почнувајќи од сервери и суперкомпјутери, па сè до […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/35-godini-od-pocetokot-na-razvojot-na-linux/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/linux35-logo-150x150.webp",
+      "date": "Wed, 26 Aug 2026 08:18:06 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -84,12 +93,21 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Windows 11 ќе добие можност за контрола на користењето на обединетата меморија за графички и задачи со вештачка интелигенција",
-      "description": "Windows 11 во блиска иднина ќе добие нова опција која ќе им овозможи на корисниците рачно да управуваат со обединетата меморија наменета за графички задачи и процесите поврзани со вештачка интелигенција. Оваа опција е наменета првенствено за компјутерите кои користат обединета меморија, концепт каде една системска меморија со висок проток се споделува помеѓу централниот процесор, […]",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/windows-11-kontrola-na-obedinetata-memorija/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/daniel-romero-MBm5AtVdiVY-unsplash-f-150x150.webp",
-      "date": "Mon, 24 Aug 2026 11:53:29 +0000"
+      "source": "Time.mk - All",
+      "title": "Ново рочиште за „Онкологија“ – Тројца лекари пред Кривичен | Press24",
+      "description": "",
+      "url": "https://time.mk/c/801a7947ff/novo-rociste-za-onkologija-trojca-lekari-pred-krivicen.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/66770.jpg",
+      "date": "Wed, 26 Aug 2026 08:04:49 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Интензивно се работи на гаснење на пожарот на депонијата во Кавадарци, објави Јанчев | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/72f1a13e22/intenzivno-se-raboti-na-gasnenje-na-pozarot-na-deponijata-vo-kavadarci-objavi-jancev.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/08/dron-kavadarci.webp",
+      "date": "Wed, 26 Aug 2026 08:34:38 +0000"
     },
     {
       "category": "mkd",
@@ -103,11 +121,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Јанчев: Пожарот на „Мелци“ е напад врз градот, има индиции дека е подметнат | Press24",
+      "title": "СДСМ се зацврсти како опозициска партија на ... Александар Вучиќ?! | Фактор",
       "description": "",
-      "url": "https://time.mk/c/0801825a3e/jancev-pozarot-na-melci-e-napad-vrz-gradot-ima-indicii-deka-e-podmetnat.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/66735.jpg",
-      "date": "Wed, 26 Aug 2026 06:20:52 +0000"
+      "url": "https://time.mk/c/827c6965b2/sdsm-se-zacvrsti-kako-opoziciska-partija-na-aleksandar-vucik.html",
+      "image": "https://faktor.mk/media/main/2026/08/20260826095308.png",
+      "date": "Wed, 26 Aug 2026 07:54:38 +0000"
     },
     {
       "category": "mkd",
@@ -121,29 +139,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Израел: мала држава, голема економија на знаење | Нова Македонија",
+      "title": "ДУИ: ВЛЕН ја претвора „Бардовци“ во семеен бизнис - тендер од 42 илјади евра кај братучедот на директорот | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/5da17319a2/izrael-mala-drzava-golema-ekonomija-na-znaenje.html",
-      "image": "https://novamakedonija.com.mk/wp-content/uploads/2026/08/mucunski-1-150x150.jpg",
-      "date": "Wed, 26 Aug 2026 07:46:39 +0000"
+      "url": "https://time.mk/c/a14b2e3351/dui-vlen-ja-pretvora-bardovci-vo-semeen-biznis-tender-od-42-iljadi-evra-kaj-bratucedot-na-direktorot.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/71333/conversions/dui-max.jpg",
+      "date": "Wed, 26 Aug 2026 07:54:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Рускиот свет“ – политичко огледало за дел од пратениците во Собранието | Нова Македонија",
+      "title": "Митреска на конференција на БИС во Базел: Пополнување на информациските празнини во централното банкарство: ефикасно искористување на податоците и иновативните алатки | Бизнис Вести",
       "description": "",
-      "url": "https://time.mk/c/9e9a047bb1/ruskiot-svet-politicko-ogledalo-za-del-od-pratenicite-vo-sobranieto.html",
-      "image": "https://novamakedonija.com.mk/wp-content/uploads/2025/12/pratenicki-prasanja-11-150x150.jpg",
-      "date": "Wed, 26 Aug 2026 07:38:43 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ШТО СЕ КРИЕ ЗАД ПИ-АР СТРАТЕГИИТЕ ЗА СЕКОЈДНЕВНИ ОБРАЌАЊА НА ЈАВНОСТА? Партиската војна со пресови и соопштенија ја голта вистината | Вечер Прес",
-      "description": "",
-      "url": "https://time.mk/c/0131535ac8/sto-se-krie-zad-pi-ar-strategiite-za-sekojdnevni-obrakanja-na-javnosta-partiskata-vojna-so-presovi-i-soopstenija-ja-golta-vistinata.html",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
-      "date": "Mon, 24 Aug 2026 14:18:47 +0000"
+      "url": "https://time.mk/c/3679c9d105/mitreska-na-konferencija-na-bis-vo-bazel-popolnuvanje-na-informaciskite-praznini-vo-centralnoto-bankarstvo-efikasno-iskoristuvanje-na-podatocite-i-inovativnite-alatki.html",
+      "image": "https://biznisvesti.mk/wp-content/uploads/2026/08/Konferentsija-BIS-300x225.jpg",
+      "date": "Wed, 26 Aug 2026 08:02:41 +0000"
     },
     {
       "category": "mkd",
@@ -157,29 +166,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ЕЦБ се подготвува за ново зголемување на каматите, инфлацијата повторно притиска | Фактор",
+      "title": "ВИДЕО: Халкидики ги чисти плажите, отстранети над 170 трајно поставени чадори | Трн",
       "description": "",
-      "url": "https://time.mk/c/574d89ce0d/ecb-se-podgotvuva-za-novo-zgolemuvanje-na-kamatite-inflacijata-povtorno-pritiska.html",
-      "image": "https://faktor.mk/media/main/2024/03/20240316073145.jpg",
-      "date": "Wed, 26 Aug 2026 07:36:49 +0000"
+      "url": "https://time.mk/c/a03ae40249/video-halkidiki-gi-cisti-plazite-otstraneti-nad-170-trajno-postaveni-cadori.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/08/lezalki-halkidiki.jpg",
+      "date": "Wed, 26 Aug 2026 08:28:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Штетите од природни непогоди врз земјоделството во Хрватска достигнаа 37 милиони евра | 24 Вести",
+      "title": "Халкидики е хит за странските купувачи: Еве колку чини квадрат во најбараните места | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/a17576e653/stetite-od-prirodni-nepogodi-vrz-zemjodelstvoto-vo-hrvatska-dostignaa-37-milioni-evra.html",
-      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1787725022/umxfxs5f5lldtfz6x7re.webp",
-      "date": "Wed, 26 Aug 2026 06:18:36 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "За седум месеци во Албанија престојувале над 7 милиони странски туристи | Бизнис Вести",
-      "description": "",
-      "url": "https://time.mk/c/90b89b8342/za-sedum-meseci-vo-albanija-prestojuvale-nad-7-milioni-stranski-turisti.html",
-      "image": "https://biznisvesti.mk/wp-content/uploads/2026/08/rama-300x192.webp",
-      "date": "Wed, 26 Aug 2026 05:36:50 +0000"
+      "url": "https://time.mk/c/1613afd81d/halkidiki-e-hit-za-stranskite-kupuvaci-eve-kolku-cini-kvadrat-vo-najbaranite-mesta.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2024/06/grcija.jpg",
+      "date": "Wed, 26 Aug 2026 08:20:50 +0000"
     }
   ],
   "de": [
