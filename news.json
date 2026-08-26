@@ -1,167 +1,86 @@
 {
-  "updated": "2026-08-26T05:36:19.190247+00:00",
+  "updated": "2026-08-26T06:53:19.451952+00:00",
   "mkd": [
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Apple го претстави новиот Mac Studio со M5 Max и M5 Ultra процесорите",
-      "description": "Apple официјално ја најави новата генерација на Mac Studio, кој доаѓа со M5 Max и новиот M5 Ultra. Овие чипови се дизајнирани да понудат зголемена процесорска и графичка моќ, со посебен фокус врз извршувањето задачи поврзани со вештачка интелигенција директно на самиот уред, продолжувајќи го угледот на Mac Studio за еден од најдобрите компјутери за […]",
-      "url": "https://smartportal.mk/novosti/kompjuteri/apple-mac-studio-m5-max-m5-ultra/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Apple-Mac-Studio-hero-260825-150x150.webp",
-      "date": "Tue, 25 Aug 2026 18:11:11 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Apple ја претстави наредната генерација од Mac mini со M6 и M5 Pro процесорите",
-      "description": "Apple денеска ја најави новата генерација на Mac mini, која доаѓа со најновите M6 и M5 Pro процесори. Новите компјутери го задржуваат својот карактеристичен „ултракомпактен“ дизајн, но нудат значително поголема процесорска и графичка моќ, со посебен фокус на извршувањето на задачи поврзани со вештачка интелигенција. Компанијата истакнува дека основниот модел овозможува до четири пати побрзи […]",
-      "url": "https://smartportal.mk/novosti/kompjuteri/apple-mac-mini-m6-m5-pro/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Apple-Mac-mini-hero-260825-150x150.webp",
-      "date": "Tue, 25 Aug 2026 17:44:51 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Apple ги претстави M6 и M5 Ultra процесорите со фокус на вештачката интелигенција",
-      "description": "Apple денес официјално ги претстави своите најнови процесори, M6 и M5 Ultra, кои носат унапредени перформанси и хардверска оптимизација за задачи поврзани со вештачка интелигенција. Марк Гурман најави дека од компанијата планираат да го претстават М6 чипот, но дека ќе ги прескокнат M6 Pro и M6 Max верзиите, па засега неговите најави се остваруваат. Моделот […]",
-      "url": "https://smartportal.mk/novosti/kompjuteri/apple-gi-pretstavi-m6-i-m5-ultra/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Apple-M6-and-M5-Ultra-hero-260825-150x150.webp",
-      "date": "Tue, 25 Aug 2026 13:46:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Кога високата технологија се среќава со врвната уметност: Како „Samsung“ ги носи светските музеи во модерните дневни соби",
-      "description": "Скопје 25 август 2026 година – Со децении, изборот на телевизор значеше одлука помеѓу филмски квалитет на сликата и естетиката на домот. Кога беше исклучен, дури и најнапредниот екран едноставно изгледаше како голем црн правоаголник на ѕидот. Проширувањето на Samsung Art Store низ водечката линија на модели за 2026 година целосно ја менува оваа слика. […]",
-      "url": "https://smartportal.mk/novosti/uredi/kako-samsung-gi-nosi-svetskite-muzei-vo-modernite-dnevni-sobi/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/▲Athene-Galiciadis_-StilllebenReflection-on-longings-and-belongings-2021-displayed-on-S95H-150x150.webp",
-      "date": "Tue, 25 Aug 2026 13:31:58 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "iPhone на преклоп ќе биде првиот „возбудлив“ нов производ од Apple после повеќе години",
-      "description": "Наредниот настан кој Apple традиционално со години веќе го одржува во септември, неофицијално се очекува за 9 септември. Тоа значи дека останува уште малку до настанот кој изгледа ќе предизвика поголемо внимание од претходните неколку. Оваа година се очекуваат две новини при презентирањето на новите iPhone модели. Едната е поделбата на телефоните според класата, односно […]",
-      "url": "https://smartportal.mk/novosti/uredi/iphone-na-preklop-prv-vozbudliv-nov-proizvod-posle-poveke-godini/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/07/ubeyonroad-Po-LiCdN28M-unsplash-150x150.webp",
-      "date": "Tue, 25 Aug 2026 10:47:17 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Qualcomm повлече дел од тестовите за перформансите на новиот Snapdragon C процесор",
-      "description": "Qualcomm неочекувано побара од медиумите да ја заменат презентацијата со тестовите за перформансите за нивниот нов Snapdragon C процесор, наменет за поевтините лаптоп компјутери. Новата верзија на презентацијата ги изоставува претходно споделените податоци за енергетската ефикасност на чипот кога уредот извршува неактивни апликации или при „сурфање“ на интернет. Овој потег доаѓа речиси една недела по […]",
-      "url": "https://smartportal.mk/novosti/kompjuteri/qualcomm-povlece-del-od-testovite-za-snapdragon-c/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/06/SnapdragonCPlatformHero-150x150.webp",
-      "date": "Tue, 25 Aug 2026 09:08:32 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Новите правила на уредување на домот: Четири ентериерни стилови што го обликуваат современиот дневен престој",
-      "description": "Скопје, 25 август 2026 година – Највпечатливите ентериери не се само исполнети со убави предмети. Тие се внимателно обликувани така што мебелот, осветлувањето, материјалите и технологијата се вклопуваат во една единствена, хармонична естетика. Луѓето кои сакаат дом со внимателно дизајниран изглед сѐ почесто избираат впечатливи парчиња што имаат долготрајна вредност, а воедно оставаат простор ентериерот […]",
-      "url": "https://smartportal.mk/novosti/uredi/novite-pravila-za-ureduvanje-na-domot/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/The-Frame-Pro-2025-Lifestyle-02-150x150.webp",
-      "date": "Tue, 25 Aug 2026 08:52:22 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Meta ја пушти Pocket апликацијата за креирање и споделување игри преку вештачка интелигенција",
-      "description": "Meta официјално ја прошири достапноста на својата експериментална апликација Pocket за корисниците во САД. Станува збор за платформа базирана на вештачка интелигенција која им овозможува на корисниците да создаваат и споделуваат мали интерактивни игри, кои во рамките на апликацијата се наречени „gizmos“. Пуштањето на апликацијата доаѓа по тестирањето кое се одвиваше во Бразил минатиот месец. […]",
-      "url": "https://smartportal.mk/novosti/ai/meta-pocket-aplikacija-kreiranje-igri-preku-vi/",
-      "image": "https://smartportal.mk/wp-content/uploads/2024/10/shutterstock_2452455799-150x150.jpg",
-      "date": "Tue, 25 Aug 2026 08:38:58 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Додека спиете, вашето тело се обновува, а вашиот Galaxy Watch ви покажува колку успешно се одвива тој процес",
-      "description": "Скопје, 24 август 2026 година – Повеќето луѓе кои носат паметен часовник додека спијат наутро проверуваат една бројка: колку долго спиеле. Сепак, часовите поминати во сон содржат многу повеќе информации од едноставното времетраење, а голем дел од нив покажуваат колку е подготвено телото за денот што следува. Galaxy Watch Ultra2 и Galaxy Watch9 располагаат со […]",
-      "url": "https://smartportal.mk/novosti/uredi/dodeka-spiete-vaseto-telo-se-obnovuva-a-galaxy-watch-vi-pokazuva/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/201-lifestyle-galaxy-watch9-sleep-apnea-150x150.webp",
-      "date": "Mon, 24 Aug 2026 12:24:52 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Windows 11 ќе добие можност за контрола на користењето на обединетата меморија за графички и задачи со вештачка интелигенција",
-      "description": "Windows 11 во блиска иднина ќе добие нова опција која ќе им овозможи на корисниците рачно да управуваат со обединетата меморија наменета за графички задачи и процесите поврзани со вештачка интелигенција. Оваа опција е наменета првенствено за компјутерите кои користат обединета меморија, концепт каде една системска меморија со висок проток се споделува помеѓу централниот процесор, […]",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/windows-11-kontrola-na-obedinetata-memorija/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/daniel-romero-MBm5AtVdiVY-unsplash-f-150x150.webp",
-      "date": "Mon, 24 Aug 2026 11:53:29 +0000"
+      "source": "Time.mk - All",
+      "title": "Денеска се одбележуваат 116 години од раѓањето на Мајка Тереза | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/e0f7de0c57/deneska-se-odbelezuvaat-116-godini-od-ragjanjeto-na-majka-tereza.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/08/depositphotos_677757610_s.webp",
+      "date": "Wed, 26 Aug 2026 06:08:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Доцна синоќа изгаснат пожарот помеѓу Горно и Долно Чичево во Општина Градско | Независен",
+      "title": "Јанчев: Пожарот на „Мелци“ е напад врз градот, има индиции дека е подметнат | Press24",
       "description": "",
-      "url": "https://time.mk/c/8e5002668c/docna-sinoka-izgasnat-pozarot-pomegju-gorno-i-dolno-cicevo-vo-opstina-gradsko.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/08/pozar-opstina-gradsko.png",
-      "date": "Wed, 26 Aug 2026 05:18:36 +0000"
+      "url": "https://time.mk/c/0801825a3e/jancev-pozarot-na-melci-e-napad-vrz-gradot-ima-indicii-deka-e-podmetnat.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/66735.jpg",
+      "date": "Wed, 26 Aug 2026 06:20:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Одбележување на роденденот на Мајка Тереза | Независен",
+      "title": "ПО 13 ЧАСА БОРБА СО ОГНЕНИТЕ ЈАЗИЦИ ИЗГАСНАТ E ГОЛЕМИОТ ПОЖАР ВО ВЕЛЕШКО ЧИЧЕВО На три локации сѐ уште има активни пожари | +инфо",
       "description": "",
-      "url": "https://time.mk/c/7331b1b9c8/odbelezuvanje-na-rodendenot-na-majka-tereza.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2022/09/Majka-Tereza-spomenik-1-bg_resize.jpg",
-      "date": "Wed, 26 Aug 2026 05:18:36 +0000"
+      "url": "https://time.mk/c/6f21b04f6d/po-13-casa-borba-so-ognenite-jazici-izgasnat-e-golemiot-pozar-vo-velesko-cicevo-na-tri-lokacii-sѐ-uste-ima-aktivni-pozari.html",
+      "image": "https://plusinfo.mk/wp-content/uploads/2026/08/pozari-mk-3.jpg",
+      "date": "Wed, 26 Aug 2026 06:34:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(ВИДЕО) Се затрупува кавадаречката депонија за да се запре чадењето, пожарот е делумно изгаснат | 360 степени",
+      "title": "„Земјиште“ – нов македонски краткометражен филм за наследството, земјата и невидливите врски меѓу луѓето, со премиера денес во Прилеп | Екран",
       "description": "",
-      "url": "https://time.mk/c/145bfd50cb/video-se-zatrupuva-kavadareckata-deponija-za-da-se-zapre-cadenjeto-pozarot-e-delumno-izgasnat.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/08/zatrupuvawe-deponija-Kavadarci.jpg",
-      "date": "Tue, 25 Aug 2026 20:20:57 +0000"
+      "url": "https://time.mk/c/b3afdc80e6/zemjiste-nov-makedonski-kratkometrazen-film-za-nasledstvoto-zemjata-i-nevidlivite-vrski-megju-lugjeto-so-premiera-denes-vo-prilep.html",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
+      "date": "Wed, 26 Aug 2026 06:26:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Годишниот извештај на Антикорупциска, Националната стратегија и неколку посебни извештаи пред матичната комисија во Собранието | Бизнис Вести",
+      "title": "Пак ли предвремени избори? | Deutsche Welle",
       "description": "",
-      "url": "https://time.mk/c/cdfd963628/godisniot-izvestaj-na-antikorupciska-nacionalnata-strategija-i-nekolku-posebni-izvestai-pred-maticnata-komisija-vo-sobranieto.html",
-      "image": "https://biznisvesti.mk/wp-content/uploads/2025/10/sobranie-300x258.jpg",
-      "date": "Wed, 26 Aug 2026 05:16:46 +0000"
+      "url": "https://time.mk/c/e9e5fc58c0/pak-li-predvremeni-izbori.html",
+      "image": "https://static.dw.com/image/77878008_301.jpg",
+      "date": "Wed, 26 Aug 2026 06:04:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ГУЖВИ НА ПАТИШТАТА, НО НЕ И НА ГРАНИЦИТЕ Апел од АМСМ до возачите да бидат внимателни со брзината | +инфо",
+      "title": "КОЈ ЌЕ ГИ ИСТРАЖУВА ОНИЕ ШТО ТРЕБА ДА ИСТРАЖУВААТ | Либертас",
       "description": "",
-      "url": "https://time.mk/c/5fec145371/guzvi-na-patistata-no-ne-i-na-granicite-apel-od-amsm-do-vozacite-da-bidat-vnimatelni-so-brzinata.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2020/06/avtobusi-granica-tabanovce-patnici.jpg",
-      "date": "Tue, 25 Aug 2026 10:49:11 +0000"
+      "url": "https://time.mk/c/cda6a7149c/koj-ke-gi-istrazuva-onie-sto-treba-da-istrazuvaat.html",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
+      "date": "Tue, 25 Aug 2026 07:24:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Презентација на резултатите од истражувањето „Disrupting Harm” за сексуална експлоатација и злоупотреба на децата со помош на технологија | Независен",
+      "title": "Дали големите маркети пропуштија продажби вредни речиси 50 милиони евра само во 2025 година? | Пари",
       "description": "",
-      "url": "https://time.mk/r/NONE/8897ba23dd/prezentacija-na-rezultatite-od-istrazuvanjeto-disrupting-harm-za-seksualna-eksploatacija-i-zloupotreba-na-decata-so-pomos-na-tehnologija.html",
-      "image": "https://time.mk/r/NONE/8897ba23dd/images/thumb/6bf657d49b.jpg",
-      "date": "Wed, 26 Aug 2026 05:20:55 +0000"
+      "url": "https://time.mk/c/2c45e62664/dali-golemite-marketi-propustija-prodazbi-vredni-recisi-50-milioni-evra-samo-vo-2025-godina.html",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
+      "date": "Wed, 26 Aug 2026 06:26:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Државата должи речиси 700 милиони евра: Кој ќе ја плати оваа енормна сума на пари? | Рацин",
+      "title": "Цената на гасот во Европа двојно повисока од почетокот на годината – домаќинствата ги чекаат повисоки сметки | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/89c94238f0/drzavata-dolzi-recisi-700-milioni-evra-koj-ke-ja-plati-ovaa-enormna-suma-na-pari.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/05/evra-vo-brojach-za-pari-1200-720x480.jpg?x99805",
-      "date": "Wed, 26 Aug 2026 04:20:50 +0000"
+      "url": "https://time.mk/c/70707ed2bc/cenata-na-gasot-vo-evropa-dvojno-povisoka-od-pocetokot-na-godinata-domakinstvata-gi-cekaat-povisoki-smetki.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/80157/conversions/text-max.jpg",
+      "date": "Wed, 26 Aug 2026 06:36:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Златото околу 4.700 долари, растат и среброто, платината и бакарот | Бизнис Вести",
+      "title": "За седум месеци во Албанија престојувале над 7 милиони странски туристи | Бизнис Вести",
       "description": "",
-      "url": "https://time.mk/c/b22faaf1d0/zlatoto-okolu-4-700-dolari-rastat-i-srebroto-platinata-i-bakarot.html",
-      "image": "https://biznisvesti.mk/wp-content/uploads/2025/10/zlato-300x225.jpg",
-      "date": "Wed, 26 Aug 2026 05:06:37 +0000"
+      "url": "https://time.mk/c/90b89b8342/za-sedum-meseci-vo-albanija-prestojuvale-nad-7-milioni-stranski-turisti.html",
+      "image": "https://biznisvesti.mk/wp-content/uploads/2026/08/rama-300x192.webp",
+      "date": "Wed, 26 Aug 2026 05:36:50 +0000"
     },
     {
       "category": "mkd",
@@ -175,11 +94,92 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Пожари во близина на Атина, наредена е евакуација на неколку населби | 360 степени",
+      "title": "ИСЛАНЃАНИТЕ НЕОДЛУЧНИ ЗА ЕУ: Во пресрет на референдумот, анкетите покажуваат изедначена поддршка и „за“ и „против“ Брисел | Пари",
       "description": "",
-      "url": "https://time.mk/c/dc29cadde2/pozari-vo-blizina-na-atina-naredena-e-evakuacija-na-nekolku-naselbi.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/08/ozar-Grcija.jpg",
-      "date": "Tue, 25 Aug 2026 21:06:38 +0000"
+      "url": "https://time.mk/c/9741f84144/islangjanite-neodlucni-za-eu-vo-presret-na-referendumot-anketite-pokazuvaat-izednacena-poddrska-i-za-i-protiv-brisel.html",
+      "image": "http://pari.com.mk/wp-content/uploads/2026/08/Islandska-premierka-i-Ursula.jpg",
+      "date": "Wed, 26 Aug 2026 06:50:44 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Песков: Директорот на ЦИА не се сретна со Путин | Независен",
+      "description": "",
+      "url": "https://time.mk/c/9d6a3bc9f5/peskov-direktorot-na-cia-ne-se-sretna-so-putin.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2022/04/peskov.jpg",
+      "date": "Wed, 26 Aug 2026 06:50:44 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Курти доаѓа во Скопје за роденденот на Мајка Тереза | Колегиум",
+      "description": "",
+      "url": "https://time.mk/c/e5d5632065/kurti-doagja-vo-skopje-za-rodendenot-na-majka-tereza.html",
+      "image": "https://kolegium.mk/wp-content/uploads/2026/03/albin-kurti-foto-sobranie-na-rsm-300x200.jpg",
+      "date": "Wed, 26 Aug 2026 05:16:46 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Повеќечасовни прекини на струјата денеска во делови од Скопје и скопско | Скопје инфо",
+      "description": "",
+      "url": "https://time.mk/c/89d8368c0b/povekecasovni-prekini-na-strujata-deneska-vo-delovi-od-skopje-i-skopsko.html",
+      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/avgust/image-258864.jpg?itok=OL7m0M1K",
+      "date": "Wed, 26 Aug 2026 05:32:49 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Семејство од Битола бара помош: Маж исчезнат од 21 август, последен пат се јавил од Штип | Скопје инфо",
+      "description": "",
+      "url": "https://time.mk/c/413d8fe773/semejstvo-od-bitola-bara-pomos-maz-isceznat-od-21-avgust-posleden-pat-se-javil-od-stip.html",
+      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/avgust/image-258874.jpg?itok=1P6vqbOY",
+      "date": "Wed, 26 Aug 2026 06:30:48 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Приведени скопјанец и битолчанец во Охрид поради физичка пресметка | Охрид1",
+      "description": "",
+      "url": "https://time.mk/c/fb7d54f798/privedeni-skopjanec-i-bitolcanec-vo-ohrid-poradi-fizicka-presmetka.html",
+      "image": "https://ohrid1.com/wp-content/uploads/2022/01/svr-ohrid.jpg",
+      "date": "Tue, 25 Aug 2026 21:26:35 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "ОПШТИНА ПРОБИШТИП ПОЧНА СО ОДБЕЛЕЖУВАЊЕ НА ДЕНОТ НА РУДАРИТЕ, настапи на Мелани Тарчуловска, Madonna Tribute Band, Саша Ковачевиќ и DJ DUFF… | Економија и Бизнис",
+      "description": "",
+      "url": "https://time.mk/c/26ec34f7c7/opstina-probistip-pocna-so-odbelezuvanje-na-denot-na-rudarite-nastapi-na-melani-tarculovska-madonna-tribute-band-sasa-kovacevik-i-dj-duff.html",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
+      "date": "Tue, 25 Aug 2026 18:32:46 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "(Видео) Советниците на СДСМ во Пехчево против дата центар – побараа тргање на точката од дневен ред | Либертас",
+      "description": "",
+      "url": "https://time.mk/c/43ff250f58/video-sovetnicite-na-sdsm-vo-pehcevo-protiv-data-centar-pobaraa-trganje-na-tockata-od-dneven-red.html",
+      "image": "https://libertas.mk/wp-content/uploads/2026/05/SDSM-2.jpg",
+      "date": "Tue, 25 Aug 2026 09:38:51 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "БИТФЕСТ завршува со Фолтин, Фолтин не завршуваат со концертот | Рацин",
+      "description": "",
+      "url": "https://time.mk/c/a28b00c7d9/bitfest-zavrsuva-so-foltin-foltin-ne-zavrsuvaat-so-koncertot.html",
+      "image": "https://racin.mk/wp-content/uploads/2026/06/foltin-1200-2-720x480.jpg?x99805",
+      "date": "Wed, 26 Aug 2026 06:44:54 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Слободата може да биде лично искуство, но и политичко прашање | Нова Македонија",
+      "description": "",
+      "url": "https://time.mk/c/1b6b5f0313/slobodata-moze-da-bide-licno-iskustvo-no-i-politicko-prasanje.html",
+      "image": "https://novamakedonija.com.mk/wp-content/uploads/2026/08/bukstar-150x150.jpeg",
+      "date": "Wed, 26 Aug 2026 06:46:37 +0000"
     }
   ],
   "de": [
@@ -728,5 +728,96 @@
       "date": "Tue, 25 Aug 2026 04:05:57 +0000"
     }
   ],
-  "youtube": []
+  "youtube": [
+    {
+      "category": "youtube",
+      "source": "25HighTech",
+      "title": "steal a brainrot",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=70-NtG02QAA",
+      "image": "https://i.ytimg.com/vi/70-NtG02QAA/hqdefault.jpg",
+      "date": "2026-01-11T06:08:17+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "25HighTech",
+      "title": "roblox games",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=gwStGvaBjFI",
+      "image": "https://i.ytimg.com/vi/gwStGvaBjFI/hqdefault.jpg",
+      "date": "2026-01-10T18:51:41+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "25HighTech",
+      "title": "steal a brainrot update",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=dxImxCzc_f0",
+      "image": "https://i.ytimg.com/vi/dxImxCzc_f0/hqdefault.jpg",
+      "date": "2026-01-10T17:17:11+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "25HighTech",
+      "title": "How to install Retroarch on Linux Mint",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=fYyG9aDDkN8",
+      "image": "https://i.ytimg.com/vi/fYyG9aDDkN8/hqdefault.jpg",
+      "date": "2025-10-03T17:31:05+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "25HighTech",
+      "title": "How to delete application on linux mint",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=OXJHSVPDBVE",
+      "image": "https://i.ytimg.com/vi/OXJHSVPDBVE/hqdefault.jpg",
+      "date": "2025-10-03T17:29:28+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "25HighTech",
+      "title": "How to install VICE commodore64 on linux mint",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=JVR2o934puQ",
+      "image": "https://i.ytimg.com/vi/JVR2o934puQ/hqdefault.jpg",
+      "date": "2025-10-03T17:27:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "25HighTech",
+      "title": "How to install Abiword on Linux Mint",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=WTtXBhyIISQ",
+      "image": "https://i.ytimg.com/vi/WTtXBhyIISQ/hqdefault.jpg",
+      "date": "2025-09-21T14:27:28+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "25HighTech",
+      "title": "How to install MVP player on Linux Mint",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/1DzS8278whw",
+      "image": "https://i.ytimg.com/vi/1DzS8278whw/hqdefault.jpg",
+      "date": "2025-09-21T14:25:56+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "25HighTech",
+      "title": "How to install Midori browser on Linux Mint",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/q7Ts4jxumj8",
+      "image": "https://i.ytimg.com/vi/q7Ts4jxumj8/hqdefault.jpg",
+      "date": "2025-09-21T14:25:47+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "25HighTech",
+      "title": "roblox live",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=WGjYQ-KT7V4",
+      "image": "https://i.ytimg.com/vi/WGjYQ-KT7V4/hqdefault.jpg",
+      "date": "2025-09-14T19:48:21+00:00"
+    }
+  ]
 }
