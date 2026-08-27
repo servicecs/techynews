@@ -14,48 +14,11 @@ OUTPUT_FILE = "news.json"
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "AppleWebKit/537.36 "
+        "(KHTML, like Gecko) "
         "Chrome/151.0.0.0 Safari/537.36"
     )
 }
-
-MAX_RSS_ITEMS = 20
-MAX_SECTION_ITEMS = 20
-
-
-# =========================================================
-# DEFAULT IMAGES
-# =========================================================
-
-DEFAULT_IMAGES = {
-    "mkd": (
-        "https://upload.wikimedia.org/wikipedia/commons/"
-        "7/79/Flag_of_North_Macedonia.svg"
-    ),
-
-    "de": (
-        "https://upload.wikimedia.org/wikipedia/commons/"
-        "b/ba/Flag_of_Germany.svg"
-    ),
-
-    "eng": (
-        "https://upload.wikimedia.org/wikipedia/commons/"
-        "4/4a/English_language.svg"
-    ),
-
-    "starwars": (
-        "https://upload.wikimedia.org/wikipedia/commons/"
-        "6/6c/Star_Wars_Logo.svg"
-    ),
-}
-
-
-# =========================================================
-# SESSION
-# =========================================================
-
-session = requests.Session()
-session.headers.update(HEADERS)
 
 
 # =========================================================
@@ -100,15 +63,15 @@ def load_sources():
 
 
 # =========================================================
-# GET WEB PAGE
+# GET PAGE
 # =========================================================
 
 def get_page(url):
 
-    response = session.get(
+    response = requests.get(
         url,
-        timeout=30,
-        allow_redirects=True
+        headers=HEADERS,
+        timeout=30
     )
 
     response.raise_for_status()
@@ -117,141 +80,29 @@ def get_page(url):
 
 
 # =========================================================
-# CLEAN URL
+# IMAGE FROM HTML
 # =========================================================
 
-def clean_url(url, base_url=""):
-
-    if not url:
-        return ""
-
-    url = str(url).strip()
-
-    url = (
-        url
-        .replace("&amp;", "&")
-        .replace("&#038;", "&")
-        .strip("'\"")
-    )
-
-    if url.startswith("//"):
-        url = "https:" + url
-
-    if base_url:
-        url = urljoin(
-            base_url,
-            url
-        )
-
-    return url
-
-
-# =========================================================
-# CHECK IMAGE URL
-# =========================================================
-
-def looks_like_image(url):
-
-    if not url:
-        return False
-
-    url_lower = url.lower()
-
-    image_extensions = (
-        ".jpg",
-        ".jpeg",
-        ".png",
-        ".webp",
-        ".gif",
-        ".avif",
-        ".svg"
-    )
-
-    if any(
-        ext in url_lower
-        for ext in image_extensions
-    ):
-        return True
-
-    image_words = (
-        "/image",
-        "/images/",
-        "/img/",
-        "/uploads/",
-        "/media/",
-        "/wp-content/uploads/"
-    )
-
-    if any(
-        word in url_lower
-        for word in image_words
-    ):
-        return True
-
-    return False
-
-
-# =========================================================
-# FIND IMAGE IN HTML
-# =========================================================
-
-def find_image_in_html(
-    html,
-    article_url
-):
+def extract_image_from_html(html):
 
     if not html:
         return ""
 
-    # -----------------------------------------------------
-    # 1. OpenGraph
-    # -----------------------------------------------------
-
     patterns = [
+
+        r'<img[^>]+src=["\']([^"\']+)["\']',
+
+        r'<img[^>]+data-src=["\']([^"\']+)["\']',
+
+        r'<img[^>]+data-lazy-src=["\']([^"\']+)["\']',
 
         r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']',
 
         r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']',
 
-        r'<meta[^>]+property=["\']og:image:url["\'][^>]+content=["\']([^"\']+)["\']',
-
-        r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image:url["\']',
-
-    ]
-
-    for pattern in patterns:
-
-        match = re.search(
-            pattern,
-            html,
-            re.IGNORECASE
-        )
-
-        if match:
-
-            image = clean_url(
-                match.group(1),
-                article_url
-            )
-
-            if image:
-                return image
-
-
-    # -----------------------------------------------------
-    # 2. Twitter image
-    # -----------------------------------------------------
-
-    patterns = [
-
         r'<meta[^>]+name=["\']twitter:image["\'][^>]+content=["\']([^"\']+)["\']',
 
-        r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+name=["\']twitter:image["\']',
-
-        r'<meta[^>]+name=["\']twitter:image:src["\'][^>]+content=["\']([^"\']+)["\']',
-
-        r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+name=["\']twitter:image:src["\']',
-
+        r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+name=["\']twitter:image["\']'
     ]
 
     for pattern in patterns:
@@ -259,174 +110,17 @@ def find_image_in_html(
         match = re.search(
             pattern,
             html,
-            re.IGNORECASE
+            re.IGNORECASE | re.DOTALL
         )
 
         if match:
 
-            image = clean_url(
-                match.group(1),
-                article_url
-            )
+            image = match.group(1)
 
             if image:
-                return image
 
+                return image.strip()
 
-    # -----------------------------------------------------
-    # 3. JSON-LD image
-    # -----------------------------------------------------
-
-    json_ld_patterns = [
-
-        r'"image"\s*:\s*"([^"]+)"',
-
-        r'"image"\s*:\s*\[\s*"([^"]+)"',
-
-        r'"thumbnailUrl"\s*:\s*"([^"]+)"',
-
-    ]
-
-    for pattern in json_ld_patterns:
-
-        match = re.search(
-            pattern,
-            html,
-            re.IGNORECASE
-        )
-
-        if match:
-
-            image = clean_url(
-                match.group(1),
-                article_url
-            )
-
-            if image:
-                return image
-
-
-    # -----------------------------------------------------
-    # 4. IMG tags
-    # -----------------------------------------------------
-
-    img_tags = re.findall(
-        r"<img\b[^>]*>",
-        html,
-        re.IGNORECASE
-    )
-
-    attributes = [
-        "src",
-        "data-src",
-        "data-original",
-        "data-lazy-src",
-        "data-image",
-        "data-url",
-        "data-original-src",
-        "data-fallback-src"
-    ]
-
-    for tag in img_tags:
-
-        for attribute in attributes:
-
-            pattern = (
-                rf'{attribute}\s*=\s*'
-                rf'["\']([^"\']+)["\']'
-            )
-
-            match = re.search(
-                pattern,
-                tag,
-                re.IGNORECASE
-            )
-
-            if match:
-
-                image = clean_url(
-                    match.group(1),
-                    article_url
-                )
-
-                if (
-                    image
-                    and looks_like_image(image)
-                ):
-                    return image
-
-
-        # -------------------------------------------------
-        # srcset
-        # -------------------------------------------------
-
-        match = re.search(
-            r'srcset\s*=\s*["\']([^"\']+)["\']',
-            tag,
-            re.IGNORECASE
-        )
-
-        if match:
-
-            srcset = match.group(1)
-
-            candidates = [
-                x.strip().split(" ")[0]
-                for x in srcset.split(",")
-            ]
-
-            for candidate in reversed(candidates):
-
-                image = clean_url(
-                    candidate,
-                    article_url
-                )
-
-                if (
-                    image
-                    and looks_like_image(image)
-                ):
-                    return image
-
-
-    return ""
-
-
-# =========================================================
-# GET ARTICLE IMAGE
-# =========================================================
-
-def get_article_image(url):
-
-    if not url:
-        return ""
-
-    try:
-
-        print(
-            f"    IMAGE FALLBACK: {url}"
-        )
-
-        html = get_page(url)
-
-        image = find_image_in_html(
-            html,
-            url
-        )
-
-        if image:
-
-            print(
-                f"    IMAGE FOUND: {image}"
-            )
-
-            return image
-
-    except Exception as e:
-
-        print(
-            f"    IMAGE ERROR: {e}"
-        )
 
     return ""
 
@@ -437,10 +131,7 @@ def get_article_image(url):
 
 def get_rss_image(entry):
 
-    # -----------------------------------------------------
     # media:content
-    # -----------------------------------------------------
-
     for media in entry.get(
         "media_content",
         []
@@ -448,20 +139,16 @@ def get_rss_image(entry):
 
         if isinstance(media, dict):
 
-            url = (
+            image = (
                 media.get("url")
                 or media.get("href")
             )
 
-            if url:
+            if image:
+                return image
 
-                return clean_url(url)
 
-
-    # -----------------------------------------------------
     # media:thumbnail
-    # -----------------------------------------------------
-
     for media in entry.get(
         "media_thumbnail",
         []
@@ -469,20 +156,16 @@ def get_rss_image(entry):
 
         if isinstance(media, dict):
 
-            url = (
+            image = (
                 media.get("url")
                 or media.get("href")
             )
 
-            if url:
+            if image:
+                return image
 
-                return clean_url(url)
 
-
-    # -----------------------------------------------------
     # enclosure
-    # -----------------------------------------------------
-
     for enclosure in entry.get(
         "enclosures",
         []
@@ -490,104 +173,88 @@ def get_rss_image(entry):
 
         if isinstance(enclosure, dict):
 
-            url = (
+            image = (
                 enclosure.get("href")
                 or enclosure.get("url")
             )
 
-            if url:
+            if image:
+                return image
 
-                return clean_url(url)
 
-
-    # -----------------------------------------------------
     # image field
-    # -----------------------------------------------------
-
-    image_field = entry.get(
+    image = entry.get(
         "image"
     )
 
-    if isinstance(
-        image_field,
-        dict
-    ):
+    if isinstance(image, dict):
 
-        url = (
-            image_field.get("href")
-            or image_field.get("url")
+        image = (
+            image.get("href")
+            or image.get("url")
         )
 
-        if url:
+        if image:
+            return image
 
-            return clean_url(url)
+
+    if isinstance(image, str):
+
+        if image:
+            return image
 
 
-    # -----------------------------------------------------
-    # RSS HTML content
-    # -----------------------------------------------------
+    # summary
+    summary = entry.get(
+        "summary",
+        ""
+    )
 
-    html_fields = [
+    image = extract_image_from_html(
+        summary
+    )
 
-        entry.get("summary", ""),
+    if image:
+        return image
 
-        entry.get("description", ""),
 
-        entry.get("content", ""),
+    # content
+    content = entry.get(
+        "content",
+        []
+    )
 
-        entry.get(
-            "content:encoded",
-            ""
-        )
+    if isinstance(content, list):
 
-    ]
+        for item in content:
 
-    for html in html_fields:
+            if isinstance(item, dict):
 
-        if isinstance(
-            html,
-            list
-        ):
-
-            for part in html:
-
-                if isinstance(
-                    part,
-                    dict
-                ):
-
-                    html_text = (
-                        part.get("value", "")
-                    )
-
-                    match = re.search(
-                        r'<img[^>]+(?:src|data-src)=["\']([^"\']+)["\']',
-                        html_text,
-                        re.IGNORECASE
-                    )
-
-                    if match:
-
-                        return clean_url(
-                            match.group(1)
-                        )
-
-        elif isinstance(
-            html,
-            str
-        ):
-
-            match = re.search(
-                r'<img[^>]+(?:src|data-src)=["\']([^"\']+)["\']',
-                html,
-                re.IGNORECASE
-            )
-
-            if match:
-
-                return clean_url(
-                    match.group(1)
+                html = item.get(
+                    "value",
+                    ""
                 )
+
+                image = extract_image_from_html(
+                    html
+                )
+
+                if image:
+                    return image
+
+
+    # content:encoded
+    encoded = entry.get(
+        "content:encoded",
+        ""
+    )
+
+    image = extract_image_from_html(
+        encoded
+    )
+
+    if image:
+        return image
 
 
     return ""
@@ -603,8 +270,9 @@ def parse_rss(
 ):
 
     print(
-        f"RSS: {source['name']}"
+        f"RSS: {source['name']} -> {source['url']}"
     )
+
 
     try:
 
@@ -612,16 +280,26 @@ def parse_rss(
             source["url"]
         )
 
+
+        if feed.bozo and not feed.entries:
+
+            print(
+                f"RSS FAILED: {source['name']}"
+            )
+
+            return []
+
+
         items = []
 
-        for entry in feed.entries[
-            :MAX_RSS_ITEMS
-        ]:
+
+        for entry in feed.entries[:20]:
 
             link = entry.get(
                 "link",
                 ""
             )
+
 
             if not link:
                 continue
@@ -640,36 +318,12 @@ def parse_rss(
                     "summary",
                     ""
                 )
-            )[:500]
+            )
 
 
             image = get_rss_image(
                 entry
             )
-
-
-            # -------------------------------------------------
-            # IMPORTANT:
-            # If RSS has no image, visit the article
-            # -------------------------------------------------
-
-            if not image:
-
-                image = get_article_image(
-                    link
-                )
-
-
-            # -------------------------------------------------
-            # Final fallback
-            # -------------------------------------------------
-
-            if not image:
-
-                image = DEFAULT_IMAGES.get(
-                    category,
-                    ""
-                )
 
 
             date = (
@@ -689,25 +343,24 @@ def parse_rss(
 
                 "category": category,
 
-                "source":
-                    source["name"],
+                "source": source["name"],
 
-                "title":
-                    title,
+                "title": title,
 
-                "description":
-                    description,
+                "description": description[:500],
 
-                "url":
-                    link,
+                "url": link,
 
-                "image":
-                    image,
+                "image": image,
 
-                "date":
-                    date
+                "date": date
 
             })
+
+
+        print(
+            f"  -> {len(items)} articles"
+        )
 
 
         return items
@@ -716,15 +369,14 @@ def parse_rss(
     except Exception as e:
 
         print(
-            f"RSS ERROR "
-            f"[{source['name']}]: {e}"
+            f"RSS ERROR [{source['name']}]: {e}"
         )
 
         return []
 
 
 # =========================================================
-# SIMPLE WEBSITE SCRAPER
+# WEBSITE SCRAPER
 # =========================================================
 
 def scrape_website(
@@ -736,11 +388,13 @@ def scrape_website(
         f"SCRAPE: {source['name']}"
     )
 
+
     try:
 
         html = get_page(
             source["url"]
         )
+
 
         items = []
 
@@ -748,9 +402,13 @@ def scrape_website(
 
 
         links = re.findall(
+
             r'<a\b[^>]*href=["\']([^"\']+)["\'][^>]*>(.*?)</a>',
+
             html,
+
             re.IGNORECASE | re.DOTALL
+
         )
 
 
@@ -785,14 +443,12 @@ def scrape_website(
             if any(
                 x in lowered
                 for x in [
-
                     "javascript:",
                     "/tag/",
                     "/category/",
                     "/author/",
                     "/page/",
                     "#"
-
                 ]
             ):
 
@@ -802,11 +458,8 @@ def scrape_website(
             seen.add(url)
 
 
-            # -------------------------------------------------
-            # Try to find image near link
-            # -------------------------------------------------
-
             image = ""
+
 
             position = html.find(
                 href
@@ -824,72 +477,37 @@ def scrape_website(
                 ]
 
 
-                match = re.search(
-                    r'<img[^>]+(?:src|data-src|data-lazy-src)=["\']([^"\']+)["\']',
-                    area,
-                    re.IGNORECASE
-                )
-
-
-                if match:
-
-                    image = clean_url(
-                        match.group(1),
-                        source["url"]
-                    )
-
-
-            # -------------------------------------------------
-            # If not found, visit article
-            # -------------------------------------------------
-
-            if not image:
-
-                image = get_article_image(
-                    url
-                )
-
-
-            # -------------------------------------------------
-            # Default image
-            # -------------------------------------------------
-
-            if not image:
-
-                image = DEFAULT_IMAGES.get(
-                    category,
-                    ""
+                image = extract_image_from_html(
+                    area
                 )
 
 
             items.append({
 
-                "category":
-                    category,
+                "category": category,
 
-                "source":
-                    source["name"],
+                "source": source["name"],
 
-                "title":
-                    title,
+                "title": title,
 
-                "description":
-                    "",
+                "description": "",
 
-                "url":
-                    url,
+                "url": url,
 
-                "image":
-                    image,
+                "image": image,
 
-                "date":
-                    ""
+                "date": ""
 
             })
 
 
-            if len(items) >= MAX_RSS_ITEMS:
+            if len(items) >= 20:
                 break
+
+
+        print(
+            f"  -> {len(items)} articles"
+        )
 
 
         return items
@@ -898,8 +516,7 @@ def scrape_website(
     except Exception as e:
 
         print(
-            f"SCRAPE ERROR "
-            f"[{source['name']}]: {e}"
+            f"SCRAPE ERROR [{source['name']}]: {e}"
         )
 
         return []
@@ -909,9 +526,7 @@ def scrape_website(
 # YOUTUBE CHANNEL ID
 # =========================================================
 
-def get_youtube_channel_id(
-    url
-):
+def get_youtube_channel_id(url):
 
     try:
 
@@ -940,6 +555,7 @@ def get_youtube_channel_id(
                 html
             )
 
+
             if match:
 
                 return match.group(1)
@@ -959,9 +575,7 @@ def get_youtube_channel_id(
 # YOUTUBE
 # =========================================================
 
-def parse_youtube(
-    source
-):
+def parse_youtube(source):
 
     print(
         f"YouTube: {source['name']}"
@@ -970,17 +584,15 @@ def parse_youtube(
 
     try:
 
-        channel_id = (
-            get_youtube_channel_id(
-                source["url"]
-            )
+        channel_id = get_youtube_channel_id(
+            source["url"]
         )
 
 
         if not channel_id:
 
             print(
-                "Channel ID not found: "
+                f"Channel ID not found: "
                 f"{source['name']}"
             )
 
@@ -1022,37 +634,30 @@ def parse_youtube(
 
             items.append({
 
-                "category":
-                    "youtube",
+                "category": "youtube",
 
-                "source":
-                    source["name"],
+                "source": source["name"],
 
-                "title":
-                    clean_text(
-                        entry.get(
-                            "title",
-                            "Untitled"
-                        )
-                    ),
-
-                "description":
-                    "",
-
-                "url":
+                "title": clean_text(
                     entry.get(
-                        "link",
-                        ""
-                    ),
-
-                "image":
-                    image,
-
-                "date":
-                    entry.get(
-                        "published",
-                        ""
+                        "title",
+                        "Untitled"
                     )
+                ),
+
+                "description": "",
+
+                "url": entry.get(
+                    "link",
+                    ""
+                ),
+
+                "image": image,
+
+                "date": entry.get(
+                    "published",
+                    ""
+                )
 
             })
 
@@ -1074,9 +679,7 @@ def parse_youtube(
 # REMOVE DUPLICATES
 # =========================================================
 
-def remove_duplicates(
-    items
-):
+def remove_duplicates(items):
 
     result = {}
 
@@ -1085,6 +688,7 @@ def remove_duplicates(
         url = item.get(
             "url"
         )
+
 
         if url:
 
@@ -1100,9 +704,7 @@ def remove_duplicates(
 # SORT BY DATE
 # =========================================================
 
-def sort_items(
-    items
-):
+def sort_items(items):
 
     def get_date(item):
 
@@ -1110,6 +712,7 @@ def sort_items(
             "date",
             ""
         )
+
 
         try:
 
@@ -1141,6 +744,130 @@ def sort_items(
         key=get_date,
         reverse=True
     )
+
+
+# =========================================================
+# LOAD CATEGORY
+# =========================================================
+
+def load_category(
+    sources,
+    category
+):
+
+    result = []
+
+
+    for source in sources:
+
+        source_type = source.get(
+            "type"
+        )
+
+
+        if source_type == "rss":
+
+            items = parse_rss(
+                source,
+                category
+            )
+
+
+        elif source_type == "website":
+
+            items = scrape_website(
+                source,
+                category
+            )
+
+
+        else:
+
+            items = []
+
+
+        result.extend(
+            items
+        )
+
+
+    result = remove_duplicates(
+        result
+    )
+
+
+    result = sort_items(
+        result
+    )
+
+
+    return result[:30]
+
+
+# =========================================================
+# ENGADGET FALLBACK
+# =========================================================
+
+def load_eng_sources(
+    sources
+):
+
+    result = []
+
+
+    for source in sources:
+
+        items = parse_rss(
+            source,
+            "eng"
+        )
+
+
+        # If Engadget /feed/ fails,
+        # try official rss.xml
+        if (
+            source["name"] == "Engadget"
+            and not items
+        ):
+
+            print(
+                "Engadget /feed/ failed."
+            )
+
+            print(
+                "Trying official rss.xml..."
+            )
+
+
+            fallback_source = {
+                "name": "Engadget",
+                "type": "rss",
+                "url": "https://www.engadget.com/rss.xml"
+            }
+
+
+            items = parse_rss(
+                fallback_source,
+                "eng"
+            )
+
+
+        result.extend(
+            items
+        )
+
+
+    result = remove_duplicates(
+        result
+    )
+
+
+    result = sort_items(
+        result
+    )
+
+
+    return result[:30]
 
 
 # =========================================================
@@ -1193,124 +920,51 @@ def main():
     # MKD
     # =====================================================
 
-    for source in sources.get(
-        "mkd",
-        []
-    ):
-
-        if source.get(
-            "type"
-        ) == "rss":
-
-            items = parse_rss(
-                source,
-                "mkd"
-            )
-
-        else:
-
-            items = scrape_website(
-                source,
-                "mkd"
-            )
-
-
-        result["mkd"].extend(
-            items
-        )
+    result["mkd"] = load_category(
+        sources.get(
+            "mkd",
+            []
+        ),
+        "mkd"
+    )
 
 
     # =====================================================
     # DE
     # =====================================================
 
-    for source in sources.get(
-        "de",
-        []
-    ):
-
-        if source.get(
-            "type"
-        ) == "rss":
-
-            items = parse_rss(
-                source,
-                "de"
-            )
-
-        else:
-
-            items = scrape_website(
-                source,
-                "de"
-            )
-
-
-        result["de"].extend(
-            items
-        )
+    result["de"] = load_category(
+        sources.get(
+            "de",
+            []
+        ),
+        "de"
+    )
 
 
     # =====================================================
     # ENG
     # =====================================================
 
-    for source in sources.get(
-        "eng",
-        []
-    ):
-
-        if source.get(
-            "type"
-        ) == "rss":
-
-            items = parse_rss(
-                source,
-                "eng"
-            )
-
-        else:
-
-            items = scrape_website(
-                source,
-                "eng"
-            )
-
-
-        result["eng"].extend(
-            items
+    result["eng"] = load_eng_sources(
+        sources.get(
+            "eng",
+            []
         )
+    )
 
 
     # =====================================================
     # STAR WARS
     # =====================================================
 
-    for source in sources.get(
-        "starwars",
-        []
-    ):
-
-        if source.get(
-            "type"
-        ) == "rss":
-
-            items = parse_rss(
-                source,
-                "starwars"
-            )
-
-        else:
-
-            items = scrape_website(
-                source,
-                "starwars"
-            )
-
-
-        result["starwars"].extend(
-            items
-        )
+    result["starwars"] = load_category(
+        sources.get(
+            "starwars",
+            []
+        ),
+        "starwars"
+    )
 
 
     # =====================================================
@@ -1326,68 +980,14 @@ def main():
             source
         )
 
-
         result["youtube"].extend(
             items
         )
 
 
-    # =====================================================
-    # REMOVE DUPLICATES
-    # =====================================================
-
-    for category in [
-        "mkd",
-        "de",
-        "eng",
-        "starwars",
-        "youtube"
-    ]:
-
-        result[category] = remove_duplicates(
-            result[category]
-        )
-
-
-    # =====================================================
-    # SORT
-    # =====================================================
-
-    for category in [
-        "mkd",
-        "de",
-        "eng",
-        "starwars",
-        "youtube"
-    ]:
-
-        result[category] = sort_items(
-            result[category]
-        )
-
-
-    # =====================================================
-    # LIMIT
-    # =====================================================
-
-    result["mkd"] = result[
-        "mkd"
-    ][:MAX_SECTION_ITEMS]
-
-
-    result["de"] = result[
-        "de"
-    ][:MAX_SECTION_ITEMS]
-
-
-    result["eng"] = result[
-        "eng"
-    ][:MAX_SECTION_ITEMS]
-
-
-    result["starwars"] = result[
-        "starwars"
-    ][:MAX_SECTION_ITEMS]
+    result["youtube"] = remove_duplicates(
+        result["youtube"]
+    )
 
 
     result["youtube"] = result[
@@ -1396,7 +996,7 @@ def main():
 
 
     # =====================================================
-    # SAVE
+    # SAVE NEWS.JSON
     # =====================================================
 
     with open(
@@ -1412,10 +1012,6 @@ def main():
             indent=2
         )
 
-
-    # =====================================================
-    # REPORT
-    # =====================================================
 
     print(
         "========================================"
@@ -1434,7 +1030,7 @@ def main():
     )
 
     print(
-        f"Star Wars: {len(result['starwars'])}"
+        f"STAR WARS: {len(result['starwars'])}"
     )
 
     print(
@@ -1451,7 +1047,7 @@ def main():
 
 
 # =========================================================
-# START
+# RUN
 # =========================================================
 
 if __name__ == "__main__":
