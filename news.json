@@ -1,111 +1,1174 @@
 {
+  "updated": "2026-08-27T14:53:42.025508+00:00",
   "mkd": [
     {
-      "name": "SmartPortal",
-      "type": "rss",
-      "url": "https://smartportal.mk/feed/"
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "РАТКО МЛAДИЌ – МЕЃУ ВОЕН ХЕРОЈ И ВОЕН ЗЛОСТОРНИК Заврши еден живот полн со контрасти, врвови и падови | +инфо",
+      "description": "",
+      "url": "https://time.mk/c/478aa72ada/ratko-mladik-megju-voen-heroj-i-voen-zlostornik-zavrsi-eden-zivot-poln-so-kontrasti-vrvovi-i-padovi.html",
+      "image": "",
+      "date": "Thu, 27 Aug 2026 14:40:54 +0000"
     },
     {
-      "name": "Time.mk",
-      "type": "rss",
-      "url": "https://time.mk/rss/all"
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Костадиновски возврати со домашен „фолклор“ на бруката од Стразбур | Независен",
+      "description": "",
+      "url": "https://time.mk/c/a680e813bb/kostadinovski-vozvrati-so-domasen-folklor-na-brukata-od-strazbur.html",
+      "image": "",
+      "date": "Thu, 27 Aug 2026 13:13:17 +0000"
     },
     {
-      "name": "Motika",
-      "type": "rss",
-      "url": "https://motika.mk/feed/"
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Почина уште еден заболен од западно-нилска треска | Мета",
+      "description": "",
+      "url": "https://time.mk/c/c4f2038e75/pocina-uste-eden-zabolen-od-zapadno-nilska-treska.html",
+      "image": "",
+      "date": "Thu, 27 Aug 2026 12:00:53 +0000"
     },
     {
-      "name": "OhridNews",
-      "type": "website",
-      "url": "https://ohridnews.com/"
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "За 1.400 евра се купувале категории за камиони и автобуси: Левица бара истрага во МВР | Антропол",
+      "description": "",
+      "url": "https://time.mk/c/7ba5caef92/za-1-400-evra-se-kupuvale-kategorii-za-kamioni-i-avtobusi-levica-bara-istraga-vo-mvr.html",
+      "image": "",
+      "date": "Thu, 27 Aug 2026 12:50:55 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Помалку, но сепак многу жртви на патиштата: Ќе помогне ли Националната стратегија? | Независен",
+      "description": "",
+      "url": "https://time.mk/c/f0c0884bd5/pomalku-no-sepak-mnogu-zrtvi-na-patistata-ke-pomogne-li-nacionalnata-strategija.html",
+      "image": "",
+      "date": "Thu, 27 Aug 2026 11:01:16 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Привремено се затвораат четири подрачни училишта во Делчево поради недостиг на ученици | Press24",
+      "description": "",
+      "url": "https://time.mk/c/66e41f3e6d/privremeno-se-zatvoraat-cetiri-podracni-ucilista-vo-delcevo-poradi-nedostig-na-ucenici.html",
+      "image": "",
+      "date": "Thu, 27 Aug 2026 14:44:49 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Мицкоски ја обвини опозицијата дека не ја сака Македонија | Независен",
+      "description": "",
+      "url": "https://time.mk/c/6d369c5927/mickoski-ja-obvini-opozicijata-deka-ne-ja-saka-makedonija.html",
+      "image": "",
+      "date": "Thu, 27 Aug 2026 12:50:55 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Дурмиши: Сега трговците се примерни, но ако имаат девијантно однесување, ќе бидат казнети | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/c1855292b9/durmisi-sega-trgovcite-se-primerni-no-ako-imaat-devijantno-odnesuvanje-ke-bidat-kazneti.html",
+      "image": "",
+      "date": "Thu, 27 Aug 2026 11:27:16 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Гори на пет локации низ државава – нови пожари на Жеден и во Тетовско | Вечер Прес",
+      "description": "",
+      "url": "https://time.mk/c/fcff5c49ff/gori-na-pet-lokacii-niz-drzavava-novi-pozari-na-zeden-i-vo-tetovsko.html",
+      "image": "",
+      "date": "Thu, 27 Aug 2026 12:08:54 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Драма на Халкидики: Тешко повредена туристка, едно лице уапсено | Press24",
+      "description": "",
+      "url": "https://time.mk/c/217c98d11c/drama-na-halkidiki-tesko-povredena-turistka-edno-lice-uapseno.html",
+      "image": "",
+      "date": "Thu, 27 Aug 2026 13:16:54 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Уривањето на глечерот што предизвика поплави во Непал, регистриран како земјотрес со јачина од 5,2 степени | Вечер Прес",
+      "description": "",
+      "url": "https://time.mk/c/9438051bc8/urivanjeto-na-glecerot-sto-predizvika-poplavi-vo-nepal-registriran-kako-zemjotres-so-jacina-od-5-2-stepeni.html",
+      "image": "",
+      "date": "Thu, 27 Aug 2026 14:16:53 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "РУСИЈА ЌЕ НАПАДНЕ БРИТАНСКИ ВОЕНИ ЦЕЛИ ВО И НАДВОР ОД УКРАИНА Москва упати најостра закана досега до Лондон | +инфо",
+      "description": "",
+      "url": "https://time.mk/c/54fd39391e/rusija-ke-napadne-britanski-voeni-celi-vo-i-nadvor-od-ukraina-moskva-upati-najostra-zakana-dosega-do-london.html",
+      "image": "",
+      "date": "Thu, 27 Aug 2026 13:16:54 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Познат возниот ред за градскиот воз Зелениково-Скопје | Кајгана",
+      "description": "",
+      "url": "https://time.mk/c/17a6edaf8a/poznat-vozniot-red-za-gradskiot-voz-zelenikovo-skopje.html",
+      "image": "",
+      "date": "Thu, 27 Aug 2026 13:42:47 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Општина Илинден: Започна изградбата на капела во рамки на локалните гробишта во м.в. Јака, Марино | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/b8680a3006/opstina-ilinden-zapocna-izgradbata-na-kapela-vo-ramki-na-lokalnite-grobista-vo-m-v-jaka-marino.html",
+      "image": "",
+      "date": "Thu, 27 Aug 2026 10:32:53 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "28-годишник ја нападнал 16-годишната партнерка | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/f5dc227cd9/28-godisnik-ja-napadnal-16-godisnata-partnerka.html",
+      "image": "",
+      "date": "Thu, 27 Aug 2026 11:40:55 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "ХАОС ПРЕД ОХРИДСКАТА ПОЛИЦИСКА СТАНИЦА Охриѓанка нападнала полицајка и ѝ се заканувала | +инфо",
+      "description": "",
+      "url": "https://time.mk/c/d6d689ea04/haos-pred-ohridskata-policiska-stanica-ohrigjanka-napadnala-policajka-i-i-se-zakanuvala.html",
+      "image": "",
+      "date": "Thu, 27 Aug 2026 10:44:45 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Крива Паланка обезбеди бесплатни паркинг простори за посетителите за претстојните празнични денови | Независен",
+      "description": "",
+      "url": "https://time.mk/c/a5df5f4a16/kriva-palanka-obezbedi-besplatni-parking-prostori-za-posetitelite-za-pretstojnite-praznicni-denovi.html",
+      "image": "",
+      "date": "Thu, 27 Aug 2026 09:46:42 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "По повод чествување на празниците Успение на Пресвета Богородица и денот на светецот-закрилник, манастирот Свети Јоаким Осоговски ги кани верниците на литургија | Скопје инфо",
+      "description": "",
+      "url": "https://time.mk/c/54794c8e56/po-povod-cestvuvanje-na-praznicite-uspenie-na-presveta-bogorodica-i-denot-na-svetecot-zakrilnik-manastirot-sveti-joakim-osogovski-gi-kani-vernicite-na-liturgija.html",
+      "image": "",
+      "date": "Thu, 27 Aug 2026 08:04:49 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "ТРИБЈУТИ ЗА „ДНК“ И ВЛАДО ЈАНЕВСКИ НА ФЕСТИВАЛОТ НА УЛИЧНА ХРАНА ВО СКОПЈЕ | Сакам да кажам",
+      "description": "",
+      "url": "https://time.mk/c/9200e74c6a/tribjuti-za-dnk-i-vlado-janevski-na-festivalot-na-ulicna-hrana-vo-skopje.html",
+      "image": "",
+      "date": "Thu, 27 Aug 2026 14:50:35 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Министерот Сулејмани изврши увид во изградбата на Универзална – очекува повидлив изглед | Независен",
+      "description": "",
+      "url": "https://time.mk/c/b19c9083e9/ministerot-sulejmani-izvrsi-uvid-vo-izgradbata-na-univerzalna-ocekuva-povidliv-izgled.html",
+      "image": "",
+      "date": "Thu, 27 Aug 2026 10:34:47 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Св. Петар и Господ се договориле да примаат само луѓе кои починале на необичен начин (виц)",
+      "description": "Свети Петар и Господ се договориле отсега во рајот да примаат само луѓе кои починале на некој спектакуларен начин. По некое време, некој тропнал на небесната врата. Свети Петар му рекол: – Примаме само необични случаи! Покојникот почнал: – Слушни ја мојата приказна! Отсекогаш мислев дека жена ми ме изневерува. Еден ден се вратив од ...",
+      "url": "https://motika.mk/sv-petar-i-gospod-se-dogovorile-da-primaat-samo-luge-koi-pocinale-na-neobicen-nacin-vic/",
+      "image": "https://motika.mk/wp-content/uploads/2026/08/27/vic.jpg",
+      "date": "Thu, 27 Aug 2026 13:00:44 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Не секој „проблем“ треба да го претворите во „шанса“",
+      "description": "Замени го зборот ПРОБЛЕМ со зборот ШАНСА во сите твои мисли. И така, од човек со проблем добивме човек со можност. Напредок е напредок.",
+      "url": "https://motika.mk/ne-sekoj-problem-treba-da-go-pretvorite-vo-sansa/",
+      "image": "https://motika.io/serve_video/2610c0ef-ced1-4b7c-b7ed-eddebc8fa9ac/",
+      "date": "Thu, 27 Aug 2026 12:53:10 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Откриени платите во Microsoft – седнете пред да ги видите",
+      "description": "Во јавноста се појави интерна табела со платите во Microsoft, а бројките откриваат колку навистина може да се заработува во една од највредните компании во светот. Документот, до кој дошол Business Insider, собира доброволно откриени податоци за плати од околу 600 вработени во Microsoft, на различни нивоа на старешинство. Иако технолошкиот гигант вработува повеќе од ...",
+      "url": "https://motika.mk/otkrieni-platite-vo-microsoft-sednete-pred-da-gi-vidite/",
+      "image": "https://motika.io/media/2026/08/27/img-0f2cf7fb-f390-4d79-90cb-6fabf7a15a94-1.jpg",
+      "date": "Thu, 27 Aug 2026 12:47:04 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Најчудната православна црква се наоѓа во Кенија, скриена во карпи",
+      "description": "Скриена меѓу огромни карпи и бујна африканска природа, оваа необична православна црква во Кенија е посветена на Свети Порфириј Кавсокаливит. Храмот бил осветен во 2014 година, во оддалечена област во западниот дел на земјата, а необичната околина го прави да изгледа како да е буквално израснат од карпите.",
+      "url": "https://motika.mk/najcudnata-pravoslavna-crkva-se-naoga-vo-kenija-skriena-vo-karpi/",
+      "image": "https://motika.io/serve_video/6e6cd501-d46a-4477-8962-6bca1af4d9bc/",
+      "date": "Thu, 27 Aug 2026 12:33:56 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Од приватни авиони и накит со дијаманти до самица: Новата реалност на браќата Тејт",
+      "description": "Три темно запечени рибаj стекови, тешки неколку килограми, пристигнаа на бела чинија во отмен ресторан во Букурешт, Романија. Малата маса беше преполна со шишиња газирана вода San Pellegrino и елегантни садови со секој сос и додаток што ресторанот го нудеше. Во силно монтирано видео, Тристан Тејт методично ги сечеше и ги изеде сите три стекови ...",
+      "url": "https://motika.mk/od-privatni-avioni-i-nakit-so-dijamanti-do-samica-novata-realnost-na-brakata-tejt/",
+      "image": "https://motika.io/media/2026/08/27/img-999f79a2-0ab0-4ce5-8d6c-5ca5c84fcde2-2.JPG",
+      "date": "Thu, 27 Aug 2026 12:27:45 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "„Порано беше подобро“ – ама дали навистина? Погледнете каде е Македонија по невработеност од 1991 до 2025 година",
+      "description": "Често знаеме да кажеме дека „порано беше подобро“, но кога станува збор за невработеноста, бројките раскажуваат малку поинаква приказна. Според податоците прикажани во видеото, Македонија од 1991 до 2025 година речиси постојано се наоѓа на самиот европски врв – со години на првото, а потоа најчесто на второто место. Стапката на невработеност со текот на ...",
+      "url": "https://motika.mk/porano-bese-podobro-ama-dali-navistina-poglednete-kade-e-makedonija-po-nevrabotenost-od-1991-do-2025-godina/",
+      "image": "https://motika.io/serve_video/63d16ca4-5a92-4bb4-90de-16ce849bb4fc/",
+      "date": "Thu, 27 Aug 2026 12:16:17 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Сега ќе ви покажам до кое ниво на вежбање стигнав",
+      "description": "Јас сум со бабата.",
+      "url": "https://motika.mk/sega-ke-vi-pokazam-do-koe-nivo-na-vezbane-stignav/",
+      "image": "https://motika.io/serve_video/406c913a-c40a-4e41-a2e5-86e8e3b2ea92/",
+      "date": "Thu, 27 Aug 2026 12:08:40 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Дизајнер ја создаде „најгрдата хавајска кошула на светот“ за да се скрие од камерите со вештачка интелигенција",
+      "description": "Додека некои активисти за заштита на приватноста се решаваат на радикални потези, па дури и физички ги отстрануваат столбовите со надзорни камери, еден уметник пронашол многу понеобичен начин да му се спротивстави на сè поприсутниот надзор – со веројатно најгрдата хавајска кошула што сте ја виделе. Содржина: Розови, портокалови и зелени дамки ја кршат линијата ...",
+      "url": "https://motika.mk/dizajner-ja-sozdade-najgrdata-havajska-kosula-na-svetot-za-da-se-skrie-od-kamerite-so-vestacka-inteligencija/",
+      "image": "https://motika.io/media/2026/08/27/img-e051f171-f228-4637-887d-31825c07cf80-1.png",
+      "date": "Thu, 27 Aug 2026 11:57:03 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Како да ги задоволиш жените (виц)",
+      "description": "Неколку жени заминале на одмор и влегле во хотел на чија врата пишувало: „Само за жени“. На рецепцијата ги пречекал симпатичен млад човек и им објаснил: – Хотелот има пет ката. Одете од кат на кат и изберете го оној што најмногу ви одговара. Но, само да знаете – штом ќе се качите на повисок ...",
+      "url": "https://motika.mk/kako-da-gi-zadovolis-zenite-vic/",
+      "image": "https://motika.mk/wp-content/uploads/2026/08/27/zei.jpg",
+      "date": "Thu, 27 Aug 2026 11:42:32 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Како реномираниот руски доктор поверувал во Господ?",
+      "description": "Приказна за еден доктор кој верувал само во науката и сопствениот труд – сè додека низа неверојатни околности не го одвеле токму таму каде што најмалку очекувал. Случајност или нешто повеќе? Проценете сами.",
+      "url": "https://motika.mk/kako-renomiraniot-ruski-doktor-poveruval-vo-gospod/",
+      "image": "https://motika.io/serve_video/4162f3d1-2f6a-449e-9762-1118a7b76f00/",
+      "date": "Thu, 27 Aug 2026 11:27:54 +0000"
     }
   ],
-
   "de": [
     {
-      "name": "Centron",
-      "type": "rss",
-      "url": "https://www.centron.de/feed/"
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Comic-Downloads – Websites im August 2026",
+      "description": "Comic-Downloads sind nur dann legal, sofern die heruntergeladenen Werke gemeinfrei sind oder ihr Urheberrecht schon ausgelaufen sein sollte. Das ist aber in dem Bereich sehr selten der Fall. Die ersten Auftritte des Spinatessers Popeye aus dem Jahr 1929 sind seit Anfang letzten Jahres in den USA gemeinfrei. Das gleiche gilt für die ursprüngliche Version von […] Der Artikel Comic-Downloads – Websites im August 2026 erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/listen/comic-downloads-websites-im-august-2026-333006.html",
+      "image": "",
+      "date": "Thu, 27 Aug 2026 10:09:22 +0000"
     },
     {
-      "name": "Tarnkappe",
-      "type": "rss",
-      "url": "https://tarnkappe.info/feed"
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Hentai-Streaming: Portale für Streams und Download im August 2026",
+      "description": "Es hat sich einiges im Web getan, wenn es um Hentai-Streaming Portale geht. Manche bieten den Besuchern auch einen Download der Werke an. Der Artikel Hentai-Streaming: Portale für Streams und Download im August 2026 erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/listen/hentai-streaming-portale-fuer-streams-und-download-im-august-2026-332996.html",
+      "image": "",
+      "date": "Wed, 26 Aug 2026 15:26:46 +0000"
     },
     {
-      "name": "ComputerBase",
-      "type": "rss",
-      "url": "https://www.computerbase.de/feeds/news.xml"
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "KorbKlar, der lokale Einkaufshelfer ohne Accountzwang und Nutzertracking",
+      "description": "Unser kostenloser Einkaufshelfer KorbKlar vergleicht lokale Angebote verschiedener Händler ohne Accountzwang und Nutzertracking. Der Artikel KorbKlar, der lokale Einkaufshelfer ohne Accountzwang und Nutzertracking erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/softwareentwicklung/korbklar-der-lokale-einkaufshelfer-ohne-accountzwang-und-nutzertracking-332966.html",
+      "image": "",
+      "date": "Tue, 25 Aug 2026 13:10:26 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "GTA VI Fake-ISO: 113 GB Download entpuppt sich als Malware-Falle",
+      "description": "GTA VI Fake-ISO mit 113 GB entpuppt sich als Malware-Falle: 99,99 Prozent sollen nur aus Datenmüll bestehen. Der Artikel GTA VI Fake-ISO: 113 GB Download entpuppt sich als Malware-Falle erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/gaming/gta-vi-fake-iso-malware-falle-332956.html",
+      "image": "",
+      "date": "Mon, 24 Aug 2026 15:06:33 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "E-Book-Piratin gestoppt: BREIN pfändet Haus und Mercedes",
+      "description": "E-Book-Piratin gestoppt: BREIN pfändet Haus und Auto. Erst danach gibt die hartnäckige Verkäuferin illegaler E-Books auf. Der Artikel E-Book-Piratin gestoppt: BREIN pfändet Haus und Mercedes erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/e-books/e-book-piratin-gestoppt-brein-pfaendet-wohnung-mercedes-332947.html",
+      "image": "",
+      "date": "Sun, 23 Aug 2026 14:29:51 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "GitHub-Säuberungsaktion von Nintendo: 400 Repos gelöscht",
+      "description": "Die Rechtsabteilung von Nintendo war mal wieder fleißig. In einer koordinierten GitHub-Säuberungsaktion ließ man 400 Quellcodes entfernen. Der Artikel GitHub-Säuberungsaktion von Nintendo: 400 Repos gelöscht erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/rechtssachen/github-saeuberungsaktion-von-nintendo-400-repos-geloescht-332948.html",
+      "image": "",
+      "date": "Sun, 23 Aug 2026 12:58:11 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Illegale IPTV-Streams: 200.000 Pfund kassiert – Millionen-Schaden für Sky?",
+      "description": "Illegales IPTV brachte einem Reseller über 200.000 Pfund ein. Sky beziffert die entgangenen Einnahmen auf 3,66 Millionen Pfund. Der Artikel Illegale IPTV-Streams: 200.000 Pfund kassiert – Millionen-Schaden für Sky? erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/iptv/illegale-iptv-streams-200000-pfund-sky-332913.html",
+      "image": "",
+      "date": "Sat, 22 Aug 2026 12:46:36 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Malware versteckt sich häufig in E-Book-Warez",
+      "description": "Die US-Verlage stöhnen über große Verluste, dabei versteckt sich Malware auch in den E-Book-Warez. Doch wie funktioniert das Ganze? Der Artikel Malware versteckt sich häufig in E-Book-Warez erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/e-books/malware-versteckt-sich-haeufig-in-e-book-warez-332912.html",
+      "image": "",
+      "date": "Sat, 22 Aug 2026 10:05:06 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Resonance: A Plague Tale Legacy geleakt – noch nicht erschienen, schon raubkopiert",
+      "description": "Resonance: A Plague Tale Legacy ist eine Woche vor Release geleakt. Die PC-Version kursiert bereits in der Piraterie-Szene – Spoilergefahr. Der Artikel Resonance: A Plague Tale Legacy geleakt – noch nicht erschienen, schon raubkopiert erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/gaming/resonance-a-plague-tale-legacy-geleakt-332866.html",
+      "image": "",
+      "date": "Fri, 21 Aug 2026 12:39:18 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "CyberLeek: Besitzt der Leaker eine spielbare Version von GTA 6?",
+      "description": "Im Telegram-Kanal CyberLeek zeigt man mehrere Videos einer recht fertig aussehenden Version von GTA 6. Bei X hat man den Account gesperrt. Der Artikel CyberLeek: Besitzt der Leaker eine spielbare Version von GTA 6? erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/gaming/cyberleek-besitzt-der-leaker-eine-spielbare-version-von-gta-6-332833.html",
+      "image": "",
+      "date": "Thu, 20 Aug 2026 19:43:27 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Beitragsservice ohne Service: Haushaltspauschale künftig ohne Erinnerung",
+      "description": "Einzugsermächtigung erteilt? Die Erinnerungen der Rundfunkgebühren fallen weg. Der Beitragsservice verschickt gerade 4,5 Millionen Briefe. Der Artikel Beitragsservice ohne Service: Haushaltspauschale künftig ohne Erinnerung erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/beitragsservice-ohne-service-haushaltspauschale-kuenftig-ohne-erinnerung-332831.html",
+      "image": "",
+      "date": "Thu, 20 Aug 2026 17:18:44 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "RTX 5080 gestohlen: Dreister GPU-Tausch fliegt erst nach Blackout auf",
+      "description": "In chinesischen Gaming-Hotels tauschten Diebe High-End-GPUs gegen RTX 3060. Erst ein Stromausfall brachte den Betrug ans Licht Der Artikel RTX 5080 gestohlen: Dreister GPU-Tausch fliegt erst nach Blackout auf erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/gaming/rtx-5080-gestohlen-dreister-gpu-tausch-fliegt-erst-nach-blackout-auf-332816.html",
+      "image": "",
+      "date": "Thu, 20 Aug 2026 12:39:43 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Amazon führt neues DRM ein, schließt Libby-Schlupfloch",
+      "description": "Amazon hat ein neues, stärker abgesichertes DRM auf einigen Geräten ihres Kindle Oasis ausgerollt und das Libby-Schlupfloch geschlossen. Der Artikel Amazon führt neues DRM ein, schließt Libby-Schlupfloch erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/e-books/amazon-fuehrt-neues-drm-ein-schliesst-libby-schlupfloch-332806.html",
+      "image": "",
+      "date": "Thu, 20 Aug 2026 09:30:19 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "CUII: LG Köln ließ KinoGo und Streamed sperren",
+      "description": "Die großen Internet-Anbieter müssen nun den Zugang zu den Domains der beiden Streaming-Websites KinoGo und Streamed sperren. Der Artikel CUII: LG Köln ließ KinoGo und Streamed sperren erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/rechtssachen/cuii-lg-koeln-liess-kinogo-und-streamed-sperren-332792.html",
+      "image": "",
+      "date": "Wed, 19 Aug 2026 14:24:47 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Microsoft Copilot gehackt: KI verrät Forschern ihren eigenen Angriffsweg",
+      "description": "Microsoft Copilot gehackt: Forscher bringen KI dazu, ihren eigenen Angriffsweg zu verraten. CoSnitch konnte Daten per One-Click abgreifen. Der Artikel Microsoft Copilot gehackt: KI verrät Forschern ihren eigenen Angriffsweg erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/it-sicherheit/microsoft-copilot-gehackt-332791.html",
+      "image": "",
+      "date": "Wed, 19 Aug 2026 14:03:34 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "c-network.to: Domain vom neuen Crimenetwork beschlagnahmt",
+      "description": "Gestern beschlagnahmte das BKA die Domain der dritten Version des Fraud-Forums Crimenetwork. Offenbar sind auch die Server betroffen. Der Artikel c-network.to: Domain vom neuen Crimenetwork beschlagnahmt erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/szene/dark-commerce/c-network-to-domain-vom-neuen-crimenetwork-beschlagnahmt-332788.html",
+      "image": "",
+      "date": "Wed, 19 Aug 2026 08:36:11 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "IPTV-Reseller: „Ich verticke Abos fast wie ein Drogenhändler“",
+      "description": "IPTV-Reseller packt aus: 1.000 Kunden und angeblich 100.000 Euro Jahresverdienst mit illegalen Pay-TV-Abos. Der Artikel IPTV-Reseller: „Ich verticke Abos fast wie ein Drogenhändler“ erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/iptv/iptv-reseller-illegales-streaming-332763.html",
+      "image": "",
+      "date": "Tue, 18 Aug 2026 12:37:41 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Cover Downloads im August 2026",
+      "description": "Cover downloaden kostenlos. Cover für PC-Games, Konsolenspiele, Musik, Filme etc. Wer ist schon weg, welche Portale sind noch aktiv? Der Artikel Cover Downloads im August 2026 erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/listen/cover-downloads-im-august-2026-332747.html",
+      "image": "",
+      "date": "Tue, 18 Aug 2026 06:00:00 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Boeing 737 gehackt: Mini-Gerät manipuliert Autopiloten",
+      "description": "Boeing 737 gehackt: Forscher zeigen, wie ein winziges Hardware-Implantat interne Avionik-Daten manipulieren könnte. Der Artikel Boeing 737 gehackt: Mini-Gerät manipuliert Autopiloten erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/boeing-737-gehackt-mini-geraet-manipuliert-autopiloten-332742.html",
+      "image": "",
+      "date": "Mon, 17 Aug 2026 14:14:29 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Darknet-Websites: die Dark-Web-Links im August 2026",
+      "description": "Welche Darknet-Websites sind im August 2026 noch online? Welche Dark-Web-Links sind noch aktiv? Wir haben uns erneut für euch umgesehen. Der Artikel Darknet-Websites: die Dark-Web-Links im August 2026 erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/listen/darknet-websites-die-dark-web-links-im-august-2026-332711.html",
+      "image": "",
+      "date": "Mon, 17 Aug 2026 12:21:55 +0000"
     }
   ],
-
   "eng": [
     {
-      "name": "Gizmodo",
-      "type": "rss",
-      "url": "https://gizmodo.com/feed"
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "How to Completely Remove Your Data From These Online Dating Platforms",
+      "description": "Deleting your dating app account doesn’t delete your data.",
+      "url": "https://lifehacker.com/tech/how-to-completely-remove-data-from-online-dating-platforms?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M11GX1KZKTXB130FKWGWJW56/hero-image.jpg",
+      "date": "Thu, 27 Aug 2026 14:30:00 +0000"
     },
     {
-      "name": "Lifehacker",
-      "type": "rss",
-      "url": "https://lifehacker.com/feed/rss"
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "What's New on Netflix in September 2026",
+      "description": "More \"Hot Ones,\" NFL live from Down Under, and the return of several documentary franchises.",
+      "url": "https://lifehacker.com/entertainment/whats-new-on-netflix-in-september-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M0WSCHKE918MVJ9ZAJ6RH7A5/hero-image.png",
+      "date": "Thu, 27 Aug 2026 13:30:00 +0000"
     },
     {
-      "name": "PCWorld",
-      "type": "rss",
-      "url": "https://www.pcworld.com/feed"
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Amazon Fire TV Soundbar Bundle Is $125 Off Right Now",
+      "description": "An easy way to get stronger bass and Dolby Atmos without moving to a full surround setup.",
+      "url": "https://lifehacker.com/tech/amazon-fire-tv-soundbar-bundle-sale-august-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M10WYYF9F653XVB8MD625H7C/hero-image.jpg",
+      "date": "Thu, 27 Aug 2026 13:00:00 +0000"
     },
     {
-      "name": "Engadget",
-      "type": "rss",
-      "url": "https://www.engadget.com/feed/"
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Kobo Clara Colour E-Reader Is $40 Cheaper Than a Kindle Paperwhite Right Now",
+      "description": "It's especially appealing for people who borrow more books than they buy.",
+      "url": "https://lifehacker.com/tech/kobo-clara-colour-e-reader-deal-august-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M10W85T58PCJG05N7PEDCC2A/hero-image.jpg",
+      "date": "Thu, 27 Aug 2026 12:30:13 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "10 Hacks Every Google Wallet User Should Know",
+      "description": "It's actually more than just a digital wallet.",
+      "url": "https://lifehacker.com/tech/10-hacks-every-google-wallet-user-should-know?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M0WSETZQ29V73ZSQYHHD77GM/hero-image.jpg",
+      "date": "Wed, 26 Aug 2026 21:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "The Garmin Fenix 8 Pro Smartwatch Is $250 Off Right Now",
+      "description": "Garmin’s satellite-enabled Fenix 8 Pro is a compelling buy for outdoor athletes who want phone-free messaging and SOS support.",
+      "url": "https://lifehacker.com/tech/garmin-fenix-8-pro-smartwatch-deal-august-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M0ZRVAZH9CGPH29PRAGAYYHX/hero-image.png",
+      "date": "Wed, 26 Aug 2026 20:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "These Nothing ANC Headphones Are $80 Off Right Now",
+      "description": "You get 135-hour battery life, strong ANC, and a rich bass-heavy sound in a stylish package.",
+      "url": "https://lifehacker.com/tech/nothing-anc-headphones-sale-august-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01KS80EAPM6V2P634PN8TZ8N4J/hero-image.jpg",
+      "date": "Wed, 26 Aug 2026 19:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "These Viture XR/AR Smart Glasses Are $140 Off Right Now",
+      "description": "With a micro-OLED display and a refresh rate of 120 Hz, these XR glasses are a deal.",
+      "url": "https://lifehacker.com/tech/viture-beast-xr-ar-glasses-deal-august-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M0ZJE25C0EBFYF7G12FTNK7F/hero-image.jpg",
+      "date": "Wed, 26 Aug 2026 18:30:40 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "10 Hacks Every Google Pixel 11 User Should Know",
+      "description": "Here's everything new you can do on a Pixel 11 to make the most of your 2026 flagship phone.",
+      "url": "https://lifehacker.com/tech/10-hacks-every-google-pixel-11-owner-should-know?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M0Z2Q1MB0ZSF3Q1F4SFE48A3/hero-image.jpg",
+      "date": "Wed, 26 Aug 2026 18:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "If You Loved 'Sugar,' There's One Movie You Need to Watch Next",
+      "description": "If you adored the off-kilter genre mashup in 'Sugar' and want more noir, there’s one movie that you’ll love.",
+      "url": "https://lifehacker.com/entertainment/best-movies-like-sugar-apple-tv?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M0ZDHX32X2RTYQXDYGJV5NKT/hero-image.jpg",
+      "date": "Wed, 26 Aug 2026 17:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Is the Best Ad-Free Alternative to Apple Maps",
+      "description": "Apple Maps now has ads, but this alternative still doesn't.",
+      "url": "https://lifehacker.com/tech/ad-free-apple-google-maps-alternative?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M0ZAK7QXY98Q9EV5VJTX1WMM/hero-image.jpg",
+      "date": "Wed, 26 Aug 2026 17:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "We Now Know When Apple's Big iPhone Event Will Happen",
+      "description": "Get ready for the iPhone 18 Pro and iPhone Ultra.",
+      "url": "https://lifehacker.com/tech/apple-iphone-18-event-announcement?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M0ZEA99KASPCF5QS300JHMW5/hero-image.jpg",
+      "date": "Wed, 26 Aug 2026 16:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Four-Camera Eufy Security Kit Is $400 Off Right Now",
+      "description": "Each security camera pairs a 4K wide-angle view with a 2K pan-and-tilt lens, with no required subscription.",
+      "url": "https://lifehacker.com/tech/eufycam-security-kit-s4-sale-august-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M0ZAGWVCWFYHQYHENXFVDEJ9/hero-image.jpg",
+      "date": "Wed, 26 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Insta360 Phone Gimbal Bundle Is 30% Off Right Now",
+      "description": "The Insta360 Flow 2 Pro Ultimate AI Tracker Bundle is now $159.99, down from $227.99.",
+      "url": "https://lifehacker.com/tech/insta360-flow-2-pro-bundle-sale-august-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M0ZA3TGJYKBW9KNRPJPJ8BKK/hero-image.jpg",
+      "date": "Wed, 26 Aug 2026 15:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place",
+      "description": "Keep up with all of the best deals that Lifehacker publishes, including laptops, speakers, TVs, security cameras, and more.",
+      "url": "https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg",
+      "date": "Wed, 26 Aug 2026 15:10:26 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "10 Hacks Every Apple Wallet User Should Know",
+      "description": "Get the most out of your Wallet.",
+      "url": "https://lifehacker.com/tech/10-hacks-every-apple-wallet-user-should-know?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M0TC8DWKKR23JR7NT13HMFJP/hero-image.jpg",
+      "date": "Tue, 25 Aug 2026 22:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "10 Hacks Every iOS 27 User Should Know",
+      "description": "These 10 hacks are essential for anyone upgrading to iOS 27.",
+      "url": "https://lifehacker.com/tech/10-hacks-every-ios-27-user-should-know?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M0WHVW8N3YKC9E9RHQQN18PM/hero-image.jpg",
+      "date": "Tue, 25 Aug 2026 22:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Is the Oura Ring Really Just Guessing at Your Sleep Score?",
+      "description": "Spoiler: No sleep wearable was ever trustworthy in the first place.",
+      "url": "https://lifehacker.com/health/is-oura-really-guessing-at-your-sleep-score?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M0XC3S458Y27YD6GTZ2FM33Y/hero-image.jpg",
+      "date": "Tue, 25 Aug 2026 21:40:08 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Six Quintessential Movies to Watch in Honor of Dolly Parton",
+      "description": "There will be a lot of tears, and a lot of life to celebrate.",
+      "url": "https://lifehacker.com/entertainment/best-dolly-parton-movies?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M0X4D7M7X2WJFRSJJJPQ34TF/hero-image.jpg",
+      "date": "Tue, 25 Aug 2026 20:34:27 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Ultra-Wide Samsung Gaming Monitor Is $650 Off (and Comes With a $120 Amazon Gift Card)",
+      "description": "This is a great opportunity to snatch this premium 57-inch ultra-wide Samsung gaming monitor.",
+      "url": "https://lifehacker.com/tech/samsung-odyssey-neo-g9-gaming-monitor-deal-august-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01J29JH9FVWK74ETYSH711P2EX/hero-image.png",
+      "date": "Tue, 25 Aug 2026 20:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Windows on Arm just hit 7,000 compatible apps. It’s still not enough",
+      "description": "In an official Windows blog post , Microsoft just announced a new milestone: over 7,000 apps and games are now optimized and available for the Arm version of Windows. Windows on Arm is a version of the operating system that’s designed specifically to run on Arm-based chips. Whereas traditional Windows PCs run on x86 and x64 chips by Intel and AMD, modern Windows on Arm are powered by Qualcomm’s Snapdragon chips . Other chipmakers are also developing their own Arm-based options, including Nvidia ",
+      "url": "https://www.pcworld.com/article/3222027/windows-on-arm-just-hit-7000-compatible-apps-its-still-not-enough.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3222027-0-26693600-1787840105-Windows-11-installed-apps-settings-screenshot-stylized.jpg?quality=50&strip=all",
+      "date": "Thu, 27 Aug 2026 14:14:42 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "I got ChatGPT to stop its annoying follow-up questions with one prompt",
+      "description": "Once upon a time, ChatGPT seemed to end every response with “Want me to…” follow-up questions, suggesting there was just one more thing it could do to make its reply complete. Of course, taking ChatGPT up on its offer would inevitably lead to another “Want me to…” pitch, making them feel like transparent ploys to extend ChatGPT conversations. Eventually, ChatGPT changed its tune. It dialed down the “Want me to…” questions while dialing up “If you like…” teases instead (e.g., “If you like, I coul",
+      "url": "https://www.pcworld.com/article/3221302/i-got-chatgpt-to-stop-its-annoying-follow-up-questions-with-one-prompt.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3221302-0-41160700-1787839230-ChatGPT-app.jpg?quality=50&strip=all",
+      "date": "Thu, 27 Aug 2026 14:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Alienware’s 39-inch monster just made 5K2K OLED gaming way less expensive",
+      "description": "“5K2K” is a very nerdy kind of term that’s getting a lot of popularity right now. It’s a semi-standard resolution for a monitor, 5120×2160 — essentially the same kind of ultrawide stretch you get for a 27-to-34-inch monitor design, but blown up to 4K. Alienware’s newest OLED gaming monitor pulls this off, with an oversized 39-inch panel. And it’s doing it with a starting price of $1099. I appreciate that OLED monitor prices are in a lot of flux right now, so let me just state outright: That is a",
+      "url": "https://www.pcworld.com/article/3221291/alienwares-39-inch-monster-just-made-5k2k-oled-gaming-way-less-expensive.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3221291-0-95265500-1787835637-image_11b7eb.png",
+      "date": "Thu, 27 Aug 2026 13:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "I just cancelled Netflix and it feels great",
+      "description": "After 17 uninterrupted years of Netflix membership, I just hit the cancellation button. Netflix was the main reason I was able to cut the cable TV cord way back in 2008, and since then it’s been our home’s streaming staple. Even as we cycled through other services, Netflix was worth keeping because it usually had something we wanted to watch. But while looking over my bills this week and seeing Netflix’s $22 monthly charge (that’s $19.99 plus tax), something snapped. I realized that the cost doe",
+      "url": "https://www.pcworld.com/article/3221666/i-just-cancelled-netflix-and-it-feels-great.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3221666-0-29877800-1787835675-netflixui.jpg?quality=50&strip=all",
+      "date": "Thu, 27 Aug 2026 13:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
+      "description": "If you’re looking for an affordable Windows machine under $500 , a blazing fast gaming beast for those intense matches, or a portable 2-in-1 for school or work, you’ve got plenty of great choices right now. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 80 laptops every year. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches",
+      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/550968-0-92247100-1787831183-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
+      "date": "Thu, 27 Aug 2026 11:46:15 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "I turned off most Windows notifications, and I’m not going back",
+      "description": "I hate notifications. Well, maybe not notifications themselves, but what they implicitly represent: pieces of information or action that you need to act on or react to right now . I find them distracting and a real productivity killer, and I don’t think I’m alone here. This UC Irvine productivity paper shows that workers bounce around between different “spheres” of work (especially in the morning), and that it can take up to a whopping 23 minutes to return to an earlier flow state if you’re dist",
+      "url": "https://www.pcworld.com/article/3212691/i-turned-off-most-windows-notifications-and-im-not-going-back.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3212691-0-01837600-1787830260-Windows-11-Gaming.png",
+      "date": "Thu, 27 Aug 2026 11:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Real PC enthusiasts swear these 23 desk accessories changed their life",
+      "description": "When buying a PC, you can spend a lot of time zeroing in on the right specs for your situation. But the attentiveness often ends there. After the decision’s made, we slot the machine into a spot on our desks and then go about business as usual. That fancy computer isn’t the only part that matters, though. The rest of your desk setup can have a huge impact on your quality of life day to day and upgrading it doesn’t have to cost a lot. Such was the thought of a Reddit user who asked r/buildapc wha",
+      "url": "https://www.pcworld.com/article/1680265/real-pc-enthusiasts-swear-these-23-desk-accessories-changed-their-life.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/1680265-0-46065700-1787827530-corsair-pc-accessories.jpg?quality=50&strip=all",
+      "date": "Thu, 27 Aug 2026 10:45:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Microsoft’s best project management tool was over $1,000, but now it’s only $70",
+      "description": "TL;DR: Get a lifetime license to Microsoft Project Pro 2024 for Windows for $69.99 through today. Dedicated project management software usually requires a monthly subscription. Microsoft Project Pro is one of the most popular project management tools, but now, you can get it as a lifetime license on sale for $69.99 (reg. $1,129.99). Tasks in Project link to each other, so pushing one date automatically drags every dependent task along with it. Templates give you a head start on common project ty",
+      "url": "https://www.pcworld.com/article/3220467/microsofts-best-project-management-tool-was-over-1000-but-now-its-only-70.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3220467-0-41818700-1787817618-Project-Pro-2024-1.jpg?quality=50&strip=all",
+      "date": "Thu, 27 Aug 2026 08:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Windows XP’s most famous pirated key wasn’t a hack. It was a leak",
+      "description": "About a year ago, in a social media post , long-time Microsoft veteran Dave Plummer ( who worked on Windows Task Manager ) recounted the story of what’s now known as the most iconic Windows product key. We’re talking about FCKGW-RHQQ2-YXRKT-8TG6W-2B7Q8 . This product key for Windows XP— which is now celebrating its 25th anniversary —made the rounds in the early 2000s. Anyone with this key and the right version of Windows XP could use it to permanently activate it for free. That’s because the pro",
+      "url": "https://www.pcworld.com/article/3221457/windows-xp-most-famous-pirated-key-wasnt-a-hack-it-was-a-leak.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3221457-0-48516300-1787763660-wixp.jpg?quality=50&strip=all",
+      "date": "Wed, 26 Aug 2026 17:00:44 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Best laptops 2026: Premium, budget, gaming, 2-in-1, and more",
+      "description": "PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 70 laptops every year. Our reviews span PC laptops at every price point to meet the needs of any budget, from affordable everyday laptops to powerful gaming machines . Let our extensive hands-on experience help you with your laptop purchasing decision. Because while shopping for a laptop can start out simple enough, it often ends with a dozen open tabs full of specs you don’t",
+      "url": "https://www.pcworld.com/article/436674/best-pc-laptops.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/436674-0-46344800-1787760028-best-budget-laptops.jpg?quality=50&strip=all",
+      "date": "Wed, 26 Aug 2026 16:00:00 +0000"
     }
   ],
-
   "starwars": [
     {
-      "name": "Star Wars News Net",
-      "type": "rss",
-      "url": "https://www.starwarsnewsnet.com/feed"
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "Kevin Smith Chose to Limit ‘Star Wars’ and Marvel Comics Crossover to ‘A New Hope’ Characters",
+      "description": "Kevin Smith, the writer of the upcoming Star Wars/Marvel: Hope Assembles comic book, has revealed several elements of the creative The post Kevin Smith Chose to Limit ‘Star Wars’ and Marvel Comics Crossover to ‘A New Hope’ Characters appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/08/kevin-smith-chose-to-limit-star-wars-and-marvel-comics-crossover-to-a-new-hope-characters.html",
+      "image": "",
+      "date": "Thu, 27 Aug 2026 08:45:25 +0000"
     },
     {
-      "name": "Star Wars Union",
-      "type": "rss",
-      "url": "https://starwars-union.de/feed/"
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "Tim Curry, Legendary Actor and Voice of Chancellor Palpatine, Dies at 80",
+      "description": "The iconic actor Tim Curry has tragically passed away aged 80 years old, Variety has confirmed. There is not The post Tim Curry, Legendary Actor and Voice of Chancellor Palpatine, Dies at 80 appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/08/tim-curry-legendary-actor-and-voice-of-chancellor-palpatine-dies-at-80.html",
+      "image": "",
+      "date": "Thu, 27 Aug 2026 08:45:10 +0000"
     },
     {
-      "name": "Jedi News",
-      "type": "rss",
-      "url": "https://www.jedinews.com/feed/"
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "Review: ‘Star Wars Zero Company’ Is The Best Way to Play War in a Galaxy Far, Far Away",
+      "description": "Considering that “Wars” is in the name, it’s surprising that it’s taken this long to get a turn-based tactical strategy The post Review: ‘Star Wars Zero Company’ Is The Best Way to Play War in a Galaxy Far, Far Away appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/08/review-star-wars-zero-company-is-the-best-way-to-play-war-in-a-galaxy-far-far-away.html",
+      "image": "",
+      "date": "Thu, 27 Aug 2026 08:30:49 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "‘Star Wars’ November 2026 Comics Preview: The End of Kylo Ren, the Return of the Mandalorian, and More",
+      "description": "It’s no secret 2026 has been a rough one for Star Wars comics. November isn’t looking much better with three The post ‘Star Wars’ November 2026 Comics Preview: The End of Kylo Ren, the Return of the Mandalorian, and More appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/08/star-wars-november-2026-comics-preview-the-end-of-kylo-ren-the-return-of-the-mandalorian-and-more.html",
+      "image": "",
+      "date": "Thu, 27 Aug 2026 08:00:39 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "Which Star Wars Games Had Real Esports Potential? And Why None of Them Made It",
+      "description": "Star Wars has been a video game franchise for more than forty years, across flight sims, RTS titles, MMOs and The post Which Star Wars Games Had Real Esports Potential? And Why None of Them Made It appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/08/which-star-wars-games-had-real-esports-potential-and-why-none-of-them-made-it.html",
+      "image": "",
+      "date": "Thu, 27 Aug 2026 07:49:07 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "‘Maul – Shadow Lord’ Had Excellent Viewership Numbers, According to Third-Party Report; ‘The Mandalorian’ Holds Strong",
+      "description": "Last week, a data analytics firm put out a new report on the streaming viewership numbers on Disney Plus in The post ‘Maul – Shadow Lord’ Had Excellent Viewership Numbers, According to Third-Party Report; ‘The Mandalorian’ Holds Strong appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/08/maul-shadow-lord-had-excellent-viewership-numbers-according-to-third-party-report-the-mandalorian-holds-strong.html",
+      "image": "",
+      "date": "Tue, 25 Aug 2026 14:00:58 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "‘Galaxy’s Edge: Echoes of the Empire’ #5 Review – Batuu Remains the Strongest Character in an Era-Ending Series Finale",
+      "description": "Galaxy’s Edge: Echoes of the Empire #5 released this week, with a finale issue tracking Leia and Luke’s trip back The post ‘Galaxy’s Edge: Echoes of the Empire’ #5 Review – Batuu Remains the Strongest Character in an Era-Ending Series Finale appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/08/galaxys-edge-echoes-of-the-empire-5-review-batuu-remains-the-strongest-character-in-an-era-ending-series-finale.html",
+      "image": "",
+      "date": "Tue, 25 Aug 2026 13:45:07 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "This Week, In a Galaxy Far, Far Away: ‘Starfighter’ Galactic Politics Update, ‘Star Wars Zero Company’ Nears Release, and Not Much More",
+      "description": "Happy Sunday, and welcome to a light edition of “This Week, In a Galaxy Far, Far Away“. It’s the dog The post This Week, In a Galaxy Far, Far Away: ‘Starfighter’ Galactic Politics Update, ‘Star Wars Zero Company’ Nears Release, and Not Much More appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/08/this-week-in-a-galaxy-far-far-away-starfighter-galactic-politics-update-star-wars-zero-company-nears-release-and-not-much-more.html",
+      "image": "",
+      "date": "Tue, 25 Aug 2026 13:30:40 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "Gambling as a Narrative Tool in Star Wars",
+      "description": "The Star Wars universe is celebrated for its space battles, lightsabers, and the eternal conflict between the Jedi and the The post Gambling as a Narrative Tool in Star Wars appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/08/gambling-as-a-narrative-tool-in-star-wars.html",
+      "image": "",
+      "date": "Tue, 25 Aug 2026 13:20:37 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars Union",
+      "title": "Heute erscheint Zero Company",
+      "description": "Das Taktikspiel aus den Klonkriegen erblickt das Licht der Welt",
+      "url": "https://starwars-union.de/heute-erscheint-zero-company/",
+      "image": "",
+      "date": "Thu, 27 Aug 2026 06:36:34 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars Union",
+      "title": "Einblicke in den Multiplayer von Galactic Racer",
+      "description": "Mit dem Gründer und Chef von Fuse Games geht es nun hinein in die Mehrspielermodi und -möglichkeiten von Galactic Racer: Star Wars: Galactic Racer soll am 6. Oktober erscheinen und kann für Konsolen im PlayStation Store oder im XBox Store, bzw. als Disk bei Amazon.de oder für PC im Epic Store und auf Steam in verschiedenen Ausgaben vorbestellt werden.",
+      "url": "https://starwars-union.de/einblicke-in-den-multiplayer-von-galactic-racer/",
+      "image": "",
+      "date": "Mon, 24 Aug 2026 13:32:10 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars Union",
+      "title": "Radio Tatooine über die großen D23-Themen",
+      "description": "In gerade mal 5 1/2 Stunden nehmen sich 3 Typen die 2 großen Teasertrailer von Ahsoka und Starfighter vor ...",
+      "url": "https://starwars-union.de/radio-tatooine-ueber-die-grossen-d23-themen/",
+      "image": "https://www.weltenfunk.de/podcast/radiotatooine/rt_s11e01.mp3",
+      "date": "Fri, 21 Aug 2026 13:27:53 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars Union",
+      "title": "Neuer, finaler Trailer für Zero Company",
+      "description": "Noch 10 Tage bis zur Veröffentlichung des Taktikspiels",
+      "url": "https://starwars-union.de/neuer-finaler-trailer-fuer-zero-company/",
+      "image": "",
+      "date": "Mon, 17 Aug 2026 19:56:25 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars Union",
+      "title": "Galaxy’s Edge trifft auf Fortnite",
+      "description": "Die Toten sprechen. Mal wieder.",
+      "url": "https://starwars-union.de/galaxys-edge-trifft-auf-fortnite/",
+      "image": "",
+      "date": "Mon, 17 Aug 2026 15:23:33 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars Union",
+      "title": "Traileranalyse: Ahsoka – Staffel 2 – Teaser",
+      "description": "Das erste Bewegtbildmaterial zur 2. Season der Serie liefert allerhand Schauwerte und Spekulationsmaterial.",
+      "url": "https://starwars-union.de/traileranalyse-ahsoka-staffel-2-teaser/",
+      "image": "",
+      "date": "Sun, 16 Aug 2026 11:18:47 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars Union",
+      "title": "The Mandalorian and Grogu ab 2. September auf Disney+",
+      "description": "Sowie ein neues animiertes LEGO-Special.",
+      "url": "https://starwars-union.de/the-mandalorian-and-grogu-ab-2-september-auf-disney/",
+      "image": "",
+      "date": "Sat, 15 Aug 2026 07:53:17 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars Union",
+      "title": "D23: Logo und minimale Infos zu Star Wars: Starfighter",
+      "description": "Plus eine erste Vorschau exklusiv für D23-Gänger.",
+      "url": "https://starwars-union.de/125404-2/",
+      "image": "",
+      "date": "Sat, 15 Aug 2026 07:47:22 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars Union",
+      "title": "D23: Teaser zu Ahsoka Staffel 2 veröffentlicht",
+      "description": "Weiter geht es am 20. Januar 2027, und nun gibt es den Trailer auch auf Deutsch.",
+      "url": "https://starwars-union.de/d23-teaser-zu-ahsoka-staffel-2-veroeffentlicht/",
+      "image": "",
+      "date": "Sat, 15 Aug 2026 07:37:10 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars Union",
+      "title": "Ahsoka Staffel 2: Kostüm-Präsentation auf der D23",
+      "description": "Mit leicht überarbeiteten mandalorianischen Rüstungen und wollgefütterten Winterklamotten aus der Vergangenheit ...",
+      "url": "https://starwars-union.de/ahsoka-staffel-2-kostuem-praesentation-auf-der-d23/",
+      "image": "",
+      "date": "Fri, 14 Aug 2026 07:20:36 +0000"
     }
   ],
-
   "youtube": [
     {
-      "name": "Hood Informatik",
-      "type": "youtube",
-      "url": "https://youtube.com/@hoodinformatik"
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Kann dein Arbeitgeber deine Nachrichten mitlesen ?! #informatik #code #security #teams #news",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/fbvHbNpd-tQ",
+      "image": "https://i.ytimg.com/vi/fbvHbNpd-tQ/hqdefault.jpg",
+      "date": "2026-08-26T19:09:19+00:00"
     },
     {
-      "name": "Modded Warfare",
-      "type": "youtube",
-      "url": "https://youtube.com/@moddedwarfare"
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Aliexpress trackt dich über Audio Berechnungen... #sound #tracking#code#news#informatik #security",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/GYNdziCFS10",
+      "image": "https://i.ytimg.com/vi/GYNdziCFS10/hqdefault.jpg",
+      "date": "2026-08-25T17:19:04+00:00"
     },
     {
-      "name": "MrMario2011",
-      "type": "youtube",
-      "url": "https://youtube.com/@mrmario2011"
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Die wundervolle Pyramide des Schmerzes 😂😂😂 auf deutsch nochmal viel wilder",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/YpkZK7RxcFU",
+      "image": "https://i.ytimg.com/vi/YpkZK7RxcFU/hqdefault.jpg",
+      "date": "2026-08-24T16:58:33+00:00"
     },
     {
-      "name": "25HighTech",
-      "type": "youtube",
-      "url": "https://youtube.com/@25hightech"
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Was haben Kanarienvögel und IT Sicherheit gemeinsam ?! #informatik #canarytokens #code",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/LRJINke2Uq4",
+      "image": "https://i.ytimg.com/vi/LRJINke2Uq4/hqdefault.jpg",
+      "date": "2026-08-23T16:00:08+00:00"
     },
     {
-      "name": "Dragan Laboski",
-      "type": "youtube",
-      "url": "https://youtube.com/@draganlaboski-d8d"
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Ist Cyberleek ein Norddeutscher ?! #gta6 #informatik #itsicherheit #news #code",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/KpCNLxN-SfQ",
+      "image": "https://i.ytimg.com/vi/KpCNLxN-SfQ/hqdefault.jpg",
+      "date": "2026-08-22T10:00:02+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Der GTA 6 HACKER kommt aus Deutschland ?!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Sbz8tRIowKE",
+      "image": "https://i.ytimg.com/vi/Sbz8tRIowKE/hqdefault.jpg",
+      "date": "2026-08-21T19:55:56+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Deine Smartwatch kann deine Passwörter verraten #informatik #passwort #smartwatch #code #security",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/kpq5zsDWGxs",
+      "image": "https://i.ytimg.com/vi/kpq5zsDWGxs/hqdefault.jpg",
+      "date": "2026-08-20T16:00:24+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Ein NAT und seine Schwächen... #informatik #code #netzwerk #news",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/bQipb_ZkNmg",
+      "image": "https://i.ytimg.com/vi/bQipb_ZkNmg/hqdefault.jpg",
+      "date": "2026-08-19T16:22:12+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Der Delta Airlines WLAN Fall #informatik #code #delta #wifi #news #flugzeug",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/Csj-3e8i8Wc",
+      "image": "https://i.ytimg.com/vi/Csj-3e8i8Wc/hqdefault.jpg",
+      "date": "2026-08-18T16:59:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Der schnellste Weg ein Flugzeug zu boarden und warum dieser nicht genutzt wird...",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/ZcD9yZtJWBo",
+      "image": "https://i.ytimg.com/vi/ZcD9yZtJWBo/hqdefault.jpg",
+      "date": "2026-08-16T16:15:14+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Rocketdyne Santa Susana Field Laboratory Abandoned America Space Race (1948)",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=0lka-0REQrQ",
+      "image": "https://i.ytimg.com/vi/0lka-0REQrQ/hqdefault.jpg",
+      "date": "2026-04-23T17:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition AMC Seats And Screens Left Behind",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=UnG29VothuQ",
+      "image": "https://i.ytimg.com/vi/UnG29VothuQ/hqdefault.jpg",
+      "date": "2026-03-27T21:09:35+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition Fly by In And Out",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=fDnOH8ZsfTg",
+      "image": "https://i.ytimg.com/vi/fDnOH8ZsfTg/hqdefault.jpg",
+      "date": "2026-03-27T20:40:08+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "AMC Westfield Promenade Mall Raw Demolition Drone Footage",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/5iA5R3Jq4g0",
+      "image": "https://i.ytimg.com/vi/5iA5R3Jq4g0/hqdefault.jpg",
+      "date": "2026-03-27T18:03:29+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition AMC Coming Down First!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=SAxjFGjTiHQ",
+      "image": "https://i.ytimg.com/vi/SAxjFGjTiHQ/hqdefault.jpg",
+      "date": "2026-03-23T17:42:38+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Beautiful Art Deco Theater",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=ccfU0LSmkj8",
+      "image": "https://i.ytimg.com/vi/ccfU0LSmkj8/hqdefault.jpg",
+      "date": "2026-03-11T20:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Decommissioned Power Station #synthwave #synth #retrowave #abandonedplaces",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/mOUbNSMoBJs",
+      "image": "https://i.ytimg.com/vi/mOUbNSMoBJs/hqdefault.jpg",
+      "date": "2025-06-17T17:55:51+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Wheel of Misfortune Three Kids Mine Demolition",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=VXRselqoN-8",
+      "image": "https://i.ytimg.com/vi/VXRselqoN-8/hqdefault.jpg",
+      "date": "2025-06-17T17:45:42+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Resort with a River Running Through It",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=0ILQ06M4hA0",
+      "image": "https://i.ytimg.com/vi/0ILQ06M4hA0/hqdefault.jpg",
+      "date": "2025-06-01T20:15:01+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Exploring Abandoned Cassino (ARRESTED)",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=-EcPq05nNYY",
+      "image": "https://i.ytimg.com/vi/-EcPq05nNYY/hqdefault.jpg",
+      "date": "2025-04-15T17:00:01+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Install Windows 11 with a Local Account in 2026",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=juIh1auHo3s",
+      "image": "https://i.ytimg.com/vi/juIh1auHo3s/hqdefault.jpg",
+      "date": "2026-08-05T17:00:04+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Replace the Battery in a Dell Precision 7760 Laptop",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=JOVmOahO2xs",
+      "image": "https://i.ytimg.com/vi/JOVmOahO2xs/hqdefault.jpg",
+      "date": "2026-03-11T17:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Use & Combine Joy-Con Controllers on the Steam Deck!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=p9ZdCe-eW1M",
+      "image": "https://i.ytimg.com/vi/p9ZdCe-eW1M/hqdefault.jpg",
+      "date": "2025-12-05T18:01:07+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Borderlands GOTY Enhanced Co-Op Lag Fix on PC | Windows & Steam Deck",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=UsaKlS3WBBs",
+      "image": "https://i.ytimg.com/vi/UsaKlS3WBBs/hqdefault.jpg",
+      "date": "2025-08-20T17:00:42+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Thrifty Gaming Pickups 058 - Going Through a Bag of Games, Controllers, and More!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=yKwMn2OMLLY",
+      "image": "https://i.ytimg.com/vi/yKwMn2OMLLY/hqdefault.jpg",
+      "date": "2025-05-07T17:01:12+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Thrifty Gaming Pickups 057 - Returning to Old Thrift Shops + A Big Xbox 360 Bundle!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=EOQgA7Q8Kw8",
+      "image": "https://i.ytimg.com/vi/EOQgA7Q8Kw8/hqdefault.jpg",
+      "date": "2024-12-04T18:00:14+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Thrifty Gaming Pickups 056 - Import Switch Games, Switch Lite, Xbox, and Xbox 360 Games!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=xaNcbxQkk5k",
+      "image": "https://i.ytimg.com/vi/xaNcbxQkk5k/hqdefault.jpg",
+      "date": "2024-06-12T17:00:40+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Thrifty Gaming Pickups 055 - Japanese Xbox 360 Imports, Consoles, and More!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=fvzT178zAlk",
+      "image": "https://i.ytimg.com/vi/fvzT178zAlk/hqdefault.jpg",
+      "date": "2024-05-15T17:00:26+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Final Fantasy VII Rebirth Best Buy Steelbook (PS5) #shorts",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/k02mkNRvIYE",
+      "image": "https://i.ytimg.com/vi/k02mkNRvIYE/hqdefault.jpg",
+      "date": "2024-03-01T18:00:24+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Final Fantasy VII Rebirth Deluxe Edition Unboxing (PS5) #shorts",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/SFwXpq5kwe4",
+      "image": "https://i.ytimg.com/vi/SFwXpq5kwe4/hqdefault.jpg",
+      "date": "2024-03-01T02:23:40+00:00"
     }
   ]
 }
