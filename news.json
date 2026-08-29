@@ -1,203 +1,122 @@
 {
-  "updated": "2026-08-29T01:32:08.834740+00:00",
+  "updated": "2026-08-29T08:44:25.747282+00:00",
   "mkd": [
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Apple официјално го закажа денот на одржување на нивниот септемвриски настан",
-      "description": "Apple официјално го закажа денот кога ќе го одржи нивниот традиционален септемвриски настан. Како што неофицијално се најавуваше, настанот ќе се одржи на 9 септември, со почеток во 19:00 часот по македонско време. Истиот ќе може да се следи преку YouTube како и досега, а тука е и „стримот“ преку страната за настани на Apple. […]",
-      "url": "https://smartportal.mk/novosti/nastani/apple-septemvriski-nastan/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/apple-surprise-shine-f-150x150.webp",
-      "date": "Thu, 27 Aug 2026 12:46:30 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Телеком ја носи првата самостојна 5G мрежа во Македонија",
-      "description": "Македонски Телеком ја носи првата 5G+ мрежа во Македонија, (5G Standalone), со што започнува нова ера во развојот на мобилните услуги. Станува збор за најголемата промена во мобилните мрежи во последната деценија и за нова технолошка основа што ќе овозможи пофлексибилно и поперсонализирано поврзување. Новата мрежна инфраструктура е целосно поставена, а нејзините функционалности ќе се активираат фазно и […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/telekom-ja-nosi-prvata-samostojna-5g-mreza-vo-makedonija/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/5G-v1-150x150.webp",
-      "date": "Thu, 27 Aug 2026 09:54:31 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Samsung претставува нова линија на Odyssey монитори за брзо гејминг искуство на Gamescom 2026",
-      "description": "Скопје 27 август 2026 година – компанијата Самсунг („Samsung“) денеска ја претстави својата линија гејминг монитори Odyssey за 2027 година на Gamescom 2026, најголемиот гејминг настан во светот, кој се одржува во Келн, Германија, од 26 до 30 август. Новата линија носи повеќе модели Odyssey со иновации кои се први во светот, овозможувајќи им на […]",
-      "url": "https://smartportal.mk/novosti/uredi/samsung-nova-linija-odyssey-monitori-gamescom-2026/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/2027-Odyssey-Full-lineup_Front-150x150.webp",
-      "date": "Thu, 27 Aug 2026 09:10:38 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Полесен начин за премин на новиот Galaxy Z Fold8",
-      "description": "Скопје, 26 август 2026 година – Набавувањето нов телефон треба да биде возбудливо, но пренесувањето податоци од постоечкиот уред понекогаш може да биде макотрпно. За корисниците кои преминуваат од iOS на Galaxy, можноста лесно да ги пренесат постоечките податоци и поставки е важен дел од искуството. Smart Switch е апликацијата на „Samsung“ за пренос на […]",
-      "url": "https://smartportal.mk/novosti/uredi/polesen-nacin-za-premin-na-galaxy-z-fold8/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/01_smart_switch_QR-150x150.webp",
-      "date": "Wed, 26 Aug 2026 12:23:20 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Instagram ја претстави опцијата „First Draft“ за полесно уредување на Reels видеата",
-      "description": "Instagram објави дека воведува нова алатка наречена „First Draft“, дизајнирана значително да го олесни и забрза процесот на уредување на Reels видеа. Компанијата ја најави оваа новина преку објава на Threads, истакнувајќи дека нејзината главна цел е да го реши еден од најдосадните делови од видео продукцијата. Опцијата автоматски ги анализира избраните видео „клипови“, ги […]",
-      "url": "https://smartportal.mk/novosti/socijalni-mrezi/instagram-first-draft/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/03/brett-jordan-fmqhTMu4IVU-unsplash-150x150.webp",
-      "date": "Wed, 26 Aug 2026 10:05:32 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Apple се откажа од планираната промена на доменот за „Hide My Email“",
-      "description": "Apple потврди дека се откажува од планираната промена за својата функција за приватност „Hide My Email“. Компанијата претходно најави дека маскираните адреси за електронска пошта ќе бидат постепено префрлени на новиот домен @private.icloud.com. Сепак, по острите критики од јавноста и експертите, оваа одлука е повлечена, па алатката ќе продолжи да го користи стандардниот @icloud.com домен […]",
-      "url": "https://smartportal.mk/novosti/servisi/apple-se-otkaza-od-promenata-na-domenot-za-hide-my-email/",
-      "image": "https://smartportal.mk/wp-content/uploads/2024/11/shutterstock_2327822961-150x150.jpg",
-      "date": "Wed, 26 Aug 2026 09:32:21 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "X испрати барање за прекин на работата до проектот Nitter",
-      "description": "X испрати официјално правно барање за прекин на работата до Nitter, популарен проект со отворен код кој функционираше како алтернативен кориснички интерфејс за објавите од оваа популарна социјална мрежа. Правното известување, кое беше доставено до главниот развивач познат под псевдонимот „zedeus“, инсистира на целосно отстранување на сите активни инстанци на Nitter, како и на јавно […]",
-      "url": "https://smartportal.mk/novosti/socijalni-mrezi/x-baranje-prekin-rabota-nitter/",
-      "image": "https://smartportal.mk/wp-content/uploads/2023/08/shutterstock_2336648595-150x150.jpg",
-      "date": "Wed, 26 Aug 2026 08:57:54 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "35 години од почетокот на развојот на Linux",
-      "description": "Оперативниот систем Linux одбележува 35 години од своето постоење. Првичната верзија беше најавена во август 1991 година како личен проект на Линус Торвалдс, со цел да се создаде бесплатен оперативен систем. Три и пол децении подоцна, овој софтвер претставува основа за голем дел од модерната компјутерска инфраструктура, почнувајќи од сервери и суперкомпјутери, па сè до […]",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/35-godini-od-pocetokot-na-razvojot-na-linux/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/linux35-logo.webp",
-      "date": "Wed, 26 Aug 2026 08:18:06 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Apple го претстави новиот Mac Studio со M5 Max и M5 Ultra процесорите",
-      "description": "Apple официјално ја најави новата генерација на Mac Studio, кој доаѓа со M5 Max и новиот M5 Ultra. Овие чипови се дизајнирани да понудат зголемена процесорска и графичка моќ, со посебен фокус врз извршувањето задачи поврзани со вештачка интелигенција директно на самиот уред, продолжувајќи го угледот на Mac Studio за еден од најдобрите компјутери за […]",
-      "url": "https://smartportal.mk/novosti/kompjuteri/apple-mac-studio-m5-max-m5-ultra/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Apple-Mac-Studio-hero-260825-150x150.webp",
-      "date": "Tue, 25 Aug 2026 18:11:11 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Apple ја претстави наредната генерација од Mac mini со M6 и M5 Pro процесорите",
-      "description": "Apple денеска ја најави новата генерација на Mac mini, која доаѓа со најновите M6 и M5 Pro процесори. Новите компјутери го задржуваат својот карактеристичен „ултракомпактен“ дизајн, но нудат значително поголема процесорска и графичка моќ, со посебен фокус на извршувањето на задачи поврзани со вештачка интелигенција. Компанијата истакнува дека основниот модел овозможува до четири пати побрзи […]",
-      "url": "https://smartportal.mk/novosti/kompjuteri/apple-mac-mini-m6-m5-pro/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Apple-Mac-mini-hero-260825-150x150.webp",
-      "date": "Tue, 25 Aug 2026 17:44:51 +0000"
+      "source": "Time.mk - All",
+      "title": "ЛДП: Владата да се огради – нема место за глорификација на осудени за геноцид | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/4278e5533d/ldp-vladata-da-se-ogradi-nema-mesto-za-glorifikacija-na-osudeni-za-genocid.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/60291/conversions/Monika-Zajkova-potpretsedatelka-na-LDP-max.jpg",
+      "date": "Sat, 29 Aug 2026 06:56:35 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Партијата на министерот Стоилковиќ објави текст во кој го глорифицира Ратко Младиќ – остри реакции од СДСМ и ДУИ | 360 степени",
+      "title": "Поранешен советник на Заев вмешан во афера во Косово за соработка со српски тајни служби | Press24",
       "description": "",
-      "url": "https://time.mk/c/9f2cc80890/partijata-na-ministerot-stoilkovik-objavi-tekst-vo-koj-go-glorificira-ratko-mladik-ostri-reakcii-od-sdsm-i-dui.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/06/image-127.png",
-      "date": "Fri, 28 Aug 2026 19:30:48 +0000"
+      "url": "https://time.mk/c/dbbfc408ee/poranesen-sovetnik-na-zaev-vmesan-vo-afera-vo-kosovo-za-sorabotka-so-srpski-tajni-sluzbi.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/67477.jpg",
+      "date": "Sat, 29 Aug 2026 08:00:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Емир Хасановиќ: „Младиќ заминува како осуден воен злосторник, но неговите монструозни идеи сè уште живеат“ | Скопје1",
+      "title": "Денеска се слави преподобен Јоаким Осоговски - од неговите мошти се случуваат чуда | Скопје инфо",
       "description": "",
-      "url": "https://time.mk/c/554882e37f/emir-hasanovik-mladik-zaminuva-kako-osuden-voen-zlostornik-no-negovite-monstruozni-idei-se-uste-ziveat.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/82924/conversions/text-max.jpg",
-      "date": "Fri, 28 Aug 2026 19:12:43 +0000"
+      "url": "https://time.mk/c/92f31d86dd/deneska-se-slavi-prepodoben-joakim-osogovski-od-negovite-mosti-se-slucuvaat-cuda.html",
+      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/avgust/image-259124.png?itok=z1S_wblL",
+      "date": "Sat, 29 Aug 2026 06:16:34 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Кои градови во светот се против изградба на дата- центри за податоци? | Колегиум",
+      "title": "Муцунски од Израел: Директна авиолинија Тел Авив–Скопје или Охрид е наш приоритет | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/e191a7abca/koi-gradovi-vo-svetot-se-protiv-izgradba-na-data-centri-za-podatoci.html",
-      "image": "https://kolegium.mk/wp-content/uploads/2026/08/ilustracija-za-data-cenri-AI-300x200.jpg",
-      "date": "Fri, 28 Aug 2026 14:34:49 +0000"
+      "url": "https://time.mk/c/2114c593fe/mucunski-od-izrael-direktna-aviolinija-tel-aviv-skopje-ili-ohrid-e-nas-prioritet.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84420/conversions/text-max.jpg",
+      "date": "Sat, 29 Aug 2026 07:36:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Дали се стопира продажбата на „Наша ТВ“ и радио „РФМ“ на српската „Ало“ – истрага на финансиската полиција?! | Фокус",
+      "title": "Еве како изгледа првиот дата центар во Македонија | 24Инфо",
       "description": "",
-      "url": "https://time.mk/c/b3f57cc795/dali-se-stopira-prodazbata-na-nasa-tv-i-radio-rfm-na-srpskata-alo-istraga-na-finansiskata-policija.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/08/NASHA.jpg",
-      "date": "Fri, 28 Aug 2026 13:11:17 +0000"
+      "url": "https://time.mk/c/574bab4383/eve-kako-izgleda-prviot-data-centar-vo-makedonija.html",
+      "image": "https://24info.mk/wp-content/uploads/2026/08/datacentarprilep.jpg",
+      "date": "Sat, 29 Aug 2026 07:56:36 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВМРО-ДПМНЕ го честита празникот Успение на Пресвета Богородица | Скопје1",
+      "title": "Левица :Базенот и Дино паркот во Штип предадени на приватници – Јорданов вели ако ги стопанисува општината ќе пропаднат | Либертас",
       "description": "",
-      "url": "https://time.mk/c/326eeda1b1/vmro-dpmne-go-cestita-praznikot-uspenie-na-presveta-bogorodica.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/71990/conversions/text-max.jpg",
-      "date": "Fri, 28 Aug 2026 15:10:47 +0000"
+      "url": "https://time.mk/c/e9e65f7f92/levica-bazenot-i-dino-parkot-vo-stip-predadeni-na-privatnici-jordanov-veli-ako-gi-stopanisuva-opstinata-ke-propadnat.html",
+      "image": "https://libertas.mk/wp-content/uploads/2026/08/ss-5.jpg",
+      "date": "Sat, 29 Aug 2026 08:38:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Сојуз на борци од Тетово: Не смее да се дозволи улица да биде именувана по градоначалник од времето на фашистичката окупација | 360 степени",
+      "title": "Димитриеска-Кочоска: Јавните средства мора да се користат законски, ефикасно и одговорно | Нова Македонија",
       "description": "",
-      "url": "https://time.mk/c/bba3574de1/sojuz-na-borci-od-tetovo-ne-smee-da-se-dozvoli-ulica-da-bide-imenuvana-po-gradonacalnik-od-vremeto-na-fasistickata-okupacija.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2025/02/Ulica-Tetovo.jpg",
-      "date": "Fri, 28 Aug 2026 21:26:51 +0000"
+      "url": "https://time.mk/c/f369cf290d/dimitrieska-kocoska-javnite-sredstva-mora-da-se-koristat-zakonski-efikasno-i-odgovorno.html",
+      "image": "https://novamakedonija.com.mk/wp-content/uploads/2025/02/gordana-dimitrievska-kocovska-150x150.jpg",
+      "date": "Sat, 29 Aug 2026 08:36:36 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Мицкоски за дата-центрите во Македонија: „Нема простор за грижа, тие ќе се градат, тоа е иднината на човештвото“ | ТВ21",
+      "title": "Пензионерите ќе почекаат уште неколку дена за точната сума од септемвриското зголемување | Бизнис Вести",
       "description": "",
-      "url": "https://time.mk/c/ee428af746/mickoski-za-data-centrite-vo-makedonija-nema-prostor-za-griza-tie-ke-se-gradat-toa-e-idninata-na-covestvoto.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2026/07/mickoski-2--1024x599.png",
-      "date": "Fri, 28 Aug 2026 15:40:57 +0000"
+      "url": "https://time.mk/c/85620a8259/penzionerite-ke-pocekaat-uste-nekolku-dena-za-tocnata-suma-od-septemvriskoto-zgolemuvanje.html",
+      "image": "https://biznisvesti.mk/wp-content/uploads/2025/11/penzioneri-300x200.jpg",
+      "date": "Sat, 29 Aug 2026 07:44:43 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Рударството не е професија на минатото, туку на иднината | Deutsche Welle",
+      "title": "Во Албанија, вчера регистрирани 17 пожари, активни се 8, евакуирани жители | Либертас",
       "description": "",
-      "url": "https://time.mk/c/2cd947b14b/rudarstvoto-ne-e-profesija-na-minatoto-tuku-na-idninata.html",
-      "image": "https://static.dw.com/image/17903360_301.jpg",
-      "date": "Fri, 28 Aug 2026 09:35:17 +0000"
+      "url": "https://time.mk/c/e219467b83/vo-albanija-vcera-registrirani-17-pozari-aktivni-se-8-evakuirani-ziteli.html",
+      "image": "https://libertas.mk/wp-content/uploads/2026/08/ddd-10.webp",
+      "date": "Sat, 29 Aug 2026 06:52:34 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ЕK: Глорификацијата на воените злосторници нема место во ЕУ ниту во земјите кандидати | Вечер Прес",
+      "title": "Голем пожар беснее над Сараево, евакуиран работник од врвот на Требевиќ | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/30e4e04562/ek-glorifikacijata-na-voenite-zlostornici-nema-mesto-vo-eu-nitu-vo-zemjite-kandidati.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/08/eu-zname-opsta-youtube-krop-696x402-1.jpg",
-      "date": "Fri, 28 Aug 2026 16:10:55 +0000"
+      "url": "https://time.mk/c/1686e86d0f/golem-pozar-besnee-nad-saraevo-evakuiran-rabotnik-od-vrvot-na-trebevik.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84333/conversions/text-max.jpg",
+      "date": "Sat, 29 Aug 2026 07:22:42 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(ФОТО) Деца на возраст од 4 и 11 години и 74-годишна жена се загинатите македонски државјани во несреќата во Словенија | 360 степени",
+      "title": "Поплавите однесоа над 600 жртви, штетата во Непал може да достигне 5 милијарди долари | Пари",
       "description": "",
-      "url": "https://time.mk/c/c74bcb8c7d/foto-deca-na-vozrast-od-4-i-11-godini-i-74-godisna-zena-se-zaginatite-makedonski-drzavjani-vo-nesrekata-vo-slovenija.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/08/5025e4fd6fbbc496cc75_63638964.webp",
-      "date": "Fri, 28 Aug 2026 13:34:46 +0000"
+      "url": "https://time.mk/c/7c86752a19/poplavite-odnesoa-nad-600-zrtvi-stetata-vo-nepal-moze-da-dostigne-5-milijardi-dolari.html",
+      "image": "http://pari.com.mk/wp-content/uploads/2026/08/1280px-Mudslide_at_Gyirong_Port_2_screenshot.png",
+      "date": "Sat, 29 Aug 2026 07:32:39 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Црн биланс за денес: Бројот на жртви во поплавите во Непал се искачи на најмалку 579, бројот на исчезнати се искачи на 1.924 | Вечер Прес",
+      "title": "Земјите во Европа зимата ќе ја дочекаат со најмали резерви на гас во последната декада | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/55295855ca/crn-bilans-za-denes-brojot-na-zrtvi-vo-poplavite-vo-nepal-se-iskaci-na-najmalku-579-brojot-na-isceznati-se-iskaci-na-1-924.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/08/nepal-poplavi-x-video-696x434-1.jpg",
-      "date": "Fri, 28 Aug 2026 19:44:45 +0000"
+      "url": "https://time.mk/c/3f449dd66b/zemjite-vo-evropa-zimata-ke-ja-docekaat-so-najmali-rezervi-na-gas-vo-poslednata-dekada.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2024/12/gasovod-severen-tok-1-300x200.jpg",
+      "date": "Sat, 29 Aug 2026 07:26:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВИДЕО | Хокон Осми е новиот крал на Норвешка — што се знае за човекот кој не се снаоѓа најдобро во друштво? | Слободен Печат",
+      "title": "Од вторник Градски воз: Осум линии дневно меѓу Зелениково и Скопје | 4NEWS",
       "description": "",
-      "url": "https://time.mk/c/7b5e689c30/video-hokon-osmi-e-noviot-kral-na-norveska-sto-se-znae-za-covekot-koj-ne-se-snaogja-najdobro-vo-drustvo.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/08/kralot-hokon-norveshka-300x174.jpg",
-      "date": "Fri, 28 Aug 2026 16:20:56 +0000"
+      "url": "https://time.mk/c/c27737498d/od-vtornik-gradski-voz-osum-linii-dnevno-megju-zelenikovo-i-skopje.html",
+      "image": "https://4news.mk/wp-content/uploads/2024/07/voz.jpg",
+      "date": "Sat, 29 Aug 2026 07:52:51 +0000"
     },
     {
       "category": "mkd",
@@ -211,11 +130,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Без вода селото Бардовци | Проверено",
+      "title": "ДЗС: Отстранети опасни гранати од минатите војни од предел што бил „поминат“ од мариовскиот пожар | iNFOMAX",
       "description": "",
-      "url": "https://time.mk/c/81bc0a5b26/bez-voda-seloto-bardovci.html",
-      "image": "https://cdn.kumanovskimuabeti.mk/2026/07/17018103-1024x683.jpeg",
-      "date": "Fri, 28 Aug 2026 07:45:17 +0000"
+      "url": "https://time.mk/c/2d2b99f0b0/dzs-otstraneti-opasni-granati-od-minatite-vojni-od-predel-sto-bil-pominat-od-mariovskiot-pozar.html",
+      "image": "https://infomax.mk/wp-content/uploads/2026/08/viber_image_2026-08-29_10-04-16-958.jpg",
+      "date": "Sat, 29 Aug 2026 08:13:18 +0000"
     },
     {
       "category": "mkd",
@@ -229,20 +148,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Неготинец работел осум месеци без плата, добил навреди и закани кога си ги побарал парите | Слободен Печат",
+      "title": "12-годишниот Јован исплива 16,5 километри за шест и пол часа | Рацин",
       "description": "",
-      "url": "https://time.mk/c/b15499bd0b/negotinec-rabotel-osum-meseci-bez-plata-dobil-navredi-i-zakani-koga-si-gi-pobaral-parite.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2025/09/DSC_3804-300x184.jpg",
-      "date": "Fri, 28 Aug 2026 16:34:58 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Лукровски со честитка по повод Голема Богородица: „Празникот нè потсетува на верата, љубовта и грижата за другите“ | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/7e1453fee7/lukrovski-so-cestitka-po-povod-golema-bogorodica-praznikot-ne-potsetuva-na-verata-ljubovta-i-grizata-za-drugite.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84402/conversions/text-max.jpg",
-      "date": "Fri, 28 Aug 2026 13:50:51 +0000"
+      "url": "https://time.mk/c/558b0a54fb/12-godisniot-jovan-ispliva-16-5-kilometri-za-sest-i-pol-casa.html",
+      "image": "https://racin.mk/wp-content/uploads/2026/08/jovan-kutanoski-848x461.jpg?x50325",
+      "date": "Sat, 29 Aug 2026 08:42:36 +0000"
     },
     {
       "category": "mkd",
@@ -256,23 +166,294 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Започна четвртиот Охрид џез фестивал | Охрид1",
+      "title": "Косара Митиќ освои „Златна мимоза“ за режија за филмот „17“ | Трн",
       "description": "",
-      "url": "https://time.mk/c/810ceab533/zapocna-cetvrtiot-ohrid-dzez-festival.html",
-      "image": "https://ohrid1.com/wp-content/uploads/2026/08/dzez-1-750x460.jpg",
-      "date": "Fri, 28 Aug 2026 22:04:35 +0000"
+      "url": "https://time.mk/c/471e06751d/kosara-mitik-osvoi-zlatna-mimoza-za-rezija-za-filmot-17.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/08/kosara.jpg",
+      "date": "Sat, 29 Aug 2026 08:06:51 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Од ќерка на војвода, до македонска оперска примадона: Кармен беше нејзин симбол, настапила во повеќе од 20 земји во светот - сите ја паметиме како неповторлива оперска дива | Фактор",
+      "title": "ИМА СОЛИДЕН НАПРЕДОК ВО РЕНОВИРАЊЕТО НА УНИВЕРЗАЛНА САЛА, ВЕЛАТ ОД МИНИСТЕРСТВОТО ЗА КУЛТУРА, ИАКО НА ТЕРЕН НЕ СЕ ИЗВЕДЕНИ ПОГОЛЕМИ ЗАФАТИ | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/3a24fcb8c2/od-kerka-na-vojvoda-do-makedonska-operska-primadona-karmen-bese-nejzin-simbol-nastapila-vo-poveke-od-20-zemji-vo-svetot-site-ja-pametime-kako-nepovtorliva-operska-diva.html",
-      "image": "https://zenskimagazin.mk/media/main/2025/02/20250224121515.jpg",
-      "date": "Fri, 28 Aug 2026 18:42:47 +0000"
+      "url": "https://time.mk/c/4300004f07/ima-soliden-napredok-vo-renoviranjeto-na-univerzalna-sala-velat-od-ministerstvoto-za-kultura-iako-na-teren-ne-se-izvedeni-pogolemi-zafati.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/08/Univerzalna-sala-29.08.2026.jpg",
+      "date": "Sat, 29 Aug 2026 07:52:51 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Македонските средношколци растурија на Меѓународната олимпијада по Геонауки: Се вратија со 9 медали!",
+      "description": "Нашите натпреварувачи блескаво се претставија себеси и Македонија на 19. Меѓународна олимпијада по геонауки, IESO 2026, која се одржа во Торино, Италија, од 20 до 27 август. Во силна конкуренција од 40 држави и 160 натпреварувачи, како единствен претставник од регионот, Македонија се врати дома со вкупно 9 одличја: 2 златни, 1 сребрен и 6 ...",
+      "url": "https://motika.mk/makedonskite-srednoskolci-rasturija-na-megunarodnata-olimpijada-po-geonauki-se-vratija-so-9-medali/",
+      "image": "https://motika.io/media/2026/08/29/img-ecdd38db-b249-402e-85c1-1a706f59a9c5-1.jpg",
+      "date": "Sat, 29 Aug 2026 07:14:54 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Македонски гангстер прави финти на шопинг во Грција",
+      "description": "И сега веќе сите Македонци ја знаат оваа финта и вработените во грчкиот Лидл по цел ден собираат колички од паркинзите, зошто за 5 денари, кој ќе ја враќа 🙂",
+      "url": "https://motika.mk/makedonski-gangster-pravi-finti-na-soping-vo-grcija/",
+      "image": "https://motika.mk/wp-content/uploads/2026/08/29/76645d6fa156456fba82fb0c604e2c27.jpg",
+      "date": "Sat, 29 Aug 2026 06:58:30 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Орото во Сарамзалино е необично весело, благодарение на господинот со розеви панталони",
+      "description": "Не само што игра, туку и меша истовремено.",
+      "url": "https://motika.mk/oroto-vo-saramzalino-e-neobicno-veselo-blagodarenie-na-gospodinot-so-rozevi-pantaloni/",
+      "image": "https://motika.mk/wp-content/uploads/2026/08/29/a5ff343630b84b18a480ef7ab6eb9cb9.jpg",
+      "date": "Sat, 29 Aug 2026 06:51:23 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Само девојка со розево скутерче може да направи ваква сообраќајка",
+      "description": "Ако некој има идеја како е можно да завршила таму без влакно да ѝ фали, слободно нека не просветли сите.",
+      "url": "https://motika.mk/samo-devojka-so-rozevo-skuterce-moze-da-napravi-vakva-soobrakajka/",
+      "image": "https://motika.mk/wp-content/uploads/2026/08/29/20631e2770574adcb2516836117a7c4d.jpg",
+      "date": "Sat, 29 Aug 2026 06:45:56 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Само во Гостивар вака изгледаат популарните автомати со канџа",
+      "description": "За да може и големите деца да си поиграат малку.",
+      "url": "https://motika.mk/samo-vo-gostivar-vaka-izgledaat-popularnite-avtomati-so-kanza/",
+      "image": "https://motika.mk/wp-content/uploads/2026/08/29/1f5ce94a-925e-4515-bea9-57230c8e43f0.jpg",
+      "date": "Sat, 29 Aug 2026 06:42:31 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Во Прилеп кога ќе кажеш дека вечерта ти се пуштил еден коњ, не значи исто како во другите градови",
+      "description": "Прилепчани се буквалисти.",
+      "url": "https://motika.mk/vo-prilep-koga-ke-kazes-deka-vecerta-ti-se-pustil-eden-kon-ne-znaci-isto-kako-vo-drugite-gradovi/",
+      "image": "https://motika.mk/wp-content/uploads/2026/08/29/309a85b2-ccea-4e78-9637-897c39d90ebb.jpg",
+      "date": "Sat, 29 Aug 2026 06:38:17 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Кога ќе му кажеш на ChatGPT да ти изгенерира реалистична слика на македонски автопат",
+      "description": "Не е далеку од вистината, делот со камерите е 100% точен, другото малку го преувеличил 🙂",
+      "url": "https://motika.mk/koga-ke-mu-kazes-na-chatgpt-da-ti-izgenerira-realisticna-slika-na-makedonski-avtopat/",
+      "image": "https://motika.mk/wp-content/uploads/2026/08/29/b6812c17-fe15-4cfd-b517-262a8cccb65c.jpg",
+      "date": "Sat, 29 Aug 2026 06:34:53 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Од што се прават гумените бонбони што им ги давате на вашите деца?",
+      "description": "Нареден пат кога ќе ги ставите во корпата за пазарување, размислете два пати.",
+      "url": "https://motika.mk/od-sto-se-pravat-gumenite-bonboni-sto-im-gi-davate-na-vasite-deca/",
+      "image": "https://motika.mk/wp-content/uploads/2026/08/29/2a0d302b5c3241819976df098406e318.jpg",
+      "date": "Sat, 29 Aug 2026 06:30:50 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Филип Ташковски, магистер по економија и бизнис науки: „Крипто индустријата нуди поголема финансиска слобода отколку кој било систем досега“",
+      "description": "Филип Ташковски е магистер по економија и бизнис науки од областа на сметководство, ревизија и даноци. Неговото истражување е насочено кон интеграција на блокчејн технологијата и тројното сметководство за зголемување на транспарентноста и довербата во ревизијата. На 6 септември, во МКЦ Скопје, тој е еден од седумте говорници на Македонска Крипто Конференција #3. Разговаравме со ...",
+      "url": "https://motika.mk/filip-taskovski-magister-po-ekonomija-i-biznis-nauki-kripto-industrijata-nudi-pogolema-finansiska-sloboda-otkolku-koj-bilo-sistem-dosega/",
+      "image": "https://motika.mk/wp-content/uploads/2026/08/28/1773659615900.jpeg",
+      "date": "Fri, 28 Aug 2026 11:13:35 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Момче во 1920-тите не можело да си дозволи телескоп, па само си направило. Подоцна открило планета",
+      "description": "Страста на Клајд Томбо за астрономијата започнала во 1918 година, кога имал само 12 години, откако еден чичко му го подарил неговиот прв мал телескоп и неколку учебници по астрономија. Но финансиската состојба на Томбо не ја поддржувала таа страст. По лошата жетва на пченка во 1920 година, Томбо ја напуштил гимназијата на една година ...",
+      "url": "https://motika.mk/momce-vo-1920-tite-ne-mozelo-da-si-dozvoli-teleskop-pa-samo-si-napravilo-podocna-otkrilo-planeta/",
+      "image": "https://motika.mk/wp-content/uploads/2026/08/28/img-1246a4e7-4530-44c0-a7a7-b66ffa2c753a-2.jpg",
+      "date": "Fri, 28 Aug 2026 10:51:51 +0000"
     }
   ],
-  "de": [],
+  "de": [
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Illegale IPTV-Dienste: Piraten-TV, PLEX und Vapes – BREIN zieht den Stecker",
+      "description": "Illegale IPTV, PLEX und Vapes: BREIN enttarnt einen Anbieter und schaltet ihn ab. 2026 wurden bereits 104 IPTV-Dienste offline genommen. Der Artikel Illegale IPTV-Dienste: Piraten-TV, PLEX und Vapes – BREIN zieht den Stecker erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/iptv/illegale-iptv-brein-plex-vapes-333128.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/illegale-iptv-brein-plex-vapes",
+      "date": "Fri, 28 Aug 2026 14:33:25 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Spotilol ist der bessere Nachfolger von SpotiFuck",
+      "description": "Das neue Tool Spotilol führt SpotiFuck weiter, entfernt Werbung aus Spotify Free und verbessert die Android-Bedienung. Der Artikel Spotilol ist der bessere Nachfolger von SpotiFuck erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/softwareentwicklung/spotilol-ist-der-bessere-nachfolger-von-spotifuck-333102.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/spotilol-ist-der-bessere-nachfolger-von-spotifuck",
+      "date": "Fri, 28 Aug 2026 09:12:08 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "CyberLeek will mit GTA 6 nur Kasse machen",
+      "description": "Der Deutsche, der zahlreiche Videos vom unveröffentlichten Spiel GTA 6 verbreitet hat, denkt offenbar nur an den eigenen Geldbeutel. Der Artikel CyberLeek will mit GTA 6 nur Kasse machen erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/gaming/cyberleek-will-mit-gta-6-nur-kasse-machen-333035.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/cyberleek-will-mit-gta-6-nur-kasse-machen",
+      "date": "Thu, 27 Aug 2026 19:38:33 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Klarna-Phishing-Falle: Betrüger ködern Amazon-Kunden mit 129,45 Euro",
+      "description": "Klarna-Phishing-Falle mit 129,45 Euro: Betrüger ködern Amazon-Kunden mit einer Fake-Rückerstattung und wollen an sensible Daten gelangen. Der Artikel Klarna-Phishing-Falle: Betrüger ködern Amazon-Kunden mit 129,45 Euro erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/it-sicherheit/online-betrug/klarna-phishing-falle-amazon-129-45-euro-333028.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/klarna-phishing-falle-amazon-129-45-euro",
+      "date": "Thu, 27 Aug 2026 15:01:10 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Comic-Downloads – Websites im August 2026",
+      "description": "Comic-Downloads oder die Werke online lesen im Sommer 2026. Es sind schon wieder mehrere Vertreter offline gegangen, teilweise unfreiwillig. Der Artikel Comic-Downloads – Websites im August 2026 erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/listen/comic-downloads-websites-im-august-2026-333006.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/comic-downloads-websites-im-august-2026",
+      "date": "Thu, 27 Aug 2026 10:09:22 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Hentai-Streaming: Portale für Streams und Download im August 2026",
+      "description": "Es hat sich einiges im Web getan, wenn es um Hentai-Streaming Portale geht. Manche bieten den Besuchern auch einen Download der Werke an. Der Artikel Hentai-Streaming: Portale für Streams und Download im August 2026 erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/listen/hentai-streaming-portale-fuer-streams-und-download-im-august-2026-332996.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/hentai-streaming-portale-fuer-streams-und-download-im-august-2026",
+      "date": "Wed, 26 Aug 2026 15:26:46 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "KorbKlar, der lokale Einkaufshelfer ohne Accountzwang und Nutzertracking",
+      "description": "Unser kostenloser Einkaufshelfer KorbKlar vergleicht lokale Angebote verschiedener Händler ohne Accountzwang und Nutzertracking. Der Artikel KorbKlar, der lokale Einkaufshelfer ohne Accountzwang und Nutzertracking erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/softwareentwicklung/korbklar-der-lokale-einkaufshelfer-ohne-accountzwang-und-nutzertracking-332966.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/korbklar-der-lokale-einkaufshelfer-ohne-accountzwang-und-nutzertracking",
+      "date": "Tue, 25 Aug 2026 13:10:26 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "GTA VI Fake-ISO: 113 GB Download entpuppt sich als Malware-Falle",
+      "description": "GTA VI Fake-ISO mit 113 GB entpuppt sich als Malware-Falle: 99,99 Prozent sollen nur aus Datenmüll bestehen. Der Artikel GTA VI Fake-ISO: 113 GB Download entpuppt sich als Malware-Falle erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/gaming/gta-vi-fake-iso-malware-falle-332956.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/gta-vi-fake-iso-malware-falle",
+      "date": "Mon, 24 Aug 2026 15:06:33 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "E-Book-Piratin gestoppt: BREIN pfändet Haus und Mercedes",
+      "description": "E-Book-Piratin gestoppt: BREIN pfändet Haus und Auto. Erst danach gibt die hartnäckige Verkäuferin illegaler E-Books auf. Der Artikel E-Book-Piratin gestoppt: BREIN pfändet Haus und Mercedes erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/e-books/e-book-piratin-gestoppt-brein-pfaendet-wohnung-mercedes-332947.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/e-book-piratin-gestoppt-brein-pfaendet-wohnung-mercedes",
+      "date": "Sun, 23 Aug 2026 14:29:51 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "GitHub-Säuberungsaktion von Nintendo: 400 Repos gelöscht",
+      "description": "Die Rechtsabteilung von Nintendo war mal wieder fleißig. In einer koordinierten GitHub-Säuberungsaktion ließ man 400 Quellcodes entfernen. Der Artikel GitHub-Säuberungsaktion von Nintendo: 400 Repos gelöscht erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/rechtssachen/github-saeuberungsaktion-von-nintendo-400-repos-geloescht-332948.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/github-saeuberungsaktion-von-nintendo-400-repos-geloescht",
+      "date": "Sun, 23 Aug 2026 12:58:11 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Illegale IPTV-Streams: 200.000 Pfund kassiert – Millionen-Schaden für Sky?",
+      "description": "Illegales IPTV brachte einem Reseller über 200.000 Pfund ein. Sky beziffert die entgangenen Einnahmen auf 3,66 Millionen Pfund. Der Artikel Illegale IPTV-Streams: 200.000 Pfund kassiert – Millionen-Schaden für Sky? erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/iptv/illegale-iptv-streams-200000-pfund-sky-332913.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/illegale-iptv-streams-200000-pfund-sky",
+      "date": "Sat, 22 Aug 2026 12:46:36 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Malware versteckt sich häufig in E-Book-Warez",
+      "description": "Die US-Verlage stöhnen über große Verluste, dabei versteckt sich Malware auch in den E-Book-Warez. Doch wie funktioniert das Ganze? Der Artikel Malware versteckt sich häufig in E-Book-Warez erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/e-books/malware-versteckt-sich-haeufig-in-e-book-warez-332912.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/malware-versteckt-sich-haeufig-in-e-book-warez",
+      "date": "Sat, 22 Aug 2026 10:05:06 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Resonance: A Plague Tale Legacy geleakt – noch nicht erschienen, schon raubkopiert",
+      "description": "Resonance: A Plague Tale Legacy ist eine Woche vor Release geleakt. Die PC-Version kursiert bereits in der Piraterie-Szene – Spoilergefahr. Der Artikel Resonance: A Plague Tale Legacy geleakt – noch nicht erschienen, schon raubkopiert erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/gaming/resonance-a-plague-tale-legacy-geleakt-332866.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/resonance-a-plague-tale-legacy-geleakt",
+      "date": "Fri, 21 Aug 2026 12:39:18 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "CyberLeek: Besitzt der Leaker eine spielbare Version von GTA 6?",
+      "description": "Im Telegram-Kanal CyberLeek zeigt man mehrere Videos einer recht fertig aussehenden Version von GTA 6. Bei X hat man den Account gesperrt. Der Artikel CyberLeek: Besitzt der Leaker eine spielbare Version von GTA 6? erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/gaming/cyberleek-besitzt-der-leaker-eine-spielbare-version-von-gta-6-332833.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/cyberleek-besitzt-der-leaker-eine-spielbare-version-von-gta-6",
+      "date": "Thu, 20 Aug 2026 19:43:27 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Beitragsservice ohne Service: Haushaltspauschale künftig ohne Erinnerung",
+      "description": "Einzugsermächtigung erteilt? Die Erinnerungen der Rundfunkgebühren fallen weg. Der Beitragsservice verschickt gerade 4,5 Millionen Briefe. Der Artikel Beitragsservice ohne Service: Haushaltspauschale künftig ohne Erinnerung erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/beitragsservice-ohne-service-haushaltspauschale-kuenftig-ohne-erinnerung-332831.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/beitragsservice-ohne-service-haushaltspauschale-kuenftig-ohne-erinnerung",
+      "date": "Thu, 20 Aug 2026 17:18:44 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "RTX 5080 gestohlen: Dreister GPU-Tausch fliegt erst nach Blackout auf",
+      "description": "In chinesischen Gaming-Hotels tauschten Diebe High-End-GPUs gegen RTX 3060. Erst ein Stromausfall brachte den Betrug ans Licht Der Artikel RTX 5080 gestohlen: Dreister GPU-Tausch fliegt erst nach Blackout auf erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/gaming/rtx-5080-gestohlen-dreister-gpu-tausch-fliegt-erst-nach-blackout-auf-332816.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/rtx-5080-gestohlen-dreister-gpu-tausch-fliegt-erst-nach-blackout-auf",
+      "date": "Thu, 20 Aug 2026 12:39:43 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Amazon führt neues DRM ein, schließt Libby-Schlupfloch",
+      "description": "Amazon hat ein neues, stärker abgesichertes DRM auf einigen Geräten ihres Kindle Oasis ausgerollt und das Libby-Schlupfloch geschlossen. Der Artikel Amazon führt neues DRM ein, schließt Libby-Schlupfloch erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/e-books/amazon-fuehrt-neues-drm-ein-schliesst-libby-schlupfloch-332806.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/amazon-fuehrt-neues-drm-ein-schliesst-libby-schlupfloch",
+      "date": "Thu, 20 Aug 2026 09:30:19 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "CUII: LG Köln ließ KinoGo und Streamed sperren",
+      "description": "Die großen Internet-Anbieter müssen nun den Zugang zu den Domains der beiden Streaming-Websites KinoGo und Streamed sperren. Der Artikel CUII: LG Köln ließ KinoGo und Streamed sperren erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/rechtssachen/cuii-lg-koeln-liess-kinogo-und-streamed-sperren-332792.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/cuii-lg-koeln-liess-kinogo-und-streamed-sperren",
+      "date": "Wed, 19 Aug 2026 14:24:47 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Microsoft Copilot gehackt: KI verrät Forschern ihren eigenen Angriffsweg",
+      "description": "Microsoft Copilot gehackt: Forscher bringen KI dazu, ihren eigenen Angriffsweg zu verraten. CoSnitch konnte Daten per One-Click abgreifen. Der Artikel Microsoft Copilot gehackt: KI verrät Forschern ihren eigenen Angriffsweg erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/it-sicherheit/microsoft-copilot-gehackt-332791.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/microsoft-copilot-gehackt",
+      "date": "Wed, 19 Aug 2026 14:03:34 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "c-network.to: Domain vom neuen Crimenetwork beschlagnahmt",
+      "description": "Gestern beschlagnahmte das BKA die Domain der dritten Version des Fraud-Forums Crimenetwork. Offenbar sind auch die Server betroffen. Der Artikel c-network.to: Domain vom neuen Crimenetwork beschlagnahmt erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/szene/dark-commerce/c-network-to-domain-vom-neuen-crimenetwork-beschlagnahmt-332788.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/c-network-to-domain-vom-neuen-crimenetwork-beschlagnahmt",
+      "date": "Wed, 19 Aug 2026 08:36:11 +0000"
+    }
+  ],
   "eng": [
     {
       "category": "eng",
@@ -457,6 +638,24 @@
     {
       "category": "eng",
       "source": "PCWorld",
+      "title": "Replace slow drafting workflows with AutoCAD LT for just $199",
+      "description": "TL;DR: AutoCAD LT combines precise 2D drafting , workflow automation, DWG compatibility, and connected collaboration tools in a one-year subscription for $199. Some projects need precise 2D drawings, not a maze of 3D tools you will never touch. AutoCAD LT keeps the focus on professional drafting, annotation, and documentation for floor plans, construction drawings, manufacturing layouts, engineering schematics, electrical diagrams, and other technical work. Smart Blocks detects repeated objects ",
+      "url": "https://www.pcworld.com/article/3222334/replace-slow-drafting-workflows-with-autocad-lt-for-just-199.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3222334-0-65460900-1787990468-AutoCAD-LT-1.jpg?quality=50&strip=all",
+      "date": "Sat, 29 Aug 2026 08:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Compare ChatGPT, Gemini, DeepSeek, & more for life for a one-time $79",
+      "description": "TL;DR: ChatPlayground AI lets you compare responses from multiple AI models in one window, with lifetime Unlimited Plan access available for $79. Every AI model has its own way of answering a prompt. One might write cleaner code, another may deliver a clearer explanation, and a third could catch something the others missed. ChatPlayground AI lets you compare those approaches without opening a small nation’s worth of browser tabs. And lifetime access to the Unlimited Plan is on sale for just $79 ",
+      "url": "https://www.pcworld.com/article/3222339/compare-chatgpt-gemini-deepseek-more-for-life-for-a-one-time-79.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3222339-0-19033400-1787990485-ChatPlayground_a149e1.jpg?quality=50&strip=all",
+      "date": "Sat, 29 Aug 2026 08:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
       "title": "Google Notebook is making big changes to usage limits",
       "description": "Fans of Google Notebook’s AI-generated podcasts may have to settle for fewer of them once a new usage-tracking method goes into effect next week. Starting September 2, Google Notebook will switch over to “compute-specific” usage limits that track the “complexity” of your Google Notebook prompts and requests. Also coming with the “compute-specific” usage limits change are five-hour usage windows, along with weekly usage limits, according to a Google support page , replacing the current daily and ",
       "url": "https://www.pcworld.com/article/3222981/google-notebook-is-making-big-changes-to-usage-limits.html",
@@ -525,24 +724,6 @@
       "url": "https://www.pcworld.com/article/3217629/how-to-easily-convert-written-documents-into-audio-podcasts.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3217629-0-65825900-1787926771-Adobe-Product-Generate-Podcast2.png",
       "date": "Fri, 28 Aug 2026 14:19:17 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "How to keep document collaboration simple, efficient and organized",
-      "description": "Try Adobe Acrobat for free today! Learn more If you lead a project or team, then you’ll know how many moving pieces you constantly have to keep an eye on each day. One area where this can be time consuming and problematic is with document workflows. How can you ensure that everyone involved has signed off on a plan, or even that they’re reading the same version? That’s where PDF Spaces comes in, a key feature in Adobe Acrobat, which makes document review and approval a streamlined affair, rather",
-      "url": "https://www.pcworld.com/article/3216775/how-to-keep-document-collaboration-simple-efficient-and-organized.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3216775-0-78681900-1787926671-Adobe-Lifestyle-Office.png",
-      "date": "Fri, 28 Aug 2026 14:17:37 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "How Adobe Acrobat makes PDF editing easy",
-      "description": "Try out Adobe Acrobat for free today! Learn more If you regularly work with PDF files, then you’ll know how important they are in the modern world. Whether it’s contracts that need to be signed, reports to be amended, forms that require filling out or that all important presentation, PDFs are a cornerstone of professional life. It can be surprising then that many people try to edit them with basic, free software that makes the process harder and more complicated. Formatting issues, problems movi",
-      "url": "https://www.pcworld.com/article/3216548/how-adobe-acrobat-makes-pdf-editing-easy.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3216548-0-17452300-1787926551-AdobeStock_2023675752.jpeg?quality=50&strip=all",
-      "date": "Fri, 28 Aug 2026 14:15:37 +0000"
     }
   ],
   "starwars": [
@@ -687,7 +868,7 @@
       "title": "Traileranalyse: Ahsoka – Staffel 2 – Teaser",
       "description": "Das erste Bewegtbildmaterial zur 2. Season der Serie liefert allerhand Schauwerte und Spekulationsmaterial.",
       "url": "https://starwars-union.de/traileranalyse-ahsoka-staffel-2-teaser/",
-      "image": "",
+      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/08/20260815-ahsoka-s2-teaser-45.jpg",
       "date": "Sun, 16 Aug 2026 11:18:47 +0000"
     },
     {
