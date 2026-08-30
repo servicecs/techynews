@@ -1,158 +1,239 @@
 {
-  "updated": "2026-08-30T01:30:05.466144+00:00",
+  "updated": "2026-08-30T07:18:49.606058+00:00",
   "mkd": [
     {
       "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ПОД КОНТРОЛА СТАВЕН ПОЖАРОТ ВО ПОДНОЖЈЕТО НА ВРВОТ ВРТУШКА НА ПЕЛИСТЕР | Сакам да кажам",
-      "description": "",
-      "url": "https://time.mk/c/dc65b12d72/pod-kontrola-staven-pozarot-vo-podnozjeto-na-vrvot-vrtuska-na-pelister.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/08/pozhar-pelister.jpg",
-      "date": "Sat, 29 Aug 2026 18:42:47 +0000"
+      "source": "SmartPortal",
+      "title": "Apple официјално го закажа денот на одржување на нивниот септемвриски настан",
+      "description": "Apple официјално го закажа денот кога ќе го одржи нивниот традиционален септемвриски настан. Како што неофицијално се најавуваше, настанот ќе се одржи на 9 септември, со почеток во 19:00 часот по македонско време. Истиот ќе може да се следи преку YouTube како и досега, а тука е и „стримот“ преку страната за настани на Apple. […]",
+      "url": "https://smartportal.mk/novosti/nastani/apple-septemvriski-nastan/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/apple-surprise-shine-f-150x150.webp",
+      "date": "Thu, 27 Aug 2026 12:46:30 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Телеком ја носи првата самостојна 5G мрежа во Македонија",
+      "description": "Македонски Телеком ја носи првата 5G+ мрежа во Македонија, (5G Standalone), со што започнува нова ера во развојот на мобилните услуги. Станува збор за најголемата промена во мобилните мрежи во последната деценија и за нова технолошка основа што ќе овозможи пофлексибилно и поперсонализирано поврзување. Новата мрежна инфраструктура е целосно поставена, а нејзините функционалности ќе се активираат фазно и […]",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/telekom-ja-nosi-prvata-samostojna-5g-mreza-vo-makedonija/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/5G-v1-150x150.webp",
+      "date": "Thu, 27 Aug 2026 09:54:31 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Samsung претставува нова линија на Odyssey монитори за брзо гејминг искуство на Gamescom 2026",
+      "description": "Скопје 27 август 2026 година – компанијата Самсунг („Samsung“) денеска ја претстави својата линија гејминг монитори Odyssey за 2027 година на Gamescom 2026, најголемиот гејминг настан во светот, кој се одржува во Келн, Германија, од 26 до 30 август. Новата линија носи повеќе модели Odyssey со иновации кои се први во светот, овозможувајќи им на […]",
+      "url": "https://smartportal.mk/novosti/uredi/samsung-nova-linija-odyssey-monitori-gamescom-2026/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/2027-Odyssey-Full-lineup_Front-150x150.webp",
+      "date": "Thu, 27 Aug 2026 09:10:38 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Полесен начин за премин на новиот Galaxy Z Fold8",
+      "description": "Скопје, 26 август 2026 година – Набавувањето нов телефон треба да биде возбудливо, но пренесувањето податоци од постоечкиот уред понекогаш може да биде макотрпно. За корисниците кои преминуваат од iOS на Galaxy, можноста лесно да ги пренесат постоечките податоци и поставки е важен дел од искуството. Smart Switch е апликацијата на „Samsung“ за пренос на […]",
+      "url": "https://smartportal.mk/novosti/uredi/polesen-nacin-za-premin-na-galaxy-z-fold8/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/01_smart_switch_QR-150x150.webp",
+      "date": "Wed, 26 Aug 2026 12:23:20 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Instagram ја претстави опцијата „First Draft“ за полесно уредување на Reels видеата",
+      "description": "Instagram објави дека воведува нова алатка наречена „First Draft“, дизајнирана значително да го олесни и забрза процесот на уредување на Reels видеа. Компанијата ја најави оваа новина преку објава на Threads, истакнувајќи дека нејзината главна цел е да го реши еден од најдосадните делови од видео продукцијата. Опцијата автоматски ги анализира избраните видео „клипови“, ги […]",
+      "url": "https://smartportal.mk/novosti/socijalni-mrezi/instagram-first-draft/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/03/brett-jordan-fmqhTMu4IVU-unsplash-150x150.webp",
+      "date": "Wed, 26 Aug 2026 10:05:32 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Apple се откажа од планираната промена на доменот за „Hide My Email“",
+      "description": "Apple потврди дека се откажува од планираната промена за својата функција за приватност „Hide My Email“. Компанијата претходно најави дека маскираните адреси за електронска пошта ќе бидат постепено префрлени на новиот домен @private.icloud.com. Сепак, по острите критики од јавноста и експертите, оваа одлука е повлечена, па алатката ќе продолжи да го користи стандардниот @icloud.com домен […]",
+      "url": "https://smartportal.mk/novosti/servisi/apple-se-otkaza-od-promenata-na-domenot-za-hide-my-email/",
+      "image": "https://smartportal.mk/wp-content/uploads/2024/11/shutterstock_2327822961-150x150.jpg",
+      "date": "Wed, 26 Aug 2026 09:32:21 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "X испрати барање за прекин на работата до проектот Nitter",
+      "description": "X испрати официјално правно барање за прекин на работата до Nitter, популарен проект со отворен код кој функционираше како алтернативен кориснички интерфејс за објавите од оваа популарна социјална мрежа. Правното известување, кое беше доставено до главниот развивач познат под псевдонимот „zedeus“, инсистира на целосно отстранување на сите активни инстанци на Nitter, како и на јавно […]",
+      "url": "https://smartportal.mk/novosti/socijalni-mrezi/x-baranje-prekin-rabota-nitter/",
+      "image": "https://smartportal.mk/wp-content/uploads/2023/08/shutterstock_2336648595-150x150.jpg",
+      "date": "Wed, 26 Aug 2026 08:57:54 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "35 години од почетокот на развојот на Linux",
+      "description": "Оперативниот систем Linux одбележува 35 години од своето постоење. Првичната верзија беше најавена во август 1991 година како личен проект на Линус Торвалдс, со цел да се создаде бесплатен оперативен систем. Три и пол децении подоцна, овој софтвер претставува основа за голем дел од модерната компјутерска инфраструктура, почнувајќи од сервери и суперкомпјутери, па сè до […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/35-godini-od-pocetokot-na-razvojot-na-linux/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/linux35-logo.webp",
+      "date": "Wed, 26 Aug 2026 08:18:06 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Apple го претстави новиот Mac Studio со M5 Max и M5 Ultra процесорите",
+      "description": "Apple официјално ја најави новата генерација на Mac Studio, кој доаѓа со M5 Max и новиот M5 Ultra. Овие чипови се дизајнирани да понудат зголемена процесорска и графичка моќ, со посебен фокус врз извршувањето задачи поврзани со вештачка интелигенција директно на самиот уред, продолжувајќи го угледот на Mac Studio за еден од најдобрите компјутери за […]",
+      "url": "https://smartportal.mk/novosti/kompjuteri/apple-mac-studio-m5-max-m5-ultra/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Apple-Mac-Studio-hero-260825-150x150.webp",
+      "date": "Tue, 25 Aug 2026 18:11:11 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Apple ја претстави наредната генерација од Mac mini со M6 и M5 Pro процесорите",
+      "description": "Apple денеска ја најави новата генерација на Mac mini, која доаѓа со најновите M6 и M5 Pro процесори. Новите компјутери го задржуваат својот карактеристичен „ултракомпактен“ дизајн, но нудат значително поголема процесорска и графичка моќ, со посебен фокус на извршувањето на задачи поврзани со вештачка интелигенција. Компанијата истакнува дека основниот модел овозможува до четири пати побрзи […]",
+      "url": "https://smartportal.mk/novosti/kompjuteri/apple-mac-mini-m6-m5-pro/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Apple-Mac-mini-hero-260825-150x150.webp",
+      "date": "Tue, 25 Aug 2026 17:44:51 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "За Владата, скандалозната објава на директорот Далибор Китановиќ за Младиќ бил негов личен став. Очекува тој да ја повлече | Независен",
+      "title": "Пожарот на „Пелистер“ локализиран, опасноста од ширење и натаму голема: Во гаснењето ќе се вклучат хеликоптер и два „ер трактори“ | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/72e9ad2bcd/za-vladata-skandaloznata-objava-na-direktorot-dalibor-kitanovik-za-mladik-bil-negov-licen-stav-ocekuva-toj-da-ja-povlece.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2022/02/Vlada-zgrada-2-bg_resize.jpg",
-      "date": "Sat, 29 Aug 2026 19:08:37 +0000"
+      "url": "https://time.mk/c/bc41571b4a/pozarot-na-pelister-lokaliziran-opasnosta-od-sirenje-i-natamu-golema-vo-gasnenjeto-ke-se-vklucat-helikopter-i-dva-er-traktori.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84461/conversions/text-max.jpg",
+      "date": "Sun, 30 Aug 2026 07:08:41 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Мицкоски има проблем. Духот на Ратко Младиќ шета низ Владата | Независен",
+      "title": "ФЕРОИНВЕСТ СО НАЈГОЛЕМА ЖЕТВА НА ПЧЕНКА ДОСЕГА ЗА БИОГАСНАТА ЕЛЕКТРАНА ВО САРАМЗАЛИНО | Фактор",
       "description": "",
-      "url": "https://time.mk/c/2d6769c29e/mickoski-ima-problem-duhot-na-ratko-mladik-seta-niz-vladata.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/08/Hristijan-Mickoski-Ivan-Stoilkovic-1-1024x764.jpg",
-      "date": "Sat, 29 Aug 2026 11:22:42 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Ангелов: Поранешните директори на ДЗС се колатерална штета во случајот со трагедијата во Кочани | ТВ21",
-      "description": "",
-      "url": "https://time.mk/c/6eb67f444e/angelov-poranesnite-direktori-na-dzs-se-kolateralna-steta-vo-slucajot-so-tragedijata-vo-kocani.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2026/08/angelov-1-1024x556.jpg",
-      "date": "Sat, 29 Aug 2026 21:52:47 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "12 деца хоспитализирани во Тетово – директорот Елези: Нема епидемија ниту труење | ТВ21",
-      "description": "",
-      "url": "https://time.mk/c/d15358789a/12-deca-hospitalizirani-vo-tetovo-direktorot-elezi-nema-epidemija-nitu-truenje.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2026/03/klinicka-bolnica-tetovo-1024x516.jpg",
-      "date": "Sat, 29 Aug 2026 16:52:46 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "СДСМ: Вучиќ води хибридна војна на Балканот, а Мицкоски и Стоилковиќ се само извршители | 360 степени",
-      "description": "",
-      "url": "https://time.mk/c/1c6d618cbe/sdsm-vucik-vodi-hibridna-vojna-na-balkanot-a-mickoski-i-stoilkovik-se-samo-izvrsiteli.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/08/sdsm.png",
-      "date": "Sat, 29 Aug 2026 09:00:41 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Судир за дата-центрите, СДСМ: Опасно коцкање со водата, струјата и земјата на граѓаните, ВМРО-ДПМНЕ: Знаат само за марихуана економија, само шират паника | ТВ21",
-      "description": "",
-      "url": "https://time.mk/c/44101ea90a/sudir-za-data-centrite-sdsm-opasno-kockanje-so-vodata-strujata-i-zemjata-na-gragjanite-vmro-dpmne-znaat-samo-za-marihuana-ekonomija-samo-sirat-panika.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2020/10/sdsm-vmro.jpg",
-      "date": "Sat, 29 Aug 2026 14:10:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Димитриеска-Кочоска: Ја зајакнуваме контролата врз јавните средства | ТВ21",
-      "description": "",
-      "url": "https://time.mk/c/b8625b5043/dimitrieska-kocoska-ja-zajaknuvame-kontrolata-vrz-javnite-sredstva.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2024/12/Gordana-Dimitrieska-Kocoska-2-1024x574.jpg",
-      "date": "Sat, 29 Aug 2026 09:50:55 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Еден загинат и двајца повредени во невремето на Кипар | Слободен Печат",
-      "description": "",
-      "url": "https://time.mk/c/0c45ace822/eden-zaginat-i-dvajca-povredeni-vo-nevremeto-na-kipar.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2020/02/kipar-limasol34-300x200.jpg",
-      "date": "Sat, 29 Aug 2026 14:28:41 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ПРВАТА ФАБРИКА ЗА ХУМАНОИДНИ РОБОТИ ВО ЕВРОПА - ОТВОРЕНА Е ВО СРБИЈА „Зачекоривме во иднината“ | Вечер",
-      "description": "",
-      "url": "https://time.mk/c/4e9a494da5/prvata-fabrika-za-humanoidni-roboti-vo-evropa-otvorena-e-vo-srbija-zacekorivme-vo-idninata.html",
-      "image": "https://cmsnebula.eu-central-1.linodeobjects.com/b79723b0-fe00-4f46-ae15-f16613a5853e/$2c45df87-2852-4437-a781-759c1871bbca/788034087-1624796065900200-5460540775470183099-n.jpg",
-      "date": "Sat, 29 Aug 2026 15:14:46 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "🎥 ТЕЛА НА ЗАГИНАТИТЕ ВО НЕПАЛ СЕ ВАДАТ ОД РЕКИТЕ ВО ИНДИЈА Поплавата ги носела и до 400 километри | +инфо",
-      "description": "",
-      "url": "https://time.mk/c/26b45c59bb/tela-na-zaginatite-vo-nepal-se-vadat-od-rekite-vo-indija-poplavata-gi-nosela-i-do-400-kilometri.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2026/08/nepal-1-e1788023805417.jpg",
-      "date": "Sat, 29 Aug 2026 17:34:53 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ВИДЕО | Зеленски за нападот во селото Мила – ситуацијата е ужасна, 37 загинаа | Слободен Печат",
-      "description": "",
-      "url": "https://time.mk/c/43a37284c3/video-zelenski-za-napadot-vo-seloto-mila-situacijata-e-uzasna-37-zaginaa.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/08/Screenshot-2026-08-29-at-18.46.00-300x164.png",
-      "date": "Sat, 29 Aug 2026 16:50:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Од вторник тргнува градскиот воз од Зелениково до Скопје | Рацин",
-      "description": "",
-      "url": "https://time.mk/c/fb56df7173/od-vtornik-trgnuva-gradskiot-voz-od-zelenikovo-do-skopje.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/07/voz-skopje-bitola-720x480.jpg?x89905",
-      "date": "Sat, 29 Aug 2026 18:42:47 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Пред стартот на учебната година дезинфицирани основните училишта во Карпош | Слободен Печат",
-      "description": "",
-      "url": "https://time.mk/c/d82abd1bd2/pred-startot-na-ucebnata-godina-dezinficirani-osnovnite-ucilista-vo-karpos.html",
+      "url": "https://time.mk/c/fca649e596/feroinvest-so-najgolema-zetva-na-pcenka-dosega-za-biogasnata-elektrana-vo-saramzalino.html",
       "image": "",
-      "date": "Sat, 29 Aug 2026 11:46:48 +0000"
+      "date": "Sun, 30 Aug 2026 07:10:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Полицаец со мотор повреден во сообраќајка во Пробиштип | Press24",
+      "title": "ЗЕМЈОТРЕС ОД 4,5 СТЕПЕНИ ГО СТРЕСЕ ЈУГОТ НА АЛБАНИЈА Ги вознемири жителите и туристите | +инфо",
       "description": "",
-      "url": "https://time.mk/c/d584185308/policaec-so-motor-povreden-vo-soobrakajka-vo-probistip.html",
-      "image": "https://press24.mk/wp-content/uploads/2025/10/img_5370-1024x576.jpg",
-      "date": "Sat, 29 Aug 2026 13:28:35 +0000"
+      "url": "https://time.mk/c/a703a1ca2a/zemjotres-od-4-5-stepeni-go-strese-jugot-na-albanija-gi-voznemiri-zitelite-i-turistite.html",
+      "image": "https://plusinfo.mk/wp-content/uploads/2026/08/zemjotres-albanija.jpg",
+      "date": "Sun, 30 Aug 2026 06:40:37 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "27 годишен тетовчанец украл ташна со телефон и платежни картички, полицијата го приведе | Скопје1",
+      "title": "Гости од четири православни цркви соборно го прославија свети Јоаким Осоговски во Крива Паланка | Религија",
       "description": "",
-      "url": "https://time.mk/c/009cf658f8/27-godisen-tetovcanec-ukral-tasna-so-telefon-i-platezni-karticki-policijata-go-privede.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/65676/conversions/tasna-max.jpg",
-      "date": "Sat, 29 Aug 2026 10:04:35 +0000"
+      "url": "https://time.mk/c/a0c6a9107f/gosti-od-cetiri-pravoslavni-crkvi-soborno-go-proslavija-sveti-joakim-osogovski-vo-kriva-palanka.html",
+      "image": "https://religija.mk/wp-content/uploads/2026/08/kp-3.jpg",
+      "date": "Sun, 30 Aug 2026 06:16:36 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Видео) Аца Лукас доживеал сообраќајна несреќа пред настапот во Битола, концертот ќе се одржи утре | Либертас",
+      "title": "14.500 првачиња, а 19.031 родени: Каде исчезнаа илјадниците деца од генерацијата 2020? | Трн",
       "description": "",
-      "url": "https://time.mk/c/38b9e9751c/video-aca-lukas-doziveal-soobrakajna-nesreka-pred-nastapot-vo-bitola-koncertot-ke-se-odrzi-utre.html",
+      "url": "https://time.mk/c/3be1a9feb4/14-500-prvacinja-a-19-031-rodeni-kade-isceznaa-iljadnicite-deca-od-generacijata-2020.html",
+      "image": "https://trn.mk/wp-content/uploads/2025/02/shkolo.webp",
+      "date": "Sun, 30 Aug 2026 06:30:48 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "СДСМ: Седум недели нема документ ниту за водата во Гостивар ниту за 50 места ширум државата | Скопје1",
+      "description": "",
+      "url": "https://time.mk/r/NONE/03454bbfa2/sdsm-sedum-nedeli-nema-dokument-nitu-za-vodata-vo-gostivar-nitu-za-50-mesta-sirum-drzavata.html",
+      "image": "https://time.mk/r/NONE/03454bbfa2/images/thumb/cf1d7ca2e6.jpg",
+      "date": "Sun, 30 Aug 2026 06:24:35 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "ВМРО-ДПМНЕ: Економијата расте, јавниот долг во однос на БДП се намалува, а инфлацијата е ставена под контрола | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/004953bd40/vmro-dpmne-ekonomijata-raste-javniot-dolg-vo-odnos-na-bdp-se-namaluva-a-inflacijata-e-stavena-pod-kontrola.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/71270/conversions/vmro-dpmne-sediste1-max.jpg",
+      "date": "Sun, 30 Aug 2026 07:14:55 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Шведска нуди до 32.000 евра за доброволно да ја напуштат земјата – стотици веќе се пријавиле | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/edb32f5adc/svedska-nudi-do-32-000-evra-za-dobrovolno-da-ja-napustat-zemjata-stotici-veke-se-prijavile.html",
       "image": "",
-      "date": "Sat, 29 Aug 2026 20:42:47 +0000"
+      "date": "Sun, 30 Aug 2026 06:58:47 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Најмалку една жртва во силното невреме што го погоди Кипар | Рацин",
+      "description": "",
+      "url": "https://time.mk/c/791c6ef906/najmalku-edna-zrtva-vo-silnoto-nevreme-sto-go-pogodi-kipar.html",
+      "image": "https://racin.mk/wp-content/uploads/2026/08/3cb3a222-c186-4df1-9d61-14881ad43f93-476x480.webp?x89905",
+      "date": "Sun, 30 Aug 2026 05:46:48 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Улиците полни со полиција, во тек е голема потрага:Први детали по убиството во Сурчин | ПРВ.мк",
+      "description": "",
+      "url": "https://time.mk/c/5639092d26/ulicite-polni-so-policija-vo-tek-e-golema-potraga-prvi-detali-po-ubistvoto-vo-surcin.html",
+      "image": "https://cmsnebula.eu-central-1.linodeobjects.com/cdf7130d-94d0-4983-ba14-4bb301cd463a/$c735240d-f6ed-4fb9-ae69-9e1e757afc59/2641259.jpg",
+      "date": "Sun, 30 Aug 2026 07:08:41 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "(Видео) Престрелка на техно-фестивал во Швајцарија: Повеќе повредени, полицијата трага по сторителот, интервенираше и воен хеликоптер | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/f78faa9ef7/video-prestrelka-na-tehno-festival-vo-svajcarija-poveke-povredeni-policijata-traga-po-storitelot-intervenirase-i-voen-helikopter.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84459/conversions/text-max.jpg",
+      "date": "Sun, 30 Aug 2026 06:52:34 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Спасувачите пумпаат воздух во тунелот во потрага по исчезнатите работници по поплавите во Непал | Трн",
+      "description": "",
+      "url": "https://time.mk/c/0595bf4861/spasuvacite-pumpaat-vozduh-vo-tunelot-vo-potraga-po-isceznatite-rabotnici-po-poplavite-vo-nepal.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/08/nepal-tunel.jpg",
+      "date": "Sun, 30 Aug 2026 07:02:50 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Подгответе се: Септември почнува со пекол, есента ќе дојде подоцна од | Рацин",
+      "description": "",
+      "url": "https://time.mk/c/60aa935e20/podgotvete-se-septemvri-pocnuva-so-pekol-esenta-ke-dojde-podocna-od.html",
+      "image": "https://racin.mk/wp-content/uploads/2026/08/prognoza-septemvri-718x480.jpg?x89905",
+      "date": "Sun, 30 Aug 2026 05:02:47 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Куќата на Ивана Кнез за малку ќе изгореше во пожар: „Во прашање беа 20 секунди, пострашно нешто немам видено“ | Црнобело",
+      "description": "",
+      "url": "https://time.mk/c/afa6812c3f/kukata-na-ivana-knez-za-malku-ke-izgorese-vo-pozar-vo-prasanje-bea-20-sekundi-postrasno-nesto-nemam-videno.html",
+      "image": "https://www.crnobelo.com/images/stories/2026/08/1035/kukjata-na-ivana-knez-za-malku-kje-izgoreshe-vo-pozhar-vo-prashanje-bea-20-sekundi-postrashno-neshto-nemam-videno-poveke-01.jpg",
+      "date": "Sat, 29 Aug 2026 22:10:48 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Со надчовечки напори на пожарникарите изгаснат голем пожар над Дебар | Либертас",
+      "description": "",
+      "url": "https://time.mk/c/b03cb18cbd/so-nadcovecki-napori-na-pozarnikarite-izgasnat-golem-pozar-nad-debar.html",
+      "image": "https://libertas.mk/wp-content/uploads/2026/08/small-7.webp",
+      "date": "Sun, 30 Aug 2026 06:58:47 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Гори на осум места низ Македонија, под контрола два пожари | iNFOMAX",
+      "description": "",
+      "url": "https://time.mk/c/7b62faf766/gori-na-osum-mesta-niz-makedonija-pod-kontrola-dva-pozari.html",
+      "image": "https://infomax.mk/wp-content/uploads/2026/08/tetovo-pozar.jpg",
+      "date": "Sun, 30 Aug 2026 06:04:35 +0000"
     },
     {
       "category": "mkd",
@@ -166,110 +247,29 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Тресонче и Бигорскиот манастир домаќини на седмата Малореканска летна школа „По патеките на Дичо Зограф“ која започнува утре | Порта",
+      "title": "Сахарска прашина го замати охридското небо, во Охрид измерени 35,3 степени | Трн",
       "description": "",
-      "url": "https://time.mk/c/cebcb8f26c/tresonce-i-bigorskiot-manastir-domakini-na-sedmata-malorekanska-letna-skola-po-patekite-na-dico-zograf-koja-zapocnuva-utre.html",
-      "image": "",
-      "date": "Sat, 29 Aug 2026 17:16:52 +0000"
+      "url": "https://time.mk/c/40623367d9/saharska-prasina-go-zamati-ohridskoto-nebo-vo-ohrid-izmereni-35-3-stepeni.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/08/whatsapp-image-2026-08-29-at-5.59.55-pm.jpeg",
+      "date": "Sat, 29 Aug 2026 16:11:13 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Косара Митиќ освои „Златна мимоза“ за режија за филмот „17“ | Трн",
+      "title": "Бигорски повторно центар на македонското зографско наследство: Почнува Малореканската школа „По патеките на Дичо Зограф“ | Религија",
       "description": "",
-      "url": "https://time.mk/c/9c7224dd50/kosara-mitik-osvoi-zlatna-mimoza-za-rezija-za-filmot-17.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/08/kosara.jpg",
-      "date": "Sat, 29 Aug 2026 08:06:51 +0000"
+      "url": "https://time.mk/c/dee3e7e03e/bigorski-povtorno-centar-na-makedonskoto-zografsko-nasledstvo-pocnuva-malorekanskata-skola-po-patekite-na-dico-zograf.html",
+      "image": "https://religija.mk/wp-content/uploads/2026/08/785248923_10235583362270137_1607201780585613297_n-300x212.jpg",
+      "date": "Sun, 30 Aug 2026 05:20:36 +0000"
     },
     {
       "category": "mkd",
-      "source": "Motika",
-      "title": "Ова цените во Охрид се страшни, човек да го е страв да ги изведе децата на по една пица!",
-      "description": "И за плашење е работава. Еве ја фискалната сметка.",
-      "url": "https://motika.mk/ova-cenite-vo-ohrid-se-strasni-covek-da-go-e-strav-da-gi-izvede-decata-na-po-edna-pica/",
-      "image": "https://motika.mk/wp-content/uploads/2026/08/29/787406330_10239916443080255_9082697597628690959_n-1200x1362.jpg",
-      "date": "Sat, 29 Aug 2026 10:36:13 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Две девојки се соочуваат со доживотна казна откако беа фатени со дрога вредна 23 милиони долари",
-      "description": "Две Канаѓанки заминале на патување што требало да биде одмор за паметење: луксузно крстарење со бродот МС Си Принцес, започнато во Саутемптон два месеца претходно. Но, кога Изабел Лагас, 28, и Мелина Роберж, 22, пристигнале во Сиднеј, Австралија, приказната добила сосема друг крај. Содржина: 35 килограми кокаин биле проценети на 23 милиони долари Одморот од ...",
-      "url": "https://motika.mk/dve-devojki-se-soocuvaat-so-dozivotna-kazna-otkako-bea-fateni-so-droga-vredna-23-milioni-dolari/",
-      "image": "https://motika.io/media/2026/08/29/img-a0ecd55d-ff2a-4b22-a5f6-3392209b5c7b-1.jpg",
-      "date": "Sat, 29 Aug 2026 10:31:08 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "„Црвениот крст е мафија“ – извикуваа жителите на шпанскиот град Сеута, преплавен од мигранти",
-      "description": "Жителите го блокираа возилото на црвениот крст за да не им носи помош на мигрантите. Полицијата на крајот успеа да ја пробие блокадата и да ги пренасочи службите за итни случаи по друг пат. Подоцна, ситуацијата дополнително ескалираше кога други демонстранти уништија шатори на мигранти и полицијата мораше да интервенира.",
-      "url": "https://motika.mk/crveniot-krst-e-mafija-izvikuvaa-zitelite-na-spanskiot-grad-seuta-preplaven-od-migranti/",
-      "image": "https://motika.mk/wp-content/uploads/2026/08/29/asset-ab0cad97bfc775f334a6baf7a95c6e73.jpg",
-      "date": "Sat, 29 Aug 2026 10:12:24 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Жените јаваат механички бикови, а мажите други чудовишта",
-      "description": "Будалата најде начин како да е во центарот на вниманието, макар тоа да му биде и последната работа во животот.",
-      "url": "https://motika.mk/zenite-javaat-mehanicki-bikovi-a-mazite-drugi-cudovista/",
-      "image": "https://motika.mk/wp-content/uploads/2026/08/29/0f76480adcc14561a8620d84ae0044c1.jpg",
-      "date": "Sat, 29 Aug 2026 10:08:29 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Оваа реклама за пилешки бургер ве тера веднаш да ви се пријаде… салата",
-      "description": "Одбрале вистинска мераклика да им го изрекламира ресторанот за брза храна. Дали рекламата е успешна, сами ќе си оцените.",
-      "url": "https://motika.mk/ovaa-reklama-za-pileski-burger-ve-tera-vednas-da-vi-se-prijade-salata/",
-      "image": "https://motika.mk/wp-content/uploads/2026/08/29/746df63e49244196932e2678fbf3e21c.jpg",
-      "date": "Sat, 29 Aug 2026 10:06:18 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Чудна и смешна сообраќајна незгода во Полска",
-      "description": "Госпоѓата не очекуваше дека кармата што поминува на црвено ќе ја стигне толку брзо.",
-      "url": "https://motika.mk/cudna-i-smesna-soobrakajna-nezgoda-vo-polska/",
-      "image": "https://motika.mk/wp-content/uploads/2026/08/29/polska-1200x647.jpeg",
-      "date": "Sat, 29 Aug 2026 10:03:14 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Најновиот дебилен Инста тренд: Да ти се познава бело од купачите, ама од долните",
-      "description": "Во денешно време е тешко човек да се истакне со својата глупост. Конкуренцијата е огромна.",
-      "url": "https://motika.mk/najnoviot-debilen-insta-trend-da-ti-se-poznava-belo-od-kupacite-ama-od-dolnite/",
-      "image": "https://motika.mk/wp-content/uploads/2026/08/29/5f45af30ee2e4a01b61b0f637b9d9e0d.jpg",
-      "date": "Sat, 29 Aug 2026 09:56:00 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "„Сакам моите гради да влезат во собата 1 минута пред мене“: Кајли Џенер повторно оди на пластична операција (8 фотографии + видео)",
-      "description": "Само пред неколку години, Кајли Џенер призна дека се кае за пластичните операции и ги нарече своите гради, кои ги имала на 19 години, совршени. Но, сега таа има поинаква перспектива, а нејзините импланти сега не ѝ се доволно големи. Неодамна се појави во подкаст со своите најдобри пријателки и призна дека не мисли дека ...",
-      "url": "https://motika.mk/sakam-moite-gradi-da-vlezat-vo-sobata-1-minuta-pred-mene-kajli-zener-povtorno-odi-na-plasticna-operacija-8-fotografii-video/",
-      "image": "https://motika.io/serve_video/d1d8cf91-cdb1-4810-808b-2c34d14b7862/",
-      "date": "Sat, 29 Aug 2026 09:44:42 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Вистинско чудо е како никој не загина при оваа сообраќајна несреќа (2 фотографии)",
-      "description": "Ангелот чувар им се активирал во последниот момент.",
-      "url": "https://motika.mk/vistinsko-cudo-e-kako-nikoj-ne-zagina-pri-ovaa-soobrakajna-nesreka-2-fotografii/",
-      "image": "https://motika.mk/wp-content/uploads/2026/08/29/111.jpg",
-      "date": "Sat, 29 Aug 2026 09:44:05 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Жена лажирала бременост и „родила“ деца преку вештачка интелигенција за да изнуди пари од бившиот (3 фотографии)",
-      "description": "Жена од рускиот град Улјановск лажирала бременост и создала деца преку AI за да изнуди пари од својот бивш партнер. По раскинувањето, 25-годишната жена му рекла на својот бивш дека е бремена со близнаци, подоцна му испратила фотографија од „близнаците“ од породилиштето и му побарала пари. Мажот ѝ поверувал, ѝ почнал да ѝ префрла пари ...",
-      "url": "https://motika.mk/zena-lazirala-bremenost-i-rodila-deca-preku-vestacka-inteligencija-za-da-iznudi-pari-od-bivsiot-3-fotografii/",
-      "image": "https://motika.mk/wp-content/uploads/2026/08/29/11.jpg",
-      "date": "Sat, 29 Aug 2026 09:40:46 +0000"
+      "source": "Time.mk - All",
+      "title": "СРЃАН ДРАГОЈЕВИЌ ВО СКОПЈЕ ГО СНИМА ФИЛМОТ „ОСМИ МАРТ“, СПОРЕД РАСКАЗОТ НА РУМЕНА БУЖАРОВСКА | Сакам да кажам",
+      "description": "",
+      "url": "https://time.mk/c/a2c7afa796/srgjan-dragojevik-vo-skopje-go-snima-filmot-osmi-mart-spored-raskazot-na-rumena-buzarovska.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/08/DSC01087.jpg",
+      "date": "Sat, 29 Aug 2026 12:46:48 +0000"
     }
   ],
   "de": [
@@ -342,7 +342,7 @@
       "title": "Comic-Downloads – Websites im August 2026",
       "description": "Comic-Downloads oder die Werke online lesen im Sommer 2026. Es sind schon wieder mehrere Vertreter offline gegangen, teilweise unfreiwillig. Der Artikel Comic-Downloads – Websites im August 2026 erschien zuerst auf TARNKAPPE.INFO",
       "url": "https://tarnkappe.info/listen/comic-downloads-websites-im-august-2026-333006.html",
-      "image": "",
+      "image": "https://cdn.tarnkappe.info/wpimg/comic-downloads-websites-im-august-2026",
       "date": "Thu, 27 Aug 2026 10:09:22 +0000"
     },
     {
