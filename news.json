@@ -1,6 +1,42 @@
 {
-  "updated": "2026-08-31T07:34:03.008710+00:00",
+  "updated": "2026-08-31T15:57:35.680449+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Денес е последниот ден на Тим Кук како главен директор на Apple",
+      "description": "Денес е последниот ден на Тим Кук како директор на Apple, позиција која ја имаше изминатите 15 години. Од утре позицијата ја презема Џон Тернус, кој во компанијата е уште од 2001 година, што значи доаѓа од редовите на вработените кои се во компанијата од времето на Стив Џобс. Поради тој факт, а и „хардверската“ […]",
+      "url": "https://smartportal.mk/novosti/licnosti/denes-posleden-den-tim-cook/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/04/Apple-John-Ternus-Tim-Cook-1-150x150.webp",
+      "date": "Mon, 31 Aug 2026 12:23:13 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Пуштањето на новата социјална мрежа Twitter.now во сенка на судски спорови и технички прекини",
+      "description": "Американскиот стартап Operation Bluebird неодамна ја пушти социјалната мрежа Twitter.now, со цел да го врати оригиналниот идентитет на некогашната популарна платформа. Зад овој проект стои Стивен Коутс, поранешен правник за интелектуална сопственост во Twitter. Неговата компанија тврди дека по преземањето од страна на Елон Маск и ребрендирањето во 2023 година, компанијата X целосно ги напуштила […]",
+      "url": "https://smartportal.mk/novosti/socijalni-mrezi/pustanje-twitter-now-vo-senka-na-sudski-sporovi/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Depositphotos_52962585_XL-f-150x150.webp",
+      "date": "Mon, 31 Aug 2026 11:49:34 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Microsoft ќе престане да ги тера корисниците да го користат OneDrive во Windows 11",
+      "description": "Microsoft изгледа планира да престане да ги тера корисниците да го користат нивниот OneDrive сервис во Windows 11, а ова е една од критиките кои се насочени кон компанијата со години веќе. Според откритието од страна на Windows Latest, при прилагодувањето на компјутерот, а и при стандардното користење на најновата верзија од Windows 11, во […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/microsoft-ke-prestane-da-tera-koristenje-onedrive/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Depositphotos_506300786_XL-f-150x150.webp",
+      "date": "Mon, 31 Aug 2026 09:26:52 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Новиот директор на Apple ќе мора да размислува за замена на дел од директорите во компанијата",
+      "description": "Денес е последниот ден на Тим Кук како главен извршен директор на Apple, а во историјата ќе замине како човекот кој ја наследи позиција од Стив Џобс и истото го направи доста успешно во наредните 15 години држејќи ја истата. Од утре, односно 1 септември, позицијата ја презема Џон Тернус, кој исто така одамна е […]",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/noviot-direktor-na-apple-zamena-na-direktori/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/04/Apple-John-Ternus-Tim-Cook-1-150x150.webp",
+      "date": "Mon, 31 Aug 2026 07:55:12 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -57,222 +93,195 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "X испрати барање за прекин на работата до проектот Nitter",
-      "description": "X испрати официјално правно барање за прекин на работата до Nitter, популарен проект со отворен код кој функционираше како алтернативен кориснички интерфејс за објавите од оваа популарна социјална мрежа. Правното известување, кое беше доставено до главниот развивач познат под псевдонимот „zedeus“, инсистира на целосно отстранување на сите активни инстанци на Nitter, како и на јавно […]",
-      "url": "https://smartportal.mk/novosti/socijalni-mrezi/x-baranje-prekin-rabota-nitter/",
-      "image": "https://smartportal.mk/wp-content/uploads/2023/08/shutterstock_2336648595-150x150.jpg",
-      "date": "Wed, 26 Aug 2026 08:57:54 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "35 години од почетокот на развојот на Linux",
-      "description": "Оперативниот систем Linux одбележува 35 години од своето постоење. Првичната верзија беше најавена во август 1991 година како личен проект на Линус Торвалдс, со цел да се создаде бесплатен оперативен систем. Три и пол децении подоцна, овој софтвер претставува основа за голем дел од модерната компјутерска инфраструктура, почнувајќи од сервери и суперкомпјутери, па сè до […]",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/35-godini-od-pocetokot-na-razvojot-na-linux/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/linux35-logo.webp",
-      "date": "Wed, 26 Aug 2026 08:18:06 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Apple го претстави новиот Mac Studio со M5 Max и M5 Ultra процесорите",
-      "description": "Apple официјално ја најави новата генерација на Mac Studio, кој доаѓа со M5 Max и новиот M5 Ultra. Овие чипови се дизајнирани да понудат зголемена процесорска и графичка моќ, со посебен фокус врз извршувањето задачи поврзани со вештачка интелигенција директно на самиот уред, продолжувајќи го угледот на Mac Studio за еден од најдобрите компјутери за […]",
-      "url": "https://smartportal.mk/novosti/kompjuteri/apple-mac-studio-m5-max-m5-ultra/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Apple-Mac-Studio-hero-260825-150x150.webp",
-      "date": "Tue, 25 Aug 2026 18:11:11 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Apple ја претстави наредната генерација од Mac mini со M6 и M5 Pro процесорите",
-      "description": "Apple денеска ја најави новата генерација на Mac mini, која доаѓа со најновите M6 и M5 Pro процесори. Новите компјутери го задржуваат својот карактеристичен „ултракомпактен“ дизајн, но нудат значително поголема процесорска и графичка моќ, со посебен фокус на извршувањето на задачи поврзани со вештачка интелигенција. Компанијата истакнува дека основниот модел овозможува до четири пати побрзи […]",
-      "url": "https://smartportal.mk/novosti/kompjuteri/apple-mac-mini-m6-m5-pro/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Apple-Mac-mini-hero-260825-150x150.webp",
-      "date": "Tue, 25 Aug 2026 17:44:51 +0000"
+      "source": "Time.mk - All",
+      "title": "26 подрачни училишта привремено затворени поради недостиг на ученици | 4NEWS",
+      "description": "",
+      "url": "https://time.mk/c/f0b69c9158/26-podracni-ucilista-privremeno-zatvoreni-poradi-nedostig-na-ucenici.html",
+      "image": "https://4news.mk/wp-content/uploads/2022/12/ucilnica.jpg",
+      "date": "Mon, 31 Aug 2026 14:10:45 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ЗА ПЕТ ГОДИНИ СЕ ИЗГРАДЕНИ ПОВЕЌЕ ОД 36.000 СТАНА | Пари",
+      "title": "Бадентер најавува криза во Собранието | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/62c5f68f1b/za-pet-godini-se-izgradeni-poveke-od-36-000-stana.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/08/Pari_stanbena-ekspanzija_1.jpg",
-      "date": "Mon, 31 Aug 2026 06:52:39 +0000"
+      "url": "https://time.mk/c/20de5d418a/badenter-najavuva-kriza-vo-sobranieto.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1788184610/onbusqqaiiqiy5grqvar.jpg",
+      "date": "Mon, 31 Aug 2026 15:02:36 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Кој ќе ја плати цената на македонскиот дата-центарски бум? | Вечер Прес",
+      "title": "Вишото обвинителство контра ОЈО ГОКК за „Мазут“ – им наложи да ја продолжат истрагата | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/0e51de42ce/koj-ke-ja-plati-cenata-na-makedonskiot-data-centarski-bum.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/08/1tekst-data-centri.jpg",
-      "date": "Mon, 31 Aug 2026 07:20:50 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - Sport",
-      "title": "Ѓоковиќ ќе падне од топ-10 по повеќе од осум години | Слободен Печат",
-      "description": "",
-      "url": "https://time.mk/c/fe0900b51f/gjokovik-ke-padne-od-top-10-po-poveke-od-osum-godini.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/01/13658275-300x200.jpg",
-      "date": "Mon, 31 Aug 2026 07:12:44 +0000"
+      "url": "https://time.mk/c/d91cc614a8/visoto-obvinitelstvo-kontra-ojo-gokk-za-mazut-im-nalozi-da-ja-prodolzat-istragata.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2025/03/kapushevski-sulkovski-jahoski-kovacevski.png",
+      "date": "Mon, 31 Aug 2026 11:32:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ЕУ СО 3 ЕВРА ЦАРИНА ПРИВРЕМЕНО ГО СОПРЕ НАЛЕТОТ НА ПАКЕТИ НА ТЕМУ, АЛИЕКСПРЕС И НА ШЕИН Бројот на кинески мали пакети се намали за 50% | +инфо",
+      "title": "Како милионите завршуваат кај партиите: ДКСК бара измени поради коруптивни ризици | Deutsche Welle",
       "description": "",
-      "url": "https://time.mk/c/1c83731642/eu-so-3-evra-carina-privremeno-go-sopre-naletot-na-paketi-na-temu-aliekspres-i-na-sein-brojot-na-kineski-mali-paketi-se-namali-za-50.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2025/12/Shein-i-Temu.jpg",
-      "date": "Mon, 31 Aug 2026 07:24:44 +0000"
+      "url": "https://time.mk/c/8c5204611b/kako-milionite-zavrsuvaat-kaj-partiite-dksk-bara-izmeni-poradi-koruptivni-rizici.html",
+      "image": "https://static.dw.com/image/18925705_301.jpg",
+      "date": "Mon, 31 Aug 2026 15:48:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Утре започнува новата учебна година, околу 14.500 првачиња првпат ќе седнат во училишните клупи | Радио МОФ",
+      "title": "Бугарија си најде нова Спаска Митрова | Независен",
       "description": "",
-      "url": "https://time.mk/c/304401bfee/utre-zapocnuva-novata-ucebna-godina-okolu-14-500-prvacinja-prvpat-ke-sednat-vo-ucilisnite-klupi.html",
-      "image": "https://www.radiomof.mk/wp-content/uploads/2024/09/skolo-prvacinja-ucenici-1-septemvri.jpg-7-702x336.jpg",
-      "date": "Mon, 31 Aug 2026 06:34:52 +0000"
+      "url": "https://time.mk/c/e9aceff0c1/bugarija-si-najde-nova-spaska-mitrova.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/08/mihajlova-1024x675.webp",
+      "date": "Mon, 31 Aug 2026 10:02:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Целосен прекин на патот Прилеп–Битола: сообраќајот кај млин Осман е запрен | Трн",
+      "title": "Марковска Илиевска: Спротивно на закон, Левица јавно побара нивни членови да станат членови на Управни и Надзорни одбори – само функции им се важни | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/b8ea01bff6/celosen-prekin-na-patot-prilep-bitola-soobrakajot-kaj-mlin-osman-e-zapren.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/08/road-forest_1127-3049.avif",
-      "date": "Mon, 31 Aug 2026 06:02:55 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Превозниците на протест пред Делегацијата на ЕУ во Скопје | Независен",
-      "description": "",
-      "url": "https://time.mk/c/96746b79aa/prevoznicite-na-protest-pred-delegacijata-na-eu-vo-skopje.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/08/sengen-prevoznici.jpg",
-      "date": "Mon, 31 Aug 2026 05:06:47 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "„Цените се до плафон – мерки од владата на Мицкоски нема“, вели СДСМ | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/0f52b51a69/cenite-se-do-plafon-merki-od-vladata-na-mickoski-nema-veli-sdsm.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84136/conversions/text-max.jpg",
-      "date": "Mon, 31 Aug 2026 07:02:59 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Трагедија во Кипар: Потона брод со скоро 270 патници – капетанот прв скокнал за да се спаси, има загинати (фото+видео) | Црнобело",
-      "description": "",
-      "url": "https://time.mk/c/279c67bf4c/tragedija-vo-kipar-potona-brod-so-skoro-270-patnici-kapetanot-prv-skoknal-za-da-se-spasi-ima-zaginati-foto-video.html",
-      "image": "https://www.crnobelo.com/images/stories/2026/08/1019/tragedija-vo-kipar-potona-brod-so-270-patnici-kapetanot-prv-skoknal-vo-vodata-za-da-se-spasi-ima-zaginati-foto-video-povekje.jpg",
-      "date": "Mon, 31 Aug 2026 06:34:52 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Грчките земјоделци повторно излегуваат на протест со трактори на 5 септември | Press24",
-      "description": "",
-      "url": "https://time.mk/c/4a3bbc5bb9/grckite-zemjodelci-povtorno-izleguvaat-na-protest-so-traktori-na-5-septemvri.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/67803.jpg",
-      "date": "Mon, 31 Aug 2026 07:16:37 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "САД и Иран повторно се судрија по еден месец, нафтата скокна над 90 долари | Bloomberg Adria",
-      "description": "",
-      "url": "https://time.mk/c/70d897dcc0/sad-i-iran-povtorno-se-sudrija-po-eden-mesec-naftata-skokna-nad-90-dolari.html",
-      "image": "https://mk.bloombergadria.com/data/images/2026-07-19/112595_brodovi_f.jpg?timestamp=1788127200",
-      "date": "Mon, 31 Aug 2026 06:39:00 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Руските напади уништија 12 милиони книги пред почетокот на школската година во Украина | Слободен Печат",
-      "description": "",
-      "url": "https://time.mk/c/302a7f6599/ruskite-napadi-unistija-12-milioni-knigi-pred-pocetokot-na-skolskata-godina-vo-ukraina.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/05/a674cd98da141a7770ed3afb5a3cf8241778823769-e1778829603860-300x169.webp",
-      "date": "Mon, 31 Aug 2026 07:27:07 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Исто возило само еднаш дневно ќе може да ја користи зоната за патници | Вечер Прес",
-      "description": "",
-      "url": "https://time.mk/c/e0ff7fe96d/isto-vozilo-samo-ednas-dnevno-ke-moze-da-ja-koristi-zonata-za-patnici.html",
+      "url": "https://time.mk/c/99ee303833/markovska-ilievska-sprotivno-na-zakon-levica-javno-pobara-nivni-clenovi-da-stanat-clenovi-na-upravni-i-nadzorni-odbori-samo-funkcii-im-se-vazni.html",
       "image": "",
-      "date": "Mon, 31 Aug 2026 07:12:44 +0000"
+      "date": "Mon, 31 Aug 2026 14:58:46 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Железничката врска помеѓу Зелениково и Скопje повторно достапна, ќе се патува половина час | Вечер Прес",
+      "title": "Што се случува со пазарот на недвижнини во Македонија – квадратот постојано поскапува, а 307.000 станови стојат празни? | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/13785e3fac/zeleznickata-vrska-pomegju-zelenikovo-i-skopje-povtorno-dostapna-ke-se-patuva-polovina-cas.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/08/gradski-voz.jpg",
-      "date": "Mon, 31 Aug 2026 06:51:01 +0000"
+      "url": "https://time.mk/c/c043bc43b7/sto-se-slucuva-so-pazarot-na-nedviznini-vo-makedonija-kvadratot-postojano-poskapuva-a-307-000-stanovi-stojat-prazni.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2022/03/stanovi-1024x578.jpg",
+      "date": "Mon, 31 Aug 2026 15:10:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Љубовна драма во Македонија: Жена пријавила дека партнерот ја нападнал, таа му возвратила | Press24",
+      "title": "Инвестициските фондови со скок од 44,2 %, пензиските со раст од 21 % | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/60c0ac2b11/ljubovna-drama-vo-makedonija-zena-prijavila-deka-partnerot-ja-napadnal-taa-mu-vozvratila.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/67797.jpg",
-      "date": "Mon, 31 Aug 2026 07:08:35 +0000"
+      "url": "https://time.mk/c/f07dc085ce/investiciskite-fondovi-so-skok-od-44-2-penziskite-so-rast-od-21.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/08/peziski-fondovi-scaled.jpg",
+      "date": "Mon, 31 Aug 2026 12:58:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Тешка сообраќајна несреќа во Македонијa – Повредено тригодишно дете | Press24",
+      "title": "Јанша ја повика ЕУ да ги исполни ветувањата за проширувањето на Западен Балкан | Либертас",
       "description": "",
-      "url": "https://time.mk/c/5903ce8eb4/teska-soobrakajna-nesreka-vo-makedonija-povredeno-trigodisno-dete.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/67764.jpg",
-      "date": "Mon, 31 Aug 2026 06:06:49 +0000"
+      "url": "https://time.mk/c/a1aa67b9b8/jansa-ja-povika-eu-da-gi-ispolni-vetuvanjata-za-prosiruvanjeto-na-zapaden-balkan.html",
+      "image": "https://libertas.mk/wp-content/uploads/2026/08/20260831173424_big_730x400_23.webp",
+      "date": "Mon, 31 Aug 2026 15:40:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Штип повторно добива вода: Стабилизиран приемот од „Злетовица“ | Скопје1",
+      "title": "Власта и опозицијата во Косово договорија кандидат за претседател | Колегиум",
       "description": "",
-      "url": "https://time.mk/c/236004ddb0/stip-povtorno-dobiva-voda-stabiliziran-priemot-od-zletovica.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/75759/conversions/text-max.jpg",
-      "date": "Sun, 30 Aug 2026 18:22:48 +0000"
+      "url": "https://time.mk/c/4e8daff4d2/vlasta-i-opozicijata-vo-kosovo-dogovorija-kandidat-za-pretsedatel.html",
+      "image": "https://kolegium.mk/wp-content/uploads/2026/08/Bekim-Sejdiu-300x300.jpg",
+      "date": "Mon, 31 Aug 2026 14:36:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Невремето го оштети 500-годишниот даб во село Бели: Жителите бараат помош за негов спас | Скопје1",
+      "title": "Исланд не сака да се приклучи кон ЕУ | Фокус",
       "description": "",
-      "url": "https://time.mk/c/99c236180b/nevremeto-go-osteti-500-godisniot-dab-vo-selo-beli-zitelite-baraat-pomos-za-negov-spas.html",
-      "image": "",
-      "date": "Sun, 30 Aug 2026 13:06:50 +0000"
+      "url": "https://time.mk/c/ef2efc2b40/island-ne-saka-da-se-prikluci-kon-eu.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/08/c4589116-86d3-472d-af4c-065049430def.jpg",
+      "date": "Mon, 31 Aug 2026 11:52:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Загина во кобна сообраќајка, но остана ненадмината: Сашка Петковска, бисерното грло на Македонија | Фактор",
+      "title": "НОВ СКОК НА НАФТАТА: Затишјето на светските пазари прекинато со новите напади на САД врз Иран | Пари",
       "description": "",
-      "url": "https://time.mk/c/1d7ffaf157/zagina-vo-kobna-soobrakajka-no-ostana-nenadminata-saska-petkovska-bisernoto-grlo-na-makedonija.html",
-      "image": "https://zenskimagazin.mk/media/main/2021/03/20210313182745.jpg",
-      "date": "Mon, 31 Aug 2026 06:10:49 +0000"
+      "url": "https://time.mk/c/5860a8bade/nov-skok-na-naftata-zatisjeto-na-svetskite-pazari-prekinato-so-novite-napadi-na-sad-vrz-iran.html",
+      "image": "http://pari.com.mk/wp-content/uploads/2026/08/Oil-field-Aramco.jpg",
+      "date": "Mon, 31 Aug 2026 09:56:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "СКОПСКИОТ МЕТАЛ БЕНД „КОНСПИРАСИ” ПОБЕДИ НА „ГИТАРИЈАДАТА” ВО ЗАЕЧАР | Сакам да кажам",
+      "title": "Ден пред стартот на учебната година МОН со одлука: Дел од учениците од „Киро Глигоров“ наместо во клупи – на онлајн настава | Фактор",
       "description": "",
-      "url": "https://time.mk/c/273b3daddc/skopskiot-metal-bend-konspirasi-pobedi-na-gitarijadata-vo-zaecar.html",
-      "image": "https://smart.sdk.mk/wp-content/uploads/2026/08/FB_IMG_1788157131156-958x575.jpg",
-      "date": "Mon, 31 Aug 2026 07:00:47 +0000"
+      "url": "https://time.mk/c/caaedb96e7/den-pred-startot-na-ucebnata-godina-mon-so-odluka-del-od-ucenicite-od-kiro-gligorov-namesto-vo-klupi-na-onlajn-nastava.html",
+      "image": "https://zenskimagazin.mk/media/main/2026/08/20260831172351.jpg",
+      "date": "Mon, 31 Aug 2026 15:24:56 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Жичницата уште непочната да се сервисира ќе „лапне“ 732.000 евра | Независен",
+      "description": "",
+      "url": "https://time.mk/c/7f213c88a7/zicnicata-uste-nepocnata-da-se-servisira-ke-lapne-732-000-evra.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2023/07/Gondoli-na-zicnica-na-Vodno-i-Skopje-toplo-vreme-3-bg_resize.jpg",
+      "date": "Mon, 31 Aug 2026 14:51:22 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "СЕРИСКИОТ УБИЕЦ ОД СТАРО НАГОРИЧАНЕ „ГЛУМИ ЛУДИЛО“ Психијатар го анализираше однесувањето на Бојковски, сведочеа и две жртви | +инфо",
+      "description": "",
+      "url": "https://time.mk/c/e289317b88/seriskiot-ubiec-od-staro-nagoricane-glumi-ludilo-psihijatar-go-analizirase-odnesuvanjeto-na-bojkovski-svedocea-i-dve-zrtvi.html",
+      "image": "https://plusinfo.mk/wp-content/uploads/2026/08/staro-nagoricane-seriski-ubiec.jpg",
+      "date": "Mon, 31 Aug 2026 15:54:52 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Маж ги нападнал ќерката и сопругата во семејниот дом по претходна расправија | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/b83fec3469/maz-gi-napadnal-kerkata-i-soprugata-vo-semejniot-dom-po-prethodna-raspravija.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/78737/conversions/text-max.jpg",
+      "date": "Mon, 31 Aug 2026 11:10:50 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "СЕ СТАВААТ ВО МИРУВАЊЕ ТРИ ПОДРАЧНИ УЧИЛИШТА ВО БИТОЛА, А ВО ДВЕ ЌЕ ИМА САМО ПО ЕДЕН УЧЕНИК | Сакам да кажам",
+      "description": "",
+      "url": "https://time.mk/c/4274548270/se-stavaat-vo-miruvanje-tri-podracni-ucilista-vo-bitola-a-vo-dve-ke-ima-samo-po-eden-ucenik.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/08/bitola-8238832.jpg",
+      "date": "Mon, 31 Aug 2026 15:00:49 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Тетовски комуналци добија заостанати плати и придонеси, општината и ЈКП им приредија коктел на градскиот плоштад | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/5be5c7fd9a/tetovski-komunalci-dobija-zaostanati-plati-i-pridonesi-opstinata-i-jkp-im-priredija-koktel-na-gradskiot-plostad.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/08/jkp-tetovo-koktel-300x152.png",
+      "date": "Mon, 31 Aug 2026 15:08:53 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Sea Dance со 93.000 посетители за историско финале на летото | Трн",
+      "description": "",
+      "url": "https://time.mk/c/ead2b87f0d/sea-dance-so-93-000-posetiteli-za-istorisko-finale-na-letoto.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/08/sea-dance-festival-5.jpg",
+      "date": "Mon, 31 Aug 2026 14:56:51 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "ПУЛС, МАСАЖА, АДРЕНАЛИН:Јубилеен концерт ФОЛТИН 30 години од првата средба со публиката | Трн",
+      "description": "",
+      "url": "https://time.mk/c/8ff4e2b967/puls-masaza-adrenalin-jubileen-koncert-foltin-30-godini-od-prvata-sredba-so-publikata.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/08/foltin.jpeg",
+      "date": "Mon, 31 Aug 2026 15:12:52 +0000"
     }
   ],
   "de": [
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Dokumentationen streamen im August 2026",
+      "description": "Dokumentationen streamen: Welche Vertreter sind im Spätsommer diesen Jahres noch online? Wer davon ist eigentlich empfehlenswert? Der Artikel Dokumentationen streamen im August 2026 erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/listen/dokumentationen-streamen-im-august-2026-333197.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/dokumentationen-streamen-im-august-2026",
+      "date": "Mon, 31 Aug 2026 10:01:32 +0000"
+    },
     {
       "category": "de",
       "source": "Tarnkappe",
@@ -443,18 +452,36 @@
       "url": "https://tarnkappe.info/artikel/gaming/resonance-a-plague-tale-legacy-geleakt-332866.html",
       "image": "https://cdn.tarnkappe.info/wpimg/resonance-a-plague-tale-legacy-geleakt",
       "date": "Fri, 21 Aug 2026 12:39:18 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "CyberLeek: Besitzt der Leaker eine spielbare Version von GTA 6?",
-      "description": "Im Telegram-Kanal CyberLeek zeigt man mehrere Videos einer recht fertig aussehenden Version von GTA 6. Bei X hat man den Account gesperrt. Der Artikel CyberLeek: Besitzt der Leaker eine spielbare Version von GTA 6? erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/gaming/cyberleek-besitzt-der-leaker-eine-spielbare-version-von-gta-6-332833.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/cyberleek-besitzt-der-leaker-eine-spielbare-version-von-gta-6",
-      "date": "Thu, 20 Aug 2026 19:43:27 +0000"
     }
   ],
   "eng": [
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "10 Video Downloading Hacks Every YouTube User Should Know",
+      "description": "You don't need Premium to download YouTube videos and audio.",
+      "url": "https://lifehacker.com/tech/10-video-downloading-hacks-every-youtube-user-should-know?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M1BZN9W0417PNM58R8FTRF7M/hero-image.jpg",
+      "date": "Mon, 31 Aug 2026 14:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "These Google Maps Alternatives Still Call It ‘Lake Ontario’ (for Now)",
+      "description": "Google now calls it \"Lake America.\"",
+      "url": "https://lifehacker.com/tech/these-google-maps-alternatives-till-call-it-lake-ontario?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M1BYW1W1RE05RNDHRRMSVER3/hero-image.jpg",
+      "date": "Mon, 31 Aug 2026 14:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "These DeWalt Tools Are up to 50% Off for the Lowe's Early Labor Day Sale",
+      "description": "Get your long weekend projects done under budget with these deals on DeWalt tools at Lowe's",
+      "url": "https://lifehacker.com/home/dewalt-tools-sale-lowes-early-labor-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M15BM7C17T7S4RDF08AE19G7/hero-image.png",
+      "date": "Mon, 31 Aug 2026 13:30:37 +0000"
+    },
     {
       "category": "eng",
       "source": "Lifehacker",
@@ -610,66 +637,12 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "10 Shows Like 'Ride or Die' You Should Watch Next",
-      "description": "Spies, assassins, and ladies in over their heads",
-      "url": "https://lifehacker.com/entertainment/best-shows-like-ride-or-die?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M0ZC767AHDMXX4D1SK0ECVBK/hero-image.jpg",
-      "date": "Thu, 27 Aug 2026 17:00:45 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "The Best Deals on Tools and Appliances From Home Depot's Early Labor Day Sale",
-      "description": "Save up to 50% on grills, landscaping equipment, outdoor lights, tools, security cameras, and more.",
-      "url": "https://lifehacker.com/tech/best-deals-home-depot-early-labor-day-sale?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1018G47EMNCTFEXAAA2NWH1/hero-image.webp",
-      "date": "Thu, 27 Aug 2026 16:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "How to Completely Remove Your Data From These Online Dating Platforms",
-      "description": "Deleting your dating app account doesn’t delete your data.",
-      "url": "https://lifehacker.com/tech/how-to-completely-remove-data-from-online-dating-platforms?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M11GX1KZKTXB130FKWGWJW56/hero-image.jpg",
-      "date": "Thu, 27 Aug 2026 14:30:00 +0000"
-    },
-    {
-      "category": "eng",
       "source": "PCWorld",
-      "title": "Best USB-C hubs and dongles: Add ports to your laptop or tablet",
-      "description": "The best USB-C hubs add ports to your PC, providing connections to legacy peripherals like mice, keyboards, printers, or more. If you follow my advice, you shouldn’t pay that much for a hub, either. Most users will probably be happy with any of my standard hub recommendations. But if you want to go further, I have additional options for more specialized purposes. Those include USB-C docking stations that sit on your desk, plus some higher-end alternatives: DisplayLink docks , as well as the best",
-      "url": "https://www.pcworld.com/article/402858/the-best-usb-c-hubs-for-your-laptop-tablet-or-2-in-1.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/402858-0-08507000-1788154237-testung-usb-c-hubs-primary-edit.png",
-      "date": "Mon, 31 Aug 2026 05:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "14 clever USB-C gadgets I’d actually keep in my tech drawer",
-      "description": "I don’t know how your tech drawers look, but mine are filled with wires I’ll likely never use again because technology has advanced quite a bit. Thankfully, USB-C seems to be here to stay since there is no wrong way to plug these things in. It’s not just smartphones, tablets, and laptops that use these, however, but also a long list of gadgets. We’ve scoured the market for hidden gems: 14 gadgets that will make you think “Wow, I didn’t know I needed that, but it will make my life so much easier!",
-      "url": "https://www.pcworld.com/article/2779758/14-clever-usb-c-gadgets-id-actually-keep-in-my-tech-drawer.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/2779758-0-18804600-1788091231-Ugreen_USBC-L_02.jpg?quality=50&strip=all",
-      "date": "Sun, 30 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Today only: Get GPT, Claude, Gemini, and more for life for $80",
-      "description": "TL;DR : 1min.AI puts writing, image, audio, video, and PDF AI tools in one app, and a lifetime Advanced Business Plan is only $79.99 today. Running separate subscriptions for all your different AI models could cost you hundreds every year. Instead of paying individually for GPT, Gemini, Claude, and all the rest, get them for life through 1min.AI . This new AI platform gives you access to dozens of the most popular AI models, and for today only, it’s just $79.99 (reg. $540). One login gets you a ",
-      "url": "https://www.pcworld.com/article/3221610/today-only-get-gpt-claude-gemini-and-more-for-life-for-80.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3221610-0-95004400-1788076880-1minAI_fd9ca7.jpg?quality=50&strip=all",
-      "date": "Sun, 30 Aug 2026 08:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "For 2 days, a Microsoft Office lifetime license is just $50",
-      "description": "TL;DR: Get Word, Excel, PowerPoint, and the rest of Office 2024 Pro Plus for life for $49.97 (reg. $249.99) through September 1. Paying monthly for software you’ll use indefinitely doesn’t make sense. That’s why more people are cancelling Microsoft 365 in favor of lifetime licenses like this one for Microsoft Office 2024 , and it’s even on sale for $49.97 (reg. $249.99). Your one-time payment gets you Word, Excel, PowerPoint, Outlook, OneNote, and Access. There’s no subscription, so you can keep",
-      "url": "https://www.pcworld.com/article/3221633/for-2-days-a-microsoft-office-lifetime-license-is-just-50.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3221633-0-70737600-1788076881-mso-2024-Pro-Plus-3.jpg?quality=50&strip=all",
-      "date": "Sun, 30 Aug 2026 08:00:00 +0000"
+      "title": "OpenClaw is yesterday’s hype and today’s AI blueprint",
+      "description": "Remember OpenClaw? A humble AI tool that lived on your computer and did your bidding while you slept, OpenClaw went from zero to hero in the early weeks of 2026, blowing people’s minds with its impressive — and scary — agentic AI abilities while inspiring “claw” clones left and right. Roughly eight months after its astonishing debut, the OpenClaw hype has largely faded, and not even the release of OpenClaw 2.0 , complete with bolstered security and easier user onboarding, is likely to vault Open",
+      "url": "https://www.pcworld.com/article/3223720/openclaw-is-yesterdays-hype-and-todays-ai-blueprint.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3223720-0-23962600-1788191879-Openclaw-2-0.jpg?quality=50&strip=all",
+      "date": "Mon, 31 Aug 2026 15:57:42 +0000"
     },
     {
       "category": "eng",
@@ -677,53 +650,80 @@
       "title": "11 smart home gadgets that automate chores you still do yourself",
       "description": "Remember when “smart home” meant a single voice assistant that half-heard your requests? Those days are gone. Today, your house can vacuum itself, remotely unlock the door, water the lawn only when it’s needed, and even warn you about leaks before water destroys everything. If you’re a level one smart home owner (i.e., you have the basics like a smart speaker, some smart bulbs, maybe a simple robot vacuum) and you want to take your home to the next level—or maybe even over the top—then here are ",
       "url": "https://www.pcworld.com/article/3221403/11-smart-home-gadgets-that-automate-chores-you-still-do-yourself.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3221403-0-74529700-1788004829-smart-gadgets.jpg?quality=50&strip=all",
-      "date": "Sat, 29 Aug 2026 12:00:00 +0000"
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3221403-0-96483100-1788190413-smart-gadgets.jpg?quality=50&strip=all",
+      "date": "Mon, 31 Aug 2026 15:33:25 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Replace slow drafting workflows with AutoCAD LT for just $199",
-      "description": "TL;DR: AutoCAD LT combines precise 2D drafting , workflow automation, DWG compatibility, and connected collaboration tools in a one-year subscription for $199. Some projects need precise 2D drawings, not a maze of 3D tools you will never touch. AutoCAD LT keeps the focus on professional drafting, annotation, and documentation for floor plans, construction drawings, manufacturing layouts, engineering schematics, electrical diagrams, and other technical work. Smart Blocks detects repeated objects ",
-      "url": "https://www.pcworld.com/article/3222334/replace-slow-drafting-workflows-with-autocad-lt-for-just-199.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3222334-0-65460900-1787990468-AutoCAD-LT-1.jpg?quality=50&strip=all",
-      "date": "Sat, 29 Aug 2026 08:00:00 +0000"
+      "title": "Windows 11’s latest optional update finally fixes search clutter",
+      "description": "A few days ago, Microsoft rolled out KB5120998 , an optional update for Windows 11 that introduces several new features and improvements ( like the taskbar being repositionable again ). Another noteworthy improvement is that the built-in Windows Search has been tidied up, meaning you’ll no longer see results from Bing, Copilot, and MSN mixed in. Other search-related changes include: web searches no longer prioritizing ads and product suggestions, instead now always showing the most relevant resu",
+      "url": "https://www.pcworld.com/article/3223626/windows-11s-latest-optional-update-finally-fixes-search-clutter.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3223626-0-88784600-1788189251-windows-11-new-search-july-2026.png",
+      "date": "Mon, 31 Aug 2026 15:13:08 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Compare ChatGPT, Gemini, DeepSeek, & more for life for a one-time $79",
-      "description": "TL;DR: ChatPlayground AI lets you compare responses from multiple AI models in one window, with lifetime Unlimited Plan access available for $79. Every AI model has its own way of answering a prompt. One might write cleaner code, another may deliver a clearer explanation, and a third could catch something the others missed. ChatPlayground AI lets you compare those approaches without opening a small nation’s worth of browser tabs. And lifetime access to the Unlimited Plan is on sale for just $79 ",
-      "url": "https://www.pcworld.com/article/3222339/compare-chatgpt-gemini-deepseek-more-for-life-for-a-one-time-79.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3222339-0-19033400-1787990485-ChatPlayground_a149e1.jpg?quality=50&strip=all",
-      "date": "Sat, 29 Aug 2026 08:00:00 +0000"
+      "title": "Building a new PC from old parts? Don’t reuse these components",
+      "description": "When building a new desktop computer, it makes sense to reuse as many components as possible from your old machine. That very flexibility is one of the greatest advantages of a self-built system! Nevertheless, it is worth exercising caution here: some components age without you realizing it, or are no longer technically compatible with modern hardware. Anyone putting together a new PC should carefully check which parts should really be reused. The power supply is particularly critical. Whilst ma",
+      "url": "https://www.pcworld.com/article/3217117/building-a-new-pc-from-old-parts-dont-reuse-these-components.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3217117-0-86715000-1788188433-modding-newegg.jpg?quality=50&strip=all",
+      "date": "Mon, 31 Aug 2026 15:00:00 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Google Notebook is making big changes to usage limits",
-      "description": "Fans of Google Notebook’s AI-generated podcasts may have to settle for fewer of them once a new usage-tracking method goes into effect next week. Starting September 2, Google Notebook will switch over to “compute-specific” usage limits that track the “complexity” of your Google Notebook prompts and requests. Also coming with the “compute-specific” usage limits change are five-hour usage windows, along with weekly usage limits, according to a Google support page , replacing the current daily and ",
-      "url": "https://www.pcworld.com/article/3222981/google-notebook-is-making-big-changes-to-usage-limits.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3222981-0-33994500-1787951376-Google-Notebook.jpeg?quality=50&strip=all",
-      "date": "Fri, 28 Aug 2026 21:09:20 +0000"
+      "title": "Windows 10 and 11 users are seeing a Defender warning that isn’t real",
+      "description": "Over the past few days, some Windows 11 users have been getting incorrect warning messages about Microsoft Defender—the operating system’s built-in security solution—being disabled. According to Microsoft in this Windows Health post , the warnings are caused by a bug that was introduced in the latest Defender updates: After installing the latest updates for Microsoft Defender Antivirus, notifications might appear stating that “Microsoft Defender Antivirus is turned off,” even though the antiviru",
+      "url": "https://www.pcworld.com/article/3223641/windows-10-and-11-users-are-seeing-a-defender-warning-that-isnt-real.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3223641-0-21865200-1788185811-Microsoft-Defender-Antivirus-on-Windows-11-dark-background.jpg?quality=50&strip=all",
+      "date": "Mon, 31 Aug 2026 14:16:31 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Witcher 3 on a phone is cool. What it means for PCs is not",
-      "description": "Somebody built a desktop “PC” out of a gaming phone. It’s a cool little project. The modder basically disassembled a powerful Android phone, strapped on an enclosure and cooler setup, and connected it to an external monitor. It runs a native Linux desktop on Android. This means it can run full PC games via a software translation layer, including The Witcher 3 at ultra settings. Neat. You gotta respect the work and the passion put into this project. And Reddit user ntsow , I’m sorry to cast a dar",
-      "url": "https://www.pcworld.com/article/3213345/witcher-3-on-a-phone-is-cool-what-it-means-for-pcs-is-not.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3213345-0-56131200-1787947200-image_41f6dd.png",
-      "date": "Fri, 28 Aug 2026 19:59:23 +0000"
+      "title": "This Ryzen 7 mini PC with 16GB RAM just hit a new low price: $423",
+      "description": "NEW LOWEST PRICE Acemagic K1 mini PC View Deal If you want the full power of a laptop in a tinier package at a smaller price, what you’re looking for is a mini PC—one like this Acemagic K1 that’s on sale for $422.99 at Amazon . To score this extra low price, you just have to click the on-page coupon for an extra 10% off its listed sale price. And when I say “extra low,” I mean it. The K1 has never been this cheap. At the heart of this mini PC is an AMD Ryzen 7 7730U, a processor that can power t",
+      "url": "https://www.pcworld.com/article/3223483/this-ryzen-7-mini-pc-with-16gb-ram-just-hit-a-new-low-price-423.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3223483-0-70967600-1788185236-Acemagic-K1-mini-PC.jpg?quality=50&strip=all",
+      "date": "Mon, 31 Aug 2026 14:04:44 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Best Chromebooks 2026: Top picks for work, school, and more",
-      "description": "If you want a fast, low-maintenance machine that mostly lives in the browser, few options are as compelling as a Chromebook. Chromebooks don’t try to do everything, which is exactly why they’re so appealing. For this roundup, we focused on models that stay fast under real use and makes it through a full day unplugged. Every pick here was tested hands-on. If you’d rather step outside Google’s ecosystem, PCWorld has a separate roundup of the best Windows laptops . And if you’re curious where Chrom",
-      "url": "https://www.pcworld.com/article/608636/best-chromebooks.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/608636-0-11756100-1787946606-ports.jpg?quality=50&strip=all",
-      "date": "Fri, 28 Aug 2026 19:49:49 +0000"
+      "title": "Kensington Triple 4K TB5 dock review: Killer speeds, but a few glitches",
+      "description": "At a glance Expert's Rating Pros Affordable for a Thunderbolt 5 dock Fastest performance in some tests Two HDMI ports saves on cable cost Ports are clearly labeled 140W laptop charging Lock options Cons Stable on a TB5 laptop; varied significantly on TB4 Ports spaced a bit close together Our Verdict Kensington’s Thunderbolt 5 Triple 4K Docking Station (SD5010T5) is an attractively priced 13-in-1 Thunderbolt 5 dock, with excellent performance but questionable stability. Price When Reviewed This v",
+      "url": "https://www.pcworld.com/article/3212805/kensington-triple-4k-tb5-dock-review.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3212805-0-88460600-1788184838-Kensington-SD5010T5-primary.jpg?quality=50&strip=all",
+      "date": "Mon, 31 Aug 2026 14:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "My robot vacuum can map a house. My car broke its brain",
+      "description": "So let me set the scene here. It’s Friday afternoon, and I’m picking up a few friends for a Taylor Swift-themed hangout later on. But the backseat of my car is covered in dog hair, and I’m in no mood to wrestle one of those long-hosed vacuums at my local car wash. The suction on those things sucks anyway. Literally. And then it dawned on me. I’ve got two robot vacuums upstairs. What would happen if I just stuck one of them in the back? Just to give you a visual here, my car is a hatchback, so it",
+      "url": "https://www.pcworld.com/article/3221378/my-robot-vacuum-can-map-a-house-my-car-broke-its-brain.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3221378-0-78475800-1788181237-image_489ea3.jpeg?quality=50&strip=all",
+      "date": "Mon, 31 Aug 2026 13:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Meta’s $18 billion payout isn’t enough to save our kids",
+      "description": "I’m not a parent, but I’m looking at the Meta settlement wondering if our kids are any safer. If you haven’t heard already, Meta agreed last Wednesday to settle a lawsuit over Facebook and Instagram’s affect on children. Brought by 47 states, Washington D.C., and several U.S. territories, the suit alleged that Meta purposely made its platforms addictive to kids, ultimately causing negative mental health outcomes like anxiety, depression, and even suicide. Four states (California, Colorado, Kentu",
+      "url": "https://www.pcworld.com/article/3223024/metas-18-billion-payout-isnt-enough-to-save-our-kids.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3223024-0-44159400-1788177627-shutterstock_2564867453.jpg?quality=50&strip=all",
+      "date": "Mon, 31 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "These 8 clever PC desk upgrades free up more space than you’d expect",
+      "description": "I write about cables, docks, peripherals, laptops, and all sorts of PC gadgets. Every day, random items wash up onto my desk, like a shipwreck after a storm. De-cluttering my desk is a priority…if only! Part of my problem is my setup. My father owned an antique rolltop desk, and I decided I wanted one too, full of nooks and crannies and drawers to store cables and pens and all sort of little geeky knickknacks. The problem is that those desks don’t really work with what I’d like to do: Organize m",
+      "url": "https://www.pcworld.com/article/3192149/these-8-clever-pc-desk-upgrades-free-up-more-space-than-youd-expect.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3192149-0-32705700-1788174928-Pexels-workspace-edit.jpg?quality=50&strip=all",
+      "date": "Mon, 31 Aug 2026 11:15:00 +0000"
     }
   ],
   "starwars": [
