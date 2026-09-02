@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-02T13:31:26.922686+00:00",
+  "updated": "2026-09-02T17:42:03.519277+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "OpenAI објави детален технички извештај за „Hugging Face инцидентот“",
+      "description": "За време на проценка на повеќе јазични модели од OpenAI, во јули оваа година, моделите успеале да ги заобиколат контролите дизајнирани да ги изолираат од интернет и успешно компромитирале делови од системите за истражување на компанијата, како и од познатата платформа Hugging Face. Се работи за активност која била „предводена“ од страна на сѐ […]",
+      "url": "https://smartportal.mk/novosti/ai/openai-detalen-tehnicki-izvestaj-hugging-face-incident/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Depositphotos_640750110_XL-f-1-150x150.webp",
+      "date": "Wed, 02 Sep 2026 16:30:40 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -84,75 +93,66 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Пуштањето на новата социјална мрежа Twitter.now во сенка на судски спорови и технички прекини",
-      "description": "Американскиот стартап Operation Bluebird неодамна ја пушти социјалната мрежа Twitter.now, со цел да го врати оригиналниот идентитет на некогашната популарна платформа. Зад овој проект стои Стивен Коутс, поранешен правник за интелектуална сопственост во Twitter. Неговата компанија тврди дека по преземањето од страна на Елон Маск и ребрендирањето во 2023 година, компанијата X целосно ги напуштила […]",
-      "url": "https://smartportal.mk/novosti/socijalni-mrezi/pustanje-twitter-now-vo-senka-na-sudski-sporovi/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Depositphotos_52962585_XL-f-150x150.webp",
-      "date": "Mon, 31 Aug 2026 11:49:34 +0000"
+      "source": "Time.mk - All",
+      "title": "Груевски ја утнал спецификацијата за возот во кој се возеа Мицкоски и Николоски: Штедел на простор за велосипеди и миленици | Фокус",
+      "description": "",
+      "url": "https://time.mk/c/e7eb9ce133/gruevski-ja-utnal-specifikacijata-za-vozot-vo-koj-se-vozea-mickoski-i-nikoloski-stedel-na-prostor-za-velosipedi-i-milenici.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/09/790459181_1765777064745619_7116155448227251605_n-585x390.jpg",
+      "date": "Wed, 02 Sep 2026 17:00:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Уште не се проектирани останатите две линии од Градскиот воз, од „Железници“ очекуваат да бидат активирани до 2028 година | Слободен Печат",
+      "title": "(ВИДЕО) Пожарот во близина на селото Грачани е ставен под контрола – два „ертрактори“ им помагаат на скопските пожарникари | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/7249f4561e/uste-ne-se-proektirani-ostanatite-dve-linii-od-gradskiot-voz-od-zeleznici-ocekuvaat-da-bidat-aktivirani-do-2028-godina.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/M79_9426-300x200.jpg",
-      "date": "Wed, 02 Sep 2026 11:46:36 +0000"
+      "url": "https://time.mk/c/65617ee056/video-pozarot-vo-blizina-na-seloto-gracani-e-staven-pod-kontrola-dva-ertraktori-im-pomagaat-na-skopskite-pozarnikari.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/09/Angelov-so-skopskite-pozarnikari-kaj-Gracani.png",
+      "date": "Wed, 02 Sep 2026 16:00:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Велешанец бил насила внесен во кола и претепан од својот татко во присуство на помладиот брат | Слободен Печат",
+      "title": "Државата чека официјално известување од Бугарија, осудениот бегалец Михаилов дава изјави на ТВ во Софија | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/6c59d19721/velesanec-bil-nasila-vnesen-vo-kola-i-pretepan-od-svojot-tatko-vo-prisustvo-na-pomladiot-brat.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2025/07/tepachka-188935-300x179.jpg",
-      "date": "Wed, 02 Sep 2026 12:44:36 +0000"
+      "url": "https://time.mk/c/c617bc06db/drzavata-ceka-oficijalno-izvestuvanje-od-bugarija-osudeniot-begalec-mihailov-dava-izjavi-na-tv-vo-sofija.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1788363473/s5einapmb2ioo4pizlif.jpg",
+      "date": "Wed, 02 Sep 2026 15:38:35 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Додека едни ја гасат шумата кај Селце, други крадат дрва | Вечер Прес",
+      "title": "IN MEMORIAM: Почина Јован Донев, еден од најголемите македонски интелектуалци | Булевар",
       "description": "",
-      "url": "https://time.mk/c/6bb18f0ef3/dodeka-edni-ja-gasat-sumata-kaj-selce-drugi-kradat-drva.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/09/2345.jpg",
-      "date": "Wed, 02 Sep 2026 12:54:47 +0000"
+      "url": "https://time.mk/c/8d6e560383/in-memoriam-pocina-jovan-donev-eden-od-najgolemite-makedonski-intelektualci.html",
+      "image": "https://bulevar.mk/wp-content/uploads/2026/09/img_8474.jpeg",
+      "date": "Wed, 02 Sep 2026 16:24:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Таткото е на меѓународна потерница, а ќерката бара да замине во Бугарија на лекување | Вечер Прес",
+      "title": "Остри партиски реакции по изјавите на Јаневска: Демографијата не се спасува со „Мамо, роди ми братче“ | Deutsche Welle",
       "description": "",
-      "url": "https://time.mk/c/13fa1b5925/tatkoto-e-na-megjunarodna-poternica-a-kerkata-bara-da-zamine-vo-bugarija-na-lekuvanje.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/09/simeon-1.jpg",
-      "date": "Wed, 02 Sep 2026 13:20:55 +0000"
+      "url": "https://time.mk/c/b1d2f0065b/ostri-partiski-reakcii-po-izjavite-na-janevska-demografijata-ne-se-spasuva-so-mamo-rodi-mi-bratce.html",
+      "image": "https://static.dw.com/image/66691378_301.jpg",
+      "date": "Wed, 02 Sep 2026 14:18:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Организираниот криминал во затворите не е изолиран проблем – потребен е заеднички и координиран одговор“, вели Тошковски | Скопје1",
+      "title": "Колку мирниот старт на работата на Собранието е затишје пред бура? | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/eda6ea7976/organiziraniot-kriminal-vo-zatvorite-ne-e-izoliran-problem-potreben-e-zaednicki-i-koordiniran-odgovor-veli-toskovski.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84592/conversions/text-max.jpg",
-      "date": "Wed, 02 Sep 2026 10:30:41 +0000"
+      "url": "https://time.mk/c/27ac6ce096/kolku-mirniot-start-na-rabotata-na-sobranieto-e-zatisje-pred-bura.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1788363553/acekypg4z90ozymgemlk.jpg",
+      "date": "Wed, 02 Sep 2026 15:42:43 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Смртта на Младиќ како Прокрустова постела за балканските политичари | CivilMedia",
+      "title": "ВМРО-ДПМНЕ: СДС призна дека ја задолжиле државата како никој претходно, jа ограбија, осиромашија и уништија државата | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/0fcea60a7d/smrtta-na-mladik-kako-prokrustova-postela-za-balkanskite-politicari.html",
-      "image": "https://civilmedia.b-cdn.net/wp-content/uploads/vo-dlaboka-strarost-na-sudenjeto-vo-hag-750x375.jpg",
-      "date": "Wed, 02 Sep 2026 13:28:50 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Пратениците ја изгласаа потребата за носење на Предлог на закон за пријавување и проверка на странски директни инвестиции | 24 Вести",
-      "description": "",
-      "url": "https://time.mk/c/8529350d16/pratenicite-ja-izglasaa-potrebata-za-nosenje-na-predlog-na-zakon-za-prijavuvanje-i-proverka-na-stranski-direktni-investicii.html",
-      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1788354019/chulajitawhszeuy62j1.webp",
-      "date": "Wed, 02 Sep 2026 13:04:53 +0000"
+      "url": "https://time.mk/c/7217323305/vmro-dpmne-sds-prizna-deka-ja-zadolzile-drzavata-kako-nikoj-prethodno-ja-ograbija-osiromasija-i-unistija-drzavata.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2020/10/sdsm-vmro.jpg",
+      "date": "Wed, 02 Sep 2026 11:40:48 +0000"
     },
     {
       "category": "mkd",
@@ -166,83 +166,83 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Никој не е пронајден жив“: Потона брод во Истанбул по судир – се трага по 10 лица (фото+видео) | Црнобело",
+      "title": "Ердоган ја предупреди Грција да престане да ги вооружува островите: „Учете од минатото“ | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/28e2c12c8e/nikoj-ne-e-pronajden-ziv-potona-brod-vo-istanbul-po-sudir-se-traga-po-10-lica-foto-video.html",
-      "image": "https://www.crnobelo.com/images/stories/2026/09/1019/nikoj-ne-e-pronajden-zhiv-potona-brod-vo-istanbul-po-sudir-zaginati-se-10-lica-foto-video-povekje.jpg",
-      "date": "Wed, 02 Sep 2026 11:52:48 +0000"
+      "url": "https://time.mk/c/67b8588ba2/erdogan-ja-predupredi-grcija-da-prestane-da-gi-vooruzuva-ostrovite-ucete-od-minatoto.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2025/03/erdogan.jpg",
+      "date": "Wed, 02 Sep 2026 15:34:35 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Ескалираа протестите во Албанија: Демонстрантите ја блокираа канцеларијата на Рама, уапсени се 14-мина, тројца се гонат кривично | Вечер Прес",
+      "title": "„Рајанер“: Поради дефект на грчкиот систем за контрола на летањето доцнеа 37 летови, погодени речиси 7.000 патници | Независен",
       "description": "",
-      "url": "https://time.mk/c/e872ea341a/eskaliraa-protestite-vo-albanija-demonstrantite-ja-blokiraa-kancelarijata-na-rama-uapseni-se-14-mina-trojca-se-gonat-krivicno.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/09/2-kuso-albanija.jpg",
-      "date": "Wed, 02 Sep 2026 12:30:43 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ЕУ ѝ се заканува на Русија со нови санкции по нападот со дрон на аеродромот во Лајпциг | 24 Вести",
-      "description": "",
-      "url": "https://time.mk/c/1576b248ed/eu-i-se-zakanuva-na-rusija-so-novi-sankcii-po-napadot-so-dron-na-aerodromot-vo-lajpcig.html",
-      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1788353725/ixywsivk1edjsnq55ld8.webp",
-      "date": "Wed, 02 Sep 2026 12:58:44 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Зеленски ги предупреди авиокомпаниите да не го користат рускиот воздушен простор | Мета",
-      "description": "",
-      "url": "https://time.mk/c/202c0bf32e/zelenski-gi-predupredi-aviokompaniite-da-ne-go-koristat-ruskiot-vozdusen-prostor.html",
-      "image": "https://meta.mk/wp-content/uploads/2023/03/ukraina-dronovi.jpeg.webp",
-      "date": "Wed, 02 Sep 2026 10:38:47 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Општините поделиле 4 милиони евра за поддршка и дотации на граѓаните во изборната 2025 година – Аеродром најмногу | Независен",
-      "description": "",
-      "url": "https://time.mk/c/5e42e61e21/opstinite-podelile-4-milioni-evra-za-poddrska-i-dotacii-na-gragjanite-vo-izbornata-2025-godina-aerodrom-najmnogu.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2025/10/Bilbordi-za-lokalni-izbori-1-bg.jpg",
-      "date": "Wed, 02 Sep 2026 08:20:53 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Утре јавна презентација на Нацрт ДУП-от за Барутана | Макфакс",
-      "description": "",
-      "url": "https://time.mk/c/0f510077c9/utre-javna-prezentacija-na-nacrt-dup-ot-za-barutana.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/08/dup-barutana-centar.webp",
-      "date": "Wed, 02 Sep 2026 12:57:02 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "30 дена притвор за 19-годишникот кој прободе 13-годишник во срце во Чаир | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/6c47d3c040/30-dena-pritvor-za-19-godisnikot-koj-probode-13-godisnik-vo-srce-vo-cair.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/78722/conversions/text-max.jpg",
-      "date": "Wed, 02 Sep 2026 09:06:59 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Одбраната се фати за бојата на сунѓерот, сведоците ги потсетија на цијанидот и кога се користел во историјата | Вечер Прес",
-      "description": "",
-      "url": "https://time.mk/c/f145101581/odbranata-se-fati-za-bojata-na-sungjerot-svedocite-gi-potsetija-na-cijanidot-i-koga-se-koristel-vo-istorijata.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2025/11/087-scaled.jpg",
-      "date": "Wed, 02 Sep 2026 12:42:38 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Првото училишно ѕвонче замолчи во Породин, Канино и Дихово | Тера",
-      "description": "",
-      "url": "https://time.mk/c/0c89afc0ec/prvoto-ucilisno-zvonce-zamolci-vo-porodin-kanino-i-dihovo.html",
+      "url": "https://time.mk/c/57fe821f32/rajaner-poradi-defekt-na-grckiot-sistem-za-kontrola-na-letanjeto-docnea-37-letovi-pogodeni-recisi-7-000-patnici.html",
       "image": "",
-      "date": "Tue, 01 Sep 2026 10:10:37 +0000"
+      "date": "Wed, 02 Sep 2026 16:18:35 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "ЕУ И НАТО ЈА ОБВИНИЈА РУСИЈА ЗА ЕСКАЛАЦИЈА ПО НАПАДОТ СО ДРОНОВИ ВО ЛАЈПЦИГ И ВЕТИЈА ДЕКА ЌЕ ОДГОВОРАТ | Сакам да кажам",
+      "description": "",
+      "url": "https://time.mk/c/5f15cb9fe4/eu-i-nato-ja-obvinija-rusija-za-eskalacija-po-napadot-so-dronovi-vo-lajpcig-i-vetija-deka-ke-odgovorat.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/09/ooujbocpqe-v2-ax-w800h450.jpeg",
+      "date": "Wed, 02 Sep 2026 16:46:35 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Ескалираат тензиите меѓу Киев и Москва | 24 Вести",
+      "description": "",
+      "url": "https://time.mk/c/2952868122/eskaliraat-tenziite-megju-kiev-i-moskva.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1788365545/usyyr1lug6e0lksiw9o8.jpg",
+      "date": "Wed, 02 Sep 2026 16:14:35 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Утре во Општина Центар јавна презентација на нацрт-ДУП за „Барутана“ на Водно | 360 степени",
+      "description": "",
+      "url": "https://time.mk/c/463f78bc5b/utre-vo-opstina-centar-javna-prezentacija-na-nacrt-dup-za-barutana-na-vodno.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/09/DUP-za-Barutana.jpg",
+      "date": "Wed, 02 Sep 2026 14:24:59 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "„Адора“ купува државно земјиште за спортски објекти во Аеродром | Призма",
+      "description": "",
+      "url": "https://time.mk/c/1879253ddf/adora-kupuva-drzavno-zemjiste-za-sportski-objekti-vo-aerodrom.html",
+      "image": "https://prizma.mk/wp-content/uploads/2026/06/slika-plac-2-1024x1024.jpg",
+      "date": "Wed, 02 Sep 2026 13:34:43 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Детето прободено со нож се бори за живот, притвор за 19-годишникот, за насилникот социјални служби | 24 Вести",
+      "description": "",
+      "url": "https://time.mk/c/bab6d6c388/deteto-probodeno-so-noz-se-bori-za-zivot-pritvor-za-19-godisnikot-za-nasilnikot-socijalni-sluzbi.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1788366075/gnaaueidj2u9ugngx0ud.jpg",
+      "date": "Wed, 02 Sep 2026 16:26:35 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Велешанец бил насила внесен во кола и претепан од својот татко во присуство на помладиот брат | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/6c59d19721/velesanec-bil-nasila-vnesen-vo-kola-i-pretepan-od-svojot-tatko-vo-prisustvo-na-pomladiot-brat.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2025/07/tepachka-188935-300x179.jpg",
+      "date": "Wed, 02 Sep 2026 12:44:36 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Општина Куманово распиша конкурс за избор на сувенир на градот за 2026 година | Кумановски м.",
+      "description": "",
+      "url": "https://time.mk/c/548eabc010/opstina-kumanovo-raspisa-konkurs-za-izbor-na-suvenir-na-gradot-za-2026-godina.html",
+      "image": "",
+      "date": "Wed, 02 Sep 2026 12:04:50 +0000"
     },
     {
       "category": "mkd",
@@ -250,7 +250,7 @@
       "title": "Општина Прилеп за првпат обезбедува по 3.000 денари за секое прваче | Шеталиште",
       "description": "",
       "url": "https://time.mk/c/73620f1205/opstina-prilep-za-prvpat-obezbeduva-po-3-000-denari-za-sekoe-prvace.html",
-      "image": "",
+      "image": "https://setaliste.mk/wp-content/uploads/2025/09/ucenici-150x150.webp",
       "date": "Wed, 02 Sep 2026 13:26:37 +0000"
     },
     {
@@ -265,14 +265,23 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Венецијанскиот фестивал започнува со Клуни и Бојл, главните теми се Мардок, Газа, Украина и Маск | Слободен Печат",
+      "title": "Не е важно само што запеа, туку кој запеа - Карерас | Фактор",
       "description": "",
-      "url": "https://time.mk/c/fac57c8773/venecijanskiot-festival-zapocnuva-so-kluni-i-bojl-glavnite-temi-se-mardok-gaza-ukraina-i-mask.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/profimedia-1129924738-300x217.jpg",
-      "date": "Wed, 02 Sep 2026 09:46:35 +0000"
+      "url": "https://time.mk/c/3464234c2f/ne-e-vazno-samo-sto-zapea-tuku-koj-zapea-kareras.html",
+      "image": "https://zenskimagazin.mk/media/main/2026/09/20260902121618.jpg",
+      "date": "Wed, 02 Sep 2026 11:42:37 +0000"
     }
   ],
   "de": [
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "SMS-Blaster: Rollender Funkmast schleuste Fake-SMS direkt aufs Handy",
+      "description": "SMS-Blaster: Ein rollender Funkmast schleuste Fake-SMS auf Handys. Die britische Polizei beschlagnahmte erstmals solche Betrugstechnik. Der Artikel SMS-Blaster: Rollender Funkmast schleuste Fake-SMS direkt aufs Handy erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/it-sicherheit/sms-blaster-rollender-funkmast-fake-sms-333244.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/sms-blaster-rollender-funkmast-fake-sms",
+      "date": "Wed, 02 Sep 2026 15:19:47 +0000"
+    },
     {
       "category": "de",
       "source": "Tarnkappe",
@@ -443,18 +452,54 @@
       "url": "https://tarnkappe.info/artikel/softwareentwicklung/korbklar-der-lokale-einkaufshelfer-ohne-accountzwang-und-nutzertracking-332966.html",
       "image": "https://cdn.tarnkappe.info/wpimg/korbklar-der-lokale-einkaufshelfer-ohne-accountzwang-und-nutzertracking",
       "date": "Tue, 25 Aug 2026 13:10:26 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "GTA VI Fake-ISO: 113 GB Download entpuppt sich als Malware-Falle",
-      "description": "GTA VI Fake-ISO mit 113 GB entpuppt sich als Malware-Falle: 99,99 Prozent sollen nur aus Datenmüll bestehen. Der Artikel GTA VI Fake-ISO: 113 GB Download entpuppt sich als Malware-Falle erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/gaming/gta-vi-fake-iso-malware-falle-332956.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/gta-vi-fake-iso-malware-falle",
-      "date": "Mon, 24 Aug 2026 15:06:33 +0000"
     }
   ],
   "eng": [
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Lifehacker Early Labor Day Sale Live Blog: The Best Labor Day Deals, All in One Place",
+      "description": "Follow for live updates as we share the best early Labor Day deals we can find.",
+      "url": "https://lifehacker.com/tech/early-labor-day-sales-live-blog-09-02-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M1CNXXEYPE51P194PSFGJZ9Z/hero-image.webp",
+      "date": "Wed, 02 Sep 2026 15:09:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "These Google Maps and Apple Maps Alternatives Still Call It ‘Lake Ontario’ (for Now)",
+      "description": "Both Google Maps and Apple Maps now call it \"Lake America.\"",
+      "url": "https://lifehacker.com/tech/these-google-maps-alternatives-till-call-it-lake-ontario?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M1BYW1W1RE05RNDHRRMSVER3/hero-image.jpg",
+      "date": "Wed, 02 Sep 2026 15:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Here's How AI Watermarks Work (and How to Properly Check for One)",
+      "description": "Though not foolproof, they're a helpful tool for spotting fake images.",
+      "url": "https://lifehacker.com/tech/how-does-ai-watermarking-work-and-how-can-i-check-for-one?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M1CQ1MDR4Q4EZQDQF05A30WX/hero-image.jpg",
+      "date": "Wed, 02 Sep 2026 14:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "The Seven Coolest Inventions From 'DEF CON' 2026",
+      "description": "The world's largest hacker convention showcased these cutting-edge devices and platforms.",
+      "url": "https://lifehacker.com/tech/coolest-inventions-from-def-con-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M1CYQ42P8WBXB6CX54597XXJ/hero-image.jpg",
+      "date": "Wed, 02 Sep 2026 14:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Here's How to Protect Your Privacy If Someone Is Recording You With Their Glasses",
+      "description": "Now that the so-called \"pervert glasses\" are becoming more ubiquitous, how do you stop someone from recording you?",
+      "url": "https://lifehacker.com/tech/protect-privacy-meta-glasses-recording?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M1FKX32TQW9P0BJ8AZXX4YME/hero-image.jpg",
+      "date": "Wed, 02 Sep 2026 13:30:00 +0000"
+    },
     {
       "category": "eng",
       "source": "Lifehacker",
@@ -472,15 +517,6 @@
       "url": "https://lifehacker.com/tech/philips-wifi-smart-lock-early-labor-day-2026?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01KMZ565Q8XR6MNX566Q938DPE/hero-image.png",
       "date": "Wed, 02 Sep 2026 12:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "Lifehacker Early Labor Day Sale Live Blog: The Best Labor Day Deals, All in One Place",
-      "description": "Follow for live updates as we share the best early Labor Day deals we can find.",
-      "url": "https://lifehacker.com/tech/early-labor-day-sales-live-blog-09-02-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1CNXXEYPE51P194PSFGJZ9Z/hero-image.webp",
-      "date": "Wed, 02 Sep 2026 12:00:00 +0000"
     },
     {
       "category": "eng",
@@ -601,39 +637,75 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "This 65-Inch LG OLED TV Is $600 Off in Amazon’s Early Labor Day Sale",
-      "description": "This is a great value for a 2026 OLED with gamer-friendly features.",
-      "url": "https://lifehacker.com/tech/65-inch-lg-oled-tv-sale-early-labor-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1CQD8XCDEECA819MVM8KDDJ/hero-image.png",
-      "date": "Mon, 31 Aug 2026 20:33:52 +0000"
+      "source": "PCWorld",
+      "title": "Best laptops 2026: Premium, budget, gaming, 2-in-1, and more",
+      "description": "PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 70 laptops every year. Our reviews span PC laptops at every price point to meet the needs of any budget, from affordable everyday laptops to powerful gaming machines . Let our extensive hands-on experience help you with your laptop purchasing decision. Because while shopping for a laptop can start out simple enough, it often ends with a dozen open tabs full of specs you don’t",
+      "url": "https://www.pcworld.com/article/436674/best-pc-laptops.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/436674-0-99512500-1788364839-best-budget-laptops.jpg?quality=50&strip=all",
+      "date": "Wed, 02 Sep 2026 16:00:00 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "These Signature Sony Headphones Are on Sale for Under $200 for Amazon's Early Labor Day Sale",
-      "description": "You can get the still amazing 2022 flagship headphones for 50% off.",
-      "url": "https://lifehacker.com/tech/sony-wh-1000xm5-headphones-sale-early-labor-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01J5R8K2SBTJDTSYWN3F1QS498/hero-image.png",
-      "date": "Mon, 31 Aug 2026 19:30:00 +0000"
+      "source": "PCWorld",
+      "title": "When did mini-LED monitors get so friggin’ cheap?!",
+      "description": "While I was waiting for OLED monitor prices to plummet, another revolution quietly happened underneath my nose. Mini-LED monitors, a luscious OLED rival, are surprisingly cheap now? Like, “you can find plenty under $300 and some under $200 ” kind of cheap. When the hell did that happen? I was inspired to look because Acer announced a slick-looking new mini-LED monitor at IFA this morning. The Acer Nitro XV275U Z2 will cost just $329 when it launches later this year, giving you a stunning 1,000 n",
+      "url": "https://www.pcworld.com/article/3225867/when-did-mini-led-monitors-get-so-friggin-cheap.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3225867-0-64246900-1788364366-Acer-Nitro-XV275U-Z2-Straight-On-resize.jpg?quality=50&strip=all",
+      "date": "Wed, 02 Sep 2026 15:52:08 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "Microsoft Outlook Is Down",
-      "description": "If Outlook isn't working for you today, you're not alone.",
-      "url": "https://lifehacker.com/tech/microsoft-outlook-is-down?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1CJFX22GRK8WZYN4TK2307V/hero-image.jpg",
-      "date": "Mon, 31 Aug 2026 19:00:00 +0000"
+      "source": "PCWorld",
+      "title": "Windows 11 will now only make you restart once a month for updates",
+      "description": "Microsoft now bundles updates for drivers, the .NET Framework, and firmware together with the regular security updates that go out on Patch Tuesday every month. This consolidation brings one huge advantage to Windows users: your Windows 11 PC now only needs to be restarted once a month to remain up-to-date and secure. As reported by Windows Latest , this change affects Windows 11 versions 24H2, 25H2, and 26H1. Microsoft began rolling out this update bundle to compatible computers at the end of J",
+      "url": "https://www.pcworld.com/article/3225660/windows-11-will-now-only-make-you-restart-once-a-month-for-updates.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3225660-0-06250600-1788363966-image_6c9626.png",
+      "date": "Wed, 02 Sep 2026 15:45:51 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "These 65-Inch TVs Are up to $1,200 Off During Amazon's Early Labor Day Sale",
-      "description": "You can already find discounts on TVs from LG, Samsung, Sony, and more.",
-      "url": "https://lifehacker.com/tech/65-inch-tvs-amazons-best-early-labor-day-sale-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1CEAKZ392KJEYY9R7PA4C0E/hero-image.png",
-      "date": "Mon, 31 Aug 2026 18:30:01 +0000"
+      "source": "PCWorld",
+      "title": "Claude Fable 5.1 sometimes guesses rather than searches. Here’s the fix",
+      "description": "If you’re an experienced Claude user, here’s a phrase you know all too well: “Let me check rather than guess.” It’s one of those little Claude-isms that pops up every so often in Claude Code and other Claude platforms, right up there with “One thing worth flagging” and “Here’s the honest version.” In this context, “Let me check rather than guess” is Claude’s way of saying it’s about to kick off a web search rather than relying on its native memory, which has a cutoff date that can be weeks or ev",
+      "url": "https://www.pcworld.com/article/3225815/claude-fable-5-1-sometimes-guesses-rather-than-searches-heres-the-fix.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3225815-0-10054800-1788361851-Claude-app.jpg?quality=50&strip=all",
+      "date": "Wed, 02 Sep 2026 15:10:34 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "How to reorder PDF pages quickly and easily",
+      "description": "Need to rearrange the pages in a PDF without uploading the file to an online service? PDF Arranger lets you do exactly that. With multi-page PDF files, you may sometimes need to rearrange the pages. This isn’t possible with Acrobat Reader, and most other PDF viewers don’t support this either. The downside with using an online tool such as PDF24 is that you have no control over who can access your PDF. A simple but effective local solution is the open-source software PDF Arranger. On GitHub, clic",
+      "url": "https://www.pcworld.com/article/3219079/how-to-reorder-pdf-pages-quickly-and-easily.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3219079-0-69730600-1788361223-avm_x06.jpg?quality=50&strip=all",
+      "date": "Wed, 02 Sep 2026 15:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "TP-Link’s first Wi-Fi 8 router promises speed and fewer dropped connections",
+      "description": "Ahead of the IFA 2026 tech trade fair in Berlin, TP-Link has unveiled the first products in its all-new Wi-Fi 8 lineup, including the Archer 8 Ultra router and the Deco 8 Ultra mesh system, both of which are based on the IEEE 802.11bn standard (also known as UHR or Wi-Fi 8). Unlike previous Wi-Fi generations, which focused on increasing top data transfer speeds, Wi-Fi 8 is mainly designed to improve stability for more consistent connections. Hence, it being called UHR (Ultra High Reliability). W",
+      "url": "https://www.pcworld.com/article/3225661/tp-links-first-wi-fi-8-router-promises-speed-and-fewer-dropped-connections.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3225661-0-83313000-1788360400-TP-link-archer-8-deco-8.jpg?quality=50&strip=all",
+      "date": "Wed, 02 Sep 2026 14:46:26 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Firefox 155 patches 30 security flaws, adds sortable tab groups",
+      "description": "The newest major release of Firefox 155 for Windows, macOS, Linux, and Android brings a number of improvements, including support for Nintendo Switch Pro controllers and sortable tab groups. Mozilla has also patched over 30 security vulnerabilities, and updates are also available for the ESR versions of Firefox for older systems. The release of the next major version, Firefox 156, is already scheduled for September 15th, with time for a bug-fix update on September 8th. What’s new in Firefox 155?",
+      "url": "https://www.pcworld.com/article/3225663/firefox-155-patches-30-security-flaws-adds-sortable-tab-groups.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3225663-0-49108100-1788358242-Firefox-foto-mozilla.png",
+      "date": "Wed, 02 Sep 2026 14:09:31 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Thermal Master P3 review: Excellent close-up thermal imaging for your phone",
+      "description": "At a glance Expert's Rating Pros Manual focus from a distance of 8 millimeters High thermal sensitivity of less than 35mK A well-finished aluminium housing weighing 27 grams Extensive range of accessories, including a carrying case USB-C port with Lightning and USB-A adapters Cons No mounting option, no tripod thread Our Verdict At a street price of around $300, the P3 delivers high image quality for this price range. A standout feature is the manual focus, which proves its worth when shooting a",
+      "url": "https://www.pcworld.com/article/3219139/thermal-master-p3-review.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3219139-0-80707100-1788357625-Test-Thermal-Master-P3.png",
+      "date": "Wed, 02 Sep 2026 14:00:00 +0000"
     },
     {
       "category": "eng",
@@ -652,81 +724,27 @@
       "url": "https://www.pcworld.com/article/3217415/ai-is-making-cyberattacks-worse-you-need-a-digital-disaster-plan.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3217415-0-64710300-1788350460-Security-antivirus-malware-password-scam-hacker-fraud-jigsaw-puzzle-illustration.jpg?quality=50&strip=all",
       "date": "Wed, 02 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "This Windows security trick auto-locks your PC when you leave",
-      "description": "I’m pretty good about remembering to lock my PC when I leave my desk, but every once in a while I forget. Thankfully, when I walk away from my computer and my brain is already halfway to the coffee machine, there’s an easy way to keep it protected. Windows’ Dynamic Lock gives you a handy backup plan by using your phone to tell when you’ve walked away. Joel Lee / IDG Dynamic Lock works via Bluetooth. Pair your phone with your Windows PC, then go to Settings > Accounts > Sign-in options > Dynamic ",
-      "url": "https://www.pcworld.com/article/3210834/this-windows-security-trick-auto-locks-your-pc-when-you-leave.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3210834-0-42923600-1788345066-shutterstock_2032255589.jpg?quality=50&strip=all",
-      "date": "Wed, 02 Sep 2026 10:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Acer made a 1,000Hz monitor, and yes, it costs over $1,000",
-      "description": "Competitive esports players suddenly have an abundance of bleeding-edge monitor options coming out of IFA — at least if you’ve got deep pockets. Mere hours ago, Dell revealed a 560Hz OLED monitor that does things traditional TN panels can’t. And now, Acer is striking back with a glorious new TN monitor that pushes out frames at a speed OLED can’t even dream of matching. The Acer Predator XB253Q U1 achieves a face-melting 1,000Hz. Yes, four-digit frame rates are a thing now. Holy freakin’ moly! “",
-      "url": "https://www.pcworld.com/article/3224880/acer-made-a-1000hz-monitor-and-yes-it-costs-over-1000.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3224880-0-59227800-1788341499-acer-Predator-XB253Q-U1-Straight-On.jpg?quality=50&strip=all",
-      "date": "Wed, 02 Sep 2026 09:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Acer’s new Swift Blade 14 might be the lightest 14-inch laptop yet",
-      "description": "Are we in a thin-and-light laptop renaissance? Acer’s new sub-2-pound Acer Swift Blade 14 implies that we are. A few months ago, I balanced Acer’s TravelMate P6 14 AI in my hand. It weighed just 1 kg (2.2 pounds), limbo-ing under the 1kg bar like a feather. Now, Acer has debuted the Swift Blade 14 at an incredible 0.8 kg (1.76 pounds), shaving off an additional 0.2 kg from the TravelMate’s bulk. I can only imagine what that feels like! Put another way, if Acer somehow managed to repeat the proce",
-      "url": "https://www.pcworld.com/article/3223765/acers-new-swift-blade-14-might-be-the-lightest-14-inch-laptop-yet.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3223765-0-66925400-1788341467-Acer-Swift-Blade-14-primary.png",
-      "date": "Wed, 02 Sep 2026 09:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Acer’s new gaming handheld has a tiny laptop hiding inside",
-      "description": "Who’s going to spend $1,500 to $2,000 on a handheld gaming PC when we both need and want a laptop too? Apparently, Acer has been pondering this thought. In addition to a new conventional Steam Deck-style handheld, the company is showing off its DualPlay Mini concept—a handheld that can transform into a tiny laptop. And I do mean tiny . The screen on this device is 8 inches, which is chunky for a portable gaming device but old-fashioned netbook territory for a laptop. This isn’t the first time we",
-      "url": "https://www.pcworld.com/article/3224750/acers-new-gaming-handheld-has-a-tiny-laptop-hiding-inside.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3224750-0-61819300-1788341430-image_563421.png",
-      "date": "Wed, 02 Sep 2026 09:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "How HDMI Technology Delivers Smoother, More Immersive Gaming",
-      "description": "In computer and video gaming, connectivity plays a defining role in shaping the overall experience. HDMI® technology has established itself for delivering both high-definition video and high-resolution audio through a licensed, tested and certified seamless connection. Its widespread adoption across gaming consoles, PCs, displays, and home entertainment systems makes it the most versatile and reliable interface for gamers of all levels. One of HDMI technology’s greatest strengths is its ability ",
-      "url": "https://www.pcworld.com/article/3224653/how-hdmi-technology-delivers-smoother-more-immersive-gaming.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3224653-0-54097200-1788338108-1600x900-HDMI.jpg?quality=50&strip=all",
-      "date": "Wed, 02 Sep 2026 08:34:56 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Get 50 AI models and no recurring payments with a lifetime subscription to AskAnyModelAI Pro for $39.99",
-      "description": "TL;DR: Save time (and credits) by comparing results from more than 50 AIs with a lifetime subscription to AskAnyModelAI Pro Plan for $39.99, 91% off the $499 regular price. There’s a lot of AI models out there, and they all have unique strengths. But running your prompts and chats through multiple models to get the best results wastes time and money. Stop paying for multiple AI models and get results faster: With the AskAnyModelAI Pro Plan, you get the best of 50 of the best AI models in one pac",
-      "url": "https://www.pcworld.com/article/3224757/get-50-ai-models-and-no-recurring-payments-with-a-lifetime-subscription-to-askanymodelai-pro-for-39-99.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3224757-0-72065700-1788336023-AskAnyModel.jpg?quality=50&strip=all",
-      "date": "Wed, 02 Sep 2026 08:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Microsoft’s best data design tool is only $13 for life",
-      "description": "TL;DR : Turn complex data into clear diagrams with a lifetime license fo r Microsoft Visio , now just $13. Most diagramming software runs on a recurring subscription, so the cost of turning messy data into a clean flowchart keeps climbing month after month. Microsoft Visio Pro is a data visualization tool that used to require a monthly fee, but now you can get it for life for only $12.97 (reg. $249.99). Visio gives you dozens of premade templates, starter diagrams, and stencils to make it easier",
-      "url": "https://www.pcworld.com/article/3224768/microsofts-best-data-design-tool-is-only-13-for-life.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3224768-0-83770700-1788336083-Visio-2021.jpg?quality=50&strip=all",
-      "date": "Wed, 02 Sep 2026 08:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Dell’s new 14S laptop has the screen I want and the RAM I don’t",
-      "description": "Today at IFA, Dell announced the new 14S, a 14-inch laptop that comes in four colors, including a pretty unusual Velvet Green. The higher-end display option is also surprisingly impressive. I’m a little less enthusiastic about the RAM, though, which is onboard and can’t be upgraded later. Let’s get into it. Dell The Dell 14S comes in four distinct colorways: Linen, Dusty Rose, Washed Denim, and Velvet Green. Green laptops are pretty uncommon, no? That one really stood out to me. It’s also light ",
-      "url": "https://www.pcworld.com/article/3222132/dells-new-14s-laptop-has-the-screen-i-want-and-the-ram-i-dont.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3222132-0-07477500-1788332474-Untitled-design-34-1.jpg?quality=50&strip=all",
-      "date": "Wed, 02 Sep 2026 07:00:00 +0000"
     }
   ],
   "starwars": [
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "‘The Mandalorian and Grogu’ Currently Streaming on Disney Plus, IMAX Enhanced Version Available",
+      "description": "Happy Mandalorian Day on Disney Plus. Today, three major releases from The Mandalorian are coming to the streaming platform, in the The post ‘The Mandalorian and Grogu’ Currently Streaming on Disney Plus, IMAX Enhanced Version Available appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/09/the-mandalorian-and-grogu-currently-streaming-on-disney-plus-imax-enhanced-version-available.html",
+      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/09/THA_PAC_DisneyPlus_Announce_1920x1080-1-1-1024x576.jpg",
+      "date": "Wed, 02 Sep 2026 16:41:12 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "Review – ‘Reign of the Empire: Edge of the Abyss’ Is a Perfect Treat for ‘Andor’ Fans",
+      "description": "Welcome back to Star Wars, Rebecca Roanhorse! Reign of the Empire: Edge of the Abyss is a brilliant sequel set The post Review – ‘Reign of the Empire: Edge of the Abyss’ Is a Perfect Treat for ‘Andor’ Fans appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/09/review-reign-of-the-empire-edge-of-the-abyss-is-a-perfect-treat-for-andor-fans.html",
+      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/03/9780593874042-1-e1788220173314.webp",
+      "date": "Wed, 02 Sep 2026 14:30:56 +0000"
+    },
     {
       "category": "starwars",
       "source": "Star Wars News Net",
@@ -789,24 +807,6 @@
       "url": "https://www.starwarsnewsnet.com/2026/08/star-wars-celebration-2027-guest-list-adds-voice-cast-of-star-wars-rebels.html",
       "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/08/swcla-2027-guests-freddie-prince-jr-vanessa-marshall-ti_0c05ea9d.jpeg",
       "date": "Mon, 31 Aug 2026 16:10:29 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars News Net",
-      "title": "Tup – ‘Star Wars’ Character Spotlight",
-      "description": "This Star Wars Character Spotlight will take a look at Tup, the only clone trooper to kill a Jedi before The post Tup – ‘Star Wars’ Character Spotlight appeared first on Star Wars News Net .",
-      "url": "https://www.starwarsnewsnet.com/2026/08/tup-star-wars-character-spotlight.html",
-      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/08/Tup.jpeg",
-      "date": "Mon, 31 Aug 2026 16:00:18 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars News Net",
-      "title": "Sabacc Explained: The Star Wars Card Game That Became a Galactic Classic",
-      "description": "Sabacc has been part of the Star Wars universe for so long that it feels like an old starship humming The post Sabacc Explained: The Star Wars Card Game That Became a Galactic Classic appeared first on Star Wars News Net .",
-      "url": "https://www.starwarsnewsnet.com/2026/08/sabacc-explained-the-star-wars-card-game-that-became-a-galactic-classic.html",
-      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2025/09/aaron-mcbride_sabacc-concept-art_solo.jpg",
-      "date": "Mon, 31 Aug 2026 15:50:13 +0000"
     },
     {
       "category": "starwars",
@@ -901,6 +901,33 @@
     {
       "category": "starwars",
       "source": "Jedi News",
+      "title": "Blast Points Podcast #495: C-3PO – The Lost Years",
+      "description": "Join Jason and Gabe for episode 495 of Blast Points Podcast. The post Blast Points Podcast #495: C-3PO – The Lost Years appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/blast-points-podcast-495-c-3po-the-lost-years/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2025/01/Blast-Points-Jan25-300x201.jpg",
+      "date": "Wed, 02 Sep 2026 08:45:48 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Ezra and Hondo Team Up! | Star Wars Rebels | Star Wars Kids",
+      "description": "After Vizago turns his droids against Ezra and Hondo, the unlikely duo must work together to escape with the generators. Will Hondo be able to prove himself as a trustworthy ally to the Ghost Crew? Stream Star Wars Rebels on Disney+. The post Ezra and Hondo Team Up! | Star Wars Rebels | Star Wars Kids appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/ezra-and-hondo-team-up-star-wars-rebels-star-wars-kids/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/maxresdefault-1-300x169.jpg",
+      "date": "Wed, 02 Sep 2026 01:20:25 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Indiana Jones Finds the Marvel Universe’s Most Legendary Artifacts in New Variant Covers",
+      "description": "In celebration of the return of Indiana Jones to Marvel Comics, new Indiana Jones Marvel Artifacts Variant Covers, featuring the iconic archaeologist uncovering legendary artifacts from across the Marvel Universe, are scheduled to arrive this November. The post Indiana Jones Finds the Marvel Universe’s Most Legendary Artifacts in New Variant Covers appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/literature/articles/indiana-jones-finds-the-marvel-universes-most-legendary-artifacts-in-new-variant-covers/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/thor_asrar_indianajonesmarvelartifact_Featured_Aug26-300x201.jpg",
+      "date": "Tue, 01 Sep 2026 21:20:01 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
       "title": "Darth Vader Hires Bounty Hunters | Star Wars: The Empire Strikes Back | Official Clip",
       "description": "Darth Vader hires bounty hunters from across the galaxy to hunt down and capture the Millennium Falcon and its crew. Stream Star Wars: The Empire Strikes Back on Disney+. The post Darth Vader Hires Bounty Hunters | Star Wars: The Empire Strikes Back | Official Clip appeared first on Jedi News .",
       "url": "https://www.jedinews.com/film-music-tv/articles/darth-vader-hires-bounty-hunters-star-wars-the-empire-strikes-back-official-clip/",
@@ -969,33 +996,6 @@
       "url": "https://www.jedinews.com/podcasts/articles/the-cantina-cast-676-starfighter-d23-teaser-breakdown-patreon-preview/",
       "image": "https://www.jedinews.com/wp-content/uploads/2018/04/cantina-cast-podcast-300x201.jpg",
       "date": "Mon, 31 Aug 2026 15:56:13 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "LEGO Ideas Wallace & Gromit Set (21371) Arrives October 1st",
-      "description": "The LEGO Group, in collaboration with Aardman, bring us the 1,038-piece LEGO Ideas Wallace & Gromit set (21371), creating a detailed model of the famous duo riding their retro motorbike as seen in Wallace & Gromit: A Close Shave, available from October 1st. The post LEGO Ideas Wallace & Gromit Set (21371) Arrives October 1st appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/lego/articles/lego-ideas-wallace-gromit-set-21371-arrives-october-1st/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/08/21371_01_U4j8ngQHGpqy-300x201.jpg",
-      "date": "Mon, 31 Aug 2026 13:00:25 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Making Tracks #264: Anticipation: With guest Charlie Bushnell from Rebel Scum Con III",
-      "description": "Fantha Tracks Radio is back with episode 264 of their flagship show Making Tracks, discussing all the latest Star Wars news. The post Making Tracks #264: Anticipation: With guest Charlie Bushnell from Rebel Scum Con III appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/making-tracks-264-anticipation-with-guest-charlie-bushnell-from-rebel-scum-con-iii/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2018/05/Making-Tracks-300x201.jpg",
-      "date": "Mon, 31 Aug 2026 05:24:18 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "This Weeks Publications – 31st August 2026",
-      "description": "Welcome to week 35 of 2026 and our list detailing what new publications to expect from a galaxy far, far away. The post This Weeks Publications – 31st August 2026 appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/literature/articles/this-weeks-publications-31st-august-2026/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/08/Hiding-from-the-Dark-FI-300x206.jpeg",
-      "date": "Mon, 31 Aug 2026 04:01:56 +0000"
     }
   ],
   "youtube": [
