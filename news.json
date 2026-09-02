@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-02T17:42:03.519277+00:00",
+  "updated": "2026-09-02T20:43:06.293707+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Dyson претстави паметна четка за заби со вградена камера и „млазница“",
+      "description": "Dyson во Париз официјално ја претстави CameraJet, електрична четка за заби која ги обединува четкањето, чистењето на простор меѓу забите и плакнењето на устата во еден чекор. Уредот е опремен со мала камера од 100.000 пиксели која работи во комбинација со алгоритам за машинско учење наречен Gap Optical Targeting. Овој систем во реално време ги […]",
+      "url": "https://smartportal.mk/novosti/uredi/dyson-camerajet-cetka-za-zabi/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/682-press-release-hero-f-150x150.webp",
+      "date": "Wed, 02 Sep 2026 18:11:58 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -84,12 +93,12 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Денес е последниот ден на Тим Кук како главен директор на Apple",
-      "description": "Денес е последниот ден на Тим Кук како директор на Apple, позиција која ја имаше изминатите 15 години. Од утре позицијата ја презема Џон Тернус, кој во компанијата е уште од 2001 година, што значи доаѓа од редовите на вработените кои се во компанијата од времето на Стив Џобс. Поради тој факт, а и „хардверската“ […]",
-      "url": "https://smartportal.mk/novosti/licnosti/denes-posleden-den-tim-cook/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/04/Apple-John-Ternus-Tim-Cook-1-150x150.webp",
-      "date": "Mon, 31 Aug 2026 12:23:13 +0000"
+      "source": "Time.mk - All",
+      "title": "(ВИДЕО) Пожарот во близина на селото Грачани е ставен под контрола – два „ертрактори“ им помагаат на скопските пожарникари | 360 степени",
+      "description": "",
+      "url": "https://time.mk/c/9e9ab851f5/video-pozarot-vo-blizina-na-seloto-gracani-e-staven-pod-kontrola-dva-ertraktori-im-pomagaat-na-skopskite-pozarnikari.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/09/Angelov-so-skopskite-pozarnikari-kaj-Gracani.png",
+      "date": "Wed, 02 Sep 2026 16:00:50 +0000"
     },
     {
       "category": "mkd",
@@ -103,15 +112,6 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(ВИДЕО) Пожарот во близина на селото Грачани е ставен под контрола – два „ертрактори“ им помагаат на скопските пожарникари | 360 степени",
-      "description": "",
-      "url": "https://time.mk/c/65617ee056/video-pozarot-vo-blizina-na-seloto-gracani-e-staven-pod-kontrola-dva-ertraktori-im-pomagaat-na-skopskite-pozarnikari.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/09/Angelov-so-skopskite-pozarnikari-kaj-Gracani.png",
-      "date": "Wed, 02 Sep 2026 16:00:50 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
       "title": "Државата чека официјално известување од Бугарија, осудениот бегалец Михаилов дава изјави на ТВ во Софија | 24 Вести",
       "description": "",
       "url": "https://time.mk/c/c617bc06db/drzavata-ceka-oficijalno-izvestuvanje-od-bugarija-osudeniot-begalec-mihailov-dava-izjavi-na-tv-vo-sofija.html",
@@ -121,11 +121,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "IN MEMORIAM: Почина Јован Донев, еден од најголемите македонски интелектуалци | Булевар",
+      "title": "ГЕРМАНИЈА ПОСТИГНА ОГРОМЕН ПРОСПЕРИТЕТ БЛАГОДАРЕНИЕ НА ЕДИНСТВЕНАТА ВАЛУТА, изјави Јоаким Нагел, претседателот на Бундесбанка | Економија и Бизнис",
       "description": "",
-      "url": "https://time.mk/c/8d6e560383/in-memoriam-pocina-jovan-donev-eden-od-najgolemite-makedonski-intelektualci.html",
-      "image": "https://bulevar.mk/wp-content/uploads/2026/09/img_8474.jpeg",
-      "date": "Wed, 02 Sep 2026 16:24:47 +0000"
+      "url": "https://time.mk/c/0d1e16c5ea/germanija-postigna-ogromen-prosperitet-blagodarenie-na-edinstvenata-valuta-izjavi-joakim-nagel-pretsedatelot-na-bundesbanka.html",
+      "image": "",
+      "date": "Wed, 02 Sep 2026 20:00:46 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "(ВИДЕО) И во Неготино силно невреме со пороен дожд и силен ветер | Press24",
+      "description": "",
+      "url": "https://time.mk/c/d009c83ea1/video-i-vo-negotino-silno-nevreme-so-poroen-dozd-i-silen-veter.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/68644.jpg",
+      "date": "Wed, 02 Sep 2026 19:42:44 +0000"
     },
     {
       "category": "mkd",
@@ -139,65 +148,65 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Колку мирниот старт на работата на Собранието е затишје пред бура? | 24 Вести",
+      "title": "Во една земја полн резервоар гориво чини колку едно кафе | Фактор",
       "description": "",
-      "url": "https://time.mk/c/27ac6ce096/kolku-mirniot-start-na-rabotata-na-sobranieto-e-zatisje-pred-bura.html",
-      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1788363553/acekypg4z90ozymgemlk.jpg",
-      "date": "Wed, 02 Sep 2026 15:42:43 +0000"
+      "url": "https://time.mk/c/283b0efc2d/vo-edna-zemja-poln-rezervoar-gorivo-cini-kolku-edno-kafe.html",
+      "image": "https://faktor.mk/media/main/2026/09/20260902204210.jpg",
+      "date": "Wed, 02 Sep 2026 18:42:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВМРО-ДПМНЕ: СДС призна дека ја задолжиле државата како никој претходно, jа ограбија, осиромашија и уништија државата | ТВ21",
+      "title": "САМО КАЈ НАС СЕ ПРАВИ ОТПОР, А ВО ЕУ СЕ ТРКААТ ПО НИВ: Дата-центрите се чиста индустрија | Вечер",
       "description": "",
-      "url": "https://time.mk/c/7217323305/vmro-dpmne-sds-prizna-deka-ja-zadolzile-drzavata-kako-nikoj-prethodno-ja-ograbija-osiromasija-i-unistija-drzavata.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2020/10/sdsm-vmro.jpg",
-      "date": "Wed, 02 Sep 2026 11:40:48 +0000"
+      "url": "https://time.mk/c/44115a9735/samo-kaj-nas-se-pravi-otpor-a-vo-eu-se-trkaat-po-niv-data-centrite-se-cista-industrija.html",
+      "image": "https://cmsnebula.eu-central-1.linodeobjects.com/b79723b0-fe00-4f46-ae15-f16613a5853e/$f9c056eb-a4d3-4971-8caf-07e9ced482ea/stefan-andonovski-intervju-res-publica-2-1024x683.jpg",
+      "date": "Wed, 02 Sep 2026 11:20:54 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Јаневска: Наставниците не треба да мислат на платите, тие повторно ќе им се покачат во март следната година | 360 степени",
+      "title": "Вкупно 171 вработен во општина Кечиорен во Анкара позитивни на дрога | Бриф",
       "description": "",
-      "url": "https://time.mk/c/71e9340c9b/janevska-nastavnicite-ne-treba-da-mislat-na-platite-tie-povtorno-ke-im-se-pokacat-vo-mart-slednata-godina.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/09/Janevska.png",
-      "date": "Wed, 02 Sep 2026 12:24:51 +0000"
+      "url": "https://time.mk/c/079b8127dc/vkupno-171-vraboten-vo-opstina-kecioren-vo-ankara-pozitivni-na-droga.html",
+      "image": "https://www.brif.mk/wp-content/uploads/2025/05/ankara.jpg",
+      "date": "Wed, 02 Sep 2026 14:40:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Ердоган ја предупреди Грција да престане да ги вооружува островите: „Учете од минатото“ | ТВ21",
+      "title": "Келн обвинет дека ги попречува депортациите на мигранти од Западен Балкан | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/67b8588ba2/erdogan-ja-predupredi-grcija-da-prestane-da-gi-vooruzuva-ostrovite-ucete-od-minatoto.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2025/03/erdogan.jpg",
-      "date": "Wed, 02 Sep 2026 15:34:35 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "„Рајанер“: Поради дефект на грчкиот систем за контрола на летањето доцнеа 37 летови, погодени речиси 7.000 патници | Независен",
-      "description": "",
-      "url": "https://time.mk/c/57fe821f32/rajaner-poradi-defekt-na-grckiot-sistem-za-kontrola-na-letanjeto-docnea-37-letovi-pogodeni-recisi-7-000-patnici.html",
+      "url": "https://time.mk/c/4b4d98c25f/keln-obvinet-deka-gi-poprecuva-deportaciite-na-migranti-od-zapaden-balkan.html",
       "image": "",
-      "date": "Wed, 02 Sep 2026 16:18:35 +0000"
+      "date": "Wed, 02 Sep 2026 17:48:58 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ЕУ И НАТО ЈА ОБВИНИЈА РУСИЈА ЗА ЕСКАЛАЦИЈА ПО НАПАДОТ СО ДРОНОВИ ВО ЛАЈПЦИГ И ВЕТИЈА ДЕКА ЌЕ ОДГОВОРАТ | Сакам да кажам",
+      "title": "Медведев: Неонацистите заслужуваат директен удар врз Берлин | Фокус",
       "description": "",
-      "url": "https://time.mk/c/5f15cb9fe4/eu-i-nato-ja-obvinija-rusija-za-eskalacija-po-napadot-so-dronovi-vo-lajpcig-i-vetija-deka-ke-odgovorat.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/09/ooujbocpqe-v2-ax-w800h450.jpeg",
-      "date": "Wed, 02 Sep 2026 16:46:35 +0000"
+      "url": "https://time.mk/c/25df5da9f8/medvedev-neonacistite-zasluzuvaat-direkten-udar-vrz-berlin.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/09/medvedev-1170x671.jpg",
+      "date": "Wed, 02 Sep 2026 20:02:37 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Ескалираат тензиите меѓу Киев и Москва | 24 Вести",
+      "title": "Малтешкиот тајкун прогласен за невин за вмешаност во убиството на Дафне Каруана Галиција | Независен",
       "description": "",
-      "url": "https://time.mk/c/2952868122/eskaliraat-tenziite-megju-kiev-i-moskva.html",
-      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1788365545/usyyr1lug6e0lksiw9o8.jpg",
-      "date": "Wed, 02 Sep 2026 16:14:35 +0000"
+      "url": "https://time.mk/c/a1857113eb/malteskiot-tajkun-proglasen-za-nevin-za-vmesanost-vo-ubistvoto-na-dafne-karuana-galicija.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/07/dafne.jpg",
+      "date": "Wed, 02 Sep 2026 19:54:35 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "ВИДЕО | Половина Македонија вечерва е во невреме — пороен дожд и силен ветер во Струмица, Кичево, Тиквешијата… | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/91ac61a215/video-polovina-makedonija-vecerva-e-vo-nevreme-poroen-dozd-i-silen-veter-vo-strumica-kicevo-tikvesijata.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/kavadarci-nevreme-300x213.png",
+      "date": "Wed, 02 Sep 2026 20:24:49 +0000"
     },
     {
       "category": "mkd",
@@ -211,11 +220,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Адора“ купува државно земјиште за спортски објекти во Аеродром | Призма",
+      "title": "Лишено од слобода лице од Лешани кое се заканувало на лице и неговата сопруга пред семејниот дом | Охрид1",
       "description": "",
-      "url": "https://time.mk/c/1879253ddf/adora-kupuva-drzavno-zemjiste-za-sportski-objekti-vo-aerodrom.html",
-      "image": "https://prizma.mk/wp-content/uploads/2026/06/slika-plac-2-1024x1024.jpg",
-      "date": "Wed, 02 Sep 2026 13:34:43 +0000"
+      "url": "https://time.mk/c/4275766503/liseno-od-sloboda-lice-od-lesani-koe-se-zakanuvalo-na-lice-i-negovata-sopruga-pred-semejniot-dom.html",
+      "image": "https://ohrid1.com/wp-content/uploads/2022/01/svr-oh.jpg",
+      "date": "Wed, 02 Sep 2026 19:18:35 +0000"
     },
     {
       "category": "mkd",
@@ -229,11 +238,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Велешанец бил насила внесен во кола и претепан од својот татко во присуство на помладиот брат | Слободен Печат",
+      "title": "Селото Палчиште во општина Боговиње се празни – од 65 деца родени во 2020 година, 45 се во странство | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/6c59d19721/velesanec-bil-nasila-vnesen-vo-kola-i-pretepan-od-svojot-tatko-vo-prisustvo-na-pomladiot-brat.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2025/07/tepachka-188935-300x179.jpg",
-      "date": "Wed, 02 Sep 2026 12:44:36 +0000"
+      "url": "https://time.mk/c/7aa3ef9028/seloto-palciste-vo-opstina-bogovinje-se-prazni-od-65-deca-rodeni-vo-2020-godina-45-se-vo-stranstvo.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2026/09/dervis-cara-1024x581.jpg",
+      "date": "Wed, 02 Sep 2026 18:08:47 +0000"
     },
     {
       "category": "mkd",
@@ -247,11 +256,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Општина Прилеп за првпат обезбедува по 3.000 денари за секое прваче | Шеталиште",
+      "title": "ВИДЕО | Сидни Свини пристигна во Венеција во последен момент пред отворањето на Венецијанскиот филмски фестивал | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/73620f1205/opstina-prilep-za-prvpat-obezbeduva-po-3-000-denari-za-sekoe-prvace.html",
-      "image": "https://setaliste.mk/wp-content/uploads/2025/09/ucenici-150x150.webp",
-      "date": "Wed, 02 Sep 2026 13:26:37 +0000"
+      "url": "https://time.mk/c/2f9792c9ab/video-sidni-svini-pristigna-vo-venecija-vo-posleden-moment-pred-otvoranjeto-na-venecijanskiot-filmski-festival.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/profimedia-1130156560-300x200.jpg",
+      "date": "Wed, 02 Sep 2026 18:18:35 +0000"
     },
     {
       "category": "mkd",
@@ -261,15 +270,6 @@
       "url": "https://time.mk/c/0d13b596ec/skejtbordingot-go-otvora-a-debito-na-janikijevik-go-zatvora-braka-manaki-specijalnata-zlatna-kamera-300-za-kinematograferot-dzef-kronenvet.html",
       "image": "https://www.vecer.press/wp-content/uploads/2026/09/scateboarding-160-scaled.jpg",
       "date": "Wed, 02 Sep 2026 13:30:43 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Не е важно само што запеа, туку кој запеа - Карерас | Фактор",
-      "description": "",
-      "url": "https://time.mk/c/3464234c2f/ne-e-vazno-samo-sto-zapea-tuku-koj-zapea-kareras.html",
-      "image": "https://zenskimagazin.mk/media/main/2026/09/20260902121618.jpg",
-      "date": "Wed, 02 Sep 2026 11:42:37 +0000"
     }
   ],
   "de": [
@@ -458,6 +458,24 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "I Ditched My Bone-Conduction Headphones for These Noise-Cancelling Running Earbuds",
+      "description": "These solve the issues I have with my go-to open-ear headphones.",
+      "url": "https://lifehacker.com/health/jlab-noise-cancelling-earbuds-upgrade-of-the-week?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M1HMSXCGEBMCX1FD3Y5N22TJ/hero-image.jpg",
+      "date": "Wed, 02 Sep 2026 19:00:36 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "The Best Deals on Tools and Appliances From Home Depot's 2026 Early Labor Day Sale",
+      "description": "Save up to 50% on grills, landscaping equipment, outdoor lights, tools, security cameras, and more.",
+      "url": "https://lifehacker.com/tech/best-deals-home-depot-early-labor-day-sale?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M1018G47EMNCTFEXAAA2NWH1/hero-image.webp",
+      "date": "Wed, 02 Sep 2026 18:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "Lifehacker Early Labor Day Sale Live Blog: The Best Labor Day Deals, All in One Place",
       "description": "Follow for live updates as we share the best early Labor Day deals we can find.",
       "url": "https://lifehacker.com/tech/early-labor-day-sales-live-blog-09-02-2026?utm_medium=RSS",
@@ -616,24 +634,6 @@
       "url": "https://lifehacker.com/tech/amazon-best-apple-deals-early-labor-day-2026?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01M1E19WV2MAMB7EX9WXHGQEZ0/hero-image.png",
       "date": "Tue, 01 Sep 2026 13:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "Firefox Can Now Block Ads on iOS (but You Have to Enable It)",
-      "description": "The new feature will block most (but not all) ads.",
-      "url": "https://lifehacker.com/tech/how-to-block-ads-on-firefox-on-ios?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M0AY5FM8M3191TX9XV5HJTZG/hero-image.png",
-      "date": "Tue, 01 Sep 2026 13:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "This Blink Two-Camera Bundle Is 42% Off for Amazon's Early Labor Day Sale",
-      "description": "This Blink doorbell bundle covers your front door and an indoor space, with 2K video, two-way talk, and Alexa support.",
-      "url": "https://lifehacker.com/tech/blink-battery-doorbell-2k-plus-and-mini-2k-plus-early-labor-day-sale?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1E0A7EG37EXGYJNDR3JFV62/hero-image.png",
-      "date": "Tue, 01 Sep 2026 12:30:00 +0000"
     },
     {
       "category": "eng",
