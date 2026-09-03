@@ -1,6 +1,33 @@
 {
-  "updated": "2026-09-03T11:33:18.176258+00:00",
+  "updated": "2026-09-03T16:00:41.987441+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Google ги претстави Gemini 3.8 Flash и Gemini 3.8 Flash Cyber јазичните модели",
+      "description": "Google официјално ги објави новите верзии на своите јазични модели, Gemini 3.8 Flash и Gemini 3.8 Flash Cyber, а повторно, Flash моделот доаѓа само неколку недели по претходната верзија. Според информациите од компанијата, основната верзија 3.8 Flash ги нуди најдобрите перформанси досега во доменот на логичко заклучување и програмирање. Новиот модел ја задржува истата брзина […]",
+      "url": "https://smartportal.mk/novosti/ai/google-gi-pretstavi-gemini-3-8-flash-i-gemini-3-8-flash-cyber/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/gemini-3-8_flash__blog__header__.width-2200.format-webp-150x150.webp",
+      "date": "Thu, 03 Sep 2026 15:40:56 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Samsung Galaxy Z Fold8 први импресии",
+      "description": "По околу осум години тестирање на уредите на преклоп од Samsung, кои низ годините главно добиваа стандардни подобрувања, но не и драстични промени, оваа година ситуацијата е дефинитивно поразлична. Samsung, а јас би додал конечно, се одлучи да претстави поинаков формат кај својата Galaxy Z Fold серија. Така, новиот Galaxy Z Fold8 доаѓа со поширок […]",
+      "url": "https://smartportal.mk/novosti/uredi/samsung-galaxy-z-fold8-prvi-impresii/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/galaxy-z-fold8-smartportal-3-150x150.webp",
+      "date": "Thu, 03 Sep 2026 12:11:20 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "CERN ги префрла своите компјутери и системи на Debian 13",
+      "description": "CERN е во процес на масовна транзиција на својата контролна инфраструктура за акцелераторите, при што до крајот на 2026 година повеќе од 2.200 индустриски компјутери и вградени системи ќе почнат да користат Debian 13. Овие машини се дел од комплексот кој се протега на површина од 43 квадратни километри и се директно поврзани со приближно […]",
+      "url": "https://smartportal.mk/novosti/nauka-istrazuvanja/cern-debian-13/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Depositphotos_451638428_XL-f-150x150.webp",
+      "date": "Thu, 03 Sep 2026 11:40:42 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -66,138 +93,120 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Mozilla официјално го претстави вградениот „блокирач“ на реклами во Firefox на iOS",
-      "description": "Пред неколку недели пишувавме дека познатиот интернет прелистувач Firefox доби вграден „блокирач“ на реклами во својата верзија за iOS системот. Функцијата тогаш само што започна да им станува достапна на корисниците, па сега Mozilla и официјално ја најави истата. Во својата објава од Mozilla објаснуваат како функционира оваа нова функција во Firefox. Блокирањето на реклами […]",
-      "url": "https://smartportal.mk/novosti/softver-prog/mozilla-oficijalno-vgraden-blokirac-reklami-firefox-ios/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/iOS-AdBlocker-1-2048x1152.png-150x150.webp",
-      "date": "Wed, 02 Sep 2026 08:50:55 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Џон Тернус најавува големо претставување следната недела во својот прв меморандум како извршен директор на Apple",
-      "description": "Џон Тернус официјално ја презеде функцијата извршен директор на Apple на 1 септември, наследувајќи го Тим Кук кој ја водеше компанијата изминатите петнаесет години. Во своето прво интерно обраќање до вработените преку меморандум, Тернус веднаш го насочи вниманието кон она што претстои, најавувајќи големо претставување на нови производи кое е закажано за следната недела. Овој […]",
-      "url": "https://smartportal.mk/novosti/licnosti/john-ternus-najavuva-golemo-pretstavuvanje-slednata-nedela/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/01/john-ternus-2-150x150.webp",
-      "date": "Wed, 02 Sep 2026 08:02:53 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Apple од денес официјално има нов директор",
-      "description": "Од денес, после 15 години Тим Кук веќе не е главниот директор на Apple. На негово место од денеска позицијата ја презема Џон Тернус, а тој е само вториот директор по Стив Џобџ, односно по неговото враќање во компанијата и нејзиното, кратко кажано, „спасување“. Тим Кук сепак не ја напушта компанијата и може да се […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/apple-od-denes-ima-nov-direktor/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Depositphotos_894783826_XL-f-150x150.webp",
-      "date": "Tue, 01 Sep 2026 10:02:43 +0000"
+      "source": "Time.mk - All",
+      "title": "Судски процес за судијата Ѓоко Ристов | 24 Вести",
+      "description": "",
+      "url": "https://time.mk/c/7bde93534f/sudski-proces-za-sudijata-gjoko-ristov.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1788448681/rw6czxgeegjvyk9awv36.jpg",
+      "date": "Thu, 03 Sep 2026 15:20:41 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Мицкоски: По новата комунална механизација, следуваат и електрични автобуси | ТВ21",
+      "title": "Скопје наместо 40, доби 27 комунални возила, останатите ќе го собираат отпадот во други општини | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/eefcf49d44/mickoski-po-novata-komunalna-mehanizacija-sleduvaat-i-elektricni-avtobusi.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2026/09/mickoski-21-.png",
-      "date": "Thu, 03 Sep 2026 11:30:55 +0000"
+      "url": "https://time.mk/c/17273b248c/skopje-namesto-40-dobi-27-komunalni-vozila-ostanatite-ke-go-sobiraat-otpadot-vo-drugi-opstini.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/791248135_1615408870212396_2924340090182838318_n-300x200.jpg",
+      "date": "Thu, 03 Sep 2026 11:38:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Познат идентитетот на осомничените за криминал со регистрирање на возила | Press24",
+      "title": "Потпишете изјава дека нацрт-ДУП за „Барутана“ е безбеден по животот на граѓаните, повика Билјана Ивановска на презентацијата на планот | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/509665b35e/poznat-identitetot-na-osomnicenite-za-kriminal-so-registriranje-na-vozila.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/68773.jpg",
-      "date": "Thu, 03 Sep 2026 10:38:50 +0000"
+      "url": "https://time.mk/c/d1531bf13e/potpisete-izjava-deka-nacrt-dup-za-barutana-e-bezbeden-po-zivotot-na-gragjanite-povika-biljana-ivanovska-na-prezentacijata-na-planot.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/09/Biljana-Ivanovska-za-Barutana.jpg",
+      "date": "Thu, 03 Sep 2026 15:50:54 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Мицкоски тврди дека изјавата на маѓар не се однесува на земјите од Западен Балкан | Фактор",
+      "title": "Лукачиќ: Инвестициите главен двигател на растот на македонскиот БДП | Bloomberg Adria",
       "description": "",
-      "url": "https://time.mk/c/b984572d93/mickoski-tvrdi-deka-izjavata-na-magjar-ne-se-odnesuva-na-zemjite-od-zapaden-balkan.html",
-      "image": "https://faktor.mk/media/main/2026/09/20260903125123.jpg",
-      "date": "Thu, 03 Sep 2026 10:52:38 +0000"
+      "url": "https://time.mk/c/bdbcb378b2/lukacik-investiciite-glaven-dvigatel-na-rastot-na-makedonskiot-bdp.html",
+      "image": "https://mk.bloombergadria.com/data/images/2026-07-14/112289_depositphotos-182026768-l_f.jpg?timestamp=1788386400",
+      "date": "Thu, 03 Sep 2026 12:59:12 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Сега и Симеон Михаилов тврди дека е невин, сакале да му го земат бизнисот! | Независен",
+      "title": "Нов смртен случај од западнонилска треска | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/71c4ce0fdb/sega-i-simeon-mihailov-tvrdi-deka-e-nevin-sakale-da-mu-go-zemat-biznisot.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/ÑÐ¸Ð¼ÐµÐ¾Ð½-1024x672.jpg",
-      "date": "Thu, 03 Sep 2026 09:20:41 +0000"
+      "url": "https://time.mk/c/6fccaa398a/nov-smrten-slucaj-od-zapadnonilska-treska.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1788447038/kehp8kjlqvdbww6rkqpm.jpg",
+      "date": "Thu, 03 Sep 2026 14:54:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Нов смртен случај од западнонилска треска: Бројот на починати се искачи на седум | Скопје1",
+      "title": "Истрага за унгарскиот кредит | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/dbee228aa0/nov-smrten-slucaj-od-zapadnonilska-treska-brojot-na-pocinati-se-iskaci-na-sedum.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84005/conversions/text-max.jpg",
-      "date": "Thu, 03 Sep 2026 10:22:48 +0000"
+      "url": "https://time.mk/c/9f0a544d89/istraga-za-ungarskiot-kredit.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1788447322/eladvubfxeiyy1pqthk2.jpg",
+      "date": "Thu, 03 Sep 2026 14:58:46 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Жештините продолжуваат: Метеоаларм за цела Македонија | 4NEWS",
+      "title": "Димитриеска-Кочоска ги нарече „весела математика“ обвинувањата за задолжување од 1,3 милијарди евра | Независен",
       "description": "",
-      "url": "https://time.mk/c/7b91c0d958/zestinite-prodolzuvaat-meteoalarm-za-cela-makedonija.html",
-      "image": "https://4news.mk/wp-content/uploads/2026/09/meteoalarm.avif",
-      "date": "Thu, 03 Sep 2026 10:00:53 +0000"
+      "url": "https://time.mk/c/80a19e53e9/dimitrieska-kocoska-gi-narece-vesela-matematika-obvinuvanjata-za-zadolzuvanje-od-1-3-milijardi-evra.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/dimitrieska-kocoska-zadolzenost.jpg",
+      "date": "Thu, 03 Sep 2026 13:00:51 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Бум на фотоволтаици и струја од сонце: Ревизијата откри слабости и спорни дозволи | Deutsche Welle",
+      "title": "Раст на економијата со 4,3 % наспроти 65 отсто долг!? | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/9d5087a188/bum-na-fotovoltaici-i-struja-od-sonce-revizijata-otkri-slabosti-i-sporni-dozvoli.html",
-      "image": "https://static.dw.com/image/44852536_301.jpg",
-      "date": "Thu, 03 Sep 2026 08:48:45 +0000"
+      "url": "https://time.mk/c/683439fd4e/rast-na-ekonomijata-so-4-3-nasproti-65-otsto-dolg.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/76543.jpg",
+      "date": "Thu, 03 Sep 2026 13:54:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Скок од 21,9% во градежништвото го турна БДП над очекувањата | Пари",
+      "title": "Аларм во Романија: Западно нилската треска однесе три животи, регистрирани се 58 заразени | Фокус",
       "description": "",
-      "url": "https://time.mk/c/21a6ceba0e/skok-od-21-9-vo-gradeznistvoto-go-turna-bdp-nad-ocekuvanjata.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/09/gradeznistvo1.png",
-      "date": "Thu, 03 Sep 2026 11:24:37 +0000"
+      "url": "https://time.mk/c/0f70345431/alarm-vo-romanija-zapadno-nilskata-treska-odnese-tri-zivoti-registrirani-se-58-zarazeni.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/09/732490_profimedia-0509971187_f.jpg",
+      "date": "Thu, 03 Sep 2026 15:12:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "КУРТИ ПОВТОРНО ЈА ЗАТВОРА ВРАТАТА ЗА ЗСО Го спореди моделот за општините со Република Српска | +инфо",
+      "title": "Телото на Ратко Младиќ денеска пристигнува во Србија, Вучиќ најави големи безбедносни мерки | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/5e6dcb679b/kurti-povtorno-ja-zatvora-vratata-za-zso-go-sporedi-modelot-za-opstinite-so-republika-srpska.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2024/02/11965808.jpg",
-      "date": "Thu, 03 Sep 2026 09:18:50 +0000"
+      "url": "https://time.mk/c/f0f4042bf3/teloto-na-ratko-mladik-deneska-pristignuva-vo-srbija-vucik-najavi-golemi-bezbednosni-merki.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/64148/conversions/ratko-mladic-max.jpg",
+      "date": "Thu, 03 Sep 2026 12:34:53 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Албанија е преплавена од готовина, надвор од банкарскиот систем има 5,6 милијарди евра | Независен",
+      "title": "СМО предупредува: Ел Нињо ќе стане „многу силен“ – следуваат суши, поплави и екстремни горештини | Репортер",
       "description": "",
-      "url": "https://time.mk/c/f3f7e51bef/albanija-e-preplavena-od-gotovina-nadvor-od-bankarskiot-sistem-ima-5-6-milijardi-evra.html",
-      "image": "",
-      "date": "Thu, 03 Sep 2026 09:06:49 +0000"
+      "url": "https://time.mk/c/1bb63bc593/smo-predupreduva-el-ninjo-ke-stane-mnogu-silen-sleduvaat-susi-poplavi-i-ekstremni-gorestini.html",
+      "image": "https://reporter.mk/wp-content/uploads/2026/09/file_0000000017d8821081c282c51aaa1720-300x200.jpg",
+      "date": "Thu, 03 Sep 2026 15:44:41 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Ел Нињо ќе стане „многу силен“ и ќе донесе екстремно време во наредните месеци | Deutsche Welle",
+      "title": "Секој ден нов напад – дали е Германија во војна? | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/14a6e33689/el-ninjo-ke-stane-mnogu-silen-i-ke-donese-ekstremno-vreme-vo-narednite-meseci.html",
-      "image": "https://static.dw.com/image/69416648_301.jpg",
-      "date": "Thu, 03 Sep 2026 10:34:48 +0000"
+      "url": "https://time.mk/c/65f79cf7f4/sekoj-den-nov-napad-dali-e-germanija-vo-vojna.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/1-tekst-germanija.jpg",
+      "date": "Thu, 03 Sep 2026 14:36:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Обид за напад врз воен концерн во Минхен: Уапсени двајца Бугари | Deutsche Welle",
+      "title": "Ако помине ДУП-от „Барутана“, ќе се сечат 9.000 квадрати шума за над 20 „хациенди“ на ерозивно подрачје на Водно?! | Фокус",
       "description": "",
-      "url": "https://time.mk/c/51b1877d7e/obid-za-napad-vrz-voen-koncern-vo-minhen-uapseni-dvajca-bugari.html",
-      "image": "https://static.dw.com/image/78828724_301.jpg",
-      "date": "Thu, 03 Sep 2026 09:34:55 +0000"
+      "url": "https://time.mk/c/9bd0f2d611/ako-pomine-dup-ot-barutana-ke-se-secat-9-000-kvadrati-suma-za-nad-20-haciendi-na-erozivno-podracje-na-vodno.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/09/barutana.png",
+      "date": "Thu, 03 Sep 2026 12:02:54 +0000"
     },
     {
       "category": "mkd",
@@ -205,35 +214,35 @@
       "title": "(Видео) Стефковски: Гази Баба е едно големо градилиште со 168 конкретни проекти | Макфакс",
       "description": "",
       "url": "https://time.mk/c/f696e5cd38/video-stefkovski-gazi-baba-e-edno-golemo-gradiliste-so-168-konkretni-proekti.html",
-      "image": "",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/stefkovski-03.09.2026.webp",
       "date": "Thu, 03 Sep 2026 11:18:53 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Градскиот воз“ денеска вози редовно по синоќешното невреме, велат од Железници | 360 степени",
+      "title": "Парите од лажни извештаи за технички прегледи се „переле“ преку Супер брокер? | Пари",
       "description": "",
-      "url": "https://time.mk/c/0b45cfa886/gradskiot-voz-deneska-vozi-redovno-po-sinokesnoto-nevreme-velat-od-zeleznici.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/09/gradski-voz.jpg",
-      "date": "Thu, 03 Sep 2026 10:04:40 +0000"
+      "url": "https://time.mk/c/1329383f5d/parite-od-lazni-izvestai-za-tehnicki-pregledi-se-perele-preku-super-broker.html",
+      "image": "http://pari.com.mk/wp-content/uploads/2026/09/tehnicki-pregled.jpg",
+      "date": "Thu, 03 Sep 2026 09:44:39 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Паднала во автобус на ЈСП при кочење, тешко повредена 67-годишна жена | Скопје1",
+      "title": "Полицијата пронашла дрога во нивните домови - кратовец и струмичанец завршиле со лисици на рацете | Скопје инфо",
       "description": "",
-      "url": "https://time.mk/c/b1d8b864f7/padnala-vo-avtobus-na-jsp-pri-kocenje-tesko-povredena-67-godisna-zena.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/38804/conversions/avtobus-jsp-2-max.jpg",
-      "date": "Thu, 03 Sep 2026 11:14:48 +0000"
+      "url": "https://time.mk/c/0f86d74ae0/policijata-pronasla-droga-vo-nivnite-domovi-kratovec-i-strumicanec-zavrsile-so-lisici-na-racete.html",
+      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/septemvri/image-259491.jpg?itok=z7PS3jic",
+      "date": "Thu, 03 Sep 2026 13:56:44 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Четворица повредени во тешка сообраќајка на крстосницата кај „11 Октомври“ во Скопје | Скопје1",
+      "title": "ФОТО | Лешница ѝ ја враќаме на природата, изнесена е последната цевка од хидроцентралите, соопшти НП „Шар Планина“ | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/afbb7403d2/cetvorica-povredeni-vo-teska-soobrakajka-na-krstosnicata-kaj-11-oktomvri-vo-skopje.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/73681/conversions/text-max.jpg",
-      "date": "Thu, 03 Sep 2026 11:18:53 +0000"
+      "url": "https://time.mk/c/7e7ed2c7a7/foto-lesnica-i-ja-vrakame-na-prirodata-iznesena-e-poslednata-cevka-od-hidrocentralite-soopsti-np-sar-planina.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/Cevki-vo-Shar-Planina-foto-NP-Shar-Planina-3-300x169.jpg",
+      "date": "Thu, 03 Sep 2026 12:12:46 +0000"
     },
     {
       "category": "mkd",
@@ -247,32 +256,32 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Мојот дел од природата“ ги обедини природата, културата и заедницата во Преспа | Радио МОФ",
+      "title": "Сјај на мртва ѕвезда или вистински блесок | Окно",
       "description": "",
-      "url": "https://time.mk/c/74017af59e/mojot-del-od-prirodata-gi-obedini-prirodata-kulturata-i-zaednicata-vo-prespa.html",
-      "image": "https://www.radiomof.mk/wp-content/uploads/2026/09/Mojot-del-od-prirodata-2026-4.webp",
-      "date": "Thu, 03 Sep 2026 09:30:53 +0000"
+      "url": "https://time.mk/c/dd91434566/sjaj-na-mrtva-zvezda-ili-vistinski-blesok.html",
+      "image": "https://okno.mk/sites/default/files/images/naslovna-okno-nikola-gelevski.thumbnail.jpg",
+      "date": "Thu, 03 Sep 2026 14:42:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Промоција на творештвото на поетот Ендрју Риџвеј | Охрид1",
+      "title": "„Слаткаристика“, „Суперхикс“, „2 Бона“… – разиграни музичари и уште поразиграна публика (Фотогалерија) | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/190ea2a43e/promocija-na-tvorestvoto-na-poetot-endrju-ridzvej.html",
-      "image": "",
-      "date": "Thu, 03 Sep 2026 11:28:37 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Музички урнебес со „Слаткаристика“, „Суперхикс“, „2 Бона“… (Фотогалерија) | Вечер Прес",
-      "description": "",
-      "url": "https://time.mk/c/bd59806999/muzicki-urnebes-so-slatkaristika-superhiks-2-bona-fotogalerija.html",
+      "url": "https://time.mk/c/ed98627101/slatkaristika-superhiks-2-bona-razigrani-muzicari-i-uste-porazigrana-publika-fotogalerija.html",
       "image": "https://www.vecer.press/wp-content/uploads/2026/09/viber_image_2026-09-03_08-46-32-196.jpg",
-      "date": "Thu, 03 Sep 2026 09:54:49 +0000"
+      "date": "Thu, 03 Sep 2026 14:04:43 +0000"
     }
   ],
   "de": [
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Führerscheine im Dark Web: FBI jagt die Quelle von 153 Mio. Datensätzen",
+      "description": "Führerscheine im Dark Web: 153 Millionen Datensätze auf Nexus aufgetaucht. Das FBI untersucht, woher die sensiblen Identitätsdaten stammen. Der Artikel Führerscheine im Dark Web: FBI jagt die Quelle von 153 Mio. Datensätzen erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/szene/dark-commerce/fuehrerscheine-im-dark-web-333267.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/fuehrerscheine-im-dark-web",
+      "date": "Thu, 03 Sep 2026 15:24:41 +0000"
+    },
     {
       "category": "de",
       "source": "Tarnkappe",
@@ -443,197 +452,269 @@
       "url": "https://tarnkappe.info/listen/comic-downloads-websites-im-august-2026-333006.html",
       "image": "https://cdn.tarnkappe.info/wpimg/comic-downloads-websites-im-august-2026",
       "date": "Thu, 27 Aug 2026 10:09:22 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Hentai-Streaming: Portale für Streams und Download im August 2026",
-      "description": "Es hat sich einiges im Web getan, wenn es um Hentai-Streaming Portale geht. Manche bieten den Besuchern auch einen Download der Werke an. Der Artikel Hentai-Streaming: Portale für Streams und Download im August 2026 erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/listen/hentai-streaming-portale-fuer-streams-und-download-im-august-2026-332996.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/hentai-streaming-portale-fuer-streams-und-download-im-august-2026",
-      "date": "Wed, 26 Aug 2026 15:26:46 +0000"
     }
   ],
   "eng": [
     {
       "category": "eng",
       "source": "Lifehacker",
-      "title": "The Best Tech Deals From Amazon's 2026 Early Labor Day Sale",
-      "description": "TVs, headphones, soundbars, and kitchen appliances are as much as 44% off.",
-      "url": "https://lifehacker.com/tech/best-tech-deals-amazon-early-labor-day-sale-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M154WXDQ0G0PJGFPK4M1VV4C/hero-image.webp",
-      "date": "Wed, 02 Sep 2026 21:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "Lifehacker Early Labor Day Sale Live Blog: The Best Labor Day Deals, All in One Place",
-      "description": "Follow for live updates as we share the best early Labor Day deals we can find.",
-      "url": "https://lifehacker.com/tech/early-labor-day-sales-live-blog-09-02-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1CNXXEYPE51P194PSFGJZ9Z/hero-image.webp",
-      "date": "Wed, 02 Sep 2026 21:20:21 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "'Alexa for Shopping' Can Now Help You Spot a Spam Email",
-      "description": "Amazon's AI might be able to confirm whether or not the company is messaging you.",
-      "url": "https://lifehacker.com/tech/alexa-for-shopping-email-verification?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1HRKE4ZYS3529AP6YTZ0JMS/hero-image.jpg",
-      "date": "Wed, 02 Sep 2026 20:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "I Ditched My Bone-Conduction Headphones for These Noise-Cancelling Running Earbuds",
-      "description": "These solve the issues I have with my go-to open-ear headphones.",
-      "url": "https://lifehacker.com/health/jlab-noise-cancelling-earbuds-upgrade-of-the-week?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1HMSXCGEBMCX1FD3Y5N22TJ/hero-image.jpg",
-      "date": "Wed, 02 Sep 2026 19:00:36 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "The Best Deals on Tools and Appliances From Home Depot's 2026 Early Labor Day Sale",
-      "description": "Save up to 50% on grills, landscaping equipment, outdoor lights, tools, security cameras, and more.",
-      "url": "https://lifehacker.com/tech/best-deals-home-depot-early-labor-day-sale?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1018G47EMNCTFEXAAA2NWH1/hero-image.webp",
-      "date": "Wed, 02 Sep 2026 18:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "These Google Maps and Apple Maps Alternatives Still Call It ‘Lake Ontario’ (for Now)",
-      "description": "Both Google Maps and Apple Maps now call it \"Lake America.\"",
-      "url": "https://lifehacker.com/tech/these-google-maps-alternatives-till-call-it-lake-ontario?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1BYW1W1RE05RNDHRRMSVER3/hero-image.jpg",
-      "date": "Wed, 02 Sep 2026 15:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "Here's How AI Watermarks Work (and How to Properly Check for One)",
-      "description": "Though not foolproof, they're a helpful tool for spotting fake images.",
-      "url": "https://lifehacker.com/tech/how-does-ai-watermarking-work-and-how-can-i-check-for-one?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1CQ1MDR4Q4EZQDQF05A30WX/hero-image.jpg",
-      "date": "Wed, 02 Sep 2026 14:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "The Seven Coolest Inventions From 'DEF CON' 2026",
-      "description": "The world's largest hacker convention showcased these cutting-edge devices and platforms.",
-      "url": "https://lifehacker.com/tech/coolest-inventions-from-def-con-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1CYQ42P8WBXB6CX54597XXJ/hero-image.jpg",
-      "date": "Wed, 02 Sep 2026 14:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "Here's How to Protect Your Privacy If Someone Is Recording You With Their Glasses",
-      "description": "Now that the so-called \"pervert glasses\" are becoming more ubiquitous, how do you stop someone from recording you?",
-      "url": "https://lifehacker.com/tech/protect-privacy-meta-glasses-recording?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1FKX32TQW9P0BJ8AZXX4YME/hero-image.jpg",
-      "date": "Wed, 02 Sep 2026 13:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "These Samsung Monitors Are up to 39% Off for Amazon’s Early Labor Day Sale",
-      "description": "You can save up to $240 on Samsung Odyssey gaming monitors and ViewFinity displays, with deals starting at $149.99.",
-      "url": "https://lifehacker.com/tech/best-samsung-monitor-deals-amazon-early-labor-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1GPA0NFKK5SNV27J31ZX3JJ/hero-image.png",
-      "date": "Wed, 02 Sep 2026 13:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "This Philips Smart Lock Is 23% Off for Amazon's Early Labor Day Sale",
-      "description": "This smart lock offers a keyless door lock setup with handles, now at its best price.",
-      "url": "https://lifehacker.com/tech/philips-wifi-smart-lock-early-labor-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01KMZ565Q8XR6MNX566Q938DPE/hero-image.png",
-      "date": "Wed, 02 Sep 2026 12:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "This Is Your Last Chance to Win a New Apple Watch From Lifehacker",
-      "description": "Today is your last chance to predict what Apple will announce later this year.",
-      "url": "https://lifehacker.com/tech/big-guessing-game-apple-edition-round-3?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01KZY3X2EBTRDJGZR4ETEYWCBP/hero-image.png",
-      "date": "Wed, 02 Sep 2026 03:59:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "The Best Deals From Best Buy's Early Labor Day Sale 2026",
-      "description": "Snatch Apple deals, laptops, TVs, headphones, and more during the early sale.",
-      "url": "https://lifehacker.com/tech/best-deals-from-best-buys-early-labor-day-sale-2026?utm_medium=RSS",
+      "title": "The Best Deals From Best Buy's Labor Day Sale 2026",
+      "description": "Snatch Apple deals, laptops, TVs, headphones, and more during the sale.",
+      "url": "https://lifehacker.com/tech/best-deals-from-best-buys-labor-day-sale-2026?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01M1FD8DDV9EYFJ1Q3FA5Z4GWF/hero-image.webp",
-      "date": "Tue, 01 Sep 2026 21:30:34 +0000"
+      "date": "Thu, 03 Sep 2026 15:50:06 +0000"
     },
     {
       "category": "eng",
       "source": "Lifehacker",
-      "title": "10 Apple Health Hacks Every iPhone User Should Know",
-      "description": "You don't need an Apple Watch to get great health insights from Apple.",
-      "url": "https://lifehacker.com/health/best-apple-health-hacks?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1CJECG4YEMFCT5ZCS51M77H/hero-image.jpg",
-      "date": "Tue, 01 Sep 2026 21:00:00 +0000"
+      "title": "These DeWalt Tools Are up to 50% Off for the Lowe's Labor Day Sale",
+      "description": "Get your long weekend projects done under budget with these deals on DeWalt tools at Lowe's.",
+      "url": "https://lifehacker.com/home/dewalt-tools-sale-lowes-labor-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M15BM7C17T7S4RDF08AE19G7/hero-image.png",
+      "date": "Thu, 03 Sep 2026 15:47:24 +0000"
     },
     {
       "category": "eng",
       "source": "Lifehacker",
-      "title": "You Can Still Get a Nintendo Switch 2 for $400 During Woot's Early Labor Day Sale",
-      "description": "Nintendo’s console now costs $499.99, but this refurbished Switch 2 (with original accessories) is on sale for $399.99 in an early Labor Day deal.",
-      "url": "https://lifehacker.com/tech/nintendo-switch-2-deal-early-labor-day-2026?utm_medium=RSS",
+      "title": "The Garmin Venu 3 Is Over $150 Off for Amazon’s 2026 Labor Day Sale",
+      "description": "This is the lowest price ever for this premium smartwatch.",
+      "url": "https://lifehacker.com/tech/garmin-venu-3-deal-amazon-labor-day-sale-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M1KXMJJ3N0WG5PHX92GZC8HR/hero-image.png",
+      "date": "Thu, 03 Sep 2026 15:47:07 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "The Best Tech Deals From Amazon's 2026 Labor Day Sale",
+      "description": "TVs, headphones, soundbars, and kitchen appliances are as much as 44% off.",
+      "url": "https://lifehacker.com/tech/best-tech-deals-amazon-labor-day-sale-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M154WXDQ0G0PJGFPK4M1VV4C/hero-image.webp",
+      "date": "Thu, 03 Sep 2026 15:44:58 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "The Best Fitness Deals From Amazon's Labor Day Sale so Far",
+      "description": "Summer may be coming to a close, but these fitness deals are just heating up.",
+      "url": "https://lifehacker.com/health/the-best-fitness-deals-from-amazons-labor-day-sale?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M14NZ8RRXWXZV7AWKZXN0V11/hero-image.jpg",
+      "date": "Thu, 03 Sep 2026 15:41:19 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "The Best Fitness Deals Under $100 From Amazon's Labor Day Sale",
+      "description": "Headphones, dumbbells, and accessories are already seeing significant discounts running up to Labor Day.",
+      "url": "https://lifehacker.com/health/best-fitness-deals-under-100-amazon-early-labor-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M1CCEWVWECB00PPMYM04V8ZV/hero-image.jpg",
+      "date": "Thu, 03 Sep 2026 15:38:07 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "You Can Still Get a Nintendo Switch 2 for $400 During Woot's Labor Day Sale",
+      "description": "Nintendo’s console now costs $499.99, but this refurbished Switch 2 (with original accessories) is on sale for $399.99 for Labor Day.",
+      "url": "https://lifehacker.com/tech/nintendo-switch-2-deal-labor-day-2026?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01M1F8VAYJ7W35XG71MKRNA0D7/hero-image.png",
-      "date": "Tue, 01 Sep 2026 20:30:18 +0000"
+      "date": "Thu, 03 Sep 2026 15:36:03 +0000"
     },
     {
       "category": "eng",
       "source": "Lifehacker",
-      "title": "Amazon Prime Members Can Get Two Free E-Books in September",
-      "description": "Choose from a list of titles hand-picked by Amazon editors.",
-      "url": "https://lifehacker.com/free-kindle-books-september-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01HN0ZP8S1KSR9CY579D4F5JF6/hero-image.png",
-      "date": "Tue, 01 Sep 2026 20:00:00 +0000"
+      "title": "The Best Deals on Apple Devices During Amazon's Labor Day Sale 2026",
+      "description": "Amazon is featuring discounts across Apple’s lineup, from $99 AirPods to $500 off a 2026 M5 Max MacBook Pro.",
+      "url": "https://lifehacker.com/tech/best-apple-deals-amazon-early-labor-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M1E19WV2MAMB7EX9WXHGQEZ0/hero-image.png",
+      "date": "Thu, 03 Sep 2026 15:33:49 +0000"
     },
     {
       "category": "eng",
       "source": "Lifehacker",
-      "title": "Five Sleep-Tracking Hacks Every Garmin User Should Know",
-      "description": "If you're going to train hard, you need to know how to recover hard, too.",
-      "url": "https://lifehacker.com/health/best-garmin-sleep-tracking-hacks?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1C69XSV15SMH2HHSFQC1555/hero-image.jpg",
-      "date": "Tue, 01 Sep 2026 19:30:00 +0000"
+      "title": "I Tried Gemini 3.8 Flash, Google’s Latest AI Upgrade, and It (Mostly) Lives Up to the Hype",
+      "description": "Gemini 3.8 Flash is faster and better at completing complex tasks, though for now you have to pay for it.",
+      "url": "https://lifehacker.com/tech/gemini-38-flash-mostly-lives-up-to-hype?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M1KWFN897E0FNX5AJWNB1WDA/hero-image.jpg",
+      "date": "Thu, 03 Sep 2026 15:30:00 +0000"
     },
     {
       "category": "eng",
       "source": "Lifehacker",
-      "title": "The Samsung Galaxy S25+ Is $320 Off During Amazon's Early Labor Day Sale",
+      "title": "The Best Deals on Tools and Appliances From Home Depot's 2026 Labor Day Sale",
+      "description": "Save up to 50% on grills, landscaping equipment, outdoor lights, tools, security cameras, and more.",
+      "url": "https://lifehacker.com/tech/best-deals-home-depot-labor-day-sale?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M1018G47EMNCTFEXAAA2NWH1/hero-image.webp",
+      "date": "Thu, 03 Sep 2026 15:27:32 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "These 65-Inch TVs Are up to $1,200 Off During Amazon's Labor Day Sale",
+      "description": "You can find some great discounts on TVs from LG, Samsung, Sony, and more.",
+      "url": "https://lifehacker.com/tech/65-inch-tvs-amazons-best-labor-day-sale-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M1CEAKZ392KJEYY9R7PA4C0E/hero-image.png",
+      "date": "Thu, 03 Sep 2026 15:18:27 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "A Bunch of AI Platforms Are Down, Including ChatGPT",
+      "description": "If you're having trouble accessing ChatGPT, Claude, or Grok, you're not alone.",
+      "url": "https://lifehacker.com/tech/ai-platforms-like-chatgpt-are-down?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M1KWR1YF10P1AYZV8PVSSBNG/hero-image.jpg",
+      "date": "Thu, 03 Sep 2026 15:11:38 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This 65-Inch LG OLED TV Is $600 Off in Amazon’s Labor Day Sale",
+      "description": "This is a great value for a 2026 OLED with gamer-friendly features.",
+      "url": "https://lifehacker.com/tech/65-inch-lg-oled-tv-sale-labor-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M1CQD8XCDEECA819MVM8KDDJ/hero-image.png",
+      "date": "Thu, 03 Sep 2026 14:55:44 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "The Samsung Galaxy S25+ Is $320 Off During Amazon's Labor Day Sale",
       "description": "The Galaxy S25+ is still an impressive Android in 2026.",
-      "url": "https://lifehacker.com/tech/samsung-galaxy-s25-plus-sale-early-labor-day-2026?utm_medium=RSS",
+      "url": "https://lifehacker.com/tech/samsung-galaxy-s25-plus-sale-labor-day-2026?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01JYM4YHQJ9PH0D6TMHDD4CJ29/hero-image.png",
-      "date": "Tue, 01 Sep 2026 19:00:00 +0000"
+      "date": "Thu, 03 Sep 2026 14:53:06 +0000"
     },
     {
       "category": "eng",
       "source": "Lifehacker",
-      "title": "10 Shows Like 'Reacher' You Should Watch Next",
-      "description": "More binge-worthy, often book-based crime dramas about heroic loners.",
-      "url": "https://lifehacker.com/entertainment/best-shows-like-reacher?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1CNJ77D5DKJ2M0EH5XF21DK/hero-image.jpg",
-      "date": "Tue, 01 Sep 2026 17:00:06 +0000"
+      "title": "These Signature Sony Headphones Are on Sale for Under $200 for Amazon's Labor Day Sale",
+      "description": "You can get the still amazing 2022 flagship headphones for 50% off.",
+      "url": "https://lifehacker.com/tech/sony-wh-1000xm5-headphones-sale-labor-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01J5R8K2SBTJDTSYWN3F1QS498/hero-image.png",
+      "date": "Thu, 03 Sep 2026 14:50:36 +0000"
     },
     {
       "category": "eng",
       "source": "Lifehacker",
-      "title": "These Alienware Gaming Monitors Are Up to $150 Off for Amazon’s Early Labor Day Sale",
+      "title": "These Are the Best Labor Day Deals on VPNs, up to 87% Off",
+      "description": "You can get up to 87% off on top VPNs like Nord VPN, IPVanish, and Surfshark.",
+      "url": "https://lifehacker.com/tech/best-vpn-deals-labor-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M150960DKGM6TTEPDFTTFCDW/hero-image.jpg",
+      "date": "Thu, 03 Sep 2026 14:48:49 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "These Samsung Monitors Are up to 39% Off for Amazon’s Labor Day Sale",
+      "description": "You can save up to $240 on Samsung Odyssey gaming monitors and ViewFinity displays, with deals starting at $149.99.",
+      "url": "https://lifehacker.com/tech/best-samsung-monitor-deals-amazon-labor-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M1GPA0NFKK5SNV27J31ZX3JJ/hero-image.png",
+      "date": "Thu, 03 Sep 2026 14:46:22 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "These Alienware Gaming Monitors Are Up to $150 Off for Amazon’s Labor Day Sale",
       "description": "This is a great value on a curved gaming monitor.",
-      "url": "https://lifehacker.com/tech/alienware-34-curved-gaming-monitors-sale-early-labor-day-2026?utm_medium=RSS",
+      "url": "https://lifehacker.com/tech/alienware-34-curved-gaming-monitors-sale-labor-day-2026?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01M1EQ9NJDE1S4P9CD908QKXY0/hero-image.jpg",
-      "date": "Tue, 01 Sep 2026 16:35:11 +0000"
+      "date": "Thu, 03 Sep 2026 14:44:28 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Philips Smart Lock Is 23% Off for Amazon's Labor Day Sale",
+      "description": "This smart lock offers a keyless door lock setup with handles, now at its best price.",
+      "url": "https://lifehacker.com/tech/philips-wifi-smart-lock-labor-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01KMZ565Q8XR6MNX566Q938DPE/hero-image.png",
+      "date": "Thu, 03 Sep 2026 14:39:24 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Blink Doorbell Bundle Is 45% Off for Amazon's Labor Day Sale",
+      "description": "This is an affordable way to make your front door easier to monitor.",
+      "url": "https://lifehacker.com/tech/blink-2k-doorbell-bundle-deal-labor-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M1CBKC3J14JC5BRHAKYD4744/hero-image.png",
+      "date": "Thu, 03 Sep 2026 14:37:17 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Lenovo’s fanless laptop makes AirJet feel real at last",
+      "description": "In 2022, I broke the story on Frore Systems and its AirJet Mini and AirJet Pro , two solid-state cooling solutions that could replace traditional fans in laptops. Since then, readers have been grumbling: “Where are they? Is the AirJet just vaporware?” Apparently not, as Lenovo has built them into its Project AeroBlade concept that will ship, at a guess, in 2027. Here’s what the AeroBlade concept means: By using Frore’s solution, Lenovo can eliminate traditional fans and therefore shave off weigh",
+      "url": "https://www.pcworld.com/article/3223944/lenovos-fanless-laptop-makes-airjet-feel-real-at-last.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3223944-0-22622400-1788451278-Lenovo-ThinkBook-AeroBlade-concept-edge.jpg?quality=50&strip=all",
+      "date": "Thu, 03 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Nvidia wants to turn your house of gaming PCs into an AI supercomputer",
+      "description": "Nvidia and its partners are ready to roll out new RTX Spark-powered devices in October, shoving the GPU goliath into the CPU spotlight with a beastly first processor that’s augmented by powerful integrated graphics. It’s all to chase the allure of local AI. And to set the stage, at IFA Berlin 2026, Nvidia is introducing new software designed to turn your RTX-powered gaming household into a miniature AI factory of its own. Nvidia Dubbed Nvidia PAIR (short for “Personal AI Router”), the free appli",
+      "url": "https://www.pcworld.com/article/3226013/nvidia-wants-to-turn-your-house-of-gaming-pcs-into-an-ai-supercomputer.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3226013-0-41305400-1788451229-GeForce-RTX-5080-Slim-stacked-on-top-of-RTX-5090.jpg?quality=50&strip=all",
+      "date": "Thu, 03 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Lenovo made a ThinkBook that literally stretches sideways",
+      "description": "At CES 2026, we saw a Lenovo gaming laptop that slowly unrolled into a widescreen laptop. At IFA, we’re seeing a second: a ThinkBook prototype that Lenovo is calling “Project Swan.” Let’s face it: Lenovo seems to have this rollable laptop concept sewn up. Lenovo’s ThinkBook Plus Rollable from last year was all about productivity: the $3,299 laptop included a screen which extended upwards from 14 inches to create a 16.7-inch display. Now Lenovo has gone in the opposite direction. Since Project Sw",
+      "url": "https://www.pcworld.com/article/3224877/lenovos-project-swan-is-its-thinkbook-widescreen-rollable.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3224877-0-38382200-1788451314-20260818_155249.jpg?quality=50&strip=all",
+      "date": "Thu, 03 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Oukitel’s new rugged laptop charges via sunlight and survives water jets",
+      "description": "Oukitel, a Chinese consumer electronics company with a 10-year pedigree, just unveiled its new RG14-P laptop at IFA 2026 in Berlin. What makes this laptop unique is that it’s not only exceptionally durable but can also charge its own battery using solar power, reports Notebookcheck . According to Oukitel, the laptop’s solar panels can generate up to 15 watts. That should be enough to charge the 95 watt-hour battery from 0 to 50 percent in around six hours. The laptop’s battery also consists of a",
+      "url": "https://www.pcworld.com/article/3226571/oukitels-new-rugged-laptop-charges-via-sunlight-and-survives-water-jets.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3226571-0-96607000-1788447765-Oukitel-RG14-P3.jpg?quality=50&strip=all",
+      "date": "Thu, 03 Sep 2026 15:01:40 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Never defragment your SSD. Do this instead to keep it in tip-top shape",
+      "description": "Remember when you had to defragment your hard drive regularly? With traditional HDDS, this made sense because files could become fragmented into small pieces over a period of time. The mechanical read head then had to jump across the magnetic platters to find all the pieces of a file, which slowed the system down. Defragmentation programs reorganized the data and ensured that files were stored contiguously again. With SSDs, however, data storage works differently. Instead of moving parts, they u",
+      "url": "https://www.pcworld.com/article/3222010/never-defragment-your-ssd-do-this-instead-to-keep-it-in-tip-top-shape.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3222010-0-11432100-1788447635-Seagate-NVMe-SSD_RGBeci.jpg?quality=50&strip=all",
+      "date": "Thu, 03 Sep 2026 15:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "School’s starting. Please stop doxxing your kids",
+      "description": "Kids are cute. Kids having their very first day of school are absolutely adorable. (Same for teens on the cusp of graduating into adulthood, but don’t tell them that.) Not cute: You accidentally enabling the theft of your child’s identity—or far worse, the creation of sexually exploitive material with your kid’s face. As school starts, my social feeds have exploded with “first day of school” signboards photos. Mateo is five years old, likes green and butterflies, wants to be a dinosaur when he g",
+      "url": "https://www.pcworld.com/article/3223862/schools-starting-please-stop-doxxing-your-kids.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3223862-0-94306800-1788444060-signboard_etsy.jpg?quality=50&strip=all",
+      "date": "Thu, 03 Sep 2026 14:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Microsoft Defender is falsely flagging Google links as malicious",
+      "description": "Even though Microsoft Defender is more than enough security on its own , its reputation has taken a bit of a hit this year. Over the last few months, vulnerabilities like RedSun and RoguePlanet were discovered (and later patched), while just last month Defender was showing false warnings that it was disabled even when it wasn’t . The latest Defender issue to crop up is that it’s now incorrectly classifying Google links as malicious, reports Neowin . Specifically affecting Microsoft Defender for ",
+      "url": "https://www.pcworld.com/article/3226572/microsoft-defender-is-falsely-flagging-google-links-as-malicious.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3226572-0-07607600-1788443976-Microsoft-Defender-Antivirus-on-Windows-11-dark-background.jpg?quality=50&strip=all",
+      "date": "Thu, 03 Sep 2026 13:59:20 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "How ad-free streaming became so much less affordable",
+      "description": "Ad-free streaming used to be one of the biggest benefits of cutting the cable TV cord. Now it’s become a luxury. Inspired by some new research into the growing price gap between ad-supported and ad-free streaming, I decided to calculate how much the cost to avoid commercials has increased over time. Depending on which services you have, you could be paying an extra $42.50 just to skip ads, up 60 percent from a few years ago. Not all hope is lost for affordable ad-free TV, but you might have to g",
+      "url": "https://www.pcworld.com/article/3226121/how-ad-free-streaming-became-so-much-less-affordable.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3226121-0-92784300-1788440423-hbomaxplans.jpg?quality=50&strip=all",
+      "date": "Thu, 03 Sep 2026 13:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Microsoft OneDrive wants to back up everything. You don’t have to let it",
+      "description": "Microsoft’s OneDrive cloud backup: It’s one of the more polarizing features within Windows, an annoyance as much as a utility. It’s getting better, fortunately — or at least it looks that way. Windows Latest is getting credit for noticing that Windows is apparently allowing you to opt out of Windows Backup by way of OneDrive as part of the out-of-the-box (OOBE) process of setting up a new PC. Previously Windows simply kicked that decision down the road for a period of three days; now, you can op",
+      "url": "https://www.pcworld.com/article/3223851/microsofts-onedrive-love-it-hate-it-manage-it.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3223851-0-72608400-1788436863-OneDrive-logo-with-gear-final.png",
+      "date": "Thu, 03 Sep 2026 12:00:00 +0000"
     },
     {
       "category": "eng",
@@ -643,87 +724,6 @@
       "url": "https://www.pcworld.com/article/2530811/buying-a-usb-c-cable-beware-these-6-hidden-traps.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/09/2530811-0-60722600-1788432331-USB_C_A_1.jpg?quality=50&strip=all",
       "date": "Thu, 03 Sep 2026 10:45:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "TechCrunch Disrupt: Find the Startups Everyone Will Talk About Next",
-      "description": "TechCrunch Disrupt Tickets Save 25% with PCWORLD25 Don’t miss one of the year’s biggest startup events Book Now Disrupt. Could there possibly be a more apt word to describe what AI is doing to tech startups in 2026? Conveniently, you can put yourself smack dab in the middle of that disruptive startup energy at TechCrunch Disrupt 2026 , Oct 13 through Oct 15 in San Francisco. TechCrunch Disrupt is ground zero for tech innovators, start-up visionaries, and VC leaders. And now PCWorld is happy to p",
-      "url": "https://www.pcworld.com/article/3201264/techcrunch-disrupt-find-the-startups-everyone-will-talk-about-next.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3201264-0-53677400-1788430130-Disrupt-Speakers.jpg?quality=50&strip=all",
-      "date": "Thu, 03 Sep 2026 10:08:36 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Get lifetime ad blocking for your whole family for $11 — sale ends today",
-      "description": "TL;DR: Get lifetime access to an AdGuard Family Plan for up to nine devices for $11 (MSRP $169.99). It blocks ads and trackers, helps protect against malware and phishing, and includes parental controls. The deal ends today, September 3, at 11:59pm Pacific. The internet is already noisy enough without every website throwing pop-ups, banners, trackers, and autoplay ads at you. AdGuard Family helps clean things up by blocking ads while adding privacy, malware, and parental controls in one package.",
-      "url": "https://www.pcworld.com/article/3224772/get-lifetime-ad-blocking-for-your-whole-family-for-11-sale-ends-today.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3224772-0-34446000-1788422436-AdGuard-Fam.jpg?quality=50&strip=all",
-      "date": "Thu, 03 Sep 2026 08:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Best laptops 2026: Premium, budget, gaming, 2-in-1, and more",
-      "description": "PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 70 laptops every year. Our reviews span PC laptops at every price point to meet the needs of any budget, from affordable everyday laptops to powerful gaming machines . Let our extensive hands-on experience help you with your laptop purchasing decision. Because while shopping for a laptop can start out simple enough, it often ends with a dozen open tabs full of specs you don’t",
-      "url": "https://www.pcworld.com/article/436674/best-pc-laptops.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/436674-0-99512500-1788364839-best-budget-laptops.jpg?quality=50&strip=all",
-      "date": "Wed, 02 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "When did mini-LED monitors get so friggin’ cheap?!",
-      "description": "While I was waiting for OLED monitor prices to plummet, another revolution quietly happened underneath my nose. Mini-LED monitors, a luscious OLED rival, are surprisingly cheap now? Like, “you can find plenty under $300 and some under $200 ” kind of cheap. When the hell did that happen? I was inspired to look because Acer announced a slick-looking new mini-LED monitor at IFA this morning. The Acer Nitro XV275U Z2 will cost just $329 when it launches later this year, giving you a stunning 1,000 n",
-      "url": "https://www.pcworld.com/article/3225867/when-did-mini-led-monitors-get-so-friggin-cheap.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3225867-0-64246900-1788364366-Acer-Nitro-XV275U-Z2-Straight-On-resize.jpg?quality=50&strip=all",
-      "date": "Wed, 02 Sep 2026 15:52:08 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Windows 11 will now only make you restart once a month for updates",
-      "description": "Microsoft now bundles updates for drivers, the .NET Framework, and firmware together with the regular security updates that go out on Patch Tuesday every month. This consolidation brings one huge advantage to Windows users: your Windows 11 PC now only needs to be restarted once a month to remain up-to-date and secure. As reported by Windows Latest , this change affects Windows 11 versions 24H2, 25H2, and 26H1. Microsoft began rolling out this update bundle to compatible computers at the end of J",
-      "url": "https://www.pcworld.com/article/3225660/windows-11-will-now-only-make-you-restart-once-a-month-for-updates.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3225660-0-06250600-1788363966-image_6c9626.png",
-      "date": "Wed, 02 Sep 2026 15:45:51 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Claude Fable 5.1 sometimes guesses rather than searches. Here’s the fix",
-      "description": "If you’re an experienced Claude user, here’s a phrase you know all too well: “Let me check rather than guess.” It’s one of those little Claude-isms that pops up every so often in Claude Code and other Claude platforms, right up there with “One thing worth flagging” and “Here’s the honest version.” In this context, “Let me check rather than guess” is Claude’s way of saying it’s about to kick off a web search rather than relying on its native memory, which has a cutoff date that can be weeks or ev",
-      "url": "https://www.pcworld.com/article/3225815/claude-fable-5-1-sometimes-guesses-rather-than-searches-heres-the-fix.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3225815-0-10054800-1788361851-Claude-app.jpg?quality=50&strip=all",
-      "date": "Wed, 02 Sep 2026 15:10:34 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "How to reorder PDF pages quickly and easily",
-      "description": "Need to rearrange the pages in a PDF without uploading the file to an online service? PDF Arranger lets you do exactly that. With multi-page PDF files, you may sometimes need to rearrange the pages. This isn’t possible with Acrobat Reader, and most other PDF viewers don’t support this either. The downside with using an online tool such as PDF24 is that you have no control over who can access your PDF. A simple but effective local solution is the open-source software PDF Arranger. On GitHub, clic",
-      "url": "https://www.pcworld.com/article/3219079/how-to-reorder-pdf-pages-quickly-and-easily.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3219079-0-69730600-1788361223-avm_x06.jpg?quality=50&strip=all",
-      "date": "Wed, 02 Sep 2026 15:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "TP-Link’s first Wi-Fi 8 router promises speed and fewer dropped connections",
-      "description": "Ahead of the IFA 2026 tech trade fair in Berlin, TP-Link has unveiled the first products in its all-new Wi-Fi 8 lineup, including the Archer 8 Ultra router and the Deco 8 Ultra mesh system, both of which are based on the IEEE 802.11bn standard (also known as UHR or Wi-Fi 8). Unlike previous Wi-Fi generations, which focused on increasing top data transfer speeds, Wi-Fi 8 is mainly designed to improve stability for more consistent connections. Hence, it being called UHR (Ultra High Reliability). W",
-      "url": "https://www.pcworld.com/article/3225661/tp-links-first-wi-fi-8-router-promises-speed-and-fewer-dropped-connections.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3225661-0-83313000-1788360400-TP-link-archer-8-deco-8.jpg?quality=50&strip=all",
-      "date": "Wed, 02 Sep 2026 14:46:26 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Firefox 155 patches 30 security flaws, adds sortable tab groups",
-      "description": "The newest major release of Firefox 155 for Windows, macOS, Linux, and Android brings a number of improvements, including support for Nintendo Switch Pro controllers and sortable tab groups. Mozilla has also patched over 30 security vulnerabilities, and updates are also available for the ESR versions of Firefox for older systems. The release of the next major version, Firefox 156, is already scheduled for September 15th, with time for a bug-fix update on September 8th. What’s new in Firefox 155?",
-      "url": "https://www.pcworld.com/article/3225663/firefox-155-patches-30-security-flaws-adds-sortable-tab-groups.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3225663-0-49108100-1788358242-Firefox-foto-mozilla.png",
-      "date": "Wed, 02 Sep 2026 14:09:31 +0000"
     }
   ],
   "starwars": [
