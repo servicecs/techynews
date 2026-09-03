@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T21:50:37.112244+00:00",
+  "updated": "2026-09-03T23:50:29.084765+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -103,6 +103,15 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
+      "title": "Ѓорѓиевски: Покрај новите камиони, пристигнуваат и повеќе од 3.300 нови контејнери | 4NEWS",
+      "description": "",
+      "url": "https://time.mk/c/523447e084/gjorgjievski-pokraj-novite-kamioni-pristignuvaat-i-poveke-od-3-300-novi-kontejneri.html",
+      "image": "https://4news.mk/wp-content/uploads/2025/11/orce-gjorgjievski-3-1024x684.avif",
+      "date": "Thu, 03 Sep 2026 16:44:37 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
       "title": "Обдукција ќе ја открие причината за смртта: Телото на Ратко Младиќ транспортирано во ВMA | Вечер Прес",
       "description": "",
       "url": "https://time.mk/c/7ed1e6c398/obdukcija-ke-ja-otkrie-pricinata-za-smrtta-teloto-na-ratko-mladik-transportirano-vo-vma.html",
@@ -112,47 +121,29 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Пожарот на косовската граница и натаму беснее, чадот вечерва го задуши Скопје | Слободен Печат",
+      "title": "Димитриеска-Кочоска ги нарече „весела математика“ обвинувањата за задолжување од 1,3 милијарди евра | Независен",
       "description": "",
-      "url": "https://time.mk/c/d1ff80e312/pozarot-na-kosovskata-granica-i-natamu-besnee-cadot-vecerva-go-zadusi-skopje.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/06/pozar-stip-300x162.png",
-      "date": "Thu, 03 Sep 2026 21:26:51 +0000"
+      "url": "https://time.mk/c/80a19e53e9/dimitrieska-kocoska-gi-narece-vesela-matematika-obvinuvanjata-za-zadolzuvanje-od-1-3-milijardi-evra.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/dimitrieska-kocoska-zadolzenost.jpg",
+      "date": "Thu, 03 Sep 2026 13:00:51 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Nvidia купува платформа која неодамна беше нападната од рој од 700 агенти на вештачка интелигенција | 4NEWS",
+      "title": "Сите починати од западнонилска треска во Македонија се мажи: Зошто? | Рацин",
       "description": "",
-      "url": "https://time.mk/c/f213dd7add/nvidia-kupuva-platforma-koja-neodamna-bese-napadnata-od-roj-od-700-agenti-na-vestacka-inteligencija.html",
-      "image": "https://4news.mk/wp-content/uploads/2025/04/nvidia.jpg",
-      "date": "Thu, 03 Sep 2026 21:32:47 +0000"
+      "url": "https://time.mk/c/453d5c1a1b/site-pocinati-od-zapadnonilska-treska-vo-makedonija-se-mazi-zosto.html",
+      "image": "https://racin.mk/wp-content/uploads/2026/08/mapa-zapadnonilska-treska-737x480.jpg?x81193",
+      "date": "Thu, 03 Sep 2026 17:34:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Левица го пратила шефот за финансии Димитриев на форум во Русија, се пофали дека во живо ги слушал Лавров и Захарова | Слободен Печат",
+      "title": "Сега и Симеон Михаилов тврди дека е невин, сакале да му го земат бизнисот! | Независен",
       "description": "",
-      "url": "https://time.mk/c/bc2ffa0c7f/levica-go-pratila-sefot-za-finansii-dimitriev-na-forum-vo-rusija-se-pofali-deka-vo-zivo-gi-slusal-lavrov-i-zaharova.html",
-      "image": "https://antropol.mk/wp-content/uploads/2026/09/martin-dimitriev.jpg",
-      "date": "Thu, 03 Sep 2026 20:36:36 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Топлотни бранови се можни и во септември!? Најава за календарска есен со летни температури | Вечер Прес",
-      "description": "",
-      "url": "https://time.mk/c/239ab0ad8f/toplotni-branovi-se-mozni-i-vo-septemvri-najava-za-kalendarska-esen-so-letni-temperaturi.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/09/toplo-opsto.jpg",
-      "date": "Thu, 03 Sep 2026 21:44:37 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Еврообврзница од 1,3 милијарди евра во 2027: што е нов долг, а што рефинансирање | Паноптикум",
-      "description": "",
-      "url": "https://time.mk/c/4f92c3785e/evroobvrznica-od-1-3-milijardi-evra-vo-2027-sto-e-nov-dolg-a-sto-refinansiranje.html",
-      "image": "https://panoptikum.mk/wp-content/uploads/evroobvrznica-novo-zadolzhuvanje-na-makedonija-vo-2027.webp",
-      "date": "Thu, 03 Sep 2026 21:06:49 +0000"
+      "url": "https://time.mk/c/4ed4688003/sega-i-simeon-mihailov-tvrdi-deka-e-nevin-sakale-da-mu-go-zemat-biznisot.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/ÑÐ¸Ð¼ÐµÐ¾Ð½-1024x672.jpg",
+      "date": "Thu, 03 Sep 2026 09:20:41 +0000"
     },
     {
       "category": "mkd",
@@ -166,29 +157,29 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Хрватска купува ракетен систем со дострел од повеќе од 300 км? | 4NEWS",
+      "title": "Раст на економијата со 4,3 % наспроти 65 отсто долг!? | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/db20a1ca89/hrvatska-kupuva-raketen-sistem-so-dostrel-od-poveke-od-300-km.html",
-      "image": "https://4news.mk/wp-content/uploads/2022/11/phenian-izstrelia-tri-raketi-kam-yuzhna-236.jpg",
-      "date": "Thu, 03 Sep 2026 21:24:44 +0000"
+      "url": "https://time.mk/c/683439fd4e/rast-na-ekonomijata-so-4-3-nasproti-65-otsto-dolg.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/76543.jpg",
+      "date": "Thu, 03 Sep 2026 13:54:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "96 МИГРАНТИ ТРГНАЛЕ КОН ХРВАТСКА СО ЧАМЦИ Полицијата спречила две групи на границата со БиХ | +инфо",
+      "title": "Аларм во Романија: Западно нилската треска однесе три животи, регистрирани се 58 заразени | Фокус",
       "description": "",
-      "url": "https://time.mk/c/12ea71a046/96-migranti-trgnale-kon-hrvatska-so-camci-policijata-sprecila-dve-grupi-na-granicata-so-bih.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2025/12/migranti.jpg",
-      "date": "Thu, 03 Sep 2026 21:24:44 +0000"
+      "url": "https://time.mk/c/9ca5f1cc12/alarm-vo-romanija-zapadno-nilskata-treska-odnese-tri-zivoti-registrirani-se-58-zarazeni.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/09/732490_profimedia-0509971187_f.jpg",
+      "date": "Thu, 03 Sep 2026 15:12:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Медведев заканувачки: Германија ја продолжува тажната работа на своите предходници, изгледа заборави на исходот од Втората светска војна | Вечер Прес",
+      "title": "Кои се решенијата за возачите кои превезуваат стока во Шенген-зоната | Журнал",
       "description": "",
-      "url": "https://time.mk/c/26fca9009a/medvedev-zakanuvacki-germanija-ja-prodolzuva-taznata-rabota-na-svoite-predhodnici-izgleda-zaboravi-na-ishodot-od-vtorata-svetska-vojna.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/09/14232759.jpg",
-      "date": "Thu, 03 Sep 2026 20:48:43 +0000"
+      "url": "https://time.mk/c/1cfa42c6ef/koi-se-resenijata-za-vozacite-koi-prevezuvaat-stoka-vo-sengen-zonata.html",
+      "image": "https://zurnal.mk/wp-content/uploads/2026/09/news-post.webp",
+      "date": "Thu, 03 Sep 2026 17:04:37 +0000"
     },
     {
       "category": "mkd",
@@ -202,11 +193,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Ѓорѓиевски: Покрај новите камиони, пристигнуваат и повеќе од 3.300 нови контејнери | 4NEWS",
+      "title": "Нов инцидент во Германија: две лица се обидоа да запалат две одбранбени компании во Минхен | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/523447e084/gjorgjievski-pokraj-novite-kamioni-pristignuvaat-i-poveke-od-3-300-novi-kontejneri.html",
-      "image": "https://4news.mk/wp-content/uploads/2025/11/orce-gjorgjievski-3-1024x684.avif",
-      "date": "Thu, 03 Sep 2026 16:44:37 +0000"
+      "url": "https://time.mk/c/062643c06e/nov-incident-vo-germanija-dve-lica-se-obidoa-da-zapalat-dve-odbranbeni-kompanii-vo-minhen.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/01/Depositphotos_141047934_XL.jpg",
+      "date": "Thu, 03 Sep 2026 17:40:46 +0000"
     },
     {
       "category": "mkd",
@@ -220,20 +211,38 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Познат идентитетот на осомничените за криминал со регистрирање на возила | Press24",
+      "title": "Чаир: Платформа за спречување на насилството во училиштата | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/1329383f5d/poznat-identitetot-na-osomnicenite-za-kriminal-so-registriranje-na-vozila.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/09/tehnicki-pregled.jpg",
-      "date": "Thu, 03 Sep 2026 10:38:50 +0000"
+      "url": "https://time.mk/c/09507f41ae/cair-platforma-za-sprecuvanje-na-nasilstvoto-vo-ucilistata.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2025/05/deca-1024x571.jpg",
+      "date": "Thu, 03 Sep 2026 20:42:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Мистериозна смрт во Битола, МВР молчи за клучните 12 часа | Рацин",
+      "title": "Мирис на чад вечерва се чувствува во делови од Скопје, сè уште е активен пожарот кај границата со Косово | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/006ee3508c/misteriozna-smrt-vo-bitola-mvr-molci-za-klucnite-12-casa.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/09/vlechene-shirok-sokak-577x480.jpg?x81193",
-      "date": "Thu, 03 Sep 2026 16:58:48 +0000"
+      "url": "https://time.mk/c/537f70b74b/miris-na-cad-vecerva-se-cuvstvuva-vo-delovi-od-skopje-se-uste-e-aktiven-pozarot-kaj-granicata-so-kosovo.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/08/pozar-selo-Cerovo.jpg",
+      "date": "Thu, 03 Sep 2026 22:18:45 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Парите од лажни извештаи за технички прегледи се „переле“ преку Супер брокер? | Пари",
+      "description": "",
+      "url": "https://time.mk/c/e8371f9d8c/parite-od-lazni-izvestai-za-tehnicki-pregledi-se-perele-preku-super-broker.html",
+      "image": "http://pari.com.mk/wp-content/uploads/2026/09/tehnicki-pregled.jpg",
+      "date": "Thu, 03 Sep 2026 09:44:39 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Пеликан во Дојран повреден со сачмарка – обезбедена му е мандра и храна | Независен",
+      "description": "",
+      "url": "https://time.mk/c/8f80c09d8f/pelikan-vo-dojran-povreden-so-sacmarka-obezbedena-mu-e-mandra-i-hrana.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2025/07/Dojran-ptici-3-bg.jpg",
+      "date": "Thu, 03 Sep 2026 10:51:18 +0000"
     },
     {
       "category": "mkd",
@@ -247,29 +256,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Започнува реконструкцијата на Граничниот премин Делчево | Бриф",
+      "title": "„Карпош станa сцена“: 20.000 посети на „Карпошово културно лето 2026“ | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/41f5905dd4/zapocnuva-rekonstrukcijata-na-granicniot-premin-delcevo.html",
-      "image": "https://www.brif.mk/wp-content/uploads/2025/07/gp-delchevo-2.jpg",
-      "date": "Thu, 03 Sep 2026 17:26:49 +0000"
+      "url": "https://time.mk/c/d7d90bcb48/karpos-stana-scena-20-000-poseti-na-karposovo-kulturno-leto-2026.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/1-2.webp",
+      "date": "Thu, 03 Sep 2026 17:16:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Лукровски: Карпош, ова беше наше лето, над 20 000 посетители на програмските содржини | Press24",
+      "title": "Врачувањето на наградите на конкурсот за кратка книжевна творба „Празник на липите 2026“ ќе се одржи во ДПМ | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/985d92e753/lukrovski-karpos-ova-bese-nase-leto-nad-20-000-posetiteli-na-programskite-sodrzini.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/68901.png",
-      "date": "Thu, 03 Sep 2026 18:32:42 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Џон Малкович е неочекуваниот моден крал на Венеција: На 72 години им одржа лекција по стил на сите | Во Бело",
-      "description": "",
-      "url": "https://time.mk/c/8c2196aa24/dzon-malkovic-e-neocekuvaniot-moden-kral-na-venecija-na-72-godini-im-odrza-lekcija-po-stil-na-site.html",
-      "image": "https://vobelo.mk/wp-content/uploads/2026/09/john-malkovich-300x225.jpg",
-      "date": "Thu, 03 Sep 2026 20:14:53 +0000"
+      "url": "https://time.mk/c/7fc106ba81/vracuvanjeto-na-nagradite-na-konkursot-za-kratka-knizevna-tvorba-praznik-na-lipite-2026-ke-se-odrzi-vo-dpm.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/DPM-Lipite-2026-Nagradeni-web-300x177.jpg",
+      "date": "Thu, 03 Sep 2026 17:06:48 +0000"
     }
   ],
   "de": [
