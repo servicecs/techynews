@@ -1,239 +1,149 @@
 {
-  "updated": "2026-09-03T01:19:19.626178+00:00",
+  "updated": "2026-09-03T06:16:34.725550+00:00",
   "mkd": [
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Dyson претстави паметна четка за заби со вградена камера и „млазница“",
-      "description": "Dyson во Париз официјално ја претстави CameraJet, електрична четка за заби која ги обединува четкањето, чистењето на простор меѓу забите и плакнењето на устата во еден чекор. Уредот е опремен со мала камера од 100.000 пиксели која работи во комбинација со алгоритам за машинско учење наречен Gap Optical Targeting. Овој систем во реално време ги […]",
-      "url": "https://smartportal.mk/novosti/uredi/dyson-camerajet-cetka-za-zabi/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/682-press-release-hero-f-150x150.webp",
-      "date": "Wed, 02 Sep 2026 18:11:58 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "OpenAI објави детален технички извештај за „Hugging Face инцидентот“",
-      "description": "За време на проценка на повеќе јазични модели од OpenAI, во јули оваа година, моделите успеале да ги заобиколат контролите дизајнирани да ги изолираат од интернет и успешно компромитирале делови од системите за истражување на компанијата, како и од познатата платформа Hugging Face. Се работи за активност која била „предводена“ од страна на сѐ […]",
-      "url": "https://smartportal.mk/novosti/ai/openai-detalen-tehnicki-izvestaj-hugging-face-incident/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Depositphotos_640750110_XL-f-1-150x150.webp",
-      "date": "Wed, 02 Sep 2026 16:30:40 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Групацијата 4iG и SpaceX склучија прв договор во Европа за воведување на Starlink Mobile и Sovereign Solutions",
-      "description": "Групацијата 4iG и SpaceX потпишаа значајни договори за обезбедување сигурна и отпорна поврзаност во Европа. Starlink Mobile ќе ги зајакне телекомуникациските услуги на Групацијата 4iG во Унгарија и на Западен Балкан, додека договорот за Sovereign Solutions ќе го поддржи развојот на суверени и безбедни капацитети за сателитска комуникација на национално ниво. Двете компании заеднички создаваат […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/4ig-spacex-prv-dogovor-evropa-starlink-mobile-i-sovereign-solutions/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/20260901_Bastrop_4iG_gr_02_w-150x150.webp",
-      "date": "Wed, 02 Sep 2026 10:56:31 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "SpaceX планира сопствено производство на компоненти за генератори за податочни центри",
-      "description": "Ограничувањата во снабдувањето со електрична енергија во САД се главна пречка за брзо активирање на новите податочни центри наменети за вештачка интелигенција. За да се заобиколат долгите периоди на чекање за поврзување кон стандардната електрична мрежа, компаниите сè повеќе се потпираат на преносни генератори со турбини на природен гас. Овој тренд предизвика неочекуван раст на […]",
-      "url": "https://smartportal.mk/novosti/tehnologii/spacex-sopstveno-proizvodstvo-komponenti-generatori-podatocni-centri/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/ansel-huang-Qqr8dwAjqzw-unsplash-f-150x150.webp",
-      "date": "Wed, 02 Sep 2026 09:59:06 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Нови докази на Apple во тужбата против OpenAI за кражба на деловни тајни",
-      "description": "Apple достави нови докази во судскиот процес против OpenAI, со намера да го убеди судијата да одобри забрзана правна постапка. Основата на случајот започна во јули, кога Apple поднесе тужба против своите поранешни вработени Чанг Лиу и Танг Тан за кражба на деловни тајни. Според новите информации, Лиу задржал службен преносен компјутер по неговото заминување, […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/novi-dokazi-apple-protiv-openai/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Depositphotos_753415950_XL-f-150x150.webp",
-      "date": "Wed, 02 Sep 2026 09:18:04 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Mozilla официјално го претстави вградениот „блокирач“ на реклами во Firefox на iOS",
-      "description": "Пред неколку недели пишувавме дека познатиот интернет прелистувач Firefox доби вграден „блокирач“ на реклами во својата верзија за iOS системот. Функцијата тогаш само што започна да им станува достапна на корисниците, па сега Mozilla и официјално ја најави истата. Во својата објава од Mozilla објаснуваат како функционира оваа нова функција во Firefox. Блокирањето на реклами […]",
-      "url": "https://smartportal.mk/novosti/softver-prog/mozilla-oficijalno-vgraden-blokirac-reklami-firefox-ios/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/iOS-AdBlocker-1-2048x1152.png-150x150.webp",
-      "date": "Wed, 02 Sep 2026 08:50:55 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Џон Тернус најавува големо претставување следната недела во својот прв меморандум како извршен директор на Apple",
-      "description": "Џон Тернус официјално ја презеде функцијата извршен директор на Apple на 1 септември, наследувајќи го Тим Кук кој ја водеше компанијата изминатите петнаесет години. Во своето прво интерно обраќање до вработените преку меморандум, Тернус веднаш го насочи вниманието кон она што претстои, најавувајќи големо претставување на нови производи кое е закажано за следната недела. Овој […]",
-      "url": "https://smartportal.mk/novosti/licnosti/john-ternus-najavuva-golemo-pretstavuvanje-slednata-nedela/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/01/john-ternus-2-150x150.webp",
-      "date": "Wed, 02 Sep 2026 08:02:53 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Apple од денес официјално има нов директор",
-      "description": "Од денес, после 15 години Тим Кук веќе не е главниот директор на Apple. На негово место од денеска позицијата ја презема Џон Тернус, а тој е само вториот директор по Стив Џобџ, односно по неговото враќање во компанијата и нејзиното, кратко кажано, „спасување“. Тим Кук сепак не ја напушта компанијата и може да се […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/apple-od-denes-ima-nov-direktor/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Depositphotos_894783826_XL-f-150x150.webp",
-      "date": "Tue, 01 Sep 2026 10:02:43 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Македонски Телеком со широка национална иницијатива за побезбедна средина за младите – без насилство и омраза",
-      "description": "Македонски Телеком започнува широка национална иницијатива за создавање средина без насилство и интернет без омраза којашто обединува кампања за подигнување на свеста, партнерства со институциите и конкретни активности за едукација и активно вклучување на младите. Со почетокот на новата учебна година започнува и кампањата „Скрши го кругот на насилството. Не биди публика.“, којашто се реализира […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/makedonski-telekom-inicijativa-pobezbedna-sredina-za-mladite/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Photo6-150x150.webp",
-      "date": "Tue, 01 Sep 2026 09:28:15 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Debian одобри користење на генеративна вештачка интелигенција за придонес во проектот",
-      "description": "Проектот Debian официјално изгласа дозвола за користење на генеративна вештачка интелигенција при развојот, одржувањето и пишувањето документација. Оваа одлука доаѓа по повеќенеделни дискусии и резултираше со усвојување на насоки за одговорна употреба на ваквите алатки, со цел да се подобри продуктивноста на соработниците. Сепак, секој придонес генериран со помош на вештачка интелигенција мора да ги […]",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/debian-odobri-koristenje-vi/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/04/lukas-NLSXFjl_nhc-unsplash-150x150.webp",
-      "date": "Mon, 31 Aug 2026 16:54:02 +0000"
+      "source": "Time.mk - All",
+      "title": "Почна уписот на УКИМ: Ова се документите и обврските на кои мора да внимавате | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/90ee969266/pocna-upisot-na-ukim-ova-se-dokumentite-i-obvrskite-na-koi-mora-da-vnimavate.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/70602/conversions/7CA9A2C5-BC4C-487B-A68B-49AD687CBA6F-max.jpg",
+      "date": "Thu, 03 Sep 2026 06:12:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Груевски ја утнал спецификацијата за возот во кој се возеа Мицкоски и Николоски: Штедел на простор за велосипеди и миленици | Фокус",
+      "title": "Единаесет собраниски комисии ќе разгледуваат законски измени од областа на финансиите, здравството, земјоделството и безбедноста | Бизнис Вести",
       "description": "",
-      "url": "https://time.mk/c/e7eb9ce133/gruevski-ja-utnal-specifikacijata-za-vozot-vo-koj-se-vozea-mickoski-i-nikoloski-stedel-na-prostor-za-velosipedi-i-milenici.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/09/790459181_1765777064745619_7116155448227251605_n-585x390.jpg",
-      "date": "Wed, 02 Sep 2026 17:00:55 +0000"
+      "url": "https://time.mk/c/bf5cf9b5da/edinaeset-sobraniski-komisii-ke-razgleduvaat-zakonski-izmeni-od-oblasta-na-finansiite-zdravstvoto-zemjodelstvoto-i-bezbednosta.html",
+      "image": "https://biznisvesti.mk/wp-content/uploads/2025/10/sobranie-300x258.jpg",
+      "date": "Thu, 03 Sep 2026 05:16:35 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(ВИДЕО) Пожарот во близина на селото Грачани е ставен под контрола – два „ертрактори“ им помагаат на скопските пожарникари | 360 степени",
+      "title": "АМСМ, состојба на патиштата: Нема подолги чекања на границите, на места влажни коловози | Трн",
       "description": "",
-      "url": "https://time.mk/c/59945228df/video-pozarot-vo-blizina-na-seloto-gracani-e-staven-pod-kontrola-dva-ertraktori-im-pomagaat-na-skopskite-pozarnikari.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/09/Angelov-so-skopskite-pozarnikari-kaj-Gracani.png",
-      "date": "Wed, 02 Sep 2026 16:00:50 +0000"
+      "url": "https://time.mk/c/b27c8eea41/amsm-sostojba-na-patistata-nema-podolgi-cekanja-na-granicite-na-mesta-vlazni-kolovozi.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/08/road-forest_1127-3049.avif",
+      "date": "Thu, 03 Sep 2026 05:42:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Таткото е на меѓународна потерница, а ќерката бара да замине во Бугарија на лекување | Вечер Прес",
+      "title": "Два активни пожари во земјава: Гори шума кај Маврово и депонија во Шуто Оризари | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/807cd0c726/tatkoto-e-na-megjunarodna-poternica-a-kerkata-bara-da-zamine-vo-bugarija-na-lekuvanje.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/09/simeon-1.jpg",
-      "date": "Wed, 02 Sep 2026 13:20:55 +0000"
+      "url": "https://time.mk/c/a013cf75f4/dva-aktivni-pozari-vo-zemjava-gori-suma-kaj-mavrovo-i-deponija-vo-suto-orizari.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/83286/conversions/text-max.jpg",
+      "date": "Thu, 03 Sep 2026 06:04:36 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Лишено од слобода лице од Лешани кое се заканувало на лице и неговата сопруга пред семејниот дом | Охрид1",
+      "title": "Мицкоски ја повика Бугарија да го екстрадира таткото на Ива Михајлова | Рацин",
       "description": "",
-      "url": "https://time.mk/c/4275766503/liseno-od-sloboda-lice-od-lesani-koe-se-zakanuvalo-na-lice-i-negovata-sopruga-pred-semejniot-dom.html",
-      "image": "https://ohrid1.com/wp-content/uploads/2022/01/svr-oh.jpg",
-      "date": "Wed, 02 Sep 2026 19:18:35 +0000"
+      "url": "https://time.mk/c/4e21857255/mickoski-ja-povika-bugarija-da-go-ekstradira-tatkoto-na-iva-mihajlova.html",
+      "image": "https://racin.mk/wp-content/uploads/2026/09/miczkoski-768x480.jpg?x75463",
+      "date": "Thu, 03 Sep 2026 05:50:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Остри партиски реакции по изјавите на Јаневска: Демографијата не се спасува со „Мамо, роди ми братче“ | Deutsche Welle",
+      "title": "ЛДП со директен одговор до ВМРО-ДПМНЕ: Секогаш ќе реагираме за вашата неспособност, незаконитост и неискреност! | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/b1d2f0065b/ostri-partiski-reakcii-po-izjavite-na-janevska-demografijata-ne-se-spasuva-so-mamo-rodi-mi-bratce.html",
-      "image": "https://static.dw.com/image/66691378_301.jpg",
-      "date": "Wed, 02 Sep 2026 14:18:55 +0000"
+      "url": "https://time.mk/r/NONE/b479c7bab8/ldp-so-direkten-odgovor-do-vmro-dpmne-sekogas-ke-reagirame-za-vasata-nesposobnost-nezakonitost-i-neiskrenost.html",
+      "image": "https://time.mk/r/NONE/b479c7bab8/images/thumb/770e8abc78.jpg",
+      "date": "Thu, 03 Sep 2026 04:32:34 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Гаши: Граѓаните да се деполитизираат, но има разлика меѓу политиката и јавниот активизам, секој има должност да биде активен во јавниот живот | ТВ21",
+      "title": "Од идеја до сопствен бизнис: Зошто новите модели на финансирање се клучни за жените претприемачи | Црнобело",
       "description": "",
-      "url": "https://time.mk/c/3c815b787e/gasi-gragjanite-da-se-depolitiziraat-no-ima-razlika-megju-politikata-i-javniot-aktivizam-sekoj-ima-dolznost-da-bide-aktiven-vo-javniot-zivot.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2026/09/foto-Gashi-Click-plus.png",
-      "date": "Wed, 02 Sep 2026 20:46:33 +0000"
+      "url": "https://time.mk/c/c597a515c6/od-ideja-do-sopstven-biznis-zosto-novite-modeli-na-finansiranje-se-klucni-za-zenite-pretpriemaci.html",
+      "image": "https://www.crnobelo.com/images/stories/2026/09/1019/od-ideja-do-sopstven-biznis-zoshto-novite-modeli-na-finansiranje-se-kluchni-za-zhenite-pretpriemachi-ovekje.jpg",
+      "date": "Thu, 03 Sep 2026 05:46:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "КОВАЧЕВСКИ СО АПЕЛ ДО ГОЛЕМИТЕ ТЕХНОЛОШКИ ГИГАНТИ Камо среќа некој да изгради дата-центар во Македонија | +инфо",
+      "title": "Кој ќе има најмногу работа до 2035 година: Ова се 12 најбрзорастечки занимања | Фактор",
       "description": "",
-      "url": "https://time.mk/c/440869be4e/kovacevski-so-apel-do-golemite-tehnoloski-giganti-kamo-sreka-nekoj-da-izgradi-data-centar-vo-makedonija.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2026/09/kovacevski-34.jpg",
-      "date": "Wed, 02 Sep 2026 21:22:35 +0000"
+      "url": "https://time.mk/c/f5dac976cd/koj-ke-ima-najmnogu-rabota-do-2035-godina-ova-se-12-najbrzorastecki-zanimanja.html",
+      "image": "https://faktor.mk/media/main/2026/09/20260902225412.jpg",
+      "date": "Thu, 03 Sep 2026 05:30:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВМРО-ДПМНЕ: СДС призна дека ја задолжиле државата како никој претходно, jа ограбија, осиромашија и уништија државата | ТВ21",
+      "title": "Се подготува голем протест во Загреб поради складирање на опасен отпад во Лика | Порта 3",
       "description": "",
-      "url": "https://time.mk/c/7217323305/vmro-dpmne-sds-prizna-deka-ja-zadolzile-drzavata-kako-nikoj-prethodno-ja-ograbija-osiromasija-i-unistija-drzavata.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2020/10/sdsm-vmro.jpg",
-      "date": "Wed, 02 Sep 2026 11:40:48 +0000"
+      "url": "https://time.mk/c/4fc98fb707/se-podgotuva-golem-protest-vo-zagreb-poradi-skladiranje-na-opasen-otpad-vo-lika.html",
+      "image": "https://www.porta3.mk/wp-content/uploads/2026/09/1_536-620x1104-1.jpeg",
+      "date": "Thu, 03 Sep 2026 06:04:36 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Демировски – Македонскиот производител на муниција недопрен од скандалите во Србија | Призма",
+      "title": "ИЗДРЖЕТЕ ДО 10 СЕПТЕМВРИ – ПОТОА СЕ НАЅИРА ПРОМЕНА! Професорот Спиридонов со анализа на времето за месецов | Фактор",
       "description": "",
-      "url": "https://time.mk/c/82e64ef413/demirovski-makedonskiot-proizvoditel-na-municija-nedopren-od-skandalite-vo-srbija.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/09/municzija-2-720x480.jpg?x75463",
-      "date": "Wed, 02 Sep 2026 07:50:41 +0000"
+      "url": "https://time.mk/c/0bbcdf40f4/izdrzete-do-10-septemvri-potoa-se-nazira-promena-profesorot-spiridonov-so-analiza-na-vremeto-za-mesecov.html",
+      "image": "https://faktor.mk/media/main/2026/09/20260902212520.jpg",
+      "date": "Thu, 03 Sep 2026 04:00:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Ердоган ја предупреди Грција да престане да ги вооружува островите: „Учете од минатото“ | ТВ21",
+      "title": "Хибридната војна на Русија против Германија: И што сега? | Deutsche Welle",
       "description": "",
-      "url": "https://time.mk/c/67b8588ba2/erdogan-ja-predupredi-grcija-da-prestane-da-gi-vooruzuva-ostrovite-ucete-od-minatoto.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2025/03/erdogan.jpg",
-      "date": "Wed, 02 Sep 2026 15:34:35 +0000"
+      "url": "https://time.mk/c/325887f7d7/hibridnata-vojna-na-rusija-protiv-germanija-i-sto-sega.html",
+      "image": "https://static.dw.com/image/78599072_301.jpg",
+      "date": "Thu, 03 Sep 2026 05:48:35 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Медведев: Неонацистите заслужуваат директен удар врз Берлин | Фокус",
+      "title": "(Видео) Иран ги нападна американските воени бази во Кувајт со ракети и дронови | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/25df5da9f8/medvedev-neonacistite-zasluzuvaat-direkten-udar-vrz-berlin.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/09/medvedev-1170x671.jpg",
-      "date": "Wed, 02 Sep 2026 20:02:37 +0000"
+      "url": "https://time.mk/c/a7314c8bbf/video-iran-gi-napadna-amerikanskite-voeni-bazi-vo-kuvajt-so-raketi-i-dronovi.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/06/napad-depositphotos_650072728_xl.webp",
+      "date": "Thu, 03 Sep 2026 04:44:33 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Ескалираат тензиите меѓу Киев и Москва | 24 Вести",
+      "title": "Градскиот воз може да стане една од најисплатливите сообраќајни инвестиции што Скопје ги добило досега | Прва Скопска",
       "description": "",
-      "url": "https://time.mk/c/2952868122/eskaliraat-tenziite-megju-kiev-i-moskva.html",
-      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1788365545/usyyr1lug6e0lksiw9o8.jpg",
-      "date": "Wed, 02 Sep 2026 16:14:35 +0000"
+      "url": "https://time.mk/c/58c4690aeb/gradskiot-voz-moze-da-stane-edna-od-najisplatlivite-soobrakajni-investicii-sto-skopje-gi-dobilo-dosega.html",
+      "image": "https://prvaskopska.mk/wp-content/uploads/2026/09/gradski-voz-shema-1024x682.jpg",
+      "date": "Thu, 03 Sep 2026 01:16:37 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Утре во Општина Центар јавна презентација на нацрт-ДУП за „Барутана“ на Водно | 360 степени",
+      "title": "Без струја денеска делови од Аеродром и Илинден | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/463f78bc5b/utre-vo-opstina-centar-javna-prezentacija-na-nacrt-dup-za-barutana-na-vodno.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/09/DUP-za-Barutana.jpg",
-      "date": "Wed, 02 Sep 2026 14:24:59 +0000"
+      "url": "https://time.mk/c/d169c33be4/bez-struja-deneska-delovi-od-aerodrom-i-ilinden.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/03/struja-depositphotos_742738190_xl.webp",
+      "date": "Thu, 03 Sep 2026 04:30:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВИДЕО | Половина Македонија вечерва е во невреме — пороен дожд и силен ветер во Струмица, Кичево, Тиквешијата… | Слободен Печат",
+      "title": "Ноќна полициска акција во Скопје: приведени лица во истрага за финансиски криминал - претреси на повеќе локации | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/91ac61a215/video-polovina-makedonija-vecerva-e-vo-nevreme-poroen-dozd-i-silen-veter-vo-strumica-kicevo-tikvesijata.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/kavadarci-nevreme-300x213.png",
-      "date": "Wed, 02 Sep 2026 20:24:49 +0000"
+      "url": "https://time.mk/c/77f03e2b22/nokna-policiska-akcija-vo-skopje-privedeni-lica-vo-istraga-za-finansiski-kriminal-pretresi-na-poveke-lokacii.html",
+      "image": "",
+      "date": "Thu, 03 Sep 2026 06:16:43 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Детето прободено со нож се бори за живот, притвор за 19-годишникот, за насилникот социјални служби | 24 Вести",
+      "title": "Велешките пожарникари го изгаснаа пожарот во месноста Прцорек кај базенот за вода | Бриф",
       "description": "",
-      "url": "https://time.mk/c/bab6d6c388/deteto-probodeno-so-noz-se-bori-za-zivot-pritvor-za-19-godisnikot-za-nasilnikot-socijalni-sluzbi.html",
-      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1788366075/gnaaueidj2u9ugngx0ud.jpg",
-      "date": "Wed, 02 Sep 2026 16:26:35 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Пронајдена и одземена марихуана и остар предмет од две лица во Струга | Охрид1",
-      "description": "",
-      "url": "https://time.mk/c/dbea05118e/pronajdena-i-odzemena-marihuana-i-ostar-predmet-od-dve-lica-vo-struga.html",
-      "image": "https://ohrid1.com/wp-content/uploads/2024/12/struga-750x460.png",
-      "date": "Wed, 02 Sep 2026 19:06:43 +0000"
+      "url": "https://time.mk/c/2c30ca1833/veleskite-pozarnikari-go-izgasnaa-pozarot-vo-mesnosta-prcorek-kaj-bazenot-za-voda.html",
+      "image": "https://www.brif.mk/wp-content/uploads/2026/09/pozharna.jpg",
+      "date": "Thu, 03 Sep 2026 05:18:59 +0000"
     },
     {
       "category": "mkd",
@@ -256,20 +166,110 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ФОТО+ВИДЕО | Музички спектакл на платото на „Т Арена“ — втора вечер од прославата за 35 години независна Македонија | Слободен Печат",
+      "title": "Трансформацијата на потрошувачкиот отпад во уметнички објекти низ изложба на Слободан Живковски | Умно",
       "description": "",
-      "url": "https://time.mk/c/f73734d914/foto-video-muzicki-spektakl-na-platoto-na-t-arena-vtora-vecer-od-proslavata-za-35-godini-nezavisna-makedonija.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/signal-2026-09-02-22-09-10-929_008-300x200.jpg",
-      "date": "Wed, 02 Sep 2026 21:34:37 +0000"
+      "url": "https://time.mk/c/9f11964cf6/transformacijata-na-potrosuvackiot-otpad-vo-umetnicki-objekti-niz-izlozba-na-slobodan-zivkovski.html",
+      "image": "https://umno.mk/wp-content/uploads/2026/09/mkc.jpeg",
+      "date": "Thu, 03 Sep 2026 05:02:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВИДЕО | Сидни Свини пристигна во Венеција во последен момент пред отворањето на Венецијанскиот филмски фестивал | Слободен Печат",
+      "title": "Сеќавање на нашиот истакнат режисер Тихомир Бачовски – доајенот на македонската телевизиска режија | Екран",
       "description": "",
-      "url": "https://time.mk/c/2f9792c9ab/video-sidni-svini-pristigna-vo-venecija-vo-posleden-moment-pred-otvoranjeto-na-venecijanskiot-filmski-festival.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/profimedia-1130156560-300x200.jpg",
-      "date": "Wed, 02 Sep 2026 18:18:35 +0000"
+      "url": "https://time.mk/c/01f73fb007/sekavanje-na-nasiot-istaknat-reziser-tihomir-bacovski-doajenot-na-makedonskata-televiziska-rezija.html",
+      "image": "",
+      "date": "Thu, 03 Sep 2026 05:12:36 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Пловечка шума од околу 30 квадратни метри се појави кај браната Бенет во Канада и сите мислеа дека сликите се AI",
+      "description": "Над површината на резервоарот Вилитон во Британска Колумбија, Канада, плови необична појава. Оддалеку изгледа како обично парче копно, густо обраснато со зелени и навидум сосема здрави дрвја. Но, станува збор за масивна природна платформа составена од испреплетени корења и дрвна маса. Содржина: Роки Ејвери прв ја сними појавата што личеше премногу чудно за да биде ...",
+      "url": "https://motika.mk/plovecka-suma-od-okolu-30-kvadratni-metri-se-pojavi-kaj-branata-benet-vo-kanada-i-site-mislea-deka-slikite-se-ai/",
+      "image": "https://motika.io/media/2026/09/02/img-e030c26d-2478-4c1f-a2d7-3c54dd98dd3d-1.jpg",
+      "date": "Thu, 03 Sep 2026 06:04:25 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "91-годишниот планинар „Сива брада“ e најстариот планинар што успеа да ја помине познатата, екстремно тешка Апалачка патека",
+      "description": "91-годишниот Дејл Сандерс е цврсто и ретко упорно старче. Според неговата пресметка, тој паднал 71 пат додека го враќал рекордот како најстар планинар што ја завршил Апалачката патека. Шест од тие падови биле, како што самиот ги нарекува, тешки падови, еден завршил со кратка хоспитализација, а друг се случил на само 183 метри од целта. ...",
+      "url": "https://motika.mk/91-godisniot-planinar-siva-brada-e-najstariot-planinar-sto-uspea-da-ja-pomine-poznatata-ekstremno-teska-apalacka-pateka/",
+      "image": "https://motika.io/media/2026/09/02/img-f7fce53f-5425-40c9-affa-c401c940c5d3-1.jpg",
+      "date": "Thu, 03 Sep 2026 04:56:19 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Дали вреди, колку треба да вложите и како да почнете да копате крипто валути?",
+      "description": "На темата разговаравме со најголемиот експерт за машини за копање криптовалути во Македонија, Крис Фунду. Крис е еден од говорниците на Третата Македонска Крипто Конференција која ќе се одржи на 6-ти септември во МКЦ – Скопје. Повеќе информации на следниот линк. 1. Во едно реченица, за што ќе зборувате на МКК3, за некој кој не ...",
+      "url": "https://motika.mk/dali-vredi-kolku-treba-da-vlozite-i-kako-da-pocnete-da-kopate-kripto-valuti/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/02/egnatia_mir.jpeg",
+      "date": "Wed, 02 Sep 2026 17:52:00 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Македонска Крипто Конференција #3 на 6 септември во МКЦ Скопје",
+      "description": "Скопје ќе биде домаќин на Македонска Крипто Конференција #3 (МКК3) – прв настан од ваков формат во земјата, посветен на блокчејн технологијата, дигиталните валути и иднината на Web3. Конференцијата ќе се одржи на 6 септември 2026 година, во Младинскиот Културен Центар (МКЦ), Кино Фросина, со почеток во 10:00 часот. Влезот е бесплатен, а бројот на ...",
+      "url": "https://motika.mk/makedonska-kripto-konferencija-3-na-6-septemvri-vo-mkc-skopje/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/02/screenshot-2026-09-02-at-06.47.45-1200x553.jpeg",
+      "date": "Wed, 02 Sep 2026 11:22:10 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Американски родители трошат и над 10.000 долари за облека за првиот училишен ден, а добар дел од нив и се задолжуваат за таа цел",
+      "description": "Сезоната за вракање на училиште во САД одамна не е само список со тетратки, моливи и ранец. За дел од семествата, првиот ден станува модна сцена, со брендирана облека, скапи чевли, козметика, лаптопи и патувања до Њујорк за купување. Но зад сликите за спомен и насмевките пред камера има и друга страна: нов извештај на ...",
+      "url": "https://motika.mk/amerikanski-roditeli-trosat-i-nad-10-000-dolari-za-obleka-za-prviot-ucilisen-den-a-dobar-del-od-niv-i-se-zadolzuvaat-za-taa-cel/",
+      "image": "https://motika.io/media/2026/09/02/img-86c61a62-ee4e-4b4a-a619-4bd73dc94924-1.jpg",
+      "date": "Wed, 02 Sep 2026 11:06:06 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "На Антарктикот научниците открија непознати форми на живот кои „личат на Покемони“",
+      "description": "За време на 60-дневна експедиција со мразокршачот RSV Nuyina кон глечерот Денман, во Јужниот Океан, австралиски истражувачи извлекоа колекцина организми од длабочина до 5.000 метри, кои не се срекаваат никаде друго на планетата. Содржина: „Желевидното безоко морско прасе“ од дното личи на Покемон Во „влажниот бунар“ една морска пеперутка положи икри во бродски аквариум Само ...",
+      "url": "https://motika.mk/na-antarktikot-naucnicite-otkrija-nepoznati-formi-na-zivot-koi-licat-na-pokemoni/",
+      "image": "https://motika.io/media/2026/09/02/img-ae817d54-e78f-43e9-aae4-7412f4a9d7d3-1.jpg",
+      "date": "Wed, 02 Sep 2026 10:58:10 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Porsche ќе прави суперавтомобил инспириран од Audi Nuvolari, кој е пак инспириран од Lamborghini Temerario",
+      "description": "Во Volkswagen Group се случуваат многу чудни работи додека компанијата бара секакви несекојдневни начини да заштеди пари, а сепак да создава возбудливи автомобили. Од таму, можеби, доаѓа и најновата гласина за иден врвен суперавтомобил на Porsche. Германскиот производител претходно годинава соопшти дека ја „проценува“ идејата за нов хиперавтомобил. Една од можностите би можела да дојде ...",
+      "url": "https://motika.mk/porsche-ke-pravi-superavtomobil-inspiriran-od-audi-nuvolari-koj-e-pak-inspiriran-od-lamborghini-temerario/",
+      "image": "https://motika.io/media/2026/09/02/img-478197a9-b73b-47e0-ab69-61c3a20fd994-2.jpg",
+      "date": "Wed, 02 Sep 2026 10:15:56 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Пијаната руска туристка им го зеде кучето на локалните виетнамски жители и не им го дава",
+      "description": "Со оглед на фактот дека дел од виетнамското население сѐ уште ги гледа кучињата како вкусен оброк, спасителната акција на Русинката и не е толку чудна.",
+      "url": "https://motika.mk/pijanata-ruska-turistka-im-go-zede-kuceto-na-lokalnite-vietnamski-ziteli-i-ne-im-go-dava/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/02/b01ce3eac0734024b6e6d20fd537dc18.jpg",
+      "date": "Wed, 02 Sep 2026 08:00:49 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Шампионот го фати автобусот за 1 секунда",
+      "description": "Да погледнеме подетално како му успеа ова чудо.",
+      "url": "https://motika.mk/sampionot-go-fati-avtobusot-za-1-sekunda/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/02/gofati-1200x952.jpeg",
+      "date": "Wed, 02 Sep 2026 07:50:51 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Сте слушнале ли за Борис Петровски од Стругово – најсилниот човек во Македонија?",
+      "description": "На времето го пишуваа по весници, пиел по 35 пива на ден и бил неверојатно цврст.",
+      "url": "https://motika.mk/ste-slusnale-li-za-boris-petrovski-od-strugovo-najsilniot-covek-vo-makedonija/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/02/169ae8f2-2602-4151-8150-d89185f8f01c.jpg",
+      "date": "Wed, 02 Sep 2026 07:44:08 +0000"
     }
   ],
   "de": [
@@ -998,276 +998,5 @@
       "date": "Mon, 31 Aug 2026 15:56:13 +0000"
     }
   ],
-  "youtube": [
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Client Side Trust in CREO und warum das keine gute Idee ist #informatik #creo #code",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/jiNsmobgoMo",
-      "image": "https://i.ytimg.com/vi/jiNsmobgoMo/hqdefault.jpg",
-      "date": "2026-09-02T10:55:29+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Warum sind 0.1 + 0.2 für deinen Computer nicht 0.3 ?! #informatik #code #programmieren #lernen",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/TLANNNHbe3o",
-      "image": "https://i.ytimg.com/vi/TLANNNHbe3o/hqdefault.jpg",
-      "date": "2026-09-01T16:15:13+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Dieser PIN macht die Daten auf deinem Handy unbrauchbar #code #cybersecurity #informatik #news",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/4RJZe-bYuXU",
-      "image": "https://i.ytimg.com/vi/4RJZe-bYuXU/hqdefault.jpg",
-      "date": "2026-08-31T16:00:09+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Wurden Graphene OS Handys geknackt ? #informatik #code #news #encryption #handy",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/-mRRdT5e0HA",
-      "image": "https://i.ytimg.com/vi/-mRRdT5e0HA/hqdefault.jpg",
-      "date": "2026-08-30T19:07:29+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "OpenAI kündigt den Vertrag mit Cursor #ai #openai #cursor #code #news",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/_LsTEtM-U-4",
-      "image": "https://i.ytimg.com/vi/_LsTEtM-U-4/hqdefault.jpg",
-      "date": "2026-08-29T10:00:22+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Wenn Geheimhaltung dein Sicherheitskonzept ist, hast du keins #informatik#cybersecurity #code #news",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/jMuDXgblY7Q",
-      "image": "https://i.ytimg.com/vi/jMuDXgblY7Q/hqdefault.jpg",
-      "date": "2026-08-28T18:46:11+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "NVIDIA kauft Huggingface... aber warum ?! #informatik #nvidia #huggingface #ai #news",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/ze2A-FkihHA",
-      "image": "https://i.ytimg.com/vi/ze2A-FkihHA/hqdefault.jpg",
-      "date": "2026-08-27T17:49:08+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Kann dein Arbeitgeber deine Nachrichten mitlesen ?! #informatik #code #security #teams #news",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/fbvHbNpd-tQ",
-      "image": "https://i.ytimg.com/vi/fbvHbNpd-tQ/hqdefault.jpg",
-      "date": "2026-08-26T19:09:19+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Aliexpress trackt dich über Audio Berechnungen... #sound #tracking#code#news#informatik #security",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/GYNdziCFS10",
-      "image": "https://i.ytimg.com/vi/GYNdziCFS10/hqdefault.jpg",
-      "date": "2026-08-25T17:19:04+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Die wundervolle Pyramide des Schmerzes 😂😂😂 auf deutsch nochmal viel wilder",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/YpkZK7RxcFU",
-      "image": "https://i.ytimg.com/vi/YpkZK7RxcFU/hqdefault.jpg",
-      "date": "2026-08-24T16:58:33+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Exploring The Last Coal Power Plant in Connecticut Bridgeport Harbor Station",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=CR84XRBKBzs",
-      "image": "https://i.ytimg.com/vi/CR84XRBKBzs/hqdefault.jpg",
-      "date": "2026-08-27T17:00:39+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Rocketdyne Santa Susana Field Laboratory Abandoned America Space Race (1948)",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=0lka-0REQrQ",
-      "image": "https://i.ytimg.com/vi/0lka-0REQrQ/hqdefault.jpg",
-      "date": "2026-04-23T17:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Mall Westfield Promenade Demolition AMC Seats And Screens Left Behind",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=UnG29VothuQ",
-      "image": "https://i.ytimg.com/vi/UnG29VothuQ/hqdefault.jpg",
-      "date": "2026-03-27T21:09:35+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Mall Westfield Promenade Demolition Fly by In And Out",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=fDnOH8ZsfTg",
-      "image": "https://i.ytimg.com/vi/fDnOH8ZsfTg/hqdefault.jpg",
-      "date": "2026-03-27T20:40:08+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "AMC Westfield Promenade Mall Raw Demolition Drone Footage",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/5iA5R3Jq4g0",
-      "image": "https://i.ytimg.com/vi/5iA5R3Jq4g0/hqdefault.jpg",
-      "date": "2026-03-27T18:03:29+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Mall Westfield Promenade Demolition AMC Coming Down First!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=SAxjFGjTiHQ",
-      "image": "https://i.ytimg.com/vi/SAxjFGjTiHQ/hqdefault.jpg",
-      "date": "2026-03-23T17:42:38+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Beautiful Art Deco Theater",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=ccfU0LSmkj8",
-      "image": "https://i.ytimg.com/vi/ccfU0LSmkj8/hqdefault.jpg",
-      "date": "2026-03-11T20:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Decommissioned Power Station #synthwave #synth #retrowave #abandonedplaces",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/mOUbNSMoBJs",
-      "image": "https://i.ytimg.com/vi/mOUbNSMoBJs/hqdefault.jpg",
-      "date": "2025-06-17T17:55:51+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Wheel of Misfortune Three Kids Mine Demolition",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=VXRselqoN-8",
-      "image": "https://i.ytimg.com/vi/VXRselqoN-8/hqdefault.jpg",
-      "date": "2025-06-17T17:45:42+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Resort with a River Running Through It",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=0ILQ06M4hA0",
-      "image": "https://i.ytimg.com/vi/0ILQ06M4hA0/hqdefault.jpg",
-      "date": "2025-06-01T20:15:01+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Install Windows 11 with a Local Account in 2026",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=juIh1auHo3s",
-      "image": "https://i.ytimg.com/vi/juIh1auHo3s/hqdefault.jpg",
-      "date": "2026-08-05T17:00:04+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Replace the Battery in a Dell Precision 7760 Laptop",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=JOVmOahO2xs",
-      "image": "https://i.ytimg.com/vi/JOVmOahO2xs/hqdefault.jpg",
-      "date": "2026-03-11T17:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Use & Combine Joy-Con Controllers on the Steam Deck!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=p9ZdCe-eW1M",
-      "image": "https://i.ytimg.com/vi/p9ZdCe-eW1M/hqdefault.jpg",
-      "date": "2025-12-05T18:01:07+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Borderlands GOTY Enhanced Co-Op Lag Fix on PC | Windows & Steam Deck",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=UsaKlS3WBBs",
-      "image": "https://i.ytimg.com/vi/UsaKlS3WBBs/hqdefault.jpg",
-      "date": "2025-08-20T17:00:42+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Thrifty Gaming Pickups 058 - Going Through a Bag of Games, Controllers, and More!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=yKwMn2OMLLY",
-      "image": "https://i.ytimg.com/vi/yKwMn2OMLLY/hqdefault.jpg",
-      "date": "2025-05-07T17:01:12+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Thrifty Gaming Pickups 057 - Returning to Old Thrift Shops + A Big Xbox 360 Bundle!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=EOQgA7Q8Kw8",
-      "image": "https://i.ytimg.com/vi/EOQgA7Q8Kw8/hqdefault.jpg",
-      "date": "2024-12-04T18:00:14+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Thrifty Gaming Pickups 056 - Import Switch Games, Switch Lite, Xbox, and Xbox 360 Games!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=xaNcbxQkk5k",
-      "image": "https://i.ytimg.com/vi/xaNcbxQkk5k/hqdefault.jpg",
-      "date": "2024-06-12T17:00:40+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Thrifty Gaming Pickups 055 - Japanese Xbox 360 Imports, Consoles, and More!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=fvzT178zAlk",
-      "image": "https://i.ytimg.com/vi/fvzT178zAlk/hqdefault.jpg",
-      "date": "2024-05-15T17:00:26+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Final Fantasy VII Rebirth Best Buy Steelbook (PS5) #shorts",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/k02mkNRvIYE",
-      "image": "https://i.ytimg.com/vi/k02mkNRvIYE/hqdefault.jpg",
-      "date": "2024-03-01T18:00:24+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Final Fantasy VII Rebirth Deluxe Edition Unboxing (PS5) #shorts",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/SFwXpq5kwe4",
-      "image": "https://i.ytimg.com/vi/SFwXpq5kwe4/hqdefault.jpg",
-      "date": "2024-03-01T02:23:40+00:00"
-    }
-  ]
+  "youtube": []
 }
