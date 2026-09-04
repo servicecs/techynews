@@ -1,6 +1,60 @@
 {
-  "updated": "2026-09-04T08:36:15.795301+00:00",
+  "updated": "2026-09-04T13:15:18.244482+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Nvidia ја купува платформата Hugging Face за 12,93 милијарди долари",
+      "description": "Nvidia официјално објави дека постигнала договор за купување на Hugging Face за сума од 12,93 милијарди долари. Целта на оваа аквизиција се истакнува дека е да се прошири капацитетот на платформата, да се зајакне нејзината инфраструктура и да се овозможи уште поширок пристап до алатките за вештачка интелигенција за програмерите и институциите ширум светот. Hugging […]",
+      "url": "https://smartportal.mk/novosti/ai/nvidia-ja-kupuva-hugging-face/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2-f-150x150.webp",
+      "date": "Fri, 04 Sep 2026 12:37:28 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Бројот на поправени безбедносни пропусти во јадрото на Linux наскоро би можел да достигне 2.000 по верзија",
+      "description": "Јадрото (kernel) на Linux се приближува до бројката од речиси 2.000 поправени безбедносни пропусти по верзија, што претставува значителен пораст во споредба со просечните 500 пропусти кај верзиите 6.x. Овој тренд го истакна Грег Кроа-Хартман, посочувајќи дека бројот на ранливости надминал 1.000 во верзијата 7.0, а во 7.2 достигнал над 1.500. Доколку трендот продолжи, верзијата […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/brojot-na-cve-linux-kernel-se-blizi-do-2000/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Depositphotos_288019916_XL-f-150x150.webp",
+      "date": "Fri, 04 Sep 2026 12:05:06 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Microsoft најави посебно приспособена верзија од Windows 11 наменета за програмерите",
+      "description": "Microsoft официјално го најави Project Zenith, нов концепт на Windows оперативниот систем кој е специјално приспособен за потребите на програмерите. Според Логан Ајер, корпоративен потпретседател за Windows платформа и програмери во Microsoft, напредокот во компјутерската технологија станува реалност токму преку искуствата што ги создаваат креаторите на софтвер. Главната цел на компанијата е да го позиционира […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/microsoft-project-zenith/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Depositphotos_819168294_XL-f-150x150.webp",
+      "date": "Fri, 04 Sep 2026 11:21:20 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Објавена е верзијата 0.4.16 на ReactOS со нов графички „инсталер“",
+      "description": "Проектот ReactOS, кој нуди оперативен систем со отворен код компатибилен со апликациите и управувачите на Windows, ја објави верзијата 0.4.16. Ова ажурирање доаѓа по околу година и пол развој и се фокусира на подобрување на искуството при инсталација и поголема стабилност на системот за крајните корисници. Најзначајната промена во ова издание е воведувањето на нов […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/reactos-0-4-16/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/gui-setup-1-150x150.webp",
+      "date": "Fri, 04 Sep 2026 10:57:48 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Како Cloudflare ослободи 100TB меморија со паметна оптимизација на DNS „кешот“",
+      "description": "Cloudflare успешно ослободи околу 100TB работна меморија на својата глобална серверска мрежа и тоа без никакви физички промени на хардверот. Овој резултат е постигнат со целосно редизајнирање на начинот на кој DNS записите се чуваат во меморијата на нивната платформа Big Pineapple, која стои зад популарниот јавен сервис 1.1.1.1. Системот во секој момент чува над […]",
+      "url": "https://smartportal.mk/novosti/servisi/kako-cloudflare-oslobodi-100tb-memorija-so-pametna-optimizacija-na-dns/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Depositphotos_778596864_XL-f-150x150.webp",
+      "date": "Fri, 04 Sep 2026 10:05:06 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Џон Просер го „прикажува“ јубилејниот iPhone 20 и препорачува да го прескокнете iPhone 18 Pro",
+      "description": "Идната година Apple ќе ја одбележи дваесетгодишнината од претставувањето на нивниот прв „смартфон“, односно од претставувањето на првиот iPhone кој дефинитивно може да се каже дека целосно го промени овој пазар. Веќе одреден период може да се прочита дека за овој јубилеј Apple ќе претстави посебна верзија од iPhone, која во промените ќе потсетува на […]",
+      "url": "https://smartportal.mk/novosti/smartfoni/jon-prosser-go-prikazuva-iphone-20/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/maxresdefault-150x150.jpg",
+      "date": "Fri, 04 Sep 2026 08:57:31 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -39,240 +93,195 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Xiaomi го прикажа изгледот на Xiaomi 18 Fold пред официјалното претставување",
-      "description": "Xiaomi официјално го потврди датумот на претставување и за првпат го откри дизајнот на својот нареден уред на преклоп, Xiaomi 18 Fold. Овој модел со широк екран ќе биде лансиран на пазарот во Кина на 7 септември. Ваквиот тајминг го позиционира уредот на Xiaomi непосредно пред очекуваното претставување на конкурентниот модел на преклоп од Apple, […]",
-      "url": "https://smartportal.mk/novosti/uredi/xiaomi-go-prikaza-18-fold/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/002p2Zyzly1igp68z7p7lj61jk1jkb2a02-150x150.webp",
-      "date": "Thu, 03 Sep 2026 10:34:25 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Над 900 учесници од 12+ земји ќе се соберат во Скопје на 9. Регионална конференција за е-трговија",
-      "description": "Скопје на 3 ноември повторно ќе биде центар на регионалната e-commerce сцена. Во Националната опера и балет ќе се одржи 9. Регионална конференција за е-трговија – E-commerce Conference 2026, под мотото „From Wait to Go: E-comm at AI Speed!“. Овогодишното издание ќе обедини над 900 учесници, повеќе од 30 говорници, 50+ партнери и претставници од […]",
-      "url": "https://smartportal.mk/novosti/nastani/nad-900-ucesnici-od-12-zemji-ke-se-soberat-vo-skopje/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/E-Com-Conference-25-671-150x150.webp",
-      "date": "Thu, 03 Sep 2026 08:36:22 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Dyson претстави паметна четка за заби со вградена камера и „млазница“",
-      "description": "Dyson во Париз официјално ја претстави CameraJet, електрична четка за заби која ги обединува четкањето, чистењето на простор меѓу забите и плакнењето на устата во еден чекор. Уредот е опремен со мала камера од 100.000 пиксели која работи во комбинација со алгоритам за машинско учење наречен Gap Optical Targeting. Овој систем во реално време ги […]",
-      "url": "https://smartportal.mk/novosti/uredi/dyson-camerajet-cetka-za-zabi/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/682-press-release-hero-f-150x150.webp",
-      "date": "Wed, 02 Sep 2026 18:11:58 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "OpenAI објави детален технички извештај за „Hugging Face инцидентот“",
-      "description": "За време на проценка на повеќе јазични модели од OpenAI, во јули оваа година, моделите успеале да ги заобиколат контролите дизајнирани да ги изолираат од интернет и успешно компромитирале делови од системите за истражување на компанијата, како и од познатата платформа Hugging Face. Се работи за активност која била „предводена“ од страна на сѐ […]",
-      "url": "https://smartportal.mk/novosti/ai/openai-detalen-tehnicki-izvestaj-hugging-face-incident/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Depositphotos_640750110_XL-f-1-150x150.webp",
-      "date": "Wed, 02 Sep 2026 16:30:40 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Групацијата 4iG и SpaceX склучија прв договор во Европа за воведување на Starlink Mobile и Sovereign Solutions",
-      "description": "Групацијата 4iG и SpaceX потпишаа значајни договори за обезбедување сигурна и отпорна поврзаност во Европа. Starlink Mobile ќе ги зајакне телекомуникациските услуги на Групацијата 4iG во Унгарија и на Западен Балкан, додека договорот за Sovereign Solutions ќе го поддржи развојот на суверени и безбедни капацитети за сателитска комуникација на национално ниво. Двете компании заеднички создаваат […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/4ig-spacex-prv-dogovor-evropa-starlink-mobile-i-sovereign-solutions/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/20260901_Bastrop_4iG_gr_02_w-150x150.webp",
-      "date": "Wed, 02 Sep 2026 10:56:31 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "SpaceX планира сопствено производство на компоненти за генератори за податочни центри",
-      "description": "Ограничувањата во снабдувањето со електрична енергија во САД се главна пречка за брзо активирање на новите податочни центри наменети за вештачка интелигенција. За да се заобиколат долгите периоди на чекање за поврзување кон стандардната електрична мрежа, компаниите сè повеќе се потпираат на преносни генератори со турбини на природен гас. Овој тренд предизвика неочекуван раст на […]",
-      "url": "https://smartportal.mk/novosti/tehnologii/spacex-sopstveno-proizvodstvo-komponenti-generatori-podatocni-centri/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/ansel-huang-Qqr8dwAjqzw-unsplash-f-150x150.webp",
-      "date": "Wed, 02 Sep 2026 09:59:06 +0000"
+      "source": "Time.mk - All",
+      "title": "Кривична за две физички и едно правно лице од Струмица – пронајдени околу 600.000 евра кеш пари за кои нема покритие | Фокус",
+      "description": "",
+      "url": "https://time.mk/c/6617511cc1/krivicna-za-dve-fizicki-i-edno-pravno-lice-od-strumica-pronajdeni-okolu-600-000-evra-kes-pari-za-koi-nema-pokritie.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/09/Screenshot_4-9-2026_14745_mia.mk.jpeg",
+      "date": "Fri, 04 Sep 2026 12:16:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ТАВ ја погреши категоријата: скопскиот аеродром не е награден како „најпријатен“, туку за најлесно поминување | Слободен Печат",
+      "title": "Марта Кос ја откажа посетата на Србија поради величењето на Младиќ. За Вучиќ објаснувањето е „глупаво“ | Независен",
       "description": "",
-      "url": "https://time.mk/c/1e22ce4884/tav-ja-pogresi-kategorijata-skopskiot-aerodrom-ne-e-nagraden-kako-najprijaten-tuku-za-najlesno-pominuvanje.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2024/01/ÐÐ°ÑÐ½Ð¸ÑÐ¸-Ð½Ð°-Ð¡ÐºÐ¾Ð¿ÑÐºÐ¸Ð¾Ñ-Ð°ÐµÑÐ¾Ð´ÑÐ¾Ð¼-Ð¢ÐÐ-4-300x200.jpg",
-      "date": "Fri, 04 Sep 2026 08:31:15 +0000"
+      "url": "https://time.mk/c/97de02bb54/marta-kos-ja-otkaza-posetata-na-srbija-poradi-velicenjeto-na-mladik-za-vucik-objasnuvanjeto-e-glupavo.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/Marta-Kos.jpg",
+      "date": "Fri, 04 Sep 2026 12:58:54 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Пожар од Ѓорче Петров премина во Косово, откако вчера во земјава имаше 31 пожар | Трн",
+      "title": "Удрени темелите на спортската сала во училиштето „Братство“ | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/25702c72f7/pozar-od-gjorce-petrov-premina-vo-kosovo-otkako-vcera-vo-zemjava-imase-31-pozar.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/09/pozar-gracani.jpg",
-      "date": "Fri, 04 Sep 2026 08:06:52 +0000"
+      "url": "https://time.mk/c/26dc4b2c3b/udreni-temelite-na-sportskata-sala-vo-ucilisteto-bratstvo.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/2-sportska-sala-taftalidze-2.jpg",
+      "date": "Fri, 04 Sep 2026 12:52:46 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Работник со плата од 26.000 денари дава четвртина за билет Тетово–Скопје, граѓаните бараат реакција | Скопје1",
+      "title": "Активен пожарот во Грачани, повторно гори и на Жеден | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/836b8166b6/rabotnik-so-plata-od-26-000-denari-dava-cetvrtina-za-bilet-tetovo-skopje-gragjanite-baraat-reakcija.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/79714/conversions/text-max.jpg",
-      "date": "Fri, 04 Sep 2026 07:40:39 +0000"
+      "url": "https://time.mk/c/5ffc63ff96/aktiven-pozarot-vo-gracani-povtorno-gori-i-na-zeden.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/pozari.jpg",
+      "date": "Fri, 04 Sep 2026 12:10:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Левица: Седум починати за едно лето – западнонилската треска однесе рекорден број жртви, а ИЈЗ го прекина неделното информирање за епидемијата! | 24Инфо",
+      "title": "Секоја осма жена бара четврта, петта или шеста шанса за ин витро | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/b304982aac/levica-sedum-pocinati-za-edno-leto-zapadnonilskata-treska-odnese-rekorden-broj-zrtvi-a-ijz-go-prekina-nedelnoto-informiranje-za-epidemijata.html",
-      "image": "https://24info.mk/wp-content/uploads/2024/11/Levica.jpg",
-      "date": "Fri, 04 Sep 2026 08:32:38 +0000"
+      "url": "https://time.mk/c/9209e00d72/sekoja-osma-zena-bara-cetvrta-petta-ili-sesta-sansa-za-in-vitro.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/pexels-shvets-production-8413156.jpg",
+      "date": "Fri, 04 Sep 2026 11:10:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Продолжен рокот за аплицирање за стипендиите на Фондацијата „Атанас Близнакоф“ | Фактор",
+      "title": "Западнонилската треска годинава ги надмина претходните 15 години | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/d9db917267/prodolzen-rokot-za-apliciranje-za-stipendiite-na-fondacijata-atanas-bliznakof.html",
-      "image": "https://faktor.mk/media/main/2026/09/20260904094555.jpg",
-      "date": "Fri, 04 Sep 2026 07:48:37 +0000"
+      "url": "https://time.mk/c/09a636dca6/zapadnonilskata-treska-godinava-gi-nadmina-prethodnite-15-godini.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/pexels-ekamelev-27178285.jpg",
+      "date": "Fri, 04 Sep 2026 12:46:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Со помош на ЕУ ќе се реконструира објектот на Физикална терапија во Негорци | Независен",
+      "title": "Finance Think: Економската активност забрза, но забрзувањето е во голема мера поттикнато од буџетски трошења | Економија и Бизнис",
       "description": "",
-      "url": "https://time.mk/c/8aae63f84c/so-pomos-na-eu-ke-se-rekonstruira-objektot-na-fizikalna-terapija-vo-negorci.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/eunegorci.jpg",
-      "date": "Fri, 04 Sep 2026 06:16:43 +0000"
+      "url": "https://time.mk/c/914f12dd2f/finance-think-ekonomskata-aktivnost-zabrza-no-zabrzuvanjeto-e-vo-golema-mera-pottiknato-od-budzetski-trosenja.html",
+      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/09/hr2-1024x633.jpg",
+      "date": "Fri, 04 Sep 2026 11:54:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Извозот и државните инвестиции ја враќаат Германија на пат на раст | Пари",
+      "title": "Доделено признанието „Инженерски прстен 2026“: Од нас зависи дали најдобрите инженери ќе останат во земјата, порача Сиљановска-Давкова | Независен",
       "description": "",
-      "url": "https://time.mk/c/25caab4669/izvozot-i-drzavnite-investicii-ja-vrakaat-germanija-na-pat-na-rast.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/09/germanija-rast-1.png",
-      "date": "Fri, 04 Sep 2026 07:52:38 +0000"
+      "url": "https://time.mk/c/2682b01471/dodeleno-priznanieto-inzenerski-prsten-2026-od-nas-zavisi-dali-najdobrite-inzeneri-ke-ostanat-vo-zemjata-poraca-siljanovska-davkova.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/inzenerski-prsten-2026.jpg",
+      "date": "Fri, 04 Sep 2026 10:58:51 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Македонија од периферија кон крстопат | Нова Македонија",
+      "title": "Вучиќ за одложувањето на посетата на Кос: Објаснувањето беше исклучително кратко, но глупаво | Независен",
       "description": "",
-      "url": "https://time.mk/c/518cab0d3b/makedonija-od-periferija-kon-krstopat.html",
-      "image": "https://novamakedonija.com.mk/wp-content/uploads/2026/09/gas-pipeline-epa-150x150.jpg",
-      "date": "Fri, 04 Sep 2026 07:56:38 +0000"
+      "url": "https://time.mk/c/6db50a4c7b/vucik-za-odlozuvanjeto-na-posetata-na-kos-objasnuvanjeto-bese-isklucitelno-kratko-no-glupavo.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2025/10/Aleksandar-Vucic.jpg",
+      "date": "Fri, 04 Sep 2026 13:10:54 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Жештините го одложија стартот на учебната година во Република Српска: Наставата почнува по 11 септември | Трн",
+      "title": "Профили на активисти, новинари и опозициски лидери блокирани за време на протестите во Албанија | Независен",
       "description": "",
-      "url": "https://time.mk/c/1cf5623743/zestinite-go-odlozija-startot-na-ucebnata-godina-vo-republika-srpska-nastavata-pocnuva-po-11-septemvri.html",
-      "image": "https://trn.mk/wp-content/uploads/2025/02/shkolo.webp",
-      "date": "Fri, 04 Sep 2026 05:54:50 +0000"
+      "url": "https://time.mk/c/df8794b319/profili-na-aktivisti-novinari-i-opoziciski-lideri-blokirani-za-vreme-na-protestite-vo-albanija.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/Ð¿ÑÐ¾ÑÐµÑÑÐ¸-Ð°Ð»Ð±Ð°Ð½Ð¸ÑÐ°.webp",
+      "date": "Fri, 04 Sep 2026 09:46:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "🎥 ОД 2030 ГОДИНА ОД ЕВЗОНИ ДО СОЛУН ЌЕ ПАТУВАМЕ ПО АВТОПАТ? На трасата веќе се работи интензивно | +инфо",
+      "title": "Дали Србија е центар за руски хибридни операции низ Европа? | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/b0130fe647/od-2030-godina-od-evzoni-do-solun-ke-patuvame-po-avtopat-na-trasata-veke-se-raboti-intenzivno.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2026/09/avtopat-evzoni-solun.jpg",
-      "date": "Fri, 04 Sep 2026 07:20:51 +0000"
+      "url": "https://time.mk/c/abcbb9cef3/dali-srbija-e-centar-za-ruski-hibridni-operacii-niz-evropa.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/vucic-i-putin-300x183.jpg",
+      "date": "Fri, 04 Sep 2026 12:48:46 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Нафтата пред најголем неделен скок од јули | Bloomberg Adria",
+      "title": "Поради саботажи во Германија, Чешка ја зголемува безбедноста на аеродромите и железниците | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/2be22b65b2/naftata-pred-najgolem-nedelen-skok-od-juli.html",
-      "image": "https://mk.bloombergadria.com/data/images/2026-08-23/114748_nafta-7_f.jpg?timestamp=1788472800",
-      "date": "Fri, 04 Sep 2026 07:04:38 +0000"
+      "url": "https://time.mk/c/68c36c6ce9/poradi-sabotazi-vo-germanija-ceska-ja-zgolemuva-bezbednosta-na-aerodromite-i-zeleznicite.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/depositphotos_222052518_xl.webp",
+      "date": "Fri, 04 Sep 2026 11:42:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Нов случај на саботажа во Германија: Пронајдени лансирни направи кај трафостаница во Дормаген | Deutsche Welle",
+      "title": "Меџити: Почнува реконструкцијата на булеварот „Мит’хат Фрашери“, еден од клучните инфраструктурни проекти | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/edde71bd02/nov-slucaj-na-sabotaza-vo-germanija-pronajdeni-lansirni-napravi-kaj-trafostanica-vo-dormagen.html",
-      "image": "https://static.dw.com/image/78897024_301.jpg",
-      "date": "Fri, 04 Sep 2026 07:48:37 +0000"
+      "url": "https://time.mk/c/b01ce27572/medziti-pocnuva-rekonstrukcijata-na-bulevarot-mit-hat-fraseri-eden-od-klucnite-infrastrukturni-proekti.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/img_6851.webp",
+      "date": "Fri, 04 Sep 2026 11:10:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ДО КРАЈОТ НА ГОДИНАВА ЌЕ БИДЕ ЗАВРШЕН ПАРКОТ ВО КАРПОШ 4, ЌЕ НЕМА ЗГРАДИ И „КАРПОШ НА ВОДА“, КАЖА ЃОРЃИЕВСКИ | Сакам да кажам",
+      "title": "Почна пробивањето на булеварот АСНОМ низ Ќерамидница | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/17632438f9/do-krajot-na-godinava-ke-bide-zavrsen-parkot-vo-karpos-4-ke-nema-zgradi-i-karpos-na-voda-kaza-gjorgjievski.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/09/park-karpos-4.jpg",
-      "date": "Fri, 04 Sep 2026 07:22:45 +0000"
+      "url": "https://time.mk/c/73560d26ae/pocna-probivanjeto-na-bulevarot-asnom-niz-keramidnica.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/1-most-general-mihajlo-apostolski.jpg",
+      "date": "Fri, 04 Sep 2026 12:50:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Паркот „Авионче“ домаќин на Фестивалот на улична храна „АЕРО“ со богата музичка програма | Бизнис Вести",
+      "title": "Агресивно лице се заканувало кон градоначалникот на Сарај и вработен во општината | Скопје инфо",
       "description": "",
-      "url": "https://time.mk/c/abd01a1bf0/parkot-avionce-domakin-na-festivalot-na-ulicna-hrana-aero-so-bogata-muzicka-programa.html",
-      "image": "https://biznisvesti.mk/wp-content/uploads/2026/09/20260903144916_big_730x400_56-240x300.webp",
-      "date": "Fri, 04 Sep 2026 05:14:53 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Кумановец бил агресивен и се заканувал на својата сопруга | Кумановски м.",
-      "description": "",
-      "url": "https://time.mk/c/210b129d75/kumanovec-bil-agresiven-i-se-zakanuval-na-svojata-sopruga.html",
-      "image": "https://cdn.kumanovskimuabeti.mk/2021/09/DSC_0192-1024x682.jpg",
-      "date": "Fri, 04 Sep 2026 08:26:54 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Автомобил и автобус на ЈСП се судриле во Маџари, патничка во автобусот е тешко повредена | Слободен Печат",
-      "description": "",
-      "url": "https://time.mk/c/59fc8f54eb/avtomobil-i-avtobus-na-jsp-se-sudrile-vo-madzari-patnicka-vo-avtobusot-e-tesko-povredena.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/03/M79_7500-300x200.jpg",
-      "date": "Thu, 03 Sep 2026 22:08:34 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Едно прваче, едно училиште: првото ѕвонче во Поешево и во Кременица заѕвони само за по еден ученик | Рацин",
-      "description": "",
-      "url": "https://time.mk/c/5fa1a90147/edno-prvace-edno-uciliste-prvoto-zvonce-vo-poesevo-i-vo-kremenica-zazvoni-samo-za-po-eden-ucenik.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/09/poeshevo-uchilishte-foto-vikipedija-696x464-1-720x480.jpg?x81193",
-      "date": "Thu, 03 Sep 2026 16:14:53 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Започнува реконструкцијата на Граничниот премин Делчево | Бриф",
-      "description": "",
-      "url": "https://time.mk/c/41f5905dd4/zapocnuva-rekonstrukcijata-na-granicniot-premin-delcevo.html",
-      "image": "https://www.brif.mk/wp-content/uploads/2025/07/gp-delchevo-2.jpg",
-      "date": "Thu, 03 Sep 2026 17:26:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Во Шибеник промовирана книгата Мајка Тереза – Гонджа од Скопје (светица за сиромашните) од Јасмина Миронски | Либертас",
-      "description": "",
-      "url": "https://time.mk/c/f1a4579560/vo-sibenik-promovirana-knigata-majka-tereza-gondza-od-skopje-svetica-za-siromasnite-od-jasmina-mironski.html",
+      "url": "https://time.mk/c/3cb656b7f5/agresivno-lice-se-zakanuvalo-kon-gradonacalnikot-na-saraj-i-vraboten-vo-opstinata.html",
       "image": "",
-      "date": "Fri, 04 Sep 2026 08:26:54 +0000"
+      "date": "Fri, 04 Sep 2026 13:10:54 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Го изгледав документарецот за Кочани на Милчо, вчера на Телма, плачев за секое сведоштво, крик, за секое - ‘Се вратив внатре по другарите’“ | Црнобело",
+      "title": "Осумгодишно дете тешко повредено откако со детски мотор удрило во паркирана тракторска приколка | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/4a1de47393/go-izgledav-dokumentarecot-za-kocani-na-milco-vcera-na-telma-placev-za-sekoe-svedostvo-krik-za-sekoe-se-vrativ-vnatre-po-drugarite.html",
-      "image": "https://www.crnobelo.com/images/stories/2026/09/1009/go-izgledav-dokumentarecot-na-milcho-vchera-na-telma-plachev-za-sekoe-svedoshtvo-za-sekoe-se-vrativ-vnatre-po-drugarite-01povekje.jpg",
-      "date": "Fri, 04 Sep 2026 07:46:58 +0000"
+      "url": "https://time.mk/c/80277f9b80/osumgodisno-dete-tesko-povredeno-otkako-so-detski-motor-udrilo-vo-parkirana-traktorska-prikolka.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/76870/conversions/text-max.jpg",
+      "date": "Fri, 04 Sep 2026 10:12:39 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Децата најчесто се трујат со лекови, средствата за чистење и пестициди. Лекарите апелираат на поголема внимателност при нивното чување | Либертас",
+      "description": "",
+      "url": "https://time.mk/c/8177ab1d22/decata-najcesto-se-trujat-so-lekovi-sredstvata-za-cistenje-i-pesticidi-lekarite-apeliraat-na-pogolema-vnimatelnost-pri-nivnoto-cuvanje.html",
+      "image": "https://libertas.mk/wp-content/uploads/2022/11/lekari-1-300x167.jpg",
+      "date": "Fri, 04 Sep 2026 12:02:50 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Индекс на отвореност на локалната самоуправа: Општините сè уште не се доволно отворени за граѓаните, просекот е 39 отсто | Мета",
+      "description": "",
+      "url": "https://time.mk/c/94138f12ea/indeks-na-otvorenost-na-lokalnata-samouprava-opstinite-se-uste-ne-se-dovolno-otvoreni-za-gragjanite-prosekot-e-39-otsto.html",
+      "image": "",
+      "date": "Fri, 04 Sep 2026 10:12:39 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Жељко Самарџиќ, Де Вито, „Нокаут“ и Џејла Рамовиќ – дел од забавата на „Тиквешки гроздобер 2026“ | Фокус",
+      "description": "",
+      "url": "https://time.mk/c/37f4a3b0a6/zeljko-samardzik-de-vito-nokaut-i-dzejla-ramovik-del-od-zabavata-na-tikveski-grozdober-2026.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/09/grodzdober.jpg",
+      "date": "Fri, 04 Sep 2026 11:58:48 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Џон Малкович се расплака на премиерата на „Див коњ девет“ во Венеција — филмот доби 13-минутни стоечки овации | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/72f4a3c231/dzon-malkovic-se-rasplaka-na-premierata-na-div-konj-devet-vo-venecija-filmot-dobi-13-minutni-stoecki-ovacii.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/FotoJet-2026-09-04T140413.779-300x186.jpg",
+      "date": "Fri, 04 Sep 2026 12:02:50 +0000"
     }
   ],
   "de": [
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Illegales Streaming in Schweden rückläufig, die Ursachen sind unklar",
+      "description": "Laut der neuen Analyse der Marktforscher von Mediavision ist illegales Streaming in Schweden um 27% zurückgegangen. Die Gründe sind unklar. Der Artikel Illegales Streaming in Schweden rückläufig, die Ursachen sind unklar erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/illegales-streaming-in-schweden-ruecklaeufig-die-ursachen-sind-unklar-333281.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/illegales-streaming-in-schweden-ruecklaeufig-die-ursachen-sind-unklar",
+      "date": "Fri, 04 Sep 2026 08:40:17 +0000"
+    },
     {
       "category": "de",
       "source": "Tarnkappe",
@@ -443,18 +452,27 @@
       "url": "https://tarnkappe.info/artikel/gaming/cyberleek-will-mit-gta-6-nur-kasse-machen-333035.html",
       "image": "https://cdn.tarnkappe.info/wpimg/cyberleek-will-mit-gta-6-nur-kasse-machen",
       "date": "Thu, 27 Aug 2026 19:38:33 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Klarna-Phishing-Falle: Betrüger ködern Amazon-Kunden mit 129,45 Euro",
-      "description": "Klarna-Phishing-Falle mit 129,45 Euro: Betrüger ködern Amazon-Kunden mit einer Fake-Rückerstattung und wollen an sensible Daten gelangen. Der Artikel Klarna-Phishing-Falle: Betrüger ködern Amazon-Kunden mit 129,45 Euro erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/it-sicherheit/online-betrug/klarna-phishing-falle-amazon-129-45-euro-333028.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/klarna-phishing-falle-amazon-129-45-euro",
-      "date": "Thu, 27 Aug 2026 15:01:10 +0000"
     }
   ],
   "eng": [
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Samsung’s Flagship Dolby Atmos Soundbar Is 50% Off for Amazon’s Labor Day Sale",
+      "description": "This soundbar offers a complete home theater setup, now at its lowest price yet for Labor Day.",
+      "url": "https://lifehacker.com/tech/samsung-dolby-atmos-soundbar-sale-labor-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01K2YVZE2C2NXJ2VEK00NXCSRK/hero-image.png",
+      "date": "Fri, 04 Sep 2026 12:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Lifehacker Early Labor Day Sale Live Blog: The Best Labor Day Deals, All in One Place",
+      "description": "Follow for live updates as we share the best early Labor Day deals we can find.",
+      "url": "https://lifehacker.com/tech/early-labor-day-sales-live-blog-09-04-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M1CNXXEYPE51P194PSFGJZ9Z/hero-image.webp",
+      "date": "Fri, 04 Sep 2026 12:00:00 +0000"
+    },
     {
       "category": "eng",
       "source": "Lifehacker",
@@ -463,15 +481,6 @@
       "url": "https://lifehacker.com/tech/best-deals-from-best-buys-labor-day-sale-2026?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01M1FD8DDV9EYFJ1Q3FA5Z4GWF/hero-image.webp",
       "date": "Thu, 03 Sep 2026 21:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "Lifehacker Early Labor Day Sale Live Blog: The Best Labor Day Deals, All in One Place",
-      "description": "Follow for live updates as we share the best early Labor Day deals we can find.",
-      "url": "https://lifehacker.com/tech/early-labor-day-sales-live-blog-09-03-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1CNXXEYPE51P194PSFGJZ9Z/hero-image.webp",
-      "date": "Thu, 03 Sep 2026 20:55:09 +0000"
     },
     {
       "category": "eng",
@@ -628,12 +637,39 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "The Samsung Galaxy S25+ Is $320 Off During Amazon's Labor Day Sale",
-      "description": "The Galaxy S25+ is still an impressive Android in 2026.",
-      "url": "https://lifehacker.com/tech/samsung-galaxy-s25-plus-sale-labor-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01JYM4YHQJ9PH0D6TMHDD4CJ29/hero-image.png",
-      "date": "Thu, 03 Sep 2026 14:53:06 +0000"
+      "source": "PCWorld",
+      "title": "Best of IFA 2026: 10 hot PC products and tech on the horizon",
+      "description": "Like CES in Las Vegas, the IFA technology tradeshow that takes place every year in Berlin gives technology vendors and taste makers an opportunity to show off their latest and greatest wares, and consumers a chance to start planning their next purchases and saving their shekels. From a PC user’s perspective, the category that got the most love this year was monitors, and we’re here for it as innovations include esports-caliber OLED and truly affordable Mini LED. There are also some tasty laptops",
+      "url": "https://www.pcworld.com/article/3226821/best-of-ifa-2026-10-hot-pc-products-and-tech-on-the-horizon.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3226821-0-47164500-1788527432-Best-of-IFA-2026-16x9-1.jpg?quality=50&strip=all",
+      "date": "Fri, 04 Sep 2026 13:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Nvidia’s DLSS 5 looks incredible. I’m just not sure whose vision I’m seeing",
+      "description": "Nvidia’s controversial DLSS 5 is out this week , and it was a big topic of discussion in this week’s episode of The Full Nerd. While I haven’t had a chance to test it out myself, by the time you read this I’ll be furiously updating my Nvidia drivers and seriously considering splurging on a copy of NBA 2K27 just to get a look at the earliest game to launch with official DLSS 5 support. I’m curious to see if the reported performance dips that come with enabling DLSS 5 are actually counteracted by ",
+      "url": "https://www.pcworld.com/article/3224774/dlss-5-is-here-and-i-cant-help-wondering-if-we-need-a-devs-intended-experience-mode-in-games.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3224774-0-36221600-1788523982-image_405d4c.png",
+      "date": "Fri, 04 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "AI helps kids do better in school. That doesn’t mean they’re learning",
+      "description": "The best way for us grownups to prepare for AI is to use AI, I’ve frequently argued. But when it comes to the benefits of kids using AI, there are far more questions than answers. New York City’s just-announced AI “moratorium” for elementary and middle-school students is among the most striking manifestations of the growing worries over AI’s growing presence in classrooms. Yet there’s also concern it may be too little, too late. According to a 2026 Pew Research survey , 54 percent of students re",
+      "url": "https://www.pcworld.com/article/3226076/ai-helps-kids-do-better-in-school-that-doesnt-mean-theyre-learning.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3226076-0-78325500-1788520574-ChatGPT-interface.jpg?quality=50&strip=all",
+      "date": "Fri, 04 Sep 2026 11:15:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "This website is a rabbit hole of pure internet nonsense",
+      "description": "Some websites help you get stuff done. Others let you watch a picture of a pug spin around your screen for eternity. The Useless Web is all about discovering more of the latter. The site is basically a doorway to some of the weirdest corners of the internet. Open it and you’ll see one big “PLEASE” button. Click that, and you’ll be sent to a random website with little to no practical purpose. That’s the whole idea though. Where you end up is anyone’s guess. You might find a game where you race to",
+      "url": "https://www.pcworld.com/article/3223178/this-website-is-a-rabbit-hole-of-pure-internet-nonsense.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3223178-0-17575000-1788517834-Useless-Net.png",
+      "date": "Fri, 04 Sep 2026 10:30:00 +0000"
     },
     {
       "category": "eng",
@@ -688,42 +724,6 @@
       "url": "https://www.pcworld.com/article/3224923/lenovos-ideapad-vibe-laptops-combine-color-chatbots-and-computing.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3224923-0-97602700-1788451334-03_IdeaPad_Vibe_14__Gen_12_Trendy_Colours_14__Metal.png",
       "date": "Thu, 03 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Lenovo made a ThinkBook that literally stretches sideways",
-      "description": "At CES 2026, we saw a Lenovo gaming laptop that slowly unrolled into a widescreen laptop. At IFA, we’re seeing a second: a ThinkBook prototype that Lenovo is calling “Project Swan.” Let’s face it: Lenovo seems to have this rollable laptop concept sewn up. Lenovo’s ThinkBook Plus Rollable from last year was all about productivity: the $3,299 laptop included a screen which extended upwards from 14 inches to create a 16.7-inch display. Now Lenovo has gone in the opposite direction. Since Project Sw",
-      "url": "https://www.pcworld.com/article/3224877/lenovos-project-swan-is-its-thinkbook-widescreen-rollable.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3224877-0-38382200-1788451314-20260818_155249.jpg?quality=50&strip=all",
-      "date": "Thu, 03 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Lenovo’s fanless laptop makes AirJet feel real at last",
-      "description": "In 2022, I broke the story on Frore Systems and its AirJet Mini and AirJet Pro , two solid-state cooling solutions that could replace traditional fans in laptops. Since then, readers have been grumbling: “Where are they? Is the AirJet just vaporware?” Apparently not, as Lenovo has built them into its Project AeroBlade concept that will ship, at a guess, in 2027. Here’s what the AeroBlade concept means: By using Frore’s solution, Lenovo can eliminate traditional fans and therefore shave off weigh",
-      "url": "https://www.pcworld.com/article/3223944/lenovos-fanless-laptop-makes-airjet-feel-real-at-last.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3223944-0-22622400-1788451278-Lenovo-ThinkBook-AeroBlade-concept-edge.jpg?quality=50&strip=all",
-      "date": "Thu, 03 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Nvidia wants to turn your house of gaming PCs into an AI supercomputer",
-      "description": "Nvidia and its partners are ready to roll out new RTX Spark-powered devices in October, shoving the GPU goliath into the CPU spotlight with a beastly first processor that’s augmented by powerful integrated graphics. It’s all to chase the allure of local AI. And to set the stage, at IFA Berlin 2026, Nvidia is introducing new software designed to turn your RTX-powered gaming household into a miniature AI factory of its own. Nvidia Dubbed Nvidia PAIR (short for “Personal AI Router”), the free appli",
-      "url": "https://www.pcworld.com/article/3226013/nvidia-wants-to-turn-your-house-of-gaming-pcs-into-an-ai-supercomputer.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3226013-0-41305400-1788451229-GeForce-RTX-5080-Slim-stacked-on-top-of-RTX-5090.jpg?quality=50&strip=all",
-      "date": "Thu, 03 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Oukitel’s new rugged laptop charges via sunlight and survives water jets",
-      "description": "Oukitel, a Chinese consumer electronics company with a 10-year pedigree, just unveiled its new RG14-P laptop at IFA 2026 in Berlin. What makes this laptop unique is that it’s not only exceptionally durable but can also charge its own battery using solar power, reports Notebookcheck . According to Oukitel, the laptop’s solar panels can generate up to 15 watts. That should be enough to charge the 95 watt-hour battery from 0 to 50 percent in around six hours. The laptop’s battery also consists of a",
-      "url": "https://www.pcworld.com/article/3226571/oukitels-new-rugged-laptop-charges-via-sunlight-and-survives-water-jets.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3226571-0-96607000-1788447765-Oukitel-RG14-P3.jpg?quality=50&strip=all",
-      "date": "Thu, 03 Sep 2026 15:01:40 +0000"
     }
   ],
   "starwars": [
@@ -1002,6 +1002,15 @@
     {
       "category": "youtube",
       "source": "Hood Informatik",
+      "title": "Was haltet ihr vom OpenAI Astra Video ?! #informatik #openai #news #ai",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/5gcM81Hr9qc",
+      "image": "https://i.ytimg.com/vi/5gcM81Hr9qc/hqdefault.jpg",
+      "date": "2026-09-04T11:39:11+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
       "title": "Der Zoll klont seit 2025 eure WhatsApp-Konten #whatsapp #informatik #messenger #news",
       "description": "",
       "url": "https://www.youtube.com/shorts/HdLY4hqldD8",
@@ -1079,15 +1088,6 @@
       "url": "https://www.youtube.com/shorts/fbvHbNpd-tQ",
       "image": "https://i.ytimg.com/vi/fbvHbNpd-tQ/hqdefault.jpg",
       "date": "2026-08-26T19:09:19+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Aliexpress trackt dich über Audio Berechnungen... #sound #tracking#code#news#informatik #security",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/GYNdziCFS10",
-      "image": "https://i.ytimg.com/vi/GYNdziCFS10/hqdefault.jpg",
-      "date": "2026-08-25T17:19:04+00:00"
     },
     {
       "category": "youtube",
