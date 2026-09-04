@@ -1,95 +1,23 @@
 {
-  "updated": "2026-09-04T19:24:04.199809+00:00",
+  "updated": "2026-09-04T21:41:24.366042+00:00",
   "mkd": [
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "AI Student Hackathon powered by OpenAI: Практична можност за младите на AI Tech Summit „Filip Avramchev“ Skopje 2026",
-      "description": "Средношколци и студенти ќе имаат можност да учествуваат на AI Student Hackathon powered by OpenAI, кој ќе се одржи во рамки на AI Tech Summit „Filip Avramchev“ Skopje 2026. Хакатонот е наменет за тимови од млади учесници кои ќе работат на конкретен предизвик и ќе развиваат сопствено AI решение со користење на OpenAI алатки и […]",
-      "url": "https://smartportal.mk/novosti/nastani/ai-student-hackathon-powered-by-openai/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/AI-Tech-Summit25-630-150x150.webp",
-      "date": "Fri, 04 Sep 2026 17:39:05 +0000"
+      "source": "Time.mk - All",
+      "title": "Пожарот кај Грачани локализиран, граѓаните се жалат на тешко дишење и печење на очите | Скопје инфо",
+      "description": "",
+      "url": "https://time.mk/c/8969377eb8/pozarot-kaj-gracani-lokaliziran-gragjanite-se-zalat-na-tesko-disenje-i-pecenje-na-ocite.html",
+      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/septemvri/image-259591.jpg?itok=gLFzxxPe",
+      "date": "Fri, 04 Sep 2026 20:48:36 +0000"
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Nvidia ја купува платформата Hugging Face за 12,93 милијарди долари",
-      "description": "Nvidia официјално објави дека постигнала договор за купување на Hugging Face за сума од 12,93 милијарди долари. Целта на оваа аквизиција се истакнува дека е да се прошири капацитетот на платформата, да се зајакне нејзината инфраструктура и да се овозможи уште поширок пристап до алатките за вештачка интелигенција за програмерите и институциите ширум светот. Hugging […]",
-      "url": "https://smartportal.mk/novosti/ai/nvidia-ja-kupuva-hugging-face/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2-f-150x150.webp",
-      "date": "Fri, 04 Sep 2026 12:37:28 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Бројот на поправени безбедносни пропусти во јадрото на Linux наскоро би можел да достигне 2.000 по верзија",
-      "description": "Јадрото (kernel) на Linux се приближува до бројката од речиси 2.000 поправени безбедносни пропусти по верзија, што претставува значителен пораст во споредба со просечните 500 пропусти кај верзиите 6.x. Овој тренд го истакна Грег Кроа-Хартман, посочувајќи дека бројот на ранливости надминал 1.000 во верзијата 7.0, а во 7.2 достигнал над 1.500. Доколку трендот продолжи, верзијата […]",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/brojot-na-cve-linux-kernel-se-blizi-do-2000/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Depositphotos_288019916_XL-f-150x150.webp",
-      "date": "Fri, 04 Sep 2026 12:05:06 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Microsoft најави посебно приспособена верзија од Windows 11 наменета за програмерите",
-      "description": "Microsoft официјално го најави Project Zenith, нов концепт на Windows оперативниот систем кој е специјално приспособен за потребите на програмерите. Според Логан Ајер, корпоративен потпретседател за Windows платформа и програмери во Microsoft, напредокот во компјутерската технологија станува реалност токму преку искуствата што ги создаваат креаторите на софтвер. Главната цел на компанијата е да го позиционира […]",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/microsoft-project-zenith/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Depositphotos_819168294_XL-f-150x150.webp",
-      "date": "Fri, 04 Sep 2026 11:21:20 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Објавена е верзијата 0.4.16 на ReactOS со нов графички „инсталер“",
-      "description": "Проектот ReactOS, кој нуди оперативен систем со отворен код компатибилен со апликациите и управувачите на Windows, ја објави верзијата 0.4.16. Ова ажурирање доаѓа по околу година и пол развој и се фокусира на подобрување на искуството при инсталација и поголема стабилност на системот за крајните корисници. Најзначајната промена во ова издание е воведувањето на нов […]",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/reactos-0-4-16/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/gui-setup-1-150x150.webp",
-      "date": "Fri, 04 Sep 2026 10:57:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Како Cloudflare ослободи 100TB меморија со паметна оптимизација на DNS „кешот“",
-      "description": "Cloudflare успешно ослободи околу 100TB работна меморија на својата глобална серверска мрежа и тоа без никакви физички промени на хардверот. Овој резултат е постигнат со целосно редизајнирање на начинот на кој DNS записите се чуваат во меморијата на нивната платформа Big Pineapple, која стои зад популарниот јавен сервис 1.1.1.1. Системот во секој момент чува над […]",
-      "url": "https://smartportal.mk/novosti/servisi/kako-cloudflare-oslobodi-100tb-memorija-so-pametna-optimizacija-na-dns/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Depositphotos_778596864_XL-f-150x150.webp",
-      "date": "Fri, 04 Sep 2026 10:05:06 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Џон Просер го „прикажува“ јубилејниот iPhone 20 и препорачува да го прескокнете iPhone 18 Pro",
-      "description": "Идната година Apple ќе ја одбележи дваесетгодишнината од претставувањето на нивниот прв „смартфон“, односно од претставувањето на првиот iPhone кој дефинитивно може да се каже дека целосно го промени овој пазар. Веќе одреден период може да се прочита дека за овој јубилеј Apple ќе претстави посебна верзија од iPhone, која во промените ќе потсетува на […]",
-      "url": "https://smartportal.mk/novosti/smartfoni/jon-prosser-go-prikazuva-iphone-20/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/maxresdefault-150x150.jpg",
-      "date": "Fri, 04 Sep 2026 08:57:31 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "OpenAI го претстави GPT-6 Astra јазичниот модел кој го промовира како најинтелигентниот во светот",
-      "description": "OpenAI официјално го претстави GPT-6 Astra, нивниот најнов модел за вештачка интелигенција кој е насочен кон софтверското инженерство, научните истражувања и самостојното користење на компјутерски системи. Моделот од денес е достапен за ограничена група организации, а во наредните денови ќе биде овозможен за корисниците на претплатите Plus, Pro, Business и Enterprise, како и преку програмскиот […]",
-      "url": "https://smartportal.mk/novosti/ai/openai-gpt-6-astra/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/gpt-6-astra-f-150x150.webp",
-      "date": "Fri, 04 Sep 2026 08:24:57 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Google ги претстави Gemini 3.8 Flash и Gemini 3.8 Flash Cyber јазичните модели",
-      "description": "Google официјално ги објави новите верзии на своите јазични модели, Gemini 3.8 Flash и Gemini 3.8 Flash Cyber, а повторно, Flash моделот доаѓа само неколку недели по претходната верзија. Според информациите од компанијата, основната верзија 3.8 Flash ги нуди најдобрите перформанси досега во доменот на логичко заклучување и програмирање. Новиот модел ја задржува истата брзина […]",
-      "url": "https://smartportal.mk/novosti/ai/google-gi-pretstavi-gemini-3-8-flash-i-gemini-3-8-flash-cyber/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/gemini-3-8_flash__blog__header__.width-2200.format-webp-150x150.webp",
-      "date": "Thu, 03 Sep 2026 15:40:56 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Samsung Galaxy Z Fold8 први импресии",
-      "description": "По околу осум години тестирање на уредите на преклоп од Samsung, кои низ годините главно добиваа стандардни подобрувања, но не и драстични промени, оваа година ситуацијата е дефинитивно поразлична. Samsung, а јас би додал конечно, се одлучи да претстави поинаков формат кај својата Galaxy Z Fold серија. Така, новиот Galaxy Z Fold8 доаѓа со поширок […]",
-      "url": "https://smartportal.mk/novosti/uredi/samsung-galaxy-z-fold8-prvi-impresii/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/galaxy-z-fold8-smartportal-3-150x150.webp",
-      "date": "Thu, 03 Sep 2026 12:11:20 +0000"
+      "source": "Time.mk - All",
+      "title": "Митева објасни зошто картите за концертот на Дејвид Гета мора да се заменат со нараквици | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/7c3e6878c7/miteva-objasni-zosto-kartite-za-koncertot-na-dejvid-geta-mora-da-se-zamenat-so-narakvici.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2024/10/09102024_Miteva-e1773776609708-300x158.jpg",
+      "date": "Fri, 04 Sep 2026 21:32:34 +0000"
     },
     {
       "category": "mkd",
@@ -103,20 +31,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Економски раст и стабилизирана инфлација“ – Мицкоски: Повторно тврдам дека сме меѓу четирите најдобри во Европа | ТВ21",
+      "title": "Четири нови сомнителни случаи со западно-нилска треска, меѓу нив има и дете | Нова Македонија",
       "description": "",
-      "url": "https://time.mk/c/e7253320a6/ekonomski-rast-i-stabilizirana-inflacija-mickoski-povtorno-tvrdam-deka-sme-megju-cetirite-najdobri-vo-evropa.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2026/08/mickoski-gasovod.png",
-      "date": "Fri, 04 Sep 2026 16:02:54 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - Magazin",
-      "title": "Фолксваген почнува со зафати што ќе го сменат концернот од корен | Automedia",
-      "description": "",
-      "url": "https://time.mk/c/8594b28c02/folksvagen-pocnuva-so-zafati-sto-ke-go-smenat-koncernot-od-koren.html",
-      "image": "https://automedia.mk/wp-content/uploads/Volkswagen-Golf-I-pocetok-proizvodstvo-mart-1974-godina-300x169.jpg",
-      "date": "Fri, 04 Sep 2026 19:02:50 +0000"
+      "url": "https://time.mk/c/69293f31ba/cetiri-novi-somnitelni-slucai-so-zapadno-nilska-treska-megju-niv-ima-i-dete.html",
+      "image": "https://novamakedonija.com.mk/wp-content/uploads/2024/09/marija-andonovska-1-150x150.jpg",
+      "date": "Fri, 04 Sep 2026 21:08:38 +0000"
     },
     {
       "category": "mkd",
@@ -130,20 +49,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Армијата со хеликоптер Ми-8МТ гаснеше кај Грачани: Истурени 28 тони вода | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/eb2ecd5dda/armijata-so-helikopter-mi-8mt-gasnese-kaj-gracani-istureni-28-toni-voda.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84684/conversions/text-max.jpg",
-      "date": "Fri, 04 Sep 2026 14:00:47 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
       "title": "Четворица во трка за наследник на Абази | Журнал",
       "description": "",
       "url": "https://time.mk/c/20254715ec/cetvorica-vo-trka-za-naslednik-na-abazi.html",
       "image": "https://zurnal.mk/wp-content/uploads/2023/04/obvinitelstvo-1.jpg",
       "date": "Fri, 04 Sep 2026 17:52:36 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "„Економски раст и стабилизирана инфлација“ – Мицкоски: Повторно тврдам дека сме меѓу четирите најдобри во Европа | ТВ21",
+      "description": "",
+      "url": "https://time.mk/c/e7253320a6/ekonomski-rast-i-stabilizirana-inflacija-mickoski-povtorno-tvrdam-deka-sme-megju-cetirite-najdobri-vo-evropa.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2026/08/mickoski-gasovod.png",
+      "date": "Fri, 04 Sep 2026 16:02:54 +0000"
     },
     {
       "category": "mkd",
@@ -157,29 +76,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВО СЛЕДНИТЕ ДЕНОВИ ВОЗАЧИТЕ ВО СРБИЈА ПЛАЌААТ НАЈСКАП ДИЗЕЛ | Економија и Бизнис",
+      "title": "Вучиќ: Подготвен сум да бидам премиер | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/81482aae26/vo-slednite-denovi-vozacite-vo-srbija-plakaat-najskap-dizel.html",
-      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/03/pumpadizel.jpg",
-      "date": "Fri, 04 Sep 2026 19:18:50 +0000"
+      "url": "https://time.mk/c/6bc9403bc8/vucik-podgotven-sum-da-bidam-premier.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/37439/conversions/490506140_1221633092883168_4859003472972009158_n-max.jpg",
+      "date": "Fri, 04 Sep 2026 21:08:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Србија поделена околу погребот на Ратко Младиќ: државни почести, меѓународен притисок | Deutsche Welle",
+      "title": "Погребот на Ратко Младиќ отвори нови тензии меѓу Белград, невладиниот сектор и Брисел | 4NEWS",
       "description": "",
-      "url": "https://time.mk/c/a508e5bfff/srbija-podelena-okolu-pogrebot-na-ratko-mladik-drzavni-pocesti-megjunaroden-pritisok.html",
-      "image": "https://static.dw.com/image/78926081_302.jpg",
-      "date": "Fri, 04 Sep 2026 12:04:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Марта Кос ја откажа посетата на Србија поради величењето на Младиќ. За Вучиќ објаснувањето е „глупаво“ | Независен",
-      "description": "",
-      "url": "https://time.mk/c/0c738069bf/marta-kos-ja-otkaza-posetata-na-srbija-poradi-velicenjeto-na-mladik-za-vucik-objasnuvanjeto-e-glupavo.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/Marta-Kos.jpg",
-      "date": "Fri, 04 Sep 2026 12:58:54 +0000"
+      "url": "https://time.mk/c/7afb202c76/pogrebot-na-ratko-mladik-otvori-novi-tenzii-megju-belgrad-nevladiniot-sektor-i-brisel.html",
+      "image": "https://4news.mk/wp-content/uploads/2026/08/ratko-mladikj.avif",
+      "date": "Fri, 04 Sep 2026 19:24:36 +0000"
     },
     {
       "category": "mkd",
@@ -195,9 +105,18 @@
       "source": "Time.mk - All",
       "title": "Данска од 2027 сака да користи „центри за враќање“ на мигранти надвор од ЕУ | Независен",
       "description": "",
-      "url": "https://time.mk/c/30caff277f/danska-od-2027-saka-da-koristi-centri-za-vrakanje-na-migranti-nadvor-od-eu.html",
+      "url": "https://time.mk/c/5d893f5dba/danska-od-2027-saka-da-koristi-centri-za-vrakanje-na-migranti-nadvor-od-eu.html",
       "image": "https://nezavisen.mk/wp-content/uploads/2022/06/danska-konkurentnost.jpg",
       "date": "Fri, 04 Sep 2026 18:04:37 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "(Видео) Со ракавици и крпа покажа како се сака градот: Филип исчисти автобуска станица во Скопје | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/7dcd9439a8/video-so-rakavici-i-krpa-pokaza-kako-se-saka-gradot-filip-iscisti-avtobuska-stanica-vo-skopje.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84704/conversions/text-max.jpg",
+      "date": "Fri, 04 Sep 2026 21:32:34 +0000"
     },
     {
       "category": "mkd",
@@ -211,11 +130,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Удрени темелите на спортската сала во училиштето „Братство“ | Вечер Прес",
+      "title": "МВР по четири дена откри што се случувало со починатиот струмичанец во Битола и кои се луѓето на снимката од Широк Сокак | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/26dc4b2c3b/udreni-temelite-na-sportskata-sala-vo-ucilisteto-bratstvo.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/09/2-sportska-sala-taftalidze-2.jpg",
-      "date": "Fri, 04 Sep 2026 12:52:46 +0000"
+      "url": "https://time.mk/c/a54f3e8388/mvr-po-cetiri-dena-otkri-sto-se-slucuvalo-so-pocinatiot-strumicanec-vo-bitola-i-koi-se-lugjeto-na-snimkata-od-sirok-sokak.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/sirok-sokak-snimka-300x190.jpg",
+      "date": "Fri, 04 Sep 2026 21:18:53 +0000"
     },
     {
       "category": "mkd",
@@ -225,15 +144,6 @@
       "url": "https://time.mk/c/9dea2ed27e/krivicna-za-dve-lica-od-strumica-za-danocno-zatajuvanje-lihvarstvo-i-perenje-pari-odzemeni-597-500-evra.html",
       "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84683/conversions/text-max.jpg",
       "date": "Fri, 04 Sep 2026 13:54:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "По тепачка, мистерија во Битола: Оној кој го влечеа по „Широк сокак“ е жив, починал оној кој влечел | Фокус",
-      "description": "",
-      "url": "https://time.mk/c/fce068b624/po-tepacka-misterija-vo-bitola-onoj-koj-go-vlecea-po-sirok-sokak-e-ziv-pocinal-onoj-koj-vlecel.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/09/vlechene-shirok-sokak-1170x973.jpg",
-      "date": "Fri, 04 Sep 2026 13:35:00 +0000"
     },
     {
       "category": "mkd",
@@ -256,20 +166,110 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Жељко Самарџиќ, Де Вито, „Нокаут“ и Џејла Рамовиќ – дел од забавата на „Тиквешки гроздобер 2026“ | Фокус",
+      "title": "Вечерва во Кавадарци започнува „Тиквешки гроздобер“, кој се ќе настапи | еМагазин",
       "description": "",
-      "url": "https://time.mk/c/788cb782dd/zeljko-samardzik-de-vito-nokaut-i-dzejla-ramovik-del-od-zabavata-na-tikveski-grozdober-2026.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/09/grodzdober.jpg",
-      "date": "Fri, 04 Sep 2026 11:58:48 +0000"
+      "url": "https://time.mk/c/02a3992768/vecerva-vo-kavadarci-zapocnuva-tikveski-grozdober-koj-se-ke-nastapi.html",
+      "image": "https://emagazin.mk/wp-content/uploads/2026/08/764638227_1663498682447297_5658713466784874955_n-300x132.jpg",
+      "date": "Fri, 04 Sep 2026 14:30:53 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВО ЖИВО од плоштадот „Македонија“: Над 30 изведувачи на едно место - сценски спетакл за независноста | Скопје1",
+      "title": "„Земјо македонска“ и „Бисер балкански“ одекнаа на плоштадот во Скопје, во чест на 35 години независност | Скопје инфо",
       "description": "",
-      "url": "https://time.mk/c/0102292780/vo-zivo-od-plostadot-makedonija-nad-30-izveduvaci-na-edno-mesto-scenski-spetakl-za-nezavisnosta.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84698/conversions/text-max.jpg",
-      "date": "Fri, 04 Sep 2026 18:42:45 +0000"
+      "url": "https://time.mk/c/6e790d3531/zemjo-makedonska-i-biser-balkanski-odeknaa-na-plostadot-vo-skopje-vo-cest-na-35-godini-nezavisnost.html",
+      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/septemvri/image-259589.png?itok=1Xtkb5wx",
+      "date": "Fri, 04 Sep 2026 20:36:36 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Анастасија Кораблева штотуку стана светска шампионка во боди билдинг и ние сме особено исплашени",
+      "description": "Години на тренинг, боцкање, јадење, боцкање и страдање се натрупани во секое мускулно влакно. И дали споменавме боцкање! Затоа решивме да не зборуваме многу и само послушно ќе ги измиеме садовите вечерва.",
+      "url": "https://motika.mk/anastasija-korableva-stotuku-stana-svetska-sampionka-vo-bodi-bilding-i-nie-sme-osobeno-isplaseni/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/04/asset-80643b595c0cbe7eaa1bf70b380a06de.jpg",
+      "date": "Fri, 04 Sep 2026 10:14:33 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Таткото и синот заедно уживаат во детската емисија, а особено таткото",
+      "description": "Жабата посебно му се допадна, му ја разбуди фантазијата.",
+      "url": "https://motika.mk/tatkoto-i-sinot-zaedno-uzivaat-vo-detskata-emisija-a-osobeno-tatkoto/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/04/asset-d0ab10ee7ed25b39297994fce2ae01b8.jpg",
+      "date": "Fri, 04 Sep 2026 10:07:30 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Бизарно: Дајсон дизајнираше четка за заби со вештачка интелигенција и камера што ќе чини само 479 евра",
+      "description": "Макро камерата од 100.000 пиксели е напојувана од Gap Optical Targeting™, алгоритмот за машинско учење со вештачка интелигенција на Dyson. Gap Optical Targeting™ анализира 28 слики во живо во секунда за да идентификува и третира празнини меѓу забите во реално време. Во рок од 100 ms откако камерата ќе открие празнина, уредот се активира и ...",
+      "url": "https://motika.mk/bizarno-dajson-dizajnirase-cetka-za-zabi-so-vestacka-inteligencija-i-kamera-sto-ke-cini-samo-479-evra/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/04/asset-d6ef7d81f4e88000119ef06bf9f3d517.jpg",
+      "date": "Fri, 04 Sep 2026 09:44:28 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Девојката ќе ви покаже дека најубавите оптички илузии не висат на ѕидот",
+      "description": "Навистина личи како илузија, а всушност е реалност.",
+      "url": "https://motika.mk/devojkata-ke-vi-pokaze-deka-najubavite-opticki-iluzii-ne-visat-na-zidot/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/04/847364ec59024567836ebed0715859ed.jpg",
+      "date": "Fri, 04 Sep 2026 09:32:38 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Мотика рецепт на денот: Пилешко со пиво",
+      "description": "Потребни состојки: 1 кокошка со средна големина, 1 чаша пиво и компири по желба. Еве го видео упатството како се прави. Чекор 1:",
+      "url": "https://motika.mk/motika-recept-na-denot-pilesko-so-pivo/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/04/836effe6ce9d4b649fad46fdf3160bf0.jpg",
+      "date": "Fri, 04 Sep 2026 08:34:41 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Антонио Гутереш, генералниот секретар на ОН предупредува: Пробата заврши, екстремна жештина пристигна",
+      "description": "Колку и да сме скептични и да негираме дека глобалното затоплување е само уште една финта да го плашат народот, факт е дека вакви жештини во септември немаме видено. Што мислите вие?",
+      "url": "https://motika.mk/antonio-guteres-generalniot-sekretar-na-on-predupreduva-probata-zavrsi-ekstremna-zestina-pristigna/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/04/a981ce75f6f94d038e7b657fe699cf82.jpg",
+      "date": "Fri, 04 Sep 2026 08:31:27 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Вистината за 35 години независна Македонија напишана на еден мост во Кочани",
+      "description": "Почекајте уште 40 години, да се донајадат политичарите и да си ги обезбедат идните поколенија до 10-то колено, па ќе ви ја асфалтираат улицата.",
+      "url": "https://motika.mk/vistinata-za-35-godini-nezavisna-makedonija-napisana-na-eden-most-vo-kocani/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/04/kocani2.jpg",
+      "date": "Fri, 04 Sep 2026 08:19:58 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Мајката ја испраќа ќеркичката во градинка, воспитувачката ја дочекува. Каде прво ви застана погледот?",
+      "description": "Признајте си, нормална работа е тоа 🙂",
+      "url": "https://motika.mk/majkata-ja-ispraka-kerkickata-vo-gradinka-vospituvackata-ja-docekuva-kade-prvo-vi-zastana-pogledot/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/04/hruxnr_awaayknr.jpeg",
+      "date": "Fri, 04 Sep 2026 07:12:15 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Зошто бе маче сељак?",
+      "description": "Кај полицаец, па и сељак 🙂",
+      "url": "https://motika.mk/zosto-be-mace-selak/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/04/ae4699db-4c8d-40bf-bb99-d5755092232d.jpg",
+      "date": "Fri, 04 Sep 2026 07:02:15 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Упатство за купување сладоледи во кавадаречки маркет",
+      "description": "Затоа што луѓето не сфаќаат дека сладоледите се топат 🙂",
+      "url": "https://motika.mk/upatstvo-za-kupuvane-sladoledi-vo-kavadarecki-market/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/04/9e95cded-e69a-4f6d-bf40-944374644c12.jpg",
+      "date": "Fri, 04 Sep 2026 07:00:48 +0000"
     }
   ],
   "de": [
@@ -458,6 +458,78 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "The Best Deals on Tech for Labor Day",
+      "description": "Find TVs, headphones, soundbars, and kitchen appliances at up to 44% off.",
+      "url": "https://lifehacker.com/tech/best-tech-deals-labor-day-sale-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M154WXDQ0G0PJGFPK4M1VV4C/hero-image.webp",
+      "date": "Fri, 04 Sep 2026 21:20:14 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "The Best Deals on Garmin Watches for Labor Day",
+      "description": "Several of my favorite Garmin watches are on sale this Labor Day, including the Venu 3S at an all-time-low price.",
+      "url": "https://lifehacker.com/health/best-garmin-smartwatch-deals-labor-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M1Q0GD16NEKKY2FVRSXH6TRP/hero-image.jpg",
+      "date": "Fri, 04 Sep 2026 21:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Why ‘Open Platform’ Is the Next Big Frontier for Smart Glasses",
+      "description": "The war for control of your face computer is heating up.",
+      "url": "https://lifehacker.com/tech/even-realities-smart-glasses-app-store?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01KNAM4757G2TMA4ATQVGD648R/hero-image.png",
+      "date": "Fri, 04 Sep 2026 20:45:03 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Six Labor Day Smartphone Deals That Are Worth the Money",
+      "description": "Smartphones are getting more expensive, and these Labor Day discounts are welcome.",
+      "url": "https://lifehacker.com/tech/best-smartphone-deals-labor-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M1PXPAP3J915VEHSFMP38VGK/hero-image.png",
+      "date": "Fri, 04 Sep 2026 20:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "10 Hacks Every Even Realities G2 Smart Glasses User Should Know",
+      "description": "Turn your G2 smart glasses into a personal subtitle generator, a second brain, and more.",
+      "url": "https://lifehacker.com/tech/10-hacks-for-even-realities-g2-glasses?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01KYAE830XW3TR5MY7AGRM7Q2G/hero-image.jpg",
+      "date": "Fri, 04 Sep 2026 20:15:37 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "I'm Obsessed With the 'Conversate' App on These Smart Glasses",
+      "description": "Impress your boss. Annoy your friends. Deceive your bartender.",
+      "url": "https://lifehacker.com/tech/conversate-app-on-even-realities-g2-smart-glasses?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01KQZKXS78KKTD6X1ND97KFBB3/hero-image.png",
+      "date": "Fri, 04 Sep 2026 19:45:15 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "The Best Deals on Tools and Appliances From Home Depot's Labor Day Sale",
+      "description": "Save up to 50% on grills, landscaping equipment, outdoor lights, tools, security cameras, and more.",
+      "url": "https://lifehacker.com/tech/best-deals-home-depot-labor-day-sale?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M1018G47EMNCTFEXAAA2NWH1/hero-image.webp",
+      "date": "Fri, 04 Sep 2026 19:30:32 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "The Best Labor Day Deals on Tablets and iPads",
+      "description": "Save up to 41% on iPads, Samsung Galaxy Tabs, and budget-friendly Android tablets this Labor Day.",
+      "url": "https://lifehacker.com/tech/best-tablet-ipad-deals-labor-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M1PV2QH8H16D8Z5CSPZZ1KSM/hero-image.png",
+      "date": "Fri, 04 Sep 2026 19:00:26 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "Three Reasons You Shouldn't Use Your Browser's Password Manager (and What to Use Instead)",
       "description": "Built-in tools have major limitations when it comes to security and functionality.",
       "url": "https://lifehacker.com/tech/three-reasons-you-shouldnt-use-your-browsers-password-manager?utm_medium=RSS",
@@ -481,15 +553,6 @@
       "url": "https://lifehacker.com/entertainment/the-best-movie-like-the-bear?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01M1PK322QEK9GTBHXQ965RZEZ/hero-image.jpg",
       "date": "Fri, 04 Sep 2026 17:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "The Best Tech on Sale for Labor Day",
-      "description": "TVs, headphones, soundbars, and kitchen appliances are as much as 44% off.",
-      "url": "https://lifehacker.com/tech/best-tech-deals-labor-day-sale-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M154WXDQ0G0PJGFPK4M1VV4C/hero-image.webp",
-      "date": "Fri, 04 Sep 2026 16:37:14 +0000"
     },
     {
       "category": "eng",
@@ -571,69 +634,6 @@
       "url": "https://lifehacker.com/tech/samsung-dolby-atmos-soundbar-sale-labor-day-2026?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01K2YVZE2C2NXJ2VEK00NXCSRK/hero-image.png",
       "date": "Fri, 04 Sep 2026 12:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "The Best Deals From Best Buy's Labor Day Sale 2026",
-      "description": "Snatch deals on Apple devices, laptops, TVs, headphones, and more.",
-      "url": "https://lifehacker.com/tech/best-deals-from-best-buys-labor-day-sale-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1FD8DDV9EYFJ1Q3FA5Z4GWF/hero-image.webp",
-      "date": "Thu, 03 Sep 2026 21:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "The Best Fitness Trackers to Give As Gifts",
-      "description": "Including my favorite budget and high-end picks.",
-      "url": "https://lifehacker.com/health/best-fitness-trackers-to-give-as-gifts?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1MAS3RGXQWMAEBEBDTD7PH5/hero-image.jpg",
-      "date": "Thu, 03 Sep 2026 20:40:41 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "These Five New Features Are Coming to Android Devices",
-      "description": "You'll soon be able to keep tabs on your stuff without trackers.",
-      "url": "https://lifehacker.com/tech/new-features-coming-to-android-devices-september-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1M8MWD3V3H9JHP4J9V6S9J7/hero-image.jpg",
-      "date": "Thu, 03 Sep 2026 19:06:03 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "These Are the Best Labor Day 2026 Deals on VPNs",
-      "description": "You can get up to 87% off on top VPNs like Nord VPN, IPVanish, and Surfshark.",
-      "url": "https://lifehacker.com/tech/best-vpn-deals-labor-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M150960DKGM6TTEPDFTTFCDW/hero-image.jpg",
-      "date": "Thu, 03 Sep 2026 18:00:49 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "10 Shows Like 'Dark Matter' You Should Watch Next",
-      "description": "More high-concept sci-fi shows that play around with space and time.",
-      "url": "https://lifehacker.com/entertainment/best-shows-like-dark-matter?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1KT5RKFKMFJQC4D2A04A5QD/hero-image.jpg",
-      "date": "Thu, 03 Sep 2026 17:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "This Anker Power Station Is $549 Off During Amazon’s Labor Day Sale",
-      "description": "This compact 2,010Wh backup battery from Anker can keep essential devices running during an outage.",
-      "url": "https://lifehacker.com/tech/anker-s2000-power-station-sale-labor-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1M17HQQP50AVA5NAG3QX234/hero-image.png",
-      "date": "Thu, 03 Sep 2026 16:41:15 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "These DeWalt Tools Are up to 50% Off for the Lowe's Labor Day Sale",
-      "description": "Get your long weekend projects done under budget with these deals on DeWalt tools at Lowe's.",
-      "url": "https://lifehacker.com/home/dewalt-tools-sale-lowes-labor-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M15BM7C17T7S4RDF08AE19G7/hero-image.png",
-      "date": "Thu, 03 Sep 2026 15:47:24 +0000"
     },
     {
       "category": "eng",
