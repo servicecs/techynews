@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-04T16:57:52.859819+00:00",
+  "updated": "2026-09-04T19:24:04.199809+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "AI Student Hackathon powered by OpenAI: Практична можност за младите на AI Tech Summit „Filip Avramchev“ Skopje 2026",
+      "description": "Средношколци и студенти ќе имаат можност да учествуваат на AI Student Hackathon powered by OpenAI, кој ќе се одржи во рамки на AI Tech Summit „Filip Avramchev“ Skopje 2026. Хакатонот е наменет за тимови од млади учесници кои ќе работат на конкретен предизвик и ќе развиваат сопствено AI решение со користење на OpenAI алатки и […]",
+      "url": "https://smartportal.mk/novosti/nastani/ai-student-hackathon-powered-by-openai/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/AI-Tech-Summit25-630-150x150.webp",
+      "date": "Fri, 04 Sep 2026 17:39:05 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -84,192 +93,183 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "CERN ги префрла своите компјутери и системи на Debian 13",
-      "description": "CERN е во процес на масовна транзиција на својата контролна инфраструктура за акцелераторите, при што до крајот на 2026 година повеќе од 2.200 индустриски компјутери и вградени системи ќе почнат да користат Debian 13. Овие машини се дел од комплексот кој се протега на површина од 43 квадратни километри и се директно поврзани со приближно […]",
-      "url": "https://smartportal.mk/novosti/nauka-istrazuvanja/cern-debian-13/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Depositphotos_451638428_XL-f-150x150.webp",
-      "date": "Thu, 03 Sep 2026 11:40:42 +0000"
+      "source": "Time.mk - All",
+      "title": "Божиновска: „Македонија веќе не е пасивна крајна точка – стануваме активен партнер и транзитен енергетски крстопат во Југоисточна Европа“ | Фактор",
+      "description": "",
+      "url": "https://time.mk/c/110b692203/bozinovska-makedonija-veke-ne-e-pasivna-krajna-tocka-stanuvame-aktiven-partner-i-tranziten-energetski-krstopat-vo-jugoistocna-evropa.html",
+      "image": "https://faktor.mk/media/main/2026/09/20260904193705.jpg",
+      "date": "Fri, 04 Sep 2026 17:38:58 +0000"
     },
     {
       "category": "mkd",
-      "source": "Motika",
-      "title": "Анастасија Кораблева штотуку стана светска шампионка во боди билдинг и ние сме особено исплашени",
-      "description": "Години на тренинг, боцкање, јадење, боцкање и страдање се натрупани во секое мускулно влакно. И дали споменавме боцкање! Затоа решивме да не зборуваме многу и само послушно ќе ги измиеме садовите вечерва.",
-      "url": "https://motika.mk/anastasija-korableva-stotuku-stana-svetska-sampionka-vo-bodi-bilding-i-nie-sme-osobeno-isplaseni/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/04/asset-80643b595c0cbe7eaa1bf70b380a06de.jpg",
-      "date": "Fri, 04 Sep 2026 10:14:33 +0000"
+      "source": "Time.mk - All",
+      "title": "„Економски раст и стабилизирана инфлација“ – Мицкоски: Повторно тврдам дека сме меѓу четирите најдобри во Европа | ТВ21",
+      "description": "",
+      "url": "https://time.mk/c/e7253320a6/ekonomski-rast-i-stabilizirana-inflacija-mickoski-povtorno-tvrdam-deka-sme-megju-cetirite-najdobri-vo-evropa.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2026/08/mickoski-gasovod.png",
+      "date": "Fri, 04 Sep 2026 16:02:54 +0000"
     },
     {
       "category": "mkd",
-      "source": "Motika",
-      "title": "Таткото и синот заедно уживаат во детската емисија, а особено таткото",
-      "description": "Жабата посебно му се допадна, му ја разбуди фантазијата.",
-      "url": "https://motika.mk/tatkoto-i-sinot-zaedno-uzivaat-vo-detskata-emisija-a-osobeno-tatkoto/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/04/asset-d0ab10ee7ed25b39297994fce2ae01b8.jpg",
-      "date": "Fri, 04 Sep 2026 10:07:30 +0000"
+      "source": "Time.mk - Magazin",
+      "title": "Фолксваген почнува со зафати што ќе го сменат концернот од корен | Automedia",
+      "description": "",
+      "url": "https://time.mk/c/8594b28c02/folksvagen-pocnuva-so-zafati-sto-ke-go-smenat-koncernot-od-koren.html",
+      "image": "https://automedia.mk/wp-content/uploads/Volkswagen-Golf-I-pocetok-proizvodstvo-mart-1974-godina-300x169.jpg",
+      "date": "Fri, 04 Sep 2026 19:02:50 +0000"
     },
     {
       "category": "mkd",
-      "source": "Motika",
-      "title": "Бизарно: Дајсон дизајнираше четка за заби со вештачка интелигенција и камера што ќе чини само 479 евра",
-      "description": "Макро камерата од 100.000 пиксели е напојувана од Gap Optical Targeting™, алгоритмот за машинско учење со вештачка интелигенција на Dyson. Gap Optical Targeting™ анализира 28 слики во живо во секунда за да идентификува и третира празнини меѓу забите во реално време. Во рок од 100 ms откако камерата ќе открие празнина, уредот се активира и ...",
-      "url": "https://motika.mk/bizarno-dajson-dizajnirase-cetka-za-zabi-so-vestacka-inteligencija-i-kamera-sto-ke-cini-samo-479-evra/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/04/asset-d6ef7d81f4e88000119ef06bf9f3d517.jpg",
-      "date": "Fri, 04 Sep 2026 09:44:28 +0000"
+      "source": "Time.mk - All",
+      "title": "За една година поднесени 1 800 барања за Ин-Витро, паровите сега добиваат шест бесплатни обиди за БПО, наместо досегашните три | Журнал",
+      "description": "",
+      "url": "https://time.mk/c/efbd62d873/za-edna-godina-podneseni-1-800-baranja-za-in-vitro-parovite-sega-dobivaat-sest-besplatni-obidi-za-bpo-namesto-dosegasnite-tri.html",
+      "image": "https://zurnal.mk/wp-content/uploads/2026/09/bremena-zena.jpg",
+      "date": "Fri, 04 Sep 2026 18:40:39 +0000"
     },
     {
       "category": "mkd",
-      "source": "Motika",
-      "title": "Девојката ќе ви покаже дека најубавите оптички илузии не висат на ѕидот",
-      "description": "Навистина личи како илузија, а всушност е реалност.",
-      "url": "https://motika.mk/devojkata-ke-vi-pokaze-deka-najubavite-opticki-iluzii-ne-visat-na-zidot/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/04/847364ec59024567836ebed0715859ed.jpg",
-      "date": "Fri, 04 Sep 2026 09:32:38 +0000"
+      "source": "Time.mk - All",
+      "title": "Армијата со хеликоптер Ми-8МТ гаснеше кај Грачани: Истурени 28 тони вода | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/eb2ecd5dda/armijata-so-helikopter-mi-8mt-gasnese-kaj-gracani-istureni-28-toni-voda.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84684/conversions/text-max.jpg",
+      "date": "Fri, 04 Sep 2026 14:00:47 +0000"
     },
     {
       "category": "mkd",
-      "source": "Motika",
-      "title": "Мотика рецепт на денот: Пилешко со пиво",
-      "description": "Потребни состојки: 1 кокошка со средна големина, 1 чаша пиво и компири по желба. Еве го видео упатството како се прави. Чекор 1:",
-      "url": "https://motika.mk/motika-recept-na-denot-pilesko-so-pivo/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/04/836effe6ce9d4b649fad46fdf3160bf0.jpg",
-      "date": "Fri, 04 Sep 2026 08:34:41 +0000"
+      "source": "Time.mk - All",
+      "title": "Четворица во трка за наследник на Абази | Журнал",
+      "description": "",
+      "url": "https://time.mk/c/20254715ec/cetvorica-vo-trka-za-naslednik-na-abazi.html",
+      "image": "https://zurnal.mk/wp-content/uploads/2023/04/obvinitelstvo-1.jpg",
+      "date": "Fri, 04 Sep 2026 17:52:36 +0000"
     },
     {
       "category": "mkd",
-      "source": "Motika",
-      "title": "Антонио Гутереш, генералниот секретар на ОН предупредува: Пробата заврши, екстремна жештина пристигна",
-      "description": "Колку и да сме скептични и да негираме дека глобалното затоплување е само уште една финта да го плашат народот, факт е дека вакви жештини во септември немаме видено. Што мислите вие?",
-      "url": "https://motika.mk/antonio-guteres-generalniot-sekretar-na-on-predupreduva-probata-zavrsi-ekstremna-zestina-pristigna/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/04/a981ce75f6f94d038e7b657fe699cf82.jpg",
-      "date": "Fri, 04 Sep 2026 08:31:27 +0000"
+      "source": "Time.mk - All",
+      "title": "(Фото) Сиљановска-Давкова им додели „Инженерски прстен“ на 14 најуспешни млади инженери | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/2bdabbc640/foto-siljanovska-davkova-im-dodeli-inzenerski-prsten-na-14-najuspesni-mladi-inzeneri.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84687/conversions/text-max.jpg",
+      "date": "Fri, 04 Sep 2026 15:30:52 +0000"
     },
     {
       "category": "mkd",
-      "source": "Motika",
-      "title": "Вистината за 35 години независна Македонија напишана на еден мост во Кочани",
-      "description": "Почекајте уште 40 години, да се донајадат политичарите и да си ги обезбедат идните поколенија до 10-то колено, па ќе ви ја асфалтираат улицата.",
-      "url": "https://motika.mk/vistinata-za-35-godini-nezavisna-makedonija-napisana-na-eden-most-vo-kocani/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/04/kocani2.jpg",
-      "date": "Fri, 04 Sep 2026 08:19:58 +0000"
+      "source": "Time.mk - All",
+      "title": "ВО СЛЕДНИТЕ ДЕНОВИ ВОЗАЧИТЕ ВО СРБИЈА ПЛАЌААТ НАЈСКАП ДИЗЕЛ | Економија и Бизнис",
+      "description": "",
+      "url": "https://time.mk/c/81482aae26/vo-slednite-denovi-vozacite-vo-srbija-plakaat-najskap-dizel.html",
+      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/03/pumpadizel.jpg",
+      "date": "Fri, 04 Sep 2026 19:18:50 +0000"
     },
     {
       "category": "mkd",
-      "source": "Motika",
-      "title": "Мајката ја испраќа ќеркичката во градинка, воспитувачката ја дочекува. Каде прво ви застана погледот?",
-      "description": "Признајте си, нормална работа е тоа 🙂",
-      "url": "https://motika.mk/majkata-ja-ispraka-kerkickata-vo-gradinka-vospituvackata-ja-docekuva-kade-prvo-vi-zastana-pogledot/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/04/hruxnr_awaayknr.jpeg",
-      "date": "Fri, 04 Sep 2026 07:12:15 +0000"
+      "source": "Time.mk - All",
+      "title": "Србија поделена околу погребот на Ратко Младиќ: државни почести, меѓународен притисок | Deutsche Welle",
+      "description": "",
+      "url": "https://time.mk/c/a508e5bfff/srbija-podelena-okolu-pogrebot-na-ratko-mladik-drzavni-pocesti-megjunaroden-pritisok.html",
+      "image": "https://static.dw.com/image/78926081_302.jpg",
+      "date": "Fri, 04 Sep 2026 12:04:49 +0000"
     },
     {
       "category": "mkd",
-      "source": "Motika",
-      "title": "Зошто бе маче сељак?",
-      "description": "Кај полицаец, па и сељак 🙂",
-      "url": "https://motika.mk/zosto-be-mace-selak/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/04/ae4699db-4c8d-40bf-bb99-d5755092232d.jpg",
-      "date": "Fri, 04 Sep 2026 07:02:15 +0000"
+      "source": "Time.mk - All",
+      "title": "Марта Кос ја откажа посетата на Србија поради величењето на Младиќ. За Вучиќ објаснувањето е „глупаво“ | Независен",
+      "description": "",
+      "url": "https://time.mk/c/0c738069bf/marta-kos-ja-otkaza-posetata-na-srbija-poradi-velicenjeto-na-mladik-za-vucik-objasnuvanjeto-e-glupavo.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/Marta-Kos.jpg",
+      "date": "Fri, 04 Sep 2026 12:58:54 +0000"
     },
     {
       "category": "mkd",
-      "source": "Motika",
-      "title": "Упатство за купување сладоледи во кавадаречки маркет",
-      "description": "Затоа што луѓето не сфаќаат дека сладоледите се топат 🙂",
-      "url": "https://motika.mk/upatstvo-za-kupuvane-sladoledi-vo-kavadarecki-market/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/04/9e95cded-e69a-4f6d-bf40-944374644c12.jpg",
-      "date": "Fri, 04 Sep 2026 07:00:48 +0000"
+      "source": "Time.mk - All",
+      "title": "СБУ: Русија ќе добие болен одговор на нападот врз канцеларијата на шефот на службата | Вечер Прес",
+      "description": "",
+      "url": "https://time.mk/c/b8044e07c4/sbu-rusija-ke-dobie-bolen-odgovor-na-napadot-vrz-kancelarijata-na-sefot-na-sluzbata.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/sbu_2017.jpg",
+      "date": "Fri, 04 Sep 2026 19:00:58 +0000"
     },
     {
       "category": "mkd",
-      "source": "Motika",
-      "title": "Искуството си го прави своето: Девојката јава професионално",
-      "description": "И да, вакви работи се гледаат во забавена снимка и во loop.",
-      "url": "https://motika.mk/iskustvoto-si-go-pravi-svoeto-devojkata-java-profesionalno/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/04/a784c0c43a37467681b0374c27c7b926.jpg",
-      "date": "Fri, 04 Sep 2026 06:53:56 +0000"
+      "source": "Time.mk - All",
+      "title": "Данска од 2027 сака да користи „центри за враќање“ на мигранти надвор од ЕУ | Независен",
+      "description": "",
+      "url": "https://time.mk/c/30caff277f/danska-od-2027-saka-da-koristi-centri-za-vrakanje-na-migranti-nadvor-od-eu.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2022/06/danska-konkurentnost.jpg",
+      "date": "Fri, 04 Sep 2026 18:04:37 +0000"
     },
     {
       "category": "mkd",
-      "source": "Motika",
-      "title": "Ајдее, низ Велес почнаа да шетаат и панди",
-      "description": "Да беше денски ќе речевме дека веројатно оди на некој роденден, но бидејќи е ноќе, значи се враќа 🙂",
-      "url": "https://motika.mk/ajdee-niz-veles-pocnaa-da-setaat-i-pandi/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/04/d7e75d01d85f427d9e7424e58425bb07.jpg",
-      "date": "Fri, 04 Sep 2026 06:46:48 +0000"
+      "source": "Time.mk - All",
+      "title": "Повреденото дете се уште критично | Press24",
+      "description": "",
+      "url": "https://time.mk/c/d60100c2c0/povredenoto-dete-se-uste-kriticno.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/69154.jpg",
+      "date": "Fri, 04 Sep 2026 18:34:47 +0000"
     },
     {
       "category": "mkd",
-      "source": "Motika",
-      "title": "Штом по кејот се шетаат вакви гости, тоа е добар знак за Охрид",
-      "description": "Присуството на ракови е добар знак за здравјето на езерскиот екосистем, бидејќи овие животни се чувствителни на промените во квалитетот на водата. Охридското Езеро сè уште го задржува својот олиготрофен карактер, што е уште една причина плус да го чуваме ова природно богатство.",
-      "url": "https://motika.mk/stom-po-kejot-se-setaat-vakvi-gosti-toa-e-dobar-znak-za-ohrid/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/04/d37636733ace48569123a69168b8ec29.jpg",
-      "date": "Fri, 04 Sep 2026 06:43:37 +0000"
+      "source": "Time.mk - All",
+      "title": "Удрени темелите на спортската сала во училиштето „Братство“ | Вечер Прес",
+      "description": "",
+      "url": "https://time.mk/c/26dc4b2c3b/udreni-temelite-na-sportskata-sala-vo-ucilisteto-bratstvo.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/2-sportska-sala-taftalidze-2.jpg",
+      "date": "Fri, 04 Sep 2026 12:52:46 +0000"
     },
     {
       "category": "mkd",
-      "source": "Motika",
-      "title": "Кога на велешанец ќе му кажат дека треба да доплати за достава",
-      "description": "На два пати и ќе си го достави сам, само да не живее горе на ридот 🙂",
-      "url": "https://motika.mk/koga-na-velesanec-ke-mu-kazat-deka-treba-da-doplati-za-dostava/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/04/b87e28302d68453a8730a7870f8cdd67.jpg",
-      "date": "Fri, 04 Sep 2026 06:35:16 +0000"
+      "source": "Time.mk - All",
+      "title": "Кривична за две лица од Струмица за даночно затајување, лихварство и перење пари: Одземени 597.500 евра | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/9dea2ed27e/krivicna-za-dve-lica-od-strumica-za-danocno-zatajuvanje-lihvarstvo-i-perenje-pari-odzemeni-597-500-evra.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84683/conversions/text-max.jpg",
+      "date": "Fri, 04 Sep 2026 13:54:49 +0000"
     },
     {
       "category": "mkd",
-      "source": "Motika",
-      "title": "Битолскиот советник нема влакна на јзикот",
-      "description": "Општината платила 25.000 евра за чистење и одржување на реката, а што добиле, гледајте.",
-      "url": "https://motika.mk/bitolskiot-sovetnik-nema-vlakna-na-jzikot/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/03/a3e1ccac7e2f42f2acb55c3a9ddbb70a.jpg",
-      "date": "Thu, 03 Sep 2026 14:33:04 +0000"
+      "source": "Time.mk - All",
+      "title": "По тепачка, мистерија во Битола: Оној кој го влечеа по „Широк сокак“ е жив, починал оној кој влечел | Фокус",
+      "description": "",
+      "url": "https://time.mk/c/fce068b624/po-tepacka-misterija-vo-bitola-onoj-koj-go-vlecea-po-sirok-sokak-e-ziv-pocinal-onoj-koj-vlecel.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/09/vlechene-shirok-sokak-1170x973.jpg",
+      "date": "Fri, 04 Sep 2026 13:35:00 +0000"
     },
     {
       "category": "mkd",
-      "source": "Motika",
-      "title": "Научниците открија како за само 10 минути да ви се зголеми продуктивноста на мозокот",
-      "description": "За да се почувствува прилив на сила и да се среди мислата, не мора да се поставуваат рекорди. Научниците утврдиле дека е доволно лесно десетминутно загревање. Резултатите од новото истражување се објавени во списанието Imaging Neuroscience (IN). Содржина: Доброволците се движеа со 3 до 6 километри на час, повеќе брзо одење отколку трчање По кратката ...",
-      "url": "https://motika.mk/naucnicite-otkrija-kako-za-samo-10-minuti-da-vi-se-zgolemi-produktivnosta-na-mozokot/",
-      "image": "https://motika.io/media/2026/09/03/img-f7ffaed2-27ae-48f3-bdaa-a04cf051a09b-1.jpg",
-      "date": "Thu, 03 Sep 2026 10:15:54 +0000"
+      "source": "Time.mk - All",
+      "title": "Цената на штипската пастрмајлија годинава ќе изнесува 250 денари, „Пастрмајлијада“ на 18 и 19 септември | Економија и Бизнис",
+      "description": "",
+      "url": "https://time.mk/c/a80954865a/cenata-na-stipskata-pastrmajlija-godinava-ke-iznesuva-250-denari-pastrmajlijada-na-18-i-19-septemvri.html",
+      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/09/pitadomashna.jpg",
+      "date": "Fri, 04 Sep 2026 18:42:45 +0000"
     },
     {
       "category": "mkd",
-      "source": "Motika",
-      "title": "Откриени најбрзорастечките кариери со плата над 100.000 долари годишно, а меѓу нив е и асистент што зема 135.000 долари",
-      "description": "Ако барате работа што носи шестцифрена годишна плата, новите податоци покажуваат каде растот и парите најчесто се среќаваат. Истражување врз основа на податоци од Министерството за труд на САД ги издвојува 13-те најбрзорастечки и најдобро платени кариерни патеки. Најголеми можности се појавуваат за инженери, продукт-менаџери, здравствени работници и професионалци за безбедност на податоци – сите ...",
-      "url": "https://motika.mk/otkrieni-najbrzorasteckite-karieri-so-plata-nad-100-000-dolari-godisno-a-megu-niv-e-i-asistent-sto-zema-135-000-dolari/",
-      "image": "https://motika.io/media/2026/09/03/img-b4e1ade3-01d4-4723-baad-ddfc0b69cd9c-1.jpg",
-      "date": "Thu, 03 Sep 2026 10:13:22 +0000"
+      "source": "Time.mk - All",
+      "title": "(Видео) Општина Битола: За најмладите, за нашата иднина, светнаа новите спортски игралишта | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/ed87ce9af7/video-opstina-bitola-za-najmladite-za-nasata-idnina-svetnaa-novite-sportski-igralista.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/sportski-igralista-bitola.webp",
+      "date": "Fri, 04 Sep 2026 18:10:50 +0000"
     },
     {
       "category": "mkd",
-      "source": "Motika",
-      "title": "Што сè можете да купите во dm за само 55 денари? Овие „секогаш поволно“ производи ќе ве изненадат",
-      "description": "Колку производи за секојдневните потреби можете да најдете за 55 денари или помалку? Во dm, концептот „Секогаш поволно“ значи долгорочно поволни цени, без потреба да чекате краткотрајни акции или специјални понуди. А овие четири производи од dm марките Balea, Denkmit и Dontodent покажуваат дека за некои од секојдневните потреби се доволни само 49 или 55 ...",
-      "url": "https://motika.mk/sto-se-mozete-da-kupite-vo-dm-za-samo-55-denari-ovie-sekogas-povolno-proizvodi-ke-ve-iznenadat/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/03/balea-samponot-protiv-prvut-1200x675.png",
-      "date": "Thu, 03 Sep 2026 10:07:31 +0000"
+      "source": "Time.mk - All",
+      "title": "Жељко Самарџиќ, Де Вито, „Нокаут“ и Џејла Рамовиќ – дел од забавата на „Тиквешки гроздобер 2026“ | Фокус",
+      "description": "",
+      "url": "https://time.mk/c/788cb782dd/zeljko-samardzik-de-vito-nokaut-i-dzejla-ramovik-del-od-zabavata-na-tikveski-grozdober-2026.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/09/grodzdober.jpg",
+      "date": "Fri, 04 Sep 2026 11:58:48 +0000"
     },
     {
       "category": "mkd",
-      "source": "Motika",
-      "title": "Ве поздравија аутфитот и силиконите на оваа албанска професорка",
-      "description": "Професорка од соништата на секој средношколец 🙂",
-      "url": "https://motika.mk/ve-pozdravija-autfitot-i-silikonite-na-ovaa-albanska-profesorka/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/03/588315311cdc48d093f25da7b5a34d04.jpg",
-      "date": "Thu, 03 Sep 2026 08:18:40 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Зетот смисли брз начин како да ги разлади гостите на свадбата на +40",
-      "description": "Оставете ме јас да го водам орото и веднаш ќе заборавите на горештините.",
-      "url": "https://motika.mk/zetot-smisli-brz-nacin-kako-da-gi-razladi-gostite-na-svadbata-na-40/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/03/d6123c228342407c87241a78987c0c19.jpg",
-      "date": "Thu, 03 Sep 2026 08:16:28 +0000"
+      "source": "Time.mk - All",
+      "title": "ВО ЖИВО од плоштадот „Македонија“: Над 30 изведувачи на едно место - сценски спетакл за независноста | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/0102292780/vo-zivo-od-plostadot-makedonija-nad-30-izveduvaci-na-edno-mesto-scenski-spetakl-za-nezavisnosta.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84698/conversions/text-max.jpg",
+      "date": "Fri, 04 Sep 2026 18:42:45 +0000"
     }
   ],
   "de": [
@@ -458,18 +458,81 @@
     {
       "category": "eng",
       "source": "Lifehacker",
-      "title": "The Best Fitness Deals Under $100 From Amazon's Labor Day Sale",
+      "title": "Three Reasons You Shouldn't Use Your Browser's Password Manager (and What to Use Instead)",
+      "description": "Built-in tools have major limitations when it comes to security and functionality.",
+      "url": "https://lifehacker.com/tech/three-reasons-you-shouldnt-use-your-browsers-password-manager?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M1J967R8CJ7EBJGZKZ0VPDPY/hero-image.jpg",
+      "date": "Fri, 04 Sep 2026 18:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Lifehacker Labor Day Sale Live Blog: The Best Labor Day Deals, All in One Place",
+      "description": "Follow for live updates as we share the best Labor Day deals we can find.",
+      "url": "https://lifehacker.com/tech/labor-day-sales-live-blog-09-04-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M1CNXXEYPE51P194PSFGJZ9Z/hero-image.webp",
+      "date": "Fri, 04 Sep 2026 17:10:36 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "If You Loved 'The Bear,' There's One Movie You Need to Watch Next",
+      "description": "If you're looking for more \"Yes, chef!\" energy, this movie belongs on your list.",
+      "url": "https://lifehacker.com/entertainment/the-best-movie-like-the-bear?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M1PK322QEK9GTBHXQ965RZEZ/hero-image.jpg",
+      "date": "Fri, 04 Sep 2026 17:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "The Best Tech on Sale for Labor Day",
+      "description": "TVs, headphones, soundbars, and kitchen appliances are as much as 44% off.",
+      "url": "https://lifehacker.com/tech/best-tech-deals-labor-day-sale-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M154WXDQ0G0PJGFPK4M1VV4C/hero-image.webp",
+      "date": "Fri, 04 Sep 2026 16:37:14 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "The Best Labor Day Fitness Deals so Far",
+      "description": "Summer may be coming to a close, but these fitness deals are just heating up.",
+      "url": "https://lifehacker.com/health/best-fitness-deals-labor-day-sale-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M14NZ8RRXWXZV7AWKZXN0V11/hero-image.jpg",
+      "date": "Fri, 04 Sep 2026 16:35:16 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "These 65-Inch TVs Are on Sale for up to $1,200 Off for Labor Day",
+      "description": "You can find some great discounts on TVs from LG, Samsung, Sony, and more.",
+      "url": "https://lifehacker.com/tech/65-inch-tvs-best-labor-day-sale-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M1CEAKZ392KJEYY9R7PA4C0E/hero-image.png",
+      "date": "Fri, 04 Sep 2026 16:33:49 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "These Samsung Monitors Are on Sale for up to 39% Off for Labor Day",
+      "description": "You can save up to $240 on Samsung Odyssey gaming monitors and ViewFinity displays, with deals starting at $149.99.",
+      "url": "https://lifehacker.com/tech/best-samsung-monitor-deals-labor-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M1GPA0NFKK5SNV27J31ZX3JJ/hero-image.png",
+      "date": "Fri, 04 Sep 2026 16:32:24 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "The Best Fitness Deals on Sale for Under $100 for Labor Day",
       "description": "Headphones, dumbbells, and accessories are already seeing significant discounts running up to Labor Day.",
-      "url": "https://lifehacker.com/health/best-fitness-deals-under-100-amazon-labor-day-2026?utm_medium=RSS",
+      "url": "https://lifehacker.com/health/best-fitness-deals-under-100-labor-day-2026?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01M1CCEWVWECB00PPMYM04V8ZV/hero-image.jpg",
       "date": "Fri, 04 Sep 2026 16:27:52 +0000"
     },
     {
       "category": "eng",
       "source": "Lifehacker",
-      "title": "The Best Deals on Apple Devices During Amazon's Labor Day Sale 2026",
-      "description": "Amazon is featuring discounts across Apple’s lineup, from $99 AirPods to $500 off a 2026 M5 Max MacBook Pro.",
-      "url": "https://lifehacker.com/tech/best-apple-deals-amazon-labor-day-2026?utm_medium=RSS",
+      "title": "The Best Deals on Apple Devices on Sale for Labor Day",
+      "description": "There are discounts across Apple’s lineup, from $99 AirPods to $500 off a 2026 M5 Max MacBook Pro.",
+      "url": "https://lifehacker.com/tech/best-apple-deals-labor-day-2026?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01M1E19WV2MAMB7EX9WXHGQEZ0/hero-image.png",
       "date": "Fri, 04 Sep 2026 16:27:12 +0000"
     },
@@ -508,15 +571,6 @@
       "url": "https://lifehacker.com/tech/samsung-dolby-atmos-soundbar-sale-labor-day-2026?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01K2YVZE2C2NXJ2VEK00NXCSRK/hero-image.png",
       "date": "Fri, 04 Sep 2026 12:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "Lifehacker Labor Day Sale Live Blog: The Best Labor Day Deals, All in One Place",
-      "description": "Follow for live updates as we share the best Labor Day deals we can find.",
-      "url": "https://lifehacker.com/tech/labor-day-sales-live-blog-09-04-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1CNXXEYPE51P194PSFGJZ9Z/hero-image.webp",
-      "date": "Fri, 04 Sep 2026 12:00:00 +0000"
     },
     {
       "category": "eng",
@@ -580,60 +634,6 @@
       "url": "https://lifehacker.com/home/dewalt-tools-sale-lowes-labor-day-2026?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01M15BM7C17T7S4RDF08AE19G7/hero-image.png",
       "date": "Thu, 03 Sep 2026 15:47:24 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "The Garmin Venu 3 Is Over $150 Off for Amazon’s 2026 Labor Day Sale",
-      "description": "This is the lowest price ever for this premium smartwatch.",
-      "url": "https://lifehacker.com/tech/garmin-venu-3-deal-amazon-labor-day-sale-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1KXMJJ3N0WG5PHX92GZC8HR/hero-image.png",
-      "date": "Thu, 03 Sep 2026 15:47:07 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "The Best Tech Deals From Amazon's 2026 Labor Day Sale",
-      "description": "TVs, headphones, soundbars, and kitchen appliances are as much as 44% off.",
-      "url": "https://lifehacker.com/tech/best-tech-deals-amazon-labor-day-sale-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M154WXDQ0G0PJGFPK4M1VV4C/hero-image.webp",
-      "date": "Thu, 03 Sep 2026 15:44:58 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "The Best Fitness Deals From Amazon's Labor Day Sale so Far",
-      "description": "Summer may be coming to a close, but these fitness deals are just heating up.",
-      "url": "https://lifehacker.com/health/the-best-fitness-deals-from-amazons-labor-day-sale?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M14NZ8RRXWXZV7AWKZXN0V11/hero-image.jpg",
-      "date": "Thu, 03 Sep 2026 15:41:19 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "You Can Still Get a Nintendo Switch 2 for $400 During Woot's Labor Day Sale",
-      "description": "Nintendo’s console now costs $499.99, but this refurbished Switch 2 (with original accessories) is on sale for $399.99 for Labor Day.",
-      "url": "https://lifehacker.com/tech/nintendo-switch-2-deal-labor-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1F8VAYJ7W35XG71MKRNA0D7/hero-image.png",
-      "date": "Thu, 03 Sep 2026 15:36:03 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "I Tried Gemini 3.8 Flash, Google’s Latest AI Upgrade, and It (Mostly) Lives Up to the Hype",
-      "description": "Gemini 3.8 Flash is faster and better at completing complex tasks, though for now you have to pay for it.",
-      "url": "https://lifehacker.com/tech/gemini-38-flash-mostly-lives-up-to-hype?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1KWFN897E0FNX5AJWNB1WDA/hero-image.jpg",
-      "date": "Thu, 03 Sep 2026 15:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "The Best Deals on Tools and Appliances From Home Depot's 2026 Labor Day Sale",
-      "description": "Save up to 50% on grills, landscaping equipment, outdoor lights, tools, security cameras, and more.",
-      "url": "https://lifehacker.com/tech/best-deals-home-depot-labor-day-sale?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1018G47EMNCTFEXAAA2NWH1/hero-image.webp",
-      "date": "Thu, 03 Sep 2026 15:27:32 +0000"
     },
     {
       "category": "eng",
@@ -901,6 +901,33 @@
     {
       "category": "starwars",
       "source": "Jedi News",
+      "title": "Star Wars: The Mandalorian and Grogu | Official Podcast | Episode 2: Bigger & Different",
+      "description": "To coincide with Star Wars: The Mandalorian and Grogu’s release on Disney+, go behind the scenes with the team that made the movie, with writer-director Jon Favreau, co-writer and President of Lucasfilm, Dave Filoni, and award winning composer, Ludwig Göransson. The post Star Wars: The Mandalorian and Grogu | Official Podcast | Episode 2: Bigger & Different appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/star-wars-the-mandalorian-and-grogu-official-podcast-episode-2-bigger-different/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/maxresdefault-6-300x169.jpg",
+      "date": "Fri, 04 Sep 2026 14:24:15 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Aggressive Negotiations #452: The Music of Mandalorian and Grogu",
+      "description": "Join hosts John Mills and Matthew Rushing for episode 452 of Aggressive Negotiations. The post Aggressive Negotiations #452: The Music of Mandalorian and Grogu appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/aggressive-negotiations-452-the-music-of-mandalorian-and-grogu/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2018/08/an-art-jn-300x201.jpg",
+      "date": "Fri, 04 Sep 2026 13:52:25 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Star Wars Splash Page #518: All the Small Things",
+      "description": "Issue 518 of Star Wars Splash Page podcast hits the shelves. The post Star Wars Splash Page #518: All the Small Things appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/star-wars-splash-page-518-all-the-small-things/",
+      "image": "",
+      "date": "Fri, 04 Sep 2026 04:18:54 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
       "title": "Star Wars: The Mandalorian and Grogu | Official Podcast | Episode 1: Growing Up",
       "description": "To coincide with Star Wars: The Mandalorian and Grogu’s release on Disney+, go behind the scenes with the team that made the movie, with writer-director Jon Favreau, co-writer and President of Lucasfilm, Dave Filoni, Pedro Pascal, Sigourney Weaver and Grogu. The post Star Wars: The Mandalorian and Grogu | Official Podcast | Episode 1: Growing Up appeared first on Jedi News .",
       "url": "https://www.jedinews.com/film-music-tv/articles/star-wars-the-mandalorian-and-grogu-official-podcast-episode-1-growing-up/",
@@ -969,33 +996,6 @@
       "url": "https://www.jedinews.com/podcasts/articles/rebel-force-radio-rfr-live-celebrating-20-years-of-star-wars-podcasting/",
       "image": "https://www.jedinews.com/wp-content/uploads/2018/04/rebel-force-radio-300x201.jpg",
       "date": "Wed, 02 Sep 2026 22:20:08 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Full Of Sith Episode DCXLVI: The Black Angel",
-      "description": "It's time to join the team for episode DCXLVI of Full of Sith. The post Full Of Sith Episode DCXLVI: The Black Angel appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/full-of-sith-episode-dcxlvi-the-black-angel/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2018/04/full-of-sith-network-300x201.jpg",
-      "date": "Wed, 02 Sep 2026 17:46:32 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "The Original Story Celebrated | The Mandalorian: Yes! No!",
-      "description": "Grogu uses an IG-12 droid suit to respond to Mando. See the original beloved stories celebrated. The Mandalorian is now streaming on Disney+. The post The Original Story Celebrated | The Mandalorian: Yes! No! appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/the-original-story-celebrated-the-mandalorian-yes-no/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/maxresdefault-3-300x169.jpg",
-      "date": "Wed, 02 Sep 2026 17:00:03 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Blast Points Podcast #495: C-3PO – The Lost Years",
-      "description": "Join Jason and Gabe for episode 495 of Blast Points Podcast. The post Blast Points Podcast #495: C-3PO – The Lost Years appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/blast-points-podcast-495-c-3po-the-lost-years/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2025/01/Blast-Points-Jan25-300x201.jpg",
-      "date": "Wed, 02 Sep 2026 08:45:48 +0000"
     }
   ],
   "youtube": [
