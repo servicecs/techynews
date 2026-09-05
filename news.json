@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-05T11:56:39.104545+00:00",
+  "updated": "2026-09-05T14:57:54.014444+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Судот го забрани користење на името Twitter за новата социјална мрежа, но дозволи употреба на Tweet",
+      "description": "Федералниот суд во Делавер донесе привремена одлука во спорот за трговски марки помеѓу X и стартапот Operation Bluebird, кој се обиде да пушти нова конкурентна социјална мрежа користејќи го името Twitter, односно истото веќе го направи, иако доста кратко. Американскиот окружен судија Колм Ф. Коноли пресуди во корист на X, забранувајќи му на стартапот […]",
+      "url": "https://smartportal.mk/novosti/socijalni-mrezi/sudot-go-zabrani-koristenjeto-na-imeto-twitter/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Depositphotos_52962585_XL-f-150x150.webp",
+      "date": "Sat, 05 Sep 2026 14:19:29 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Windows 11 добива нова функција за споделување на возраста на корисниците со апликациите",
+      "description": "Windows 11 наскоро ќе добие нова функционалност која ќе им овозможи на апликациите да ја проверуваат возраста на корисниците, без притоа да го дознаат нивниот точен датум на раѓање. Microsoft развива нови системски алатки преку кои регистрираните програми ќе добиваат информација само за старосната група во која припаѓа корисникот, како и статус дали таа возраст […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/windows-11-spodeluvanje-na-vozrasta/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/03/shutterstock_2578146921-150x150.webp",
+      "date": "Sat, 05 Sep 2026 13:59:30 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -75,120 +93,102 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Google ги претстави Gemini 3.8 Flash и Gemini 3.8 Flash Cyber јазичните модели",
-      "description": "Google официјално ги објави новите верзии на своите јазични модели, Gemini 3.8 Flash и Gemini 3.8 Flash Cyber, а повторно, Flash моделот доаѓа само неколку недели по претходната верзија. Според информациите од компанијата, основната верзија 3.8 Flash ги нуди најдобрите перформанси досега во доменот на логичко заклучување и програмирање. Новиот модел ја задржува истата брзина […]",
-      "url": "https://smartportal.mk/novosti/ai/google-gi-pretstavi-gemini-3-8-flash-i-gemini-3-8-flash-cyber/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/gemini-3-8_flash__blog__header__.width-2200.format-webp-150x150.webp",
-      "date": "Thu, 03 Sep 2026 15:40:56 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Samsung Galaxy Z Fold8 први импресии",
-      "description": "По околу осум години тестирање на уредите на преклоп од Samsung, кои низ годините главно добиваа стандардни подобрувања, но не и драстични промени, оваа година ситуацијата е дефинитивно поразлична. Samsung, а јас би додал конечно, се одлучи да претстави поинаков формат кај својата Galaxy Z Fold серија. Така, новиот Galaxy Z Fold8 доаѓа со поширок […]",
-      "url": "https://smartportal.mk/novosti/uredi/samsung-galaxy-z-fold8-prvi-impresii/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/galaxy-z-fold8-smartportal-3-150x150.webp",
-      "date": "Thu, 03 Sep 2026 12:11:20 +0000"
+      "source": "Time.mk - All",
+      "title": "Владејачката СНС го избра Вучиќ за кандидат за премиер на претстојните вонредни парламентарни избори во Србија | 360 степени",
+      "description": "",
+      "url": "https://time.mk/c/813106e8e9/vladejackata-sns-go-izbra-vucik-za-kandidat-za-premier-na-pretstojnite-vonredni-parlamentarni-izbori-vo-srbija.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/09/Vucic-izbran-za-kandidat-za-premer.jpg",
+      "date": "Sat, 05 Sep 2026 13:22:36 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "СНС одлучи: Вучиќ е носител на листата за изборите и кандидат за премиер | Мета",
+      "title": "Сулејмани од Гевгелија: Зборовите ги заменуваме со резултати – Старата чаршија повторно живее | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/f9d905909e/sns-odluci-vucik-e-nositel-na-listata-za-izborite-i-kandidat-za-premier.html",
-      "image": "https://meta.mk/wp-content/uploads/2026/06/aleksandar-vucic-800x450.jpg.webp",
-      "date": "Sat, 05 Sep 2026 11:54:48 +0000"
+      "url": "https://time.mk/c/464c923e95/sulejmani-od-gevgelija-zborovite-gi-zamenuvame-so-rezultati-starata-carsija-povtorno-zivee.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84722/conversions/text-max.jpg",
+      "date": "Sat, 05 Sep 2026 12:58:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Протест во Загреб: Две и пол години мочлевте за Госпиќ, ова е предавство | Трн",
+      "title": "Семејното насилство не стивнува: Во Гостивар, жена силувана од вонбрачниот сопруг | Фокус",
       "description": "",
-      "url": "https://time.mk/c/fd8f9259be/protest-vo-zagreb-dve-i-pol-godini-moclevte-za-gospik-ova-e-predavstvo.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/09/protest-gospic.jpg",
-      "date": "Sat, 05 Sep 2026 11:54:49 +0000"
+      "url": "https://time.mk/c/1165d2f5f8/semejnoto-nasilstvo-ne-stivnuva-vo-gostivar-zena-siluvana-od-vonbracniot-soprug.html",
+      "image": "https://fokus.mk/wp-content/uploads/2025/07/devojka-nasilstvo-1170x783.jpg",
+      "date": "Sat, 05 Sep 2026 14:06:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Видео) Кузманоска: Од 1,6% економски раст во време на СДС и ДУИ, денес Владата предводена од ВМРО-ДПМНЕ ја доведе економијата до раст од 4,3% | Скопје1",
+      "title": "Западнонилската треска годинава е натпросечен предизвик низ цела Европа, рече Мицкоски | Нова Македонија",
       "description": "",
-      "url": "https://time.mk/c/922c0896e0/video-kuzmanoska-od-1-6-ekonomski-rast-vo-vreme-na-sds-i-dui-denes-vladata-predvodena-od-vmro-dpmne-ja-dovede-ekonomijata-do-rast-od-4-3.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84715/conversions/text-max.jpg",
-      "date": "Sat, 05 Sep 2026 10:52:38 +0000"
+      "url": "https://time.mk/c/8c6696ec08/zapadnonilskata-treska-godinava-e-natprosecen-predizvik-niz-cela-evropa-rece-mickoski.html",
+      "image": "https://novamakedonija.com.mk/wp-content/uploads/2026/09/mickoski-150x150.jpg",
+      "date": "Sat, 05 Sep 2026 12:44:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Средба на претседателката Сиљановска-Давкова со добитниците на признанието „Инженерски прстен“ | Скопје1",
+      "title": "ДУИ: Албанците секаде исклучени, ВЛЕН молчи | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/dff6abfb26/sredba-na-pretsedatelkata-siljanovska-davkova-so-dobitnicite-na-priznanieto-inzenerski-prsten.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84719/conversions/text-max.jpg",
-      "date": "Sat, 05 Sep 2026 11:48:46 +0000"
+      "url": "https://time.mk/c/37681218e2/dui-albancite-sekade-iskluceni-vlen-molci.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2022/07/dui.jpg",
+      "date": "Sat, 05 Sep 2026 14:42:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "КОЛОНИ НА БОГОРОДИЦА, СЕ ЧЕКА 45 МИНУТИ Предупредување од АМСМ за опасност од одрони на патиштата | +инфо",
+      "title": "СДСМ: „Мицкоски е уплашен од незадоволство на лозарите – во полиција повикан советник на СДСМ за објава на Фејсбук“ | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/5173288e95/koloni-na-bogorodica-se-ceka-45-minuti-predupreduvanje-od-amsm-za-opasnost-od-odroni-na-patistata.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2025/07/bogorodica-premin-2.jpg",
-      "date": "Sat, 05 Sep 2026 08:34:47 +0000"
+      "url": "https://time.mk/c/dbf797a1db/sdsm-mickoski-e-uplasen-od-nezadovolstvo-na-lozarite-vo-policija-povikan-sovetnik-na-sdsm-za-objava-na-fejsbuk.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84186/conversions/text-max.jpg",
+      "date": "Sat, 05 Sep 2026 12:38:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Тито Петковски за прославата за 35 години независност: ВМРО-ДПМНЕ организираше журки на едноетничка основа | Фокус",
+      "title": "Цветановска: Владата ја носи државата кон долг од 12 милијарди евра | Press24",
       "description": "",
-      "url": "https://time.mk/c/0544bce268/tito-petkovski-za-proslavata-za-35-godini-nezavisnost-vmro-dpmne-organizirase-zurki-na-ednoetnicka-osnova.html",
-      "image": "https://fokus.mk/wp-content/uploads/2025/07/Tito-Petkovski-intervju-01-1170x780.jpg",
-      "date": "Sat, 05 Sep 2026 11:48:46 +0000"
+      "url": "https://time.mk/c/2afb6fa589/cvetanovska-vladata-ja-nosi-drzavata-kon-dolg-od-12-milijardi-evra.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/69254.jpeg",
+      "date": "Sat, 05 Sep 2026 12:06:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
       "title": "УЧИЛИШНАТА КОШНИЧКА ПОД ЛУПА НА ИНСПЕКТОРИТЕ Ристески најави казни за трговците што ќе ја изигруваат мерката | +инфо",
       "description": "",
-      "url": "https://time.mk/c/321869ff9d/ucilisnata-kosnicka-pod-lupa-na-inspektorite-risteski-najavi-kazni-za-trgovcite-sto-ke-ja-izigruvaat-merkata.html",
-      "image": "",
+      "url": "https://time.mk/c/bdb6392769/ucilisnata-kosnicka-pod-lupa-na-inspektorite-risteski-najavi-kazni-za-trgovcite-sto-ke-ja-izigruvaat-merkata.html",
+      "image": "https://plusinfo.mk/wp-content/uploads/2026/08/shkolski-pribor.jpg",
       "date": "Sat, 05 Sep 2026 11:42:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Каков „Тиквешки гроздобер“, ова е „Жалоснобер“ – на лозарите не им е до славење, грозјето им скапува по нивите | Независен",
+      "title": "Северина на протестот: Тука сум оти поминав низ тежок период кога ми го зедоа детето преку корупција | Фокус",
       "description": "",
-      "url": "https://time.mk/c/77d2f37a44/kakov-tikveski-grozdober-ova-e-zalosnober-na-lozarite-ne-im-e-do-slavenje-grozjeto-im-skapuva-po-nivite.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/tikveski-grozdober.jpg",
-      "date": "Sat, 05 Sep 2026 11:54:48 +0000"
+      "url": "https://time.mk/c/32366987fb/severina-na-protestot-tuka-sum-oti-pominav-niz-tezok-period-koga-mi-go-zedoa-deteto-preku-korupcija.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/09/severina.jpg",
+      "date": "Sat, 05 Sep 2026 12:20:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "НОВАТА СЕЗОНА НА „24 МИНУТИ СО ЗОРАН КЕСИЌ“ ОД 19 СЕПТЕМВРИ ЌЕ ОДИ НА ЈУТЈУБ ОТКАКО НОВОТО РАКОВОДСТВО НА „ТВ НОВА“ ЈА СИМНА ОД ПРОГРАМАТА | Сакам да кажам",
+      "title": "(Видео) Воен авион се урна на аеромитинг во Грција, се трага по двајцата пилоти | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/6530add16d/novata-sezona-na-24-minuti-so-zoran-kesik-od-19-septemvri-ke-odi-na-jutjub-otkako-novoto-rakovodstvo-na-tv-nova-ja-simna-od-programata.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/09/zoran-kesik.jpg",
-      "date": "Sat, 05 Sep 2026 11:44:37 +0000"
+      "url": "https://time.mk/c/a04e504cb9/video-voen-avion-se-urna-na-aeromiting-vo-grcija-se-traga-po-dvajcata-piloti.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84723/conversions/text-max.jpg",
+      "date": "Sat, 05 Sep 2026 13:10:51 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Пожар од големи размери кај Химара, евакуирани локални жители и туристи | Независен",
+      "title": "Путин нареди тридневен прекин на нападите врз Киев | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/65343b9c3c/pozar-od-golemi-razmeri-kaj-himara-evakuirani-lokalni-ziteli-i-turisti.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/poyar-himara.jpg",
-      "date": "Sat, 05 Sep 2026 08:30:51 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Избори во Саксонија-Анхалт и зошто тие се тежок тест за канцеларот Мерц и сојузната влада | Deutsche Welle",
-      "description": "",
-      "url": "https://time.mk/c/71e7ef4406/izbori-vo-saksonija-anhalt-i-zosto-tie-se-tezok-test-za-kancelarot-merc-i-sojuznata-vlada.html",
-      "image": "https://static.dw.com/image/78581090_301.jpg",
-      "date": "Sat, 05 Sep 2026 11:34:48 +0000"
+      "url": "https://time.mk/c/02db888564/putin-naredi-tridneven-prekin-na-napadite-vrz-kiev.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/83151/conversions/text-max.jpg",
+      "date": "Sat, 05 Sep 2026 13:20:54 +0000"
     },
     {
       "category": "mkd",
@@ -202,38 +202,38 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Фото) Спектакуларен почеток на AERO Street Food Festival: илјадници распеани грла, полни штандови и незаборавна атмосфера | Макфакс",
+      "title": "ГРАД СКОПЈЕ ПОЧНА СО УРИВАЊЕ НА ДЕЛ ОД КУЌИТЕ ВО КЕРАМИДНИЦА ЗАРАДИ ИЗГРАДБА НА БУЛЕВАР И ПОВРЗУВАЊЕ СО МОСТОТ „ГЕНЕРАЛ МИХАЈЛО АПОСТОЛСКИ“ | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/a5073cdeaa/foto-spektakularen-pocetok-na-aero-street-food-festival-iljadnici-raspeani-grla-polni-standovi-i-nezaboravna-atmosfera.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/aero-street-food-festival-22.webp",
-      "date": "Sat, 05 Sep 2026 11:28:37 +0000"
+      "url": "https://time.mk/c/e10b407fd0/grad-skopje-pocna-so-urivanje-na-del-od-kukite-vo-keramidnica-zaradi-izgradba-na-bulevar-i-povrzuvanje-so-mostot-general-mihajlo-apostolski.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/09/urivanje-za-most-mihajlo-apostolski.png",
+      "date": "Sat, 05 Sep 2026 12:30:53 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Видео надзор поставен на градската депонија во Демир Капија | Вечер Прес",
+      "title": "Николоски: Набавивме 49 нови специјализирани возила за комунална хигиена | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/4f1d84fc18/video-nadzor-postaven-na-gradskata-deponija-vo-demir-kapija.html",
-      "image": "",
-      "date": "Sat, 05 Sep 2026 10:30:55 +0000"
+      "url": "https://time.mk/c/9f3a0a7c33/nikoloski-nabavivme-49-novi-specijalizirani-vozila-za-komunalna-higiena.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/82578/conversions/text-max.jpg",
+      "date": "Thu, 03 Sep 2026 17:18:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
       "title": "ПЕТ ПОЖАРИ АКТИВНИ, НАЈКРИТИЧНО ВО ГРАЧАНИ И ВО НИКИШТАНИ Огнот зафати шума, ниска вегетација и се шири кон Косово | +инфо",
       "description": "",
-      "url": "https://time.mk/c/150c3e1113/pet-pozari-aktivni-najkriticno-vo-gracani-i-vo-nikistani-ognot-zafati-suma-niska-vegetacija-i-se-siri-kon-kosovo.html",
+      "url": "https://time.mk/c/c3e0c6503c/pet-pozari-aktivni-najkriticno-vo-gracani-i-vo-nikistani-ognot-zafati-suma-niska-vegetacija-i-se-siri-kon-kosovo.html",
       "image": "https://plusinfo.mk/wp-content/uploads/2026/08/er-traktori-pozar.jpg",
       "date": "Sat, 05 Sep 2026 11:48:46 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Двајца кумановци пронајдени починати во текот на една вечер: Едниот во возило, другиот во домот | Скопје1",
+      "title": "“ЖУРКАТА“ ЗАВРШИ СО ЛИСИЦИ: Петмина приведени во Галичник, полицијата најде дрога во шаторите | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/2827f1b127/dvajca-kumanovci-pronajdeni-pocinati-vo-tekot-na-edna-vecer-edniot-vo-vozilo-drugiot-vo-domot.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/76923/conversions/text-max.jpg",
-      "date": "Sat, 05 Sep 2026 11:38:48 +0000"
+      "url": "https://time.mk/c/e1056adb28/zurkata-zavrsi-so-lisici-petmina-privedeni-vo-galicnik-policijata-najde-droga-vo-satorite.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/9348e9c4-3875-4571-bf3d-cfc870f29a01.png",
+      "date": "Sat, 05 Sep 2026 09:59:00 +0000"
     },
     {
       "category": "mkd",
@@ -247,32 +247,41 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Цената на штипската пастрмајлија годинава ќе изнесува 250 денари, „Пастрмајлијада“ на 18 и 19 септември | Економија и Бизнис",
+      "title": "Јанчев со претставници на Амбасадата на САД: Во фокусот развојот и новите можности за Кавадарци | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/a80954865a/cenata-na-stipskata-pastrmajlija-godinava-ke-iznesuva-250-denari-pastrmajlijada-na-18-i-19-septemvri.html",
-      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/09/pitadomashna.jpg",
-      "date": "Fri, 04 Sep 2026 18:42:45 +0000"
+      "url": "https://time.mk/c/c716abd7ec/jancev-so-pretstavnici-na-ambasadata-na-sad-vo-fokusot-razvojot-i-novite-moznosti-za-kavadarci.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84729/conversions/text-max.jpg",
+      "date": "Sat, 05 Sep 2026 13:58:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Лауреат на 11.ИФФ Киненова е добитникот на Сребрената мечка -награда на Големото жири во Берлин, турскиот режисер, сценарист, актер и историчар, Емин Алпер | Проверено",
+      "title": "Турскиот режисер Емин Алпер е лауреат на 11. Киненова | Трн",
       "description": "",
-      "url": "https://time.mk/c/d59a514374/laureat-na-11-iff-kinenova-e-dobitnikot-na-srebrenata-mecka-nagrada-na-golemoto-ziri-vo-berlin-turskiot-reziser-scenarist-akter-i-istoricar-emin-alper.html",
-      "image": "https://provereno.mk/wp-content/uploads/2026/09/1768902469_EminALPER_Muhsin_Akgu__n-1-300x202.jpg",
-      "date": "Sat, 05 Sep 2026 11:06:49 +0000"
+      "url": "https://time.mk/c/ad525d1422/turskiot-reziser-emin-alper-e-laureat-na-11-kinenova.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/09/1768902469_eminalper_muhsin_akgu__n-1.jpg",
+      "date": "Sat, 05 Sep 2026 12:06:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„КРВАВА СВАДБА“ ВО РЕЖИЈА НА ФИЛИП ПЕТКОВСКИ ПРЕМИЕРНО ВО БЛАГОЕВГРАД | Сакам да кажам",
+      "title": "КИЦ во Загреб најавува над десет настани по повод 35 години од македонската независност | Вечер",
       "description": "",
-      "url": "https://time.mk/c/63310c6136/krvava-svadba-vo-rezija-na-filip-petkovski-premierno-vo-blagoevgrad.html",
-      "image": "https://smart.sdk.mk/wp-content/uploads/2026/09/krvava-svadba1111-958x519.jpg",
-      "date": "Sat, 05 Sep 2026 08:58:47 +0000"
+      "url": "https://time.mk/c/2af2e5ed49/kic-vo-zagreb-najavuva-nad-deset-nastani-po-povod-35-godini-od-makedonskata-nezavisnost.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/zlarin-2025.jpg",
+      "date": "Sat, 05 Sep 2026 14:00:40 +0000"
     }
   ],
   "de": [
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "IPTV-Streaming: 68-Jähriger zu 6,5 Jahren Haft verurteilt",
+      "description": "Ein Rentner aus dem Nordwesten Großbritanniens wurde wegen des Angebots von IPTV-Streaming zu 6,5 Jahren verurteilt. Der Artikel IPTV-Streaming: 68-Jähriger zu 6,5 Jahren Haft verurteilt erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/rechtssachen/iptv-streaming-68-jaehriger-zu-65-jahren-haft-verurteilt-333287.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/iptv-streaming-68-jaehriger-zu-65-jahren-haft-verurteilt",
+      "date": "Sat, 05 Sep 2026 12:23:11 +0000"
+    },
     {
       "category": "de",
       "source": "Tarnkappe",
@@ -443,18 +452,18 @@
       "url": "https://tarnkappe.info/artikel/softwareentwicklung/spotilol-ist-der-bessere-nachfolger-von-spotifuck-333102.html",
       "image": "https://cdn.tarnkappe.info/wpimg/spotilol-ist-der-bessere-nachfolger-von-spotifuck",
       "date": "Fri, 28 Aug 2026 09:12:08 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "CyberLeek will mit GTA 6 nur Kasse machen",
-      "description": "Der Deutsche, der zahlreiche Videos vom unveröffentlichten Spiel GTA 6 verbreitet hat, denkt offenbar nur an den eigenen Geldbeutel. Der Artikel CyberLeek will mit GTA 6 nur Kasse machen erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/gaming/cyberleek-will-mit-gta-6-nur-kasse-machen-333035.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/cyberleek-will-mit-gta-6-nur-kasse-machen",
-      "date": "Thu, 27 Aug 2026 19:38:33 +0000"
     }
   ],
   "eng": [
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Here's What Lifehacker Readers Think Apple Will Announce on Wednesday",
+      "description": "Most are betting that Apple will bring back \"One more thing.\"",
+      "url": "https://lifehacker.com/tech/apple-guessing-game-round-3-predictions?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M1MH1ND610K15FFDKGES07WG/hero-image.png",
+      "date": "Sat, 05 Sep 2026 13:30:00 +0000"
+    },
     {
       "category": "eng",
       "source": "Lifehacker",
@@ -625,15 +634,6 @@
       "url": "https://lifehacker.com/tech/best-apple-deals-labor-day-2026?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01M1E19WV2MAMB7EX9WXHGQEZ0/hero-image.png",
       "date": "Fri, 04 Sep 2026 16:27:12 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "TikTok Just Announced These Four New Features for Comments",
-      "description": "TikTok's comment section is about to get loud.",
-      "url": "https://lifehacker.com/tech/tiktok-just-announced-these-four-new-features-for-comments?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1PEW530ANSVH4P8V3PHFXPZ/hero-image.jpg",
-      "date": "Fri, 04 Sep 2026 15:34:42 +0000"
     },
     {
       "category": "eng",
@@ -1011,15 +1011,6 @@
     {
       "category": "youtube",
       "source": "Hood Informatik",
-      "title": "Die Berliner Verwaltung wurde Opfer eines Cyberangriffs #news #informatik #cybersicherheit #berlin",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/q-4iQpNdkyk",
-      "image": "https://i.ytimg.com/vi/q-4iQpNdkyk/hqdefault.jpg",
-      "date": "2026-09-05T10:15:18+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
       "title": "Was haltet ihr vom OpenAI Astra Video ?! #informatik #openai #news #ai",
       "description": "",
       "url": "https://www.youtube.com/shorts/5gcM81Hr9qc",
@@ -1088,6 +1079,15 @@
       "url": "https://www.youtube.com/shorts/jMuDXgblY7Q",
       "image": "https://i.ytimg.com/vi/jMuDXgblY7Q/hqdefault.jpg",
       "date": "2026-08-28T18:46:11+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "NVIDIA kauft Huggingface... aber warum ?! #informatik #nvidia #huggingface #ai #news",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/ze2A-FkihHA",
+      "image": "https://i.ytimg.com/vi/ze2A-FkihHA/hqdefault.jpg",
+      "date": "2026-08-27T17:49:08+00:00"
     },
     {
       "category": "youtube",
