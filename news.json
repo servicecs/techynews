@@ -1,131 +1,41 @@
 {
-  "updated": "2026-09-06T18:06:03.101990+00:00",
+  "updated": "2026-09-06T20:41:03.048153+00:00",
   "mkd": [
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Судот го забрани користење на името Twitter за новата социјална мрежа, но дозволи употреба на Tweet",
-      "description": "Федералниот суд во Делавер донесе привремена одлука во спорот за трговски марки помеѓу X и стартапот Operation Bluebird, кој се обиде да пушти нова конкурентна социјална мрежа користејќи го името Twitter, односно истото веќе го направи, иако доста кратко. Американскиот окружен судија Колм Ф. Коноли пресуди во корист на X, забранувајќи му на стартапот […]",
-      "url": "https://smartportal.mk/novosti/socijalni-mrezi/sudot-go-zabrani-koristenjeto-na-imeto-twitter/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Depositphotos_52962585_XL-f-150x150.webp",
-      "date": "Sat, 05 Sep 2026 14:19:29 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Windows 11 добива нова функција за споделување на возраста на корисниците со апликациите",
-      "description": "Windows 11 наскоро ќе добие нова функционалност која ќе им овозможи на апликациите да ја проверуваат возраста на корисниците, без притоа да го дознаат нивниот точен датум на раѓање. Microsoft развива нови системски алатки преку кои регистрираните програми ќе добиваат информација само за старосната група во која припаѓа корисникот, како и статус дали таа возраст […]",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/windows-11-spodeluvanje-na-vozrasta/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/03/shutterstock_2578146921-150x150.webp",
-      "date": "Sat, 05 Sep 2026 13:59:30 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "AI Student Hackathon powered by OpenAI: Практична можност за младите на AI Tech Summit „Filip Avramchev“ Skopje 2026",
-      "description": "Средношколци и студенти ќе имаат можност да учествуваат на AI Student Hackathon powered by OpenAI, кој ќе се одржи во рамки на AI Tech Summit „Filip Avramchev“ Skopje 2026. Хакатонот е наменет за тимови од млади учесници кои ќе работат на конкретен предизвик и ќе развиваат сопствено AI решение со користење на OpenAI алатки и […]",
-      "url": "https://smartportal.mk/novosti/nastani/ai-student-hackathon-powered-by-openai/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/img_0739-150x150.jpg",
-      "date": "Fri, 04 Sep 2026 17:39:05 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Nvidia ја купува платформата Hugging Face за 12,93 милијарди долари",
-      "description": "Nvidia официјално објави дека постигнала договор за купување на Hugging Face за сума од 12,93 милијарди долари. Целта на оваа аквизиција се истакнува дека е да се прошири капацитетот на платформата, да се зајакне нејзината инфраструктура и да се овозможи уште поширок пристап до алатките за вештачка интелигенција за програмерите и институциите ширум светот. Hugging […]",
-      "url": "https://smartportal.mk/novosti/ai/nvidia-ja-kupuva-hugging-face/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2-f-150x150.webp",
-      "date": "Fri, 04 Sep 2026 12:37:28 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Бројот на поправени безбедносни пропусти во јадрото на Linux наскоро би можел да достигне 2.000 по верзија",
-      "description": "Јадрото (kernel) на Linux се приближува до бројката од речиси 2.000 поправени безбедносни пропусти по верзија, што претставува значителен пораст во споредба со просечните 500 пропусти кај верзиите 6.x. Овој тренд го истакна Грег Кроа-Хартман, посочувајќи дека бројот на ранливости надминал 1.000 во верзијата 7.0, а во 7.2 достигнал над 1.500. Доколку трендот продолжи, верзијата […]",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/brojot-na-cve-linux-kernel-se-blizi-do-2000/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Depositphotos_288019916_XL-f-150x150.webp",
-      "date": "Fri, 04 Sep 2026 12:05:06 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Microsoft најави посебно приспособена верзија од Windows 11 наменета за програмерите",
-      "description": "Microsoft официјално го најави Project Zenith, нов концепт на Windows оперативниот систем кој е специјално приспособен за потребите на програмерите. Според Логан Ајер, корпоративен потпретседател за Windows платформа и програмери во Microsoft, напредокот во компјутерската технологија станува реалност токму преку искуствата што ги создаваат креаторите на софтвер. Главната цел на компанијата е да го позиционира […]",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/microsoft-project-zenith/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Depositphotos_819168294_XL-f-150x150.webp",
-      "date": "Fri, 04 Sep 2026 11:21:20 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Објавена е верзијата 0.4.16 на ReactOS со нов графички „инсталер“",
-      "description": "Проектот ReactOS, кој нуди оперативен систем со отворен код компатибилен со апликациите и управувачите на Windows, ја објави верзијата 0.4.16. Ова ажурирање доаѓа по околу година и пол развој и се фокусира на подобрување на искуството при инсталација и поголема стабилност на системот за крајните корисници. Најзначајната промена во ова издание е воведувањето на нов […]",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/reactos-0-4-16/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/gui-setup-1-150x150.webp",
-      "date": "Fri, 04 Sep 2026 10:57:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Како Cloudflare ослободи 100TB меморија со паметна оптимизација на DNS „кешот“",
-      "description": "Cloudflare успешно ослободи околу 100TB работна меморија на својата глобална серверска мрежа и тоа без никакви физички промени на хардверот. Овој резултат е постигнат со целосно редизајнирање на начинот на кој DNS записите се чуваат во меморијата на нивната платформа Big Pineapple, која стои зад популарниот јавен сервис 1.1.1.1. Системот во секој момент чува над […]",
-      "url": "https://smartportal.mk/novosti/servisi/kako-cloudflare-oslobodi-100tb-memorija-so-pametna-optimizacija-na-dns/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Depositphotos_778596864_XL-f-150x150.webp",
-      "date": "Fri, 04 Sep 2026 10:05:06 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Џон Просер го „прикажува“ јубилејниот iPhone 20 и препорачува да го прескокнете iPhone 18 Pro",
-      "description": "Идната година Apple ќе ја одбележи дваесетгодишнината од претставувањето на нивниот прв „смартфон“, односно од претставувањето на првиот iPhone кој дефинитивно може да се каже дека целосно го промени овој пазар. Веќе одреден период може да се прочита дека за овој јубилеј Apple ќе претстави посебна верзија од iPhone, која во промените ќе потсетува на […]",
-      "url": "https://smartportal.mk/novosti/smartfoni/jon-prosser-go-prikazuva-iphone-20/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/maxresdefault-150x150.jpg",
-      "date": "Fri, 04 Sep 2026 08:57:31 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "OpenAI го претстави GPT-6 Astra јазичниот модел кој го промовира како најинтелигентниот во светот",
-      "description": "OpenAI официјално го претстави GPT-6 Astra, нивниот најнов модел за вештачка интелигенција кој е насочен кон софтверското инженерство, научните истражувања и самостојното користење на компјутерски системи. Моделот од денес е достапен за ограничена група организации, а во наредните денови ќе биде овозможен за корисниците на претплатите Plus, Pro, Business и Enterprise, како и преку програмскиот […]",
-      "url": "https://smartportal.mk/novosti/ai/openai-gpt-6-astra/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/gpt-6-astra-f-150x150.webp",
-      "date": "Fri, 04 Sep 2026 08:24:57 +0000"
+      "source": "Time.mk - All",
+      "title": "Три пожари го зачадија Скопје: Воздухот е непријатен за дишење, граѓаните затворени дома/ВИДЕО | Вечер Прес",
+      "description": "",
+      "url": "https://time.mk/c/112e875e18/tri-pozari-go-zacadija-skopje-vozduhot-e-neprijaten-za-disenje-gragjanite-zatvoreni-doma-video.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/pozar-cuk.jpg",
+      "date": "Sun, 06 Sep 2026 19:04:42 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Видео) Скопје се гуши во чад | Фокус",
+      "title": "Николоски: Македонскиот авиосообраќај руши рекорди, оваа година ќе сме блиску до 4 милиони патници | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/9c453bb5aa/video-skopje-se-gusi-vo-cad.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/09/IMG-5ef100e50a902701f2f41fc0f6be9598-V-585x780.jpg",
-      "date": "Sun, 06 Sep 2026 17:38:45 +0000"
+      "url": "https://time.mk/c/5190ff964a/nikoloski-makedonskiot-aviosoobrakaj-rusi-rekordi-ovaa-godina-ke-sme-blisku-do-4-milioni-patnici.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/81902/conversions/text-max.jpg",
+      "date": "Sun, 06 Sep 2026 18:30:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Осма жртва од западнонилска треска, сезонава осум, а за 15 години петмина | Рацин",
+      "title": "АфД сака да владее во Саксонија-Анхалт, но нема со кого | Deutsche Welle",
       "description": "",
-      "url": "https://time.mk/c/e469cef309/osma-zrtva-od-zapadnonilska-treska-sezonava-osum-a-za-15-godini-petmina.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/08/komarec-1-848x476.jpg?x60903",
-      "date": "Sun, 06 Sep 2026 16:26:55 +0000"
+      "url": "https://time.mk/c/08b80787f1/afd-saka-da-vladee-vo-saksonija-anhalt-no-nema-so-kogo.html",
+      "image": "https://static.dw.com/image/79091527_301.jpg",
+      "date": "Sun, 06 Sep 2026 19:58:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - Sport",
-      "title": "(Видео) Шампионски пресврт на Арсенал против Челзи | Макфакс",
+      "title": "Артета ја слави „лавината“ на Арсенал, Алонсо признава: Овој пораз мора да боли | SportStation",
       "description": "",
-      "url": "https://time.mk/c/094dbdb226/video-sampionski-presvrt-na-arsenal-protiv-celzi.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/14268687.webp",
-      "date": "Sun, 06 Sep 2026 17:48:37 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Возачот на Игор Јанушев 30 дена во притвор поради мито | 24 Вести",
-      "description": "",
-      "url": "https://time.mk/c/555156be30/vozacot-na-igor-janusev-30-dena-vo-pritvor-poradi-mito.html",
-      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1788707482/pvxbouixfeceocqxqijg.jpg",
-      "date": "Sun, 06 Sep 2026 15:12:46 +0000"
+      "url": "https://time.mk/c/04eeb68210/arteta-ja-slavi-lavinata-na-arsenal-alonso-priznava-ovoj-poraz-mora-da-boli.html",
+      "image": "https://sportstation.mk/wp-content/uploads/2026/09/2293835783-1024x576.webp",
+      "date": "Sun, 06 Sep 2026 18:26:51 +0000"
     },
     {
       "category": "mkd",
@@ -139,74 +49,65 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВМРО-ДПМНЕ: Очигледно е дека СДС сака да ја попречи и акцијата за сузбивање на корупцијата, измислувајќи клевети, лаги и невистини | Скопје1",
+      "title": "Експертите по преименувањето на МПЦ-ОА од СПЦ: Случајност или порака? | Религија",
       "description": "",
-      "url": "https://time.mk/c/50187d932b/vmro-dpmne-ocigledno-e-deka-sds-saka-da-ja-popreci-i-akcijata-za-suzbivanje-na-korupcijata-izmisluvajki-kleveti-lagi-i-nevistini.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/83922/conversions/text-max.jpg",
-      "date": "Sun, 06 Sep 2026 12:56:34 +0000"
+      "url": "https://time.mk/c/0ab600d0fa/ekspertite-po-preimenuvanjeto-na-mpc-oa-od-spc-slucajnost-ili-poraka.html",
+      "image": "https://religija.mk/wp-content/uploads/2026/09/slilk-300x176.png",
+      "date": "Sun, 06 Sep 2026 18:16:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Специјалниот комитет на ЕУ се состанува за кризата со домувањето | Независен",
+      "title": "Николоски: Автопатите се градат со силна динамика, наскоро започнуваме со изградба на шестиот автопат Букојчани-Кичево | Бизнис Вести",
       "description": "",
-      "url": "https://time.mk/c/200f3ec1ee/specijalniot-komitet-na-eu-se-sostanuva-za-krizata-so-domuvanjeto.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2024/07/Amsterdam-lugje-.jpg",
-      "date": "Sun, 06 Sep 2026 11:58:55 +0000"
+      "url": "https://time.mk/c/56c6a45106/nikoloski-avtopatite-se-gradat-so-silna-dinamika-naskoro-zapocnuvame-so-izgradba-na-sestiot-avtopat-bukojcani-kicevo.html",
+      "image": "https://biznisvesti.mk/wp-content/uploads/2026/06/nikoloski-300x220.webp",
+      "date": "Sun, 06 Sep 2026 18:58:46 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Трајкoвски: Ќарот за државата од странски инвестиции во дата-центри ќе биде чиста нула | Антропол",
+      "title": "Удар за средната класа: Колкав процент од Европејците не можат да си дозволат сопствен стан? | Фактор",
       "description": "",
-      "url": "https://time.mk/c/fc93f3e3a1/trajkovski-karot-za-drzavata-od-stranski-investicii-vo-data-centri-ke-bide-cista-nula.html",
-      "image": "https://antropol.mk/wp-content/uploads/2026/09/dejantrajkovski.webp",
-      "date": "Sun, 06 Sep 2026 16:38:47 +0000"
+      "url": "https://time.mk/c/d25cde474c/udar-za-srednata-klasa-kolkav-procent-od-evropejcite-ne-mozat-da-si-dozvolat-sopstven-stan.html",
+      "image": "https://faktor.mk/media/main/2026/09/20260906074121.jpg",
+      "date": "Sun, 06 Sep 2026 05:42:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Сплит се гуши во чад од пожар во Мостар, пријави од граѓани – „не се дише“: Стигна предупредување до туристите/ФОТО/ВИДЕО | Вечер Прес",
+      "title": "(ФОТО+ВИДЕО) Далмација се гуши во чад од пожар во Босна и Херцеговина | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/826e8b5bd2/split-se-gusi-vo-cad-od-pozar-vo-mostar-prijavi-od-gragjani-ne-se-dise-stigna-predupreduvanje-do-turistite-foto-video.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/09/pexels-irrabagon-37036041-scaled.jpg",
-      "date": "Sun, 06 Sep 2026 16:26:55 +0000"
+      "url": "https://time.mk/c/67511a213c/foto-video-dalmacija-se-gusi-vo-cad-od-pozar-vo-bosna-i-hercegovina.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/09/Split-vo-cad.jpg",
+      "date": "Sun, 06 Sep 2026 18:46:45 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Голем пожар избувна во Грција: На терен 45 пожарникари и 10 авиони | Скопје1",
+      "title": "Мицотакис за Македонија: „Нема суштински напредок во европските преговори“ | Рацин",
       "description": "",
-      "url": "https://time.mk/c/1cfd7ccbd4/golem-pozar-izbuvna-vo-grcija-na-teren-45-pozarnikari-i-10-avioni.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/83334/conversions/text-max.jpg",
-      "date": "Sun, 06 Sep 2026 17:52:41 +0000"
+      "url": "https://time.mk/c/a6cf5b295c/micotakis-za-makedonija-nema-sustinski-napredok-vo-evropskite-pregovori.html",
+      "image": "https://racin.mk/wp-content/uploads/2024/12/miczotakis-vi-720x480.jpg?x95882",
+      "date": "Sun, 06 Sep 2026 19:34:46 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "AfD пред историска победа во Германија: Што би значело тоа за ЕУ и односите со Русија? | Трн",
+      "title": "Часовникот отчукува, рокот никогаш пократок: Што бараа Виткоф и Кушнер од Зеленски во Киев? | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/7c13ce0927/afd-pred-istoriska-pobeda-vo-germanija-sto-bi-znacelo-toa-za-eu-i-odnosite-so-rusija.html",
-      "image": "https://trn.mk/wp-content/uploads/2025/10/pexels-ingo-109629-3.jpg",
-      "date": "Sun, 06 Sep 2026 17:58:47 +0000"
+      "url": "https://time.mk/c/7d7fbd2a1a/casovnikot-otcukuva-rokot-nikogas-pokratok-sto-baraa-vitkof-i-kusner-od-zelenski-vo-kiev.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/zelenski.jpg",
+      "date": "Sun, 06 Sep 2026 18:52:43 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Кушнер најави „мировен пакет“ за Украина, но две клучни прашања остануваат нерешени | Слободен Печат",
+      "title": "Драма на аеродромот во Мајами: Товарен авион на слетување се излизга од пистата, удри во повеќе возила и се запали/ВИДЕО | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/6ca7bb48af/kusner-najavi-miroven-paket-za-ukraina-no-dve-klucni-prasanja-ostanuvaat-nereseni.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/kushner-printskrin-300x168.jpg",
-      "date": "Sun, 06 Sep 2026 17:52:41 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Николоски: За три дена Градскиот воз превезе околу 1.500 патници | Фактор",
-      "description": "",
-      "url": "https://time.mk/c/c44a929af4/nikoloski-za-tri-dena-gradskiot-voz-preveze-okolu-1-500-patnici.html",
-      "image": "https://faktor.mk/media/main/2026/09/20260906195954.jpg",
-      "date": "Sun, 06 Sep 2026 18:02:54 +0000"
+      "url": "https://time.mk/c/194dab27ad/drama-na-aerodromot-vo-majami-tovaren-avion-na-sletuvanje-se-izlizga-od-pistata-udri-vo-poveke-vozila-i-se-zapali-video.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/avion-pista-opsto.jpg",
+      "date": "Sun, 06 Sep 2026 20:10:53 +0000"
     },
     {
       "category": "mkd",
@@ -220,20 +121,38 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
+      "title": "Утре без струја делови од Сопиште и Ѓорче Петров | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/c765efef5f/utre-bez-struja-delovi-od-sopiste-i-gjorce-petrov.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/66808/conversions/evn-rabotnici-max.jpg",
+      "date": "Sun, 06 Sep 2026 10:00:37 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
       "title": "Жена завршила во болница, друга била силувана, син ги тепал мајката и таткото — бројни случаи на семејно насилство | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/1c550534d3/zena-zavrsila-vo-bolnica-druga-bila-siluvana-sin-gi-tepal-majkata-i-tatkoto-brojni-slucai-na-semejno-nasilstvo.html",
+      "url": "https://time.mk/c/bfc03ee114/zena-zavrsila-vo-bolnica-druga-bila-siluvana-sin-gi-tepal-majkata-i-tatkoto-brojni-slucai-na-semejno-nasilstvo.html",
       "image": "https://www.slobodenpecat.mk/wp-content/uploads/2025/05/nasilstvo-300x200.jpg",
       "date": "Sun, 06 Sep 2026 15:00:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "20-годишник ја нападнал поранешната партнерка, ѝ се заканувал и ѝ зел пари | Скопје1",
+      "title": "Возачот на Игор Јанушев 30 дена во притвор поради мито | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/c793f692fd/20-godisnik-ja-napadnal-poranesnata-partnerka-i-se-zakanuval-i-i-zel-pari.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/80796/conversions/text-max.jpg",
-      "date": "Sun, 06 Sep 2026 11:44:43 +0000"
+      "url": "https://time.mk/c/555156be30/vozacot-na-igor-janusev-30-dena-vo-pritvor-poradi-mito.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1788707482/pvxbouixfeceocqxqijg.jpg",
+      "date": "Sun, 06 Sep 2026 15:12:46 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Струмица, една од најзагадените реки во Македонија | Журнал",
+      "description": "",
+      "url": "https://time.mk/c/09f7e806cf/strumica-edna-od-najzagadenite-reki-vo-makedonija.html",
+      "image": "",
+      "date": "Sun, 06 Sep 2026 19:28:36 +0000"
     },
     {
       "category": "mkd",
@@ -247,29 +166,110 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ГОЛЕМИ ВЕСТИ ЗА ШТИПЈАНИ И МАКЕДОНИЈА: Видете како ќе изгледа тврдината Исар по големата конзервација! | Вечер",
+      "title": "Пристигнува новиот филм со Џулијан Мур: Домаќинка ја открива глумата и станува опседната (ВИДЕО) | Вечер",
       "description": "",
-      "url": "https://time.mk/c/756c8cbd39/golemi-vesti-za-stipjani-i-makedonija-videte-kako-ke-izgleda-tvrdinata-isar-po-golemata-konzervacija.html",
-      "image": "https://cmsnebula.eu-central-1.linodeobjects.com/b79723b0-fe00-4f46-ae15-f16613a5853e/$7914272a-9f61-4bae-9be0-1702cfbc95bc/isarot.jpg",
-      "date": "Sun, 06 Sep 2026 08:26:48 +0000"
+      "url": "https://time.mk/c/8fb793f758/pristignuva-noviot-film-so-dzulijan-mur-domakinka-ja-otkriva-glumata-i-stanuva-opsednata-video.html",
+      "image": "",
+      "date": "Sun, 06 Sep 2026 19:30:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Од Македонија до Лос Анѓелес: Екипата зад „Приказната за Силјан“,гордо го претстави филмот на еден од најголемите филмски настани во светот, каде испиша историја со две номинации | еМагазин",
+      "title": "„Тиквешки гроздобер 2026“ во финалето – маџун, детски карневал и последната фестивалска вечер | Паноптикум",
       "description": "",
-      "url": "https://time.mk/c/7680ae5da4/od-makedonija-do-los-angjeles-ekipata-zad-prikaznata-za-siljan-gordo-go-pretstavi-filmot-na-eden-od-najgolemite-filmski-nastani-vo-svetot-kade-ispisa-istorija-so-dve-nominacii.html",
-      "image": "https://emagazin.mk/wp-content/uploads/2025/09/siljan-8-300x120.png",
-      "date": "Sun, 06 Sep 2026 15:16:35 +0000"
+      "url": "https://time.mk/c/227cf822e9/tikveski-grozdober-2026-vo-finaleto-madzun-detski-karneval-i-poslednata-festivalska-vecer.html",
+      "image": "https://panoptikum.mk/wp-content/uploads/tikveshki-grozdober-1.webp",
+      "date": "Sun, 06 Sep 2026 19:02:54 +0000"
     },
     {
       "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Дегустација на грозје и производи од гроздови зрна во рамки на манифестацијата „Тиквешки гроздобер 2026“ | Вечер Прес",
-      "description": "",
-      "url": "https://time.mk/c/317fc506c8/degustacija-na-grozje-i-proizvodi-od-grozdovi-zrna-vo-ramki-na-manifestacijata-tikveski-grozdober-2026.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/09/796691310_1693836092746889_7058711118589015945_n.jpg",
-      "date": "Sun, 06 Sep 2026 13:56:41 +0000"
+      "source": "Motika",
+      "title": "Ова сум јас, кога сум прва смена на работа",
+      "description": "Секој кој станува во 6-7 на сабајле ќе се препознае во видеово. 6-7 нели 🙂",
+      "url": "https://motika.mk/ova-sum-jas-koga-sum-prva-smena-na-rabota/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/06/81325c028a2c433b897103a0107f6609.jpg",
+      "date": "Sun, 06 Sep 2026 15:10:49 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Оро од 10 реда во Врбени, Егејска Македонија",
+      "description": "Жива е Македонија! Преку орото и песната си го браниме идентитетот.",
+      "url": "https://motika.mk/oro-od-10-reda-vo-vrbeni-egejska-makedonija/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/06/816f3c0d3618494ba3db4e0263af1f55.jpg",
+      "date": "Sun, 06 Sep 2026 15:08:31 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Е ова ти се вика слободен пазар на македонски начин",
+      "description": "На преварантот што сака да ќари пари од бесплатни карти, друг преварант му спушта цена.",
+      "url": "https://motika.mk/e-ova-ti-se-vika-sloboden-pazar-na-makedonski-nacin/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/06/0e37e443-3440-473e-ab64-7c3df3ae235f.jpg",
+      "date": "Sun, 06 Sep 2026 15:02:27 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Добро утро: Го започнуваме денот со Гркинката Софија Цариталиду",
+      "description": "19-годишната Софија Царситалиду е на добар пат да стане големо име во грчката атлетика. Прекрасната атлетичарка од Ајолос Птолемаидас постигнува значителен напредок сезона по сезона и уште еднаш покажа за време на Грчкото првенство во сала во 2026 година дека не е таму само за забава.",
+      "url": "https://motika.mk/dobro-utro-go-zapocnuvame-denot-so-grkinkata-sofija-caritalidu/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/06/asset-f5fa9de34eee1a5e0d8cb343b0955bcc.jpg",
+      "date": "Sun, 06 Sep 2026 06:15:49 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Персоналот го залепи со селотејп патникот по расправија во авионот",
+      "description": "За време на лет на „Американ ерлајнс“, еден пореметен патник целосно го изгубил трпението: почнал да упатува расистички и хомофобични навреди, удрил сопатник и турнал жена која се обидела да интервенира. Вооружени со ролни селотејп, персоналот и неколку патници, реагираа така што го врзаа бунтовникот за неговото седиште. Авионот на крајот направи итно слетување во ...",
+      "url": "https://motika.mk/personalot-go-zalepi-so-selotejp-patnikot-po-raspravija-vo-avionot/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/06/mumija.jpg",
+      "date": "Sun, 06 Sep 2026 06:11:51 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Тетката во градскиот автобус носи многу јака маичка",
+      "description": "Ваква маичка не може да не знаеш што значи и каква порака праќа. единствено оправдание е да немаш друга перена 🙂",
+      "url": "https://motika.mk/tetkata-vo-gradskiot-avtobus-nosi-mnogu-jaka-maicka/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/05/66aad4c8-bc23-426e-b521-5390766c29da.jpg",
+      "date": "Sat, 05 Sep 2026 10:24:28 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Руската мајка и синот се дотераа за првиот училишен ден",
+      "description": "Ви се допаѓаат ли новите алишта на синот?",
+      "url": "https://motika.mk/ruskata-majka-i-sinot-se-doteraa-za-prviot-ucilisen-den/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/05/af16e4790c234e839cfd37716e5998ac.jpg",
+      "date": "Sat, 05 Sep 2026 10:09:39 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Балканец си го учи синот да вози трактор",
+      "description": "Во секоја фамилија на Балканот мора да има по еден син. Кој има 2 женски, се снаоѓа 🙂",
+      "url": "https://motika.mk/balkanec-si-go-uci-sinot-da-vozi-traktor/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/05/d24fc08fafe941f2ada57a1654774c03.jpg",
+      "date": "Sat, 05 Sep 2026 10:06:20 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Што се чудите? Како да не сте виделе гостиварчанец како си го шета коњот",
+      "description": "Зошто да се мачи пешки, кога може и вака?",
+      "url": "https://motika.mk/sto-se-cudite-kako-da-ne-ste-videle-gostivarcanec-kako-si-go-seta-konot/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/05/42c44c81075447079fa572534fdc558b.jpg",
+      "date": "Sat, 05 Sep 2026 10:02:37 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Сте пробале ли леб и торта? Тоа ти е нешто слично како симит погача, ама блага",
+      "description": "Ако некој може да јаде леб со празен бурек, тогаш зошто не и леб со торта?",
+      "url": "https://motika.mk/ste-probale-li-leb-so-torta-toa-ti-e-nesto-slicno-kako-simit-pogaca-ama-blaga/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/05/3d4a1e8713904a728c26ce8ba3d53f27.jpg",
+      "date": "Sat, 05 Sep 2026 09:59:32 +0000"
     }
   ],
   "de": [
