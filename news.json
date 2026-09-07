@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T22:45:31.093220+00:00",
+  "updated": "2026-09-07T00:45:08.403778+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -112,20 +112,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Јанушев за неговиот возач: Целосно се оградувам од постапувањето на приведеното лице | Фокус",
-      "description": "",
-      "url": "https://time.mk/c/6dc67e7f9c/janusev-za-negoviot-vozac-celosno-se-ograduvam-od-postapuvanjeto-na-privedenoto-lice.html",
-      "image": "https://fokus.mk/wp-content/uploads/2025/07/janusev-vmro-dpmne-1170x681.jpg",
-      "date": "Sun, 06 Sep 2026 13:44:44 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
       "title": "Николоски: Македонскиот авиосообраќај руши рекорди, оваа година ќе сме блиску до 4 милиони патници | Скопје1",
       "description": "",
       "url": "https://time.mk/c/5190ff964a/nikoloski-makedonskiot-aviosoobrakaj-rusi-rekordi-ovaa-godina-ke-sme-blisku-do-4-milioni-patnici.html",
       "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/81902/conversions/text-max.jpg",
       "date": "Sun, 06 Sep 2026 18:30:49 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Јанушев за неговиот возач: Целосно се оградувам од постапувањето на приведеното лице | Фокус",
+      "description": "",
+      "url": "https://time.mk/c/6dc67e7f9c/janusev-za-negoviot-vozac-celosno-se-ograduvam-od-postapuvanjeto-na-privedenoto-lice.html",
+      "image": "https://fokus.mk/wp-content/uploads/2025/07/janusev-vmro-dpmne-1170x681.jpg",
+      "date": "Sun, 06 Sep 2026 13:44:44 +0000"
     },
     {
       "category": "mkd",
@@ -193,11 +193,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Кушнер најави „мировен пакет“ за Украина, но две клучни прашања остануваат нерешени | Слободен Печат",
+      "title": "Часовникот отчукува, рокот никогаш пократок: Што бараа Виткоф и Кушнер од Зеленски во Киев? | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/6ca7bb48af/kusner-najavi-miroven-paket-za-ukraina-no-dve-klucni-prasanja-ostanuvaat-nereseni.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/kushner-printskrin-300x168.jpg",
-      "date": "Sun, 06 Sep 2026 17:52:41 +0000"
+      "url": "https://time.mk/c/7d7fbd2a1a/casovnikot-otcukuva-rokot-nikogas-pokratok-sto-baraa-vitkof-i-kusner-od-zelenski-vo-kiev.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/zelenski.jpg",
+      "date": "Sun, 06 Sep 2026 18:52:43 +0000"
     },
     {
       "category": "mkd",
@@ -265,11 +265,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Од Македонија до Лос Анѓелес: Екипата зад „Приказната за Силјан“,гордо го претстави филмот на еден од најголемите филмски настани во светот, каде испиша историја со две номинации | еМагазин",
+      "title": "Пристигнува новиот филм со Џулијан Мур: Домаќинка ја открива глумата и станува опседната (ВИДЕО) | Вечер",
       "description": "",
-      "url": "https://time.mk/c/7680ae5da4/od-makedonija-do-los-angjeles-ekipata-zad-prikaznata-za-siljan-gordo-go-pretstavi-filmot-na-eden-od-najgolemite-filmski-nastani-vo-svetot-kade-ispisa-istorija-so-dve-nominacii.html",
-      "image": "https://emagazin.mk/wp-content/uploads/2025/09/siljan-8-300x120.png",
-      "date": "Sun, 06 Sep 2026 15:16:35 +0000"
+      "url": "https://time.mk/c/8fb793f758/pristignuva-noviot-film-so-dzulijan-mur-domakinka-ja-otkriva-glumata-i-stanuva-opsednata-video.html",
+      "image": "",
+      "date": "Sun, 06 Sep 2026 19:30:59 +0000"
     }
   ],
   "de": [
@@ -730,6 +730,15 @@
     {
       "category": "starwars",
       "source": "Star Wars News Net",
+      "title": "This Week, In a Galaxy Far, Far Away: A ‘Star Wars’ Fall Preview, Bit Reactor In Financial Trouble, and More",
+      "description": "Happy Sunday, and welcome to a new edition of “This Week, In a Galaxy Far, Far Away“. It’s been a The post This Week, In a Galaxy Far, Far Away: A ‘Star Wars’ Fall Preview, Bit Reactor In Financial Trouble, and More appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/09/this-week-in-a-galaxy-far-far-away-a-star-wars-fall-preview-bit-reactor-in-financial-trouble-and-more.html",
+      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2024/01/Celebration_1-1024x576.png",
+      "date": "Sun, 06 Sep 2026 23:00:31 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
       "title": "Gorga the Hutt – ‘Star Wars’ Character Spotlight",
       "description": "Gorga the Hutt is getting the Star Wars Character Spotlight this week, nephew of Jabba the Hutt and the Grand The post Gorga the Hutt – ‘Star Wars’ Character Spotlight appeared first on Star Wars News Net .",
       "url": "https://www.starwarsnewsnet.com/2026/09/gorga-the-hutt-star-wars-character-spotlight.html",
@@ -798,15 +807,6 @@
       "url": "https://www.starwarsnewsnet.com/2026/09/star-wars-zero-company-80-percent-of-development-team-at-bit-reactor-was-furloughed-weeks-before-launch-company-undergoing-internal-lawsuit.html",
       "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/07/Star-Wars-Zero-Company-Rocket-Launcher.jpeg",
       "date": "Tue, 01 Sep 2026 18:20:55 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars News Net",
-      "title": "The State of the Imperial Remnant After the Events of ‘The Mandalorian and Grogu’",
-      "description": "The Mandalorian introduced us to the Imperial Remnant, the remaining forces of the Empire after the victory of the Rebellion, The post The State of the Imperial Remnant After the Events of ‘The Mandalorian and Grogu’ appeared first on Star Wars News Net .",
-      "url": "https://www.starwarsnewsnet.com/2026/09/the-state-of-the-imperial-remnant-after-the-events-of-the-mandalorian-and-grogu.html",
-      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/06/MandoShadowCouncil-scaled.jpg",
-      "date": "Tue, 01 Sep 2026 15:30:13 +0000"
     },
     {
       "category": "starwars",
