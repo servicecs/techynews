@@ -1,6 +1,33 @@
 {
-  "updated": "2026-09-07T05:48:15.147762+00:00",
+  "updated": "2026-09-07T11:54:36.688151+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Џон Просер: „Еве го iPhone настанот од Apple… порано“",
+      "description": "Задутре, односно во среда на 9 септември, Apple ќе го одржи нивниот традиционален за овој период од годината iPhone настан. Како што веќе им е познато на повеќето кои ги следат информациите, на овој настан се очекува претставувањето на првиот iPhone на преклоп. Презентацијата ќе биде предводена од новиот директор на компанијата, Џон Тернус, за […]",
+      "url": "https://smartportal.mk/novosti/smartfoni/jon-prosser-eve-go-iphone-nastanot-porano/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/maxresdefault-1-150x150.jpg",
+      "date": "Mon, 07 Sep 2026 11:39:51 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Audacity 4 пристигнува со нов интерфејс и приспособливи работни околини",
+      "description": "Muse Group, компанијата зад апликација Audacity, ја објави Audacity 4 верзијата од познатиот софтвер со отворен код наменет за снимање и уредување на аудио содржини. Најновата верзија е фокусирана кон подобрување на работниот процес на корисниците, притоа задржувајќи ја поддршката за постоечките кратенки на тастатурата, препознатливиот распоред на лентите и целосната компатибилност со проектите создадени […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/audacity-4/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/6a9994d48b5543ece8570fc1_Screenshot-2026-09-03-at-16.39.56-150x150.webp",
+      "date": "Mon, 07 Sep 2026 10:37:09 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Тим Кук ќе продолжи да биде голем фактор во Apple и покрај неговото напуштање на главната директорска позиција",
+      "description": "Веќе една недела Apple има нов директор, нешто што секако привлекува внимание кај оваа компанија. Џон Тернус е новиот директор на Apple, а Тим Кук ја презеде позицијата извршен претседател на одборот на директори. Веднаш може да се види дека Кук не планира да се повлече од активниот ангажман во Apple, па повеќето досегашни претседатели […]",
+      "url": "https://smartportal.mk/novosti/licnosti/tim-cook-ke-prodolzi-da-bide-golem-faktor-vo-apple/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Depositphotos_839665820_XL-f-150x150.webp",
+      "date": "Mon, 07 Sep 2026 09:17:00 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -66,210 +93,183 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Како Cloudflare ослободи 100TB меморија со паметна оптимизација на DNS „кешот“",
-      "description": "Cloudflare успешно ослободи околу 100TB работна меморија на својата глобална серверска мрежа и тоа без никакви физички промени на хардверот. Овој резултат е постигнат со целосно редизајнирање на начинот на кој DNS записите се чуваат во меморијата на нивната платформа Big Pineapple, која стои зад популарниот јавен сервис 1.1.1.1. Системот во секој момент чува над […]",
-      "url": "https://smartportal.mk/novosti/servisi/kako-cloudflare-oslobodi-100tb-memorija-so-pametna-optimizacija-na-dns/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Depositphotos_778596864_XL-f-150x150.webp",
-      "date": "Fri, 04 Sep 2026 10:05:06 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Џон Просер го „прикажува“ јубилејниот iPhone 20 и препорачува да го прескокнете iPhone 18 Pro",
-      "description": "Идната година Apple ќе ја одбележи дваесетгодишнината од претставувањето на нивниот прв „смартфон“, односно од претставувањето на првиот iPhone кој дефинитивно може да се каже дека целосно го промени овој пазар. Веќе одреден период може да се прочита дека за овој јубилеј Apple ќе претстави посебна верзија од iPhone, која во промените ќе потсетува на […]",
-      "url": "https://smartportal.mk/novosti/smartfoni/jon-prosser-go-prikazuva-iphone-20/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/maxresdefault-150x150.jpg",
-      "date": "Fri, 04 Sep 2026 08:57:31 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "OpenAI го претстави GPT-6 Astra јазичниот модел кој го промовира како најинтелигентниот во светот",
-      "description": "OpenAI официјално го претстави GPT-6 Astra, нивниот најнов модел за вештачка интелигенција кој е насочен кон софтверското инженерство, научните истражувања и самостојното користење на компјутерски системи. Моделот од денес е достапен за ограничена група организации, а во наредните денови ќе биде овозможен за корисниците на претплатите Plus, Pro, Business и Enterprise, како и преку програмскиот […]",
-      "url": "https://smartportal.mk/novosti/ai/openai-gpt-6-astra/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/gpt-6-astra-f-150x150.webp",
-      "date": "Fri, 04 Sep 2026 08:24:57 +0000"
+      "source": "Time.mk - All",
+      "title": "НОВ УДАР ЗА ВОЗАЧИТЕ – Дизелот ја надмина границата од 100 денари | Пари",
+      "description": "",
+      "url": "https://time.mk/c/1050c65e97/nov-udar-za-vozacite-dizelot-ja-nadmina-granicata-od-100-denari.html",
+      "image": "http://pari.com.mk/wp-content/uploads/2024/08/benzin.jpg",
+      "date": "Mon, 07 Sep 2026 11:24:45 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Талентирани ученици на прием кај претседателката Сиљановска-Давкова по повод Денот на независноста | Независен",
+      "title": "Груби вели дека не е виновен, на еден од обвинетите во последен момент му текна да бара обвинение на албански | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/8a75f8b9bf/talentirani-ucenici-na-priem-kaj-pretsedatelkata-siljanovska-davkova-po-povod-denot-na-nezavisnosta.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/siljanovska-davkova-ucenici.png",
-      "date": "Mon, 07 Sep 2026 05:24:37 +0000"
+      "url": "https://time.mk/c/d4c14941f9/grubi-veli-deka-ne-e-vinoven-na-eden-od-obvinetite-vo-posleden-moment-mu-tekna-da-bara-obvinenie-na-albanski.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/signal-2026-09-07-12-04-35-809_008-300x225.jpg",
+      "date": "Mon, 07 Sep 2026 11:48:39 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Еден по еден, возовите полека… | Призма",
+      "title": "Без замена на влезниците со нараквици, ќе немаше концерт на Давид Гета – вели сопственикот на „Авалон“ | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/20fc1f1cf1/eden-po-eden-vozovite-poleka.html",
-      "image": "https://prizma.mk/wp-content/uploads/2016/08/zvezdan-e1471514645248-1024x1024.png",
-      "date": "Mon, 07 Sep 2026 03:56:33 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - Magazin",
-      "title": "Те сака, ама има проблем со емоциите – како да му помогнете на партнерот? | Lady",
-      "description": "",
-      "url": "https://time.mk/c/76bec4d3ea/te-saka-ama-ima-problem-so-emociite-kako-da-mu-pomognete-na-partnerot.html",
-      "image": "https://lady.mk/wp-content/uploads/2025/11/preljuba-300x191.jpg",
-      "date": "Mon, 07 Sep 2026 05:00:39 +0000"
+      "url": "https://time.mk/c/c2f4e27b6d/bez-zamena-na-vleznicite-so-narakvici-ke-nemase-koncert-na-david-geta-veli-sopstvenikot-na-avalon.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/09/pres-za-koncertot-na-David-geta.jpg",
+      "date": "Mon, 07 Sep 2026 11:50:57 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Во Загреб ќе биде одбележан Денот на независноста со изложба на Државниот архив и концерт на хорот „Про Арс“ | Независен",
+      "title": "„Однесувањето на СДСМ најдобро го објаснува зборот лицемерие“, велат од МОН | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/59b73e37a0/vo-zagreb-ke-bide-odbelezan-denot-na-nezavisnosta-so-izlozba-na-drzavniot-arhiv-i-koncert-na-horot-pro-ars.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/35-godini-nezavisnost-odbelezuvanje-vo-zagreb.png",
-      "date": "Mon, 07 Sep 2026 05:22:47 +0000"
+      "url": "https://time.mk/c/03cca33ec4/odnesuvanjeto-na-sdsm-najdobro-go-objasnuva-zborot-licemerie-velat-od-mon.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/81654/conversions/text-max.jpg",
+      "date": "Mon, 07 Sep 2026 11:12:40 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Три пожари го зачадија Скопје: Воздухот е непријатен за дишење, граѓаните затворени дома/ВИДЕО | Вечер Прес",
+      "title": "Од раните утрински часови до доцна во ноќта: Каков беше денот на 8 Септември 1991 година во Скопје? | Скопје инфо",
       "description": "",
-      "url": "https://time.mk/c/112e875e18/tri-pozari-go-zacadija-skopje-vozduhot-e-neprijaten-za-disenje-gragjanite-zatvoreni-doma-video.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/09/pozar-cuk.jpg",
-      "date": "Sun, 06 Sep 2026 19:04:42 +0000"
+      "url": "https://time.mk/c/34ee15f639/od-ranite-utrinski-casovi-do-docna-vo-nokta-kakov-bese-denot-na-8-septemvri-1991-godina-vo-skopje.html",
+      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/septemvri/image-259694.jpg?itok=mKLGfiY2",
+      "date": "Mon, 07 Sep 2026 08:50:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Во неполна година двајца уапсени од кабинетот на Јанушев, ја дополнија листата со афери | Рацин",
+      "title": "Осмиот смртен случај од западнонилска треска е 70-годишен маж | Фактор",
       "description": "",
-      "url": "https://time.mk/c/60d153e998/vo-nepolna-godina-dvajca-uapseni-od-kabinetot-na-janusev-ja-dopolnija-listata-so-aferi.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/09/igor-janushev-720x480.jpg?x95882",
-      "date": "Mon, 07 Sep 2026 04:58:46 +0000"
+      "url": "https://time.mk/c/c6b5ee43b5/osmiot-smrten-slucaj-od-zapadnonilska-treska-e-70-godisen-maz.html",
+      "image": "https://faktor.mk/media/main/2026/09/20260907130320.png",
+      "date": "Mon, 07 Sep 2026 11:04:36 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Прометот на Македонска берза во август порасна 17,1%, Комерцијална банка најтргувана | Економија и Бизнис",
+      "title": "(Видео) Серафимовски: Се преземаат мерки за интензивирање на откупот на вранецот | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/02e8abb8a5/prometot-na-makedonska-berza-vo-avgust-porasna-17-1-komercijalna-banka-najtrguvana.html",
-      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/09/berza_avgust2026-1024x612.jpg",
-      "date": "Mon, 07 Sep 2026 05:02:49 +0000"
+      "url": "https://time.mk/c/dd313a7937/video-serafimovski-se-prezemaat-merki-za-intenziviranje-na-otkupot-na-vranecot.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/document-name-_36.webp",
+      "date": "Mon, 07 Sep 2026 11:10:54 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Николоски: Автопатите се градат со силна динамика, наскоро започнуваме со изградба на шестиот автопат Букојчани-Кичево | Бизнис Вести",
+      "title": "64 жаришта на сипаници кај овците во земјава, регистрирани околу 10.000 угинати грла | Градина",
       "description": "",
-      "url": "https://time.mk/c/38f287e9f8/nikoloski-avtopatite-se-gradat-so-silna-dinamika-naskoro-zapocnuvame-so-izgradba-na-sestiot-avtopat-bukojcani-kicevo.html",
-      "image": "https://biznisvesti.mk/wp-content/uploads/2026/06/nikoloski-300x220.webp",
-      "date": "Sun, 06 Sep 2026 18:58:46 +0000"
+      "url": "https://time.mk/c/46bd78fa5e/64-zarista-na-sipanici-kaj-ovcite-vo-zemjava-registrirani-okolu-10-000-uginati-grla.html",
+      "image": "https://gradina.mk/wp-content/uploads/2026/08/abeijeman-heather-7009925-150x150.jpg",
+      "date": "Mon, 07 Sep 2026 10:56:40 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Пожари во регионот: Ветровите ја влошуваат ситуацијата, се чека дожд | Проверено",
+      "title": "Српскиот патријарх Порфириј зборуваше на погребот на Ратко Младиќ | Независен",
       "description": "",
-      "url": "https://time.mk/c/58084c6ecf/pozari-vo-regionot-vetrovite-ja-vlosuvaat-situacijata-se-ceka-dozd.html",
-      "image": "https://provereno.mk/wp-content/uploads/2026/08/Ð¾Ð³Ð°Ð½-Ð¿Ð¾Ð·Ð°Ñ-300x169.webp",
-      "date": "Mon, 07 Sep 2026 05:10:47 +0000"
+      "url": "https://time.mk/c/bfaf397f35/srpskiot-patrijarh-porfirij-zboruvase-na-pogrebot-na-ratko-mladik.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/Patrijarh-Porfirij-Ratko-Mladic-SPC.jpg",
+      "date": "Mon, 07 Sep 2026 11:38:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Министерката Петрова: Ива Михаилова не е сама, Бугарија ќе направи сѐ што е потребно | Рацин",
+      "title": "МИНИМАЛЕЦ ОД 1.000 ЕВРА И ФИНАНСИСКИ ИНЈЕКЦИИ ЗА ДОМАЌИНСТВАТА, вети грчкиот премиер Мицотакис | Пари",
       "description": "",
-      "url": "https://time.mk/c/9f2420e44d/ministerkata-petrova-iva-mihailova-ne-e-sama-bugarija-ke-napravi-sѐ-sto-e-potrebno.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/05/velislava-petrova-chamova-mnr-na-bugarija-776x480.jpg?x95882",
-      "date": "Mon, 07 Sep 2026 04:22:45 +0000"
+      "url": "https://time.mk/c/ed24721935/minimalec-od-1-000-evra-i-finansiski-injekcii-za-domakinstvata-veti-grckiot-premier-micotakis.html",
+      "image": "http://pari.com.mk/wp-content/uploads/2026/09/Micotakis.jpg",
+      "date": "Mon, 07 Sep 2026 10:56:40 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Сите гласови се преброени, AfD има историска победа, но и проблем | Рацин",
+      "title": "Зошто АфД е толку успешна во Саксонија-Анхалт | Deutsche Welle",
       "description": "",
-      "url": "https://time.mk/c/1011272168/site-glasovi-se-prebroeni-afd-ima-istoriska-pobeda-no-i-problem.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/09/afd-pobeda-791x480.jpg?x95882",
-      "date": "Mon, 07 Sep 2026 05:34:46 +0000"
+      "url": "https://time.mk/c/b5b7919853/zosto-afd-e-tolku-uspesna-vo-saksonija-anhalt.html",
+      "image": "https://static.dw.com/image/79125699_301.jpg",
+      "date": "Mon, 07 Sep 2026 11:18:46 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "САД се надеваат на директни разговори меѓу Москва и Киев, но напредок кон мир сè уште нема | Deutsche Welle",
+      "title": "Трамп денеска ќе разговара со Путин и Зеленски за завршување на војната | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/3bfd2a9f55/sad-se-nadevaat-na-direktni-razgovori-megju-moskva-i-kiev-no-napredok-kon-mir-se-uste-nema.html",
-      "image": "https://static.dw.com/image/79055010_302.jpg",
-      "date": "Mon, 07 Sep 2026 05:38:47 +0000"
+      "url": "https://time.mk/c/13c8af93ef/tramp-deneska-ke-razgovara-so-putin-i-zelenski-za-zavrsuvanje-na-vojnata.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2025/02/Miroven-plan-Rusija-300x169.jpg",
+      "date": "Mon, 07 Sep 2026 08:56:43 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Без струја денеска дел од корисниците во Сопиште и Ѓорче Петров | Независен",
+      "title": "Армијата попладне со почесна артилериска стрелба по повод Денот на независноста | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/1381eb19b0/bez-struja-deneska-del-od-korisnicite-vo-sopiste-i-gjorce-petrov.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2025/10/Bandera-struja-kandelabra-svetlo-1a-bg.jpg",
-      "date": "Mon, 07 Sep 2026 05:26:49 +0000"
+      "url": "https://time.mk/c/c9f06420ca/armijata-popladne-so-pocesna-artileriska-strelba-po-povod-denot-na-nezavisnosta.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/09/pocesna-artileriska-strelba.jpg",
+      "date": "Mon, 07 Sep 2026 09:02:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Меџити: Чаир и Вакарици кон збратимување, ги зајакнуваме врските со Арберешите преку конкретна соработка | 24Инфо",
+      "title": "Николоски најави повеќе возови на релација Куманово – Скопје | Независен",
       "description": "",
-      "url": "https://time.mk/c/91fa675d9b/medziti-cair-i-vakarici-kon-zbratimuvanje-gi-zajaknuvame-vrskite-so-arberesite-preku-konkretna-sorabotka.html",
-      "image": "https://24info.mk/wp-content/uploads/2026/09/img_6961-1024x683.jpeg",
-      "date": "Sun, 06 Sep 2026 16:54:46 +0000"
+      "url": "https://time.mk/c/5729103510/nikoloski-najavi-poveke-vozovi-na-relacija-kumanovo-skopje.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2024/07/Zeleznicka-stanica-voz-na-peron-4-bg.jpg",
+      "date": "Mon, 07 Sep 2026 09:40:44 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Продолжува судењето за случајот „Државна лотарија“, закажано ново рочиште во Кривичниот суд | Бизнис Вести",
+      "title": "Повторно куршуми на Дуќанџик: Три пукања на истата улица за година и половина | Трн",
       "description": "",
-      "url": "https://time.mk/c/a56d82167b/prodolzuva-sudenjeto-za-slucajot-drzavna-lotarija-zakazano-novo-rociste-vo-krivicniot-sud.html",
-      "image": "https://biznisvesti.mk/wp-content/uploads/2026/02/Artan_Grubi_official_portrait_2020-200x300.jpg",
-      "date": "Mon, 07 Sep 2026 05:02:49 +0000"
+      "url": "https://time.mk/c/74df81afe1/povtorno-kursumi-na-dukandzik-tri-pukanja-na-istata-ulica-za-godina-i-polovina.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/03/policzija.jpg",
+      "date": "Mon, 07 Sep 2026 11:02:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Во изминатото деноноќие во државата биле регистрирани 42 пожари на отворен простор | Бизнис Вести",
+      "title": "Маж ја нападнал 37-годишната сопруга | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/ee735a8034/vo-izminatoto-denonokie-vo-drzavata-bile-registrirani-42-pozari-na-otvoren-prostor.html",
-      "image": "https://biznisvesti.mk/wp-content/uploads/2026/06/pozar-300x169.jpg",
-      "date": "Mon, 07 Sep 2026 05:34:46 +0000"
+      "url": "https://time.mk/c/4785c4f08f/maz-ja-napadnal-37-godisnata-sopruga.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/78097/conversions/text-max.jpg",
+      "date": "Mon, 07 Sep 2026 10:24:46 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Струмица, една од најзагадените реки во Македонија | Журнал",
+      "title": "(Видео) Коњановски: Битола се гради како никогаш досега, конкретни проекти, видливи резултати и јасна визија за иднината | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/09f7e806cf/strumica-edna-od-najzagadenite-reki-vo-makedonija.html",
+      "url": "https://time.mk/c/66155abf55/video-konjanovski-bitola-se-gradi-kako-nikogas-dosega-konkretni-proekti-vidlivi-rezultati-i-jasna-vizija-za-idninata.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/konjanovski.webp",
+      "date": "Mon, 07 Sep 2026 11:20:39 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Проданоски: Го посетивме археолошкиот комплекс „Старо Бонче“, каде што во изминатите десетина дена интензивно се одвиваа систематски археолошки истражувања. | Репортер",
+      "description": "",
+      "url": "https://time.mk/c/d72cd59198/prodanoski-go-posetivme-arheoloskiot-kompleks-staro-bonce-kade-sto-vo-izminatite-desetina-dena-intenzivno-se-odvivaa-sistematski-arheoloski-istrazuvanja.html",
+      "image": "https://reporter.mk/wp-content/uploads/2026/09/IMG-20260907-WA0005-300x225.jpg",
+      "date": "Mon, 07 Sep 2026 08:48:35 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "БЕД БАНИ И САБРИНА КАРПЕНТЕР ГИ ОСВОИЈА ПРВИТЕ ЕМИ НАГРАДИ ВО КАРИЕРАТА | Сакам да кажам",
+      "description": "",
+      "url": "https://time.mk/c/61d629be44/bed-bani-i-sabrina-karpenter-gi-osvoija-prvite-emi-nagradi-vo-karierata.html",
+      "image": "https://smart.sdk.mk/wp-content/uploads/2026/09/sabrina-bed-bani-958x575.jpg",
+      "date": "Mon, 07 Sep 2026 10:02:55 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "„Танец“ по 76 години повторно со настапи во Велика Британија | Независен",
+      "description": "",
+      "url": "https://time.mk/c/34c175a40a/tanec-po-76-godini-povtorno-so-nastapi-vo-velika-britanija.html",
       "image": "",
-      "date": "Sun, 06 Sep 2026 19:28:36 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Подземната гаража во Струмица се пренаменува за зонско паркирање | Независен",
-      "description": "",
-      "url": "https://time.mk/c/6fcdca57a9/podzemnata-garaza-vo-strumica-se-prenamenuva-za-zonsko-parkiranje.html",
-      "image": "",
-      "date": "Sun, 06 Sep 2026 13:28:35 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Одите на Дејвид Гета? Денес МВР ги објавува затворените улици, влезовите и безбедносните правила | Рацин",
-      "description": "",
-      "url": "https://time.mk/c/92e731c560/odite-na-dejvid-geta-denes-mvr-gi-objavuva-zatvorenite-ulici-vlezovite-i-bezbednosnite-pravila.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/09/narakvici-david-guetta-811x480.jpg?x95882",
-      "date": "Mon, 07 Sep 2026 03:58:46 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Мултимедијален настан во пресрет на Денот на независноста | Проверено",
-      "description": "",
-      "url": "https://time.mk/c/c607570477/multimedijalen-nastan-vo-presret-na-denot-na-nezavisnosta.html",
-      "image": "https://provereno.mk/wp-content/uploads/2026/09/Screenshot-2026-09-07-010718-300x142.png",
-      "date": "Mon, 07 Sep 2026 04:34:48 +0000"
+      "date": "Mon, 07 Sep 2026 10:08:42 +0000"
     }
   ],
   "de": [
@@ -638,6 +638,24 @@
     {
       "category": "eng",
       "source": "PCWorld",
+      "title": "How well do you know the world? This site makes geography trivia fun!",
+      "description": "On a scale of geography novice to Ken Jennings, how much do you know about the countries of the world? Either way, Country Wheel offers a fun way to explore them, one random spin at a time. Open the site, click Spin , and see which of 197 countries comes up. You can spin through the whole world or filter for Europe, Asia, Africa, the Americas, or Oceania. The regional filters are especially useful if you’re about to travel to an area and want to learn more about that particular part of the globe",
+      "url": "https://www.pcworld.com/article/3224936/how-well-do-you-know-the-world-this-site-makes-geography-trivia-fun.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3224936-0-76968100-1788777035-CountryWheel.png",
+      "date": "Mon, 07 Sep 2026 10:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Pay once for Microsoft Office 2024 Pro Plus and never renew, now $49.97",
+      "description": "TL;DR: Get a lifetime license to Microsoft Office 2024 Professional Plus for Windows, with Word, Excel, PowerPoint, Outlook, and more on one PC , for a one-time $49.97 (MSRP $249.99). A Microsoft 365 subscription bills you every single year, and those renewals never stop for as long as you keep using the apps. A lifetime license to Microsoft Office 2024 Professional Plus for Windows skips all of that for a one-time payment of $49.97. One purchase gets you Word, Excel, PowerPoint, Outlook, OneNot",
+      "url": "https://www.pcworld.com/article/3226808/pay-once-for-microsoft-office-2024-pro-plus-and-never-renew-now-49-97.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3226808-0-75734700-1788768026-sale_328296_article_image_649ead.jpg?quality=50&strip=all",
+      "date": "Mon, 07 Sep 2026 08:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
       "title": "Autodesk Revit drops to $399 for a year",
       "description": "TL;DR: Autodesk Revit is industry-standard BIM software for architects, engineers, and construction teams, now $399 for one year (MSRP $3,005). Professional BIM software usually costs hundreds a month, and most firms treat that as fixed overhead. Autodesk Revit brings that number down for a year of access, giving architects, engineers, and construction teams a full 3D modeling workflow on a single platform. Revit lets you design architectural, structural, and MEP systems inside a single environm",
       "url": "https://www.pcworld.com/article/3224965/autodesk-revit-drops-to-399-for-a-year.html",
@@ -706,24 +724,6 @@
       "url": "https://www.pcworld.com/article/3217754/is-your-usb-port-slowing-down-your-wi-fi-adapter-heres-the-real-answer.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3217754-0-23388800-1788534030-samsung-ssd.jpg?quality=50&strip=all",
       "date": "Fri, 04 Sep 2026 15:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Windows 11 will soon tell apps how old you are. Here’s how it works",
-      "description": "Microsoft is building automated age verification directly into Windows 11 in the form of system-level APIs that will share your verified age with registered apps. To be clear, the system won’t pass your exact age or date of birth to said apps. Rather, your age will be represented as one of several buckets (like “Under 10,” “10 to 12,” “13 to 15,” “16 to 17,” or “18+”). That’s according to this support page on the Windows Age APIs , spotted by Windows Latest . Until now, apps that wanted to perfo",
-      "url": "https://www.pcworld.com/article/3227424/windows-11-will-soon-tell-apps-how-old-you-are-heres-how-it-works.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3227424-0-46183600-1788531025-Finger-touching-Windows-11-logo-on-screen-in-dark-room.jpg?quality=50&strip=all",
-      "date": "Fri, 04 Sep 2026 14:09:23 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Japan eSIM checklist: Everything you need to know before you fly to Japan",
-      "description": "Landing in Japan without mobile data can make a long travel day much harder than it needs to be. The minute you arrive you’ll likely rely on your phone for train routes, maps, translation, reservations, and messages, so it’s best to sort out getting connected before your flight. I’ve lived in Japan for nearly a decade, both in cities and the countryside, and I’ve used several different ways to stay connected. These days, I’ve found an eSIM to be the easiest option. But there are a few things wor",
-      "url": "https://www.pcworld.com/article/3222343/japan-esim-checklist-everything-you-need-to-know-before-you-fly-to-japan.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3222343-0-87847600-1788530422-Japan-eSIM-Checklist.png",
-      "date": "Fri, 04 Sep 2026 14:00:00 +0000"
     }
   ],
   "starwars": [
@@ -901,104 +901,113 @@
     {
       "category": "starwars",
       "source": "Jedi News",
-      "title": "Matt Denton Attending Echo Base Live on October 10th, 2026",
-      "description": "Droid builder and performer Matt Denton, who worked on BB-8, B2-EMO and D-O among others, is the sixth guest announced for Look sir, droids! Echo Base Live, Europe's premiere Star Wars collectors event, taking place in Redditch on October 10th, 2026. The post Matt Denton Attending Echo Base Live on October 10th, 2026 appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/events/articles/matt-denton-attending-echo-base-live-on-october-10th-2026/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/Echo-Base-Live-Look-Sir-Droids-Matt-Denton-Sept26-300x201.jpg",
-      "date": "Sun, 06 Sep 2026 07:04:13 +0000"
+      "title": "Mike Quinn Attending Echo Base Live on October 10th, 2026",
+      "description": "Droid performer Mike Quinn, best known for operating and performing resistance pilot Nien Nunb, is the seventh guest announced for Look sir, droids! Echo Base Live, Europe's premiere Star Wars collectors event, taking place in Redditch on October 10th, 2026. The post Mike Quinn Attending Echo Base Live on October 10th, 2026 appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/events/articles/mike-quinn-attending-echo-base-live-on-october-10th-2026/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/Echo-Base-Live-Look-Sir-Droids-Mike-Quinn-Sept26-300x201.jpg",
+      "date": "Mon, 07 Sep 2026 05:58:42 +0000"
     },
     {
       "category": "starwars",
       "source": "Jedi News",
-      "title": "The Star Wars Underworld Podcast Live | We Watched ‘LEGO Star Wars: The Mandalorian’",
-      "description": "Join the Star Wars Underworld team as they discuss this week's latest Star Wars news. The post The Star Wars Underworld Podcast Live | We Watched ‘LEGO Star Wars: The Mandalorian’ appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/the-star-wars-underworld-podcast-live-we-watched-lego-star-wars-the-mandalorian/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2018/08/The-SW-Underworld-300x201.jpg",
-      "date": "Sun, 06 Sep 2026 06:27:34 +0000"
+      "title": "Making Tracks #265: Wheelbarrow of credits: With guests Lateef Crowder and Jonny Coyne from Rebel Scum Con III",
+      "description": "Fantha Tracks Radio is back with episode 265 of their flagship show Making Tracks, discussing all the latest Star Wars news. The post Making Tracks #265: Wheelbarrow of credits: With guests Lateef Crowder and Jonny Coyne from Rebel Scum Con III appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/making-tracks-265-wheelbarrow-of-credits-with-guests-lateef-crowder-and-jonny-coyne-from-rebel-scum-con-iii/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2018/05/Making-Tracks-300x201.jpg",
+      "date": "Mon, 07 Sep 2026 05:25:04 +0000"
     },
     {
       "category": "starwars",
       "source": "Jedi News",
-      "title": "Star Wars Celebration LA 2027: Apply Now for Fan Panels and the Holonet News Stage",
-      "description": "Applications for Fan Panels and the Holonet News Stage at Star Wars Celebration LA are now open and running through Sunday, October 25th, 2026 at 11:59pm PT with status being notified by late December 2026. The post Star Wars Celebration LA 2027: Apply Now for Fan Panels and the Holonet News Stage appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/star-wars-celebration-la-2027-apply-now-for-fan-panels-and-the-holonet-news-stage/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/Star-Wars-Celebration-Fan-Panels-Now-Open-Sept26-300x201.jpg",
-      "date": "Sun, 06 Sep 2026 05:54:37 +0000"
+      "title": "This Weeks Publications – 7th September 2026",
+      "description": "Welcome to week 36 of 2026 and our list detailing what new publications to expect from a galaxy far, far away. The post This Weeks Publications – 7th September 2026 appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/literature/articles/this-weeks-publications-7th-september-2026/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/Poe-Dameron-Omnibus-HC-204x300.jpeg",
+      "date": "Mon, 07 Sep 2026 04:01:11 +0000"
     },
     {
       "category": "starwars",
       "source": "Jedi News",
-      "title": "Col Goudie Attending Thank the Maker – Rogue One: A Star Wars Story 10th Anniversary Event on October 17th",
-      "description": "Award-winning feature film editor Col Goudie is the thirteenth guest confirmed as attending Thank the Maker, in celebration of the 10th anniversary of Rogue One: A Star Wars Story, at St Swithun’s School in Winchester, Hampshire on October 17th, 2026. The post Col Goudie Attending Thank the Maker – Rogue One: A Star Wars Story 10th Anniversary Event on October 17th appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/events/articles/col-goudie-attending-thank-the-maker-rogue-one-a-star-wars-story-10th-anniversary-event-on-october-17th/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/Thank-the-Maker-Col-Goudie-Sept26-300x201.jpg",
-      "date": "Sat, 05 Sep 2026 23:40:52 +0000"
+      "title": "Ahsoka Protects the Jedi Younglings from Grievous! | Star Wars: The Clone Wars | Star Wars Kids",
+      "description": "Ahsoka Tano and the Jedi younglings must join forces with the unpredictable pirate Hondo Ohnaka after General Grievous attacks. Stream Star Wars: The Clone Wars on Disney+. The post Ahsoka Protects the Jedi Younglings from Grievous! | Star Wars: The Clone Wars | Star Wars Kids appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/ahsoka-protects-the-jedi-younglings-from-grievous-star-wars-the-clone-wars-star-wars-kids/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/maxresdefault-10-300x169.jpg",
+      "date": "Sun, 06 Sep 2026 23:07:16 +0000"
     },
     {
       "category": "starwars",
       "source": "Jedi News",
-      "title": "Anakin Skywalker vs. Barriss Offee | Lightsaber Legends Ep. 5 | Star Wars Kids",
-      "description": "Two Jedi Warriors in a duel in the heart of a Jedi Temple, though only one remains loyal to the Order... Check out the tactics Anakin Skywalker and Barriss Offee use in this intense clash that feels all too personal. The post Anakin Skywalker vs. Barriss Offee | Lightsaber Legends Ep. 5 | Star Wars Kids appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/anakin-skywalker-vs-barriss-offee-lightsaber-legends-ep-5-star-wars-kids/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/maxresdefault-9-300x169.jpg",
-      "date": "Sat, 05 Sep 2026 23:06:42 +0000"
+      "title": "Inside the ILM Art Department: ‘Moana’",
+      "description": "ILM.com is showcasing artwork specially chosen by members of the ILM Art Department. In this installment of a continuing series, two artists from the London studio share insights about their work on the 2026 Amazon/MGM Studios production, Masters of the Universe. The post Inside the ILM Art Department: ‘Moana’ appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/inside-the-ilm-art-department-moana/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/moana-aaron-mcbride-ilm-concept-art-vfx-featured-Sept26-300x201.jpg",
+      "date": "Sun, 06 Sep 2026 20:45:54 +0000"
     },
     {
       "category": "starwars",
       "source": "Jedi News",
-      "title": "Qui-Gon Talks to Anakin’s Mother | Star Wars: The Phantom Menace | Official Clip",
-      "description": "Qui-Gon tells Anakin's mom, Shmi Skywalker, that her son is special. Stream Star Wars: The Phantom Menace on Disney+. The post Qui-Gon Talks to Anakin’s Mother | Star Wars: The Phantom Menace | Official Clip appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/qui-gon-talks-to-anakins-mother-star-wars-the-phantom-menace-official-clip/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/maxresdefault-7-300x169.jpg",
-      "date": "Sat, 05 Sep 2026 16:32:44 +0000"
+      "title": "Star Wars Ambiance: Anakin Building C-3PO | 10 Hours for Work, Study & Sleep",
+      "description": "Step into Anakin Skywalker's home workshop on Tatooine as he tinkers away on his protocol droid, C-3PO — a scene inspired by Star Wars: Episode I – The Phantom Menace. The post Star Wars Ambiance: Anakin Building C-3PO | 10 Hours for Work, Study & Sleep appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/star-wars-ambiance-anakin-building-c-3po-10-hours-for-work-study-sleep/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/maxresdefault-11-300x169.jpg",
+      "date": "Sun, 06 Sep 2026 20:13:00 +0000"
     },
     {
       "category": "starwars",
       "source": "Jedi News",
-      "title": "The Cantina Cast 678: The Waystation: Star Wars News and Rumors",
-      "description": "Grab a flagon of your favorite brew for episode 678 of the Cantina Cast. The post The Cantina Cast 678: The Waystation: Star Wars News and Rumors appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/the-cantina-cast-678-the-waystation-star-wars-news-and-rumors/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2018/04/cantina-cast-podcast-300x201.jpg",
-      "date": "Sat, 05 Sep 2026 15:58:38 +0000"
+      "title": "Coffee With Kenobi #861: All About Galaxy Tours, with Davin Anderson",
+      "description": "Join Dan Zehr and co for episode 861 of Coffee With Kenobi. The post Coffee With Kenobi #861: All About Galaxy Tours, with Davin Anderson appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/coffee-with-kenobi-861-all-about-galaxy-tours-with-davin-anderson/",
+      "image": "",
+      "date": "Sun, 06 Sep 2026 19:41:54 +0000"
     },
     {
       "category": "starwars",
       "source": "Jedi News",
-      "title": "Podcast Stardust #1,080: The Mandalorian and Grogu on Disney+ – Star Wars News",
-      "description": "First-generation Star Wars fans, Dennis Keithly and Jay Krebs, host episode 1,080 of Podcast Stardust. The post Podcast Stardust #1,080: The Mandalorian and Grogu on Disney+ – Star Wars News appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/podcast-stardust-1080-the-mandalorian-and-grogu-on-disney-star-wars-news/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2020/05/Podcast-Stardust-300x201.jpg",
-      "date": "Sat, 05 Sep 2026 09:30:13 +0000"
+      "title": "Star Wars: New Jedi Order and Dave Filoni’s Untitled Film Are Moving Forward",
+      "description": "The September 3rd issue of Production Weekly mentions both Star Wars: New Jedi Order, starring Daisy Ridley as Rey Skywalker, and Dave Filoni’s untitled Star Wars movie as projects in-development, suggesting that there's movement on Lucasfilm's movie slate. The post Star Wars: New Jedi Order and Dave Filoni’s Untitled Film Are Moving Forward appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/star-wars-new-jedi-order-and-dave-filonis-untitled-film-are-moving-forward/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2024/10/Daisy-Ridley-Rey-Skywalker-Oct24-300x201.jpg",
+      "date": "Sun, 06 Sep 2026 17:12:37 +0000"
     },
     {
       "category": "starwars",
       "source": "Jedi News",
-      "title": "Star Wars Comic Previews: September 9, 2026",
-      "description": "An early look inside the pages of the Marvel Comics and Dark Horse Comics Star Wars titles for release on September 9, 2026. The post Star Wars Comic Previews: September 9, 2026 appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/literature/articles/star-wars-comic-previews-september-9-2026/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/THRA_Pathfinders5-FI-300x201.jpg",
-      "date": "Sat, 05 Sep 2026 09:05:49 +0000"
+      "title": "John Williams Surprises Fans at Hollywood Bowl and Conducts Imperial March for the Encore",
+      "description": "Legendary composer John Williams surprised guests at Maestro of the Movies: A Tribute to John Williams, taking place at the Hollywood Bowl between September 4th - 6th, by attending and conducting the Imperial March for the encore, from his wheelchair. The post John Williams Surprises Fans at Hollywood Bowl and Conducts Imperial March for the Encore appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/events/articles/john-williams-surprises-fans-at-hollywood-bowl-and-conducts-imperial-march-for-the-encore/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/John-Williams-Hollywood-Bowl-Sept26-300x201.jpg",
+      "date": "Sun, 06 Sep 2026 16:38:39 +0000"
     },
     {
       "category": "starwars",
       "source": "Jedi News",
-      "title": "Ezra Protects the Purrgil | Star Wars Rebels | Star Wars Kids",
-      "description": "Before Kanan and Sabine can activate the detonators, Ezra changes the plan to protect the Purrgil. Will the Ghost crew be able to improvise and still complete their mission before it's too late? Stream Star Wars Rebels on Disney+. The post Ezra Protects the Purrgil | Star Wars Rebels | Star Wars Kids appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/ezra-protects-the-purrgil-star-wars-rebels-star-wars-kids/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/maxresdefault-8-300x169.jpg",
-      "date": "Fri, 04 Sep 2026 23:05:53 +0000"
+      "title": "LEGO Icons Bookshop: Book Nook Revealed, Available October 1st",
+      "description": "The LEGO Group has announced the 1,690-piece LEGO Icons Bookshop: Book Nook (11379), a perfect gift idea for writers and book lovers and a captivating display for the home or office, available from October 1st for all. The post LEGO Icons Bookshop: Book Nook Revealed, Available October 1st appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/lego/articles/lego-icons-bookshop-book-nook-revealed-available-october-1st/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/11379_01_Ao7VIaqD5l26-300x201.jpg",
+      "date": "Sun, 06 Sep 2026 13:00:54 +0000"
     },
     {
       "category": "starwars",
       "source": "Jedi News",
-      "title": "Star Wars: The Mandalorian and Grogu | Official Podcast | Episode 2: Bigger & Different",
-      "description": "To coincide with Star Wars: The Mandalorian and Grogu’s release on Disney+, go behind the scenes with the team that made the movie, with writer-director Jon Favreau, co-writer and President of Lucasfilm, Dave Filoni, and award winning composer, Ludwig Göransson. The post Star Wars: The Mandalorian and Grogu | Official Podcast | Episode 2: Bigger & Different appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/star-wars-the-mandalorian-and-grogu-official-podcast-episode-2-bigger-different/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/maxresdefault-6-300x169.jpg",
-      "date": "Fri, 04 Sep 2026 14:24:15 +0000"
+      "title": "First Patch for Star Wars Zero Company Coming Next Week",
+      "description": "Developers Bit Reactor have shared via the Steam Community website that the first patch for Star Wars Zero Company will arrive next week, addressing bugs and performance issues in the critically acclaimed game. The post First Patch for Star Wars Zero Company Coming Next Week appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/gaming/articles/first-patch-for-star-wars-zero-company-coming-next-week/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/06/Star-Wars-Zero-Company-696x467-Jun26-300x201.jpg",
+      "date": "Sun, 06 Sep 2026 09:10:32 +0000"
     }
   ],
   "youtube": [
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Warum Berlin sich nicht erpressen ließ #informatik #berlin #code #news #cybersecurity",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/TGvSFxZMF4M",
+      "image": "https://i.ytimg.com/vi/TGvSFxZMF4M/hqdefault.jpg",
+      "date": "2026-09-07T10:00:16+00:00"
+    },
     {
       "category": "youtube",
       "source": "Hood Informatik",
@@ -1079,15 +1088,6 @@
       "url": "https://www.youtube.com/shorts/_LsTEtM-U-4",
       "image": "https://i.ytimg.com/vi/_LsTEtM-U-4/hqdefault.jpg",
       "date": "2026-08-29T10:00:22+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Wenn Geheimhaltung dein Sicherheitskonzept ist, hast du keins #informatik#cybersecurity #code #news",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/jMuDXgblY7Q",
-      "image": "https://i.ytimg.com/vi/jMuDXgblY7Q/hqdefault.jpg",
-      "date": "2026-08-28T18:46:11+00:00"
     },
     {
       "category": "youtube",
