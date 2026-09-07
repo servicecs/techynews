@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-07T11:54:36.688151+00:00",
+  "updated": "2026-09-07T17:30:04.515805+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Gamers Nexus објави истражување за нарушување на приватноста од страна на LG телевизорите",
+      "description": "Ново истражување објавено од Gamers Nexus открива сериозни проблеми поврзани со приватноста кај паметните телевизори на LG. Според откритијата, овие уреди можат да функционираат како уреди за прислушување, собирајќи транскрипти од гласовни разговори во чист текст и аудио записи преку вградените микрофони. Снимањето може да вклучува и визуелни податоци доколку се користат поврзани веб камери. […]",
+      "url": "https://smartportal.mk/novosti/uredi/gamers-nexus-istrazuvanje-privatnost-lg-televizori/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Depositphotos_826703935_XL-f-150x150.webp",
+      "date": "Mon, 07 Sep 2026 12:42:28 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -84,183 +93,174 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Објавена е верзијата 0.4.16 на ReactOS со нов графички „инсталер“",
-      "description": "Проектот ReactOS, кој нуди оперативен систем со отворен код компатибилен со апликациите и управувачите на Windows, ја објави верзијата 0.4.16. Ова ажурирање доаѓа по околу година и пол развој и се фокусира на подобрување на искуството при инсталација и поголема стабилност на системот за крајните корисници. Најзначајната промена во ова издание е воведувањето на нов […]",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/reactos-0-4-16/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/gui-setup-1-150x150.webp",
-      "date": "Fri, 04 Sep 2026 10:57:48 +0000"
+      "source": "Time.mk - All",
+      "title": "Артан Груби не се чувствува виновен во случајот „Државна лотарија“ | 360 степени",
+      "description": "",
+      "url": "https://time.mk/c/d8f09cab13/artan-grubi-ne-se-cuvstvuva-vinoven-vo-slucajot-drzavna-lotarija.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/08/Sudenje-Grubi.jpg",
+      "date": "Mon, 07 Sep 2026 14:50:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "НОВ УДАР ЗА ВОЗАЧИТЕ – Дизелот ја надмина границата од 100 денари | Пари",
+      "title": "Српски министри, војска и синот на Вучиќ на погребот на Ратко Младиќ во Белград | Трн",
       "description": "",
-      "url": "https://time.mk/c/1050c65e97/nov-udar-za-vozacite-dizelot-ja-nadmina-granicata-od-100-denari.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2024/08/benzin.jpg",
-      "date": "Mon, 07 Sep 2026 11:24:45 +0000"
+      "url": "https://time.mk/c/a3a7c569e2/srpski-ministri-vojska-i-sinot-na-vucik-na-pogrebot-na-ratko-mladik-vo-belgrad.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/09/pogreb-mladic-custom.jpg",
+      "date": "Mon, 07 Sep 2026 16:38:51 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Груби вели дека не е виновен, на еден од обвинетите во последен момент му текна да бара обвинение на албански | Слободен Печат",
+      "title": "МОН: Неточни и лицемерни се тврдењата на СДСМ дека сме ги оставиле учениците со попреченост без образовни асистенти | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/d4c14941f9/grubi-veli-deka-ne-e-vinoven-na-eden-od-obvinetite-vo-posleden-moment-mu-tekna-da-bara-obvinenie-na-albanski.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/signal-2026-09-07-12-04-35-809_008-300x225.jpg",
-      "date": "Mon, 07 Sep 2026 11:48:39 +0000"
+      "url": "https://time.mk/c/0e6ed70d81/mon-netocni-i-licemerni-se-tvrdenjata-na-sdsm-deka-sme-gi-ostavile-ucenicite-so-poprecenost-bez-obrazovni-asistenti.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2021/02/mon-ministerstvo-za-obrazovanie-mia.jpg",
+      "date": "Mon, 07 Sep 2026 15:34:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Без замена на влезниците со нараквици, ќе немаше концерт на Давид Гета – вели сопственикот на „Авалон“ | 360 степени",
+      "title": "Посебен сообраќаен режим утре поради концертот во арена „Тодор Проески“ | Бизнис Вести",
       "description": "",
-      "url": "https://time.mk/c/c2f4e27b6d/bez-zamena-na-vleznicite-so-narakvici-ke-nemase-koncert-na-david-geta-veli-sopstvenikot-na-avalon.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/09/pres-za-koncertot-na-David-geta.jpg",
-      "date": "Mon, 07 Sep 2026 11:50:57 +0000"
+      "url": "https://time.mk/c/aea730f631/poseben-soobrakaen-rezim-utre-poradi-koncertot-vo-arena-todor-proeski.html",
+      "image": "https://biznisvesti.mk/wp-content/uploads/2025/12/soobrakajka-300x200.jpg",
+      "date": "Mon, 07 Sep 2026 16:52:36 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Однесувањето на СДСМ најдобро го објаснува зборот лицемерие“, велат од МОН | Скопје1",
+      "title": "Панел дискусија: 8 Септември низ призма на неговите непосредни учесници и сведоци на Вила Водно | Press24",
       "description": "",
-      "url": "https://time.mk/c/03cca33ec4/odnesuvanjeto-na-sdsm-najdobro-go-objasnuva-zborot-licemerie-velat-od-mon.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/81654/conversions/text-max.jpg",
-      "date": "Mon, 07 Sep 2026 11:12:40 +0000"
+      "url": "https://time.mk/c/9832fdca01/panel-diskusija-8-septemvri-niz-prizma-na-negovite-neposredni-ucesnici-i-svedoci-na-vila-vodno.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/69567.png",
+      "date": "Mon, 07 Sep 2026 17:28:35 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Од раните утрински часови до доцна во ноќта: Каков беше денот на 8 Септември 1991 година во Скопје? | Скопје инфо",
+      "title": "Сиљановска-Давкова: Држава не се гради само со избори, туку со функционални институции | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/34ee15f639/od-ranite-utrinski-casovi-do-docna-vo-nokta-kakov-bese-denot-na-8-septemvri-1991-godina-vo-skopje.html",
-      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/septemvri/image-259694.jpg?itok=mKLGfiY2",
-      "date": "Mon, 07 Sep 2026 08:50:52 +0000"
+      "url": "https://time.mk/c/cdae158f56/siljanovska-davkova-drzava-ne-se-gradi-samo-so-izbori-tuku-so-funkcionalni-institucii.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1788794081/joujyy2judsl2fcmbyi2.jpg",
+      "date": "Mon, 07 Sep 2026 15:17:19 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Осмиот смртен случај од западнонилска треска е 70-годишен маж | Фактор",
+      "title": "Средба на претседателот Гаши со катарскиот министер за труд Ал Мари: разговарано и за можностите за олеснување на визната политика | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/c6b5ee43b5/osmiot-smrten-slucaj-od-zapadnonilska-treska-e-70-godisen-maz.html",
-      "image": "https://faktor.mk/media/main/2026/09/20260907130320.png",
-      "date": "Mon, 07 Sep 2026 11:04:36 +0000"
+      "url": "https://time.mk/c/394ac34a57/sredba-na-pretsedatelot-gasi-so-katarskiot-minister-za-trud-al-mari-razgovarano-i-za-moznostite-za-olesnuvanje-na-viznata-politika.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/gashi-al-mari2.webp",
+      "date": "Mon, 07 Sep 2026 16:02:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Видео) Серафимовски: Се преземаат мерки за интензивирање на откупот на вранецот | Макфакс",
+      "title": "МЗШВ ќе бара проверка на откупот на земјоделските производи | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/dd313a7937/video-serafimovski-se-prezemaat-merki-za-intenziviranje-na-otkupot-na-vranecot.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/document-name-_36.webp",
-      "date": "Mon, 07 Sep 2026 11:10:54 +0000"
+      "url": "https://time.mk/c/36e4d9d20b/mzsv-ke-bara-proverka-na-otkupot-na-zemjodelskite-proizvodi.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1788794502/xsv7de8fa5qsnlw4f1fa.jpg",
+      "date": "Mon, 07 Sep 2026 15:24:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "64 жаришта на сипаници кај овците во земјава, регистрирани околу 10.000 угинати грла | Градина",
+      "title": "Србија на чекор до избори; Студентите со порака до Вучиќ – Претседателе, конечно си надлежен | Либертас",
       "description": "",
-      "url": "https://time.mk/c/46bd78fa5e/64-zarista-na-sipanici-kaj-ovcite-vo-zemjava-registrirani-okolu-10-000-uginati-grla.html",
-      "image": "https://gradina.mk/wp-content/uploads/2026/08/abeijeman-heather-7009925-150x150.jpg",
-      "date": "Mon, 07 Sep 2026 10:56:40 +0000"
+      "url": "https://time.mk/c/631ea7fc7f/srbija-na-cekor-do-izbori-studentite-so-poraka-do-vucik-pretsedatele-konecno-si-nadlezen.html",
+      "image": "https://libertas.mk/wp-content/uploads/2026/09/20260907175333_big_730x400_14-300x225.webp",
+      "date": "Mon, 07 Sep 2026 16:00:42 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Српскиот патријарх Порфириј зборуваше на погребот на Ратко Младиќ | Независен",
+      "title": "Во Албанија само во август 159 сообраќајни несреќи со 22 жртви, изречени над 47 илјади казни | Независен",
       "description": "",
-      "url": "https://time.mk/c/bfaf397f35/srpskiot-patrijarh-porfirij-zboruvase-na-pogrebot-na-ratko-mladik.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/Patrijarh-Porfirij-Ratko-Mladic-SPC.jpg",
-      "date": "Mon, 07 Sep 2026 11:38:50 +0000"
+      "url": "https://time.mk/c/befc9fac2d/vo-albanija-samo-vo-avgust-159-soobrakajni-nesreki-so-22-zrtvi-izreceni-nad-47-iljadi-kazni.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/albanija-soobracajka.png",
+      "date": "Mon, 07 Sep 2026 17:08:53 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "МИНИМАЛЕЦ ОД 1.000 ЕВРА И ФИНАНСИСКИ ИНЈЕКЦИИ ЗА ДОМАЌИНСТВАТА, вети грчкиот премиер Мицотакис | Пари",
+      "title": "Меѓународниот печат по победата на АфД во Саксонија-Анхалт: „Политички кошмар за Фридрих Мерц“ | Deutsche Welle",
       "description": "",
-      "url": "https://time.mk/c/ed24721935/minimalec-od-1-000-evra-i-finansiski-injekcii-za-domakinstvata-veti-grckiot-premier-micotakis.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/09/Micotakis.jpg",
-      "date": "Mon, 07 Sep 2026 10:56:40 +0000"
+      "url": "https://time.mk/c/f4e97630f7/megjunarodniot-pecat-po-pobedata-na-afd-vo-saksonija-anhalt-politicki-kosmar-za-fridrih-merc.html",
+      "image": "https://static.dw.com/image/79137079_301.jpg",
+      "date": "Mon, 07 Sep 2026 14:50:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Зошто АфД е толку успешна во Саксонија-Анхалт | Deutsche Welle",
+      "title": "Финска ја заврши со поставување ограда на границата со Русија | Независен",
       "description": "",
-      "url": "https://time.mk/c/b5b7919853/zosto-afd-e-tolku-uspesna-vo-saksonija-anhalt.html",
-      "image": "https://static.dw.com/image/79125699_301.jpg",
-      "date": "Mon, 07 Sep 2026 11:18:46 +0000"
+      "url": "https://time.mk/c/c15335986c/finska-ja-zavrsi-so-postavuvanje-ograda-na-granicata-so-rusija.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2022/10/finska_435354332524-678x381-1.jpg",
+      "date": "Mon, 07 Sep 2026 17:06:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Трамп денеска ќе разговара со Путин и Зеленски за завршување на војната | Слободен Печат",
+      "title": "Ѓорѓиевски: Потпишан договорот за набавка на 3.300 нови контејнери за почисто и поуредно Скопје | Скопје инфо",
       "description": "",
-      "url": "https://time.mk/c/13c8af93ef/tramp-deneska-ke-razgovara-so-putin-i-zelenski-za-zavrsuvanje-na-vojnata.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2025/02/Miroven-plan-Rusija-300x169.jpg",
-      "date": "Mon, 07 Sep 2026 08:56:43 +0000"
+      "url": "https://time.mk/c/1ea17c60c8/gjorgjievski-potpisan-dogovorot-za-nabavka-na-3-300-novi-kontejneri-za-pocisto-i-pouredno-skopje.html",
+      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/septemvri/image-259748.jpg?itok=83ErnjoC",
+      "date": "Mon, 07 Sep 2026 13:54:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Армијата попладне со почесна артилериска стрелба по повод Денот на независноста | 360 степени",
+      "title": "МВР: Безбедноста на граѓаните е приоритет на одбележувањето на 35 години независност | Скопје инфо",
       "description": "",
-      "url": "https://time.mk/c/c9f06420ca/armijata-popladne-so-pocesna-artileriska-strelba-po-povod-denot-na-nezavisnosta.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/09/pocesna-artileriska-strelba.jpg",
-      "date": "Mon, 07 Sep 2026 09:02:56 +0000"
+      "url": "https://time.mk/c/ccfac94524/mvr-bezbednosta-na-gragjanite-e-prioritet-na-odbelezuvanjeto-na-35-godini-nezavisnost.html",
+      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/septemvri/image-259751.jpg?itok=JvMbdDG5",
+      "date": "Mon, 07 Sep 2026 14:12:42 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Николоски најави повеќе возови на релација Куманово – Скопје | Независен",
+      "title": "Убиство во Скопје, во мафијашки стил 25-годишник е застрелан со повеќе куршуми | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/5729103510/nikoloski-najavi-poveke-vozovi-na-relacija-kumanovo-skopje.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2024/07/Zeleznicka-stanica-voz-na-peron-4-bg.jpg",
-      "date": "Mon, 07 Sep 2026 09:40:44 +0000"
+      "url": "https://time.mk/c/3800666ab9/ubistvo-vo-skopje-vo-mafijaski-stil-25-godisnik-e-zastrelan-so-poveke-kursumi.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1788793836/awyxptgtz2lud4esio4v.jpg",
+      "date": "Mon, 07 Sep 2026 15:13:18 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Повторно куршуми на Дуќанџик: Три пукања на истата улица за година и половина | Трн",
+      "title": "Трагедија во кочанско, пронајдено тело на 17-годишно момче? | Фокус",
       "description": "",
-      "url": "https://time.mk/c/74df81afe1/povtorno-kursumi-na-dukandzik-tri-pukanja-na-istata-ulica-za-godina-i-polovina.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/03/policzija.jpg",
-      "date": "Mon, 07 Sep 2026 11:02:48 +0000"
+      "url": "https://time.mk/c/ddd6ee9811/tragedija-vo-kocansko-pronajdeno-telo-na-17-godisno-momce.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/07/stop-policija-1-12-585x388-1-1.jpg",
+      "date": "Mon, 07 Sep 2026 16:54:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Маж ја нападнал 37-годишната сопруга | Скопје1",
+      "title": "На УКЛО Битола во вториот уписен може да се запишат 1288 бруцоши | Економија и Бизнис",
       "description": "",
-      "url": "https://time.mk/c/4785c4f08f/maz-ja-napadnal-37-godisnata-sopruga.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/78097/conversions/text-max.jpg",
-      "date": "Mon, 07 Sep 2026 10:24:46 +0000"
+      "url": "https://time.mk/c/0f6b1fd7fd/na-uklo-bitola-vo-vtoriot-upisen-moze-da-se-zapisat-1288-brucosi.html",
+      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/09/uklomia.webp",
+      "date": "Mon, 07 Sep 2026 12:18:51 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
       "title": "(Видео) Коњановски: Битола се гради како никогаш досега, конкретни проекти, видливи резултати и јасна визија за иднината | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/66155abf55/video-konjanovski-bitola-se-gradi-kako-nikogas-dosega-konkretni-proekti-vidlivi-rezultati-i-jasna-vizija-za-idninata.html",
+      "url": "https://time.mk/c/ddb2b1678d/video-konjanovski-bitola-se-gradi-kako-nikogas-dosega-konkretni-proekti-vidlivi-rezultati-i-jasna-vizija-za-idninata.html",
       "image": "https://makfax.com.mk/wp-content/uploads/2026/09/konjanovski.webp",
       "date": "Mon, 07 Sep 2026 11:20:39 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Проданоски: Го посетивме археолошкиот комплекс „Старо Бонче“, каде што во изминатите десетина дена интензивно се одвиваа систематски археолошки истражувања. | Репортер",
+      "title": "„СПАЈДЕРМЕН: СОСЕМА НОВ ДЕН“ ЗАРАБОТИ 2,4 МИЛИЈАРДИ ДОЛАРИ И ШЕСТА НЕДЕЛА Е НАЈГЛЕДАН ФИЛМ | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/d72cd59198/prodanoski-go-posetivme-arheoloskiot-kompleks-staro-bonce-kade-sto-vo-izminatite-desetina-dena-intenzivno-se-odvivaa-sistematski-arheoloski-istrazuvanja.html",
-      "image": "https://reporter.mk/wp-content/uploads/2026/09/IMG-20260907-WA0005-300x225.jpg",
-      "date": "Mon, 07 Sep 2026 08:48:35 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "БЕД БАНИ И САБРИНА КАРПЕНТЕР ГИ ОСВОИЈА ПРВИТЕ ЕМИ НАГРАДИ ВО КАРИЕРАТА | Сакам да кажам",
-      "description": "",
-      "url": "https://time.mk/c/61d629be44/bed-bani-i-sabrina-karpenter-gi-osvoija-prvite-emi-nagradi-vo-karierata.html",
-      "image": "https://smart.sdk.mk/wp-content/uploads/2026/09/sabrina-bed-bani-958x575.jpg",
-      "date": "Mon, 07 Sep 2026 10:02:55 +0000"
+      "url": "https://time.mk/c/ad1997ba8b/spajdermen-sosema-nov-den-zaraboti-2-4-milijardi-dolari-i-sesta-nedela-e-najgledan-film.html",
+      "image": "https://smart.sdk.mk/wp-content/uploads/2026/09/spajdermen-958x575.jpg",
+      "date": "Mon, 07 Sep 2026 15:36:45 +0000"
     },
     {
       "category": "mkd",
@@ -268,11 +268,38 @@
       "title": "„Танец“ по 76 години повторно со настапи во Велика Британија | Независен",
       "description": "",
       "url": "https://time.mk/c/34c175a40a/tanec-po-76-godini-povtorno-so-nastapi-vo-velika-britanija.html",
-      "image": "",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/tanec-800x1024.jpg",
       "date": "Mon, 07 Sep 2026 10:08:42 +0000"
     }
   ],
   "de": [
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Voices38 brachte fünf Denuvo-Cracks auf einen Streich",
+      "description": "Nach 21 Tagen Pause brachte Voices38 gleich fünf Denuvo-Cracks heraus. Seine Tools sind mittlerweile höchst effektiv, wie es aussieht. Der Artikel Voices38 brachte fünf Denuvo-Cracks auf einen Streich erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/denuvo/voices38-brachte-fuenf-denuvo-cracks-auf-einen-streich-333325.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/voices38-brachte-fuenf-denuvo-cracks-auf-einen-streich",
+      "date": "Mon, 07 Sep 2026 16:45:09 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "EU-Reparaturpflicht: Hersteller pfeifen auf Reparaturinfos",
+      "description": "EU-Reparaturpflicht für Smartphones: Bei über 80 Prozent der Modelle fehlen brauchbare Reparaturinfos. Warum Hersteller in der Kritik stehen. Der Artikel EU-Reparaturpflicht: Hersteller pfeifen auf Reparaturinfos erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/smartphones/eu-reparaturpflicht-smartphones-reparaturinfos-333324.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/eu-reparaturpflicht-smartphones-reparaturinfos",
+      "date": "Mon, 07 Sep 2026 16:24:34 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Sicherheits-Tools für Server: Clawforge hilft, wenn Fail2ban und CrowdSec an ihre Grenzen kommen",
+      "description": "Das Open-Source-Projekt Clawforge verbindet Sicherheitsereignisse aus mehreren Diensten und bewertet sie anhand eigener Regeln. Der Artikel Sicherheits-Tools für Server: Clawforge hilft, wenn Fail2ban und CrowdSec an ihre Grenzen kommen erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/softwareentwicklung/sicherheits-tools-fuer-server-clawforge-hilft-wenn-fail2ban-und-crowdsec-an-ihre-grenzen-kommen-333316.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/sicherheits-tools-fuer-server-clawforge-hilft-wenn-fail2ban-und-crowdsec-an-ihre-grenzen-kommen",
+      "date": "Mon, 07 Sep 2026 13:51:54 +0000"
+    },
     {
       "category": "de",
       "source": "Tarnkappe",
@@ -425,33 +452,6 @@
       "url": "https://tarnkappe.info/listen/release-datenbanken-predb-und-nfo-sites-im-august-2026-333164.html",
       "image": "https://cdn.tarnkappe.info/wpimg/release-datenbanken-predb-und-nfo-sites-im-august-2026",
       "date": "Sun, 30 Aug 2026 16:13:56 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "TeamPCP-Hacker geschnappt: Dieser Anfängerfehler verriet seine Identität",
-      "description": "TeamPCP-Hacker geschnappt: Zwei mutmaßliche Mitglieder sind festgenommen. Ein Anfängerfehler half, einen der Beteiligten zu identifizieren. Der Artikel TeamPCP-Hacker geschnappt: Dieser Anfängerfehler verriet seine Identität erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/cyberangriffe/teampcp-hacker-anfaengerfehler-identitaet-333171.html",
-      "image": "https://cdn.tarnkappe.info/wp-content/uploads/6a90df3863c200b4455.mp4",
-      "date": "Sun, 30 Aug 2026 15:50:41 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Nulled-Dateien: rechtswidrige Portale und Foren im August 2026",
-      "description": "Hier unsere aktuelle Übersicht über die Vertreter, die Nulled-Dateien, auch als Nulled Scripts bekannt, online verteilen. Der Artikel Nulled-Dateien: rechtswidrige Portale und Foren im August 2026 erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/listen/nulled-dateien-rechtswidrige-portale-und-foren-im-august-2026-333156.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/nulled-dateien-rechtswidrige-portale-und-foren-im-august-2026",
-      "date": "Sat, 29 Aug 2026 18:51:52 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Iron Man geleakt: EA bestätigt bislang unveröffentlichten Trailer",
-      "description": "Iron Man geleakt: EA bestätigt den bislang unveröffentlichten Trailer. Das Video zeigt erstmals Flug, Kämpfe und mehrere Rüstungen. Der Artikel Iron Man geleakt: EA bestätigt bislang unveröffentlichten Trailer erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/gaming/iron-man-geleakt-ea-bestaetigt-unveroeffentlichten-trailer-333151.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/iron-man-geleakt-ea-bestaetigt-unveroeffentlichten-trailer",
-      "date": "Sat, 29 Aug 2026 12:45:06 +0000"
     }
   ],
   "eng": [
@@ -638,6 +638,60 @@
     {
       "category": "eng",
       "source": "PCWorld",
+      "title": "Best VPNs for Android: 5 top picks for phones and tablets",
+      "description": "Mobile devices have become the primary way most of us browse the internet, making a reliable VPN for your phone more essential than ever. While plenty of VPN services cater to Windows users, a select few truly stand out on Android. I’ve narrowed down my favorites to help you find the best fit for your smartphones and tablets. Choosing a great Android VPN goes beyond the usual essentials. Full compatibility with Android OS is a must, and since Wi-Fi connections can be unpredictable, I tested each",
+      "url": "https://www.pcworld.com/article/403351/best-vpns-for-android.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/403351-0-12471700-1788802228-android-phone.jpg?quality=50&strip=all",
+      "date": "Mon, 07 Sep 2026 17:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Best USB-C monitors 2026: 3 displays that excel at connectivity",
+      "description": "USB-C is the one connection to rule them all. Its popularity has made USB-C a common sight on new monitors. A USB-C monitor can act as USB hub, giving you additional ports for connecting various USB devices, but the monitor’s USB-C port can also serve as a video-input alternative to HDMI or DisplayPort; and some USB-C monitors can even charge a connected device while in use. The details of USB-C can be confusing, however, and pricing for USB-C monitors is often higher than that for monitors that",
+      "url": "https://www.pcworld.com/article/1377172/best-usb-c-monitors.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/1377172-0-26555600-1788796824-dell-ultrasharp-u3223qe-5.jpg?quality=50&strip=all",
+      "date": "Mon, 07 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Windows 11 can auto-adjust your monitor’s refresh rate to save power",
+      "description": "Windows 11 supports the activation of a dynamic refresh rate (DRR) on monitors equipped with the relevant technology. When this feature is enabled, the operating system automatically adjusts the refresh rate to suit the user’s activity. For example, while the user is working with standard desktop applications, Windows maintains the refresh rate at 60Hz. However, as soon as a game starts, Windows automatically increases the rate to 120Hz to ensure a smooth display. For Windows to offer this featu",
+      "url": "https://www.pcworld.com/article/3222803/windows-11-can-auto-adjust-your-monitors-refresh-rate-to-save-power.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3222803-0-79044600-1788793234-shutterstock_2012713658.jpg?quality=50&strip=all",
+      "date": "Mon, 07 Sep 2026 15:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Netgear Nighthawk M7 Pro review: A flexible 5G router at a steep price",
+      "description": "At a glance Expert's Rating Pros A wide range of connectivity options Good 5G and 4G reception Support for 6 GHz Wi-Fi 7 Cons Bulky dimensions for a pocket router Moderate battery life Very expensive Our Verdict The Nighthawk M7 Pro is a great performer, but you’ll pay a premium for features you may not want. Price at time of review This value will show the geolocated pricing text for product undefined Best Pricing Today Best Prices Today: Netgear Nighthawk M7 Pro Retailer Price eBay $269.99 Vie",
+      "url": "https://www.pcworld.com/article/3213357/netgear-nighthawk-m7-pro-review.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3213357-0-05633900-1788789636-PXL_20260717_130336582.jpg?quality=50&strip=all",
+      "date": "Mon, 07 Sep 2026 14:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "I built my own Steam Machine. It was way easier than I expected",
+      "description": "Did you want to buy a Steam Machine at launch? Tough luck. Although a lucky few did manage to get orders in before they inevitably sold out, the rest of us have to wait for the potential restock—and that’s if the price doesn’t end up rising further in the meantime. (Before you jump in, here’s what you need to know about the Steam Machine .) Fortunately, there’s a surprisingly easy alternative route you can take right now: build a Steam Machine yourself. If it has a dedicated GPU and a CPU that’s",
+      "url": "https://www.pcworld.com/article/3180130/i-built-my-own-steam-machine-it-was-way-easier-than-i-expected.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3180130-0-01498500-1788786034-DIY-Steam-Machine-running-on-a-large-TV-on-a-wooden-stand.jpg?quality=50&strip=all",
+      "date": "Mon, 07 Sep 2026 13:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Windows 11 wants your trust. Microsoft keeps testing it",
+      "description": "Microsoft launched Windows 11 as the most secure Windows ever built—and the marketing was almost convincing at the time. Almost five years later, I can’t say the same. And that’s a problem. A recent bug in Windows was the final straw. About a week ago, Microsoft confirmed users are mistakenly being alerted that Defender, Windows’ native antivirus protection, has been turned off. Welcome to Safe Mode, your weekly report for pressing security and privacy news—and what steps to take next. Want this",
+      "url": "https://www.pcworld.com/article/3226900/windows-11-wants-your-trust-microsoft-keeps-testing-it.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3226900-0-07865600-1788782475-Windows1124H2KI-Wallpaper.jpg?quality=50&strip=all",
+      "date": "Mon, 07 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
       "title": "How well do you know the world? This site makes geography trivia fun!",
       "description": "On a scale of geography novice to Ken Jennings, how much do you know about the countries of the world? Either way, Country Wheel offers a fun way to explore them, one random spin at a time. Open the site, click Spin , and see which of 197 countries comes up. You can spin through the whole world or filter for Europe, Asia, Africa, the Americas, or Oceania. The regional filters are especially useful if you’re about to travel to an area and want to learn more about that particular part of the globe",
       "url": "https://www.pcworld.com/article/3224936/how-well-do-you-know-the-world-this-site-makes-geography-trivia-fun.html",
@@ -656,15 +710,6 @@
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Autodesk Revit drops to $399 for a year",
-      "description": "TL;DR: Autodesk Revit is industry-standard BIM software for architects, engineers, and construction teams, now $399 for one year (MSRP $3,005). Professional BIM software usually costs hundreds a month, and most firms treat that as fixed overhead. Autodesk Revit brings that number down for a year of access, giving architects, engineers, and construction teams a full 3D modeling workflow on a single platform. Revit lets you design architectural, structural, and MEP systems inside a single environm",
-      "url": "https://www.pcworld.com/article/3224965/autodesk-revit-drops-to-399-for-a-year.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3224965-0-29425500-1788681660-Autodesk-Revit.jpg?quality=50&strip=all",
-      "date": "Sun, 06 Sep 2026 08:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
       "title": "For four days only, Windows 11 Pro only costs $9.97",
       "description": "TL;DR: Through September 10 at 11:59 p.m. PT, it’s only $9.97 to get Windows 11 Pro for life. You wouldn’t know it from looking at it, but Windows 11 Home leaves out some of the most important upgrades available to PC users. If you want all the best OS upgrades, Windows 11 Pro is your best bet, and it’s also on sale. Normally $199, right now, you can get Windows 11 Pro on sale for $9.97. Pro differs from Home mainly in its professional and security tools. BitLocker encrypts the entire drive, whi",
       "url": "https://www.pcworld.com/article/3226156/for-four-days-only-windows-11-pro-only-costs-9-97.html",
@@ -674,59 +719,23 @@
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "This platform runs your whole agency, and a lifetime subscription is only $399",
-      "description": "TL;DR: Sellful is a white label platform combining a website builder, CRM, marketing, invoicing, and more, and a lifetime ERP Agency Plan is on sale for $399. Most agencies end up paying for multiple separate subscriptions for their site builders, CRM, email tools, and invoicing. These costs are constant, but they’re also not the only option. Sellful consolidates those functions into one white label platform, and a lifetime ERP Agency Plan is on sale for $399 (reg. $1,497). This plan includes 10",
-      "url": "https://www.pcworld.com/article/3226152/this-platform-runs-your-whole-agency-and-a-lifetime-subscription-is-only-399.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3226152-0-37001700-1788595292-sale_327845_article_image.jpg?quality=50&strip=all",
-      "date": "Sat, 05 Sep 2026 08:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "This PDF editor undercuts Adobe Acrobat, and it’s yours for life for $35",
-      "description": "TL;DR: SwifDoo PDF Pro gives you lifetime access to a full PDF editor, converter, and OCR tool for Windows for $34.99 (reg. $129), no subscription required. Adobe Acrobat is still the name most people reach for when they need to edit a PDF, and its subscription price reflects that. SwifDoo PDF Pro gets you the same core toolset without the recurring fee: a perpetual lifetime license for Windows is on sale for $34.99 (reg. $129). Expect the basics here too: splitting and merging files, editing te",
-      "url": "https://www.pcworld.com/article/3227928/this-pdf-editor-undercuts-adobe-acrobat-and-its-yours-for-life-for-35.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3227928-0-81262600-1788595271-sale_327283_article_image.jpg?quality=50&strip=all",
-      "date": "Sat, 05 Sep 2026 08:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Best monitor arms 2026: Tested picks for single- and dual-monitors setups",
-      "description": "A monitor arm is a sure way to boost the effectiveness of a home office setup. A good-quality arm not only frees up usable space on your desk’s surface, it aids ergonomics by allowing you to move and position your display/s for optimal comfort. Plus, a monitor arm makes your office setup look really pro. The only catch is the price. Most monitor arms worth buying will cost close to $200, and heavy-duty arms capable of holding two large displays can be priced even higher. The good news is that a ",
-      "url": "https://www.pcworld.com/article/2000722/best-monitor-arms.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/2000722-0-06053200-1788537634-workstream-by-monoprice-dual-arm-best-monitor-arms.jpg?quality=50&strip=all",
-      "date": "Fri, 04 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Windows 11’s next security feature may cost you gaming performance",
-      "description": "Next month’s Patch Tuesday falls on October 13th, and with that update, Microsoft will be enabling “Memory Integrity” on all Windows 11 systems that are still receiving updates, according to this Windows IT Pro blog post . Memory Integrity (also known as Hypervisor-Protected Code Integrity, or HVCI) has been around for some time, but it hasn’t been enabled yet on many PCs. Starting October 13th, 2026, all supported Windows 11 PCs will enable Memory Integrity by default. While Memory Integrity is",
-      "url": "https://www.pcworld.com/article/3227631/windows-11-will-be-more-secure-from-october-but-gamers-could-suffer-as-a-result.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3227631-0-17293800-1788537357-Windows-11-Gaming.png",
-      "date": "Fri, 04 Sep 2026 15:55:39 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Sony’s best noise-cancelling headphones are 50% off right now",
-      "description": "NEW LOWEST PRICE Sony WH-1000XM5 ANC Headphones View Deal If you’ve been itching for a pair of top-tier noise-cancelling headphones but couldn’t pull the trigger because of their price tags, now’s a good time to make the dive. Right now, the Sony WH-1000XM5 is on sale for $198 at Amazon , which is 50% off its original price and the lowest it’s ever been. These headphones regularly top “best of” lists, so that’s a real deal. The active noise cancellation is the best thing about these headphones, ",
-      "url": "https://www.pcworld.com/article/3227566/sonys-best-noise-cancelling-headphones-are-50-percent-off-right-now.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3227566-0-07552000-1788534688-Sony-WH-1000XM5-Noise-Cancelling-Wireless-Headphones.jpg?quality=50&strip=all",
-      "date": "Fri, 04 Sep 2026 15:11:12 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Is your USB port slowing down your Wi-Fi adapter? Here’s the answer",
-      "description": "A Wi-Fi USB dongle is the easiest way to add new Wi-Fi hardware to a computer. Wi-Fi 7 and Wi-Fi 6 adapters promise data rates of well over one gigabyte per second. This is why many users wonder whether the USB port on their PC or laptop might be slowing down their Wi-Fi connection. To answer that, it helps to understand the speed specifications for Wi-Fi USB adapters–as with Wi-Fi devices in general–aren’t particularly reliable. The packaging often features a value such as AX1800 for a Wi-Fi 6 ",
-      "url": "https://www.pcworld.com/article/3217754/is-your-usb-port-slowing-down-your-wi-fi-adapter-heres-the-real-answer.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3217754-0-23388800-1788534030-samsung-ssd.jpg?quality=50&strip=all",
-      "date": "Fri, 04 Sep 2026 15:00:00 +0000"
+      "title": "Autodesk Revit drops to $399 for a year",
+      "description": "TL;DR: Autodesk Revit is industry-standard BIM software for architects, engineers, and construction teams, now $399 for one year (MSRP $3,005). Professional BIM software usually costs hundreds a month, and most firms treat that as fixed overhead. Autodesk Revit brings that number down for a year of access, giving architects, engineers, and construction teams a full 3D modeling workflow on a single platform. Revit lets you design architectural, structural, and MEP systems inside a single environm",
+      "url": "https://www.pcworld.com/article/3224965/autodesk-revit-drops-to-399-for-a-year.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3224965-0-29425500-1788681660-Autodesk-Revit.jpg?quality=50&strip=all",
+      "date": "Sun, 06 Sep 2026 08:00:00 +0000"
     }
   ],
   "starwars": [
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "‘Hiding from the Dark’ Review – A Thrilling and Tense Piece of ‘Star Wars’ Horror for All Ages",
+      "description": "The second entry in Lucasfilm Publishing’s genre initiative has taken the plunge into horror. Hiding from the Dark by Kiersten The post ‘Hiding from the Dark’ Review – A Thrilling and Tense Piece of ‘Star Wars’ Horror for All Ages appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/09/hiding-from-the-dark-review-a-thrilling-and-tense-piece-of-star-wars-horror-for-all-ages.html",
+      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/09/Screenshot-2026-09-07-12.25.25-PM.png",
+      "date": "Mon, 07 Sep 2026 17:27:11 +0000"
+    },
     {
       "category": "starwars",
       "source": "Star Wars News Net",
@@ -798,15 +807,6 @@
       "url": "https://www.starwarsnewsnet.com/2026/09/the-role-of-games-and-gambling-in-the-star-wars-universe.html",
       "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2025/05/canto-bight-slots-.jpg",
       "date": "Thu, 03 Sep 2026 17:20:35 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars News Net",
-      "title": "Boba Fett’s Return Proves the Best Bounty Hunters Always Know When to Fold",
-      "description": "Temuera Morrison is putting the armor back on. Disney+ confirmed his return as Boba Fett next month, and the announcement The post Boba Fett’s Return Proves the Best Bounty Hunters Always Know When to Fold appeared first on Star Wars News Net .",
-      "url": "https://www.starwarsnewsnet.com/2026/09/boba-fetts-return-proves-the-best-bounty-hunters-always-know-when-to-fold.html",
-      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2025/08/Boba-Fett-01.png",
-      "date": "Thu, 03 Sep 2026 17:10:10 +0000"
     },
     {
       "category": "starwars",
