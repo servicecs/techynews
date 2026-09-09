@@ -1,279 +1,496 @@
 {
-  "updated": "2026-09-09T10:01:34.184022+00:00",
+  "updated": "2026-09-09T14:45:03.560370+00:00",
   "mkd": [
     {
       "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Само третина од 15-годишниците во земјава имаат основни познавања за математика, читање и наука, покажува извештајот на ПИСА | 360 степени",
-      "description": "",
-      "url": "https://time.mk/c/34dc85a0a7/samo-tretina-od-15-godisnicite-vo-zemjava-imaat-osnovni-poznavanja-za-matematika-citanje-i-nauka-pokazuva-izvestajot-na-pisa.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2022/11/Ucenici.jpg",
-      "date": "Wed, 09 Sep 2026 09:07:00 +0000"
+      "source": "SmartPortal",
+      "title": "Блинк 42-21 ја унапредува мЗаедница: Дигитални анкети и јавни консултации за поголемо учество на граѓаните",
+      "description": "Во време кога граѓанската вклученост во процесите на донесување одлуки на локално ниво останува ниска, дигиталната платформа мЗаедница отвора нов простор за поактивно учество на граѓаните преку јавни анкети, консултации и директна комуникација со општините. Новата функционалност им овозможува на општините едноставно да креираат анкети и да спроведуваат јавни консултации за прашања од интерес на […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/blink-42-21-ja-unapreduva-mzaednica/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/IMG_0746-150x150.webp",
+      "date": "Wed, 09 Sep 2026 14:01:09 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Starlink и Дојче Телеком ја носат сателитската мобилна мрежа во Македонија",
+      "description": "Американскиот сателитски сервис Starlink, во сопственост на Елон Маск, веќе го најави партнерството со Дојче Телеком преку кое ќе се модернизира мобилната мрежа на територијата на Европа. Имено, се работи за партнерство кое ќе овозможи поврзување преку сателитска мобилна мрежа во 10 земји на континентот, вклучувајќи ја и Македонија. Партнерството помеѓу Дојче Телеком и Starlink […]",
+      "url": "https://smartportal.mk/novosti/tehnologii/starlink-deutsche-telekom-satelitska-mobilna-mreza-makedonija/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/DT-starlink_4-150x150.webp",
+      "date": "Wed, 09 Sep 2026 12:37:36 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Google Play Store добива опција за паузирање на преземањата на апликациите",
+      "description": "Корисниците на уреди со оперативниот систем Android наскоро би можеле да добијат поголема контрола врз процесот на преземање на апликациите. Анализата на кодот од најновата верзија 53.0 на Google Play Store открива дека компанијата развива функција која овозможува паузирање и продолжување на процесот на преземање. Во моментов, корисниците кои сакаат да прекинат преземање на апликација […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/google-play-store-pauziranje-prezemanja/",
+      "image": "https://smartportal.mk/wp-content/uploads/2020/02/shutterstock_1159513891-150x150.jpg",
+      "date": "Wed, 09 Sep 2026 12:21:31 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Apple денес го одржува нивниот септемвриски настан на кој се очекува претставувањето на првиот iPhone на преклоп",
+      "description": "Apple денес го одржува нивниот главен годишен настан на кого обично ги претставува новите генерации од нивните уреди. Настанот ќе биде пренесуван во живо како и досега, а ќе може да се следи преку YouTube и страната за настани на компанијата. Почетокот на настанот е во 19:00 часот по македонско време, а повторно се очекува […]",
+      "url": "https://smartportal.mk/novosti/nastani/apple-denes-septemvriski-nastan/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/apple-surprise-shine-f-150x150.webp",
+      "date": "Wed, 09 Sep 2026 11:31:14 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Sony воведува нови мерки за „заштита“ на вработените по реакциите за укинувањето на физичките дискови",
+      "description": "Sony официјално имплементираше нова политика против вознемирување од страна на корисниците, која доаѓа како одговор на бурните реакции по најавата за целосно укинување на физичките дискови за PlayStation игрите до јануари 2028 година. Во објава од први септември, компанијата ги наведе забранетите однесувања со цел да го заштити достоинството и безбедноста на своите вработени. Според […]",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/sony-merki-zastita-vraboteni-od-reakcii/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/amanz-IAAxRtlmD9w-unsplash-f-150x150.webp",
+      "date": "Wed, 09 Sep 2026 11:00:49 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Google официјално започна со скратениот циклус на ажурирање на Chrome на две недели",
+      "description": "Google официјално го промени распоредот за издавање нови верзии на нивниот Chrome од четири на две недели. Оваа транзиција започна со пуштањето на верзијата Chrome 153, која е веќе достапна за корисниците на десктоп компјутери, iOS и Android уреди. Со овој потег, компанијата се оддалечува од четиринеделниот циклус кој беше воведен во 2021 година, прилагодувајќи […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/google-chrome-dvonedelen-ciklus/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/growtika-dUMEnARXgJU-unsplash-f-150x150.webp",
+      "date": "Wed, 09 Sep 2026 09:56:48 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Microsoft ја пушти септемвриската безбедносна надградба за Windows 11 која донесува неколку дополнителни добри новини",
+      "description": "Microsoft ја објави септемвриската безбедносна надградба за Windows 11, означена како KB5124008, која носи неколку промени во корисничкиот интерфејс и перформансите, покрај стандардната исправка на безбедносни грешки. Оваа верзија е наменета за корисниците на верзиите 24H2 и 25H2 од Windows 11, но поддршката за 24H2 истекува во октомври, што значи корисниците ќе мораат да […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/septemvriska-windows-11-bezbednosna-nadgradba/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Screenshot-2026-09-09-110708-150x150.webp",
+      "date": "Wed, 09 Sep 2026 09:10:46 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Калифорнискиот стартап Unigrid и Hyundai успешно ги тестираа новите натриум-јонски батерии",
+      "description": "Калифорниската компанија Unigrid ја заврши програмата за евалуација ZER01NE на автомобилската групација Hyundai, преку која успешно ја валидираше својата нова технологија за натриум-јонски батерии. Оваа соработка, која започна во 2025 година, има за примарна цел да идентификува и развие незапалливи системи за складирање енергија кои ќе можат да се користат во големи инфраструктурни проекти. Во […]",
+      "url": "https://smartportal.mk/novosti/tehnologii/unigrid-hyundai-natrium-jonski-baterii/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/hyundai-unigrid-150x150.webp",
+      "date": "Tue, 08 Sep 2026 14:45:26 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "„СКОПИЈЕ“ било намерно: Кој стои зад кампањата со еднорозите и што навистина доаѓа во Скопје",
+      "description": "Зад кампањата стои Startup Club Skopje, а таа е дел од промоцијата на Startup Revolution AI Summit 2026, еден од најголемите настани за стартапи, технологија и претприемништво во регионот, кој ќе се одржи од 1 до 4 октомври во Скопје. Со намерно погрешно напишаното „СКОПИЈЕ“, кампањата имаше цел да привлече внимание, но и да испрати […]",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/skopije-bilo-namerno/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/1788644319822-150x150.webp",
+      "date": "Mon, 07 Sep 2026 18:32:40 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Gamers Nexus објави истражување за нарушување на приватноста од страна на LG телевизорите",
+      "description": "Ново истражување објавено од Gamers Nexus открива сериозни проблеми поврзани со приватноста кај паметните телевизори на LG. Според откритијата, овие уреди можат да функционираат како уреди за прислушување, собирајќи транскрипти од гласовни разговори во чист текст и аудио записи преку вградените микрофони. Снимањето може да вклучува и визуелни податоци доколку се користат поврзани веб камери. […]",
+      "url": "https://smartportal.mk/novosti/uredi/gamers-nexus-istrazuvanje-privatnost-lg-televizori/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Depositphotos_826703935_XL-f-150x150.webp",
+      "date": "Mon, 07 Sep 2026 12:42:28 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Се вртеше оро во Градски парк, по спектаклот со Дејвид Гета (видео) | Црнобело",
+      "title": "ПИСА 2025: Само 26 отсто од македонските ученици го достигнуваат основното ниво по читање, 32 отсто по математика и 36 отсто по природни науки | Мета",
       "description": "",
-      "url": "https://time.mk/c/f677e4ccad/se-vrtese-oro-vo-gradski-park-po-spektaklot-so-dejvid-geta-video.html",
-      "image": "https://www.crnobelo.com/images/stories/2026/09/72/po-dejvid-geta-se-vrteshe-oro-vo-gradski-park-video-povekje.jpg",
-      "date": "Wed, 09 Sep 2026 08:58:56 +0000"
+      "url": "https://time.mk/c/d9814600cc/pisa-2025-samo-26-otsto-od-makedonskite-ucenici-go-dostignuvaat-osnovnoto-nivo-po-citanje-32-otsto-po-matematika-i-36-otsto-po-prirodni-nauki.html",
+      "image": "https://meta.mk/wp-content/uploads/2023/05/education-g01b37555f_640.jpg.webp",
+      "date": "Wed, 09 Sep 2026 10:56:39 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Жерновски: Мицкоски нема никаков резултат, му остана само кампањата за поделби и навреди кон граѓаните | Press24",
+      "title": "СДСМ: Мицкоски, навистина мисли дека сите се идиоти, како и Бобан Милошески | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/ddb8d6b452/zernovski-mickoski-nema-nikakov-rezultat-mu-ostana-samo-kampanjata-za-podelbi-i-navredi-kon-gragjanite.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/69796.jpeg",
-      "date": "Wed, 09 Sep 2026 09:50:56 +0000"
+      "url": "https://time.mk/c/ab308fe2ec/sdsm-mickoski-navistina-misli-deka-site-se-idioti-kako-i-boban-miloseski.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/79472/conversions/text-max.jpg",
+      "date": "Wed, 09 Sep 2026 14:00:46 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Преклопниот iPhone Duo ќе чини од 2.000 долари, а нема да биде достапен пред октомври | Конект",
+      "title": "Собранието домаќин на регионална конференција за парламентарен надзор на патот кон ЕУ | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/c4b46a8a3a/preklopniot-iphone-duo-ke-cini-od-2-000-dolari-a-nema-da-bide-dostapen-pred-oktomvri.html",
-      "image": "https://konekt.mk/wp-content/uploads/2026/09/iPhone-Ultra-Fold-Feature.jpg",
-      "date": "Wed, 09 Sep 2026 09:58:57 +0000"
+      "url": "https://time.mk/c/dddbdf57d8/sobranieto-domakin-na-regionalna-konferencija-za-parlamentaren-nadzor-na-patot-kon-eu.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/antonio-3.webp",
+      "date": "Wed, 09 Sep 2026 14:10:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "СДСМ ја поддржува идејата на ЛДП: Веќе дадовме предлог закон за двојно државјанство | Макфакс",
+      "title": "Добра вест за домашниот буџет: Струјата останува иста или ќе поевтини | Пари",
       "description": "",
-      "url": "https://time.mk/c/142e2bda97/sdsm-ja-poddrzuva-idejata-na-ldp-veke-dadovme-predlog-zakon-za-dvojno-drzavjanstvo.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2022/09/ÑÐ´ÑÐ¼-sdsm-sedishte-2.jpg",
-      "date": "Wed, 09 Sep 2026 08:40:45 +0000"
+      "url": "https://time.mk/c/70bf6874cb/dobra-vest-za-domasniot-budzet-strujata-ostanuva-ista-ili-ke-poevtini.html",
+      "image": "http://pari.com.mk/wp-content/uploads/2025/09/struja.jpg",
+      "date": "Wed, 09 Sep 2026 13:08:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Тошковски го штити кумашинот Јанушев“, вели СДСМ | Скопје1",
+      "title": "Газдата на „Пулс“ набрзо ќе излезе од притвор | еМагазин",
       "description": "",
-      "url": "https://time.mk/c/53c8518fc2/toskovski-go-stiti-kumasinot-janusev-veli-sdsm.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/82356/conversions/text-max.jpg",
-      "date": "Wed, 09 Sep 2026 08:58:56 +0000"
+      "url": "https://time.mk/c/64468f1648/gazdata-na-puls-nabrzo-ke-izleze-od-pritvor.html",
+      "image": "https://emagazin.mk/wp-content/uploads/2026/09/deko-telma-300x160.png",
+      "date": "Wed, 09 Sep 2026 14:40:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Каматата оди на 2,50%: ЕЦБ пред нов потег, но дилемата е дали тука ќе застане | Пари",
+      "title": "Откако неколку родители и еден поп “свирнаа” министерката Јаневска го повлекува Изборниот предмет Сеопфатно сексуално образование | Либертас",
       "description": "",
-      "url": "https://time.mk/c/fccb9ab44d/kamatata-odi-na-2-50-ecb-pred-nov-poteg-no-dilemata-e-dali-tuka-ke-zastane.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2022/07/ecb1.jpg",
-      "date": "Wed, 09 Sep 2026 09:12:45 +0000"
+      "url": "https://time.mk/c/4565b3b077/otkako-nekolku-roditeli-i-eden-pop-svirnaa-ministerkata-janevska-go-povlekuva-izborniot-predmet-seopfatno-seksualno-obrazovanie.html",
+      "image": "https://libertas.mk/wp-content/uploads/2026/01/vesna-janevska-intervju-avgust-2024-1170x780-1-300x200.jpg",
+      "date": "Wed, 09 Sep 2026 13:14:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ОБЈАВЕНИ ОФИЦИЈАЛНИТЕ ДАТУМИ ЗА ЗИМСКОТО СМЕТАЊЕ НА ВРЕМЕТО: До 2031 година ќе менуваме стрелки | Фактор",
+      "title": "Алказар Енерџи Партнерс обезбеди финансиско затворање за Ветерниот парк Штип, најголемиот проект за ветерна енергија во Северна Македонија | еМагазин",
       "description": "",
-      "url": "https://time.mk/c/dbed55263f/objaveni-oficijalnite-datumi-za-zimskoto-smetanje-na-vremeto-do-2031-godina-ke-menuvame-strelki.html",
-      "image": "https://faktor.mk/media/main/2026/09/20260909084244.jpg",
-      "date": "Wed, 09 Sep 2026 06:44:35 +0000"
+      "url": "https://time.mk/c/14917ba9be/alkazar-enerdzi-partners-obezbedi-finansisko-zatvoranje-za-veterniot-park-stip-najgolemiot-proekt-za-veterna-energija-vo-severna-makedonija.html",
+      "image": "https://emagazin.mk/wp-content/uploads/2026/09/dsc_5268.jpg-300x200.jpeg",
+      "date": "Wed, 09 Sep 2026 13:54:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Битолчанецот Михаил Николовски (15) спаси бугарско семејство да не се удави во Егејско море | Фокус",
+      "title": "Рекордна цена на бакарот | Независен",
       "description": "",
-      "url": "https://time.mk/c/2bb224cdfa/bitolcanecot-mihail-nikolovski-15-spasi-bugarsko-semejstvo-da-ne-se-udavi-vo-egejsko-more.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/09/Screenshot_9-9-2026_10726_www.facebook.com.jpeg",
-      "date": "Wed, 09 Sep 2026 08:20:43 +0000"
+      "url": "https://time.mk/c/f8ffe49165/rekordna-cena-na-bakarot.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2024/05/bakarna-zica.jpg",
+      "date": "Wed, 09 Sep 2026 14:26:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Министерот за надворешни работи на БиХ протера двајца српски дипломати — едниот не ни работел во амбасадата | Слободен Печат",
+      "title": "Вонредни парламентарни избори во Србија на 25 октомври | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/0deec1fb39/ministerot-za-nadvoresni-raboti-na-bih-protera-dvajca-srpski-diplomati-edniot-ne-ni-rabotel-vo-ambasadata.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2024/05/elmedin-konakovic-e1788946093241-300x209.jpg",
-      "date": "Wed, 09 Sep 2026 09:26:46 +0000"
+      "url": "https://time.mk/c/08d9919c42/vonredni-parlamentarni-izbori-vo-srbija-na-25-oktomvri.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1788956681/thu35ij7hp3rbhtbjr6n.webp",
+      "date": "Wed, 09 Sep 2026 12:26:53 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Вајдел до Мерц: Ја туркате Германија во национален банкрот | Фокус",
+      "title": "(Видео) Силно невреме го зафати регионот: Во Словенија ветер со брзина од 103 км/ч | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/b61af7fa56/vajdel-do-merc-ja-turkate-germanija-vo-nacionalen-bankrot.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/09/20260909112156_big_730x400_38.webp",
-      "date": "Wed, 09 Sep 2026 09:42:47 +0000"
+      "url": "https://time.mk/c/1b416b1434/video-silno-nevreme-go-zafati-regionot-vo-slovenija-veter-so-brzina-od-103-km-c.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84856/conversions/text-max.jpg",
+      "date": "Wed, 09 Sep 2026 13:18:56 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Дилемата на социјалдемократите во Германија: Дали да потонат заедно со канцеларот Мерц? | Независен",
+      "description": "",
+      "url": "https://time.mk/c/88f798b1c7/dilemata-na-socijaldemokratite-vo-germanija-dali-da-potonat-zaedno-so-kancelarot-merc.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/Manuela-Svesig-1024x1024.png",
+      "date": "Wed, 09 Sep 2026 12:33:03 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
       "title": "Иран со дронови нападна американска база во Јордан | Фокус",
       "description": "",
-      "url": "https://time.mk/c/4ec99fcbaa/iran-so-dronovi-napadna-amerikanska-baza-vo-jordan.html",
+      "url": "https://time.mk/c/4b60459c86/iran-so-dronovi-napadna-amerikanska-baza-vo-jordan.html",
       "image": "https://fokus.mk/wp-content/uploads/2026/09/americka_baza_u-jordanu-1.jpg",
       "date": "Wed, 09 Sep 2026 07:31:00 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
+      "title": "Град Скопје: разрешени директорот и одборот на гимназијата „Панче Арсовски“, опозицијата обвинува за партизација, за мнозинството сè е по закон | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/42993480b5/grad-skopje-razreseni-direktorot-i-odborot-na-gimnazijata-pance-arsovski-opozicijata-obvinuva-za-partizacija-za-mnozinstvoto-se-e-po-zakon.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/07/ÑÐ¾Ð²ÐµÑ-Ð½Ð°-Ð³ÑÐ°Ð´-ÑÐºÐ¾Ð¿ÑÐµ-300x144.png",
+      "date": "Wed, 09 Sep 2026 13:40:42 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
       "title": "📷 ВЕДНАШ ПО КОНЦЕРТОТ СЕ ФАТИЛЕ ЗА МЕТЛИТЕ Чистењето околу стадионот траело до рано утрово | +инфо",
       "description": "",
-      "url": "https://time.mk/c/43ed23dbcc/vednas-po-koncertot-se-fatile-za-metlite-cistenjeto-okolu-stadionot-traelo-do-rano-utrovo.html",
+      "url": "https://time.mk/c/6c6ce85d0d/vednas-po-koncertot-se-fatile-za-metlite-cistenjeto-okolu-stadionot-traelo-do-rano-utrovo.html",
       "image": "https://plusinfo.mk/wp-content/uploads/2026/09/cistenje-park-geta.jpg",
       "date": "Wed, 09 Sep 2026 09:54:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Утре од 9 часот без вода три улици во Чаир | Скопје1",
+      "title": "Обвинителството за ексдиректорот на Лотарија: Му следува притвор, против него се водат уште четири постапки | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/28e12fb225/utre-od-9-casot-bez-voda-tri-ulici-vo-cair.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/36513/conversions/bez-voda-max.jpg",
-      "date": "Wed, 09 Sep 2026 09:26:46 +0000"
+      "url": "https://time.mk/c/0c7b906aaa/obvinitelstvoto-za-eksdirektorot-na-lotarija-mu-sleduva-pritvor-protiv-nego-se-vodat-uste-cetiri-postapki.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/38554/conversions/prparim-bajrami-2-max.jpg",
+      "date": "Wed, 09 Sep 2026 10:16:51 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ОД АВТОР НА ЛЕТОЦИ ЗА ДУИ, ДИРЕКТОР НА „ЛОТАРИЈА“, ДО ПРВООБВИНЕТ ВО „ШУТКА“ Кој е Перпарим Бајрами, бараниот со потерница, кој денеска сам се пријави на Блаце | +инфо",
+      "title": "Голем број случаи на семејно насилство и вознемирување низ Македонија: Приведени повеќе лица | Press24",
       "description": "",
-      "url": "https://time.mk/c/b99f81fed2/od-avtor-na-letoci-za-dui-direktor-na-lotarija-do-prvoobvinet-vo-sutka-koj-e-perparim-bajrami-baraniot-so-poternica-koj-deneska-sam-se-prijavi-na-blace.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2026/09/perparim-bajrami-kreirana-fotografija.jpg",
-      "date": "Wed, 09 Sep 2026 09:42:47 +0000"
+      "url": "https://time.mk/c/a203689102/golem-broj-slucai-na-semejno-nasilstvo-i-voznemiruvanje-niz-makedonija-privedeni-poveke-lica.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/69890.jpg",
+      "date": "Wed, 09 Sep 2026 13:02:57 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "26-годишник од Битола затекнат како вози без возачка дозвола | Скопје1",
+      "title": "Како Тони Коњановски ја замислува Битола? | Тера",
       "description": "",
-      "url": "https://time.mk/c/0f6c7a8b95/26-godisnik-od-bitola-zateknat-kako-vozi-bez-vozacka-dozvola.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/83432/conversions/text-max.jpg",
-      "date": "Wed, 09 Sep 2026 08:56:37 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Правни студии Битола и Криминалистика – најатрактивни студиски програми на првиот уписен рок УКЛО | Тера",
-      "description": "",
-      "url": "https://time.mk/c/5f3d0aa5e5/pravni-studii-bitola-i-kriminalistika-najatraktivni-studiski-programi-na-prviot-upisen-rok-uklo.html",
-      "image": "https://tera.mk/wp-content/uploads/2026/09/uklo-nam-150x150.jpg",
-      "date": "Wed, 09 Sep 2026 09:24:35 +0000"
+      "url": "https://time.mk/c/d72456fcb1/kako-toni-konjanovski-ja-zamisluva-bitola.html",
+      "image": "https://tera.mk/wp-content/uploads/2026/09/FB_IMG_1788962827297-150x150.jpg",
+      "date": "Wed, 09 Sep 2026 14:08:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
       "title": "ВМРО-ДПМНЕ: Општина Битола за една година реализираше 81 проект финансиран од Владата | Press24",
       "description": "",
-      "url": "https://time.mk/c/51628c95de/vmro-dpmne-opstina-bitola-za-edna-godina-realizirase-81-proekt-finansiran-od-vladata.html",
+      "url": "https://time.mk/c/fa2a5848c4/vmro-dpmne-opstina-bitola-za-edna-godina-realizirase-81-proekt-finansiran-od-vladata.html",
       "image": "http://press24.mk/wp-content/uploads/ndb-featured/69745.jpg",
       "date": "Wed, 09 Sep 2026 07:48:46 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ФОТО: Во Загреб одбележани 35 години од независноста | Нова Македонија",
+      "title": "(ВИДЕО) По „рејвот“ на Гета, на оро пред Градски стадион | Скопје инфо",
       "description": "",
-      "url": "https://time.mk/c/ea76f902ba/foto-vo-zagreb-odbelezani-35-godini-od-nezavisnosta.html",
-      "image": "https://novamakedonija.com.mk/wp-content/uploads/2026/09/8-septemvri-vo-zagreb-3-150x150.jpg",
-      "date": "Wed, 09 Sep 2026 09:32:37 +0000"
+      "url": "https://time.mk/c/768379a378/video-po-rejvot-na-geta-na-oro-pred-gradski-stadion.html",
+      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/septemvri/image-259886.jpg?itok=ShPK4xr_",
+      "date": "Wed, 09 Sep 2026 12:06:54 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Бог на колежот“ на 34. МФКТ „Ристо Шишков“ во Струмица | Макфакс",
+      "title": "ИЗЛОЖБА „БОИТЕ НА СЛОБОДАТА“ СО ДЕЛА ОД ЗБИРКАТА НА МУЗЕЈОТ НА МАКЕДОНИЈА | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/3e9f988ab9/bog-na-kolezot-na-34-mfkt-risto-siskov-vo-strumica.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/bog-na-kolezot.webp",
-      "date": "Wed, 09 Sep 2026 09:34:52 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Босанката Амела на интервју за работа",
-      "description": "Се испонавреди девојката, па нема да трпи таа некој да ја зафркава и да ѝ се потсмева.",
-      "url": "https://motika.mk/bosankata-amela-na-intervju-za-rabota/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/09/bosanka-1200x675.jpg",
-      "date": "Wed, 09 Sep 2026 09:51:04 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Човекот си сака да има што да фати, па си направил и песна за тоа",
-      "description": "Хумористичните песни се правеле и ќе се прават во нашиот регион, така што само позитивно, никој не треба да се навреди од ова.",
-      "url": "https://motika.mk/covekot-si-saka-da-ima-sto-da-fati-pa-si-napravil-i-pesna-za-toa/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/09/25cc96109e334dbf9f802508305bec05.jpg",
-      "date": "Wed, 09 Sep 2026 09:46:27 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Порака до премиерот од една кочанчанка",
-      "description": "Играњето расипан телефон, пренесувањето делумни информации и боењето на истите во розево се голем проблем на луѓето на раководни функции. Она што му го предлага всушност не е лошо и треба да го направи не само во Кочани, туку и во цела Македонија.",
-      "url": "https://motika.mk/poraka-do-premierot-od-edna-kocancanka/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/09/kocancanka-1200x675.jpg",
-      "date": "Wed, 09 Sep 2026 09:41:58 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Анкета: Дали младите знаат зошто го празнуваме 8-ми септември",
-      "description": "Држава со ваква младина, не мора да се грижи за својата иднина. Иднина нема. Да не знаеш кого попрво да обвиниш за ова. Дали школскиот систем, дали родителите дома, дали самите ученици, дали мобилните телефони што ги затупуваат. Со еден збор, страшно.",
-      "url": "https://motika.mk/anketa-dali-mladite-znaat-zosto-go-praznuvame-8-mi-septemvri/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/09/9a4ca4a8a45546ecbf4839f60c62ef25.jpg",
-      "date": "Wed, 09 Sep 2026 09:40:05 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Харизматичен Црногорски музичар гостува на телевизија",
-      "description": "Водителката не знае што ја снашло :). Друг пат ќе пази какви будали кани во емисија.",
-      "url": "https://motika.mk/harizmaticen-crnogorski-muzicar-gostuva-na-televizija/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/09/9bb94f489b5c4b769c099f22bd686409.jpg",
-      "date": "Wed, 09 Sep 2026 08:56:12 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Што е поубаво, на свадбата да пее пејачка или пејач?",
-      "description": "Зависи и од пејачката. Оваа на пример кога ја гледаш и ти текнува на млекото што се продаваше на времето во најлончиња. Е па две такви.",
-      "url": "https://motika.mk/sto-e-poubavo-na-svadbata-da-pee-pejacka-ili-pejac/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/09/8b9d39f0c5e84067a6c8a6ea4ebc5523.jpg",
-      "date": "Wed, 09 Sep 2026 08:48:27 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "На одмор во Пештани",
-      "description": "Ваква привилегија нема ниту во најскапите туристички места во светот, само внимавајте да не ве изгази некоја кола.",
-      "url": "https://motika.mk/na-odmor-vo-pestani/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/09/19367670ddb84f65bba493624a1b4be3.jpg",
-      "date": "Wed, 09 Sep 2026 08:44:28 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Ноќниот живот во Стокхолм после полноќ",
-      "description": "Улиците се преполни со прекрасни плавуши, видно расположени за муабет и за дружење.",
-      "url": "https://motika.mk/nokniot-zivot-vo-stokholm-posle-polnok/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/09/47602cfd961d426c83c087f077aea666.jpg",
-      "date": "Wed, 09 Sep 2026 07:22:22 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Која е вашата порака до идните генерации?",
-      "description": "Не идете!",
-      "url": "https://motika.mk/koja-e-vasata-poraka-do-idnite-generacii/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/09/378f5f12535c40c2973d4ea86a95d288.jpg",
-      "date": "Wed, 09 Sep 2026 07:19:19 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Врата во вечноста под Каиро: Археолозите најдоа гробница со џиновска врата",
-      "description": "Ископувањата во древното место за погреби Сакара отворија прозорец кон настани стари околу 4000 години. Во заедничка експедиција на Врховниот совет за древности и Фондот Захи Хавас, истражувачите открија скриена гробница чиј влез бил затворен со масивна лажна врата од розов гранит. Монолитот, висок речиси четири и пол метри, е првата градба од ваков тип ...",
-      "url": "https://motika.mk/vrata-vo-vecnosta-pod-kairo-arheolozite-najdoa-grobnica-so-zinovska-vrata/",
-      "image": "https://motika.io/media/2026/09/09/img-c47dda84-050d-4c7a-b9d4-c9b2a830d8b5-1.jpg",
-      "date": "Wed, 09 Sep 2026 07:03:11 +0000"
+      "url": "https://time.mk/c/c7dcc5edc6/izlozba-boite-na-slobodata-so-dela-od-zbirkata-na-muzejot-na-makedonija.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/09/Boite-na-Slobodata-1.jpg",
+      "date": "Wed, 09 Sep 2026 13:34:47 +0000"
     }
   ],
-  "de": [],
+  "de": [
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "DDownload mit eigener Browser-Erweiterung: Ergänzung des Ökosystems oder Kampfansage an JDownloader 2?",
+      "description": "Der Sharehoster DDownload hat für Chrome und Firefox kürzlich eine Browser-Erweiterung eingeführt. Was steckt wohl dahinter? Der Artikel DDownload mit eigener Browser-Erweiterung: Ergänzung des Ökosystems oder Kampfansage an JDownloader 2? erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/szene/warez/sharehoster/ddownload-mit-eigener-browser-erweiterung-ergaenzung-des-oekosystems-oder-kampfansage-an-jdownloader-2-333332.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/ddownload-mit-eigener-browser-erweiterung-ergaenzung-des-oekosystems-oder-kampfansage-an-jdownloader-2",
+      "date": "Tue, 08 Sep 2026 13:26:46 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Voices38 brachte fünf Denuvo-Cracks auf einen Streich",
+      "description": "Nach 21 Tagen Pause brachte Voices38 gleich fünf Denuvo-Cracks heraus. Seine Tools sind mittlerweile höchst effektiv, wie es aussieht. Der Artikel Voices38 brachte fünf Denuvo-Cracks auf einen Streich erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/denuvo/voices38-brachte-fuenf-denuvo-cracks-auf-einen-streich-333325.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/voices38-brachte-fuenf-denuvo-cracks-auf-einen-streich",
+      "date": "Mon, 07 Sep 2026 16:45:09 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "EU-Reparaturpflicht: Hersteller pfeifen auf Reparaturinfos",
+      "description": "EU-Reparaturpflicht für Smartphones: Bei über 80 Prozent der Modelle fehlen brauchbare Reparaturinfos. Warum Hersteller in der Kritik stehen. Der Artikel EU-Reparaturpflicht: Hersteller pfeifen auf Reparaturinfos erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/smartphones/eu-reparaturpflicht-smartphones-reparaturinfos-333324.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/eu-reparaturpflicht-smartphones-reparaturinfos",
+      "date": "Mon, 07 Sep 2026 16:24:34 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Sicherheits-Tools für Server: Clawforge hilft, wenn Fail2ban und CrowdSec an ihre Grenzen kommen",
+      "description": "Das Open-Source-Projekt Clawforge verbindet Sicherheitsereignisse aus mehreren Diensten und bewertet sie anhand eigener Regeln. Der Artikel Sicherheits-Tools für Server: Clawforge hilft, wenn Fail2ban und CrowdSec an ihre Grenzen kommen erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/softwareentwicklung/sicherheits-tools-fuer-server-clawforge-hilft-wenn-fail2ban-und-crowdsec-an-ihre-grenzen-kommen-333316.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/sicherheits-tools-fuer-server-clawforge-hilft-wenn-fail2ban-und-crowdsec-an-ihre-grenzen-kommen",
+      "date": "Mon, 07 Sep 2026 13:51:54 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Xbox Cloud Gaming: Microsoft setzt dem Spielespaß ein Zeitlimit",
+      "description": "Xbox Cloud Gaming bekommt ein Zeitlimit: Microsoft beschränkt Game Pass auf 5, 10 oder 15 Stunden Cloud-Spielzeit pro Monat. Der Artikel Xbox Cloud Gaming: Microsoft setzt dem Spielespaß ein Zeitlimit erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/gaming/xbox-cloud-gaming-zeitlimit-game-pass-333309.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/xbox-cloud-gaming-zeitlimit-game-pass",
+      "date": "Sun, 06 Sep 2026 14:55:28 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Preisanalyse: Bahnsparer im Vergleich mit FareWeave",
+      "description": "Bahnsparer oder FareWeave? Dieser Vergleich zeigt die Unterschiede zwischen einer mobilen Bahn-App und einer umfassenderen Reiseplanung. Der Artikel Preisanalyse: Bahnsparer im Vergleich mit FareWeave erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/softwareentwicklung/preisanalyse-bahnsparer-im-vergleich-mit-fareweave-333300.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/preisanalyse-bahnsparer-im-vergleich-mit-fareweave",
+      "date": "Sun, 06 Sep 2026 08:42:43 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Firefox installiert KI ungefragt",
+      "description": "Firefox installiert eine lokale KI-Komponenten für die Autofill-Funktion auf dem Rechner. Welche Aufgabe hat TinyBERT, wie wird man ihn los? Der Artikel Firefox installiert KI ungefragt erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/it-sicherheit/datenschutz/firefox-installiert-ki-ungefragt-333290.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/firefox-installiert-ki-ungefragt",
+      "date": "Sun, 06 Sep 2026 07:35:08 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "IPTV-Streaming: 68-Jähriger zu 6,5 Jahren Haft verurteilt",
+      "description": "Ein Rentner aus dem Nordwesten Großbritanniens wurde wegen des Angebots von IPTV-Streaming zu 6,5 Jahren verurteilt. Der Artikel IPTV-Streaming: 68-Jähriger zu 6,5 Jahren Haft verurteilt erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/rechtssachen/iptv-streaming-68-jaehriger-zu-65-jahren-haft-verurteilt-333287.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/iptv-streaming-68-jaehriger-zu-65-jahren-haft-verurteilt",
+      "date": "Sat, 05 Sep 2026 12:23:11 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Illegales Streaming in Schweden rückläufig, die Ursachen sind unklar",
+      "description": "Laut der neuen Analyse der Marktforscher von Mediavision ist illegales Streaming in Schweden um 27% zurückgegangen. Die Gründe sind unklar. Der Artikel Illegales Streaming in Schweden rückläufig, die Ursachen sind unklar erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/illegales-streaming-in-schweden-ruecklaeufig-die-ursachen-sind-unklar-333281.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/illegales-streaming-in-schweden-ruecklaeufig-die-ursachen-sind-unklar",
+      "date": "Fri, 04 Sep 2026 08:40:17 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Film-Streaming im September 2026",
+      "description": "Illegale Portal für das Film-Streaming im September 2026. Die Szene ist einem wachsenden Druck der Rechteinhaber ausgesetzt. Wer ist noch da? Der Artikel Film-Streaming im September 2026 erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/listen/film-streaming-im-september-2026-333272.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/film-streaming-im-september-2026",
+      "date": "Thu, 03 Sep 2026 18:35:46 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Führerscheine im Dark Web: FBI jagt die Quelle von 153 Mio. Datensätzen",
+      "description": "Führerscheine im Dark Web: 153 Millionen Datensätze auf Nexus aufgetaucht. Das FBI untersucht, woher die sensiblen Identitätsdaten stammen. Der Artikel Führerscheine im Dark Web: FBI jagt die Quelle von 153 Mio. Datensätzen erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/szene/dark-commerce/fuehrerscheine-im-dark-web-333267.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/fuehrerscheine-im-dark-web",
+      "date": "Thu, 03 Sep 2026 15:24:41 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Neue Underground-Economy Crimebase ging ans Netz",
+      "description": "Im Internet gibt es mit crimebase.to eine neue Underground-Economy. Wir haben dazu kürzlich den Admin befragt. Der Artikel Neue Underground-Economy Crimebase ging ans Netz erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/interviews/neue-underground-economy-crimebase-ging-ans-netz-333257.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/neue-underground-economy-crimebase-ging-ans-netz",
+      "date": "Thu, 03 Sep 2026 10:32:14 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "SMS-Blaster: Rollender Funkmast schleuste Fake-SMS direkt aufs Handy",
+      "description": "SMS-Blaster: Ein rollender Funkmast schleuste Fake-SMS auf Handys. Die britische Polizei beschlagnahmte erstmals solche Betrugstechnik. Der Artikel SMS-Blaster: Rollender Funkmast schleuste Fake-SMS direkt aufs Handy erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/it-sicherheit/sms-blaster-rollender-funkmast-fake-sms-333244.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/sms-blaster-rollender-funkmast-fake-sms",
+      "date": "Wed, 02 Sep 2026 15:19:47 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Navigationssoftware-Download und Portable Apps",
+      "description": "Was sind die besten Quellen für einen Navigationssoftware-Download, Kartenupdates etc. im September 2026? Welche Portale sind noch aktiv? Der Artikel Navigationssoftware-Download und Portable Apps erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/listen/navigationssoftware-download-und-portable-apps-333235.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/navigationssoftware-download-und-portable-apps",
+      "date": "Wed, 02 Sep 2026 12:38:20 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Portale für das Live Fernseh Streaming im September 2026",
+      "description": "Webseiten für das Live Fernseh Streaming im September 2026. Wer ist noch alles verfügbar? Und was bieten sie im Detail an? Der Artikel Portale für das Live Fernseh Streaming im September 2026 erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/listen/portale-fuer-das-live-fernseh-streaming-im-september-2026-333225.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/portale-fuer-das-live-fernseh-streaming-im-september-2026",
+      "date": "Tue, 01 Sep 2026 19:42:25 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "VPN-Apps mit Trackern: 85 Prozent spähen ihre Nutzer aus",
+      "description": "VPN-Apps mit Trackern: Proton hat mehr als 7.000 VPNs untersucht. 85 Prozent der US-Apps enthalten Tracker, einige erfassen den Standort. Der Artikel VPN-Apps mit Trackern: 85 Prozent spähen ihre Nutzer aus erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/it-sicherheit/vpn-apps-mit-trackern-333227.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/vpn-apps-mit-trackern",
+      "date": "Tue, 01 Sep 2026 14:57:00 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Anime-Downloads im September 2026",
+      "description": "Foren, Blogs und Portale für Anime-Downloads im September 2026. Wer ist schon wieder weg? Und wer ist noch verfügbar im WWW? Der Artikel Anime-Downloads im September 2026 erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/listen/anime-downloads-im-september-2026-333218.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/anime-downloads-im-september-2026",
+      "date": "Tue, 01 Sep 2026 13:15:05 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Dokumentations-Download im August 2026",
+      "description": "Dokumentations-Download im August 2026. Wir haben uns mal wieder für euch umgeschaut, wo man sich online Dokumentationen besorgen kann. Der Artikel Dokumentations-Download im August 2026 erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/listen/dokumentations-download-im-august-2026-333209.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/dokumentations-download-im-august-2026",
+      "date": "Mon, 31 Aug 2026 16:40:07 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Dokumentationen streamen im August 2026",
+      "description": "Dokumentationen streamen: Welche Vertreter sind im Spätsommer diesen Jahres noch online? Wer davon ist eigentlich empfehlenswert? Der Artikel Dokumentationen streamen im August 2026 erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/listen/dokumentationen-streamen-im-august-2026-333197.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/dokumentationen-streamen-im-august-2026",
+      "date": "Mon, 31 Aug 2026 10:01:32 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Sony: digitale Spiele sind kein Eigentum der Käufer!",
+      "description": "Sony argumentierte vor einem Gericht, digitale Spiele seien kein Eigentum. Man kaufe lediglich das Recht darauf, sie zu benutzen. Der Artikel Sony: digitale Spiele sind kein Eigentum der Käufer! erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/gaming/sony-digitale-spiele-sind-kein-eigentum-der-kaeufer-333191.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/sony-digitale-spiele-sind-kein-eigentum-der-kaeufer",
+      "date": "Sun, 30 Aug 2026 19:25:26 +0000"
+    }
+  ],
   "eng": [
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "The JBL Charge 6 Speaker Is $80 Off Right Now",
+      "description": "This outdoor-ready speaker comes with big sound.",
+      "url": "https://lifehacker.com/tech/jbl-charge-6-speaker-sale-september-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01KFXKHND3KH2WBXHH9XFKXBZC/hero-image.png",
+      "date": "Wed, 09 Sep 2026 14:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "The Best Way to Get Past an Article's Paywall",
+      "description": "Some tricks that used to work no longer do—but this one is pretty reliable.",
+      "url": "https://lifehacker.com/how-to-bypass-a-paywall-to-read-an-article-for-free?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01HF2GTD2GVD2SP033WMTR85N6/hero-image.jpg",
+      "date": "Wed, 09 Sep 2026 13:44:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Meta Quest Pro Is Over $370 Off Right Now",
+      "description": "It's a standalone VR headset for creative work, mixed reality, or high-end apps.",
+      "url": "https://lifehacker.com/tech/meta-quest-pro-sale-september-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01KEEAQAAKHKG15QDZW6JRV2BW/hero-image.png",
+      "date": "Wed, 09 Sep 2026 13:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "OpenAI Just Launched ChatGPT Images 2.5, and Here’s How It Compares to Google’s Nano Banana 2",
+      "description": "OpenAI has pushed out ChatGPT Images 2.5, which it describes as faster, sharper, and smarter. How does it compare to Gemini's best?",
+      "url": "https://lifehacker.com/tech/how-chatgpt-image-2-point-5-compares-to-gemini-nano-banana-2?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M22T0B7ZYC1CA2PSE8F7K2J2/hero-image.jpg",
+      "date": "Wed, 09 Sep 2026 13:00:00 +0000"
+    },
     {
       "category": "eng",
       "source": "Lifehacker",
@@ -420,48 +637,57 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "These 65-Inch TVs Are on Sale for up to $1,200 Off Until Labor Day Ends Tonight",
-      "description": "You can find some great discounts on TVs from LG, Samsung, Sony, and more.",
-      "url": "https://lifehacker.com/tech/last-chance-65-inch-tvs-best-labor-day-sale-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1CEAKZ392KJEYY9R7PA4C0E/hero-image.png",
-      "date": "Mon, 07 Sep 2026 20:52:59 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "These Samsung Monitors Are on Sale for up to 39% Off Until Labor Day Ends",
-      "description": "You can save up to $240 on Samsung Odyssey gaming monitors and ViewFinity displays, with deals starting at $149.99.",
-      "url": "https://lifehacker.com/tech/last-chance-best-samsung-monitor-deals-labor-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1GPA0NFKK5SNV27J31ZX3JJ/hero-image.png",
-      "date": "Mon, 07 Sep 2026 20:52:12 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "The Best Fitness Deals on Sale for Under $100 Before Labor Day Ends",
-      "description": "Headphones, dumbbells, and accessories are already seeing significant discounts running up to Labor Day.",
-      "url": "https://lifehacker.com/health/last-chance-best-fitness-deals-under-100-labor-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1CCEWVWECB00PPMYM04V8ZV/hero-image.jpg",
-      "date": "Mon, 07 Sep 2026 20:51:26 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "The Best Deals on Apple Devices on Sale Before Labor Day Ends",
-      "description": "There are discounts across Apple’s lineup, from $99 AirPods to $500 off a 2026 M5 Max MacBook Pro.",
-      "url": "https://lifehacker.com/tech/last-chance-best-apple-deals-labor-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1E19WV2MAMB7EX9WXHGQEZ0/hero-image.png",
-      "date": "Mon, 07 Sep 2026 20:50:35 +0000"
+      "source": "PCWorld",
+      "title": "Remember big box PC games? GOG’s bringing them back, sort of",
+      "description": "I have fond memories of cruising the aisles of CompUSA and browsing the massive cardboard boxes containing floppy disks and CDs. That’s what PC gaming used to look like. Those days are long gone, of course, banished to a time before smartphones and the drone of a data center that’s louder than my dog’s whining for clean water. But GOG is trying to bring that feeling back … sort of. I hope you have a good printer. Apologies for the gloom and doom. GOG’s efforts at preservation are to be applauded",
+      "url": "https://www.pcworld.com/article/3230261/big-boxes-for-pc-games-are-back-with-some-homework.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3230261-0-67223100-1788964265-image_27c9d5.png",
+      "date": "Wed, 09 Sep 2026 14:30:46 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Turn one AI prompt into multiple answers with this $55.30 lifetime subscription",
-      "description": "TL;DR: Compare responses from 20+ AI models , including ChatGPT, Claude, Gemini, and DeepSeek, with a lifetime ChatPlayground AI Unlimited subscription for $55.30 through September 10 (MSRP $619). Using AI often means playing model roulette — ask one chatbot for an answer, open another when it falls short, then repeat the process until you get something useful. ChatPlayground AI takes a less chaotic approach by letting you send one prompt to multiple AI models and compare their responses side by",
-      "url": "https://www.pcworld.com/article/3228731/turn-one-ai-prompt-into-multiple-answers-with-this-55-30-lifetime-subscription.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3228731-0-72045400-1788940888-ChatPlayground.jpg?quality=50&strip=all",
-      "date": "Wed, 09 Sep 2026 08:00:00 +0000"
+      "title": "Someone might be in your PayPal account. Here’s a quick way to check",
+      "description": "According to the FBI’s 2025 Internet Crime Report , the number of reported cybercrimes exceeded 1 million last year, with trends showing a year-on-year increase. A common vector of online crime is the unauthorized access to online accounts. Payment services such as PayPal are a particular target for fraudsters. This quick test shows you how to tell whether your PayPal account has been affected. The key warning signs: What you should check first Not every unusual account activity automatically me",
+      "url": "https://www.pcworld.com/article/3217756/someone-might-be-in-your-paypal-account-heres-a-quick-way-to-check.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3217756-0-42707800-1788962431-Paypal-App-Logo-Stock.png",
+      "date": "Wed, 09 Sep 2026 14:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Google Earth’s flight simulator now works right in your browser",
+      "description": "Google sometimes releases fun bonus features for its products and services. Recently, Google Earth gained a kind of flight simulator. Google has long been working with maps, satellite and aerial images, and street views—these are packaged in various ways. Google Maps is the most widely used service, but there’s also another popular option in Google Earth. With it, you can do everything from viewing the Earth from above to zooming all the way down to street level. But the most recent feature is a",
+      "url": "https://www.pcworld.com/article/3229549/google-earths-flight-simulator-now-works-right-in-your-browser.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3229549-0-58743800-1788961663-Google-Earth-Flygsimulator-EDIT.jpg?quality=50&strip=all",
+      "date": "Wed, 09 Sep 2026 13:47:31 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "I got Starlink internet at home. I wish I knew these 6 key details first",
+      "description": "I recently moved to a much more rural area, so getting Starlink set up was one of my top priorities. My area is an internet dead zone where you might get a bit of 4G on a nearby hill, but that’s about it. No cellular for phone calls, and the best I can hope from a landline connection is 3 Mbps. As a modern man with a modern family full of modern devices, I need fast internet—so I readied Starlink even before my kids’ beds. It worked pretty well, too. At first I heard a bunch of buzzing noises th",
+      "url": "https://www.pcworld.com/article/2873030/i-got-starlink-internet-at-home-i-wish-i-knew-these-key-details-first.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/2873030-0-56520500-1788961242-Starlink-internet-logo-on-outer-space-background.jpg?quality=50&strip=all",
+      "date": "Wed, 09 Sep 2026 13:40:37 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "This $40 Anker dock turns your laptop’s USB-C port into 8 connections",
+      "description": "NOW 26% OFF Anker 8-in-1 Laptop Docking Station View Deal If your laptop has just one or two ports and you’re always swapping between them to plug in monitors, flash drives, keyboards, mice, and whatever else, you deserve to treat yourself with a proper docking solution. This Anker 8-in-1 Laptop Docking Station is $40 at Amazon , which is a 26% discount off its usual $54. Like any hub or dock, this one plugs into your laptop’s USB-C port and turns it into a bunch of usable ports, but this one st",
+      "url": "https://www.pcworld.com/article/3230004/this-40-anker-dock-turns-your-laptops-usb-c-port-into-8-connections.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3230004-0-21384300-1788960066-Anker-A83800A1.jpg?quality=50&strip=all",
+      "date": "Wed, 09 Sep 2026 13:19:49 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "The Windows dictation tool every writer should try",
+      "description": "I write for a living and honestly, the process of typing is my bottleneck. Whether it’s getting my braindumps down on paper, sending email replies, or just simply writing out an article, I can verbally communicate my ideas faster than I can type them. That’s why I love dictation tools. And I think anyone can benefit from using them, not just writers. Luckily, Windows has a handy dictation tool built right in. Click inside almost any text box and press Win + H . Windows Voice Typing will pop up a",
+      "url": "https://www.pcworld.com/article/3211799/windows-has-a-built-in-dictation-tool-you-should-try.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3211799-0-62085700-1788959850-Windows-11-Dictation-feature-with-usage-instructions-in-a-tooltip-screenshot.png",
+      "date": "Wed, 09 Sep 2026 13:15:52 +0000"
     },
     {
       "category": "eng",
@@ -469,80 +695,35 @@
       "title": "Why I’m a standing desk convert: 6 ways it leveled up my life",
       "description": "I’m a standing desk evangelist. Ask anyone in my life who’s a desk worker and they’ll tell you that I’ve badgered them about switching. Whether it’s expensive or affordable , it doesn’t matter—just get one! But I wasn’t always like this. When I first tried standing desks over a decade ago, I didn’t approve. My feet ached , my setup was suboptimal, I didn’t feel the benefits, and it was a hell of a lot more work than just putting my feet up while I tapped away at my PC. But now? I’d never go back",
       "url": "https://www.pcworld.com/article/2775029/why-im-a-standing-desk-convert-6-ways-it-leveled-up-my-life.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/2775029-0-41024100-1788912031-Man-working-from-home-with-laptop-on-a-standing-desk.jpg?quality=50&strip=all",
-      "date": "Wed, 09 Sep 2026 00:00:00 +0000"
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/2775029-0-05104100-1788959730-Man-working-from-home-with-laptop-on-a-standing-desk.jpg?quality=50&strip=all",
+      "date": "Wed, 09 Sep 2026 13:15:24 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Windows 11 is getting faster boot times and 8GB RAM performance",
-      "description": "Microsoft confirmed at IFA 2026 that upcoming updates for Windows 11 will include faster boot times. According to Mark Linton, head of Windows & Devices at Microsoft, the company has already made significant progress in both the startup times and responsiveness of Windows Hello, and further improvements are expected. At the same time, Microsoft reaffirmed its earlier promise to optimize Windows 11 for PCs with only 8GB of RAM . According to Linton, Microsoft is still committed to this goal of ma",
-      "url": "https://www.pcworld.com/article/3229260/windows-11-is-getting-faster-boot-times-and-8gb-ram-performance.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3229260-0-39665400-1788894068-Windows-11-logo.jpg?quality=50&strip=all",
-      "date": "Tue, 08 Sep 2026 19:00:39 +0000"
+      "title": "Wondershare PDFelement V13 brings AI workflows to your PDFs",
+      "description": "Grab a great discount on PDFelement V13 by Wondershare Learn more If you work regularly with PDF documents then the chances are you’re already very familiar with PDFelement by Wondershare . This hugely popular software is the go-to for many people when they want to create, edit, sign or convert PDFs. Now, with the arrival of Version 13, there are powerful new AI tools that will make life even easier for those that need to work with multiple forms of documentation or have to manage agreements acr",
+      "url": "https://www.pcworld.com/article/3229312/wondershare-pdfelement-v13-brings-ai-workflows-to-your-pdfs.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3229312-0-92371900-1788958969-PDFelement-MAIN.png",
+      "date": "Wed, 09 Sep 2026 13:02:35 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Best laptops under $500: Affordable picks that will satisfy your needs",
-      "description": "Finding a great laptop for under $500 isn’t impossible. It just takes knowing what to pay attention to and what to ignore. For most people, I’d recommend opting for a laptop with a 1080p display and at least 8GB of RAM . If you spot a model with 16GB of RAM in this price range, scoop that up. It’s worth it for the long-term usability. While you shouldn’t expect premium features at this price point, there are plenty of laptops that offer excellent day-to-day performance. Here are the best ones we",
-      "url": "https://www.pcworld.com/article/699203/best-laptops-under-500.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/699203-0-00792400-1788888639-Acer_Aspire3.jpg?quality=50&strip=all",
-      "date": "Tue, 08 Sep 2026 17:30:00 +0000"
+      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
+      "description": "If you’re looking for an affordable Windows machine under $500 , a blazing fast gaming beast for those intense matches, or a portable 2-in-1 for school or work, you’ve got plenty of great choices right now. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 80 laptops every year. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches",
+      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/550968-0-02232500-1788958084-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
+      "date": "Wed, 09 Sep 2026 12:47:43 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Office 2021 loses support in October. This tool keeps it safe anyway",
-      "description": "Microsoft plans to end support for Office 2021 once and for all on October 13th, 2026. This means users of this version will no longer receive updates—both feature updates and security updates. Because of that, continued use of Office 2021 will be unsafe past that date. However, if you still wish to continue using Office 2021 after support ends, you can do so with 0patch. As the company explains in this blog post , 0patch will provide Office 2021 with unofficial security updates for up to three ",
-      "url": "https://www.pcworld.com/article/3229262/office-2021-loses-support-in-october-this-tool-keeps-it-safe-anyway.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3229262-0-95440600-1788886450-MSOffice.jpg?quality=50&strip=all",
-      "date": "Tue, 08 Sep 2026 16:53:18 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "ChatGPT copied my writing style, but couldn’t fool an AI detector",
-      "description": "I’m not a fan of letting AI do your writing for you, but there’s no question that it can —and a new ChatGPT tool makes it even easier for the chatbot to copy your own writing style. Hiding in plain sight within ChatGPT’s Personalization settings, the “Reference my writing style” option has been generating buzz over the past several days. While it hasn’t been formally announced, the feature was confirmed by OpenAI product chief Thibault Sottiaux . Yes. What do you think? — Tibo (@thsottiaux) Sept",
-      "url": "https://www.pcworld.com/article/3229378/chatgpt-copied-my-writing-style-but-couldnt-fool-an-ai-detector.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3229378-0-45499000-1788885292-ChatGPT-app.jpg?quality=50&strip=all",
-      "date": "Tue, 08 Sep 2026 16:34:09 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Govee’s smart LED outdoor lights hit their lowest price of the year",
-      "description": "LOWEST PRICE ALL YEAR Govee Permanent Outdoor Lights 2 View Deal We’re a week into September and Halloween is going to creep up in the blink of an eye, then Thanksgiving and Christmas right after that. Why wrestle with traditional string lights when you can put up permanent smart lights that you can customize on the fly via an app? Right now, the Govee Permanent Outdoor Lights 2 is on sale for $320 at Amazon, down from its usual $490 and the lowest price it’s been all year long. Okay, $320 for s",
-      "url": "https://www.pcworld.com/article/3229296/govees-smart-led-outdoor-lights-hit-their-lowest-price-of-the-year.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3229296-0-39731300-1788883786-Govee-Outdoor-Permanent-Lights-2.jpg?quality=50&strip=all",
-      "date": "Tue, 08 Sep 2026 16:09:29 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Best external drives 2026: Fast SSDs and roomy hard drives",
-      "description": "External USB/Thunderbolt SSDs and/or hard drives (aka direct-attached storage, or DAS) are a super-convenient way to add storage capacity to your system as well as back it up. External drives are also extremely handy for transporting data between locations and devices in what used to be known as sneaker-net. PROMOTION High Capacity Bus-powered USB-C desktop Get in touch with total storage freedom. Revolutionize your workflows with game-changing convenience and ease. High-capacity with bus-powere",
-      "url": "https://www.pcworld.com/article/406861/best-external-drives.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/406861-0-29039500-1788883241-markus-spiske-hL8slYnc-bM-unsplash.jpg?quality=50&strip=all",
-      "date": "Tue, 08 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Microsoft is giving users control over Windows 11 again, but it’s not enough",
-      "description": "2026 seems to be a year of rethinking for Microsoft. At first the company planned to improve Windows 11 and make it faster , and now the company wants to give its users control over Windows 11’s look and feel again. To this end, Microsoft outlined its first intended steps at IFA 2026. The return of the repositionable taskbar —which is already rolling out to early adopters—and the ability to personalize the Start menu are just the beginning. There’s more in store coming up. According to Windows L",
-      "url": "https://www.pcworld.com/article/3229266/microsoft-is-giving-users-control-over-windows-11-again-but-its-not-enough.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3229266-0-95336500-1788881063-Windows-11-laptop-on-a-wooden-desk-workstation.jpg?quality=50&strip=all",
-      "date": "Tue, 08 Sep 2026 15:24:06 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Keep hackers out of your WhatsApp account with these 3 steps",
-      "description": "WhatsApp may be encrypted, but its security is only as good as yours. If you have a lax attitude about how you lock down your account, its protections won’t keep hackers out. (Watch out for sneaky QR codes !) Recently, WhatsApp bumped up two key security features , passkeys and two-factor authentication. Haven’t begun using them yet? Now’s the perfect time—and you should consider at least one other smart move, too. Set up multiple passkeys The WhatsApp settings screen for passkey management. PCW",
-      "url": "https://www.pcworld.com/article/3224374/keep-hackers-out-of-your-whatsapp-account-with-these-3-steps.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3224374-0-42641000-1788879648-whatsapp-892926_1280.jpg?quality=50&strip=all",
-      "date": "Tue, 08 Sep 2026 15:00:00 +0000"
+      "title": "With laptop prices up, here’s what’s actually worth paying for",
+      "description": "This isn’t the best time to be thinking about buying a computer. High memory prices have driven up the cost of almost everything. But if you need a new computer, then go for it — whether it’s to install Windows 11, play modern games that don’t run on your old machine, or simply because you don’t have a computer at all. Ready-built computers, including laptops, haven’t become as inflated price-wise as individual components for building your own PC, and it’s still possible to find the odd bargain ",
+      "url": "https://www.pcworld.com/article/3223767/buying-a-laptop-right-now-heres-what-actually-matters.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3223767-0-38873000-1788952539-puff_fb7c9b.jpg?quality=50&strip=all",
+      "date": "Wed, 09 Sep 2026 11:15:00 +0000"
     }
   ],
   "starwars": [
@@ -630,6 +811,15 @@
     {
       "category": "starwars",
       "source": "Star Wars Union",
+      "title": "Doppelschlag im IMAX-Format: Krieg der Sterne und Starfighter kommen 2027 auf die ganz große Leinwand",
+      "description": "Im Februar und Mai in ausgewählten IMAX-Kinos dieser Galaxis.",
+      "url": "https://starwars-union.de/doppelschlag-im-imax-format-krieg-der-sterne-und-starfighter-kommen-2027-auf-die-ganz-grosse-leinwand/",
+      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/03/shutterstock_2543943139-1200x673.jpg",
+      "date": "Wed, 09 Sep 2026 11:43:50 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars Union",
       "title": "Vorschau: Das Lucas-Museum bereitet seine Eröffnung vor",
       "description": "George Lucas hat am Mittwoch einen ersten Einblick in sein Lucas Museum of Narrative Art in Los Angeles gegeben. Der Star-Wars-Schöpfer arbeitet zusammen mit seiner Frau Mellody Hobson seit 17 Jahren an dem Projekt. Über das Mammutprojekt sagte er: „Ich bin es gewohnt, das Unmögliche zu tun. Ein Teil meines Problems ist, dass ich ein […]",
       "url": "https://starwars-union.de/vorschau-das-lucas-museum-bereitet-seine-eroeffnung-vor/",
@@ -710,15 +900,114 @@
     },
     {
       "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "Radio Tatooine über die großen D23-Themen",
-      "description": "In gerade mal 5 1/2 Stunden nehmen sich 3 Typen die 2 großen Teasertrailer von Ahsoka und Starfighter vor ...",
-      "url": "https://starwars-union.de/radio-tatooine-ueber-die-grossen-d23-themen/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/08/Neues-Projekt-1200x675.jpg",
-      "date": "Fri, 21 Aug 2026 13:27:53 +0000"
+      "source": "Jedi News",
+      "title": "Obi-Wan vs. Grievous! | Star Wars: The Clone Wars | Star Wars Kids",
+      "description": "Obi-Wan faces off against Grievous as Anakin and Adi Gallia race to rescue Master Koth. Will Obi-Wan be able to buy Anakin enough time, or will Grievous become one step closer to wiping out all the Jedi? Stream Star Wars: The Clone Wars on Disney+. The post Obi-Wan vs. Grievous! | Star Wars: The Clone Wars | Star Wars Kids appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/obi-wan-vs-grievous-star-wars-the-clone-wars-star-wars-kids/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/maxresdefault-13-300x169.jpg",
+      "date": "Tue, 08 Sep 2026 23:09:26 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Sign in C-3PO Is Evil?! Droids Gone Bad! | Star Wars Animation | Star Wars Kids",
+      "description": "The Star Wars galaxy is full of droids! Some are kind and helpful, like R2-D2, and some...not so much. Check out this fun compilation featuring droids that fight for the Dark Side, like battle droids and Imperial probe droids, and the Jedi who battle against them! The post Sign in C-3PO Is Evil?! Droids Gone Bad! | Star Wars Animation | Star Wars Kids appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/sign-in-c-3po-is-evil-droids-gone-bad-star-wars-the-clone-wars-star-wars-kids/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/maxresdefault-12-300x169.jpg",
+      "date": "Mon, 07 Sep 2026 23:08:08 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Skywalking Through Neverland #573: The Mandalorian and Grogu Cast Interviews – Misty Rosas, Richard Cetrone, and Donald Mills",
+      "description": "Join Skywalking Through Neverland duo Sarah and Richard for their latest episode (#573) discussing all the latest Star Wars and Disney news. The post Skywalking Through Neverland #573: The Mandalorian and Grogu Cast Interviews – Misty Rosas, Richard Cetrone, and Donald Mills appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/skywalking-through-neverland-573-the-mandalorian-and-grogu-cast-interviews-misty-rosas-richard-cetrone-and-donald-mills/",
+      "image": "",
+      "date": "Mon, 07 Sep 2026 16:53:35 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Mike Quinn Attending Echo Base Live on October 10th, 2026",
+      "description": "Droid performer Mike Quinn, best known for operating and performing resistance pilot Nien Nunb, is the seventh guest announced for Look sir, droids! Echo Base Live, Europe's premiere Star Wars collectors event, taking place in Redditch on October 10th, 2026. The post Mike Quinn Attending Echo Base Live on October 10th, 2026 appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/events/articles/mike-quinn-attending-echo-base-live-on-october-10th-2026/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/Echo-Base-Live-Look-Sir-Droids-Mike-Quinn-Sept26-300x201.jpg",
+      "date": "Mon, 07 Sep 2026 05:58:42 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Making Tracks #265: Wheelbarrow of credits: With guests Lateef Crowder and Jonny Coyne from Rebel Scum Con III",
+      "description": "Fantha Tracks Radio is back with episode 265 of their flagship show Making Tracks, discussing all the latest Star Wars news. The post Making Tracks #265: Wheelbarrow of credits: With guests Lateef Crowder and Jonny Coyne from Rebel Scum Con III appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/making-tracks-265-wheelbarrow-of-credits-with-guests-lateef-crowder-and-jonny-coyne-from-rebel-scum-con-iii/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2018/05/Making-Tracks-300x201.jpg",
+      "date": "Mon, 07 Sep 2026 05:25:04 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "This Weeks Publications – 7th September 2026",
+      "description": "Welcome to week 36 of 2026 and our list detailing what new publications to expect from a galaxy far, far away. The post This Weeks Publications – 7th September 2026 appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/literature/articles/this-weeks-publications-7th-september-2026/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/Poe-Dameron-Omnibus-HC-204x300.jpeg",
+      "date": "Mon, 07 Sep 2026 04:01:11 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Ahsoka Protects the Jedi Younglings from Grievous! | Star Wars: The Clone Wars | Star Wars Kids",
+      "description": "Ahsoka Tano and the Jedi younglings must join forces with the unpredictable pirate Hondo Ohnaka after General Grievous attacks. Stream Star Wars: The Clone Wars on Disney+. The post Ahsoka Protects the Jedi Younglings from Grievous! | Star Wars: The Clone Wars | Star Wars Kids appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/ahsoka-protects-the-jedi-younglings-from-grievous-star-wars-the-clone-wars-star-wars-kids/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/maxresdefault-10-300x169.jpg",
+      "date": "Sun, 06 Sep 2026 23:07:16 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Inside the ILM Art Department: ‘Moana’",
+      "description": "ILM.com is showcasing artwork specially chosen by members of the ILM Art Department. In this installment of a continuing series, two artists from the London studio share insights about their work on the 2026 Amazon/MGM Studios production, Masters of the Universe. The post Inside the ILM Art Department: ‘Moana’ appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/inside-the-ilm-art-department-moana/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/moana-aaron-mcbride-ilm-concept-art-vfx-featured-Sept26-300x201.jpg",
+      "date": "Sun, 06 Sep 2026 20:45:54 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Star Wars Ambiance: Anakin Building C-3PO | 10 Hours for Work, Study & Sleep",
+      "description": "Step into Anakin Skywalker's home workshop on Tatooine as he tinkers away on his protocol droid, C-3PO — a scene inspired by Star Wars: Episode I – The Phantom Menace. The post Star Wars Ambiance: Anakin Building C-3PO | 10 Hours for Work, Study & Sleep appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/star-wars-ambiance-anakin-building-c-3po-10-hours-for-work-study-sleep/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/maxresdefault-11-300x169.jpg",
+      "date": "Sun, 06 Sep 2026 20:13:00 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Coffee With Kenobi #861: All About Galaxy Tours, with Davin Anderson",
+      "description": "Join Dan Zehr and co for episode 861 of Coffee With Kenobi. The post Coffee With Kenobi #861: All About Galaxy Tours, with Davin Anderson appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/coffee-with-kenobi-861-all-about-galaxy-tours-with-davin-anderson/",
+      "image": "",
+      "date": "Sun, 06 Sep 2026 19:41:54 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Star Wars: New Jedi Order and Dave Filoni’s Untitled Film Are Moving Forward",
+      "description": "The September 3rd issue of Production Weekly mentions both Star Wars: New Jedi Order, starring Daisy Ridley as Rey Skywalker, and Dave Filoni’s untitled Star Wars movie as projects in-development, suggesting that there's movement on Lucasfilm's movie slate. The post Star Wars: New Jedi Order and Dave Filoni’s Untitled Film Are Moving Forward appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/star-wars-new-jedi-order-and-dave-filonis-untitled-film-are-moving-forward/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2024/10/Daisy-Ridley-Rey-Skywalker-Oct24-300x201.jpg",
+      "date": "Sun, 06 Sep 2026 17:12:37 +0000"
     }
   ],
   "youtube": [
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "LG Fernseher lauschen mit ?! #informatik #news #cybersecurity #lg #tv",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/e6d0p6_i8qo",
+      "image": "https://i.ytimg.com/vi/e6d0p6_i8qo/hqdefault.jpg",
+      "date": "2026-09-09T10:15:04+00:00"
+    },
     {
       "category": "youtube",
       "source": "Hood Informatik",
@@ -799,15 +1088,6 @@
       "url": "https://www.youtube.com/shorts/TLANNNHbe3o",
       "image": "https://i.ytimg.com/vi/TLANNNHbe3o/hqdefault.jpg",
       "date": "2026-09-01T16:15:13+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Dieser PIN macht die Daten auf deinem Handy unbrauchbar #code #cybersecurity #informatik #news",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/4RJZe-bYuXU",
-      "image": "https://i.ytimg.com/vi/4RJZe-bYuXU/hqdefault.jpg",
-      "date": "2026-08-31T16:00:09+00:00"
     },
     {
       "category": "youtube",
