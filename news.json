@@ -1,459 +1,278 @@
 {
-  "updated": "2026-09-09T05:06:24.912525+00:00",
+  "updated": "2026-09-09T10:01:34.184022+00:00",
   "mkd": [
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Калифорнискиот стартап Unigrid и Hyundai успешно ги тестираа новите натриум-јонски батерии",
-      "description": "Калифорниската компанија Unigrid ја заврши програмата за евалуација ZER01NE на автомобилската групација Hyundai, преку која успешно ја валидираше својата нова технологија за натриум-јонски батерии. Оваа соработка, која започна во 2025 година, има за примарна цел да идентификува и развие незапалливи системи за складирање енергија кои ќе можат да се користат во големи инфраструктурни проекти. Во […]",
-      "url": "https://smartportal.mk/novosti/tehnologii/unigrid-hyundai-natrium-jonski-baterii/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/hyundai-unigrid-150x150.webp",
-      "date": "Tue, 08 Sep 2026 14:45:26 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "„СКОПИЈЕ“ било намерно: Кој стои зад кампањата со еднорозите и што навистина доаѓа во Скопје",
-      "description": "Зад кампањата стои Startup Club Skopje, а таа е дел од промоцијата на Startup Revolution AI Summit 2026, еден од најголемите настани за стартапи, технологија и претприемништво во регионот, кој ќе се одржи од 1 до 4 октомври во Скопје. Со намерно погрешно напишаното „СКОПИЈЕ“, кампањата имаше цел да привлече внимание, но и да испрати […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/skopije-bilo-namerno/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/1788644319822-150x150.webp",
-      "date": "Mon, 07 Sep 2026 18:32:40 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Gamers Nexus објави истражување за нарушување на приватноста од страна на LG телевизорите",
-      "description": "Ново истражување објавено од Gamers Nexus открива сериозни проблеми поврзани со приватноста кај паметните телевизори на LG. Според откритијата, овие уреди можат да функционираат како уреди за прислушување, собирајќи транскрипти од гласовни разговори во чист текст и аудио записи преку вградените микрофони. Снимањето може да вклучува и визуелни податоци доколку се користат поврзани веб камери. […]",
-      "url": "https://smartportal.mk/novosti/uredi/gamers-nexus-istrazuvanje-privatnost-lg-televizori/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Depositphotos_826703935_XL-f-150x150.webp",
-      "date": "Mon, 07 Sep 2026 12:42:28 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Џон Просер: „Еве го iPhone настанот од Apple… порано“",
-      "description": "Задутре, односно во среда на 9 септември, Apple ќе го одржи нивниот традиционален за овој период од годината iPhone настан. Како што веќе им е познато на повеќето кои ги следат информациите, на овој настан се очекува претставувањето на првиот iPhone на преклоп. Презентацијата ќе биде предводена од новиот директор на компанијата, Џон Тернус, за […]",
-      "url": "https://smartportal.mk/novosti/smartfoni/jon-prosser-eve-go-iphone-nastanot-porano/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/maxresdefault-1-150x150.jpg",
-      "date": "Mon, 07 Sep 2026 11:39:51 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Audacity 4 пристигнува со нов интерфејс и приспособливи работни околини",
-      "description": "Muse Group, компанијата зад апликација Audacity, ја објави Audacity 4 верзијата од познатиот софтвер со отворен код наменет за снимање и уредување на аудио содржини. Најновата верзија е фокусирана кон подобрување на работниот процес на корисниците, притоа задржувајќи ја поддршката за постоечките кратенки на тастатурата, препознатливиот распоред на лентите и целосната компатибилност со проектите создадени […]",
-      "url": "https://smartportal.mk/novosti/softver-prog/audacity-4/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/6a9994d48b5543ece8570fc1_Screenshot-2026-09-03-at-16.39.56-150x150.webp",
-      "date": "Mon, 07 Sep 2026 10:37:09 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Тим Кук ќе продолжи да биде голем фактор во Apple и покрај неговото напуштање на главната директорска позиција",
-      "description": "Веќе една недела Apple има нов директор, нешто што секако привлекува внимание кај оваа компанија. Џон Тернус е новиот директор на Apple, а Тим Кук ја презеде позицијата извршен претседател на одборот на директори. Веднаш може да се види дека Кук не планира да се повлече од активниот ангажман во Apple, па повеќето досегашни претседатели […]",
-      "url": "https://smartportal.mk/novosti/licnosti/tim-cook-ke-prodolzi-da-bide-golem-faktor-vo-apple/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Depositphotos_839665820_XL-f-150x150.webp",
-      "date": "Mon, 07 Sep 2026 09:17:00 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Судот го забрани користење на името Twitter за новата социјална мрежа, но дозволи употреба на Tweet",
-      "description": "Федералниот суд во Делавер донесе привремена одлука во спорот за трговски марки помеѓу X и стартапот Operation Bluebird, кој се обиде да пушти нова конкурентна социјална мрежа користејќи го името Twitter, односно истото веќе го направи, иако доста кратко. Американскиот окружен судија Колм Ф. Коноли пресуди во корист на X, забранувајќи му на стартапот […]",
-      "url": "https://smartportal.mk/novosti/socijalni-mrezi/sudot-go-zabrani-koristenjeto-na-imeto-twitter/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/Depositphotos_52962585_XL-f-150x150.webp",
-      "date": "Sat, 05 Sep 2026 14:19:29 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Windows 11 добива нова функција за споделување на возраста на корисниците со апликациите",
-      "description": "Windows 11 наскоро ќе добие нова функционалност која ќе им овозможи на апликациите да ја проверуваат возраста на корисниците, без притоа да го дознаат нивниот точен датум на раѓање. Microsoft развива нови системски алатки преку кои регистрираните програми ќе добиваат информација само за старосната група во која припаѓа корисникот, како и статус дали таа возраст […]",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/windows-11-spodeluvanje-na-vozrasta/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/03/shutterstock_2578146921-150x150.webp",
-      "date": "Sat, 05 Sep 2026 13:59:30 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "AI Student Hackathon powered by OpenAI: Практична можност за младите на AI Tech Summit „Filip Avramchev“ Skopje 2026",
-      "description": "Средношколци и студенти ќе имаат можност да учествуваат на AI Student Hackathon powered by OpenAI, кој ќе се одржи во рамки на AI Tech Summit „Filip Avramchev“ Skopje 2026. Хакатонот е наменет за тимови од млади учесници кои ќе работат на конкретен предизвик и ќе развиваат сопствено AI решение со користење на OpenAI алатки и […]",
-      "url": "https://smartportal.mk/novosti/nastani/ai-student-hackathon-powered-by-openai/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/img_0739-150x150.jpg",
-      "date": "Fri, 04 Sep 2026 17:39:05 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Nvidia ја купува платформата Hugging Face за 12,93 милијарди долари",
-      "description": "Nvidia официјално објави дека постигнала договор за купување на Hugging Face за сума од 12,93 милијарди долари. Целта на оваа аквизиција се истакнува дека е да се прошири капацитетот на платформата, да се зајакне нејзината инфраструктура и да се овозможи уште поширок пристап до алатките за вештачка интелигенција за програмерите и институциите ширум светот. Hugging […]",
-      "url": "https://smartportal.mk/novosti/ai/nvidia-ja-kupuva-hugging-face/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2-f-150x150.webp",
-      "date": "Fri, 04 Sep 2026 12:37:28 +0000"
+      "source": "Time.mk - All",
+      "title": "Само третина од 15-годишниците во земјава имаат основни познавања за математика, читање и наука, покажува извештајот на ПИСА | 360 степени",
+      "description": "",
+      "url": "https://time.mk/c/34dc85a0a7/samo-tretina-od-15-godisnicite-vo-zemjava-imaat-osnovni-poznavanja-za-matematika-citanje-i-nauka-pokazuva-izvestajot-na-pisa.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2022/11/Ucenici.jpg",
+      "date": "Wed, 09 Sep 2026 09:07:00 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ПИСА во ЕУ: Учениците сè послабо читаат и решаваат математика – падот е најголем во последната деценија | Трн",
+      "title": "Се вртеше оро во Градски парк, по спектаклот со Дејвид Гета (видео) | Црнобело",
       "description": "",
-      "url": "https://time.mk/c/d2102d06de/pisa-vo-eu-ucenicite-se-poslabo-citaat-i-resavaat-matematika-padot-e-najgolem-vo-poslednata-decenija.html",
-      "image": "https://trn.mk/wp-content/uploads/2025/11/eu.jpg",
-      "date": "Wed, 09 Sep 2026 05:02:47 +0000"
+      "url": "https://time.mk/c/f677e4ccad/se-vrtese-oro-vo-gradski-park-po-spektaklot-so-dejvid-geta-video.html",
+      "image": "https://www.crnobelo.com/images/stories/2026/09/72/po-dejvid-geta-se-vrteshe-oro-vo-gradski-park-video-povekje.jpg",
+      "date": "Wed, 09 Sep 2026 08:58:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Зборотворба на годината 2026“ на 12 септември: 512 предложени зборови, разговор за озборувањето и музика од повеќе генерации | Бизнис Вести",
+      "title": "Жерновски: Мицкоски нема никаков резултат, му остана само кампањата за поделби и навреди кон граѓаните | Press24",
       "description": "",
-      "url": "https://time.mk/c/7e85903e1f/zborotvorba-na-godinata-2026-na-12-septemvri-512-predlozeni-zborovi-razgovor-za-ozboruvanjeto-i-muzika-od-poveke-generacii.html",
-      "image": "https://biznisvesti.mk/wp-content/uploads/2026/09/Poster_statichen_instagram_3-1--240x300.jpg",
-      "date": "Wed, 09 Sep 2026 04:54:46 +0000"
+      "url": "https://time.mk/c/ddb8d6b452/zernovski-mickoski-nema-nikakov-rezultat-mu-ostana-samo-kampanjata-za-podelbi-i-navredi-kon-gragjanite.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/69796.jpeg",
+      "date": "Wed, 09 Sep 2026 09:50:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Дел од Кисела Вода денеска без струја | Макфакс",
+      "title": "Преклопниот iPhone Duo ќе чини од 2.000 долари, а нема да биде достапен пред октомври | Конект",
       "description": "",
-      "url": "https://time.mk/c/2eec3dec13/del-od-kisela-voda-deneska-bez-struja.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/01/struja-heri-susilo-Ctc51TgQU3M-unsplash.jpg",
-      "date": "Wed, 09 Sep 2026 04:14:46 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - Magazin",
-      "title": "Како полесно да се расоните веднаш по будењето: Неколку едноставни навики прават голема разлика | Lady",
-      "description": "",
-      "url": "https://time.mk/c/05a2bfc97f/kako-polesno-da-se-rasonite-vednas-po-budenjeto-nekolku-ednostavni-naviki-pravat-golema-razlika.html",
-      "image": "https://lady.mk/wp-content/uploads/2026/08/spie-300x200.jpg",
-      "date": "Wed, 09 Sep 2026 04:52:35 +0000"
+      "url": "https://time.mk/c/c4b46a8a3a/preklopniot-iphone-duo-ke-cini-od-2-000-dolari-a-nema-da-bide-dostapen-pred-oktomvri.html",
+      "image": "https://konekt.mk/wp-content/uploads/2026/09/iPhone-Ultra-Fold-Feature.jpg",
+      "date": "Wed, 09 Sep 2026 09:58:57 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Киро Глигоров го имаше 001, јас го имав 101“ – 35 години независност низ очите на новинарот Горан Михајловски | 4NEWS",
+      "title": "СДСМ ја поддржува идејата на ЛДП: Веќе дадовме предлог закон за двојно државјанство | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/98e658d687/kiro-gligorov-go-imase-001-jas-go-imav-101-35-godini-nezavisnost-niz-ocite-na-novinarot-goran-mihajlovski.html",
-      "image": "https://4news.mk/wp-content/uploads/2026/09/screenshot_7-4-1024x605.avif",
-      "date": "Tue, 08 Sep 2026 20:08:43 +0000"
+      "url": "https://time.mk/c/142e2bda97/sdsm-ja-poddrzuva-idejata-na-ldp-veke-dadovme-predlog-zakon-za-dvojno-drzavjanstvo.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2022/09/ÑÐ´ÑÐ¼-sdsm-sedishte-2.jpg",
+      "date": "Wed, 09 Sep 2026 08:40:45 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "НАЈАВА И ПРЕДУПРЕДУВАЊЕ ЗА НЕВРЕМЕ ВО МАКЕДОНИЈА: Атмосферата над нас започнува да се дестабилизира, а со тоа се ближи и крајот на летото | Градина",
+      "title": "„Тошковски го штити кумашинот Јанушев“, вели СДСМ | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/b0df78e4e3/najava-i-predupreduvanje-za-nevreme-vo-makedonija-atmosferata-nad-nas-zapocnuva-da-se-destabilizira-a-so-toa-se-blizi-i-krajot-na-letoto.html",
-      "image": "https://gradina.mk/wp-content/uploads/2026/09/ECMWF-MODEL-SLAVCO-METEO-MK-17-150x150.jpg",
-      "date": "Wed, 09 Sep 2026 04:48:35 +0000"
+      "url": "https://time.mk/c/53c8518fc2/toskovski-go-stiti-kumasinot-janusev-veli-sdsm.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/82356/conversions/text-max.jpg",
+      "date": "Wed, 09 Sep 2026 08:58:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Трпески: На македонските банкноти се најдоа симболи што го отсликуваат нашиот идентитет | 4NEWS",
+      "title": "Каматата оди на 2,50%: ЕЦБ пред нов потег, но дилемата е дали тука ќе застане | Пари",
       "description": "",
-      "url": "https://time.mk/c/309ffd383f/trpeski-na-makedonskite-banknoti-se-najdoa-simboli-sto-go-otslikuvaat-nasiot-identitet.html",
-      "image": "https://4news.mk/wp-content/uploads/2026/09/trpeski-2.avif",
-      "date": "Tue, 08 Sep 2026 20:36:41 +0000"
+      "url": "https://time.mk/c/fccb9ab44d/kamatata-odi-na-2-50-ecb-pred-nov-poteg-no-dilemata-e-dali-tuka-ke-zastane.html",
+      "image": "http://pari.com.mk/wp-content/uploads/2022/07/ecb1.jpg",
+      "date": "Wed, 09 Sep 2026 09:12:45 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Македонија во Вертикалниот коридор – енергетски центар на мапа, инфраструктурата допрва се довршува | Паноптикум",
+      "title": "ОБЈАВЕНИ ОФИЦИЈАЛНИТЕ ДАТУМИ ЗА ЗИМСКОТО СМЕТАЊЕ НА ВРЕМЕТО: До 2031 година ќе менуваме стрелки | Фактор",
       "description": "",
-      "url": "https://time.mk/c/91f0da72bd/makedonija-vo-vertikalniot-koridor-energetski-centar-na-mapa-infrastrukturata-doprva-se-dovrsuva.html",
-      "image": "https://panoptikum.mk/wp-content/uploads/gasen-ingterkonektor-makedonija-grcija.webp",
-      "date": "Tue, 08 Sep 2026 18:34:54 +0000"
+      "url": "https://time.mk/c/dbed55263f/objaveni-oficijalnite-datumi-za-zimskoto-smetanje-na-vremeto-do-2031-godina-ke-menuvame-strelki.html",
+      "image": "https://faktor.mk/media/main/2026/09/20260909084244.jpg",
+      "date": "Wed, 09 Sep 2026 06:44:35 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Многу се плашам од овој човек“ – Македонски државјанин осомничен дека злоставувал девојче во авион | Рацин",
+      "title": "Битолчанецот Михаил Николовски (15) спаси бугарско семејство да не се удави во Егејско море | Фокус",
       "description": "",
-      "url": "https://time.mk/c/f74e85f4f7/mnogu-se-plasam-od-ovoj-covek-makedonski-drzavjanin-osomnicen-deka-zlostavuval-devojce-vo-avion.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/09/avion-sedishta-719x480.jpg?x62580",
-      "date": "Wed, 09 Sep 2026 04:22:47 +0000"
+      "url": "https://time.mk/c/2bb224cdfa/bitolcanecot-mihail-nikolovski-15-spasi-bugarsko-semejstvo-da-ne-se-udavi-vo-egejsko-more.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/09/Screenshot_9-9-2026_10726_www.facebook.com.jpeg",
+      "date": "Wed, 09 Sep 2026 08:20:43 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Хаос пред парламентот во Тирана, пратениците гаѓани со јајца, приведени неколку демонстранти | Вечер Прес",
+      "title": "Министерот за надворешни работи на БиХ протера двајца српски дипломати — едниот не ни работел во амбасадата | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/a16bdd91ee/haos-pred-parlamentot-vo-tirana-pratenicite-gagjani-so-jajca-privedeni-nekolku-demonstranti.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/09/screenshot-2026-09-08-230619.jpg",
-      "date": "Tue, 08 Sep 2026 21:38:49 +0000"
+      "url": "https://time.mk/c/0deec1fb39/ministerot-za-nadvoresni-raboti-na-bih-protera-dvajca-srpski-diplomati-edniot-ne-ni-rabotel-vo-ambasadata.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2024/05/elmedin-konakovic-e1788946093241-300x209.jpg",
+      "date": "Wed, 09 Sep 2026 09:26:46 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Ангела Меркел за успехот на AfD: Шокантно! | Фокус",
+      "title": "Вајдел до Мерц: Ја туркате Германија во национален банкрот | Фокус",
       "description": "",
-      "url": "https://time.mk/c/6ddcd99023/angela-merkel-za-uspehot-na-afd-sokantno.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/09/angela-merkel-o-uspjehu-afd-a-sokantno-merkel_6aa06cfe4ea0a.jpg",
-      "date": "Tue, 08 Sep 2026 20:36:40 +0000"
+      "url": "https://time.mk/c/b61af7fa56/vajdel-do-merc-ja-turkate-germanija-vo-nacionalen-bankrot.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/09/20260909112156_big_730x400_38.webp",
+      "date": "Wed, 09 Sep 2026 09:42:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Видео) Погодени ирански танкери, еден потона: Иран испали ракетен бараж кон Јордан | Макфакс",
+      "title": "Иран со дронови нападна американска база во Јордан | Фокус",
       "description": "",
-      "url": "https://time.mk/c/4475eefdc2/video-pogodeni-iranski-tankeri-eden-potona-iran-ispali-raketen-baraz-kon-jordan.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/screenshot-xcentcom.webp",
-      "date": "Wed, 09 Sep 2026 04:30:48 +0000"
+      "url": "https://time.mk/c/4ec99fcbaa/iran-so-dronovi-napadna-amerikanska-baza-vo-jordan.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/09/americka_baza_u-jordanu-1.jpg",
+      "date": "Wed, 09 Sep 2026 07:31:00 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Химната ќе се интонира и во училиштата во Гази Баба, одлуката уште не е официјално донесена | Фактор",
+      "title": "📷 ВЕДНАШ ПО КОНЦЕРТОТ СЕ ФАТИЛЕ ЗА МЕТЛИТЕ Чистењето околу стадионот траело до рано утрово | +инфо",
       "description": "",
-      "url": "https://time.mk/c/7f0d2febbd/himnata-ke-se-intonira-i-vo-ucilistata-vo-gazi-baba-odlukata-uste-ne-e-oficijalno-donesena.html",
-      "image": "https://faktor.mk/media/main/2013/03/f8c53b87-5088-4045-997a-44ba64968683.jpg",
-      "date": "Tue, 08 Sep 2026 15:18:46 +0000"
+      "url": "https://time.mk/c/43ed23dbcc/vednas-po-koncertot-se-fatile-za-metlite-cistenjeto-okolu-stadionot-traelo-do-rano-utrovo.html",
+      "image": "https://plusinfo.mk/wp-content/uploads/2026/09/cistenje-park-geta.jpg",
+      "date": "Wed, 09 Sep 2026 09:54:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Ѓорѓиевски на AERO Street Food Festival: Скопје е најубаво кога улиците се исполнети со музика, насмевки и заедништв | Скопје1",
+      "title": "Утре од 9 часот без вода три улици во Чаир | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/3e6826c301/gjorgjievski-na-aero-street-food-festival-skopje-e-najubavo-koga-ulicite-se-ispolneti-so-muzika-nasmevki-i-zaednistv.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84808/conversions/text-max.jpg",
-      "date": "Tue, 08 Sep 2026 07:28:35 +0000"
+      "url": "https://time.mk/c/28e12fb225/utre-od-9-casot-bez-voda-tri-ulici-vo-cair.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/36513/conversions/bez-voda-max.jpg",
+      "date": "Wed, 09 Sep 2026 09:26:46 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Пронајдени стебла канабис при контрола меѓу струшките села Татеши и Мислодежда | Охрид1",
+      "title": "ОД АВТОР НА ЛЕТОЦИ ЗА ДУИ, ДИРЕКТОР НА „ЛОТАРИЈА“, ДО ПРВООБВИНЕТ ВО „ШУТКА“ Кој е Перпарим Бајрами, бараниот со потерница, кој денеска сам се пријави на Блаце | +инфо",
       "description": "",
-      "url": "https://time.mk/c/9670d0d7a6/pronajdeni-stebla-kanabis-pri-kontrola-megju-struskite-sela-tatesi-i-mislodezda.html",
-      "image": "https://ohrid1.com/wp-content/uploads/2025/06/kanabis.jpeg",
-      "date": "Tue, 08 Sep 2026 20:04:36 +0000"
+      "url": "https://time.mk/c/b99f81fed2/od-avtor-na-letoci-za-dui-direktor-na-lotarija-do-prvoobvinet-vo-sutka-koj-e-perparim-bajrami-baraniot-so-poternica-koj-deneska-sam-se-prijavi-na-blace.html",
+      "image": "https://plusinfo.mk/wp-content/uploads/2026/09/perparim-bajrami-kreirana-fotografija.jpg",
+      "date": "Wed, 09 Sep 2026 09:42:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Пожар избувна во објект на фабриката „Истра“ во Кочани | Фактор",
+      "title": "26-годишник од Битола затекнат како вози без возачка дозвола | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/3bac8d05d2/pozar-izbuvna-vo-objekt-na-fabrikata-istra-vo-kocani.html",
-      "image": "",
-      "date": "Tue, 08 Sep 2026 18:28:38 +0000"
+      "url": "https://time.mk/c/0f6c7a8b95/26-godisnik-od-bitola-zateknat-kako-vozi-bez-vozacka-dozvola.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/83432/conversions/text-max.jpg",
+      "date": "Wed, 09 Sep 2026 08:56:37 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Коњановски: Независноста не е само датум од историјата, туку секојдневна борба, грижа и надеж | Булевар",
+      "title": "Правни студии Битола и Криминалистика – најатрактивни студиски програми на првиот уписен рок УКЛО | Тера",
       "description": "",
-      "url": "https://time.mk/c/c1ab7b3847/konjanovski-nezavisnosta-ne-e-samo-datum-od-istorijata-tuku-sekojdnevna-borba-griza-i-nadez.html",
-      "image": "https://bulevar.mk/wp-content/uploads/2026/09/img_8794-1024x683.jpeg",
-      "date": "Tue, 08 Sep 2026 16:50:51 +0000"
+      "url": "https://time.mk/c/5f3d0aa5e5/pravni-studii-bitola-i-kriminalistika-najatraktivni-studiski-programi-na-prviot-upisen-rok-uklo.html",
+      "image": "https://tera.mk/wp-content/uploads/2026/09/uklo-nam-150x150.jpg",
+      "date": "Wed, 09 Sep 2026 09:24:35 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Затворениците во КПД Прилеп изработија нови боксови за службените кучиња | 4NEWS",
+      "title": "ВМРО-ДПМНЕ: Општина Битола за една година реализираше 81 проект финансиран од Владата | Press24",
       "description": "",
-      "url": "https://time.mk/c/4a0f66a6e4/zatvorenicite-vo-kpd-prilep-izrabotija-novi-boksovi-za-sluzbenite-kucinja.html",
-      "image": "https://cmsnebula.eu-central-1.linodeobjects.com/cdf7130d-94d0-4983-ba14-4bb301cd463a/$387215e3-c0c8-4179-8f98-5f7568008a12/799392546-1378255024481800-3273929209962553393-n-1280x720.avif",
-      "date": "Tue, 08 Sep 2026 06:44:42 +0000"
+      "url": "https://time.mk/c/51628c95de/vmro-dpmne-opstina-bitola-za-edna-godina-realizirase-81-proekt-finansiran-od-vladata.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/69745.jpg",
+      "date": "Wed, 09 Sep 2026 07:48:46 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ФОТО+ВИДЕО | Чистеа наместо да седат на прославата — посетители на арената „Тодор Проески“ начекаа валкани седишта, измет и мртва птица | Слободен Печат",
+      "title": "ФОТО: Во Загреб одбележани 35 години од независноста | Нова Македонија",
       "description": "",
-      "url": "https://time.mk/c/6a69596b64/foto-video-cistea-namesto-da-sedat-na-proslavata-posetiteli-na-arenata-todor-proeski-nacekaa-valkani-sedista-izmet-i-mrtva-ptica.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/Neciski-sedista-na-stadion-1-300x160.jpg",
-      "date": "Tue, 08 Sep 2026 19:50:53 +0000"
+      "url": "https://time.mk/c/ea76f902ba/foto-vo-zagreb-odbelezani-35-godini-od-nezavisnosta.html",
+      "image": "https://novamakedonija.com.mk/wp-content/uploads/2026/09/8-septemvri-vo-zagreb-3-150x150.jpg",
+      "date": "Wed, 09 Sep 2026 09:32:37 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Стефан Давидовски: Македонија и македонскиот народ знаат да станат од сите падови | 4NEWS",
+      "title": "„Бог на колежот“ на 34. МФКТ „Ристо Шишков“ во Струмица | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/35572b9bf2/stefan-davidovski-makedonija-i-makedonskiot-narod-znaat-da-stanat-od-site-padovi.html",
-      "image": "https://4news.mk/wp-content/uploads/2026/09/screenshot_1-5-1024x672.avif",
-      "date": "Tue, 08 Sep 2026 22:12:36 +0000"
+      "url": "https://time.mk/c/3e9f988ab9/bog-na-kolezot-na-34-mfkt-risto-siskov-vo-strumica.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/bog-na-kolezot.webp",
+      "date": "Wed, 09 Sep 2026 09:34:52 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Босанката Амела на интервју за работа",
+      "description": "Се испонавреди девојката, па нема да трпи таа некој да ја зафркава и да ѝ се потсмева.",
+      "url": "https://motika.mk/bosankata-amela-na-intervju-za-rabota/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/09/bosanka-1200x675.jpg",
+      "date": "Wed, 09 Sep 2026 09:51:04 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Човекот си сака да има што да фати, па си направил и песна за тоа",
+      "description": "Хумористичните песни се правеле и ќе се прават во нашиот регион, така што само позитивно, никој не треба да се навреди од ова.",
+      "url": "https://motika.mk/covekot-si-saka-da-ima-sto-da-fati-pa-si-napravil-i-pesna-za-toa/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/09/25cc96109e334dbf9f802508305bec05.jpg",
+      "date": "Wed, 09 Sep 2026 09:46:27 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Порака до премиерот од една кочанчанка",
+      "description": "Играњето расипан телефон, пренесувањето делумни информации и боењето на истите во розево се голем проблем на луѓето на раководни функции. Она што му го предлага всушност не е лошо и треба да го направи не само во Кочани, туку и во цела Македонија.",
+      "url": "https://motika.mk/poraka-do-premierot-od-edna-kocancanka/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/09/kocancanka-1200x675.jpg",
+      "date": "Wed, 09 Sep 2026 09:41:58 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Анкета: Дали младите знаат зошто го празнуваме 8-ми септември",
+      "description": "Држава со ваква младина, не мора да се грижи за својата иднина. Иднина нема. Да не знаеш кого попрво да обвиниш за ова. Дали школскиот систем, дали родителите дома, дали самите ученици, дали мобилните телефони што ги затупуваат. Со еден збор, страшно.",
+      "url": "https://motika.mk/anketa-dali-mladite-znaat-zosto-go-praznuvame-8-mi-septemvri/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/09/9a4ca4a8a45546ecbf4839f60c62ef25.jpg",
+      "date": "Wed, 09 Sep 2026 09:40:05 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Харизматичен Црногорски музичар гостува на телевизија",
+      "description": "Водителката не знае што ја снашло :). Друг пат ќе пази какви будали кани во емисија.",
+      "url": "https://motika.mk/harizmaticen-crnogorski-muzicar-gostuva-na-televizija/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/09/9bb94f489b5c4b769c099f22bd686409.jpg",
+      "date": "Wed, 09 Sep 2026 08:56:12 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Што е поубаво, на свадбата да пее пејачка или пејач?",
+      "description": "Зависи и од пејачката. Оваа на пример кога ја гледаш и ти текнува на млекото што се продаваше на времето во најлончиња. Е па две такви.",
+      "url": "https://motika.mk/sto-e-poubavo-na-svadbata-da-pee-pejacka-ili-pejac/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/09/8b9d39f0c5e84067a6c8a6ea4ebc5523.jpg",
+      "date": "Wed, 09 Sep 2026 08:48:27 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "На одмор во Пештани",
+      "description": "Ваква привилегија нема ниту во најскапите туристички места во светот, само внимавајте да не ве изгази некоја кола.",
+      "url": "https://motika.mk/na-odmor-vo-pestani/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/09/19367670ddb84f65bba493624a1b4be3.jpg",
+      "date": "Wed, 09 Sep 2026 08:44:28 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Ноќниот живот во Стокхолм после полноќ",
+      "description": "Улиците се преполни со прекрасни плавуши, видно расположени за муабет и за дружење.",
+      "url": "https://motika.mk/nokniot-zivot-vo-stokholm-posle-polnok/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/09/47602cfd961d426c83c087f077aea666.jpg",
+      "date": "Wed, 09 Sep 2026 07:22:22 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Која е вашата порака до идните генерации?",
+      "description": "Не идете!",
+      "url": "https://motika.mk/koja-e-vasata-poraka-do-idnite-generacii/",
+      "image": "https://motika.mk/wp-content/uploads/2026/09/09/378f5f12535c40c2973d4ea86a95d288.jpg",
+      "date": "Wed, 09 Sep 2026 07:19:19 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Врата во вечноста под Каиро: Археолозите најдоа гробница со џиновска врата",
+      "description": "Ископувањата во древното место за погреби Сакара отворија прозорец кон настани стари околу 4000 години. Во заедничка експедиција на Врховниот совет за древности и Фондот Захи Хавас, истражувачите открија скриена гробница чиј влез бил затворен со масивна лажна врата од розов гранит. Монолитот, висок речиси четири и пол метри, е првата градба од ваков тип ...",
+      "url": "https://motika.mk/vrata-vo-vecnosta-pod-kairo-arheolozite-najdoa-grobnica-so-zinovska-vrata/",
+      "image": "https://motika.io/media/2026/09/09/img-c47dda84-050d-4c7a-b9d4-c9b2a830d8b5-1.jpg",
+      "date": "Wed, 09 Sep 2026 07:03:11 +0000"
     }
   ],
-  "de": [
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "DDownload mit eigener Browser-Erweiterung: Ergänzung des Ökosystems oder Kampfansage an JDownloader 2?",
-      "description": "Der Sharehoster DDownload hat für Chrome und Firefox kürzlich eine Browser-Erweiterung eingeführt. Was steckt wohl dahinter? Der Artikel DDownload mit eigener Browser-Erweiterung: Ergänzung des Ökosystems oder Kampfansage an JDownloader 2? erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/szene/warez/sharehoster/ddownload-mit-eigener-browser-erweiterung-ergaenzung-des-oekosystems-oder-kampfansage-an-jdownloader-2-333332.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/ddownload-mit-eigener-browser-erweiterung-ergaenzung-des-oekosystems-oder-kampfansage-an-jdownloader-2",
-      "date": "Tue, 08 Sep 2026 13:26:46 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Voices38 brachte fünf Denuvo-Cracks auf einen Streich",
-      "description": "Nach 21 Tagen Pause brachte Voices38 gleich fünf Denuvo-Cracks heraus. Seine Tools sind mittlerweile höchst effektiv, wie es aussieht. Der Artikel Voices38 brachte fünf Denuvo-Cracks auf einen Streich erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/denuvo/voices38-brachte-fuenf-denuvo-cracks-auf-einen-streich-333325.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/voices38-brachte-fuenf-denuvo-cracks-auf-einen-streich",
-      "date": "Mon, 07 Sep 2026 16:45:09 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "EU-Reparaturpflicht: Hersteller pfeifen auf Reparaturinfos",
-      "description": "EU-Reparaturpflicht für Smartphones: Bei über 80 Prozent der Modelle fehlen brauchbare Reparaturinfos. Warum Hersteller in der Kritik stehen. Der Artikel EU-Reparaturpflicht: Hersteller pfeifen auf Reparaturinfos erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/smartphones/eu-reparaturpflicht-smartphones-reparaturinfos-333324.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/eu-reparaturpflicht-smartphones-reparaturinfos",
-      "date": "Mon, 07 Sep 2026 16:24:34 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Sicherheits-Tools für Server: Clawforge hilft, wenn Fail2ban und CrowdSec an ihre Grenzen kommen",
-      "description": "Das Open-Source-Projekt Clawforge verbindet Sicherheitsereignisse aus mehreren Diensten und bewertet sie anhand eigener Regeln. Der Artikel Sicherheits-Tools für Server: Clawforge hilft, wenn Fail2ban und CrowdSec an ihre Grenzen kommen erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/softwareentwicklung/sicherheits-tools-fuer-server-clawforge-hilft-wenn-fail2ban-und-crowdsec-an-ihre-grenzen-kommen-333316.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/sicherheits-tools-fuer-server-clawforge-hilft-wenn-fail2ban-und-crowdsec-an-ihre-grenzen-kommen",
-      "date": "Mon, 07 Sep 2026 13:51:54 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Xbox Cloud Gaming: Microsoft setzt dem Spielespaß ein Zeitlimit",
-      "description": "Xbox Cloud Gaming bekommt ein Zeitlimit: Microsoft beschränkt Game Pass auf 5, 10 oder 15 Stunden Cloud-Spielzeit pro Monat. Der Artikel Xbox Cloud Gaming: Microsoft setzt dem Spielespaß ein Zeitlimit erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/gaming/xbox-cloud-gaming-zeitlimit-game-pass-333309.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/xbox-cloud-gaming-zeitlimit-game-pass",
-      "date": "Sun, 06 Sep 2026 14:55:28 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Preisanalyse: Bahnsparer im Vergleich mit FareWeave",
-      "description": "Bahnsparer oder FareWeave? Dieser Vergleich zeigt die Unterschiede zwischen einer mobilen Bahn-App und einer umfassenderen Reiseplanung. Der Artikel Preisanalyse: Bahnsparer im Vergleich mit FareWeave erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/softwareentwicklung/preisanalyse-bahnsparer-im-vergleich-mit-fareweave-333300.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/preisanalyse-bahnsparer-im-vergleich-mit-fareweave",
-      "date": "Sun, 06 Sep 2026 08:42:43 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Firefox installiert KI ungefragt",
-      "description": "Firefox installiert eine lokale KI-Komponenten für die Autofill-Funktion auf dem Rechner. Welche Aufgabe hat TinyBERT, wie wird man ihn los? Der Artikel Firefox installiert KI ungefragt erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/it-sicherheit/datenschutz/firefox-installiert-ki-ungefragt-333290.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/firefox-installiert-ki-ungefragt",
-      "date": "Sun, 06 Sep 2026 07:35:08 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "IPTV-Streaming: 68-Jähriger zu 6,5 Jahren Haft verurteilt",
-      "description": "Ein Rentner aus dem Nordwesten Großbritanniens wurde wegen des Angebots von IPTV-Streaming zu 6,5 Jahren verurteilt. Der Artikel IPTV-Streaming: 68-Jähriger zu 6,5 Jahren Haft verurteilt erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/rechtssachen/iptv-streaming-68-jaehriger-zu-65-jahren-haft-verurteilt-333287.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/iptv-streaming-68-jaehriger-zu-65-jahren-haft-verurteilt",
-      "date": "Sat, 05 Sep 2026 12:23:11 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Illegales Streaming in Schweden rückläufig, die Ursachen sind unklar",
-      "description": "Laut der neuen Analyse der Marktforscher von Mediavision ist illegales Streaming in Schweden um 27% zurückgegangen. Die Gründe sind unklar. Der Artikel Illegales Streaming in Schweden rückläufig, die Ursachen sind unklar erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/illegales-streaming-in-schweden-ruecklaeufig-die-ursachen-sind-unklar-333281.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/illegales-streaming-in-schweden-ruecklaeufig-die-ursachen-sind-unklar",
-      "date": "Fri, 04 Sep 2026 08:40:17 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Film-Streaming im September 2026",
-      "description": "Illegale Portal für das Film-Streaming im September 2026. Die Szene ist einem wachsenden Druck der Rechteinhaber ausgesetzt. Wer ist noch da? Der Artikel Film-Streaming im September 2026 erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/listen/film-streaming-im-september-2026-333272.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/film-streaming-im-september-2026",
-      "date": "Thu, 03 Sep 2026 18:35:46 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Führerscheine im Dark Web: FBI jagt die Quelle von 153 Mio. Datensätzen",
-      "description": "Führerscheine im Dark Web: 153 Millionen Datensätze auf Nexus aufgetaucht. Das FBI untersucht, woher die sensiblen Identitätsdaten stammen. Der Artikel Führerscheine im Dark Web: FBI jagt die Quelle von 153 Mio. Datensätzen erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/szene/dark-commerce/fuehrerscheine-im-dark-web-333267.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/fuehrerscheine-im-dark-web",
-      "date": "Thu, 03 Sep 2026 15:24:41 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Neue Underground-Economy Crimebase ging ans Netz",
-      "description": "Im Internet gibt es mit crimebase.to eine neue Underground-Economy. Wir haben dazu kürzlich den Admin befragt. Der Artikel Neue Underground-Economy Crimebase ging ans Netz erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/interviews/neue-underground-economy-crimebase-ging-ans-netz-333257.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/neue-underground-economy-crimebase-ging-ans-netz",
-      "date": "Thu, 03 Sep 2026 10:32:14 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "SMS-Blaster: Rollender Funkmast schleuste Fake-SMS direkt aufs Handy",
-      "description": "SMS-Blaster: Ein rollender Funkmast schleuste Fake-SMS auf Handys. Die britische Polizei beschlagnahmte erstmals solche Betrugstechnik. Der Artikel SMS-Blaster: Rollender Funkmast schleuste Fake-SMS direkt aufs Handy erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/it-sicherheit/sms-blaster-rollender-funkmast-fake-sms-333244.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/sms-blaster-rollender-funkmast-fake-sms",
-      "date": "Wed, 02 Sep 2026 15:19:47 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Navigationssoftware-Download und Portable Apps",
-      "description": "Was sind die besten Quellen für einen Navigationssoftware-Download, Kartenupdates etc. im September 2026? Welche Portale sind noch aktiv? Der Artikel Navigationssoftware-Download und Portable Apps erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/listen/navigationssoftware-download-und-portable-apps-333235.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/navigationssoftware-download-und-portable-apps",
-      "date": "Wed, 02 Sep 2026 12:38:20 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Portale für das Live Fernseh Streaming im September 2026",
-      "description": "Webseiten für das Live Fernseh Streaming im September 2026. Wer ist noch alles verfügbar? Und was bieten sie im Detail an? Der Artikel Portale für das Live Fernseh Streaming im September 2026 erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/listen/portale-fuer-das-live-fernseh-streaming-im-september-2026-333225.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/portale-fuer-das-live-fernseh-streaming-im-september-2026",
-      "date": "Tue, 01 Sep 2026 19:42:25 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "VPN-Apps mit Trackern: 85 Prozent spähen ihre Nutzer aus",
-      "description": "VPN-Apps mit Trackern: Proton hat mehr als 7.000 VPNs untersucht. 85 Prozent der US-Apps enthalten Tracker, einige erfassen den Standort. Der Artikel VPN-Apps mit Trackern: 85 Prozent spähen ihre Nutzer aus erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/it-sicherheit/vpn-apps-mit-trackern-333227.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/vpn-apps-mit-trackern",
-      "date": "Tue, 01 Sep 2026 14:57:00 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Anime-Downloads im September 2026",
-      "description": "Foren, Blogs und Portale für Anime-Downloads im September 2026. Wer ist schon wieder weg? Und wer ist noch verfügbar im WWW? Der Artikel Anime-Downloads im September 2026 erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/listen/anime-downloads-im-september-2026-333218.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/anime-downloads-im-september-2026",
-      "date": "Tue, 01 Sep 2026 13:15:05 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Dokumentations-Download im August 2026",
-      "description": "Dokumentations-Download im August 2026. Wir haben uns mal wieder für euch umgeschaut, wo man sich online Dokumentationen besorgen kann. Der Artikel Dokumentations-Download im August 2026 erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/listen/dokumentations-download-im-august-2026-333209.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/dokumentations-download-im-august-2026",
-      "date": "Mon, 31 Aug 2026 16:40:07 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Dokumentationen streamen im August 2026",
-      "description": "Dokumentationen streamen: Welche Vertreter sind im Spätsommer diesen Jahres noch online? Wer davon ist eigentlich empfehlenswert? Der Artikel Dokumentationen streamen im August 2026 erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/listen/dokumentationen-streamen-im-august-2026-333197.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/dokumentationen-streamen-im-august-2026",
-      "date": "Mon, 31 Aug 2026 10:01:32 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Sony: digitale Spiele sind kein Eigentum der Käufer!",
-      "description": "Sony argumentierte vor einem Gericht, digitale Spiele seien kein Eigentum. Man kaufe lediglich das Recht darauf, sie zu benutzen. Der Artikel Sony: digitale Spiele sind kein Eigentum der Käufer! erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/gaming/sony-digitale-spiele-sind-kein-eigentum-der-kaeufer-333191.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/sony-digitale-spiele-sind-kein-eigentum-der-kaeufer",
-      "date": "Sun, 30 Aug 2026 19:25:26 +0000"
-    }
-  ],
+  "de": [],
   "eng": [
     {
       "category": "eng",
@@ -638,6 +457,15 @@
     {
       "category": "eng",
       "source": "PCWorld",
+      "title": "Turn one AI prompt into multiple answers with this $55.30 lifetime subscription",
+      "description": "TL;DR: Compare responses from 20+ AI models , including ChatGPT, Claude, Gemini, and DeepSeek, with a lifetime ChatPlayground AI Unlimited subscription for $55.30 through September 10 (MSRP $619). Using AI often means playing model roulette — ask one chatbot for an answer, open another when it falls short, then repeat the process until you get something useful. ChatPlayground AI takes a less chaotic approach by letting you send one prompt to multiple AI models and compare their responses side by",
+      "url": "https://www.pcworld.com/article/3228731/turn-one-ai-prompt-into-multiple-answers-with-this-55-30-lifetime-subscription.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3228731-0-72045400-1788940888-ChatPlayground.jpg?quality=50&strip=all",
+      "date": "Wed, 09 Sep 2026 08:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
       "title": "Why I’m a standing desk convert: 6 ways it leveled up my life",
       "description": "I’m a standing desk evangelist. Ask anyone in my life who’s a desk worker and they’ll tell you that I’ve badgered them about switching. Whether it’s expensive or affordable , it doesn’t matter—just get one! But I wasn’t always like this. When I first tried standing desks over a decade ago, I didn’t approve. My feet ached , my setup was suboptimal, I didn’t feel the benefits, and it was a hell of a lot more work than just putting my feet up while I tapped away at my PC. But now? I’d never go back",
       "url": "https://www.pcworld.com/article/2775029/why-im-a-standing-desk-convert-6-ways-it-leveled-up-my-life.html",
@@ -715,15 +543,6 @@
       "url": "https://www.pcworld.com/article/3224374/keep-hackers-out-of-your-whatsapp-account-with-these-3-steps.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3224374-0-42641000-1788879648-whatsapp-892926_1280.jpg?quality=50&strip=all",
       "date": "Tue, 08 Sep 2026 15:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "GMKtec NucBox K17 review: This Lunar Lake mini-PC punches above its price",
-      "description": "At a glance Expert's Rating Pros Arc 130V is faster than the older Radeon 680M graphics card PCIe 4.0 SSD reads at over 7,000MB/s USB4 leads the way at 40Gbit/s, plus six USB-A ports Two HDMI 2.1 outputs, one of which supports 8K at 60Hz Windows 11 Pro 25H2 pre-installed Cons 16GB of RAM permanently integrated and not expandable Only one USB-C port (USB4) Eight threads limit performance under parallel loads Our Verdict The NucBox K17 brings Intel’s Lunar Lake technology to the under-$700 price b",
-      "url": "https://www.pcworld.com/article/3223786/gmktec-nucbox-k17-review.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3223786-0-49101100-1788876033-Test-GMKtec-NucBox-K17.png",
-      "date": "Tue, 08 Sep 2026 14:00:00 +0000"
     }
   ],
   "starwars": [
@@ -897,106 +716,278 @@
       "url": "https://starwars-union.de/radio-tatooine-ueber-die-grossen-d23-themen/",
       "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/08/Neues-Projekt-1200x675.jpg",
       "date": "Fri, 21 Aug 2026 13:27:53 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Sign in C-3PO Is Evil?! Droids Gone Bad! | Star Wars Animation | Star Wars Kids",
-      "description": "The Star Wars galaxy is full of droids! Some are kind and helpful, like R2-D2, and some...not so much. Check out this fun compilation featuring droids that fight for the Dark Side, like battle droids and Imperial probe droids, and the Jedi who battle against them! The post Sign in C-3PO Is Evil?! Droids Gone Bad! | Star Wars Animation | Star Wars Kids appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/sign-in-c-3po-is-evil-droids-gone-bad-star-wars-the-clone-wars-star-wars-kids/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/maxresdefault-12-300x169.jpg",
-      "date": "Mon, 07 Sep 2026 23:08:08 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Skywalking Through Neverland #573: The Mandalorian and Grogu Cast Interviews – Misty Rosas, Richard Cetrone, and Donald Mills",
-      "description": "Join Skywalking Through Neverland duo Sarah and Richard for their latest episode (#573) discussing all the latest Star Wars and Disney news. The post Skywalking Through Neverland #573: The Mandalorian and Grogu Cast Interviews – Misty Rosas, Richard Cetrone, and Donald Mills appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/skywalking-through-neverland-573-the-mandalorian-and-grogu-cast-interviews-misty-rosas-richard-cetrone-and-donald-mills/",
-      "image": "",
-      "date": "Mon, 07 Sep 2026 16:53:35 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Mike Quinn Attending Echo Base Live on October 10th, 2026",
-      "description": "Droid performer Mike Quinn, best known for operating and performing resistance pilot Nien Nunb, is the seventh guest announced for Look sir, droids! Echo Base Live, Europe's premiere Star Wars collectors event, taking place in Redditch on October 10th, 2026. The post Mike Quinn Attending Echo Base Live on October 10th, 2026 appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/events/articles/mike-quinn-attending-echo-base-live-on-october-10th-2026/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/Echo-Base-Live-Look-Sir-Droids-Mike-Quinn-Sept26-300x201.jpg",
-      "date": "Mon, 07 Sep 2026 05:58:42 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Making Tracks #265: Wheelbarrow of credits: With guests Lateef Crowder and Jonny Coyne from Rebel Scum Con III",
-      "description": "Fantha Tracks Radio is back with episode 265 of their flagship show Making Tracks, discussing all the latest Star Wars news. The post Making Tracks #265: Wheelbarrow of credits: With guests Lateef Crowder and Jonny Coyne from Rebel Scum Con III appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/making-tracks-265-wheelbarrow-of-credits-with-guests-lateef-crowder-and-jonny-coyne-from-rebel-scum-con-iii/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2018/05/Making-Tracks-300x201.jpg",
-      "date": "Mon, 07 Sep 2026 05:25:04 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "This Weeks Publications – 7th September 2026",
-      "description": "Welcome to week 36 of 2026 and our list detailing what new publications to expect from a galaxy far, far away. The post This Weeks Publications – 7th September 2026 appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/literature/articles/this-weeks-publications-7th-september-2026/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/Poe-Dameron-Omnibus-HC-204x300.jpeg",
-      "date": "Mon, 07 Sep 2026 04:01:11 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Ahsoka Protects the Jedi Younglings from Grievous! | Star Wars: The Clone Wars | Star Wars Kids",
-      "description": "Ahsoka Tano and the Jedi younglings must join forces with the unpredictable pirate Hondo Ohnaka after General Grievous attacks. Stream Star Wars: The Clone Wars on Disney+. The post Ahsoka Protects the Jedi Younglings from Grievous! | Star Wars: The Clone Wars | Star Wars Kids appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/ahsoka-protects-the-jedi-younglings-from-grievous-star-wars-the-clone-wars-star-wars-kids/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/maxresdefault-10-300x169.jpg",
-      "date": "Sun, 06 Sep 2026 23:07:16 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Inside the ILM Art Department: ‘Moana’",
-      "description": "ILM.com is showcasing artwork specially chosen by members of the ILM Art Department. In this installment of a continuing series, two artists from the London studio share insights about their work on the 2026 Amazon/MGM Studios production, Masters of the Universe. The post Inside the ILM Art Department: ‘Moana’ appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/inside-the-ilm-art-department-moana/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/moana-aaron-mcbride-ilm-concept-art-vfx-featured-Sept26-300x201.jpg",
-      "date": "Sun, 06 Sep 2026 20:45:54 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Star Wars Ambiance: Anakin Building C-3PO | 10 Hours for Work, Study & Sleep",
-      "description": "Step into Anakin Skywalker's home workshop on Tatooine as he tinkers away on his protocol droid, C-3PO — a scene inspired by Star Wars: Episode I – The Phantom Menace. The post Star Wars Ambiance: Anakin Building C-3PO | 10 Hours for Work, Study & Sleep appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/star-wars-ambiance-anakin-building-c-3po-10-hours-for-work-study-sleep/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/maxresdefault-11-300x169.jpg",
-      "date": "Sun, 06 Sep 2026 20:13:00 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Coffee With Kenobi #861: All About Galaxy Tours, with Davin Anderson",
-      "description": "Join Dan Zehr and co for episode 861 of Coffee With Kenobi. The post Coffee With Kenobi #861: All About Galaxy Tours, with Davin Anderson appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/coffee-with-kenobi-861-all-about-galaxy-tours-with-davin-anderson/",
-      "image": "",
-      "date": "Sun, 06 Sep 2026 19:41:54 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Star Wars: New Jedi Order and Dave Filoni’s Untitled Film Are Moving Forward",
-      "description": "The September 3rd issue of Production Weekly mentions both Star Wars: New Jedi Order, starring Daisy Ridley as Rey Skywalker, and Dave Filoni’s untitled Star Wars movie as projects in-development, suggesting that there's movement on Lucasfilm's movie slate. The post Star Wars: New Jedi Order and Dave Filoni’s Untitled Film Are Moving Forward appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/star-wars-new-jedi-order-and-dave-filonis-untitled-film-are-moving-forward/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2024/10/Daisy-Ridley-Rey-Skywalker-Oct24-300x201.jpg",
-      "date": "Sun, 06 Sep 2026 17:12:37 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "John Williams Surprises Fans at Hollywood Bowl and Conducts Imperial March for the Encore",
-      "description": "Legendary composer John Williams surprised guests at Maestro of the Movies: A Tribute to John Williams, taking place at the Hollywood Bowl between September 4th - 6th, by attending and conducting the Imperial March for the encore, from his wheelchair. The post John Williams Surprises Fans at Hollywood Bowl and Conducts Imperial March for the Encore appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/events/articles/john-williams-surprises-fans-at-hollywood-bowl-and-conducts-imperial-march-for-the-encore/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/John-Williams-Hollywood-Bowl-Sept26-300x201.jpg",
-      "date": "Sun, 06 Sep 2026 16:38:39 +0000"
     }
   ],
-  "youtube": []
+  "youtube": [
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Episode 12 - Der Mann, dem 75 Cent nicht egal waren",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=RtJDi-9NJhg",
+      "image": "https://i.ytimg.com/vi/RtJDi-9NJhg/hqdefault.jpg",
+      "date": "2026-09-09T04:00:27+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Ist eine Wahl aus Papier sicher ?! #informatik #wahlen #itsicherheit #news",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/dBrpY6j9Mek",
+      "image": "https://i.ytimg.com/vi/dBrpY6j9Mek/hqdefault.jpg",
+      "date": "2026-09-08T10:20:05+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Warum Berlin sich nicht erpressen ließ #informatik #berlin #code #news #cybersecurity",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/TGvSFxZMF4M",
+      "image": "https://i.ytimg.com/vi/TGvSFxZMF4M/hqdefault.jpg",
+      "date": "2026-09-07T10:00:16+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Warum hat Berlin die 2 Mio € Lösegeld NICHT gezahlt?",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=dpJ74F5LJr4",
+      "image": "https://i.ytimg.com/vi/dpJ74F5LJr4/hqdefault.jpg",
+      "date": "2026-09-06T14:22:08+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Die Berliner Verwaltung wurde Opfer eines Cyberangriffs #news #informatik #cybersicherheit #berlin",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/AEGwSQSRe-g",
+      "image": "https://i.ytimg.com/vi/AEGwSQSRe-g/hqdefault.jpg",
+      "date": "2026-09-05T10:15:29+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Was haltet ihr vom OpenAI Astra Video ?! #informatik #openai #news #ai",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/5gcM81Hr9qc",
+      "image": "https://i.ytimg.com/vi/5gcM81Hr9qc/hqdefault.jpg",
+      "date": "2026-09-04T11:39:11+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Der Zoll klont seit 2025 eure WhatsApp-Konten #whatsapp #informatik #messenger #news",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/HdLY4hqldD8",
+      "image": "https://i.ytimg.com/vi/HdLY4hqldD8/hqdefault.jpg",
+      "date": "2026-09-03T17:07:52+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Client Side Trust in CREO und warum das keine gute Idee ist #informatik #creo #code",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/jiNsmobgoMo",
+      "image": "https://i.ytimg.com/vi/jiNsmobgoMo/hqdefault.jpg",
+      "date": "2026-09-02T10:55:29+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Warum sind 0.1 + 0.2 für deinen Computer nicht 0.3 ?! #informatik #code #programmieren #lernen",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/TLANNNHbe3o",
+      "image": "https://i.ytimg.com/vi/TLANNNHbe3o/hqdefault.jpg",
+      "date": "2026-09-01T16:15:13+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Dieser PIN macht die Daten auf deinem Handy unbrauchbar #code #cybersecurity #informatik #news",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/4RJZe-bYuXU",
+      "image": "https://i.ytimg.com/vi/4RJZe-bYuXU/hqdefault.jpg",
+      "date": "2026-08-31T16:00:09+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Exploring The Last Coal Power Plant in Connecticut Bridgeport Harbor Station",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=CR84XRBKBzs",
+      "image": "https://i.ytimg.com/vi/CR84XRBKBzs/hqdefault.jpg",
+      "date": "2026-08-27T17:00:39+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Rocketdyne Santa Susana Field Laboratory Abandoned America Space Race (1948)",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=0lka-0REQrQ",
+      "image": "https://i.ytimg.com/vi/0lka-0REQrQ/hqdefault.jpg",
+      "date": "2026-04-23T17:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition AMC Seats And Screens Left Behind",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=UnG29VothuQ",
+      "image": "https://i.ytimg.com/vi/UnG29VothuQ/hqdefault.jpg",
+      "date": "2026-03-27T21:09:35+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition Fly by In And Out",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=fDnOH8ZsfTg",
+      "image": "https://i.ytimg.com/vi/fDnOH8ZsfTg/hqdefault.jpg",
+      "date": "2026-03-27T20:40:08+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "AMC Westfield Promenade Mall Raw Demolition Drone Footage",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/5iA5R3Jq4g0",
+      "image": "https://i.ytimg.com/vi/5iA5R3Jq4g0/hqdefault.jpg",
+      "date": "2026-03-27T18:03:29+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition AMC Coming Down First!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=SAxjFGjTiHQ",
+      "image": "https://i.ytimg.com/vi/SAxjFGjTiHQ/hqdefault.jpg",
+      "date": "2026-03-23T17:42:38+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Beautiful Art Deco Theater",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=ccfU0LSmkj8",
+      "image": "https://i.ytimg.com/vi/ccfU0LSmkj8/hqdefault.jpg",
+      "date": "2026-03-11T20:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Decommissioned Power Station #synthwave #synth #retrowave #abandonedplaces",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/mOUbNSMoBJs",
+      "image": "https://i.ytimg.com/vi/mOUbNSMoBJs/hqdefault.jpg",
+      "date": "2025-06-17T17:55:51+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Wheel of Misfortune Three Kids Mine Demolition",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=VXRselqoN-8",
+      "image": "https://i.ytimg.com/vi/VXRselqoN-8/hqdefault.jpg",
+      "date": "2025-06-17T17:45:42+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Resort with a River Running Through It",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=0ILQ06M4hA0",
+      "image": "https://i.ytimg.com/vi/0ILQ06M4hA0/hqdefault.jpg",
+      "date": "2025-06-01T20:15:01+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Install Windows 11 with a Local Account in 2026",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=juIh1auHo3s",
+      "image": "https://i.ytimg.com/vi/juIh1auHo3s/hqdefault.jpg",
+      "date": "2026-08-05T17:00:04+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Replace the Battery in a Dell Precision 7760 Laptop",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=JOVmOahO2xs",
+      "image": "https://i.ytimg.com/vi/JOVmOahO2xs/hqdefault.jpg",
+      "date": "2026-03-11T17:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Use & Combine Joy-Con Controllers on the Steam Deck!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=p9ZdCe-eW1M",
+      "image": "https://i.ytimg.com/vi/p9ZdCe-eW1M/hqdefault.jpg",
+      "date": "2025-12-05T18:01:07+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Borderlands GOTY Enhanced Co-Op Lag Fix on PC | Windows & Steam Deck",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=UsaKlS3WBBs",
+      "image": "https://i.ytimg.com/vi/UsaKlS3WBBs/hqdefault.jpg",
+      "date": "2025-08-20T17:00:42+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Thrifty Gaming Pickups 058 - Going Through a Bag of Games, Controllers, and More!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=yKwMn2OMLLY",
+      "image": "https://i.ytimg.com/vi/yKwMn2OMLLY/hqdefault.jpg",
+      "date": "2025-05-07T17:01:12+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Thrifty Gaming Pickups 057 - Returning to Old Thrift Shops + A Big Xbox 360 Bundle!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=EOQgA7Q8Kw8",
+      "image": "https://i.ytimg.com/vi/EOQgA7Q8Kw8/hqdefault.jpg",
+      "date": "2024-12-04T18:00:14+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Thrifty Gaming Pickups 056 - Import Switch Games, Switch Lite, Xbox, and Xbox 360 Games!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=xaNcbxQkk5k",
+      "image": "https://i.ytimg.com/vi/xaNcbxQkk5k/hqdefault.jpg",
+      "date": "2024-06-12T17:00:40+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Thrifty Gaming Pickups 055 - Japanese Xbox 360 Imports, Consoles, and More!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=fvzT178zAlk",
+      "image": "https://i.ytimg.com/vi/fvzT178zAlk/hqdefault.jpg",
+      "date": "2024-05-15T17:00:26+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Final Fantasy VII Rebirth Best Buy Steelbook (PS5) #shorts",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/k02mkNRvIYE",
+      "image": "https://i.ytimg.com/vi/k02mkNRvIYE/hqdefault.jpg",
+      "date": "2024-03-01T18:00:24+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Final Fantasy VII Rebirth Deluxe Edition Unboxing (PS5) #shorts",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/SFwXpq5kwe4",
+      "image": "https://i.ytimg.com/vi/SFwXpq5kwe4/hqdefault.jpg",
+      "date": "2024-03-01T02:23:40+00:00"
+    }
+  ]
 }
