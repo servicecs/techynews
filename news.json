@@ -1,6 +1,42 @@
 {
-  "updated": "2026-09-10T11:43:22.111457+00:00",
+  "updated": "2026-09-10T16:01:27.652551+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Официјално достапна македонската игра „Olga: Episode 1“ преку Steam",
+      "description": "Откако порано оваа година IGN го објави новиот трејлер за „Olga: Episode 1“, гејминг заедницата со нетрпение го очекуваше излегувањето на играта, а посебно затоа што истата е развиена од страна на македонско студио. Сега, чекањето официјално заврши. Од 9 септември, првата епизода од оваа инди авантура е официјално достапна за купување и играње преку […]",
+      "url": "https://smartportal.mk/novosti/gejming/oficijalno-dostapna-olga-episode-1/",
+      "image": "https://smartportal.mk/wp-content/uploads/2025/10/olga-naslovna-150x150.webp",
+      "date": "Thu, 10 Sep 2026 13:48:56 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Сања Митровска од The Founder Games: „Денес не е доволно да бидеш добар. Треба да бидеш виден.“",
+      "description": "Од универзитетската катедра до градење компании и меѓународен телевизиски формат, Сања Митровска во NextGen Podcast зборува за претприемништвото без романтизација, за храброста да се напушти сигурното и за причината зошто способноста да привлечеш внимание денес може да биде пресудна за успехот во бизнисот. „Денес не е доволно да бидеш добар. Треба да бидеш видлив.“ Ова […]",
+      "url": "https://smartportal.mk/novosti/licnosti/sanja-mitrovska-the-founder-games/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Sanja-Mitrovska-intervju-150x150.webp",
+      "date": "Thu, 10 Sep 2026 13:22:02 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Семос Едукација започнува со „Tech Talks“, првиот настан посветен на сајбер безбедноста",
+      "description": "Скопје, 10 септември 2026 – Семос Едукација започнува нов серијал отворени настани под името „Tech Talks“, замислен како простор за директна средба и разговор со професионалци од различни области на ИТ индустријата. Првото издание, „Погледни ја безбедноста низ очите на сајбер експертите“, ќе се одржи на 22 септември 2026 година, во 18:00 часот, во Семос […]",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/semos-edukacija-tech-talks-sajber-bezbednost/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Tech-Talks-1200-x-600-px-150x150.webp",
+      "date": "Thu, 10 Sep 2026 13:08:13 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Samsung објавува рекорден успех за Galaxy Z Fold8 и Fold8 Ultra со зголемување на продажбата од 50%",
+      "description": "Скопје, 10 септември 2026 година – Компанијата Самсунг („Samsung“) денес објави значаен пресврт за своите најнови преклопливи паметни телефони. Продажбата на Galaxy Z Fold8 и Galaxy Z Fold8 Ultra е зголемена за 50% во цела Европа во споредба со Galaxy Z Fold7 од нивното лансирање. Овој извонреден раст го нагласува зголемениот интерес на потрошувачите за […]",
+      "url": "https://smartportal.mk/novosti/uredi/samsung-rekorden-uspeh-galaxy-z-fold8-i-fold8-ultra/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Samsung-Galaxy-Z-Fold8_Family_1-150x150.webp",
+      "date": "Thu, 10 Sep 2026 12:47:28 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -57,222 +93,195 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Starlink и Дојче Телеком ја носат сателитската мобилна мрежа во Македонија",
-      "description": "Американскиот сателитски сервис Starlink, во сопственост на Елон Маск, веќе го најави партнерството со Дојче Телеком преку кое ќе се модернизира мобилната мрежа на територијата на Европа. Имено, се работи за партнерство кое ќе овозможи поврзување преку сателитска мобилна мрежа во 10 земји на континентот, вклучувајќи ја и Македонија. Партнерството помеѓу Дојче Телеком и Starlink […]",
-      "url": "https://smartportal.mk/novosti/tehnologii/starlink-deutsche-telekom-satelitska-mobilna-mreza-makedonija/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/DT-starlink_4-150x150.webp",
-      "date": "Wed, 09 Sep 2026 12:37:36 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Google Play Store добива опција за паузирање на преземањата на апликациите",
-      "description": "Корисниците на уреди со оперативниот систем Android наскоро би можеле да добијат поголема контрола врз процесот на преземање на апликациите. Анализата на кодот од најновата верзија 53.0 на Google Play Store открива дека компанијата развива функција која овозможува паузирање и продолжување на процесот на преземање. Во моментов, корисниците кои сакаат да прекинат преземање на апликација […]",
-      "url": "https://smartportal.mk/novosti/softver-prog/google-play-store-pauziranje-prezemanja/",
-      "image": "https://smartportal.mk/wp-content/uploads/2020/02/shutterstock_1159513891-150x150.jpg",
-      "date": "Wed, 09 Sep 2026 12:21:31 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Apple денес го одржува нивниот септемвриски настан на кој се очекува претставувањето на првиот iPhone на преклоп",
-      "description": "Apple денес го одржува нивниот главен годишен настан на кого обично ги претставува новите генерации од нивните уреди. Настанот ќе биде пренесуван во живо како и досега, а ќе може да се следи преку YouTube и страната за настани на компанијата. Почетокот на настанот е во 19:00 часот по македонско време, а повторно се очекува […]",
-      "url": "https://smartportal.mk/novosti/nastani/apple-denes-septemvriski-nastan/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/08/apple-surprise-shine-f-150x150.webp",
-      "date": "Wed, 09 Sep 2026 11:31:14 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Sony воведува нови мерки за „заштита“ на вработените по реакциите за укинувањето на физичките дискови",
-      "description": "Sony официјално имплементираше нова политика против вознемирување од страна на корисниците, која доаѓа како одговор на бурните реакции по најавата за целосно укинување на физичките дискови за PlayStation игрите до јануари 2028 година. Во објава од први септември, компанијата ги наведе забранетите однесувања со цел да го заштити достоинството и безбедноста на своите вработени. Според […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/sony-merki-zastita-vraboteni-od-reakcii/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/amanz-IAAxRtlmD9w-unsplash-f-150x150.webp",
-      "date": "Wed, 09 Sep 2026 11:00:49 +0000"
+      "source": "Time.mk - All",
+      "title": "Сметката за прославата на Денот на независноста е 5,5 милиони евра – ја платила Лотарија и во помал дел фирми преку донации | 360 степени",
+      "description": "",
+      "url": "https://time.mk/c/c1a2923713/smetkata-za-proslavata-na-denot-na-nezavisnosta-e-5-5-milioni-evra-ja-platila-lotarija-i-vo-pomal-del-firmi-preku-donacii.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/09/pres-za-smetkata-na-poslavata-na-Denot-na-nezavisnosta.jpg",
+      "date": "Thu, 10 Sep 2026 14:56:41 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Од „функционално неписмена држава“ до „тестовите не ја кажуваат целата вистина“ – жестоки реакции за македонското образование | Скопје1",
+      "title": "Тестовите ПИСА 2025 повторно го вклучија алармот: Функционалната неписменост бара сериозни реформи | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/3e4d6f69ce/od-funkcionalno-nepismena-drzava-do-testovite-ne-ja-kazuvaat-celata-vistina-zestoki-reakcii-za-makedonskoto-obrazovanie.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/68438/conversions/ucenici-max.jpg",
+      "url": "https://time.mk/c/d18f9ffbc1/testovite-pisa-2025-povtorno-go-vklucija-alarmot-funkcionalnata-nepismenost-bara-seriozni-reformi.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2024/06/Uchenichka-300x200.jpg",
+      "date": "Thu, 10 Sep 2026 13:14:48 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Западнонилска треска: Двајца во критична состојба | 24 Вести",
+      "description": "",
+      "url": "https://time.mk/c/61893e6eb6/zapadnonilska-treska-dvajca-vo-kriticna-sostojba.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1789053666/hgvif63kf2aqgphan2bw.jpg",
+      "date": "Thu, 10 Sep 2026 15:24:40 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "ЕЦБ ги зголеми каматните стапки на 2,5%. Војната со Иран ја поттикнува инфлацијата | Независен",
+      "description": "",
+      "url": "https://time.mk/c/1a55086a90/ecb-gi-zgolemi-kamatnite-stapki-na-2-5-vojnata-so-iran-ja-pottiknuva-inflacijata.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2022/07/ECB.jpg",
+      "date": "Thu, 10 Sep 2026 13:34:53 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Родителите на загинатите деца до ЈО: Ако против газдата на „Пулс“ Дејан Јованов – Деко постојат сознанија за други кривични дела, постапете веднаш! | 24 Вести",
+      "description": "",
+      "url": "https://time.mk/c/cdbd870b6f/roditelite-na-zaginatite-deca-do-jo-ako-protiv-gazdata-na-puls-dejan-jovanov-deko-postojat-soznanija-za-drugi-krivicni-dela-postapete-vednas.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1789053036/jbgjtuofinrn6atrad70.jpg",
+      "date": "Thu, 10 Sep 2026 15:14:48 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Ристоска до Апелација: Не фалат докази, туку судот толкувал без поткрепа на закон | 24 Вести",
+      "description": "",
+      "url": "https://time.mk/c/fdf92f4d67/ristoska-do-apelacija-ne-falat-dokazi-tuku-sudot-tolkuval-bez-potkrepa-na-zakon.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2025/10/vmro-lence-ristoska-300x169.png",
+      "date": "Thu, 10 Sep 2026 15:16:38 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "„ВИК“ ги зголеми капацитетите во Прилеп – новиот погон носи 300 нови работи места | ТВ21",
+      "description": "",
+      "url": "https://time.mk/c/a19288c6f9/vik-gi-zgolemi-kapacitetite-vo-prilep-noviot-pogon-nosi-300-novi-raboti-mesta.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2026/09/wik.webp",
+      "date": "Thu, 10 Sep 2026 14:54:48 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "ШПАРКАСЕ БАНКА СО ПОНУДА ЗА ПРЕЗЕМАЊЕ НА УНИ БАНКА - по Охридска банка, нов чекор кон посилно окрупнување | Фактор",
+      "description": "",
+      "url": "https://time.mk/c/bf06fe3308/sparkase-banka-so-ponuda-za-prezemanje-na-uni-banka-po-ohridska-banka-nov-cekor-kon-posilno-okrupnuvanje.html",
+      "image": "https://faktor.mk/media/main/2026/09/20260910150100.png",
+      "date": "Thu, 10 Sep 2026 13:04:38 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Хашки обвинител бара шестгодишна затворска казна за Тачи поради попречување на правдата | Вечер Прес",
+      "description": "",
+      "url": "https://time.mk/c/8cb327ccb8/haski-obvinitel-bara-sestgodisna-zatvorska-kazna-za-taci-poradi-poprecuvanje-na-pravdata.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/hashim_thaci_2012.jpg",
+      "date": "Thu, 10 Sep 2026 15:48:40 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "„Фајненшел тајмс“ за изборите во Србија: „Најтешката битка во политичката кариера на националистот Вучиќ“ | Независен",
+      "description": "",
+      "url": "https://time.mk/c/bfa2d7d567/fajnensel-tajms-za-izborite-vo-srbija-najteskata-bitka-vo-politickata-kariera-na-nacionalistot-vucik.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/07/Aleksandar-Vucic-1024x769.jpg",
+      "date": "Thu, 10 Sep 2026 14:18:55 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Макрон бара Европа да развие сопствена програма за летови со астронаути | Deutsche Welle",
+      "description": "",
+      "url": "https://time.mk/c/dbef6ce2f8/makron-bara-evropa-da-razvie-sopstvena-programa-za-letovi-so-astronauti.html",
+      "image": "https://static.dw.com/image/77176330_302.jpg",
+      "date": "Thu, 10 Sep 2026 12:06:41 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "ВИДЕО | Хутите го зазедоа клучното јеменско пристаниште на Црвеното Море — објавени снимки од нивниот упад и прославата за победата | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/4a1dd5ed74/video-hutite-go-zazedoa-klucnoto-jemensko-pristaniste-na-crvenoto-more-objaveni-snimki-od-nivniot-upad-i-proslavata-za-pobedata.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/Screenshot-2026-09-10-161645-300x170.png",
+      "date": "Thu, 10 Sep 2026 14:24:36 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Колариќ обвинува: Навреди, провокации и закани од советник на Левица на седницата | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/f45b9c0e69/kolarik-obvinuva-navredi-provokacii-i-zakani-od-sovetnik-na-levica-na-sednicata.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84901/conversions/text-max.jpg",
+      "date": "Thu, 10 Sep 2026 15:20:46 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Стаменкоска Трајкоска: Заканите од советниците од политичката партија Левица не можат да ги запрат резултатите | Press24",
+      "description": "",
+      "url": "https://time.mk/c/ad4571c79b/stamenkoska-trajkoska-zakanite-od-sovetnicite-od-politickata-partija-levica-ne-mozat-da-gi-zaprat-rezultatite.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/70141.jpg",
+      "date": "Thu, 10 Sep 2026 15:42:56 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "МВР потврди – помошник директорот во Царина е уапсен со обележани 17.500 евра | Фокус",
+      "description": "",
+      "url": "https://time.mk/c/f663595140/mvr-potvrdi-pomosnik-direktorot-vo-carina-e-uapsen-so-obelezani-17-500-evra.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/09/carinska-uprava-znaminja-848x323-1.jpg",
+      "date": "Thu, 10 Sep 2026 15:50:50 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Продолжи рочиштето против поранешниот директор на Инспекторатот за земјоделство | 24 Вести",
+      "description": "",
+      "url": "https://time.mk/c/56dd62f3fc/prodolzi-rocisteto-protiv-poranesniot-direktor-na-inspektoratot-za-zemjodelstvo.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1789053468/vlmyaq73pt1gi7wnprjm.jpg",
+      "date": "Thu, 10 Sep 2026 15:20:46 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Проданоски: Новата инвестиција на WIK носи до 300 нови работни места за Прилеп | Булевар",
+      "description": "",
+      "url": "https://time.mk/c/960dcc8ac7/prodanoski-novata-investicija-na-wik-nosi-do-300-novi-rabotni-mesta-za-prilep.html",
+      "image": "https://bulevar.mk/wp-content/uploads/2026/09/img_8900-1024x683.jpeg",
+      "date": "Thu, 10 Sep 2026 12:06:41 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Измерени температурите во 11 часот: Во Гевгелија најтопло, на Попова Шапка најсвежо | Press24",
+      "description": "",
+      "url": "https://time.mk/c/18a4d6b842/izmereni-temperaturite-vo-11-casot-vo-gevgelija-najtoplo-na-popova-sapka-najsvezo.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/70025.jpg",
       "date": "Thu, 10 Sep 2026 10:12:40 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Директорот на Лотарија објаснува од каде 300 милиони за прославата за независноста: Тоа се компаниски пари, отидовме над законот за да сме транспарентни | Скопје1",
+      "title": "Голем успех за македонскиот филм: „Диџеј Ахмет“ и „Мајка“ номинирани за АФА-наградите | Независен",
       "description": "",
-      "url": "https://time.mk/c/31b2777f7f/direktorot-na-lotarija-objasnuva-od-kade-300-milioni-za-proslavata-za-nezavisnosta-toa-se-kompaniski-pari-otidovme-nad-zakonot-za-da-sme-transparentni.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84886/conversions/text-max.jpg",
-      "date": "Thu, 10 Sep 2026 11:38:50 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Компанијата „ВИК“ ја проширува инвестицијата во Прилеп со нови 300 вработувања – задоволни се од Македонија | Независен",
-      "description": "",
-      "url": "https://time.mk/c/ba5854eb07/kompanijata-vik-ja-prosiruva-investicijata-vo-prilep-so-novi-300-vrabotuvanja-zadovolni-se-od-makedonija.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/kristof-don.jpg",
-      "date": "Thu, 10 Sep 2026 11:34:50 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Вирусот Западен Нил се шири низ Европа | 4NEWS",
-      "description": "",
-      "url": "https://time.mk/c/a9a4a0f225/virusot-zapaden-nil-se-siri-niz-evropa.html",
-      "image": "https://4news.mk/wp-content/uploads/2024/06/tigar-komarec.jpg",
-      "date": "Thu, 10 Sep 2026 11:28:38 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "МИЦКОСКИ Е ПРИМЕР ЗА ЧЕСНА ЗАРАБОТКА И НАЈДОБАР ПРОФЕСОР СПОРЕД СТУДЕНТИТЕ, СООПШТИ ВМРО-ДПМНЕ | Сакам да кажам",
-      "description": "",
-      "url": "https://time.mk/c/f69de6fa47/mickoski-e-primer-za-cesna-zarabotka-i-najdobar-profesor-spored-studentite-soopsti-vmro-dpmne.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/09/mickoski-butel-23898932.jpg",
-      "date": "Thu, 10 Sep 2026 10:36:38 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ВМРО-ДПМНЕ: Филипче се препозна во епитетот талог и е против се што носи напредок на Македонија | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/4becbee7e3/vmro-dpmne-filipce-se-prepozna-vo-epitetot-talog-i-e-protiv-se-sto-nosi-napredok-na-makedonija.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/83922/conversions/text-max.jpg",
-      "date": "Thu, 10 Sep 2026 11:16:39 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ЕЦБ ќе ги зголеми каматните стапки за да спречи пораст на инфлацијата предизвикана од цената на нафтата | Мета",
-      "description": "",
-      "url": "https://time.mk/c/ccc5e10b5b/ecb-ke-gi-zgolemi-kamatnite-stapki-za-da-spreci-porast-na-inflacijata-predizvikana-od-cenata-na-naftata.html",
-      "image": "https://meta.mk/wp-content/uploads/2026/07/evro-evropska-centralna-banka-500x450.jpg.webp",
-      "date": "Thu, 10 Sep 2026 09:56:47 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Димитриеска-Кочоска: Фискалната одржливост е клучна за справување со глобалните предизвици | Бизнис Вести",
-      "description": "",
-      "url": "https://time.mk/c/5fc6d581f8/dimitrieska-kocoska-fiskalnata-odrzlivost-e-klucna-za-spravuvanje-so-globalnite-predizvici.html",
-      "image": "https://biznisvesti.mk/wp-content/uploads/2026/06/dimitrrieska-300x201.webp",
-      "date": "Thu, 10 Sep 2026 10:07:00 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Почина жена повредена во пожарот кај Омиш: ова е трета жртва | Макфакс",
-      "description": "",
-      "url": "https://time.mk/c/1437c4bc48/pocina-zena-povredena-vo-pozarot-kaj-omis-ova-e-treta-zrtva.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/14215129.webp",
-      "date": "Thu, 10 Sep 2026 09:46:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Светски ден за превенција на самоубиството: Прашајте ги блиските „Како сте?“ и внимателно слушајте ги | Скопје инфо",
-      "description": "",
-      "url": "https://time.mk/c/3965bf2b67/svetski-den-za-prevencija-na-samoubistvoto-prasajte-gi-bliskite-kako-ste-i-vnimatelno-slusajte-gi.html",
-      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/septemvri/image-259961.jpg?itok=y-2n7tgE",
-      "date": "Thu, 10 Sep 2026 11:16:39 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Макрон ја сака Европа меѓу вселенските велесили: Најави летови со човечки екипажи! | Вечер Прес",
-      "description": "",
-      "url": "https://time.mk/c/373a5fded7/makron-ja-saka-evropa-megju-vselenskite-velesili-najavi-letovi-so-covecki-ekipazi.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/09/makron-epa-sept26.jpg",
-      "date": "Thu, 10 Sep 2026 11:26:56 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Иран не попушта во војната, цената на нафтата расте | Bloomberg Adria",
-      "description": "",
-      "url": "https://time.mk/c/621cdee3ae/iran-ne-popusta-vo-vojnata-cenata-na-naftata-raste.html",
-      "image": "https://mk.bloombergadria.com/data/images/2026-03-23/104321_glavna_f.jpg?timestamp=1788991200",
-      "date": "Thu, 10 Sep 2026 07:00:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Учениците од ООУ „Лазо Трповски“ ќе ја примат берлинската награда за проектот „Нашето патување на Јупитер“ | Независен",
-      "description": "",
-      "url": "https://time.mk/c/5384208031/ucenicite-od-oou-lazo-trpovski-ke-ja-primat-berlinskata-nagrada-za-proektot-naseto-patuvanje-na-jupiter.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/ucenici-od-lazo-trpovski-nagrada-patuvanjke-do-jupiter.png",
-      "date": "Thu, 10 Sep 2026 05:34:46 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Уште неколку дена за поднесување на анкетни листови против Нацрт-ДУП Барутана на Водно | Порта 3",
-      "description": "",
-      "url": "https://time.mk/c/cec722156f/uste-nekolku-dena-za-podnesuvanje-na-anketni-listovi-protiv-nacrt-dup-barutana-na-vodno.html",
+      "url": "https://time.mk/c/ff8f7384e0/golem-uspeh-za-makedonskiot-film-didzej-ahmet-i-majka-nominirani-za-afa-nagradite.html",
       "image": "",
-      "date": "Thu, 10 Sep 2026 10:36:38 +0000"
+      "date": "Thu, 10 Sep 2026 13:24:36 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Демнење, заканувачки пораки и тепачки во семејства нив цела Македонија | Независен",
+      "title": "Во вторник во 12 часот комеморација за Сашо Миленковски во Драмски театар Скопје | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/b2cdb415ce/demnenje-zakanuvacki-poraki-i-tepacki-vo-semejstva-niv-cela-makedonija.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/04/semejno-nasilstvo-1.jpg",
-      "date": "Thu, 10 Sep 2026 10:46:42 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Маж ја нападнал својата сопруга, а неговиот пријател ја вознемирувал нејзината малолетна ќерка | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/8a37048060/maz-ja-napadnal-svojata-sopruga-a-negoviot-prijatel-ja-voznemiruval-nejzinata-maloletna-kerka.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84777/conversions/text-max.jpg",
-      "date": "Thu, 10 Sep 2026 10:46:42 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ПО 30 ГОДИНИ ЗАПОСТАВЕНОСТ ПОЧНА СИСТЕМСКО ЧИСТЕЊЕ НА КАНАЛИЗАЦИОНАТА МРЕЖА ВО ТЕТОВСКИТЕ ГРАДИНКИ | Сакам да кажам",
-      "description": "",
-      "url": "https://time.mk/c/b150284554/po-30-godini-zapostavenost-pocna-sistemsko-cistenje-na-kanalizacionata-mreza-vo-tetovskite-gradinki.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/09/Cistenje-na-kanalizacijata-vo-detskite-gradinki-2.jpg",
-      "date": "Thu, 10 Sep 2026 09:44:46 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "35 години независна Македонија – прослава што ги поврза дијаспората со татковината | Тера",
-      "description": "",
-      "url": "https://time.mk/c/46879e5e6a/35-godini-nezavisna-makedonija-proslava-sto-gi-povrza-dijasporata-so-tatkovinata.html",
-      "image": "https://tera.mk/wp-content/uploads/2026/09/dijaspora-150x150.jpg",
-      "date": "Thu, 10 Sep 2026 10:04:45 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "„Од празен стадион, до спектакл“: Како изгледаа подготовките за концертот на Дејвид Гета во Скопје? (видео) | Црнобело",
-      "description": "",
-      "url": "https://time.mk/c/6b084711df/od-prazen-stadion-do-spektakl-kako-izgledaa-podgotovkite-za-koncertot-na-dejvid-geta-vo-skopje-video.html",
-      "image": "https://www.crnobelo.com/images/stories/2026/09/1019/od-prazen-stadion-do-spektakl-kako-izgledaa-podgotovkite-za-koncertot-na-dejvid-geta-vo-skopje-video-povekje.jpg",
-      "date": "Thu, 10 Sep 2026 10:26:47 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Скопје 2028 ги повикува граѓаните да ги предложат местата и приказните што го чуваат духот на градот | Скопје инфо",
-      "description": "",
-      "url": "https://time.mk/c/4366e7560c/skopje-2028-gi-povikuva-gragjanite-da-gi-predlozat-mestata-i-prikaznite-sto-go-cuvaat-duhot-na-gradot.html",
-      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/septemvri/image-259955.jpg?itok=y2zMl3HW",
-      "date": "Thu, 10 Sep 2026 10:54:54 +0000"
+      "url": "https://time.mk/c/05057425e8/vo-vtornik-vo-12-casot-komemoracija-za-saso-milenkovski-vo-dramski-teatar-skopje.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/saso-milenkovski-dramski.webp",
+      "date": "Thu, 10 Sep 2026 12:54:50 +0000"
     }
   ],
   "de": [
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Vom Keller in die Cloud: Warum das lokale Firmen-Rechenzentrum zum Sicherheitsrisiko wird",
+      "description": "Unser Gastbeitrag analysiert die Frage: Bringt ein Firmen-Rechenzentrum im eigenen Haus mehr Vor- oder Nachteile mit sich? Der Artikel Vom Keller in die Cloud: Warum das lokale Firmen-Rechenzentrum zum Sicherheitsrisiko wird erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/gast-artikel/vom-keller-in-die-cloud-warum-das-lokale-firmen-rechenzentrum-zum-sicherheitsrisiko-wird-333367.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/vom-keller-in-die-cloud-warum-das-lokale-firmen-rechenzentrum-zum-sicherheitsrisiko-wird",
+      "date": "Thu, 10 Sep 2026 15:29:16 +0000"
+    },
     {
       "category": "de",
       "source": "Tarnkappe",
@@ -443,18 +452,54 @@
       "url": "https://tarnkappe.info/artikel/it-sicherheit/vpn-apps-mit-trackern-333227.html",
       "image": "https://cdn.tarnkappe.info/wpimg/vpn-apps-mit-trackern",
       "date": "Tue, 01 Sep 2026 14:57:00 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Anime-Downloads im September 2026",
-      "description": "Foren, Blogs und Portale für Anime-Downloads im September 2026. Wer ist schon wieder weg? Und wer ist noch verfügbar im WWW? Der Artikel Anime-Downloads im September 2026 erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/listen/anime-downloads-im-september-2026-333218.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/anime-downloads-im-september-2026",
-      "date": "Tue, 01 Sep 2026 13:15:05 +0000"
     }
   ],
   "eng": [
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Here's Why You Should Care About the iPhone 18 Pro's 'Vapor Chambers'",
+      "description": "The iPhone 18 Pro's vapor chamber is three times larger than the previous generation. What does that even mean?",
+      "url": "https://lifehacker.com/tech/what-are-vapor-chambers-and-why-you-should-care-if-your-phone-has-one?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M246S3YZ40SV1ZPBEWJ5X18Z/hero-image.webp",
+      "date": "Thu, 10 Sep 2026 15:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "If You Love 'Dark Matter,' There's One Movie You Need to Watch Next",
+      "description": "If you’re looking for alternate versions of Apple TV’s sci-fi hit, try this trippy 2014 movie.",
+      "url": "https://lifehacker.com/entertainment/best-movie-like-dark-matter?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M23G5TMCDDD7XK6Y0N2GGH1R/hero-image.jpg",
+      "date": "Thu, 10 Sep 2026 14:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Tiny 360-Degree Bluetooth Speaker Is 40% Off Right Now",
+      "description": "The Ultimate Ears Wonderboom 4 is small enough to carry around without giving up decent sound coverage.",
+      "url": "https://lifehacker.com/tech/ultimate-ears-wonderboom-4-speaker-sale-september-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M258EJQHTS6961Y6JZSZKT24/hero-image.jpg",
+      "date": "Thu, 10 Sep 2026 14:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "The Samsung Galaxy Z Fold 8 Is $250 Off Right Now",
+      "description": "The 512GB Samsung Galaxy Z Fold 8 is at a record-low $1,849.99.",
+      "url": "https://lifehacker.com/tech/samsung-galaxy-z-fold-8-sale-september-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M2585941S3TG5MW0D26FMVFD/hero-image.png",
+      "date": "Thu, 10 Sep 2026 13:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Will the iPad Ever Be a Worthy Mac Replacement?",
+      "description": "iOS 9 brought us multitasking on iPad. Here's how far we've come since.",
+      "url": "https://lifehacker.com/tech/will-the-ipad-ever-be-a-worthy-mac-replacement?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M21529FD88996Y36VWS5B9CC/hero-image.png",
+      "date": "Thu, 10 Sep 2026 13:00:00 +0000"
+    },
     {
       "category": "eng",
       "source": "Lifehacker",
@@ -592,48 +637,84 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "The iPhone 18 Pro Series Comes With Big Gains in Battery Life",
-      "description": "Finally, a standard iPhone Pro model with the battery we're used to on a Pro Max.",
-      "url": "https://lifehacker.com/tech/iphone-18-pro-series-battery-life-updates?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M23P650BPYTGCF2HGSWFQZ8P/hero-image.png",
-      "date": "Wed, 09 Sep 2026 18:30:00 +0000"
+      "source": "PCWorld",
+      "title": "Best laptops 2026: Premium, budget, gaming, 2-in-1, and more",
+      "description": "PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 70 laptops every year. Our reviews span PC laptops at every price point to meet the needs of any budget, from affordable everyday laptops to powerful gaming machines . Let our extensive hands-on experience help you with your laptop purchasing decision. Because while shopping for a laptop can start out simple enough, it often ends with a dozen open tabs full of specs you don’t",
+      "url": "https://www.pcworld.com/article/436674/best-pc-laptops.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/436674-0-46552600-1789056036-best-budget-laptops.jpg?quality=50&strip=all",
+      "date": "Thu, 10 Sep 2026 16:00:00 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "Microsoft's Record-Setting Patch Tuesday Update Fixes Nearly 1,000 Flaws",
-      "description": "Two of the vulnerabilities addressed this month are actively exploited zero-days.",
-      "url": "https://lifehacker.com/tech/microsofts-record-setting-patch-tuesday-update-fixes-nearly-1000-flaws?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M23J5WXNFKM1H17EVWF12M9J/hero-image.png",
-      "date": "Wed, 09 Sep 2026 18:00:51 +0000"
+      "source": "PCWorld",
+      "title": "This 1440p/240Hz mini-LED gaming monitor is only $250 right now",
+      "description": "NOW $80 OFF 27-inch AOC Mini-LED Gaming Monitor View Deal We’ve been bullish on OLED monitor deals for the last year or so, but the floor for most of them seems to be around $350 for a 27-inch model. That’s still a good chunk of change, and there are legit reasons to be anxious about OLED. If you’d rather go for an advanced mini-LED option, today you can pick one up for $249.99 at Amazon . That’s $80 off the usual price and even cheaper than AOC’s own store. The AOC Q27G4ZMN hits right in the sw",
+      "url": "https://www.pcworld.com/article/3232238/this-1440p-240hz-mini-led-gaming-monitor-is-only-250-right-now.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3232238-0-69854800-1789053877-image_a49fbe.png",
+      "date": "Thu, 10 Sep 2026 15:23:56 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "Apple Just Announced the Foldable 'iPhone Duo'",
-      "description": "It's Apple's first foldable smartphone.",
-      "url": "https://lifehacker.com/tech/apple-just-announced-the-foldable-iphone-duo?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M23830N7A30CP4H3QZPA6FJ0/hero-image.jpg",
-      "date": "Wed, 09 Sep 2026 18:00:00 +0000"
+      "source": "PCWorld",
+      "title": "Why does Windows 11 have a keyboard shortcut just for LinkedIn?",
+      "description": "Windows 11 has tons of useful keyboard shortcuts worth using every day , whether for boosting productivity, doing repetitive tasks faster, accessing hidden panels, or keeping your laptop secure. But did you know there are still secret shortcuts that hardly anyone knows about? Windows Latest recently uncovered one of them—and it’s truly absurd. Instead of a useful function that’d improve daily workflows, this keyboard shortcut takes you straight to LinkedIn. You know, the professional networking ",
+      "url": "https://www.pcworld.com/article/3232060/why-does-windows-11-have-a-keyboard-shortcut-just-for-linkedin.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3232060-0-20210400-1789053224-Finger-pressing-Windows-key-on-a-blue-laptop-keyboard.jpg?quality=50&strip=all",
+      "date": "Thu, 10 Sep 2026 15:12:41 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "Apple Just Announced the iPhone 18 Pro and iPhone 18 Pro Max",
-      "description": "Apple's latest \"Pro\" iPhones are official.",
-      "url": "https://lifehacker.com/tech/apple-iphone-18-pro-and-iphone-18-pro-max-announcement?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M23CNP0GBQ2KS06754HMR0N5/hero-image.jpg",
-      "date": "Wed, 09 Sep 2026 17:39:20 +0000"
+      "source": "PCWorld",
+      "title": "Paragon Backup & Recovery Community Edition review: Free file-level backup? Yes!",
+      "description": "At a glance Expert's Rating Pros Free and easy-to-use file backup Full/incremental/differential backup rotation schemes Backs up to virtual hard drives, including Microsoft VHD/VHDx Cons No drive or partition imaging Disaster recovery was unreliable Our Verdict Paragon’s Backup & Recovery Community Edition is free and offers all the backup options most users need. It also leverages widely supported ZIP compression and Microsoft VHDs as container files to facilitate universal browse and restore o",
+      "url": "https://www.pcworld.com/article/825717/paragon-backup-and-recovery-review.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/825717-0-40819000-1789052455-Paragon-Backup-Recovery-CE-4-hero.jpg?quality=50&strip=all",
+      "date": "Thu, 10 Sep 2026 15:00:00 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "Samsung’s 65-Inch Frame TV and Frame Pro Are Up to 38% Off Right Now",
-      "description": "The standard Frame is below $950.",
-      "url": "https://lifehacker.com/tech/samsungs-65-inch-frame-tv-and-frame-pro-deal-september-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M23G8K5J45MQQ7BCGMH0FDRA/hero-image.png",
-      "date": "Wed, 09 Sep 2026 17:30:14 +0000"
+      "source": "PCWorld",
+      "title": "AI agents don’t need better prompts. They need better goals",
+      "description": "AI chatbots? So 2025. Right now, it’s all about AI agents, and we just got another one, this time from Facebook parent Meta. Meta Muse is the name of Meta’s new, cloud-based AI agent , and like Gemini Spark , ChatGPT Work , and Claude Cowork , Meta Muse doesn’t just sit in a chatbox. Instead, it’s designed to go out in the world and do things on your behalf. So … do what , exactly? Check out the “Ideas” section in Muse (you can sign in using your Meta account, and you’ll get free access within c",
+      "url": "https://www.pcworld.com/article/3230410/ai-agents-dont-need-better-prompts-they-need-better-goals.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3230410-0-70301400-1789048841-Meta-Muse.jpeg?quality=50&strip=all",
+      "date": "Thu, 10 Sep 2026 14:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Windows 11 may finally auto-switch dark mode without PowerToys soon",
+      "description": "It appears Microsoft has finally decided to give Windows 11 a true, full-fledged dark mode. That’s according to Windows Latest , which discovered this by taking a closer look at the new experimental builds of Windows 11. Windows Latest says it’ll soon be possible for Windows 11 to switch automatically between light and dark modes, depending on requirements and the selected application. Until now, this has only been possible using Microsoft PowerToys or certain third-party programs. The absence o",
+      "url": "https://www.pcworld.com/article/3232058/windows-11-may-finally-auto-switch-dark-mode-without-powertoys.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3232058-0-60010100-1789048193-Finger-touching-Windows-11-logo-on-screen-in-dark-room.jpg?quality=50&strip=all",
+      "date": "Thu, 10 Sep 2026 13:49:17 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Tapo’s 4K solar security camera kit hits a new low price at Amazon",
+      "description": "NEW LOWEST PRICE Tapo C660 Solar Security Camera View Deal If you’ve always wanted an outdoor security camera for your home but dreaded the wiring, the battery upkeep, or the paid subscriptions for storing footage, then here’s a deal for you. The Tapo C660 Kit addresses all of those concerns, and right now it’s on sale for $115.99 at Amazon . That’s a brand-new low price and a big discount off its original $169.99. My favorite thing about the C660 is how easy it is to set up. Get up on a ladder,",
+      "url": "https://www.pcworld.com/article/3232062/tapos-4k-solar-security-camera-kit-hits-a-new-low-price-at-amazon.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3232062-0-19099600-1789047440-SP-Tapo-C660-Kit.png",
+      "date": "Thu, 10 Sep 2026 13:37:02 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
+      "description": "If you’re looking for an affordable Windows machine under $500 , a blazing fast gaming beast for those intense matches, or a portable 2-in-1 for school or work, you’ve got plenty of great choices right now. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 80 laptops every year. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches",
+      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/550968-0-62204600-1789046378-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
+      "date": "Thu, 10 Sep 2026 13:19:19 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "5 ways to stop smart TV snooping by LG and others",
+      "description": "It’s time for another round of panic about smart TV privacy, with LG taking its turn in the hot seat. The impetus is a 135-minute video from Gamers Nexus , digging into the data that LG can collect from its users. The most shocking claim is that LG’s TVs can persistently listen to what you’re saying even when the power is off (albeit only if you plug in an external USB webcam). But the report also delves into the privacy ramifications of hands-free voice control and automatic content recognition",
+      "url": "https://www.pcworld.com/article/3231190/stop-smart-tv-snooping-by-lg-and-others.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3231190-0-66885900-1789045240-lg-oled-tv-discounts.jpg?quality=50&strip=all",
+      "date": "Thu, 10 Sep 2026 13:00:00 +0000"
     },
     {
       "category": "eng",
@@ -643,90 +724,18 @@
       "url": "https://www.pcworld.com/article/3229663/ai-subscriptions-are-the-electric-bill-your-pc-is-the-solar-panel.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3229663-0-32680300-1789039836-pexels-kindelmedia-9875418.jpg?quality=50&strip=all",
       "date": "Thu, 10 Sep 2026 11:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "ExpressVPN vs. NordVPN: Clash of the heavyweight titans",
-      "description": "It’s a heavyweight matchup between the two VPN giants: ExpressVPN vs. NordVPN. They are the Godzilla vs. Kong, Gates vs. Jobs, or Packers vs. Bears of the VPN world. Both offer some of the fastest, most secure, feature-rich services on the market. So which should you choose? NordVPN might have cheaper long-term plans and it offers more servers, but ExpressVPN has a better privacy record and more consistent access to streaming services. While both are neck and neck, I recommend NordVPN for most f",
-      "url": "https://www.pcworld.com/article/2346701/expressvpn-vs-nordvpn.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/2346701-0-10985100-1789037131-ExpressVPN-vs-NordVPN.png",
-      "date": "Thu, 10 Sep 2026 10:45:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "ANTHBOT N8: A robotic lawn mower that mows, mulches, collects grass clippings, and clears leaves",
-      "description": "Meet the ANTHBOT N8: Mow, Mulch, Collect & Clear One robot handles mowing, clippings and fallen leaves. Shop ANTHBOT N8 Robotic lawn mowers take the hard work out of mowing, but they rarely handle the cleanup. Most models rely exclusively on mulching, cutting the grass and leaving the clippings on the lawn. During the growing season, this can result in patches of damp grass, while fallen leaves add to the mess in the fall. Under a thick layer of clippings and leaves, the lawn receives less light",
-      "url": "https://www.pcworld.com/article/3228567/anthbot-n8.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3228567-0-43897100-1789032491-ANTHBOT-N8-Aufmacher.png",
-      "date": "Thu, 10 Sep 2026 09:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "This lifetime PDF editor for Windows and Mac just dropped to $40",
-      "description": "TL;DR: Get lifetime access to PDF Agile for just $39.99 (reg. $119)—an all-in-one PDF editor, converter, and viewer. No one gets excited about working with PDFs. But what if you didn’t have to dread them anymore? What if one tool could handle everything —editing, converting, securing, and even turning your PDFs into sleek presentations? Meet PDF Agile, a full-featured PDF powerhouse that’s yours for life with a one-time payment of just $39.99 (reg. $119). This software for both Windows and Mac i",
-      "url": "https://www.pcworld.com/article/3231242/this-lifetime-pdf-editor-for-windows-and-mac-just-dropped-to-40.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3231242-0-99610600-1789027231-PDF-Agile.jpg?quality=50&strip=all",
-      "date": "Thu, 10 Sep 2026 08:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Best VPNs for torrenting: 5 top picks for speed, privacy, and security",
-      "description": "Torrenting remains one of the fastest and most efficient ways to share and download large files, but it also comes with some unique privacy and security concerns. Your internet service provider can see when you’re using P2P networks, malicious files can sometimes find their way into downloads, and your online activity may be exposed to third parties if you’re not properly protected. That’s why a VPN is one of the most important tools for anyone who torrents regularly. A good VPN encrypts your co",
-      "url": "https://www.pcworld.com/article/624123/best-vpn-for-torrenting.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/624123-0-12297700-1788975028-nordvpn-inspiron-5441.jpg?quality=50&strip=all",
-      "date": "Wed, 09 Sep 2026 17:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Windows 11’s desktop is now a full-screen ad for Harry Potter movies",
-      "description": "Microsoft recently caused a stir among some users with an ad that fills the entire Windows 11 desktop background. It’s a wallpaper that ends up on the computer via the Bing Wallpaper app. The full-screen wallpaper advertises a collection of the eight Harry Potter films plus three Fantastic Beasts films. The caption “Available Now” makes it clear what the whole thing is about: Windows 11 users are being encouraged to buy this film collection via wallpaper. However, this marketing stunt was not re",
-      "url": "https://www.pcworld.com/article/3230487/windows-11s-desktop-is-now-a-full-screen-ad-for-harry-potter-movies.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3230487-0-43016200-1788973016-windows11wallpaper.jpg?quality=50&strip=all",
-      "date": "Wed, 09 Sep 2026 16:56:24 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Windows 11’s new update finally fixes its biggest taskbar complaint",
-      "description": "With yesterday’s Patch Tuesday for September, Microsoft not only fixed a record number of security vulnerabilities but also released several new features for Windows 11, which you can try out now (or soon). Microsoft gradually rolls out new features across eligible Windows 11 PCs. That means most users will gain access to the new features within the next few days or weeks. Windows 11’s new features For the first time since the launch of Windows 11, the taskbar can be repositioned to any edge of ",
-      "url": "https://www.pcworld.com/article/3230489/windows-11s-new-update-finally-fixes-its-biggest-taskbar-complaint.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3230489-0-65054300-1788971840-Windows-11-laptop-on-a-wooden-desk-workstation.jpg?quality=50&strip=all",
-      "date": "Wed, 09 Sep 2026 16:37:01 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "5 years later, I can finally use Windows 11 the way I want",
-      "description": "This morning I woke up to a freshly rebooted desktop. A bit annoying, but that’s just something that happens with Windows 11 — it reboots to install an update after a while, sometimes even when you don’t ask it to. But I got the feature I’ve been waiting for since Windows 11 launched, almost five full years ago: I can put the taskbar on the top of the screen . I’m in a small minority of users here, I know. Most people use the taskbar on the bottom. If that weren’t the case, Microsoft wouldn’t ha",
-      "url": "https://www.pcworld.com/article/3230386/5-years-later-i-can-finally-use-windows-11-the-way-i-want.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3230386-0-46523400-1788970141-image_ed7d0e.png",
-      "date": "Wed, 09 Sep 2026 16:08:43 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Microsoft’s September updates fix a record 973 security flaws",
-      "description": "Yesterday was September Patch Tuesday, which means Microsoft released security updates addressing 973 new security vulnerabilities. That’s more than twice as many as last month and a new record. Along with Windows and Office, other products have been updated, including Defender, Exchange Server, Hyper-V, Skype for Business, Visual Studio, and Microsoft’s cloud services. Microsoft classifies 113 of the 973 vulnerabilities as critical, including 83 remote code execution (RCE) issues. The remaining",
-      "url": "https://www.pcworld.com/article/3230491/microsofts-september-updates-fix-a-record-973-security-flaws.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3230491-0-67894800-1788969311-image_6c9626.png",
-      "date": "Wed, 09 Sep 2026 15:54:55 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Macrium Reflect 8 Free review: Fantastic image backup and recovery at no-cost",
-      "description": "At a Glance Expert's Rating Pros Absolutely free for private use Reliable image backup Disaster recovery and backup boot media Clones disks Cons No incremental backup No longer supported by Macrium Our Verdict This venerable free drive and partition imaging program covers all the basics including disaster recovery and disk cloning. A gem of a freebie that works in the modern environment as well as it did a decade ago. Price When Reviewed This value will show the geolocated pricing text for produ",
-      "url": "https://www.pcworld.com/article/407054/macrium-reflect-free-review.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/407054-0-05343600-1788966034-Macrium-Reflect-8-Free-22.png",
-      "date": "Wed, 09 Sep 2026 15:00:00 +0000"
     }
   ],
   "starwars": [
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "Review: ‘The Book Of Boba Fett’ #1 Is A Solid Adaptation Of The First Episode",
+      "description": "Marvel’s run of comic book adaptations continue with The Book of Boba Fett. Announced back in May, the first issue does The post Review: ‘The Book Of Boba Fett’ #1 Is A Solid Adaptation Of The First Episode appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/09/review-the-book-of-boba-fett-1-is-a-solid-adaptation-of-the-first-episode.html",
+      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/09/Book_of_Boba_Fett_1_header-scaled-e1789048361871.jpg",
+      "date": "Thu, 10 Sep 2026 14:02:43 +0000"
+    },
     {
       "category": "starwars",
       "source": "Star Wars News Net",
@@ -798,15 +807,6 @@
       "url": "https://www.starwarsnewsnet.com/2026/09/bringing-star-wars-fan-creativity-to-life-through-digital-storytelling.html",
       "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/09/SW.jpg",
       "date": "Tue, 08 Sep 2026 15:23:47 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars News Net",
-      "title": "This Week, In a Galaxy Far, Far Away: A ‘Star Wars’ Fall Preview, Bit Reactor In Financial Trouble, and More",
-      "description": "Happy Sunday, and welcome to a new edition of “This Week, In a Galaxy Far, Far Away“. It’s been a The post This Week, In a Galaxy Far, Far Away: A ‘Star Wars’ Fall Preview, Bit Reactor In Financial Trouble, and More appeared first on Star Wars News Net .",
-      "url": "https://www.starwarsnewsnet.com/2026/09/this-week-in-a-galaxy-far-far-away-a-star-wars-fall-preview-bit-reactor-in-financial-trouble-and-more.html",
-      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2024/01/Celebration_1-1024x576.png",
-      "date": "Sun, 06 Sep 2026 23:00:31 +0000"
     },
     {
       "category": "starwars",
