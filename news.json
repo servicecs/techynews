@@ -1,6 +1,51 @@
 {
-  "updated": "2026-09-11T08:43:41.057409+00:00",
+  "updated": "2026-09-11T13:21:44.929914+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "18 септември е последен рок за пријавување за Виз Ер Скопски Маратон 2026",
+      "description": "Скопје се подготвува за уште едно големо спортско доживување, а времето за пријавување за Виз Ер Скопски Маратон 2026 истекува. 18 септември е последниот ден за пријавување, па сите кои сакаат да бидат дел од тркачката еуфорија на 4 октомври имаат уште малку време да го обезбедат своето место на стартот. Програмата на Виз Ер […]",
+      "url": "https://smartportal.mk/novosti/nastani/18-septemvri-posleden-rok-wizz-air-skopski-maraton/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Wizz-Air-Skopje-marathon-1-150x150.webp",
+      "date": "Fri, 11 Sep 2026 13:14:44 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Cloudflare воведува пост-квантна DNSSEC поддршка кај 1.1.1.1 сервисот",
+      "description": "1.1.1.1 DNS сервисот на Cloudflare од сега поддржува пост-квантен DNSSEC преку валидација на дигитални потписи направени со ML-DSA-44, нов алгоритам неодамна стандардизиран од американскиот Национален институт за стандарди и технологија (NIST). Овој чекор е дел од пошироката стратегија на компанијата да постигне целосна пост-квантна безбедност до 2029 година и ги подготвува системите за иднината во […]",
+      "url": "https://smartportal.mk/novosti/veb-i-bezbednost/cloudflare-post-kvantna-dnssec-poddrska-1-1-1-1/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/cf_image-1-150x150.webp",
+      "date": "Fri, 11 Sep 2026 10:50:05 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Android добива нова функција за директен пренос на податоците помеѓу различни менаџери за лозинки",
+      "description": "Google најави нова опција во нивниот Android која овозможува безбедно и директно пренесување на лозинките и „passkeys“ помеѓу различни апликации менаџери за лозинки. Целиот процес се одвива преку неколку допири на екранот, елиминирајќи ја досегашната пракса на преземање на податоците во „нешифрирани“ текстуални датотеки кои претставуваа потенцијален безбедносен ризик за корисниците. Во минатото, преносот на […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/android-funkcija-transfer-pomegju-menadzeri-za-lozinki/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Hero_Image_4.width-2200.format-webp-150x150.webp",
+      "date": "Fri, 11 Sep 2026 10:15:29 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Џон Тернус и Грег Џозвиак разговараат за новиот iPhone Duo и главната новина кај iPhone 18 Pro моделите",
+      "description": "Како што сигурно знаете, после 7-8 години, односно скоро цела декада на постоење на пазарот на уреди на преклоп, Apple дури сега реши да влезе со нивниот прв iPhone на преклоп, iPhone Duo. Јасни се причините зошто од компанијата дури сега се одлучија на истото, но дефинитивно интересно е тие да се слушнат директно од […]",
+      "url": "https://smartportal.mk/novosti/licnosti/john-ternus-greg-joswiak-video-toms-guide-techradar/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/john-joz-tg-tr-1-150x150.webp",
+      "date": "Fri, 11 Sep 2026 09:28:37 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Gemini десктоп апликацијата стана достапна на Windows",
+      "description": "Пет месеци по донесувањето на Gemini на десктоп, за почеток во форма на апликација за macOS, сега Google ја донесува апликацијата и на Windows. Иако Windows има многу поголем број на корисници, не ретко се случува некои апликации прво да станат достапни на macOS, а посебно тие кои во голем дел се користат од страна […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/gemini-desktop-aplikacija-windows/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/HR3lGcBawAEI1np-150x150.webp",
+      "date": "Fri, 11 Sep 2026 08:52:22 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -48,231 +93,195 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Apple ги претстави AirPods 5 со големо подобрување кај активното поништување на бучавата",
-      "description": "Apple официјално ги претстави AirPods 5, најновата генерација на нивните основни безжични слушалки кои донесуваат доста подобрено активно поништување на бучавата (ANC) во формат со отворен дизајн. Според компанијата, новиот модел отстранува до 50 проценти повеќе надворешна бучава во споредба со претходната генерација, благодарение на новата акустична архитектура и подобрените алгоритми за пресметковно аудио. Уредот […]",
-      "url": "https://smartportal.mk/novosti/uredi/apple-airpods-5/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Apple-AirPods-5-hero-260909-150x150.webp",
-      "date": "Thu, 10 Sep 2026 09:40:28 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Apple официјално го претстави Apple Watch Ultra 4",
-      "description": "Apple денеска го претстави новиот паметен часовник Apple Watch Ultra 4, кој е примарно наменет за спортски активности и авантури во природа. Уредот доаѓа со нов систем за сензори за здравје и работи со процесорот S11, кој овозможува најпрецизно мерење на срцевиот ритам во категоријата на носиви уреди. Според компанијата, новиот хардвер овозможува почести мерења […]",
-      "url": "https://smartportal.mk/novosti/uredi/apple-watch-ultra-4/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Apple-Watch-Ultra-4-hero-260909-150x150.webp",
-      "date": "Thu, 10 Sep 2026 09:21:57 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Apple го претстави Watch Series 12 со нов систем за следење на здравјето",
-      "description": "Apple официјално го претстави новиот паметен часовник Apple Watch Series 12, кој доаѓа со унапреден систем за следење на здравјето и нов S11 чип. Овој хардвер овозможува исклучително прецизно мерење на срцевиот ритам благодарение на оптичкиот сензор кој користи поголеми и енергетски поефикасни зелени LED диоди. Уредот континуирано го мери пулсот на секои пет секунди, […]",
-      "url": "https://smartportal.mk/novosti/uredi/apple-watch-series-12/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Apple-Watch-Series-12-2up-260909-150x150.webp",
-      "date": "Thu, 10 Sep 2026 08:56:53 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Apple го претстави iPhone Duo, првиот iPhone на преклоп",
-      "description": "Apple официјално го претстави iPhone Duo, првиот паметен телефон на преклоп на компанијата. Уредот се одликува со надворешен екран од 5,4 инчи, кој обезбедува приближно 90 проценти од работната површина на модел како iPhone 18 Pro, што го прави практичен за користење со една рака. Кога е отворен, корисниците добиваат пристап до внатрешен екран од […]",
-      "url": "https://smartportal.mk/novosti/uredi/apple-iphone-duo/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Apple-iPhone-Duo-multitasking-260909.mp4",
-      "date": "Wed, 09 Sep 2026 18:30:17 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Apple ги претстави iPhone 18 Pro и iPhone 18 Pro Max",
-      "description": "Apple официјално ги претстави новите модели на нивните паметни телефони, iPhone 18 Pro и iPhone 18 Pro Max. Овогодинешната Pro линија се истакнува со хардверски надградби кои се фокусираат на системот на камери, траењето на батеријата и процесирачката моќ. Уредите ќе бидат достапни во четири бои, вклучувајќи ги стандардните црна и сребрена, како и новите […]",
-      "url": "https://smartportal.mk/novosti/smartfoni/apple-gi-pretstavi-iphone-18-pro-i-iphone-18-pro-max/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-camera-close-up-260909.mp4",
-      "date": "Wed, 09 Sep 2026 17:48:51 +0000"
+      "source": "Time.mk - All",
+      "title": "Кога и логичното прашање зошто училиште се доградува во учебна година, а не летоска, станува прашање за рејтинг на партија | Независен",
+      "description": "",
+      "url": "https://time.mk/c/5d85ae14a9/koga-i-logicnoto-prasanje-zosto-uciliste-se-dograduva-vo-ucebna-godina-a-ne-letoska-stanuva-prasanje-za-rejting-na-partija.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/janevska-sobranie.jpg",
+      "date": "Fri, 11 Sep 2026 11:32:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Видео) Пожарот во Шуто Оризари пеплоса неколку објекти | Фокус",
+      "title": "„Мицкоски призна дека тој гони и апси“, велат од СДСМ | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/d2099e3284/video-pozarot-vo-suto-orizari-peplosa-nekolku-objekti.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/09/Screenshot_20260911_085745_Facebook.jpg",
-      "date": "Fri, 11 Sep 2026 08:02:53 +0000"
+      "url": "https://time.mk/c/4f58a5a2a3/mickoski-prizna-deka-toj-goni-i-apsi-velat-od-sdsm.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/83317/conversions/text-max.jpg",
+      "date": "Fri, 11 Sep 2026 12:24:39 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Контролирано судство под Мицкоски ги ослободува виновниците за Кочани“, велат од СДСМ | Макфакс",
+      "title": "Падна и пресудата за Ласкарци – трагедиите се бројат во мртви, одговорноста во укинати пресуди | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/48d05d46ae/kontrolirano-sudstvo-pod-mickoski-gi-osloboduva-vinovnicite-za-kocani-velat-od-sdsm.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2025/11/581920636_1820929395253000_196558336053248278_n.jpg",
-      "date": "Fri, 11 Sep 2026 07:52:35 +0000"
+      "url": "https://time.mk/c/832eef4dbe/padna-i-presudata-za-laskarci-tragediite-se-brojat-vo-mrtvi-odgovornosta-vo-ukinati-presudi.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2025/11/tragedii-300x260.jpg",
+      "date": "Fri, 11 Sep 2026 12:18:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Јакимовски се уште е во „Шутка“, ја чека одлуката на Врховен на писмено за да излезе на слобода | Фокус",
+      "title": "Пуштена во употреба реновираната зграда на Клиниката за неврофизиологија | Независен",
       "description": "",
-      "url": "https://time.mk/c/2afe97589c/jakimovski-se-uste-e-vo-sutka-ja-ceka-odlukata-na-vrhoven-na-pismeno-za-da-izleze-na-sloboda.html",
-      "image": "https://fokus.mk/wp-content/uploads/2025/09/stevco-jakimovski-1-36qau2k4trxdito3vptzwg-960x528-1.jpg",
-      "date": "Fri, 11 Sep 2026 07:48:37 +0000"
+      "url": "https://time.mk/c/5c157c3cd2/pustena-vo-upotreba-renoviranata-zgrada-na-klinikata-za-nevrofiziologija.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/nervno.jpg",
+      "date": "Fri, 11 Sep 2026 11:42:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Откриен мотивот за нападот во училиштето во Загреб?! | Вечер Прес",
+      "title": "Локација за нов Клинички центар има, одлука нема | Колегиум",
       "description": "",
-      "url": "https://time.mk/c/e79985a6d9/otkrien-motivot-za-napadot-vo-ucilisteto-vo-zagreb.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/09/policija-hrvatska-epa-septt26.jpg",
-      "date": "Fri, 11 Sep 2026 08:08:46 +0000"
+      "url": "https://time.mk/c/6073222006/lokacija-za-nov-klinicki-centar-ima-odluka-nema.html",
+      "image": "https://kolegium.mk/wp-content/uploads/2026/08/klinicki-centar-majka-tereza-300x225.jpg",
+      "date": "Fri, 11 Sep 2026 13:14:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Савески: Без сексуално образование, младите ќе бидат поранливи | Призма",
+      "title": "ЗА КУЧИЊА ШТО УДРИЛЕ ВО КОЛИ „МАКЕДОНИЈАПАТ“ ТРЕБА ДА ПЛАТИ ДУРИ 3,5 МИЛИОНИ ЕВРА ОТШТЕТИ Николоски го повика Обвинителството да отвори истрага за претходното раководство на претпријатието | +инфо",
       "description": "",
-      "url": "https://time.mk/c/74ddff6ee1/saveski-bez-seksualno-obrazovanie-mladite-ke-bidat-poranlivi.html",
-      "image": "https://prizma.mk/wp-content/uploads/2026/09/3-Velimir-Saveski-HERA-1024x1024.png",
-      "date": "Fri, 11 Sep 2026 07:48:37 +0000"
+      "url": "https://time.mk/c/a614089174/za-kucinja-sto-udrile-vo-koli-makedonijapat-treba-da-plati-duri-3-5-milioni-evra-otsteti-nikoloski-go-povika-obvinitelstvoto-da-otvori-istraga-za-prethodnoto-rakovodstvo-na-pretprijatieto.html",
+      "image": "https://plusinfo.mk/wp-content/uploads/2025/12/nikoloski-sobranie.jpg",
+      "date": "Fri, 11 Sep 2026 13:04:40 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Радика не е место за отпад: ОПШТИНА ДЕБАР ГО САНКЦИОНИРАШЕ ЗАГАДУВАЧОТ ОД СНИМКАТА | Вечер",
+      "title": "Македонскиот рубин добива „пасош“: Сертификат, регистар и заштита од лажно претставување | Пари",
       "description": "",
-      "url": "https://time.mk/c/91c351742a/radika-ne-e-mesto-za-otpad-opstina-debar-go-sankcionirase-zagaduvacot-od-snimkata.html",
-      "image": "https://cmsnebula.eu-central-1.linodeobjects.com/b79723b0-fe00-4f46-ae15-f16613a5853e/$984e22a4-4668-4629-ab40-d5af43c00a14/radika-gjubre-1.jpg",
-      "date": "Fri, 11 Sep 2026 07:57:05 +0000"
+      "url": "https://time.mk/c/4dc11049dd/makedonskiot-rubin-dobiva-pasos-sertifikat-registar-i-zastita-od-lazno-pretstavuvanje.html",
+      "image": "http://pari.com.mk/wp-content/uploads/2026/09/IAM08720-1.jpg",
+      "date": "Fri, 11 Sep 2026 12:32:39 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Димитриеска-Кочоска: Се движиме по добра траекторија – инвестициите се склучни за економскиот развој | Макфакс",
+      "title": "Дали зголемувањето на каматните стапки од страна на ЕЦБ може да ја запре инфлацијата? | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/c643faab50/dimitrieska-kocoska-se-dvizime-po-dobra-traektorija-investiciite-se-sklucni-za-ekonomskiot-razvoj.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/panel-diskusija-ohrid.webp",
-      "date": "Fri, 11 Sep 2026 08:18:52 +0000"
+      "url": "https://time.mk/c/18d7f93702/dali-zgolemuvanjeto-na-kamatnite-stapki-od-strana-na-ecb-moze-da-ja-zapre-inflacijata.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2020/06/eczb-2-300x161.png",
+      "date": "Fri, 11 Sep 2026 11:12:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Дајмонд Мол со две европски награди за најдобар проект од областа на општествената одговорност | еМагазин",
+      "title": "НОВИ ДЕТАЛИ ЗА НАПАЃАЧОТ ВО ЗАГРЕБ, ПРОГОВОРИЛ ДОДЕКА ГО ДРЖЕЛЕ „Дојдов да повредам некого, а и себеси“ | +инфо",
       "description": "",
-      "url": "https://time.mk/c/aedc4f1847/dajmond-mol-so-dve-evropski-nagradi-za-najdobar-proekt-od-oblasta-na-opstestvenata-odgovornost.html",
-      "image": "https://emagazin.mk/wp-content/uploads/2026/09/foto_1-300x200.jpg",
-      "date": "Fri, 11 Sep 2026 07:54:47 +0000"
+      "url": "https://time.mk/c/e7ccbca124/novi-detali-za-napagjacot-vo-zagreb-progovoril-dodeka-go-drzele-dojdov-da-povredam-nekogo-a-i-sebesi.html",
+      "image": "https://plusinfo.mk/wp-content/uploads/2026/09/napad-zagreb.jpg",
+      "date": "Fri, 11 Sep 2026 13:06:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "И уништувањето на природата може да значи затвор до крајот на животот – Хрватска радикално ги менува казните | Пари",
+      "title": "Скандалозно однесување на Костадинов, повторно го негира македонскиот јазик | Рацин",
       "description": "",
-      "url": "https://time.mk/c/a1f981454f/i-unistuvanjeto-na-prirodata-moze-da-znaci-zatvor-do-krajot-na-zivotot-hrvatska-radikalno-gi-menuva-kaznite.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/09/hr.png",
-      "date": "Fri, 11 Sep 2026 08:20:43 +0000"
+      "url": "https://time.mk/c/0861f233c3/skandalozno-odnesuvanje-na-kostadinov-povtorno-go-negira-makedonskiot-jazik.html",
+      "image": "https://racin.mk/wp-content/uploads/2026/09/kostadinov-bugarija-823x480.jpg?x15374",
+      "date": "Fri, 11 Sep 2026 12:58:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "СТОТИЦИ ГРАЃАНИ МАРШИРАА ВО БЕЛГРАД ВО ЗНАК НА ПОДДРШКА ЗА ЗОРАН КЕСИЌ, ЧИЈА ЕМИСИЈА „24 МИНУТИ“ БЕШЕ ТРГНАТА ОД „ТВ НОВА“ | Сакам да кажам",
+      "title": "Жена која добила отказ ден пред нападот – Луѓе кои го преживеале нападот на кулите „Близначки“ поради чиста случајност | Црнобело",
       "description": "",
-      "url": "https://time.mk/c/deb3e78c05/stotici-gragjani-marsiraa-vo-belgrad-vo-znak-na-poddrska-za-zoran-kesik-cija-emisija-24-minuti-bese-trgnata-od-tv-nova.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/09/Screenshot-2026-09-11-085552.jpg",
-      "date": "Fri, 11 Sep 2026 07:00:51 +0000"
+      "url": "https://time.mk/c/e79d1abada/zena-koja-dobila-otkaz-den-pred-napadot-lugje-koi-go-preziveale-napadot-na-kulite-bliznacki-poradi-cista-slucajnost.html",
+      "image": "https://www.crnobelo.com/images/stories/2026/09/1019/akterot-mark-volberg-poznat-producent-lugje-koi-go-prezhiveale-napadot-na-kulite-bliznachki-poradi-chista-sluchajnost-povekje.jpg",
+      "date": "Fri, 11 Sep 2026 12:50:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Снежана Лупевска Созен со сведоштво од Њујорк за време на терористичкиот напад: „Трчав во паника низ толпа народ за да најдам говорница за да ги известам во А1 телевизија“ | Фактор",
+      "title": "Хутите го презедоа стратешкиот остров Перим, расте ризикот за светскиот поморски сообраќај | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/53b8b33558/snezana-lupevska-sozen-so-svedostvo-od-njujork-za-vreme-na-teroristickiot-napad-trcav-vo-panika-niz-tolpa-narod-za-da-najdam-govornica-za-da-gi-izvestam-vo-a1-televizija.html",
-      "image": "https://zenskimagazin.mk/media/main/2026/09/20260911100953.jpg",
-      "date": "Fri, 11 Sep 2026 08:10:55 +0000"
+      "url": "https://time.mk/c/5863d54353/hutite-go-prezedoa-strateskiot-ostrov-perim-raste-rizikot-za-svetskiot-pomorski-soobrakaj.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2024/01/ÑÑÑÐ¸-ÑÐµÐ¼ÐµÐ½-2-300x205.jpg",
+      "date": "Fri, 11 Sep 2026 12:42:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Во руски напади врз Павлохрад убиени седум лица, двајца загинати во руската Белгородска област | Независен",
+      "title": "(ФОТО) Реконструкцијата на Старата скопска чаршија во завршна фаза: Инвестиција вредна над 28 милиони денари | Press24",
       "description": "",
-      "url": "https://time.mk/c/a051521817/vo-ruski-napadi-vrz-pavlohrad-ubieni-sedum-lica-dvajca-zaginati-vo-ruskata-belgorodska-oblast.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2025/05/ukraina-mapa-bbc.png",
-      "date": "Fri, 11 Sep 2026 05:52:35 +0000"
+      "url": "https://time.mk/c/dd6f27682d/foto-rekonstrukcijata-na-starata-skopska-carsija-vo-zavrsna-faza-investicija-vredna-nad-28-milioni-denari.html",
+      "image": "",
+      "date": "Fri, 11 Sep 2026 13:18:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Карпош продолжува со контроли на квалитетот на амбиенталниот воздух | Макфакс",
+      "title": "Патиштата кон Сончев Град и за Теферич со спуштена рампа | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/c413a984e3/karpos-prodolzuva-so-kontroli-na-kvalitetot-na-ambientalniot-vozduh.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/merenje-vozduh-1.webp",
-      "date": "Fri, 11 Sep 2026 08:26:51 +0000"
+      "url": "https://time.mk/c/31d8d3d99d/patistata-kon-soncev-grad-i-za-teferic-so-spustena-rampa.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/pat-sopiste-teferic.jpg",
+      "date": "Fri, 11 Sep 2026 13:08:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Фото) Детското игралиште во „Жданец“ со нов лик | Макфакс",
+      "title": "(ВИДЕО) Повеќе од 20 дуќани изгореа во пожар во Шуто Оризари – нема повредени лица | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/9d248968df/foto-detskoto-igraliste-vo-zdanec-so-nov-lik.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/detsko-igraliste-zdamec-2.webp",
-      "date": "Fri, 11 Sep 2026 06:46:55 +0000"
+      "url": "https://time.mk/c/13885c69f7/video-poveke-od-20-dukani-izgorea-vo-pozar-vo-suto-orizari-nema-povredeni-lica.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/09/pozar-dukjani-suto-orizari.jpg",
+      "date": "Fri, 11 Sep 2026 09:24:37 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "53-годишен кумановец уапсен, полицијата пронашла хероин во неговиот дом | Скопје1",
+      "title": "Ја претепал поранешната партнерка: кривична за 48-годишен скопјанец | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/68fb962d8e/53-godisen-kumanovec-uapsen-policijata-pronasla-heroin-vo-negoviot-dom.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84917/conversions/text-max.jpg",
-      "date": "Fri, 11 Sep 2026 08:06:49 +0000"
+      "url": "https://time.mk/c/8a38df6f51/ja-pretepal-poranesnata-partnerka-krivicna-za-48-godisen-skopjanec.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/804959196_29061256010148543_5724889933676846350_n.webp",
+      "date": "Fri, 11 Sep 2026 13:08:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Утрово гори во М.Брод и Чучер-Сандево, преку 30 пожари имало изминатиот ден на отворен простор | Слободен Печат",
+      "title": "Битола и Прилеп ги собираат предлозите | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/4bd6a088cc/utrovo-gori-vo-m-brod-i-cucer-sandevo-preku-30-pozari-imalo-izminatiot-den-na-otvoren-prostor.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/08/pozari-mk-300x169.jpg",
-      "date": "Fri, 11 Sep 2026 06:26:49 +0000"
+      "url": "https://time.mk/c/2e3cc07fef/bitola-i-prilep-gi-sobiraat-predlozite.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/2-bitola.jpg",
+      "date": "Fri, 11 Sep 2026 12:32:39 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Општина Прилеп: Отворен повик за предлози за наградите „3-ти Ноември“ и признанието за животно дело | Булевар",
+      "title": "Ново училиште, проширена градинка и поддршка за младите: Паунов ги презентираше резултатите во Карбинци | Press24",
       "description": "",
-      "url": "https://time.mk/c/af4896c0b6/opstina-prilep-otvoren-povik-za-predlozi-za-nagradite-3-ti-noemvri-i-priznanieto-za-zivotno-delo.html",
-      "image": "https://bulevar.mk/wp-content/uploads/2026/07/752658883_2061622997807759_1898235505285139761_n-1024x576.jpeg",
-      "date": "Thu, 10 Sep 2026 13:26:38 +0000"
+      "url": "https://time.mk/c/8929adc3f0/novo-uciliste-prosirena-gradinka-i-poddrska-za-mladite-paunov-gi-prezentirase-rezultatite-vo-karbinci.html",
+      "image": "",
+      "date": "Fri, 11 Sep 2026 09:04:40 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Општина Битола: Ставенa во функција нова ресурсна соба во ООУ „Ѓорѓи Сугарев“ | Булевар",
+      "title": "Во Кокино – фестивал, научна конференција и стратешки документ | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/72dc4e2f9a/opstina-bitola-stavena-vo-funkcija-nova-resursna-soba-vo-oou-gjorgji-sugarev.html",
-      "image": "https://bulevar.mk/wp-content/uploads/2026/09/img_8899-1024x682.jpeg",
-      "date": "Thu, 10 Sep 2026 11:58:49 +0000"
+      "url": "https://time.mk/c/992c0af00b/vo-kokino-festival-naucna-konferencija-i-strateski-dokument.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/gio_4255-scaled.jpg",
+      "date": "Fri, 11 Sep 2026 12:08:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Македонскиот КИЦ и Кинотеката го започнаа новото патување на македонскиот филм низ Хрватска | Макфакс",
+      "title": "ФЕСТИВАЛОТ ТАКСИРАТ СЕ СЕЛИ ВО САЛАТА „ЈАНЕ САНДАНСКИ“ | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/8b2990dd8d/makedonskiot-kic-i-kinotekata-go-zapocnaa-novoto-patuvanje-na-makedonskiot-film-niz-hrvatska.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/patuvacki-festival-hrvatska-1.webp",
-      "date": "Fri, 11 Sep 2026 07:44:41 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Царинската управа на Република Македонија склучи Меморандум за соработка со Царинската управа на Република Хрватска – Македонската Царина подготвено чекори кон ЕУ | Економија и Бизнис",
-      "description": "",
-      "url": "https://time.mk/c/ed2b9b0811/carinskata-uprava-na-republika-makedonija-skluci-memorandum-za-sorabotka-so-carinskata-uprava-na-republika-hrvatska-makedonskata-carina-podgotveno-cekori-kon-eu.html",
-      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/09/carina_mk-hr-1024x683.jpg",
-      "date": "Fri, 11 Sep 2026 07:54:46 +0000"
+      "url": "https://time.mk/c/83d9b4f672/festivalot-taksirat-se-seli-vo-salata-jane-sandanski.html",
+      "image": "https://smart.sdk.mk/wp-content/uploads/2026/09/597547141_1319753523526772_3767168218137629600_n-958x575.jpg",
+      "date": "Fri, 11 Sep 2026 11:28:39 +0000"
     }
   ],
   "de": [
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "House of Usenet drückt den Reset-Knopf",
+      "description": "Einmal bitte alles auf null. Das Forum House of Usenet (HoU) soll demnächst wieder in der bekannten Form online gehen. Der Artikel House of Usenet drückt den Reset-Knopf erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/szene/usenet/house-of-usenet-drueckt-den-reset-knopf-333373.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/house-of-usenet-drueckt-den-reset-knopf",
+      "date": "Fri, 11 Sep 2026 11:59:35 +0000"
+    },
     {
       "category": "de",
       "source": "Tarnkappe",
@@ -443,18 +452,18 @@
       "url": "https://tarnkappe.info/listen/portale-fuer-das-live-fernseh-streaming-im-september-2026-333225.html",
       "image": "https://cdn.tarnkappe.info/wpimg/portale-fuer-das-live-fernseh-streaming-im-september-2026",
       "date": "Tue, 01 Sep 2026 19:42:25 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "VPN-Apps mit Trackern: 85 Prozent spähen ihre Nutzer aus",
-      "description": "VPN-Apps mit Trackern: Proton hat mehr als 7.000 VPNs untersucht. 85 Prozent der US-Apps enthalten Tracker, einige erfassen den Standort. Der Artikel VPN-Apps mit Trackern: 85 Prozent spähen ihre Nutzer aus erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/it-sicherheit/vpn-apps-mit-trackern-333227.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/vpn-apps-mit-trackern",
-      "date": "Tue, 01 Sep 2026 14:57:00 +0000"
     }
   ],
   "eng": [
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Over 150 Million Driver's Licenses Have Been Leaked",
+      "description": "This massive hack might have compromised your license information.",
+      "url": "https://lifehacker.com/tech/over-150-million-drivers-license-leaked?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M266163YEYPMCJ0CBW6G6SP9/hero-image.jpg",
+      "date": "Fri, 11 Sep 2026 12:30:00 +0000"
+    },
     {
       "category": "eng",
       "source": "Lifehacker",
@@ -628,12 +637,57 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "This Smart Robot Mower Is $600 Off Right Now",
-      "description": "This wireless robot mower maps your lawn, avoids obstacles, and even trims the edges.",
-      "url": "https://lifehacker.com/tech/ecovacs-goat-lidar-pro-robot-mower-deal-september-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M23JXZBHF77A93FGPC4YTZYT/hero-image.png",
-      "date": "Wed, 09 Sep 2026 21:00:00 +0000"
+      "source": "PCWorld",
+      "title": "I finally found a PC maintenance routine I can stick to. It takes 30 minutes",
+      "description": "I have a PC cleanup routine that I’ve perfected over the years. With a mix of regular driver updates, old file and app cleanouts, and physical cleaning, the little-and-often approach means I don’t have to suffer a sluggish system every couple of years, nor do I have to troubleshoot driver problems because I’m woefully out of date. Better yet, it only takes half an hour or so each month to keep my computer running fast. I won’t pretend I’m religious with this routine. Sometimes it stretches to ev",
+      "url": "https://www.pcworld.com/article/3105990/i-finally-found-a-pc-maintenance-routine-i-can-stick-to-it-takes-30-minutes.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3105990-0-18134000-1789131662-Pen-checklist-crossing-off-in-front-of-a-desktop-PC-setup.jpg?quality=50&strip=all",
+      "date": "Fri, 11 Sep 2026 13:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Will Siri Recap make the Apple Watch creepy? Privacy experts weigh in",
+      "description": "I’ve always thought of the Apple Watch as one of the friendliest and most helpful Apple devices, sitting on your wrist with a colorful watch face, telling the time, nudging you to get off your tush, gently tapping you (or not) with text alerts, and even sounding the alarm if it detects anything amiss with your heartbeat. But a new Siri AI feature, announced earlier this week during Apple’s fall hardware event , could land unsuspecting Apple Watch users who enable the option into the middle of a ",
+      "url": "https://www.pcworld.com/article/3232402/will-siri-recap-make-the-apple-watch-creepy-privacy-experts-weigh-in.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3232402-0-91221000-1789128030-image-4.png",
+      "date": "Fri, 11 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
+      "description": "If you’re looking for an affordable Windows machine under $500 , a blazing fast gaming beast for those intense matches, or a portable 2-in-1 for school or work, you’ve got plenty of great choices right now. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 80 laptops every year. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches",
+      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/550968-0-12872000-1789127670-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
+      "date": "Fri, 11 Sep 2026 11:54:11 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "I was an Nvidia DLSS 5 hater…until I used it myself",
+      "description": "I don’t know about you, but I was pretty leery of Nvidia’s new DLSS 5 tech when we first started seeing samples of how it can change the appearance of games in real time. I didn’t like the idea of Nvidia algorithmically injecting new details into my games that change the way they look, and I was afraid of the “yassifying” effect we saw it apply in titles like Resident Evil Requiem . …Then I tried it for myself this week. Now, I’m afraid I may be a reluctant believer. Because while DLSS 5 is only",
+      "url": "https://www.pcworld.com/article/3229647/i-was-an-nvidia-dlss-5-hater-until-i-used-it-myself.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3229647-0-30618300-1789126235-nba-2k27-nvidia-dlss-5-comparison-001-on.jpg?quality=50&strip=all",
+      "date": "Fri, 11 Sep 2026 11:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "How to Recover an Unsaved Word Document in 2026 (Free & Paid Methods)",
+      "description": "This guide shows you how to recover a Word document after a crash using two effective methods. Is Your Unsaved Word Document Really Lost? EaseUS Facing a sudden crash or Blue Screen of Death (BSOD) right before a deadline? Don’t panic – your unsaved draft may still be recoverable. This guide shows you how to recover a Word document after a crash using two effective methods. Microsoft Word offers built-in options to restore previous versions of a document, so they’re worth trying first. If those ",
+      "url": "https://www.pcworld.com/article/3231369/how-to-recover-an-unsaved-word-document-in-2026-free-paid-methods.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3231369-0-90048200-1789125587-EaseUS-Data-Recovery-Wizard-Cover-16x9-1.png",
+      "date": "Fri, 11 Sep 2026 11:19:33 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Revisit gaming’s lost art with this free archive of old manuals",
+      "description": "Modern games teach you the basics as you play, but older games took a slightly different approach. They either gave you nothing at all or made you buy a thick booklet and expected you to read it before pressing Start. If you miss those manuals—or threw yours away years ago— Video Game Manual is here to help. The site hosts a huge collection of scanned manuals from older consoles such as the Atari 2600, Game Boy, Super Nintendo, Nintendo 64, PlayStation, and PlayStation 2. Each manual comes as a ",
+      "url": "https://www.pcworld.com/article/3224927/revisit-gamings-lost-art-with-this-free-archive-of-old-manuals.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3224927-0-58497300-1789122632-Video-Game-Manuel.png",
+      "date": "Fri, 11 Sep 2026 10:30:00 +0000"
     },
     {
       "category": "eng",
@@ -670,60 +724,6 @@
       "url": "https://www.pcworld.com/article/3232238/this-1440p-240hz-mini-led-gaming-monitor-is-only-250-right-now.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3232238-0-69854800-1789053877-image_a49fbe.png",
       "date": "Thu, 10 Sep 2026 15:23:56 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Why does Windows 11 have a keyboard shortcut just for LinkedIn?",
-      "description": "Windows 11 has tons of useful keyboard shortcuts worth using every day , whether for boosting productivity, doing repetitive tasks faster, accessing hidden panels, or keeping your laptop secure. But did you know there are still secret shortcuts that hardly anyone knows about? Windows Latest recently uncovered one of them—and it’s truly absurd. Instead of a useful function that’d improve daily workflows, this keyboard shortcut takes you straight to LinkedIn. You know, the professional networking ",
-      "url": "https://www.pcworld.com/article/3232060/why-does-windows-11-have-a-keyboard-shortcut-just-for-linkedin.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3232060-0-20210400-1789053224-Finger-pressing-Windows-key-on-a-blue-laptop-keyboard.jpg?quality=50&strip=all",
-      "date": "Thu, 10 Sep 2026 15:12:41 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Paragon Backup & Recovery Community Edition review: Free file-level backup? Yes!",
-      "description": "At a glance Expert's Rating Pros Free and easy-to-use file backup Full/incremental/differential backup rotation schemes Backs up to virtual hard drives, including Microsoft VHD/VHDx Cons No drive or partition imaging Disaster recovery was unreliable Our Verdict Paragon’s Backup & Recovery Community Edition is free and offers all the backup options most users need. It also leverages widely supported ZIP compression and Microsoft VHDs as container files to facilitate universal browse and restore o",
-      "url": "https://www.pcworld.com/article/825717/paragon-backup-and-recovery-review.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/825717-0-40819000-1789052455-Paragon-Backup-Recovery-CE-4-hero.jpg?quality=50&strip=all",
-      "date": "Thu, 10 Sep 2026 15:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "AI agents don’t need better prompts. They need better goals",
-      "description": "AI chatbots? So 2025. Right now, it’s all about AI agents, and we just got another one, this time from Facebook parent Meta. Meta Muse is the name of Meta’s new, cloud-based AI agent , and like Gemini Spark , ChatGPT Work , and Claude Cowork , Meta Muse doesn’t just sit in a chatbox. Instead, it’s designed to go out in the world and do things on your behalf. So … do what , exactly? Check out the “Ideas” section in Muse (you can sign in using your Meta account, and you’ll get free access within c",
-      "url": "https://www.pcworld.com/article/3230410/ai-agents-dont-need-better-prompts-they-need-better-goals.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3230410-0-70301400-1789048841-Meta-Muse.jpeg?quality=50&strip=all",
-      "date": "Thu, 10 Sep 2026 14:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Windows 11 may finally auto-switch dark mode without PowerToys soon",
-      "description": "It appears Microsoft has finally decided to give Windows 11 a true, full-fledged dark mode. That’s according to Windows Latest , which discovered this by taking a closer look at the new experimental builds of Windows 11. Windows Latest says it’ll soon be possible for Windows 11 to switch automatically between light and dark modes, depending on requirements and the selected application. Until now, this has only been possible using Microsoft PowerToys or certain third-party programs. The absence o",
-      "url": "https://www.pcworld.com/article/3232058/windows-11-may-finally-auto-switch-dark-mode-without-powertoys.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3232058-0-60010100-1789048193-Finger-touching-Windows-11-logo-on-screen-in-dark-room.jpg?quality=50&strip=all",
-      "date": "Thu, 10 Sep 2026 13:49:17 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Tapo’s 4K solar security camera kit hits a new low price at Amazon",
-      "description": "NEW LOWEST PRICE Tapo C660 Solar Security Camera View Deal If you’ve always wanted an outdoor security camera for your home but dreaded the wiring, the battery upkeep, or the paid subscriptions for storing footage, then here’s a deal for you. The Tapo C660 Kit addresses all of those concerns, and right now it’s on sale for $115.99 at Amazon . That’s a brand-new low price and a big discount off its original $169.99. My favorite thing about the C660 is how easy it is to set up. Get up on a ladder,",
-      "url": "https://www.pcworld.com/article/3232062/tapos-4k-solar-security-camera-kit-hits-a-new-low-price-at-amazon.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3232062-0-19099600-1789047440-SP-Tapo-C660-Kit.png",
-      "date": "Thu, 10 Sep 2026 13:37:02 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
-      "description": "If you’re looking for an affordable Windows machine under $500 , a blazing fast gaming beast for those intense matches, or a portable 2-in-1 for school or work, you’ve got plenty of great choices right now. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 80 laptops every year. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches",
-      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/550968-0-62204600-1789046378-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
-      "date": "Thu, 10 Sep 2026 13:19:19 +0000"
     }
   ],
   "starwars": [
