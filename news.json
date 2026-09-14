@@ -1,6 +1,33 @@
 {
-  "updated": "2026-09-14T04:26:55.034331+00:00",
+  "updated": "2026-09-14T10:04:45.597934+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Глобални AI експерти од OpenAI, NVIDIA, Microsoft и Waymo на AI Tech Summit „Filip Avramchev“ 2026",
+      "description": "Скопје на 22 и 23 септември ќе собере меѓународни експерти и професионалци од различни области на вештачката интелигенција на AI Tech Summit „Filip Avramchev“ Skopje 2026, кој ќе се одржи во Националната опера и балет. Овогодинешната програма носи говорници од глобални технолошки компании и организации, со различни перспективи за развојот и примената на AI – […]",
+      "url": "https://smartportal.mk/novosti/nastani/globalni-ai-eksperti-na-ai-tech-summit/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Post-22-1-150x150.webp",
+      "date": "Mon, 14 Sep 2026 09:53:56 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Nvidia планира инвестиција од 10 милијарди долари во почетната јавна понуда на Anthropic",
+      "description": "Nvidia разгледува план за инвестирање до 10 милијарди долари во почетната јавна понуда на акции на стартапот за вештачка интелигенција кој стои за развојот на Claude, Anthropic. Според првичните информации, Anthropic моментално е во преговори да ја вклучи Nvidia како свој главен инвеститор пред официјалното излегување на берзата, со што би се зголемила довербата на […]",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/nvidia-planira-investicija-vo-anthropic-ipo/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/mariia-berezovsky-0SqsTxWhgNU-unsplash-f-150x150.webp",
+      "date": "Mon, 14 Sep 2026 09:44:16 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "LG ги отфрли обвинувањата за нарушување на приватноста, а Gamers Nexus возврати со ново видео и нови докази",
+      "description": "LG официјално ги отфрли наводите од неодамнешната истрага на Gamers Nexus, тврдејќи дека обвинувањата за нарушување на приватноста преку нивните паметни телевизори се неточни. Како одговор на ова, авторите на истрагата објавија ново видео во кое ја обвинуваат компанијата за манипулација со фактите и прикривање на реалните можности за следење на корисниците, презентирајќи нови докази […]",
+      "url": "https://smartportal.mk/novosti/uredi/lg-otfrla-obvinuanja-gamers-nexus-so-novi-video-i-dokazi/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Depositphotos_826703935_XL-f-150x150.webp",
+      "date": "Mon, 14 Sep 2026 08:37:35 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -66,213 +93,195 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Сања Митровска од The Founder Games: „Денес не е доволно да бидеш добар. Треба да бидеш виден.“",
-      "description": "Од универзитетската катедра до градење компании и меѓународен телевизиски формат, Сања Митровска во NextGen Podcast зборува за претприемништвото без романтизација, за храброста да се напушти сигурното и за причината зошто способноста да привлечеш внимание денес може да биде пресудна за успехот во бизнисот. „Денес не е доволно да бидеш добар. Треба да бидеш видлив.“ Ова […]",
-      "url": "https://smartportal.mk/novosti/licnosti/sanja-mitrovska-the-founder-games/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Sanja-Mitrovska-intervju-150x150.webp",
-      "date": "Thu, 10 Sep 2026 13:22:02 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Семос Едукација започнува со „Tech Talks“, првиот настан посветен на сајбер безбедноста",
-      "description": "Скопје, 10 септември 2026 – Семос Едукација започнува нов серијал отворени настани под името „Tech Talks“, замислен како простор за директна средба и разговор со професионалци од различни области на ИТ индустријата. Првото издание, „Погледни ја безбедноста низ очите на сајбер експертите“, ќе се одржи на 22 септември 2026 година, во 18:00 часот, во Семос […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/semos-edukacija-tech-talks-sajber-bezbednost/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Tech-Talks-1200-x-600-px-150x150.webp",
-      "date": "Thu, 10 Sep 2026 13:08:13 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Samsung објавува рекорден успех за Galaxy Z Fold8 и Fold8 Ultra со зголемување на продажбата од 50%",
-      "description": "Скопје, 10 септември 2026 година – Компанијата Самсунг („Samsung“) денес објави значаен пресврт за своите најнови преклопливи паметни телефони. Продажбата на Galaxy Z Fold8 и Galaxy Z Fold8 Ultra е зголемена за 50% во цела Европа во споредба со Galaxy Z Fold7 од нивното лансирање. Овој извонреден раст го нагласува зголемениот интерес на потрошувачите за […]",
-      "url": "https://smartportal.mk/novosti/uredi/samsung-rekorden-uspeh-galaxy-z-fold8-i-fold8-ultra/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Samsung-Galaxy-Z-Fold8_Family_1-150x150.webp",
-      "date": "Thu, 10 Sep 2026 12:47:28 +0000"
+      "source": "Time.mk - All",
+      "title": "Вештачка интелигенција: Зошто научниците предупредуваат од уништување на човештвото | Deutsche Welle",
+      "description": "",
+      "url": "https://time.mk/c/d24884de1a/vestacka-inteligencija-zosto-naucnicite-predupreduvaat-od-unistuvanje-na-covestvoto.html",
+      "image": "https://static.dw.com/image/69554163_302.jpg",
+      "date": "Mon, 14 Sep 2026 08:26:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Кои се занимањата на иднината? Следната деценија нема да биде поврзана само со технологијата | Фактор",
+      "title": "ВМРО-ДПМНЕ: Нова утка на СДС ботовска, бројат само до 50 илјади и манипулираат | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/406be9c5e6/koi-se-zanimanjata-na-idninata-slednata-decenija-nema-da-bide-povrzana-samo-so-tehnologijata.html",
-      "image": "https://faktor.mk/media/main/2026/09/20260913150522.jpg",
-      "date": "Mon, 14 Sep 2026 04:00:35 +0000"
+      "url": "https://time.mk/c/27516f3f4b/vmro-dpmne-nova-utka-na-sds-botovska-brojat-samo-do-50-iljadi-i-manipuliraat.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2023/02/vmro-dpmne-zgrada.jpg",
+      "date": "Mon, 14 Sep 2026 07:48:53 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Неколку улици во Чаир и Амбуланта Бит Пазар денеска без вода | Макфакс",
+      "title": "Бремена медицинска сестра вели дека молела за помош низ болници од Охрид до Скопје пред да го загуби плодот | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/86d18ac690/nekolku-ulici-vo-cair-i-ambulanta-bit-pazar-deneska-bez-voda.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2023/05/Bit-pazar.jpg",
-      "date": "Mon, 14 Sep 2026 04:12:33 +0000"
+      "url": "https://time.mk/c/830466ad6a/bremena-medicinska-sestra-veli-deka-molela-za-pomos-niz-bolnici-od-ohrid-do-skopje-pred-da-go-zagubi-plodot.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2024/09/FotoJet-2024-09-19T144927.867-300x185.jpg",
+      "date": "Mon, 14 Sep 2026 08:56:36 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Од „звучен топ“ до гонење за „дезинформации“: Обвинителството во Белград тврди дека оружје немало | Рацин",
+      "title": "Хаос е со образовните асистенти во Аеродром, децата ги враќаат од училиште, а родителите се оставени на цедило, реагира Левица | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/560d391b49/od-zvucen-top-do-gonenje-za-dezinformacii-obvinitelstvoto-vo-belgrad-tvrdi-deka-oruzje-nemalo.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/09/vucic-2-848x476.jpg?x51805",
-      "date": "Mon, 14 Sep 2026 04:22:54 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - Sport",
-      "title": "Лудница во Сасуоло: Јувентус двапати се враќаше, но домаќинот стигна до драматичен триумф (ВИДЕО) | МакФудбал",
-      "description": "",
-      "url": "https://time.mk/c/7cacabffef/ludnica-vo-sasuolo-juventus-dvapati-se-vrakase-no-domakinot-stigna-do-dramaticen-triumf-video.html",
-      "image": "https://makfudbal.mk/wp-content/uploads/2026/09/sasuolo-radost-300x174.jpg",
-      "date": "Sun, 13 Sep 2026 20:46:46 +0000"
+      "url": "https://time.mk/c/798885cf18/haos-e-so-obrazovnite-asistenti-vo-aerodrom-decata-gi-vrakaat-od-uciliste-a-roditelite-se-ostaveni-na-cedilo-reagira-levica.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/ucenici-1-300x203.jpeg",
+      "date": "Mon, 14 Sep 2026 09:48:36 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Летото не се предава, но температурите ќе почнат да паѓаат | Трн",
+      "title": "Западнонилски аларм за поинаков пристап | Призма",
       "description": "",
-      "url": "https://time.mk/c/7f3da61ed7/letoto-ne-se-predava-no-temperaturite-ke-pocnat-da-pagjaat.html",
-      "image": "https://trn.mk/wp-content/uploads/2025/12/esen-1.jpg",
-      "date": "Mon, 14 Sep 2026 04:02:46 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Големи гужви на Богородица, за влез во Македонија се чека и до четири часа | Фокус",
-      "description": "",
-      "url": "https://time.mk/c/a3f47dd980/golemi-guzvi-na-bogorodica-za-vlez-vo-makedonija-se-ceka-i-do-cetiri-casa.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/09/802560560_2280234806065413_2794151628078802255_n-1170x878.jpg",
-      "date": "Sun, 13 Sep 2026 19:44:36 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ДДВ за горивата се намалува на 10%-привремена заштита од ценовен шок или краткорочно олеснување? | Паноптикум",
-      "description": "",
-      "url": "https://time.mk/c/ce8cbe34f8/ddv-za-gorivata-se-namaluva-na-10-privremena-zastita-od-cenoven-sok-ili-kratkorocno-olesnuvanje.html",
-      "image": "https://panoptikum.mk/wp-content/uploads/novi-ceni-na-nafteni-derivati-1.webp",
-      "date": "Sun, 13 Sep 2026 19:34:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "До 500.000 денари за модернизација: Два јавни повика за македонските производствени компании | Паноптикум",
-      "description": "",
-      "url": "https://time.mk/c/dfff3b2052/do-500-000-denari-za-modernizacija-dva-javni-povika-za-makedonskite-proizvodstveni-kompanii.html",
-      "image": "https://panoptikum.mk/wp-content/uploads/finansiska-poddrshka-od-vlada-za-industrija.webp",
-      "date": "Sun, 13 Sep 2026 23:02:47 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Србија меѓу касарната и алгоритмот: Вучиќ најавува воен рок и „дигитална армија“ | Паноптикум",
-      "description": "",
-      "url": "https://time.mk/c/16becd1e33/srbija-megju-kasarnata-i-algoritmot-vucik-najavuva-voen-rok-i-digitalna-armija.html",
-      "image": "https://panoptikum.mk/wp-content/uploads/srbija-zadolzhitelen-voen-rok.webp",
-      "date": "Mon, 14 Sep 2026 04:02:46 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Границите остануваат отворени, но проблемот не е решен. Превозниците ѝ дадоа нова шанса на ЕУ. | Паноптикум",
-      "description": "",
-      "url": "https://time.mk/c/9eda68f5d6/granicite-ostanuvaat-otvoreni-no-problemot-ne-e-resen-prevoznicite-i-dadoa-nova-sansa-na-eu.html",
-      "image": "https://panoptikum.mk/wp-content/uploads/odlozhena-blokadata-na-granicite-od-kamiondhiite.webp",
-      "date": "Mon, 14 Sep 2026 02:02:47 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Во возот погоден од руски дрон патувал шефот на ЦИА, но цел на нападот бил дипломатски воз во близина со европски државници?/ВИДЕО | Вечер Прес",
-      "description": "",
-      "url": "https://time.mk/c/9eb57f4a28/vo-vozot-pogoden-od-ruski-dron-patuval-sefot-na-cia-no-cel-na-napadot-bil-diplomatski-voz-vo-blizina-so-evropski-drzavnici-video.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/09/eksplozi-a-3.jpg",
-      "date": "Sun, 13 Sep 2026 19:38:47 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Виски, царини и обединета Ирска-Трамп замина со економско ветување и политичка провокација | Паноптикум",
-      "description": "",
-      "url": "https://time.mk/c/45e8497724/viski-carini-i-obedineta-irska-tramp-zamina-so-ekonomsko-vetuvanje-i-politicka-provokacija.html",
-      "image": "https://panoptikum.mk/wp-content/uploads/trasmp-vo-irska.webp",
-      "date": "Mon, 14 Sep 2026 03:06:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Кејот на Вардар затрупан со ѓубре, скопјани губат трпение со депониите | Журнал",
-      "description": "",
-      "url": "https://time.mk/c/aff9980d01/kejot-na-vardar-zatrupan-so-gjubre-skopjani-gubat-trpenie-so-deponiite.html",
+      "url": "https://time.mk/c/9660d9ad96/zapadnonilski-alarm-za-poinakov-pristap.html",
       "image": "",
-      "date": "Sun, 13 Sep 2026 20:08:39 +0000"
+      "date": "Mon, 14 Sep 2026 08:56:36 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Ивановска: Прво научете ја историјата, па цртајте ДУП! – планот е штетен за сите граѓани | Вечер Прес",
+      "title": "(ВИДЕО) КОРЕКТИВ- Жени го обвинуваат советникот на Груевски – Сем Вакнин дека е сексуален предатор и лажен психотерапевт | Либертас",
       "description": "",
-      "url": "https://time.mk/c/69424fe211/ivanovska-prvo-naucete-ja-istorijata-pa-crtajte-dup-planot-e-steten-za-site-gragjani.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/09/barutana.jpg",
-      "date": "Sun, 13 Sep 2026 12:52:48 +0000"
+      "url": "https://time.mk/c/f8cf31083c/video-korektiv-zeni-go-obvinuvaat-sovetnikot-na-gruevski-sem-vaknin-deka-e-seksualen-predator-i-lazen-psihoterapevt.html",
+      "image": "https://libertas.mk/wp-content/uploads/2026/09/IMG-20260913-WA0034-1140x570-1-300x150.jpg",
+      "date": "Mon, 14 Sep 2026 09:28:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Семејни расправии во Тетово и Скопје: Полицијата приведе тројца, еден повикан на разговор | Скопје1",
+      "title": "Скапата енергија и растот на цените носат нов скок на каматите низ светот | Трн",
       "description": "",
-      "url": "https://time.mk/c/b4870fed98/semejni-raspravii-vo-tetovo-i-skopje-policijata-privede-trojca-eden-povikan-na-razgovor.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/80927/conversions/text-max.jpg",
-      "date": "Sun, 13 Sep 2026 13:02:49 +0000"
+      "url": "https://time.mk/c/bd1986e262/skapata-energija-i-rastot-na-cenite-nosat-nov-skok-na-kamatite-niz-svetot.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/09/pari-berza.jpg",
+      "date": "Mon, 14 Sep 2026 10:02:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Повредените по сообраќајката кај Миладиновци се во стабилна состојба | Журнал",
+      "title": "СДСМ: Мицкоски повторно слави бројка што не се мрднала – „Фич“ не кажа дека се живее подобро | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/9ab954accb/povredenite-po-soobrakajkata-kaj-miladinovci-se-vo-stabilna-sostojba.html",
-      "image": "",
-      "date": "Sun, 13 Sep 2026 19:52:37 +0000"
+      "url": "https://time.mk/c/21101adda2/sdsm-mickoski-povtorno-slavi-brojka-sto-ne-se-mrdnala-fic-ne-kaza-deka-se-zivee-podobro.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/09/sdsm-1.png",
+      "date": "Mon, 14 Sep 2026 09:43:06 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Еколошките организации ѝ дадоа рок на Владата за рудникот Иловица | Журнал",
+      "title": "Камионџиите го откажаа протестот во последен момент, добија ново ветување од ЕУ | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/16c8bbd41c/ekoloskite-organizacii-i-dadoa-rok-na-vladata-za-rudnikot-ilovica.html",
-      "image": "",
-      "date": "Sun, 13 Sep 2026 20:08:39 +0000"
+      "url": "https://time.mk/c/1e25084e3e/kamiondziite-go-otkazaa-protestot-vo-posleden-moment-dobija-novo-vetuvanje-od-eu.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/01/13681160-300x200.jpg",
+      "date": "Mon, 14 Sep 2026 08:32:40 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "8. пат “Трчај бе со Алпско“ во Битола – спортски празник со над 1.500 учесници од 18 земји и многу публика, низ повеќе од 100 фотографии | Битола Њуз",
+      "title": "Ситуацијата со пожарот на Брач е подобра од претходно, должината на пожарот е речиси 40 километри | Независен",
       "description": "",
-      "url": "https://time.mk/c/7afbb5524c/8-pat-trcaj-be-so-alpsko-vo-bitola-sportski-praznik-so-nad-1-500-ucesnici-od-18-zemji-i-mnogu-publika-niz-poveke-od-100-fotografii.html",
-      "image": "",
-      "date": "Sun, 13 Sep 2026 13:14:49 +0000"
+      "url": "https://time.mk/c/6ec3b72f1a/situacijata-so-pozarot-na-brac-e-podobra-od-prethodno-dolzinata-na-pozarot-e-recisi-40-kilometri.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/brac-pozar.jpg",
+      "date": "Mon, 14 Sep 2026 06:30:54 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Зошто Абу Даби и кој е новиот државен секретар за култура? | Независен",
+      "title": "Се очекува поскапување: Огромен скок на цените на нафтата по новите напади во Ормускиот Теснец | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/4545244874/zosto-abu-dabi-i-koj-e-noviot-drzaven-sekretar-za-kultura.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/abu-dabi.jpg",
-      "date": "Sun, 13 Sep 2026 18:10:54 +0000"
+      "url": "https://time.mk/c/5a0bcd946a/se-ocekuva-poskapuvanje-ogromen-skok-na-cenite-na-naftata-po-novite-napadi-vo-ormuskiot-tesnec.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/tanker-epa-avgust-26-1.jpg",
+      "date": "Mon, 14 Sep 2026 09:28:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ИНТЕРВЈУ | Иван Поповски за неговата соработка со Бајруш Мјаку во претставата „Татко“: Во театарот, сепак, најважен е човекот | Слободен Печат",
+      "title": "Ново предупредување по катастрофата во Непал: Хималаите се сè понестабилни | Трн",
       "description": "",
-      "url": "https://time.mk/c/2571006a3b/intervju-ivan-popovski-za-negovata-sorabotka-so-bajrus-mjaku-vo-pretstavata-tatko-vo-teatarot-sepak-najvazen-e-covekot.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/web-Ivan-Popovski-09092026-01-TD-300x225.jpg",
-      "date": "Sun, 13 Sep 2026 13:06:48 +0000"
+      "url": "https://time.mk/c/0d99142676/novo-predupreduvanje-po-katastrofata-vo-nepal-himalaite-se-se-ponestabilni.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/08/himalai-reka-custom.jpg",
+      "date": "Mon, 14 Sep 2026 09:02:53 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Скејт-заедницата со акција за обнова на скејт-паркот во Карпош | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/fa361981d4/skejt-zaednicata-so-akcija-za-obnova-na-skejt-parkot-vo-karpos.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/cover_16x9_alt_mk.webp",
+      "date": "Mon, 14 Sep 2026 09:50:55 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Митески: Комуналните екипи на Општината интензивно работат на терен - се чисти отпадот, се реконструираат игралиштата и се обновуваат клупите | Скопје инфо",
+      "description": "",
+      "url": "https://time.mk/c/c05d70083c/miteski-komunalnite-ekipi-na-opstinata-intenzivno-rabotat-na-teren-se-cisti-otpadot-se-rekonstruiraat-igralistata-i-se-obnovuvaat-klupite.html",
+      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/septemvri/image-260154.jpg?itok=C-1NXULO",
+      "date": "Mon, 14 Sep 2026 09:56:37 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Агресивно се однесувал и физички нападнал вработена во угостителски објект: Приведен 52-годишник во Гостивар | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/daeff129b5/agresivno-se-odnesuval-i-fizicki-napadnal-vrabotena-vo-ugostitelski-objekt-priveden-52-godisnik-vo-gostivar.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/63244/conversions/tepa-zena-max.jpg",
+      "date": "Mon, 14 Sep 2026 09:50:55 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "39-годишник осомничен дека му се заканувал на премиерот Мицкоски, Обвинителството бара притвор | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/180d12ae91/39-godisnik-osomnicen-deka-mu-se-zakanuval-na-premierot-mickoski-obvinitelstvoto-bara-pritvor.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/85016/conversions/text-max.jpg",
+      "date": "Mon, 14 Sep 2026 08:00:46 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Кавадаречки Дол добива ново уредување, се гради таложник | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/ac9df23bf3/kavadarecki-dol-dobiva-novo-ureduvanje-se-gradi-taloznik.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/85021/conversions/text-max.jpg",
+      "date": "Mon, 14 Sep 2026 09:55:01 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Пробавме домашни сокови и џемови, бевме на тарот сесија – Како си поминавме на КомшиLOOK во Побожје? (фото) | Црнобело",
+      "description": "",
+      "url": "https://time.mk/c/4612d6daf9/probavme-domasni-sokovi-i-dzemovi-bevme-na-tarot-sesija-kako-si-pominavme-na-komsilook-vo-pobozje-foto.html",
+      "image": "https://www.crnobelo.com/images/stories/2026/09/Site-patishta-vodat-kon-Komshilook-vo-Pobozje-02.jpg",
+      "date": "Mon, 14 Sep 2026 07:06:46 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Отворено 14. издание на „ПРО-ЗА Балкан“: Седум писатели за границите и стравот | Трн",
+      "description": "",
+      "url": "https://time.mk/c/e22b462e6b/otvoreno-14-izdanie-na-pro-za-balkan-sedum-pisateli-za-granicite-i-stravot.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/09/pro-za-balkan1.jpg",
+      "date": "Mon, 14 Sep 2026 09:50:55 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Македонската културна сцена доби покана за програмата на Кируна 2029 | Трн",
+      "description": "",
+      "url": "https://time.mk/c/50e30a2f67/makedonskata-kulturna-scena-dobi-pokana-za-programata-na-kiruna-2029.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/09/johan-ylitalo-festival.jpg",
+      "date": "Mon, 14 Sep 2026 08:30:52 +0000"
     }
   ],
   "de": [
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "SpiderCat: Neue Methode erleichtert den Kindle-Jailbreak",
+      "description": "SpiderCat erlaubt den Jailbreak vieler Kindle-Reader auf den verschiedensten Geräten. Dafür lädt man nur ein präpariertes E-Book herunter. Der Artikel SpiderCat: Neue Methode erleichtert den Kindle-Jailbreak erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/e-books/spidercat-neue-methode-erleichtert-den-kindle-jailbreak-333437.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/spidercat-neue-methode-erleichtert-den-kindle-jailbreak",
+      "date": "Mon, 14 Sep 2026 09:33:01 +0000"
+    },
     {
       "category": "de",
       "source": "Tarnkappe",
@@ -443,15 +452,6 @@
       "url": "https://tarnkappe.info/artikel/illegales-streaming-in-schweden-ruecklaeufig-die-ursachen-sind-unklar-333281.html",
       "image": "https://cdn.tarnkappe.info/wpimg/illegales-streaming-in-schweden-ruecklaeufig-die-ursachen-sind-unklar",
       "date": "Fri, 04 Sep 2026 08:40:17 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Film-Streaming im September 2026",
-      "description": "Illegale Portal für das Film-Streaming im September 2026. Die Szene ist einem wachsenden Druck der Rechteinhaber ausgesetzt. Wer ist noch da? Der Artikel Film-Streaming im September 2026 erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/listen/film-streaming-im-september-2026-333272.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/film-streaming-im-september-2026",
-      "date": "Thu, 03 Sep 2026 18:35:46 +0000"
     }
   ],
   "eng": [
@@ -638,6 +638,15 @@
     {
       "category": "eng",
       "source": "PCWorld",
+      "title": "Run Windows 11 Pro on your Mac through Parallels or Boot Camp for $10",
+      "description": "TL;DR: Windows 11 Pro runs inside Parallels Desktop, VMware Fusion, or Boot Camp on a Mac, complete with BitLocker, Hyper-V, and Azure AD for business use, and a lifetime license is on sale for $9.97 (reg. $199.00) through September 27. There’s a straightforward way to run a full Windows 11 installation on a Mac without buying a separate PC, and it starts with the same virtualization tools you’re already using. Windows 11 Pro installs inside Parallels Desktop, VMware Fusion, or a Boot Camp parti",
+      "url": "https://www.pcworld.com/article/3233587/run-windows-11-pro-on-your-mac-through-parallels-or-boot-camp-for-10.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3233587-0-01041600-1789372870-Windows-11-Pro.jpg?quality=50&strip=all",
+      "date": "Mon, 14 Sep 2026 08:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
       "title": "Best mini PC deals: Top Intel and AMD picks for performance, gaming, and more",
       "description": "At a glance Top AMD mini PC deal picks GMKtec M7 Ultra —$750 (12% off on Amazon) Reatan A8 —$519 with coupon (19% off on Amazon with coupon) Bosgame E5 —$260 (11% off on Amazon) Top Intel mini PC deal picks ACEMAGIC K1 —$440 (24% off on Amazon) Beelink Mini S12 Pro —$369 (14% off on Amazon) GMKtec G3 Pro —$330 (28% off on Amazon) Whether you’re looking for a productivity mini PC, something for gaming, or just a budget-friendly machine with a small footprint, we’ve got you covered. The team at PC",
       "url": "https://www.pcworld.com/article/2999556/best-mini-pc-deals-top-picks-for-performance-gaming-and-more.html",
@@ -715,15 +724,6 @@
       "url": "https://www.pcworld.com/article/3223779/a-cheap-adapter-can-add-usb-c-to-your-old-pc.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3223779-0-18965900-1789138837-acer-stick.jpg?quality=50&strip=all",
       "date": "Fri, 11 Sep 2026 15:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Microsoft is finally tackling Windows 11’s annoying Bluetooth problem",
-      "description": "Many users regard the Bluetooth function as a notorious weak point in Windows 11, and even Microsoft clearly sees Bluetooth as a problem. With the latest Windows update, the Redmond-based company is now looking to tackle this Achilles’ heel of its operating system. The changelog for the Windows 11 Insider Release Preview Build 26100.9539/26200.9539 for Windows 11 versions 24H2 and 25H2 highlights, alongside various other improvements, places a particular focus on Windows 11’s Bluetooth functiona",
-      "url": "https://www.pcworld.com/article/3233304/microsoft-is-finally-tackling-windows-11s-annoying-bluetooth-problem.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3233304-0-81480400-1789136603-Windows11Laptop.jpg?quality=50&strip=all",
-      "date": "Fri, 11 Sep 2026 14:23:10 +0000"
     }
   ],
   "starwars": [
@@ -998,5 +998,276 @@
       "date": "Fri, 11 Sep 2026 23:40:44 +0000"
     }
   ],
-  "youtube": []
+  "youtube": [
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "OpenAI Agenten übernehmen RubyGems...aber was ist mit dem Rest ?",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/SA41xgf4EJI",
+      "image": "https://i.ytimg.com/vi/SA41xgf4EJI/hqdefault.jpg",
+      "date": "2026-09-13T10:02:06+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Ein Forscher kündigt, ein Alignment Lead bestätigt ihn und.... niemand bremst.",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/Y6c5EaG9L5Q",
+      "image": "https://i.ytimg.com/vi/Y6c5EaG9L5Q/hqdefault.jpg",
+      "date": "2026-09-12T09:30:05+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Dieser Wurm verbreitet sich durch Anrufe #informatik #cybersecurity #wechat #code #news",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/W9azNPRFgR8",
+      "image": "https://i.ytimg.com/vi/W9azNPRFgR8/hqdefault.jpg",
+      "date": "2026-09-10T10:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Wie lernt man Hacken - Teil 2",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=t6cITUUl8ok",
+      "image": "https://i.ytimg.com/vi/t6cITUUl8ok/hqdefault.jpg",
+      "date": "2026-09-09T16:00:13+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "LG Fernseher lauschen mit ?! #informatik #news #cybersecurity #lg #tv",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/e6d0p6_i8qo",
+      "image": "https://i.ytimg.com/vi/e6d0p6_i8qo/hqdefault.jpg",
+      "date": "2026-09-09T10:15:04+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Episode 12 - Der Mann, dem 75 Cent nicht egal waren",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=RtJDi-9NJhg",
+      "image": "https://i.ytimg.com/vi/RtJDi-9NJhg/hqdefault.jpg",
+      "date": "2026-09-09T04:00:27+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Ist eine Wahl aus Papier sicher ?! #informatik #wahlen #itsicherheit #news",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/dBrpY6j9Mek",
+      "image": "https://i.ytimg.com/vi/dBrpY6j9Mek/hqdefault.jpg",
+      "date": "2026-09-08T10:20:05+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Warum Berlin sich nicht erpressen ließ #informatik #berlin #code #news #cybersecurity",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/TGvSFxZMF4M",
+      "image": "https://i.ytimg.com/vi/TGvSFxZMF4M/hqdefault.jpg",
+      "date": "2026-09-07T10:00:16+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Warum hat Berlin die 2 Mio € Lösegeld NICHT gezahlt?",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=dpJ74F5LJr4",
+      "image": "https://i.ytimg.com/vi/dpJ74F5LJr4/hqdefault.jpg",
+      "date": "2026-09-06T14:22:08+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Die Berliner Verwaltung wurde Opfer eines Cyberangriffs #news #informatik #cybersicherheit #berlin",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/AEGwSQSRe-g",
+      "image": "https://i.ytimg.com/vi/AEGwSQSRe-g/hqdefault.jpg",
+      "date": "2026-09-05T10:15:29+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Exploring The Last Coal Power Plant in Connecticut Bridgeport Harbor Station",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=CR84XRBKBzs",
+      "image": "https://i.ytimg.com/vi/CR84XRBKBzs/hqdefault.jpg",
+      "date": "2026-08-27T17:00:39+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Rocketdyne Santa Susana Field Laboratory Abandoned America Space Race (1948)",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=0lka-0REQrQ",
+      "image": "https://i.ytimg.com/vi/0lka-0REQrQ/hqdefault.jpg",
+      "date": "2026-04-23T17:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition AMC Seats And Screens Left Behind",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=UnG29VothuQ",
+      "image": "https://i.ytimg.com/vi/UnG29VothuQ/hqdefault.jpg",
+      "date": "2026-03-27T21:09:35+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition Fly by In And Out",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=fDnOH8ZsfTg",
+      "image": "https://i.ytimg.com/vi/fDnOH8ZsfTg/hqdefault.jpg",
+      "date": "2026-03-27T20:40:08+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "AMC Westfield Promenade Mall Raw Demolition Drone Footage",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/5iA5R3Jq4g0",
+      "image": "https://i.ytimg.com/vi/5iA5R3Jq4g0/hqdefault.jpg",
+      "date": "2026-03-27T18:03:29+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition AMC Coming Down First!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=SAxjFGjTiHQ",
+      "image": "https://i.ytimg.com/vi/SAxjFGjTiHQ/hqdefault.jpg",
+      "date": "2026-03-23T17:42:38+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Beautiful Art Deco Theater",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=ccfU0LSmkj8",
+      "image": "https://i.ytimg.com/vi/ccfU0LSmkj8/hqdefault.jpg",
+      "date": "2026-03-11T20:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Decommissioned Power Station #synthwave #synth #retrowave #abandonedplaces",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/mOUbNSMoBJs",
+      "image": "https://i.ytimg.com/vi/mOUbNSMoBJs/hqdefault.jpg",
+      "date": "2025-06-17T17:55:51+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Wheel of Misfortune Three Kids Mine Demolition",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=VXRselqoN-8",
+      "image": "https://i.ytimg.com/vi/VXRselqoN-8/hqdefault.jpg",
+      "date": "2025-06-17T17:45:42+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Resort with a River Running Through It",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=0ILQ06M4hA0",
+      "image": "https://i.ytimg.com/vi/0ILQ06M4hA0/hqdefault.jpg",
+      "date": "2025-06-01T20:15:01+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Install Windows 11 with a Local Account in 2026",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=juIh1auHo3s",
+      "image": "https://i.ytimg.com/vi/juIh1auHo3s/hqdefault.jpg",
+      "date": "2026-08-05T17:00:04+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Replace the Battery in a Dell Precision 7760 Laptop",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=JOVmOahO2xs",
+      "image": "https://i.ytimg.com/vi/JOVmOahO2xs/hqdefault.jpg",
+      "date": "2026-03-11T17:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Use & Combine Joy-Con Controllers on the Steam Deck!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=p9ZdCe-eW1M",
+      "image": "https://i.ytimg.com/vi/p9ZdCe-eW1M/hqdefault.jpg",
+      "date": "2025-12-05T18:01:07+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Borderlands GOTY Enhanced Co-Op Lag Fix on PC | Windows & Steam Deck",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=UsaKlS3WBBs",
+      "image": "https://i.ytimg.com/vi/UsaKlS3WBBs/hqdefault.jpg",
+      "date": "2025-08-20T17:00:42+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Thrifty Gaming Pickups 058 - Going Through a Bag of Games, Controllers, and More!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=yKwMn2OMLLY",
+      "image": "https://i.ytimg.com/vi/yKwMn2OMLLY/hqdefault.jpg",
+      "date": "2025-05-07T17:01:12+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Thrifty Gaming Pickups 057 - Returning to Old Thrift Shops + A Big Xbox 360 Bundle!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=EOQgA7Q8Kw8",
+      "image": "https://i.ytimg.com/vi/EOQgA7Q8Kw8/hqdefault.jpg",
+      "date": "2024-12-04T18:00:14+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Thrifty Gaming Pickups 056 - Import Switch Games, Switch Lite, Xbox, and Xbox 360 Games!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=xaNcbxQkk5k",
+      "image": "https://i.ytimg.com/vi/xaNcbxQkk5k/hqdefault.jpg",
+      "date": "2024-06-12T17:00:40+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Thrifty Gaming Pickups 055 - Japanese Xbox 360 Imports, Consoles, and More!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=fvzT178zAlk",
+      "image": "https://i.ytimg.com/vi/fvzT178zAlk/hqdefault.jpg",
+      "date": "2024-05-15T17:00:26+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Final Fantasy VII Rebirth Best Buy Steelbook (PS5) #shorts",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/k02mkNRvIYE",
+      "image": "https://i.ytimg.com/vi/k02mkNRvIYE/hqdefault.jpg",
+      "date": "2024-03-01T18:00:24+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Final Fantasy VII Rebirth Deluxe Edition Unboxing (PS5) #shorts",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/SFwXpq5kwe4",
+      "image": "https://i.ytimg.com/vi/SFwXpq5kwe4/hqdefault.jpg",
+      "date": "2024-03-01T02:23:40+00:00"
+    }
+  ]
 }
