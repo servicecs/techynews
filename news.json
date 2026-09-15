@@ -1,6 +1,33 @@
 {
-  "updated": "2026-09-15T07:24:03.693849+00:00",
+  "updated": "2026-09-15T12:49:56.282278+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Apple TV сервисот овој месец станува достапен во Македонија",
+      "description": "После повеќе години на доста ограничена достапност, Apple конечно ја проширува достапноста на нивниот сервис за стриминг на филмови и серии, Apple TV. Проширувањето се прави во повеќе земји, меѓу кои е и Македонија. Тоа што е интересно е стратегијата која Apple ја применува за нашиот и сличните пазари, па наместо само преку стандардна претплата […]",
+      "url": "https://smartportal.mk/novosti/servisi/apple-tv-makedonija/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/en-us-large@1x-150x150.webp",
+      "date": "Tue, 15 Sep 2026 12:21:31 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "OpenRGB ја доби верзијата 1.0 по речиси три години развој",
+      "description": "Софтверот OpenRGB официјално ја доби својата верзија 1.0, што претставува прво нумерирано стабилно издание по повеќе од три години од објавувањето на претходната верзија 0.9. За корисниците кои првпат се среќаваат со оваа апликација, OpenRGB е софтверска алатка со отворен код која овозможува контрола на RGB осветлувањето од различни хардверски брендови преку еден централен софтвер. […]",
+      "url": "https://smartportal.mk/novosti/gejming/openrgb-verzija-1-0/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/jose-g-ortega-castro-UGAyT0Xll0k-unsplash-f-150x150.webp",
+      "date": "Tue, 15 Sep 2026 08:01:36 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Новиот A20 Pro чип од Apple поставува нови стандарди за перформансите кај мобилните уреди",
+      "description": "Најновата генерација од мобилниот чип на Apple, A20 Pro, кој беше претставен со новите iPhone 18 Pro и iPhone Duo, покажува забележителен скок во перформансите. Изработен со технологија од 2 нанометри, овој чип постави нов рекорд во алатката за тестирање Geekbench 7. Со архитектонски подобрувања и работни фреквенции кои достигнуваат до 4.93 GHz, новиот процесор […]",
+      "url": "https://smartportal.mk/novosti/smartfoni/a20-pro-apple-novi-standardi-mobilni-performansi/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-A20-Pro-chip-260909-1-150x150.webp",
+      "date": "Tue, 15 Sep 2026 07:26:37 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -66,213 +93,195 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Cloudflare воведува пост-квантна DNSSEC поддршка кај 1.1.1.1 сервисот",
-      "description": "1.1.1.1 DNS сервисот на Cloudflare од сега поддржува пост-квантен DNSSEC преку валидација на дигитални потписи направени со ML-DSA-44, нов алгоритам неодамна стандардизиран од американскиот Национален институт за стандарди и технологија (NIST). Овој чекор е дел од пошироката стратегија на компанијата да постигне целосна пост-квантна безбедност до 2029 година и ги подготвува системите за иднината во […]",
-      "url": "https://smartportal.mk/novosti/veb-i-bezbednost/cloudflare-post-kvantna-dnssec-poddrska-1-1-1-1/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/cf_image-1-150x150.webp",
-      "date": "Fri, 11 Sep 2026 10:50:05 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Android добива нова функција за директен пренос на податоците помеѓу различни менаџери за лозинки",
-      "description": "Google најави нова опција во нивниот Android која овозможува безбедно и директно пренесување на лозинките и „passkeys“ помеѓу различни апликации менаџери за лозинки. Целиот процес се одвива преку неколку допири на екранот, елиминирајќи ја досегашната пракса на преземање на податоците во „нешифрирани“ текстуални датотеки кои претставуваа потенцијален безбедносен ризик за корисниците. Во минатото, преносот на […]",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/android-funkcija-transfer-pomegju-menadzeri-za-lozinki/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Hero_Image_4.width-2200.format-webp-150x150.webp",
-      "date": "Fri, 11 Sep 2026 10:15:29 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Џон Тернус и Грег Џозвиак разговараат за новиот iPhone Duo и главната новина кај iPhone 18 Pro моделите",
-      "description": "Како што сигурно знаете, после 7-8 години, односно скоро цела декада на постоење на пазарот на уреди на преклоп, Apple дури сега реши да влезе со нивниот прв iPhone на преклоп, iPhone Duo. Јасни се причините зошто од компанијата дури сега се одлучија на истото, но дефинитивно интересно е тие да се слушнат директно од […]",
-      "url": "https://smartportal.mk/novosti/licnosti/john-ternus-greg-joswiak-video-toms-guide-techradar/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/john-joz-tg-tr-1-150x150.webp",
-      "date": "Fri, 11 Sep 2026 09:28:37 +0000"
+      "source": "Time.mk - All",
+      "title": "Хорор-комедијата „Заливот на вдовиците“ триумфираше на „Еми“ наградите; Со рекордни 14 статуетки | Вечер Прес",
+      "description": "",
+      "url": "https://time.mk/c/221bb01461/horor-komedijata-zalivot-na-vdovicite-triumfirase-na-emi-nagradite-so-rekordni-14-statuetki.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/prva-metju-.jpg",
+      "date": "Tue, 15 Sep 2026 12:06:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "МЕТЈУ РИС ИСПИША ИСТОРИЈА СО ДВЕ НАГРАДИ ЕМИ ЗА НАЈДОБАР АКТЕР ВО ЕДНА ВЕЧЕР | Сакам да кажам",
+      "title": "Сали: Процесот на интеграција во ЕУ треба да се заснова на заслуги | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/91711a3286/metju-ris-ispisa-istorija-so-dve-nagradi-emi-za-najdobar-akter-vo-edna-vecer.html",
-      "image": "https://smart.sdk.mk/wp-content/uploads/2026/09/download-2-958x575.webp",
-      "date": "Tue, 15 Sep 2026 06:20:43 +0000"
+      "url": "https://time.mk/c/be78312103/sali-procesot-na-integracija-vo-eu-treba-da-se-zasnova-na-zaslugi.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2026/09/Bekim-Sali.png",
+      "date": "Tue, 15 Sep 2026 11:30:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Наместо во служба на правдата и граѓаните, правосудството се претвори во бастион на СДС и ДУИ кој го штити Филипче, Заев и останатите“, вели ВМРО-ДПМНЕ | Скопје1",
+      "title": "ФОТО | Ученици денеска „гласаа“ со Собранието по повод Денот на демократијата | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/1a8de08473/namesto-vo-sluzba-na-pravdata-i-gragjanite-pravosudstvoto-se-pretvori-vo-bastion-na-sds-i-dui-koj-go-stiti-filipce-zaev-i-ostanatite-veli-vmro-dpmne.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/83961/conversions/text-max.jpg",
-      "date": "Tue, 15 Sep 2026 06:58:48 +0000"
+      "url": "https://time.mk/c/0f4c449a26/foto-ucenici-deneska-glasaa-so-sobranieto-po-povod-denot-na-demokratijata.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/Den-na-demokratija-vo-Sobranie-foto-Antonijo-Miloshoski-Facebook-4-300x200.jpg",
+      "date": "Tue, 15 Sep 2026 12:40:41 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "КАКО НАЈК ЗАГУБИ 220 МИЛИОНИ ДОЛАРИ – од најмоќен спортски бренд до 12-годишно берзанско дно | Пари",
+      "title": "ТАТКОТО НА СУДИЈАТА ЃОКО РИСТОВ РЕКОЛ ДЕКА КРИЕЛ ПАРИ ОД ДЕЦАТА КОГА ИСТРАЖИТЕЛИТЕ ГИ ВАДЕЛЕ ЕВРАТА ОД ЅИДОТ, СОПСТВЕНИК НА МОБИЛАРА НЕГИРА ДЕКА ОБВИНЕТИОТ ДОНЕЛ СКРШЕН ТЕЛЕФОН КАЈ НЕГО | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/85a459f832/kako-najk-zagubi-220-milioni-dolari-od-najmoken-sportski-brend-do-12-godisno-berzansko-dno.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/09/Najk.jpg",
-      "date": "Tue, 15 Sep 2026 06:20:43 +0000"
+      "url": "https://time.mk/c/57a63a884f/tatkoto-na-sudijata-gjoko-ristov-rekol-deka-kriel-pari-od-decata-koga-istrazitelite-gi-vadele-evrata-od-zidot-sopstvenik-na-mobilara-negira-deka-obvinetiot-donel-skrsen-telefon-kaj-nego.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/06/sudenje-na-sudija-gjoko-ristov-1.jpg",
+      "date": "Tue, 15 Sep 2026 10:43:07 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "СДСМ: Арамија Мицкоски останува посветен на провизиите од дата-центрите -на сметка на народната струја, народната вода и сметките на граѓаните | Скопје1",
+      "title": "Постапено е според протоколите, велат од ГАК за случајот со медицинска сестра која го загуби плодот | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/8dcbfd63b7/sdsm-aramija-mickoski-ostanuva-posveten-na-proviziite-od-data-centrite-na-smetka-na-narodnata-struja-narodnata-voda-i-smetkite-na-gragjanite.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/83317/conversions/text-max.jpg",
-      "date": "Tue, 15 Sep 2026 06:36:36 +0000"
+      "url": "https://time.mk/c/7503f78c8d/postapeno-e-spored-protokolite-velat-od-gak-za-slucajot-so-medicinska-sestra-koja-go-zagubi-plodot.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2023/07/ginekologija-gak.jpg",
+      "date": "Tue, 15 Sep 2026 11:48:37 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Апасиев: Додека мене ми ги отфрлаа пријавите за закани по животот и семејството, за „Мицика“ цело МВР и ОЈО се ставија на нозе | Антропол",
+      "title": "Или побрз влез во ЕУ, или новите правила немаат смисла | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/f71d911e08/apasiev-dodeka-mene-mi-gi-otfrlaa-prijavite-za-zakani-po-zivotot-i-semejstvoto-za-micika-celo-mvr-i-ojo-se-stavija-na-noze.html",
-      "image": "https://antropol.mk/wp-content/uploads/2026/01/apasiev2.webp",
-      "date": "Tue, 15 Sep 2026 06:17:07 +0000"
+      "url": "https://time.mk/c/902414d8e5/ili-pobrz-vlez-vo-eu-ili-novite-pravila-nemaat-smisla.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/01/Hristijan-Mickoski-i-Marta-Kos-4-300x235.jpg",
+      "date": "Tue, 15 Sep 2026 12:48:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВЛЕН: Се решава проблемот со просторните капацитети на УМТ, новиот кампус од 42 милиони евра носи трајно решение | 24Инфо",
+      "title": "Со 100 евра месечно до старосна пензија | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/721ebf8728/vlen-se-resava-problemot-so-prostornite-kapaciteti-na-umt-noviot-kampus-od-42-milioni-evra-nosi-trajno-resenie.html",
-      "image": "https://24info.mk/wp-content/uploads/2025/05/vredi-vlen.jpg",
-      "date": "Tue, 15 Sep 2026 06:40:46 +0000"
+      "url": "https://time.mk/c/3370ae851d/so-100-evra-mesecno-do-starosna-penzija.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/2-tekst-dokup-na-staz.jpg",
+      "date": "Tue, 15 Sep 2026 12:48:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Нов удар за возачите и транспортот: Дизелот станува сè поскап и поредок | Пари",
+      "title": "Божиновска: Сакаме закон што ќе отвори простор за инвестиции и развој, но нема да има компромис со животната средина, граѓаните и интересите на локалните заедници | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/7b4f5dc44d/nov-udar-za-vozacite-i-transportot-dizelot-stanuva-se-poskap-i-poredok.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2020/10/gorivo-benzin-2.jpg",
-      "date": "Tue, 15 Sep 2026 04:36:37 +0000"
+      "url": "https://time.mk/c/eacd1bc02b/bozinovska-sakame-zakon-sto-ke-otvori-prostor-za-investicii-i-razvoj-no-nema-da-ima-kompromis-so-zivotnata-sredina-gragjanite-i-interesite-na-lokalnite-zaednici.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/sanja-iam00111-1.webp",
+      "date": "Tue, 15 Sep 2026 12:14:54 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Што се троши повеќе во Македонија, дизел или бензин? | еМагазин",
+      "title": "Студентите објавија план од 11 точки за Србија: Лустрација, полициска чистка, РТС | Независен",
       "description": "",
-      "url": "https://time.mk/c/3058c1886b/sto-se-trosi-poveke-vo-makedonija-dizel-ili-benzin.html",
-      "image": "https://emagazin.mk/wp-content/uploads/2025/05/gorivo-benzin1-300x200.jpg",
-      "date": "Tue, 15 Sep 2026 05:58:53 +0000"
+      "url": "https://time.mk/c/25da09d6fd/studentite-objavija-plan-od-11-tocki-za-srbija-lustracija-policiska-cistka-rts.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/studenti-srbija1.jpg",
+      "date": "Tue, 15 Sep 2026 11:34:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Чакал влегол во шатор и нападнал дете во камп во Неос Мармарас | Скопје1",
+      "title": "Бившиот потпарол на грчката неонацистичка Златна зора излезе од затвор, најави формирање на нова „моќна“ партија | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/e458fc7f20/cakal-vlegol-vo-sator-i-napadnal-dete-vo-kamp-vo-neos-marmaras.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/85061/conversions/text-max.jpg",
-      "date": "Tue, 15 Sep 2026 06:36:36 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ВИДЕО | Маршираа со звуците на „Маршот на Дрина“: српските студенти ги предадоа потписите за своја изборна листа | Слободен Печат",
-      "description": "",
-      "url": "https://time.mk/c/2eb9bb1495/video-marsiraa-so-zvucite-na-marsot-na-drina-srpskite-studenti-gi-predadoa-potpisite-za-svoja-izborna-lista.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/studentska-izborna-ista-Srbija-300x168.jpg",
-      "date": "Mon, 14 Sep 2026 19:06:57 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Авиони на НАТО соборија дрон во воздушниот простор на Украина | Слободен Печат",
-      "description": "",
-      "url": "https://time.mk/c/8769e6ba61/avioni-na-nato-soborija-dron-vo-vozdusniot-prostor-na-ukraina.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2024/03/Holandski-i-amerikanski-f35a-vo-formacija-Fotografija-Profimedia-300x200.jpg",
-      "date": "Tue, 15 Sep 2026 06:52:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "„Црвено“ утро на берзите: Акциите поврзани со вештачка интелигенција паѓаат, нафтата повторно над 100 долари | Фактор",
-      "description": "",
-      "url": "https://time.mk/c/3f2b6996b2/crveno-utro-na-berzite-akciite-povrzani-so-vestacka-inteligencija-pagjaat-naftata-povtorno-nad-100-dolari.html",
-      "image": "https://faktor.mk/media/main/2026/09/20260915090548.jpg",
-      "date": "Tue, 15 Sep 2026 07:10:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Скопје меѓу сјајот и сметот: Камениот мост ќе светне, но што ќе осветли покрај Вардар? | Паноптикум",
-      "description": "",
-      "url": "https://time.mk/c/3b48ab2bfd/skopje-megju-sjajot-i-smetot-kameniot-most-ke-svetne-no-sto-ke-osvetli-pokraj-vardar.html",
-      "image": "https://panoptikum.mk/wp-content/uploads/osvetluvanje-na-kamen-most.webp",
-      "date": "Mon, 14 Sep 2026 21:34:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Ѓорѓиевски: Жените се столб на нашата држава и незаменлива сила во демократскиот развој | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/afd554dec5/gjorgjievski-zenite-se-stolb-na-nasata-drzava-i-nezamenliva-sila-vo-demokratskiot-razvoj.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/85057/conversions/text-max.jpg",
-      "date": "Mon, 14 Sep 2026 18:50:50 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Огнот кај поречкото село Белица е под контрола, утрово нема други активни пожари | Слободен Печат",
-      "description": "",
-      "url": "https://time.mk/c/882a6f25d2/ognot-kaj-poreckoto-selo-belica-e-pod-kontrola-utrovo-nema-drugi-aktivni-pozari.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/pozarni-vozila-300x173.jpg",
-      "date": "Tue, 15 Sep 2026 06:58:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Вештачење за „Пулс“: Полиетиленскиот сунѓер не смеел да се користи за спуштен плафон во дискотеката | Фокус",
-      "description": "",
-      "url": "https://time.mk/c/6659b0d265/vestacenje-za-puls-polietilenskiot-sungjer-ne-smeel-da-se-koristi-za-spusten-plafon-vo-diskotekata.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/09/20260914152245_big_730x400_51.webp",
-      "date": "Mon, 14 Sep 2026 13:32:39 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Нацков: Вложуваме во образованието и развојот на Градско – бесплатна градинка, оброк и стипендии за најдобрите ученици | Press24",
-      "description": "",
-      "url": "https://time.mk/c/48549282c5/nackov-vlozuvame-vo-obrazovanieto-i-razvojot-na-gradsko-besplatna-gradinka-obrok-i-stipendii-za-najdobrite-ucenici.html",
+      "url": "https://time.mk/c/8f53f156ba/bivsiot-potparol-na-grckata-neonacisticka-zlatna-zora-izleze-od-zatvor-najavi-formiranje-na-nova-mokna-partija.html",
       "image": "",
-      "date": "Mon, 14 Sep 2026 10:32:41 +0000"
+      "date": "Tue, 15 Sep 2026 12:08:44 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Битола во знакот на соларната енергија | Проверено",
+      "title": "САБОТАЖА НА ЖЕЛЕЗНИЦАТА ВО ХОЛАНДИЈА Долги метални цевки прицврстени на пругите го прекинаа сообраќајот | +инфо",
       "description": "",
-      "url": "https://time.mk/c/add03d1942/bitola-vo-znakot-na-solarnata-energija.html",
-      "image": "https://provereno.mk/wp-content/uploads/2026/09/Screenshot-2026-09-15-005608-300x279.png",
-      "date": "Tue, 15 Sep 2026 05:02:51 +0000"
+      "url": "https://time.mk/c/64070ed95b/sabotaza-na-zeleznicata-vo-holandija-dolgi-metalni-cevki-pricvrsteni-na-prugite-go-prekinaa-soobrakajot.html",
+      "image": "https://plusinfo.mk/wp-content/uploads/2026/09/sabotaza-holandija-e1789470847155.jpg",
+      "date": "Tue, 15 Sep 2026 11:23:10 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Јован Јованов и Елвир Мекиќ подготвуваат концертен спектакл на Пастрмалијада во Штип – нова можност публиката да ужива во нивните безвременски хитови | Макфакс",
+      "title": "Цената на нафтата руши рекорди | Press24",
       "description": "",
-      "url": "https://time.mk/c/38940a2042/jovan-jovanov-i-elvir-mekik-podgotvuvaat-koncerten-spektakl-na-pastrmalijada-vo-stip-nova-moznost-publikata-da-uziva-vo-nivnite-bezvremenski-hitovi.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/jovan-jovanov-i-elvir-mekikj-01.webp",
-      "date": "Tue, 15 Sep 2026 07:10:49 +0000"
+      "url": "https://time.mk/c/0e3856e9aa/cenata-na-naftata-rusi-rekordi.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/70968.jpg",
+      "date": "Tue, 15 Sep 2026 10:56:39 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "136 години од раѓањето на Агата Кристи, најпродаваната писателка на детективски романи | Трн",
+      "title": "Барутана го тресе Центар, ЗНАМ бара детална ревизија на планот | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/26f377681e/136-godini-od-ragjanjeto-na-agata-kristi-najprodavanata-pisatelka-na-detektivski-romani.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/09/ac_about_3b.avif",
-      "date": "Tue, 15 Sep 2026 06:30:56 +0000"
+      "url": "https://time.mk/c/5bdc27d3f0/barutana-go-trese-centar-znam-bara-detalna-revizija-na-planot.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/barutana-1.jpg",
+      "date": "Tue, 15 Sep 2026 11:24:42 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "(ФОТО) Акција во Општина Центар: Расчистен Паркот на новинарите кај „Нова Македонија“ | Press24",
+      "description": "",
+      "url": "https://time.mk/c/b37d19fa09/foto-akcija-vo-opstina-centar-rascisten-parkot-na-novinarite-kaj-nova-makedonija.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/70962.jpeg",
+      "date": "Tue, 15 Sep 2026 10:54:51 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Заталкан куршум ранил жена во Драчево додека седела во својот двор | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/f1c1011fcc/zatalkan-kursum-ranil-zena-vo-dracevo-dodeka-sedela-vo-svojot-dvor.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2022/07/kurshum-300x167.jpg",
+      "date": "Tue, 15 Sep 2026 12:32:39 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Нова кривична пријава за Стевче Јакимовски | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/4df989dc93/nova-krivicna-prijava-za-stevce-jakimovski.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2024/04/stevce-jakimovski-telma-300x164.jpg",
+      "date": "Tue, 15 Sep 2026 11:44:53 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "(ВИДЕО) Тоневски: Потпишан договор за целосна реконструкција на ракометното игралиште во Пробиштип | Репортер",
+      "description": "",
+      "url": "https://time.mk/c/a4b08619d6/video-tonevski-potpisan-dogovor-za-celosna-rekonstrukcija-na-rakometnoto-igraliste-vo-probistip.html",
+      "image": "https://reporter.mk/wp-content/uploads/2026/09/Screenshot_20260915_120149_Facebook-300x169.jpg",
+      "date": "Tue, 15 Sep 2026 10:04:38 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Во Битола презентирани модели за алтернативно производство на електрична енергија од сонце | Агротим",
+      "description": "",
+      "url": "https://time.mk/c/3221048682/vo-bitola-prezentirani-modeli-za-alternativno-proizvodstvo-na-elektricna-energija-od-sonce.html",
+      "image": "https://agrotim.mk/wp-content/uploads/2026/09/bitola-gogreen-860x484.jpg",
+      "date": "Tue, 15 Sep 2026 12:24:37 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "„Chat GPT и Македонците“ тргнува на турнеја: Бојан Велевски ја става вештачката интелигенција на македонски тест | еМагазин",
+      "description": "",
+      "url": "https://time.mk/c/b6c67f3bda/chat-gpt-i-makedoncite-trgnuva-na-turneja-bojan-velevski-ja-stava-vestackata-inteligencija-na-makedonski-test.html",
+      "image": "https://emagazin.mk/wp-content/uploads/2026/09/bojan-velevski-turneja-1-300x200.jpg",
+      "date": "Tue, 15 Sep 2026 12:16:39 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Продолжуваат „Звуците на културата во Ѓорче 2026“ – забавна програма за сите генерации | Екран",
+      "description": "",
+      "url": "https://time.mk/c/1ef9bfe8f9/prodolzuvaat-zvucite-na-kulturata-vo-gjorce-2026-zabavna-programa-za-site-generacii.html",
+      "image": "https://ekran.mk/wp-content/uploads/2026/09/Zvutsi-na-kulturata-1.jpg",
+      "date": "Tue, 15 Sep 2026 10:48:45 +0000"
     }
   ],
   "de": [
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Suyu verabschiedet sich mit einem Knall, bietet native PC-Performance",
+      "description": "Der Emulator Suyu bietet mit dem letzten Release v0.0.4 eine beinahe native PC-Performance, die vieles flüssiger laufen lässt. Der Artikel Suyu verabschiedet sich mit einem Knall, bietet native PC-Performance erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/gaming/suyu-verabschiedet-sich-mit-einem-knall-bietet-native-pc-performance-333459.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/suyu-verabschiedet-sich-mit-einem-knall-bietet-native-pc-performance",
+      "date": "Tue, 15 Sep 2026 07:43:14 +0000"
+    },
     {
       "category": "de",
       "source": "Tarnkappe",
@@ -443,18 +452,18 @@
       "url": "https://tarnkappe.info/artikel/softwareentwicklung/preisanalyse-bahnsparer-im-vergleich-mit-fareweave-333300.html",
       "image": "https://cdn.tarnkappe.info/wpimg/preisanalyse-bahnsparer-im-vergleich-mit-fareweave",
       "date": "Sun, 06 Sep 2026 08:42:43 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Firefox installiert KI ungefragt",
-      "description": "Firefox installiert eine lokale KI-Komponenten für die Autofill-Funktion auf dem Rechner. Welche Aufgabe hat TinyBERT, wie wird man ihn los? Der Artikel Firefox installiert KI ungefragt erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/it-sicherheit/datenschutz/firefox-installiert-ki-ungefragt-333290.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/firefox-installiert-ki-ungefragt",
-      "date": "Sun, 06 Sep 2026 07:35:08 +0000"
     }
   ],
   "eng": [
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This 65-Inch Samsung OLED TV Is $200 Off Right Now",
+      "description": "This 65-inch TV offers OLED picture quality and 120Hz gaming performance—and it's now at its best price.",
+      "url": "https://lifehacker.com/tech/samsung-oled-s85h-tv-sale-september-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01KYJ5JSX07G77615VNBXBBRDQ/hero-image.png",
+      "date": "Tue, 15 Sep 2026 12:30:00 +0000"
+    },
     {
       "category": "eng",
       "source": "Lifehacker",
@@ -628,12 +637,39 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "These Are the Most Affordable Running Watches With Maps",
-      "description": "Take your pick: I have favorites at $170, $249, $399, and $750.",
-      "url": "https://lifehacker.com/health/affordable-running-watches-maps?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M28RYJD7R2J52FJSCZGKHBT7/hero-image.jpg",
-      "date": "Fri, 11 Sep 2026 18:30:11 +0000"
+      "source": "PCWorld",
+      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
+      "description": "If you’re looking for an affordable Windows machine under $500 , a blazing fast gaming beast for those intense matches, or a portable 2-in-1 for school or work, you’ve got plenty of great choices right now. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 80 laptops every year. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches",
+      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/550968-0-64157900-1789474601-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
+      "date": "Tue, 15 Sep 2026 12:16:20 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Rockstar won’t say when GTA 6 hits PC, so I did the math",
+      "description": "Grand Theft Auto VI will be, barring some sort of disaster, the biggest piece of media released in 2026. Doctor Doom, eat your cold, stony little heart out. It’s practically guaranteed to be the largest game launch in years, possibly ever…despite being limited to an Xbox and PlayStation debut. The game is inevitably coming to PC later — like its fictional criminal heroes, Rockstar’s not going to leave that kind of money on the table. But how long will it take? That’s the question I’m pondering i",
+      "url": "https://www.pcworld.com/article/3234659/rockstar-wont-say-when-gta-6-hits-pc-so-i-did-the-math.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3234659-0-02451300-1789473624-image_e65aca.png",
+      "date": "Tue, 15 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "How to reinstall Windows and give your PC a fresh start",
+      "description": "Once upon a time, “reinstalling Windows” was an often recommended remedy for all sorts of computer problems. Windows 95 and XP were notorious for becoming less stable over time, with “crap in the machine” in the form of settings left in the Registry, traces of uninstalled programs that had not been properly removed, and other things that lurked. Indeed, many people chose to reinstall from time to time even if the computer showed no symptoms, as part of regular maintenance. get windows 11 pro for",
+      "url": "https://www.pcworld.com/article/2433888/how-to-reinstall-windows-and-give-your-pc-a-fresh-start.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/2433888-0-34982200-1789468224-Windows11_9691e2.jpg?quality=50&strip=all",
+      "date": "Tue, 15 Sep 2026 10:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "One AI dashboard replaces your browser tabs and your Claude and GPT sub — $39.99",
+      "description": "TL;DR: AskAnyModel AI Pro Plan puts 50+ AI models, including GPT, Claude, and Gemini, into one dashboard for $39.99 (reg. $499.00). Comparing AI models usually means opening a bunch of browser tabs, each with its own login and interface, to see which one gives a straight answer to the same question. AskAnyModel AI Pro replaces all of that with one dashboard, and a lifetime subscription covering 50-plus AI models is on sale for $39.99 (reg. $499.00). Sending one prompt to up to six models at once",
+      "url": "https://www.pcworld.com/article/3234898/one-ai-dashboard-replaces-your-browser-tabs-and-your-claude-and-gpt-sub-39-99.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3234898-0-12479900-1789459248-AskAnyModel_beaa0d.jpg?quality=50&strip=all",
+      "date": "Tue, 15 Sep 2026 08:00:00 +0000"
     },
     {
       "category": "eng",
@@ -688,42 +724,6 @@
       "url": "https://www.pcworld.com/article/3234625/hp-and-lenovo-laptops-are-the-latest-victims-of-a-windows-11-update.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3234625-0-12116800-1789398840-Windows-11-blue-screen-crash-error-on-laptop-screen.jpg?quality=50&strip=all",
       "date": "Mon, 14 Sep 2026 15:13:41 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "This free PowerToys command bar replaces several Windows search features",
-      "description": "The Microsoft PowerToys suite for Windows include the Command Palette, a tool that is often overlooked but actually offers a vast range of functions. For example, the program includes a search function that combines several other Windows search features into a single interface. The easiest way to install the PowerToys is via the Microsoft Store . Once the installation is complete, launch the software, then open the ‘System’ section on the left-hand side of the window and click on ‘Command Palett",
-      "url": "https://www.pcworld.com/article/3225916/this-free-powertoys-command-bar-replaces-several-windows-search-features.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3225916-0-04915500-1789398030-Microsoft-PowerToys-logo-on-background.jpg?quality=50&strip=all",
-      "date": "Mon, 14 Sep 2026 15:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "My favorite lightweight laptop is almost $500 off today",
-      "description": "$880 — $470 off regular price Asus Zenbook A14 with 16GB of RAM SEE DEAL It’s dang hard to find a decent deal on a laptop in 2026, nevermind one that you’d actually enjoy using. But the one I picked for my own personal machine is on sale fora downright respectable price — in fact, it’s a newer version with a faster, more efficient processor. Today you can get the Asus Zenbook A14 from Best Buy for just $880 . I’ve spoken about this design a lot, because I really like it. The Zenbook A14 is the A",
-      "url": "https://www.pcworld.com/article/3234607/my-favorite-lightweight-laptop-is-almost-500-off-today.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3234607-0-55460800-1789394929-image_57ad15.png",
-      "date": "Mon, 14 Sep 2026 14:08:34 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Acemagic K1 review: This cheap Ryzen mini PC has one easy-to-fix weakness",
-      "description": "At a glance Expert's Rating Pros Compact case with plenty of ports Impressive multi-core performance for its price range Low power consumption of around 5 watts when idle Second M.2 slot for additional mass storage Windows 11 Pro with updates largely up to date Cons SATA SSD significantly slower than NVMe RAM is soldered in place; cannot be upgraded Our Verdict The Acemagic K1 handles office work, video conferencing, and streaming without a hitch. For the price, the Ryzen 5 delivers surprisingly",
-      "url": "https://www.pcworld.com/article/3223784/acemagic-k1-review.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3223784-0-55630300-1789394431-Test-Acemagic-K1.png",
-      "date": "Mon, 14 Sep 2026 14:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Windows 11 has a secret way to skip the Microsoft account requirement",
-      "description": "Microsoft really wants you to use a Microsoft account when setting up Windows 11, and that’s why the company has been killing the workarounds for using Windows 11 with only a local account . Even so, a new trick—one that’s incredibly simple—has just been discovered. This newly discovered trick allows you to bypass the mandatory Microsoft account requirement when installing Windows 11, and it doesn’t involve any complicated workarounds, terminal commands, tampered installation files, or fancy man",
-      "url": "https://www.pcworld.com/article/3234621/windows-11-has-a-secret-way-to-skip-the-microsoft-account-requirement.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3234621-0-51926700-1789394008-Microsoft-signin-screen-for-Windows-10.jpg?quality=50&strip=all",
-      "date": "Mon, 14 Sep 2026 13:50:57 +0000"
     }
   ],
   "starwars": [
@@ -811,6 +811,24 @@
     {
       "category": "starwars",
       "source": "Star Wars Union",
+      "title": "Nur echt in Lebensgröße: Star-Wars-Figuren für das Lucas-Museum",
+      "description": "Das Team von Tom Spina Designs berichtet über seine Arbeit an 11 Filmfiguren für die Ausstellung Star Wars in Motion.",
+      "url": "https://starwars-union.de/nur-echt-in-lebensgroesse-star-wars-figuren-fuer-das-lucas-museum/",
+      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/09/Silikonfiguren-fuer-das-Lucas-Museum.jpg",
+      "date": "Tue, 15 Sep 2026 08:08:07 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars Union",
+      "title": "Lucasfilm Games feiert seine Spiele",
+      "description": "Mit einem Sizzle-Reel-Teaser, der auch vielfach Totgesagtes enthält.",
+      "url": "https://starwars-union.de/lucasfilm-games-feiert-seine-spiele/",
+      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2025/03/20210111-lucasfilm-games-web.jpg",
+      "date": "Tue, 15 Sep 2026 07:53:42 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars Union",
       "title": "Doppelschlag im IMAX-Format: Krieg der Sterne und Starfighter kommen 2027 auf die ganz große Leinwand",
       "description": "Im Februar und Mai in ausgewählten IMAX-Kinos dieser Galaxis.",
       "url": "https://starwars-union.de/doppelschlag-im-imax-format-krieg-der-sterne-und-starfighter-kommen-2027-auf-die-ganz-grosse-leinwand/",
@@ -879,24 +897,6 @@
       "url": "https://starwars-union.de/das-lucas-museum-praesentiert-einen-grossen-bildband-ueber-die-kunst-des-erzaehlens/",
       "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/08/Buch-Lucas-Museum.jpg",
       "date": "Fri, 28 Aug 2026 13:45:03 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "Heute erscheint Zero Company",
-      "description": "Das Taktikspiel aus den Klonkriegen erblickt das Licht der Welt",
-      "url": "https://starwars-union.de/heute-erscheint-zero-company/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2025/04/Zero-Company-KeyArt-1200x675.jpg",
-      "date": "Thu, 27 Aug 2026 06:36:34 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "Einblicke in den Multiplayer von Galactic Racer",
-      "description": "Mit dem Gründer und Chef von Fuse Games geht es nun hinein in die Mehrspielermodi und -möglichkeiten von Galactic Racer: Star Wars: Galactic Racer soll am 6. Oktober erscheinen und kann für Konsolen im PlayStation Store oder im XBox Store, bzw. als Disk bei Amazon.de oder für PC im Epic Store und auf Steam in verschiedenen Ausgaben vorbestellt werden.",
-      "url": "https://starwars-union.de/einblicke-in-den-multiplayer-von-galactic-racer/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/08/Galactic-Racer-Multiplayer-Tour.jpg",
-      "date": "Mon, 24 Aug 2026 13:32:10 +0000"
     },
     {
       "category": "starwars",
