@@ -1,6 +1,96 @@
 {
-  "updated": "2026-09-14T23:21:45.953774+00:00",
+  "updated": "2026-09-15T01:45:40.455447+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Apple ги пушти iOS 27, iPadOS 27, macOS 27 и другите системи за сите корисници",
+      "description": "Apple денеска официјално ги објави најновите верзии од нивните оперативни системи, односно iOS 27, iPadOS 27, macOS 27, watchOS 27 и tvOS 27 кои воведуваат напредни можности преку новата генерација на „Apple Intelligence“ и подобрената верзија на дигиталниот асистент сега наречена „Siri AI“. Новите функции се дизајнирани да ги направат секојдневните апликации попаметни и покорисни, […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/apple-gi-pusti-ios-27-ipados-27-macos-27-i-drugite-za-site-korisnici/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Apple-OS-availability-hero-150x150.webp",
+      "date": "Mon, 14 Sep 2026 18:47:00 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Уредите на преклоп се иднината на смартфоните, а претставувањето на iPhone Duo ќе ја започне промената",
+      "description": "Apple минатата недела официјално стана дел од пазарот на уредите на преклоп, седум до осум години подоцна од претставувањето на првиот ваков уред, нешто што сепак е согласно стилот на компанијата. iPhone Duo, со оглед на големиот број на неофицијални информации, е во рамките на очекувањата, а тоа што беше ново и повторно типично за […]",
+      "url": "https://smartportal.mk/novosti/smartfoni/uredite-na-preklop-se-idninata-na-smartfonite/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Apple-iPhone-Duo-display-sizes-260909-150x150.webp",
+      "date": "Mon, 14 Sep 2026 12:41:41 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Што всушност значи да бидеш бренд што сите го знаат?",
+      "description": "Замислете бренд чие име не мора никој да ви го каже за да знаете за кого станува збор. Доволна е одредена боја, форма на амбалажа, звук, слоган или карактеристична реклама и асоцијацијата веднаш се појавува. Тоа е еден од најсилните показатели дека брендот успеал да изгради препознатливост која оди подалеку од неговото име и лого. […]",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/sto-znaci-da-bides-brend-sto-site-go-znaat/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/PR-FOTOGRAFII-4-150x150.webp",
+      "date": "Mon, 14 Sep 2026 11:31:56 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Глобални AI експерти од OpenAI, NVIDIA, Microsoft и Waymo на AI Tech Summit „Filip Avramchev“ 2026",
+      "description": "Скопје на 22 и 23 септември ќе собере меѓународни експерти и професионалци од различни области на вештачката интелигенција на AI Tech Summit „Filip Avramchev“ Skopje 2026, кој ќе се одржи во Националната опера и балет. Овогодинешната програма носи говорници од глобални технолошки компании и организации, со различни перспективи за развојот и примената на AI – […]",
+      "url": "https://smartportal.mk/novosti/nastani/globalni-ai-eksperti-na-ai-tech-summit/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Post-22-1-150x150.webp",
+      "date": "Mon, 14 Sep 2026 09:53:56 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Nvidia планира инвестиција од 10 милијарди долари во почетната јавна понуда на Anthropic",
+      "description": "Nvidia разгледува план за инвестирање до 10 милијарди долари во почетната јавна понуда на акции на стартапот за вештачка интелигенција кој стои за развојот на Claude, Anthropic. Според првичните информации, Anthropic моментално е во преговори да ја вклучи Nvidia како свој главен инвеститор пред официјалното излегување на берзата, со што би се зголемила довербата на […]",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/nvidia-planira-investicija-vo-anthropic-ipo/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/mariia-berezovsky-0SqsTxWhgNU-unsplash-f-150x150.webp",
+      "date": "Mon, 14 Sep 2026 09:44:16 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "LG ги отфрли обвинувањата за нарушување на приватноста, а Gamers Nexus возврати со ново видео и нови докази",
+      "description": "LG официјално ги отфрли наводите од неодамнешната истрага на Gamers Nexus, тврдејќи дека обвинувањата за нарушување на приватноста преку нивните паметни телевизори се неточни. Како одговор на ова, авторите на истрагата објавија ново видео во кое ја обвинуваат компанијата за манипулација со фактите и прикривање на реалните можности за следење на корисниците, презентирајќи нови докази […]",
+      "url": "https://smartportal.mk/novosti/uredi/lg-otfrla-obvinuanja-gamers-nexus-so-novi-video-i-dokazi/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Depositphotos_826703935_XL-f-150x150.webp",
+      "date": "Mon, 14 Sep 2026 08:37:35 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "18 септември е последен рок за пријавување за Виз Ер Скопски Маратон 2026",
+      "description": "Скопје се подготвува за уште едно големо спортско доживување, а времето за пријавување за Виз Ер Скопски Маратон 2026 истекува. 18 септември е последниот ден за пријавување, па сите кои сакаат да бидат дел од тркачката еуфорија на 4 октомври имаат уште малку време да го обезбедат своето место на стартот. Програмата на Виз Ер […]",
+      "url": "https://smartportal.mk/novosti/nastani/18-septemvri-posleden-rok-wizz-air-skopski-maraton/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Wizz-Air-Skopje-marathon-1-150x150.webp",
+      "date": "Fri, 11 Sep 2026 13:14:44 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Cloudflare воведува пост-квантна DNSSEC поддршка кај 1.1.1.1 сервисот",
+      "description": "1.1.1.1 DNS сервисот на Cloudflare од сега поддржува пост-квантен DNSSEC преку валидација на дигитални потписи направени со ML-DSA-44, нов алгоритам неодамна стандардизиран од американскиот Национален институт за стандарди и технологија (NIST). Овој чекор е дел од пошироката стратегија на компанијата да постигне целосна пост-квантна безбедност до 2029 година и ги подготвува системите за иднината во […]",
+      "url": "https://smartportal.mk/novosti/veb-i-bezbednost/cloudflare-post-kvantna-dnssec-poddrska-1-1-1-1/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/cf_image-1-150x150.webp",
+      "date": "Fri, 11 Sep 2026 10:50:05 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Android добива нова функција за директен пренос на податоците помеѓу различни менаџери за лозинки",
+      "description": "Google најави нова опција во нивниот Android која овозможува безбедно и директно пренесување на лозинките и „passkeys“ помеѓу различни апликации менаџери за лозинки. Целиот процес се одвива преку неколку допири на екранот, елиминирајќи ја досегашната пракса на преземање на податоците во „нешифрирани“ текстуални датотеки кои претставуваа потенцијален безбедносен ризик за корисниците. Во минатото, преносот на […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/android-funkcija-transfer-pomegju-menadzeri-za-lozinki/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Hero_Image_4.width-2200.format-webp-150x150.webp",
+      "date": "Fri, 11 Sep 2026 10:15:29 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Џон Тернус и Грег Џозвиак разговараат за новиот iPhone Duo и главната новина кај iPhone 18 Pro моделите",
+      "description": "Како што сигурно знаете, после 7-8 години, односно скоро цела декада на постоење на пазарот на уреди на преклоп, Apple дури сега реши да влезе со нивниот прв iPhone на преклоп, iPhone Duo. Јасни се причините зошто од компанијата дури сега се одлучија на истото, но дефинитивно интересно е тие да се слушнат директно од […]",
+      "url": "https://smartportal.mk/novosti/licnosti/john-ternus-greg-joswiak-video-toms-guide-techradar/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/john-joz-tg-tr-1-150x150.webp",
+      "date": "Fri, 11 Sep 2026 09:28:37 +0000"
+    },
     {
       "category": "mkd",
       "source": "Time.mk - All",
@@ -22,6 +112,15 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
+      "title": "Арсова: Застапеноста на жените во Собранието скокна од 3 на 40 отсто | Press24",
+      "description": "",
+      "url": "https://time.mk/c/624786be9d/arsova-zastapenosta-na-zenite-vo-sobranieto-skokna-od-3-na-40-otsto.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/70861.jpg",
+      "date": "Mon, 14 Sep 2026 20:32:35 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
       "title": "Вештачење за „Пулс“: Полиетиленскиот сунѓер не смеел да се користи за спуштен плафон во дискотеката | Фокус",
       "description": "",
       "url": "https://time.mk/c/6659b0d265/vestacenje-za-puls-polietilenskiot-sungjer-ne-smeel-da-se-koristi-za-spusten-plafon-vo-diskotekata.html",
@@ -31,20 +130,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Арсова: Застапеноста на жените во Собранието скокна од 3 на 40 отсто | Press24",
+      "title": "Рокас: Шефицата на ЕК Фон дер Лајен следниот период доаѓа во земјава - во фокусот деблокада на евроинтеграциите | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/9ca12db629/arsova-zastapenosta-na-zenite-vo-sobranieto-skokna-od-3-na-40-otsto.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/70861.jpg",
-      "date": "Mon, 14 Sep 2026 20:32:35 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Фон дер Лајен ќе го посети регионот – што тоа ќе значи за македонскиот пат кон ЕУ? | Колегиум",
-      "description": "",
-      "url": "https://time.mk/c/cd9b49f3c2/fon-der-lajen-ke-go-poseti-regionot-sto-toa-ke-znaci-za-makedonskiot-pat-kon-eu.html",
-      "image": "https://kolegium.mk/wp-content/uploads/2026/03/ursula-fon-der-lajen-foto-vlada-na-rsm-300x188.jpg",
-      "date": "Mon, 14 Sep 2026 17:18:48 +0000"
+      "url": "https://time.mk/c/f9fb1421e2/rokas-seficata-na-ek-fon-der-lajen-sledniot-period-doagja-vo-zemjava-vo-fokusot-deblokada-na-evrointegraciite.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1789397409/gx6fre3gk166triecqeo.jpg",
+      "date": "Mon, 14 Sep 2026 15:00:40 +0000"
     },
     {
       "category": "mkd",
@@ -58,11 +148,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Дизелот поевтини, ама бензинот ја проби стотката | Вечер Прес",
+      "title": "Новите цени на горивата од полноќ повисоки за бензините пониски за дизелот | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/4aa5836aa2/dizelot-poevtini-ama-benzinot-ja-probi-stotkata.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/09/goriva.jpg",
-      "date": "Mon, 14 Sep 2026 13:42:58 +0000"
+      "url": "https://time.mk/c/a232002ca7/novite-ceni-na-gorivata-od-polnok-povisoki-za-benzinite-poniski-za-dizelot.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1789396569/sovh7hxvkatdkx106zaj.jpg",
+      "date": "Mon, 14 Sep 2026 15:00:40 +0000"
     },
     {
       "category": "mkd",
@@ -121,11 +211,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Камениот мост со современо осветлување | Вечер Прес",
+      "title": "Ѓорѓиевски: Жените се столб на нашата држава и незаменлива сила во демократскиот развој | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/0e17f10ad0/kameniot-most-so-sovremeno-osvetluvanje.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/09/kamen-most-1.jpg",
-      "date": "Mon, 14 Sep 2026 13:30:55 +0000"
+      "url": "https://time.mk/c/afd554dec5/gjorgjievski-zenite-se-stolb-na-nasata-drzava-i-nezamenliva-sila-vo-demokratskiot-razvoj.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/85057/conversions/text-max.jpg",
+      "date": "Mon, 14 Sep 2026 18:50:50 +0000"
     },
     {
       "category": "mkd",
@@ -180,96 +270,6 @@
       "url": "https://time.mk/c/fcc8c1cb83/domnez-zlonemiruva-i-muskulnica-se-pobednickite-zborovi-na-zborotvorba.html",
       "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/Zborci-300x185.jpg",
       "date": "Mon, 14 Sep 2026 20:00:37 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Јапонија ја пушта првата „брза помош“ за роботи: Доаѓа на лице место за да ги поправи расипаните хуманоиди",
-      "description": "Јапонскиот технолошки гигант GMO Internet Group, преку GMO Air, ја претстави услугата што во Јапонија веќе ја нарекуваат прва „роботска брза помош“. Наместо да превезува луѓе, ова специјално комбе треба да излегува на терен кога хуманоиден робот ќе се расипе додека работи кај клиент. Возилото наскоро треба да се појави на улиците на Токио како ...",
-      "url": "https://motika.mk/japonija-ja-pusta-prvata-brza-pomos-za-roboti-doaga-na-lice-mesto-za-da-gi-popravi-rasipanite-humanoidi/",
-      "image": "https://motika.io/media/2026/09/14/img-201614ce-0f74-4355-a460-4081bfee1105-1.jpg",
-      "date": "Mon, 14 Sep 2026 12:53:03 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Расте стравот меѓу странците во Германија: „Да ги спакуваме куферите додека не е предоцна!“",
-      "description": "Се посилниот политички подем на десничарската партија AfD, Alternative für Deutschland, создава се поголема нелагодност и загриженост меѓу странските работници и иселеничките заедници низ Германија. Во познатите мултикултурни населби, прашањето за заминување од Германија веќе не е далечна мисла, туку тема што се појавува во секојдневните разговори. Содржина: Хасан пред продавница за електроника на „Коти“ ...",
-      "url": "https://motika.mk/raste-stravot-megu-strancite-vo-germanija-da-gi-spakuvame-kuferite-dodeka-ne-e-predocna/",
-      "image": "https://motika.io/media/2026/09/14/img-00f3910b-9042-4b96-87cb-e1b8e824d577-5.jpeg",
-      "date": "Mon, 14 Sep 2026 12:43:32 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Механичар откри кој половен автомобил го смета за најдобра зделка: „Може да помине 800.000 километри без поголеми поправки“",
-      "description": "Механичар кој објавува на TikTok под профилот Хуан Хосе Ебенезер откри кој автомобил би го избрал ако главниот критериум му се долговечноста и сигурноста. Неговиот избор не е ниту јапонски, ниту корејски модел, туку постар европски автомобил што, според него, и денес има што да покаже на пазарот на половни возила. Содржина: Купувачите бараат сигурност, ...",
-      "url": "https://motika.mk/mehanicar-otkri-koj-poloven-avtomobil-go-smeta-za-najdobra-zdelka-moze-da-pomine-800-000-kilometri-bez-pogolemi-popravki/",
-      "image": "https://motika.io/media/2026/09/14/img-d0263ebd-060e-4271-874e-209fc8b03f99-1.jpeg",
-      "date": "Mon, 14 Sep 2026 12:10:59 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Немате отварач за вино? Нема проблем! Девојката ќе ви покаже како да ја отворите само со нож и вилушка",
-      "description": "Девојка со вештини.",
-      "url": "https://motika.mk/nemate-otvarac-za-vino-nema-problem-devojkata-ke-vi-pokaze-kako-da-ja-otvorite-samo-so-noz-i-viluska/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/14/917a76552a2b4a5797b0dd46d79799fb.jpg",
-      "date": "Mon, 14 Sep 2026 11:55:08 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Нова луда автомобилска трка: Кој прв ќе успее да се качи со автомобилот на приколка во движење",
-      "description": "Трката се вика „Крал на ридот“, се одржа во Њу Хемпшир, САД. Правилата се едноставни, ама тотално ненормални: пикап влече приколка со рампа и цело време кружи по патеката. Возачите го бркаат, треба да се наместат зад приколката, со автомобилот да се качат на неа додека и двете возила се движат и да успеат да ...",
-      "url": "https://motika.mk/nova-luda-avtomobilska-trka-koj-prv-ke-uspee-da-se-kaci-so-avtomobilot-na-prikolka-vo-dvizene/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/14/dc8e0d7c77a1436ba86c4f79af160cd3.jpg",
-      "date": "Mon, 14 Sep 2026 11:32:27 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Кога мозочните клетки ќе земат слободен ден: Маж истрчува пред роботакси на Тесла полно со патници само за да провери дали ќе закочи",
-      "description": "Маж решава на прилично ризичен начин да провери колку брзо реагира роботаксито на Tesla. Ненадејно истрчува пред возилото среде улица, а автомобилот веднаш закочува и застанува пред него.",
-      "url": "https://motika.mk/koga-mozocnite-kletki-ke-zemat-sloboden-den-maz-istrcuva-pred-robotaksi-na-tesla-polno-so-patnici-samo-za-da-proveri-dali-ke-zakoci/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/14/robotaksi.jpg",
-      "date": "Mon, 14 Sep 2026 11:21:27 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Кога со Поло ќе удриш во Бугати од 4 милиони евра штетата ја наследуваат и внуците",
-      "description": "Некој ден едноставно е попаметно да го оставиш своето старо Поло во гаража.",
-      "url": "https://motika.mk/koga-so-polo-ke-udris-vo-bugati-od-4-milioni-evra-stetata-ja-nasleduvaat-i-vnucite/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/14/5453b230bc394c00b244c78f56d3885f.jpg",
-      "date": "Mon, 14 Sep 2026 11:13:20 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Дијана OG со новата песна „Крив за сѐ“: Љубов, хаос и улична енергија во една опасна приказна",
-      "description": "ДИЈАНА OG повторно влегува во игра со нов музички проект, овојпат со песната „Крив за сѐ”. Модерна, провокативна и урбана приказна за една љубов во која страста, хаосот и опасноста одат рака под рака каде Дијана OG ја раскажува приказната за тип кој не е „како сите“. Непредвидлив, див и привлечен токму поради својата непримерност, ...",
-      "url": "https://motika.mk/dijana-og-so-novata-pesna-kriv-za-s%d1%90-lubov-haos-i-ulicna-energija-vo-edna-opasna-prikazna/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/14/img_9875.555-1200x675.jpg",
-      "date": "Mon, 14 Sep 2026 10:59:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Освежувачкото капење во реката одеднаш завршува со цел грб полн со пирани",
-      "description": "Она што требало да биде обично разладување се претвора во сцена од која на многумина би им се кренала косата. Додека мажот стои во водата, рибите буквално му го прекриваат грбот, а неговата реакција е доста лабава.",
-      "url": "https://motika.mk/osvezuvackoto-kapene-vo-rekata-odednas-zavrsuva-so-cel-grb-poln-so-pirani/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/14/f07308746f514544a91483c3d02c9db1.jpg",
-      "date": "Mon, 14 Sep 2026 10:44:35 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Џиновски авион ќе превезува ракети и сателити, а не му треба ниту бетонска писта: „Американ Радија“ го создава уникатниот „ВиндРанер“",
-      "description": "Земјена писта пократка од два километри би требало да биде доволна за полетување. Американската компанија „Радија“ планира својот нов џиновски транспортен авион „ВиндРанер“ да го користи за превоз на делови од ракети, ракетни засилувачи, сателити и вселенски летала. Главната идеја е огромниот товар да се доставува во едно парче директно до вселенските центри, без потреба ...",
-      "url": "https://motika.mk/zinovski-avion-ke-prevezuva-raketi-i-sateliti-a-ne-mu-treba-nitu-betonska-pista-amerikan-radija-go-sozdava-unikatniot-vindraner/",
-      "image": "https://motika.io/media/2026/09/14/img-870a5ef1-1827-4c3f-8087-da6558ee83e5-1.jpg",
-      "date": "Mon, 14 Sep 2026 10:37:30 +0000"
     }
   ],
   "de": [
@@ -458,6 +458,15 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place",
+      "description": "Keep up with all of the best deals that Lifehacker publishes, including laptops, speakers, TVs, security cameras, and more.",
+      "url": "https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg",
+      "date": "Mon, 14 Sep 2026 23:44:47 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "The Best Deals From Nintendo's Customer Appreciation Sale",
       "description": "Nintendo got a huge tariff refund, and it's using it to offer you deals up to 30% off.",
       "url": "https://lifehacker.com/entertainment/best-deals-nintendos-customer-appreciation-sale?utm_medium=RSS",
@@ -602,15 +611,6 @@
     {
       "category": "eng",
       "source": "Lifehacker",
-      "title": "Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place",
-      "description": "Keep up with all of the best deals that Lifehacker publishes, including laptops, speakers, TVs, security cameras, and more.",
-      "url": "https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg",
-      "date": "Fri, 11 Sep 2026 20:11:47 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
       "title": "This Powerful Bissell Pet Vacuum Is $50 Off Right Now",
       "description": "The two brush rolls help remove debris from any kind of surface.",
       "url": "https://lifehacker.com/ad/home/bissell-hepa-pet-vacuum-deal-september-2026?utm_medium=RSS",
@@ -634,6 +634,15 @@
       "url": "https://lifehacker.com/health/affordable-running-watches-maps?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01M28RYJD7R2J52FJSCZGKHBT7/hero-image.jpg",
       "date": "Fri, 11 Sep 2026 18:30:11 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Best PC computer deals: Top picks from desktops to all-in-ones",
+      "description": "At a glance Top gaming desktop computer deals ABS Cyclone Aqua —$899 (10% off on Walmart) iBuyPower Element SE —$1,130 (13% off on BestBuy) HP Omen 35L —$2,610 (16% off on BestBuy) Top mini PC deals GMKtec M7 Ultra —$750 (12% off on Amazon) Reatan A8 —$519 with coupon (19% off on Amazon with coupon) ACEMAGIC K1 —$440 (24% off on Amazon) Top all-in-one desktop computer deals Lenovo IdeaCentre 24 AiO —$800 (38% off on Amazon) Lenovo Yoga AIO 32i —$1,270 (39% off on Lenovo) HP OmniStudio 24 AiO —$6",
+      "url": "https://www.pcworld.com/article/813362/best-pc-computer-deals.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/813362-0-30910000-1789432201-pcw-desktoppc-prime-1.jpg?quality=50&strip=all",
+      "date": "Tue, 15 Sep 2026 00:29:46 +0000"
     },
     {
       "category": "eng",
@@ -715,15 +724,6 @@
       "url": "https://www.pcworld.com/article/3234621/windows-11-has-a-secret-way-to-skip-the-microsoft-account-requirement.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3234621-0-51926700-1789394008-Microsoft-signin-screen-for-Windows-10.jpg?quality=50&strip=all",
       "date": "Mon, 14 Sep 2026 13:50:57 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Windows 11’s September patch breaks USB audio, and there’s no fix yet",
-      "description": "Microsoft recently confirmed that the September Patch Tuesday security update (KB5124008) is causing problems with USB audio on some Windows 11 systems. However, Microsoft did not disclose how many users are affected, only stating that some computers with USB Audio Class 1.0 devices are reportedly affected. On the support page for the update , Microsoft has listed this under its “Known issues in this update” section: After installing the September 8, 2026, Windows security update, some USB Audio",
-      "url": "https://www.pcworld.com/article/3234623/windows-11s-september-patch-breaks-usb-audio-and-theres-no-fix-yet.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3234623-0-32294000-1789393114-Windows-11-settings-shortcut-volume-slider-mobile-hotspot.jpg?quality=50&strip=all",
-      "date": "Mon, 14 Sep 2026 13:37:23 +0000"
     }
   ],
   "starwars": [
@@ -998,276 +998,5 @@
       "date": "Sun, 13 Sep 2026 17:39:21 +0000"
     }
   ],
-  "youtube": [
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Nightmare Eclipse war Mitarbeiter bei Microsoft ?! #informatik #news #microsoft #cybersecurity",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/UTpH9Pgb4S0",
-      "image": "https://i.ytimg.com/vi/UTpH9Pgb4S0/hqdefault.jpg",
-      "date": "2026-09-14T16:30:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "OpenAI Agenten übernehmen RubyGems...aber was ist mit dem Rest ?",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/SA41xgf4EJI",
-      "image": "https://i.ytimg.com/vi/SA41xgf4EJI/hqdefault.jpg",
-      "date": "2026-09-13T10:02:06+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Ein Forscher kündigt, ein Alignment Lead bestätigt ihn und.... niemand bremst.",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/Y6c5EaG9L5Q",
-      "image": "https://i.ytimg.com/vi/Y6c5EaG9L5Q/hqdefault.jpg",
-      "date": "2026-09-12T09:30:05+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Dieser Wurm verbreitet sich durch Anrufe #informatik #cybersecurity #wechat #code #news",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/W9azNPRFgR8",
-      "image": "https://i.ytimg.com/vi/W9azNPRFgR8/hqdefault.jpg",
-      "date": "2026-09-10T10:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Wie lernt man Hacken - Teil 2",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=t6cITUUl8ok",
-      "image": "https://i.ytimg.com/vi/t6cITUUl8ok/hqdefault.jpg",
-      "date": "2026-09-09T16:00:13+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "LG Fernseher lauschen mit ?! #informatik #news #cybersecurity #lg #tv",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/e6d0p6_i8qo",
-      "image": "https://i.ytimg.com/vi/e6d0p6_i8qo/hqdefault.jpg",
-      "date": "2026-09-09T10:15:04+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Episode 12 - Der Mann, dem 75 Cent nicht egal waren",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=RtJDi-9NJhg",
-      "image": "https://i.ytimg.com/vi/RtJDi-9NJhg/hqdefault.jpg",
-      "date": "2026-09-09T04:00:27+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Ist eine Wahl aus Papier sicher ?! #informatik #wahlen #itsicherheit #news",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/dBrpY6j9Mek",
-      "image": "https://i.ytimg.com/vi/dBrpY6j9Mek/hqdefault.jpg",
-      "date": "2026-09-08T10:20:05+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Warum Berlin sich nicht erpressen ließ #informatik #berlin #code #news #cybersecurity",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/TGvSFxZMF4M",
-      "image": "https://i.ytimg.com/vi/TGvSFxZMF4M/hqdefault.jpg",
-      "date": "2026-09-07T10:00:16+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Warum hat Berlin die 2 Mio € Lösegeld NICHT gezahlt?",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=dpJ74F5LJr4",
-      "image": "https://i.ytimg.com/vi/dpJ74F5LJr4/hqdefault.jpg",
-      "date": "2026-09-06T14:22:08+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Exploring The Last Coal Power Plant in Connecticut Bridgeport Harbor Station",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=CR84XRBKBzs",
-      "image": "https://i.ytimg.com/vi/CR84XRBKBzs/hqdefault.jpg",
-      "date": "2026-08-27T17:00:39+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Rocketdyne Santa Susana Field Laboratory Abandoned America Space Race (1948)",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=0lka-0REQrQ",
-      "image": "https://i.ytimg.com/vi/0lka-0REQrQ/hqdefault.jpg",
-      "date": "2026-04-23T17:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Mall Westfield Promenade Demolition AMC Seats And Screens Left Behind",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=UnG29VothuQ",
-      "image": "https://i.ytimg.com/vi/UnG29VothuQ/hqdefault.jpg",
-      "date": "2026-03-27T21:09:35+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Mall Westfield Promenade Demolition Fly by In And Out",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=fDnOH8ZsfTg",
-      "image": "https://i.ytimg.com/vi/fDnOH8ZsfTg/hqdefault.jpg",
-      "date": "2026-03-27T20:40:08+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "AMC Westfield Promenade Mall Raw Demolition Drone Footage",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/5iA5R3Jq4g0",
-      "image": "https://i.ytimg.com/vi/5iA5R3Jq4g0/hqdefault.jpg",
-      "date": "2026-03-27T18:03:29+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Mall Westfield Promenade Demolition AMC Coming Down First!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=SAxjFGjTiHQ",
-      "image": "https://i.ytimg.com/vi/SAxjFGjTiHQ/hqdefault.jpg",
-      "date": "2026-03-23T17:42:38+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Beautiful Art Deco Theater",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=ccfU0LSmkj8",
-      "image": "https://i.ytimg.com/vi/ccfU0LSmkj8/hqdefault.jpg",
-      "date": "2026-03-11T20:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Decommissioned Power Station #synthwave #synth #retrowave #abandonedplaces",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/mOUbNSMoBJs",
-      "image": "https://i.ytimg.com/vi/mOUbNSMoBJs/hqdefault.jpg",
-      "date": "2025-06-17T17:55:51+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Wheel of Misfortune Three Kids Mine Demolition",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=VXRselqoN-8",
-      "image": "https://i.ytimg.com/vi/VXRselqoN-8/hqdefault.jpg",
-      "date": "2025-06-17T17:45:42+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Resort with a River Running Through It",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=0ILQ06M4hA0",
-      "image": "https://i.ytimg.com/vi/0ILQ06M4hA0/hqdefault.jpg",
-      "date": "2025-06-01T20:15:01+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Install Windows 11 with a Local Account in 2026",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=juIh1auHo3s",
-      "image": "https://i.ytimg.com/vi/juIh1auHo3s/hqdefault.jpg",
-      "date": "2026-08-05T17:00:04+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Replace the Battery in a Dell Precision 7760 Laptop",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=JOVmOahO2xs",
-      "image": "https://i.ytimg.com/vi/JOVmOahO2xs/hqdefault.jpg",
-      "date": "2026-03-11T17:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Use & Combine Joy-Con Controllers on the Steam Deck!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=p9ZdCe-eW1M",
-      "image": "https://i.ytimg.com/vi/p9ZdCe-eW1M/hqdefault.jpg",
-      "date": "2025-12-05T18:01:07+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Borderlands GOTY Enhanced Co-Op Lag Fix on PC | Windows & Steam Deck",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=UsaKlS3WBBs",
-      "image": "https://i.ytimg.com/vi/UsaKlS3WBBs/hqdefault.jpg",
-      "date": "2025-08-20T17:00:42+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Thrifty Gaming Pickups 058 - Going Through a Bag of Games, Controllers, and More!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=yKwMn2OMLLY",
-      "image": "https://i.ytimg.com/vi/yKwMn2OMLLY/hqdefault.jpg",
-      "date": "2025-05-07T17:01:12+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Thrifty Gaming Pickups 057 - Returning to Old Thrift Shops + A Big Xbox 360 Bundle!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=EOQgA7Q8Kw8",
-      "image": "https://i.ytimg.com/vi/EOQgA7Q8Kw8/hqdefault.jpg",
-      "date": "2024-12-04T18:00:14+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Thrifty Gaming Pickups 056 - Import Switch Games, Switch Lite, Xbox, and Xbox 360 Games!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=xaNcbxQkk5k",
-      "image": "https://i.ytimg.com/vi/xaNcbxQkk5k/hqdefault.jpg",
-      "date": "2024-06-12T17:00:40+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Thrifty Gaming Pickups 055 - Japanese Xbox 360 Imports, Consoles, and More!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=fvzT178zAlk",
-      "image": "https://i.ytimg.com/vi/fvzT178zAlk/hqdefault.jpg",
-      "date": "2024-05-15T17:00:26+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Final Fantasy VII Rebirth Best Buy Steelbook (PS5) #shorts",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/k02mkNRvIYE",
-      "image": "https://i.ytimg.com/vi/k02mkNRvIYE/hqdefault.jpg",
-      "date": "2024-03-01T18:00:24+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Final Fantasy VII Rebirth Deluxe Edition Unboxing (PS5) #shorts",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/SFwXpq5kwe4",
-      "image": "https://i.ytimg.com/vi/SFwXpq5kwe4/hqdefault.jpg",
-      "date": "2024-03-01T02:23:40+00:00"
-    }
-  ]
+  "youtube": []
 }
