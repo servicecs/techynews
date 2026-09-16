@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T21:00:56.503918+00:00",
+  "updated": "2026-09-16T23:44:57.374043+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -96,9 +96,27 @@
       "source": "Time.mk - All",
       "title": "ЕУ, САД и Велика Британија повикаа на почитување на хашката пресуда за лидерите на поранешната ОВК | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/080779baba/eu-sad-i-velika-britanija-povikaa-na-pocituvanje-na-haskata-presuda-za-liderite-na-poranesnata-ovk.html",
+      "url": "https://time.mk/c/9d455d3be7/eu-sad-i-velika-britanija-povikaa-na-pocituvanje-na-haskata-presuda-za-liderite-na-poranesnata-ovk.html",
       "image": "https://360stepeni.mk/wp-content/uploads/2026/09/14296219.jpg",
       "date": "Wed, 16 Sep 2026 17:32:51 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Африм Гаши за пресудата во Хаг: За албанскиот народ, тие се и остануваат ослободители на Косово | Фокус",
+      "description": "",
+      "url": "https://time.mk/c/bcc540b34d/afrim-gasi-za-presudata-vo-hag-za-albanskiot-narod-tie-se-i-ostanuvaat-osloboditeli-na-kosovo.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/09/Afrim-Gashi-intervju-juni-2026-585x390-1.jpg",
+      "date": "Wed, 16 Sep 2026 17:22:36 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Громогласен молк на барањата за транспарентност за прославата на независноста | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/6a98074160/gromoglasen-molk-na-baranjata-za-transparentnost-za-proslavata-na-nezavisnosta.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/david-guetta-2-300x200.jpg",
+      "date": "Wed, 16 Sep 2026 13:52:53 +0000"
     },
     {
       "category": "mkd",
@@ -112,6 +130,42 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
+      "title": "Левица до Јаневска: „Каде во листите за студентски домови се објавени бодовите?“ | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/3f90373fb5/levica-do-janevska-kade-vo-listite-za-studentski-domovi-se-objaveni-bodovite.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/82353/conversions/text-max.jpg",
+      "date": "Wed, 16 Sep 2026 14:46:38 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Кога судот ќе ѝ каже „не“ на власта: германски искуства за градење доверба во Уставниот суд | Deutsche Welle",
+      "description": "",
+      "url": "https://time.mk/c/8128d65e66/koga-sudot-ke-i-kaze-ne-na-vlasta-germanski-iskustva-za-gradenje-doverba-vo-ustavniot-sud.html",
+      "image": "https://static.dw.com/image/19117978_301.jpg",
+      "date": "Wed, 16 Sep 2026 12:20:55 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Билатерални договори – решение за транспортерите | 24 Вести",
+      "description": "",
+      "url": "https://time.mk/c/351a9abd1a/bilateralni-dogovori-resenie-za-transporterite.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1789573342/bjxobpiopx2pefhltfdt.jpg",
+      "date": "Wed, 16 Sep 2026 15:46:36 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "ВМРО-ДПМНЕ: Пензискиот фонд е стабилен | 24 Вести",
+      "description": "",
+      "url": "https://time.mk/c/8dac58cc92/vmro-dpmne-penziskiot-fond-e-stabilen.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1789574118/k1uethc8nvcaidvuzmzu.jpg",
+      "date": "Wed, 16 Sep 2026 15:56:47 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
       "title": "Вучиќ: Најтешките можни злосторства над Србите не се опфатени | Фокус",
       "description": "",
       "url": "https://time.mk/c/ca2c787192/vucik-najteskite-mozni-zlostorstva-nad-srbite-ne-se-opfateni.html",
@@ -120,93 +174,30 @@
     },
     {
       "category": "mkd",
-      "source": "Time.mk - Sport",
-      "title": "Малус трагичар, Вардар 1961 поразен од Нант | TopSport",
+      "source": "Time.mk - All",
+      "title": "ВИДЕО | Страшна несреќа во Хрватска: еден загинат во судир на пет возила, една кола целосно смачкана меѓу два камиона | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/249329db7b/malus-tragicar-vardar-1961-porazen-od-nant.html",
-      "image": "https://topsport.mk/wp-content/uploads/2026/09/Screenshot-2026-09-16-211748.jpg",
-      "date": "Wed, 16 Sep 2026 19:20:50 +0000"
+      "url": "https://time.mk/c/00ca65ff69/video-strasna-nesreka-vo-hrvatska-eden-zaginat-vo-sudir-na-pet-vozila-edna-kola-celosno-smackana-megju-dva-kamiona.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/Screenshot-2026-09-16-123315-300x158.png",
+      "date": "Wed, 16 Sep 2026 10:40:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Прославата од 5,5 милиони евра отвора сомнежи, „Мегафон“ бара истрага за секој договор и исплата | Рацин",
+      "title": "Фед ги зголеми каматите за прв пат од 2023 година, најавено уште едно зголемување | Bloomberg Adria",
       "description": "",
-      "url": "https://time.mk/c/4de8ac6858/proslavata-od-5-5-milioni-evra-otvora-somnezi-megafon-bara-istraga-za-sekoj-dogovor-i-isplata.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/08/muzicko-scenski-spektakl-silno-svetnal-den-za-35-godini-nezavisnost-image-fsvd-e1787211733117-652x480.jpg?x23792",
-      "date": "Wed, 16 Sep 2026 19:00:54 +0000"
+      "url": "https://time.mk/c/f76d667a5c/fed-gi-zgolemi-kamatite-za-prv-pat-od-2023-godina-najaveno-uste-edno-zgolemuvanje.html",
+      "image": "https://mk.bloombergadria.com/data/images/2026-09-16/116133_467663578_f.jpg?timestamp=1789509600",
+      "date": "Wed, 16 Sep 2026 21:40:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Марш за ангелите во Кочани: За притворот на Деко нека одлучи Судот, според законот и доказите | Фокус",
+      "title": "Што ќе значи за Македонија асоцијативното членство на Канада? | Независен",
       "description": "",
-      "url": "https://time.mk/c/eb8ded43b4/mars-za-angelite-vo-kocani-za-pritvorot-na-deko-neka-odluci-sudot-spored-zakonot-i-dokazite.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/09/20260916195647_big_730x400_93.webp",
-      "date": "Wed, 16 Sep 2026 18:12:58 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Рекордни цени на пивото на Октоберфест: Пет пати повисоки отколку во 1985 година | Независен",
-      "description": "",
-      "url": "https://time.mk/c/2278270b8f/rekordni-ceni-na-pivoto-na-oktoberfest-pet-pati-povisoki-otkolku-vo-1985-godina.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2022/09/oktoberfest-1024x1024.jpg",
-      "date": "Wed, 16 Sep 2026 17:36:53 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Една милијарда евра од буџетот ќе бидат потребни за исплата на пензиите – за опозицијата ПИОМ станува неодржлив, а за власта фондот е стабилен | Журнал",
-      "description": "",
-      "url": "https://time.mk/c/0d12c5501f/edna-milijarda-evra-od-budzetot-ke-bidat-potrebni-za-isplata-na-penziite-za-opozicijata-piom-stanuva-neodrzliv-a-za-vlasta-fondot-e-stabilen.html",
-      "image": "https://zurnal.mk/wp-content/uploads/2026/09/piom-1068x648.jpg",
-      "date": "Wed, 16 Sep 2026 18:30:42 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "САД: Ја почитуваме пресудата против поранешните водачи на ОВК | ТВ21",
-      "description": "",
-      "url": "https://time.mk/c/e10b0e8b67/sad-ja-pocituvame-presudata-protiv-poranesnite-vodaci-na-ovk.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2020/06/stejt-department.jpg",
-      "date": "Wed, 16 Sep 2026 14:46:38 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Турција ги предупреди Грците: Воздржете се од нови провокации | Фокус",
-      "description": "",
-      "url": "https://time.mk/c/08702e7466/turcija-gi-predupredi-grcite-vozdrzete-se-od-novi-provokacii.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/09/Grcka-Turska.png",
-      "date": "Wed, 16 Sep 2026 19:58:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ФЕД ОДОБРИ ЗГОЛЕМУВАЊЕ НА КАМАТНИТЕ СТАПКИ - најави уште едно оваа година | Фактор",
-      "description": "",
-      "url": "https://time.mk/c/b755cc7ad7/fed-odobri-zgolemuvanje-na-kamatnite-stapki-najavi-uste-edno-ovaa-godina.html",
-      "image": "https://faktor.mk/media/main/2026/09/20260916201631.jpg",
-      "date": "Wed, 16 Sep 2026 18:19:08 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Брисел ги менува правилата – Фон дер Лајен ја повика Канада на асоцијативно членство | 24 Вести",
-      "description": "",
-      "url": "https://time.mk/c/caab4a5077/brisel-gi-menuva-pravilata-fon-der-lajen-ja-povika-kanada-na-asocijativno-clenstvo.html",
-      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1789572278/nlbyh3pxxsyqwyxp0lfc.jpg",
-      "date": "Wed, 16 Sep 2026 15:26:36 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "УБАВА ВЕСТ ЗА СКОПЈАНИ Распишан е тендерот за системот БРТ, тече рокот за пријавување | +инфо",
-      "description": "",
-      "url": "https://time.mk/c/818d2b38c3/ubava-vest-za-skopjani-raspisan-e-tenderot-za-sistemot-brt-tece-rokot-za-prijavuvanje.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2026/09/orce.jpg",
-      "date": "Wed, 16 Sep 2026 19:52:57 +0000"
+      "url": "https://time.mk/c/4a419eb03e/sto-ke-znaci-za-makedonija-asocijativnoto-clenstvo-na-kanada.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/Mark-Karni-Roberta-Mecola-i-Ursula-fon-der-Lajen-1024x989.jpg",
+      "date": "Wed, 16 Sep 2026 13:18:44 +0000"
     },
     {
       "category": "mkd",
@@ -220,6 +211,15 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
+      "title": "Жичницата на Водно возела со оштетени сајли, среќа што не се случила катастрофа | Вечер Прес",
+      "description": "",
+      "url": "https://time.mk/c/6275b37873/zicnicata-na-vodno-vozela-so-osteteni-sajli-sreka-sto-ne-se-slucila-katastrofa.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/zicnica-2.jpg",
+      "date": "Wed, 16 Sep 2026 13:12:54 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
       "title": "ЦУК: Активни два пожари на отворен простор, осум изгаснати во текот на денот | Фокус",
       "description": "",
       "url": "https://time.mk/c/eb43c5a6a9/cuk-aktivni-dva-pozari-na-otvoren-prostor-osum-izgasnati-vo-tekot-na-denot.html",
@@ -229,20 +229,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Видео) Родители повикале пожарникари бидејќи ќерката не одговарала, а таа била заспана | Скопје1",
+      "title": "Приведен 43-годишен скопјанец баран за издржување четири години затвор | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/a3d6231d18/video-roditeli-povikale-pozarnikari-bidejki-kerkata-ne-odgovarala-a-taa-bila-zaspana.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/85128/conversions/text-max.jpg",
-      "date": "Wed, 16 Sep 2026 19:28:42 +0000"
+      "url": "https://time.mk/c/263b907c0d/priveden-43-godisen-skopjanec-baran-za-izdrzuvanje-cetiri-godini-zatvor.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/85127/conversions/text-max.jpg",
+      "date": "Wed, 16 Sep 2026 18:22:37 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Саниран дефектот, водоснабдувањето во Куманово наскоро ќе се нормализира | Кумановски м.",
+      "title": "Стопанска банка ја одбележува Европската недела на мобилност со поддршка на урбаниот велосипедизам | Банкарство.мк",
       "description": "",
-      "url": "https://time.mk/c/808b76ba54/saniran-defektot-vodosnabduvanjeto-vo-kumanovo-naskoro-ke-se-normalizira.html",
-      "image": "https://cdn.kumanovskimuabeti.mk/2026/08/716230429_1004619975482127_5963271000441945695_n-1024x695.jpg",
-      "date": "Wed, 16 Sep 2026 18:44:49 +0000"
+      "url": "https://time.mk/c/1f1c20c80c/stopanska-banka-ja-odbelezuva-evropskata-nedela-na-mobilnost-so-poddrska-na-urbaniot-velosipedizam.html",
+      "image": "https://bankarstvo.mk/wp-content/uploads/2026/05/stopanska-banka-300x165.png",
+      "date": "Wed, 16 Sep 2026 06:32:37 +0000"
     },
     {
       "category": "mkd",
@@ -265,11 +265,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Пресек“ – изложба на Ирена Паскали в петок во Чифте амам | Независен",
+      "title": "30 години Фолтин спакувани во нов сајт и дизајни на студенти | Трн",
       "description": "",
-      "url": "https://time.mk/c/4c08f8ff4d/presek-izlozba-na-irena-paskali-v-petok-vo-cifte-amam.html",
-      "image": "",
-      "date": "Wed, 16 Sep 2026 11:10:49 +0000"
+      "url": "https://time.mk/c/bd11bb32ad/30-godini-foltin-spakuvani-vo-nov-sajt-i-dizajni-na-studenti.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/09/foltin.jpg",
+      "date": "Wed, 16 Sep 2026 10:22:48 +0000"
     }
   ],
   "de": [
@@ -458,6 +458,33 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "10 Hacks Every Audible User Should Know",
+      "description": "Use these tips and tricks to get the most out of Amazon's audiobook platform.",
+      "url": "https://lifehacker.com/tech/10-hacks-every-audible-user-should-know?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M2GB5TMB83N9XVX6JBPFEE2M/hero-image.jpg",
+      "date": "Wed, 16 Sep 2026 23:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place",
+      "description": "Keep up with all of the best deals that Lifehacker publishes, including laptops, speakers, TVs, security cameras, and more.",
+      "url": "https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg",
+      "date": "Wed, 16 Sep 2026 21:46:30 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "These Are the Best Smart Speakers to Buy in 2026",
+      "description": "If you're in the market for a smart speaker, these are your best bets.",
+      "url": "https://lifehacker.com/tech/these-are-the-best-smart-speakers?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M2NCMFKN4JPZ02KGXRQ5EC0V/hero-image.png",
+      "date": "Wed, 16 Sep 2026 21:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "This Three-in-One Foldable Anker Charger Is 34% Off Right Now",
       "description": "It's super-convenient for travel.",
       "url": "https://lifehacker.com/tech/anker-magsafe-3-in-1-charger-deal-september-2026?utm_medium=RSS",
@@ -557,15 +584,6 @@
     {
       "category": "eng",
       "source": "Lifehacker",
-      "title": "Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place",
-      "description": "Keep up with all of the best deals that Lifehacker publishes, including laptops, speakers, TVs, security cameras, and more.",
-      "url": "https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg",
-      "date": "Tue, 15 Sep 2026 21:14:26 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
       "title": "Using This Under-Pillow Speaker Is Way More Comfortable Than Sleeping With Earbuds",
       "description": "Never again will I lose my AirPods in the sheets.",
       "url": "https://lifehacker.com/tech/this-under-pillow-speaker-is-my-upgrade-of-the-week?utm_medium=RSS",
@@ -616,24 +634,6 @@
       "url": "https://lifehacker.com/tech/best-smart-glasses-you-can-buy-in-2026?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01M2JX85DBGB568729RMG2C485/hero-image.webp",
       "date": "Tue, 15 Sep 2026 17:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "These Are the Best Smart Home Gifts of 2026",
-      "description": "If someone on your list wants to make their home a bit smarter, check these gifts out.",
-      "url": "https://lifehacker.com/tech/best-smart-home-gifts-of-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M1F6GBH6AHMPZ0QD1820V63W/hero-image.png",
-      "date": "Tue, 15 Sep 2026 17:10:38 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "I Tried 'Tailscale,' the Self-Hosted VPN Service That Makes It Look Like You're Always Home",
-      "description": "Tailscale is a free app that's well worth setting up on phones and computers.",
-      "url": "https://lifehacker.com/tech/i-tried-tailscale-the-self-hosted-vpn-service?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M2JW1GTT92B5AJ5DM0T4CQ1P/hero-image.jpg",
-      "date": "Tue, 15 Sep 2026 16:00:00 +0000"
     },
     {
       "category": "eng",
