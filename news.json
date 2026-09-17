@@ -1,6 +1,42 @@
 {
-  "updated": "2026-09-17T09:35:33.862879+00:00",
+  "updated": "2026-09-17T14:45:17.620909+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "OpenAI пријави шест безбедносни инциденти на своите модели",
+      "description": "OpenAI официјално објави шест нови безбедносни инциденти поврзани со неочекувано и загрижувачко однесување на нивните модели на вештачка интелигенција забележани во изминатите шест месеци. Како одговор на овие случувања, компанијата воведе нова детална рамка за јавно пријавување на ваквите отстапувања, со цел да се воспостават пошироки стандарди во целата индустрија за известување при несакани однесувања […]",
+      "url": "https://smartportal.mk/novosti/ai/openai-sest-novi-bezbednosni-incidenti-so-svoite-modeli/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/zac-wolff-rv2ooDQuNuI-unsplash-150x150.webp",
+      "date": "Thu, 17 Sep 2026 13:53:28 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Партнерство помеѓу Mozilla и Mistral за интеграција на вештачка интелигенција во Firefox",
+      "description": "Mozilla и Mistral објавија ново партнерство преку кое моделот на вештачка интелигенција Mistral Small 4 ќе биде интегриран во функцијата Smart Window на прелистувачот Firefox, функција која сѐ уште не е достапна за повеќето корисници. Соработката има за цел да понуди алтернатива со отворен код наспроти екосистемите кои ги наметнуваат големите технолошки компании, овозможувајќи им […]",
+      "url": "https://smartportal.mk/novosti/ai/partnerstvo-mozilla-mistral/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Firefox-x-Mistral1-2048x1152.png-150x150.webp",
+      "date": "Thu, 17 Sep 2026 13:17:21 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Првата бета верзија на iOS 27.2 ја донесува новата Health апликација базирана на вештачка интелигенција",
+      "description": "Apple веќе започна со тестирање на iOS 27.2, кратко по пуштањето на финалните верзии од системите за сите корисници, а интересно е што директно отидоа на .2 верзијата, наместо прво на .1. Првата бета верзија на iOS 27.2 ја вклучува целосно редизајнираната Health апликација која користи Apple Intelligence за генерирање персонализирани здравствени насоки. Apple ја […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/prva-beta-ios-27-2-ja-otkriva-novata-health-aplikacija/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-Health-app-Longevity-Health-Age-01-260909.mp4",
+      "date": "Thu, 17 Sep 2026 12:30:21 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Од идеја до бизнис за три месеци: Остануваат уште 3 дена за аплицирање на #ИмамИдеја4",
+      "description": "Имаш идеја за бизнис, но сè уште не си го направил/а првиот чекор? Остануваат уште само 3 дена за аплицирање на четвртото издание на инкубаторската програма #ИмамИдеја4, во организација на Startup Club Skopje. Програмата е наменета за сите кои имаат иновативна бизнис идеја и желба да ја претворат во одржлив стартап. Не ти е потребен […]",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/uste-tri-dena-za-imamideja4/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/ImamIdeja4_3DaysLeft-150x150.webp",
+      "date": "Thu, 17 Sep 2026 09:52:02 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -57,222 +93,195 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Meta претстави нова претплата наречена Meta One со дополнителни функции за сите нивни мрежи",
-      "description": "Meta официјално го претстави Meta One, нов претплатнички сервис наменет за корисниците на Instagram, Facebook, WhatsApp и Meta AI. Овој сервис е дизајниран да понуди дополнителни можности за индивидуалните корисници, но и креаторите и бизнисите, преку пристап до повеќе од 50 нови функции. Од компанијата истакнуваат дека основните верзии на нивните апликации, како и стандардното […]",
-      "url": "https://smartportal.mk/novosti/socijalni-mrezi/meta-one/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/meta-one-f-150x150.webp",
-      "date": "Wed, 16 Sep 2026 10:05:33 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Apple TV сервисот официјално стана достапен во Македонија",
-      "description": "Доста кратко по најавата оваа недела, Apple и официјално ја прошири достапноста на нивниот познат Apple TV сервис во повеќе нови земји во светот, меѓу кои и Македонија. Тоа значи дека корисниците на нашиот пазар добиваат уште еден избор на „стриминг“ сервис за филмови и серии, конкурент на веќе достапните Netflix, Prime Video, Disney+, SkyShowtime […]",
-      "url": "https://smartportal.mk/novosti/servisi/apple-tv-servisot-oficijalno-dostapen-vo-makedonija/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Apple-iCloud-Plus-expansion-hero-150x150.webp",
-      "date": "Wed, 16 Sep 2026 09:16:05 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Иднината на финансиите во фокусот на 7-та Германско-македонска конференција за контролинг",
-      "description": "Скопје, 15 септември 2026 – Вештачката интелигенција, дигитализацијата и потребата од нови компетенции сè повеќе го менуваат начинот на кој компаниите управуваат со финансиите и го планираат својот развој. Токму овие промени ќе бидат во фокусот на 7-та Германско-македонска конференција за контролинг, која ќе се одржи на 30 септември 2026 година во Скопје. Конференцијата, во […]",
-      "url": "https://smartportal.mk/novosti/nastani/idninata-na-finansiite-7-germansko-makedonska-konferencija-kontroling/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/KPU-Poeni-Promocija-ISOS-1920x1080-7th-Controlling-Conference-150x150.webp",
-      "date": "Tue, 15 Sep 2026 13:59:24 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Скопје „хакува“ за хуманост и човечност – Приклучи се на Hack for Humanity и создади AI решенија за локални предизвици",
-      "description": "Што се случува кога луѓето ќе ја насочат вештачката интелигенција кон проблемите во сопствената заедница? Одговорот ќе го добиеме за време на глобалната иницијатива Hack for Humanity, која оваа есен ги поврзува AI заедниците ширум светот со една заедничка цел, технологијата да се искористи за создавање решенија што навистина им помагаат на луѓето. AI Collective […]",
-      "url": "https://smartportal.mk/novosti/nastani/skopje-hack-for-humanity/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/qmhv4jwtvtittb0w54uxs6z793rs-150x150.webp",
-      "date": "Tue, 15 Sep 2026 13:34:52 +0000"
+      "source": "Time.mk - All",
+      "title": "„МАЈКРОСОФТ“ ГО ОБВИНИ РИВАЛОТ „АНТРОПИК“ ДЕКА СОЗДАВА ВЕШТАЧКА ИНТЕЛИГЕНЦИЈА ШТО НЕМА ДА МОЖЕ ДА СЕ КОНТРОЛИРА | Сакам да кажам",
+      "description": "",
+      "url": "https://time.mk/c/0c4d1f014d/majkrosoft-go-obvini-rivalot-antropik-deka-sozdava-vestacka-inteligencija-sto-nema-da-moze-da-se-kontrolira.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/09/download-1-1-3.jpg",
+      "date": "Thu, 17 Sep 2026 14:04:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВИ станува сѐ почудна - ги заобиколува правилата, дејствува без дозвола, измислува... | Факултети",
+      "title": "Трајановски: Интензивно се работи на стабилизација на косинини на автопатот Кичево–Охрид | Скопје инфо",
       "description": "",
-      "url": "https://time.mk/c/0729ced6df/vi-stanuva-sѐ-pocudna-gi-zaobikoluva-pravilata-dejstvuva-bez-dozvola-izmisluva.html",
-      "image": "https://www.fakulteti.mk/images/news/2026/09/20260917-vi-stanuva-se-pochudna-gi-zaobikoluva-pravilata-dejstvuva-bez-dozvola-izmisluva-m.jpg",
-      "date": "Thu, 17 Sep 2026 09:12:53 +0000"
+      "url": "https://time.mk/c/b0ba18b7af/trajanovski-intenzivno-se-raboti-na-stabilizacija-na-kosinini-na-avtopatot-kicevo-ohrid.html",
+      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/septemvri/image-260422.jpg?itok=ZgyPaWQo",
+      "date": "Thu, 17 Sep 2026 14:24:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Дел од комплексот на ЕУЛЕКС запален за време на протестите поради затворските казни на поранешните лидери на ОВК | Вечер Прес",
+      "title": "РЕАКЦИЈА ОД ОМО „ИЛИНДЕН“ – ПИРИН НА ИЗЈАВИТЕ НА БУГАРСКАТА ПРЕТСЕДАТЕЛКА, ЈОТОВА: Стојков: Не ни недостигаат никакви документи за регистрација, бугарските судови постојано измислуваат нови барања! | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/ec384750ef/del-od-kompleksot-na-euleks-zapalen-za-vreme-na-protestite-poradi-zatvorskite-kazni-na-poranesnite-lideri-na-ovk.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/09/euleks-kosovo-epa-sept26.jpg",
-      "date": "Thu, 17 Sep 2026 08:12:48 +0000"
+      "url": "https://time.mk/c/3d14955916/reakcija-od-omo-ilinden-pirin-na-izjavite-na-bugarskata-pretsedatelka-jotova-stojkov-ne-ni-nedostigaat-nikakvi-dokumenti-za-registracija-bugarskite-sudovi-postojano-izmisluvaat-novi-baranja.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/images.jpg",
+      "date": "Thu, 17 Sep 2026 13:38:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Мицкоски од САД: Нови можности за инвестиции и продлабочување на стратешкото партнерство | Макфакс",
+      "title": "Странци ловат и пијат крв од животни во Маврово, екологистите бараат националниот парк итно да се заштити | Мета",
       "description": "",
-      "url": "https://time.mk/c/eb7fec55d2/mickoski-od-sad-novi-moznosti-za-investicii-i-prodlabocuvanje-na-strateskoto-partnerstvo.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/90d55467-b60c-7175-0d11-3732046434a7.webp",
-      "date": "Thu, 17 Sep 2026 08:02:37 +0000"
+      "url": "https://time.mk/c/f299a1d6fa/stranci-lovat-i-pijat-krv-od-zivotni-vo-mavrovo-ekologistite-baraat-nacionalniot-park-itno-da-se-zastiti.html",
+      "image": "https://meta.mk/wp-content/uploads/2022/11/mavrovo-vo-esen-2-min-scaled.jpg.webp",
+      "date": "Thu, 17 Sep 2026 12:42:36 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ДЗР: Отсуството на ефикасен и системски пристап во управувањето и постапувањето со работните спорови предизвикале одлив од државниот буџет средства во износ од 64 милиони евра за период од пет години | Либертас",
+      "title": "РЕАКЦИИ НА ОБЈАВАТА НА СОБРАНИСКИОТ ПРЕТСЕДАТЕЛ: Гаши не смее да ги релативизира воените злосторства | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/cd7c4a3bdb/dzr-otsustvoto-na-efikasen-i-sistemski-pristap-vo-upravuvanjeto-i-postapuvanjeto-so-rabotnite-sporovi-predizvikale-odliv-od-drzavniot-budzet-sredstva-vo-iznos-od-64-milioni-evra-za-period-od-pet-godini.html",
-      "image": "https://libertas.mk/wp-content/uploads/2026/09/20260917092955_big_730x400_94-300x280.webp",
-      "date": "Thu, 17 Sep 2026 08:52:54 +0000"
+      "url": "https://time.mk/c/6270006edd/reakcii-na-objavata-na-sobraniskiot-pretsedatel-gasi-ne-smee-da-gi-relativizira-voenite-zlostorstva.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/afrim-gasi9-scaled-e1788186749378.jpg",
+      "date": "Thu, 17 Sep 2026 13:44:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Младите во Македонија остануваат во домовите на родителите до 30,7 години, а во ЕУ до 26,3 | Независен",
+      "title": "Прв случај во Кавадарци и уште еден во Велес: На 65 се зголеми бројот на заболени со западно-нилска треска | еМагазин",
       "description": "",
-      "url": "https://time.mk/c/3abb2e6ba2/mladite-vo-makedonija-ostanuvaat-vo-domovite-na-roditelite-do-30-7-godini-a-vo-eu-do-26-3.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/Luge-i-turisti-na-ul-Makedonija-toplo-vreme-leto-2-bg.jpg",
-      "date": "Thu, 17 Sep 2026 06:16:47 +0000"
+      "url": "https://time.mk/c/457e3efe51/prv-slucaj-vo-kavadarci-i-uste-eden-vo-veles-na-65-se-zgolemi-brojot-na-zaboleni-so-zapadno-nilska-treska.html",
+      "image": "https://emagazin.mk/wp-content/uploads/2025/05/bolnica-300x200.jpg",
+      "date": "Thu, 17 Sep 2026 12:24:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Не може двојни аршини, Гаши извршува државна функција: за СДСМ реакциите на претседателот на Собранието по пресудата за Хашим Тачи се крајно несоодветни | Макфакс",
+      "title": "Групацијата „Балфин“ ќе гради пет нови ритејл паркови во различни градови низ Македонија | Независен",
       "description": "",
-      "url": "https://time.mk/c/df5bc3d052/ne-moze-dvojni-arsini-gasi-izvrsuva-drzavna-funkcija-za-sdsm-reakciite-na-pretsedatelot-na-sobranieto-po-presudata-za-hasim-taci-se-krajno-nesoodvetni.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/03/gashi-8mart2.jpg",
-      "date": "Thu, 17 Sep 2026 06:46:36 +0000"
+      "url": "https://time.mk/c/478a44eedb/grupacijata-balfin-ke-gradi-pet-novi-ritejl-parkovi-vo-razlicni-gradovi-niz-makedonija.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/Retail-park-Prilep.png",
+      "date": "Thu, 17 Sep 2026 14:42:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Енергетската транзиција забрзува: Македонија ги надмина целите за обновливи извори – Енергетската заедница позитивно го оцени напредокот во спроведувањето на НПЕК | Бизнис Вести",
+      "title": "Андоновски: Размислуваме за донесување закон за употреба на вештачката интелигенција | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/f5044f19ad/energetskata-tranzicija-zabrzuva-makedonija-gi-nadmina-celite-za-obnovlivi-izvori-energetskata-zaednica-pozitivno-go-oceni-napredokot-vo-sproveduvanjeto-na-npek.html",
-      "image": "https://biznisvesti.mk/wp-content/uploads/2026/09/fotovolatitsi-300x168.webp",
-      "date": "Thu, 17 Sep 2026 08:46:37 +0000"
+      "url": "https://time.mk/c/3acfbf7847/andonovski-razmisluvame-za-donesuvanje-zakon-za-upotreba-na-vestackata-inteligencija.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/09/Stefan-Andonovski.jpg",
+      "date": "Thu, 17 Sep 2026 12:06:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Новата ЕУ такса за нарачки од Тему: Ќе удрат ли новите правила и по македонските џебови? | Трн",
+      "title": "Студентски протести во Приштина: „Правда за поранешните водачи на ОВК“ | Рацин",
       "description": "",
-      "url": "https://time.mk/c/9537cbd3bb/novata-eu-taksa-za-naracki-od-temu-ke-udrat-li-novite-pravila-i-po-makedonskite-dzebovi.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/09/paket-posta.jpg",
-      "date": "Thu, 17 Sep 2026 09:24:57 +0000"
+      "url": "https://time.mk/c/ede8136433/studentski-protesti-vo-pristina-pravda-za-poranesnite-vodaci-na-ovk.html",
+      "image": "https://racin.mk/wp-content/uploads/2026/09/prishtina-protesten-marsh-za-hashim-tachi-721x480.jpg?x43437",
+      "date": "Thu, 17 Sep 2026 14:00:51 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Филмското бегство заврши: Уапсен поштарот од БиХ кој побегна со пензиите на Тајланд | Вечер Прес",
+      "title": "По пресудата против лидерите на ОВК: како реагира Србија? | Deutsche Welle",
       "description": "",
-      "url": "https://time.mk/c/38736b35b4/filmskoto-begstvo-zavrsi-uapsen-postarot-od-bih-koj-pobegna-so-penziite-na-tajland.html",
+      "url": "https://time.mk/c/1e1e773d84/po-presudata-protiv-liderite-na-ovk-kako-reagira-srbija.html",
+      "image": "https://static.dw.com/image/79247159_302.jpg",
+      "date": "Thu, 17 Sep 2026 11:32:51 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Русија – од лажни избори до фарса | Независен",
+      "description": "",
+      "url": "https://time.mk/c/9a13adeef3/rusija-od-lazni-izbori-do-farsa.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/ÑÑÑÐ¸ÑÐ°-Ð¸Ð·Ð±Ð¾ÑÐ¸.avif",
+      "date": "Thu, 17 Sep 2026 14:02:36 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "ЕУ од Атлантикот до Индопацификот – Западен Балкан на дистанца! | Вечер Прес",
+      "description": "",
+      "url": "https://time.mk/c/48f39cb9e0/eu-od-atlantikot-do-indopacifikot-zapaden-balkan-na-distanca.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/021-scaled.jpg",
+      "date": "Thu, 17 Sep 2026 13:02:44 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Жената која фрлаше отпад во Лепенец доби две санкции од МВР | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/75260c7cac/zenata-koja-frlase-otpad-vo-lepenec-dobi-dve-sankcii-od-mvr.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/85132/conversions/text-max.jpg",
+      "date": "Thu, 17 Sep 2026 11:56:57 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Зошто се турка ДУП за изградба на „хациенди“ на Водно, и покрај тврдењата за незаконие и опасност од ерозија?! | Фокус",
+      "description": "",
+      "url": "https://time.mk/c/fc5b426181/zosto-se-turka-dup-za-izgradba-na-haciendi-na-vodno-i-pokraj-tvrdenjata-za-nezakonie-i-opasnost-od-erozija.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/09/barutana.jpeg",
+      "date": "Thu, 17 Sep 2026 11:56:57 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "НОВИ ДЕТАЛИ ОД СВЕДОЧЕЊЕТО ЗА КОНТРОЛИТЕ ВО „ПУЛС“: „Хаос е, не се поминува“ – полицијата не можела да стигне до дискотеката | Вечер Прес",
+      "description": "",
+      "url": "https://time.mk/c/678ab897e4/novi-detali-od-svedocenjeto-za-kontrolite-vo-puls-haos-e-ne-se-pominuva-policijata-ne-mozela-da-stigne-do-diskotekata.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/109-scaled.jpg",
+      "date": "Thu, 17 Sep 2026 13:44:48 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Дедо од Каварадци си нашол паричник и си трошел од картичката како да е негова | Независен",
+      "description": "",
+      "url": "https://time.mk/c/9317e9b170/dedo-od-kavaradci-si-nasol-paricnik-i-si-trosel-od-kartickata-kako-da-e-negova.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2021/01/bankomati-turcija.jpg",
+      "date": "Thu, 17 Sep 2026 11:36:48 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Продолжува проектот Битола-велоград | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/8d03b80e6c/prodolzuva-proektot-bitola-velograd.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/velo-pateki-bitola.webp",
+      "date": "Thu, 17 Sep 2026 14:00:51 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Во Делчево ќе се воведува зонско паркирање | Вечер Прес",
+      "description": "",
+      "url": "https://time.mk/c/1ef136aae7/vo-delcevo-ke-se-voveduva-zonsko-parkiranje.html",
       "image": "",
-      "date": "Thu, 17 Sep 2026 08:54:34 +0000"
+      "date": "Thu, 17 Sep 2026 13:20:51 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "81 година затвор, но што остана надвор од пресудата за Тачи? Вучиќ отвори тешки прашања | Рацин",
+      "title": "Федра – Антропологија на една желба“: Дино Мустафиќ во Драмски ги судира Расин и Сара Кејн во една театарска вечер | Независен",
       "description": "",
-      "url": "https://time.mk/c/3a72f52120/81-godina-zatvor-no-sto-ostana-nadvor-od-presudata-za-taci-vucik-otvori-teski-prasanja.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/09/vucic-3-720x480.jpg?x43437",
-      "date": "Thu, 17 Sep 2026 04:40:49 +0000"
+      "url": "https://time.mk/c/32b07ea2a1/fedra-antropologija-na-edna-zelba-dino-mustafik-vo-dramski-gi-sudira-rasin-i-sara-kejn-vo-edna-teatarska-vecer.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/fedra-dramski.jpg",
+      "date": "Thu, 17 Sep 2026 11:30:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВИДЕО | Русите го нападнаа Киев — повредени се најмалку 18 луѓе, меѓу нив и деца | Слободен Печат",
+      "title": "ДЕНОВИ НА ХРВАТСКИОТ ФИЛМ ВО КИНОТЕКАТА НА МАКЕДОНИЈА | Екран",
       "description": "",
-      "url": "https://time.mk/c/13c234b64a/video-rusite-go-napadnaa-kiev-povredeni-se-najmalku-18-lugje-megju-niv-i-deca.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/kiev-napadi-300x169.jpg",
-      "date": "Thu, 17 Sep 2026 09:04:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Украина погоди шест воени авиони во Ростов и нафтена рафинерија во Јарослав | Трн",
-      "description": "",
-      "url": "https://time.mk/c/b36f256b8e/ukraina-pogodi-sest-voeni-avioni-vo-rostov-i-naftena-rafinerija-vo-jaroslav.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/09/napadvorostov.jpg",
-      "date": "Thu, 17 Sep 2026 09:12:53 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "(ВИДЕО) Скопјанка застана на мост со „порше“ за да фрли отпад во Лепенец | Скопје инфо",
-      "description": "",
-      "url": "https://time.mk/c/85398f3f07/video-skopjanka-zastana-na-most-so-porse-za-da-frli-otpad-vo-lepenec.html",
-      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/septemvri/image-260384.png?itok=HbTEvjwO",
-      "date": "Thu, 17 Sep 2026 09:04:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ВИДЕО- БОГ ВЕ ЧУВАЛ ВАС И ГРАЃАНИТЕ! Затекната шокантна состојба на скопската жичница,Ѓорѓиевски откри страшни детали од проверката на Допелмајер | Фактор",
-      "description": "",
-      "url": "https://time.mk/c/d6942d54b4/video-bog-ve-cuval-vas-i-gragjanite-zateknata-sokantna-sostojba-na-skopskata-zicnica-gjorgjievski-otkri-strasni-detali-od-proverkata-na-dopelmajer.html",
-      "image": "https://faktor.mk/media/main/2026/09/20260917105310.jpg",
-      "date": "Thu, 17 Sep 2026 08:54:34 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Уапсен велешанец: запалил сува трева и отпаден шут, пожарот се проширил на ридот во близина | Макфакс",
-      "description": "",
-      "url": "https://time.mk/c/2cf3bf024e/uapsen-velesanec-zapalil-suva-treva-i-otpaden-sut-pozarot-se-prosiril-na-ridot-vo-blizina.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/pozar-apsenje1.webp",
-      "date": "Thu, 17 Sep 2026 09:26:46 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Маж ги нападнал брат му и снаата | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/05abd69dad/maz-gi-napadnal-brat-mu-i-snaata.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/79521/conversions/text-max.jpg",
-      "date": "Thu, 17 Sep 2026 09:22:42 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "(ФОТО) ЈКП Комуналец Прилеп: Парк-шумата „Могила“ со нов лик: 26.000 квадратни метри парк и спортски терени | Репортер",
-      "description": "",
-      "url": "https://time.mk/c/7866f99a95/foto-jkp-komunalec-prilep-park-sumata-mogila-so-nov-lik-26-000-kvadratni-metri-park-i-sportski-tereni.html",
-      "image": "https://reporter.mk/wp-content/uploads/2026/09/FB_IMG_1789631232158-225x300.jpg",
-      "date": "Thu, 17 Sep 2026 07:58:34 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Мапирање на пристапноста, безбедноста и условите за движење со Smart CityZen | Битола Њуз",
-      "description": "",
-      "url": "https://time.mk/c/ec153fb679/mapiranje-na-pristapnosta-bezbednosta-i-uslovite-za-dvizenje-so-smart-cityzen.html",
-      "image": "https://bitolanews.mk/wp-content/uploads/2026/09/kolors-mobilnost-21-150x150.jpg",
-      "date": "Thu, 17 Sep 2026 08:52:54 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Скопје и Нова Горица ќе соработуваат за Европска престолнина на културата 2028 | Независен",
-      "description": "",
-      "url": "https://time.mk/c/e1cfb0f6f5/skopje-i-nova-gorica-ke-sorabotuvaat-za-evropska-prestolnina-na-kulturata-2028.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/orce-nova-gorica.jpg",
-      "date": "Thu, 17 Sep 2026 09:00:56 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "На КРИК гостува Шејла Камериќ која МСУ ќе го претвори во простор на будност, сеќавање и заедничка ранливост | Рацин",
-      "description": "",
-      "url": "https://time.mk/c/6f90ebdd0c/na-krik-gostuva-sejla-kamerik-koja-msu-ke-go-pretvori-vo-prostor-na-budnost-sekavanje-i-zaednicka-ranlivost.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/09/shejla-1-484x480.jpg?x43437",
-      "date": "Thu, 17 Sep 2026 08:32:51 +0000"
+      "url": "https://time.mk/c/4a41039735/denovi-na-hrvatskiot-film-vo-kinotekata-na-makedonija.html",
+      "image": "https://ekran.mk/wp-content/uploads/2026/09/difuB7JJwHTJNGwITpxbHhwH3zO-696x392.jpg",
+      "date": "Thu, 17 Sep 2026 11:18:39 +0000"
     }
   ],
   "de": [
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "THEA1200 – drei klassische Amiga-Computer unter einer Haube",
+      "description": "Pünktlich zu Weihnachten kommt die neue Emulator-Hardware THEA1200 heraus, sie vereint den A500, A600 und A1200. Der Artikel THEA1200 – drei klassische Amiga-Computer unter einer Haube erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/retro-computing/thea1200-drei-klassische-amiga-computer-unter-einer-haube-333528.html",
+      "image": "https://cdn.tarnkappe.info/wp-content/uploads/THEA1200-mit-Verpackung.jpg",
+      "date": "Thu, 17 Sep 2026 11:02:16 +0000"
+    },
     {
       "category": "de",
       "source": "Tarnkappe",
@@ -443,18 +452,36 @@
       "url": "https://tarnkappe.info/artikel/it-sicherheit/online-betrug/fakeshop-netzwerk-119000-domains-doppelcart-333346.html",
       "image": "https://cdn.tarnkappe.info/wpimg/fakeshop-netzwerk-119000-domains-doppelcart",
       "date": "Wed, 09 Sep 2026 16:20:49 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "DDownload mit eigener Browser-Erweiterung: Ergänzung des Ökosystems oder Kampfansage an JDownloader 2?",
-      "description": "Der Sharehoster DDownload hat für Chrome und Firefox kürzlich eine Browser-Erweiterung eingeführt. Was steckt wohl dahinter? Der Artikel DDownload mit eigener Browser-Erweiterung: Ergänzung des Ökosystems oder Kampfansage an JDownloader 2? erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/szene/warez/sharehoster/ddownload-mit-eigener-browser-erweiterung-ergaenzung-des-oekosystems-oder-kampfansage-an-jdownloader-2-333332.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/ddownload-mit-eigener-browser-erweiterung-ergaenzung-des-oekosystems-oder-kampfansage-an-jdownloader-2",
-      "date": "Tue, 08 Sep 2026 13:26:46 +0000"
     }
   ],
   "eng": [
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "The Best Home Entertainment Gear of 2026",
+      "description": "Entertain yourself with the finest stereos, TVs, and entertainment devices this year has to offer.",
+      "url": "https://lifehacker.com/tech/best-home-entertainment-gear-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M2PNPZ6SXR2K0812ECZZ92BM/hero-image.png",
+      "date": "Thu, 17 Sep 2026 14:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "These Pixel Watch 4 Models Are Both $120 Off Right Now",
+      "description": "Both the 45mm Google Pixel Watch 4 LTE in matte black and the 41mm LTE model are seeing sizable discounts.",
+      "url": "https://lifehacker.com/tech/google-pixel-watch-4-lte-sale-september-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01KPZ4DXKGDNWNPMVJ2MVS8GAH/hero-image.jpg",
+      "date": "Thu, 17 Sep 2026 13:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Two-Year Proton VPN Plan With Unlimited Bandwidth Is 70% Off Right Now",
+      "description": "This VPN Plan saves $168 over the introductory term and covers up to 10 devices.",
+      "url": "https://lifehacker.com/ad/tech/two-year-proton-vpn-plan-sale-september-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M2QBKZEAW1Q76CYNGACRH0N8/hero-image.jpg",
+      "date": "Thu, 17 Sep 2026 12:30:00 +0000"
+    },
     {
       "category": "eng",
       "source": "Lifehacker",
@@ -610,30 +637,48 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "How to Get the Most Cloud Storage Possible for Free",
-      "description": "You can get a decent amount of storage without paying a dime.",
-      "url": "https://lifehacker.com/tech/how-to-get-the-most-cloud-storage-for-free?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M2GZY4H26JDR914FYY4E2MFK/hero-image.jpg",
-      "date": "Tue, 15 Sep 2026 19:30:00 +0000"
+      "source": "PCWorld",
+      "title": "14 clever USB-C gadgets I’d actually keep in my tech drawer",
+      "description": "I don’t know how your tech drawers look, but mine are filled with wires I’ll likely never use again because technology has advanced quite a bit. Thankfully, USB-C seems to be here to stay since there is no wrong way to plug these things in. It’s not just smartphones, tablets, and laptops that use these, however, but also a long list of gadgets. We’ve scoured the market for hidden gems: 14 gadgets that will make you think “Wow, I didn’t know I needed that, but it will make my life so much easier!",
+      "url": "https://www.pcworld.com/article/2779758/14-clever-usb-c-gadgets-id-actually-keep-in-my-tech-drawer.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/2779758-0-30054100-1789653633-Ugreen_USBC-L_02.jpg?quality=50&strip=all",
+      "date": "Thu, 17 Sep 2026 14:00:00 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "Everything You Need to Know About the October Prime Day Sale",
-      "description": "'Prime Big Deal Days' are returning Oct. 6 and 7, but you can already save up to 45% on Amazon devices and bundles.",
-      "url": "https://lifehacker.com/everything-you-need-to-know-about-october-prime-big-deals-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01K59RPCMHBH3VFAVPDQBD127W/hero-image.jpg",
-      "date": "Tue, 15 Sep 2026 18:30:00 +0000"
+      "source": "PCWorld",
+      "title": "The NFL app is (still) an insult to sports streaming",
+      "description": "Football fans who spent $15 per month on an NFL+ Premium subscription received a rude awakening on Sunday afternoon, when the NFL app refused to stream. As numerous users reported on Reddit —and as I experienced first-hand—NFL’s app and website failed to stream its usual NFL Network and NFL Redzone feeds as the action began. The official NFL+ account on X eventually apologized for the issue , which it claimed to resolve more than an hour into game time during the debut Sunday of the season. Whil",
+      "url": "https://www.pcworld.com/article/3237359/the-nfl-app-is-still-an-insult-to-sports-streaming.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3237359-0-65110900-1789654637-nflnetworkapp.jpg?quality=50&strip=all",
+      "date": "Thu, 17 Sep 2026 13:00:00 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "The Best Smart Glasses You Can Buy in 2026",
-      "description": "From mini-monitors to personal HUDs, these smart glasses are worth the money.",
-      "url": "https://lifehacker.com/tech/best-smart-glasses-you-can-buy-in-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M2JX85DBGB568729RMG2C485/hero-image.webp",
-      "date": "Tue, 15 Sep 2026 17:30:00 +0000"
+      "source": "PCWorld",
+      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
+      "description": "If you’re looking for an affordable Windows machine under $500 , a blazing fast gaming beast for those intense matches, or a portable 2-in-1 for school or work, you’ve got plenty of great choices right now. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 80 laptops every year. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches",
+      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/550968-0-13700800-1789648205-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
+      "date": "Thu, 17 Sep 2026 12:29:45 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "The one-size-fits-all laptop is dying",
+      "description": "Apple’s paragon of portability, the 13-inch MacBook Air, weighs 2.7 pounds. At IFA, two PC makers announced 14-inch laptops that weigh about a pound less . This won’t be a column bashing Apple (although it’s kind of embarrassing for an “Air,” though.) What I’d like to highlight, however, is that we truly live in a new age of purpose-built computing, where you can increasingly buy the right device for what you want to do, rather than simply buying a good overall PC and forcing it to adapt. It’s w",
+      "url": "https://www.pcworld.com/article/3227765/forget-the-best-laptop-the-pc-industry-is-building-one-for-everybody.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3227765-0-17269900-1789654697-Asus-ZenBook-primary-for-edit-edit.png",
+      "date": "Thu, 17 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Asus Zenbook 14 review: A $799 laptop that feels pricier than it is",
+      "description": "At a glance Expert's Rating Pros Good office performance Lightweight, stylish Great OLED screen and good sound The price! Cons Modest battery life Only available with a 256 GB SSD Our Verdict Asus strikes the right balance with the ZenBook 14, delivering a laptop that feels premium without costing a fortune. A small SSD and a small battery bring the rating down slightly. But if you use the laptop wisely, these drawbacks are less of an issue. Price at time of review This value will show the geolo",
+      "url": "https://www.pcworld.com/article/3235997/asus-zenbook-14-2026-review.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3235997-0-47676900-1789641940-PXL_20260909_095204971.jpg?quality=50&strip=all",
+      "date": "Thu, 17 Sep 2026 10:45:00 +0000"
     },
     {
       "category": "eng",
@@ -679,54 +724,18 @@
       "url": "https://www.pcworld.com/article/3232513/mypdftools-review.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3232513-0-64705100-1789570829-MyPDFTools-main.jpg?quality=50&strip=all",
       "date": "Wed, 16 Sep 2026 15:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "This retro-styled Ryzen 7 mini PC with 16GB RAM is now $518 at Amazon",
-      "description": "NEW LOWEST PRICE Acemagic Retro X3 Mini PC View Deal Mini PCs are great for saving space on a cramped desktop and for solid performance at affordable prices. Not just good for day-to-day office work, they’re also capable for multimedia, creative, and even gaming purposes. The Acemagic Retro X3 is one of the best value mini PCs on the market, and more so now that it’s on sale for just $517.50. That’s a huge discount off its original $699.99 price and a strapping good deal considering the hardware",
-      "url": "https://www.pcworld.com/article/3236984/this-retro-styled-ryzen-7-mini-pc-with-16gb-ram-is-now-518.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3236984-0-66089700-1789570199-Acemagic-Retro-X3-mini-PC.jpg?quality=50&strip=all",
-      "date": "Wed, 16 Sep 2026 14:47:10 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Roborock Qrevo Edge 2 review: Slim and powerful (with caveats)",
-      "description": "At a glance Expert's Rating Pros Fits under low furniture Side brush and swivel mop cleans corners and edges Split main brush effectively reduces hair tangles The docking station washes at up to 176 F and dries them at 131 F Cons Thresholds over 0.8 inches are an obstacle No cleaning solution tank Our Verdict The Roborock Qrevo Edge 2 is a great pick if you have low furniture and lots of edges to clean, but its limited threshold clearance and lack of automatic cleaning-solution dispensing keep i",
-      "url": "https://www.pcworld.com/article/3217594/roborock-qrevo-edge-2-review.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3217594-0-93524000-1789567225-Test-Roborock-Qrevo-Edge-2.png",
-      "date": "Wed, 16 Sep 2026 14:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "This retractable 3-in-1 charging cable is now just $10",
-      "description": "NOW JUST $10 Lisen 3-in-1 Retractable Charging Cable View Deal Is your car’s center console a nightmare to navigate? Wish it was easier to charge your phone while driving and cleaner and more organized when you aren’t? Then you need this 3-in-1 Lisen retractable charging cable . It’s now on sale for just $9.98 at Amazon, and its key feature is that it’s adaptable to pretty much any device you need charged in your car. On the one end, you have a USB-A connector that slots into your car’s own USB-",
-      "url": "https://www.pcworld.com/article/3236919/this-retractable-3-in-1-charging-cable-is-now-just-10.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3236919-0-83623400-1789565470-Lisen-3-in-1-retractable-car-USB-charging-cable.jpg?quality=50&strip=all",
-      "date": "Wed, 16 Sep 2026 13:30:55 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "This hidden VLC feature lets you stream thousands of free TV channels",
-      "description": "Most people know VLC as the little orange traffic cone that can play just about any video file you throw at it. But it can also stream video and audio straight from the internet. This feature is called “Open Network Stream,” and you’ll find it under Media > Open Network Stream in the VLC Player app. You can also press Ctrl + N to jump straight there. Paste in a supported stream URL then click Play and VLC will start streaming the content. The best way I’ve found to use this is with IPTV. The ope",
-      "url": "https://www.pcworld.com/article/3233870/vlcs-hidden-feature-lets-you-stream-thousands-of-tv-channels-from-all-over-the-world.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3233870-0-77569600-1789565101-VLC-player.png",
-      "date": "Wed, 16 Sep 2026 13:24:29 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "The used PC parts market is full of deals — and traps",
-      "description": "Whenever the retail market loses its mind, we can always turn to the second-hand market for relief. It’s there with open arms to give us months-old and years-old hardware at great prices. Right? Well, not anymore. In 2026, the state of the used market is… less than ideal, to put it mildly. Prices are skyrocketing and AI images/videos make scams easier than ever to conduct. Buying used PC parts is a good way to save money this year , but it can be fraught with difficulty and danger. But it doesn’",
-      "url": "https://www.pcworld.com/article/3105992/how-to-safely-buy-used-pc-parts-in-2026.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3105992-0-15357800-1789563662-Used-PC-components-hardware-e-waste-in-a-dump-recycle.jpg?quality=50&strip=all",
-      "date": "Wed, 16 Sep 2026 13:00:00 +0000"
     }
   ],
   "starwars": [
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "Review: ‘The Fall of Kylo Ren’ #2 Introduces a New Mystery of the Force",
+      "description": "Admittedly, I wasn’t terribly enthused about the return of Tava Ren and her Knights of Ren, expecting the second issue The post Review: ‘The Fall of Kylo Ren’ #2 Introduces a New Mystery of the Force appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/09/review-the-fall-of-kylo-ren-2-introduces-a-new-mystery-of-the-force.html",
+      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/09/Fall-of-Kylo-Ren-2-cover-art-scaled-e1789642065602.webp",
+      "date": "Thu, 17 Sep 2026 12:00:02 +0000"
+    },
     {
       "category": "starwars",
       "source": "Star Wars News Net",
@@ -798,15 +807,6 @@
       "url": "https://www.starwarsnewsnet.com/2026/09/how-new-star-wars-stories-are-connecting-different-generations-of-fans.html",
       "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2025/10/the-rise-of-skywalker-story-gallery-51_c196a5b3.jpeg",
       "date": "Mon, 14 Sep 2026 18:56:09 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars News Net",
-      "title": "The Star Wars Board and Card Games Every Fan Should Have at Home",
-      "description": "Being a Star Wars fan does not necessarily mean limiting yourself to periodically rewatching the movies, following the latest series The post The Star Wars Board and Card Games Every Fan Should Have at Home appeared first on Star Wars News Net .",
-      "url": "https://www.starwarsnewsnet.com/2026/09/the-star-wars-board-and-card-games-every-fan-should-have-at-home.html",
-      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2024/04/the-mandalorian-board-game.webp",
-      "date": "Mon, 14 Sep 2026 18:40:44 +0000"
     },
     {
       "category": "starwars",
@@ -1020,6 +1020,15 @@
     {
       "category": "youtube",
       "source": "Hood Informatik",
+      "title": "Nightmare Eclipse war Mitarbeiter bei Microsoft ?! #informatik #news #microsoft #cybersecurity",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/UTpH9Pgb4S0",
+      "image": "https://i.ytimg.com/vi/UTpH9Pgb4S0/hqdefault.jpg",
+      "date": "2026-09-14T16:30:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
       "title": "OpenAI Agenten übernehmen RubyGems...aber was ist mit dem Rest ?",
       "description": "",
       "url": "https://www.youtube.com/shorts/SA41xgf4EJI",
@@ -1079,15 +1088,6 @@
       "url": "https://www.youtube.com/shorts/dBrpY6j9Mek",
       "image": "https://i.ytimg.com/vi/dBrpY6j9Mek/hqdefault.jpg",
       "date": "2026-09-08T10:20:05+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Warum Berlin sich nicht erpressen ließ #informatik #berlin #code #news #cybersecurity",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/TGvSFxZMF4M",
-      "image": "https://i.ytimg.com/vi/TGvSFxZMF4M/hqdefault.jpg",
-      "date": "2026-09-07T10:00:16+00:00"
     },
     {
       "category": "youtube",
