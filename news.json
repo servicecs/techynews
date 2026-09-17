@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-17T04:00:50.710096+00:00",
+  "updated": "2026-09-17T09:35:33.862879+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Anthropic најави спојување на Claude функциите во „еден“ Claude",
+      "description": "Од денеска, Anthropic ги спојува функциите Cowork и стандардниот разговор во еден заеднички систем на Claude. Корисниците повеќе немаат потреба да избираат каде припаѓа одредена задача, бидејќи платформата сега сама препознава што е потребно и ги користи достапните ресурси и конектори директно од прозорецот за комуникација. Системот може да преземе сложени задачи и да ги […]",
+      "url": "https://smartportal.mk/novosti/ai/spojuvanje-claude-funkcii-vo-eden-claude/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/05/Depositphotos_830980654_XL-150x150.webp",
+      "date": "Thu, 17 Sep 2026 09:00:21 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -84,192 +93,183 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "MediaTek го претстави Dimensity 9600 Pro, својот прв чип со 2-нанометарски процес",
-      "description": "MediaTek официјално го претстави Dimensity 9600 Pro, нивниот нов процесор наменет за мобилните уреди од највисоката класа, кој е прв што го користи новиот 2-нанометарски производствен процес. Овој чип носи нова архитектура која обезбедува зголемени перформанси, интегрирана поддршка за напредни функции со вештачка интелигенција и драстично намалување на потрошувачката на енергија кај повеќејадрените операции за […]",
-      "url": "https://smartportal.mk/novosti/smartfoni/mediatek-dimensity-9600-pro/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/812281473_3033530126996445_7958657502397098610_n.png-150x150.webp",
-      "date": "Tue, 15 Sep 2026 13:19:52 +0000"
+      "source": "Time.mk - All",
+      "title": "ВИ станува сѐ почудна - ги заобиколува правилата, дејствува без дозвола, измислува... | Факултети",
+      "description": "",
+      "url": "https://time.mk/c/0729ced6df/vi-stanuva-sѐ-pocudna-gi-zaobikoluva-pravilata-dejstvuva-bez-dozvola-izmisluva.html",
+      "image": "https://www.fakulteti.mk/images/news/2026/09/20260917-vi-stanuva-se-pochudna-gi-zaobikoluva-pravilata-dejstvuva-bez-dozvola-izmisluva-m.jpg",
+      "date": "Thu, 17 Sep 2026 09:12:53 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ЕУ, САД и Велика Британија повикаа на почитување на хашката пресуда за лидерите на поранешната ОВК | 360 степени",
+      "title": "Дел од комплексот на ЕУЛЕКС запален за време на протестите поради затворските казни на поранешните лидери на ОВК | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/9d455d3be7/eu-sad-i-velika-britanija-povikaa-na-pocituvanje-na-haskata-presuda-za-liderite-na-poranesnata-ovk.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/09/14296219.jpg",
-      "date": "Wed, 16 Sep 2026 17:32:51 +0000"
+      "url": "https://time.mk/c/ec384750ef/del-od-kompleksot-na-euleks-zapalen-za-vreme-na-protestite-poradi-zatvorskite-kazni-na-poranesnite-lideri-na-ovk.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/euleks-kosovo-epa-sept26.jpg",
+      "date": "Thu, 17 Sep 2026 08:12:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Африм Гаши за пресудата во Хаг: За албанскиот народ, тие се и остануваат ослободители на Косово | Фокус",
+      "title": "Мицкоски од САД: Нови можности за инвестиции и продлабочување на стратешкото партнерство | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/bcc540b34d/afrim-gasi-za-presudata-vo-hag-za-albanskiot-narod-tie-se-i-ostanuvaat-osloboditeli-na-kosovo.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/09/Afrim-Gashi-intervju-juni-2026-585x390-1.jpg",
-      "date": "Wed, 16 Sep 2026 17:22:36 +0000"
+      "url": "https://time.mk/c/eb7fec55d2/mickoski-od-sad-novi-moznosti-za-investicii-i-prodlabocuvanje-na-strateskoto-partnerstvo.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/90d55467-b60c-7175-0d11-3732046434a7.webp",
+      "date": "Thu, 17 Sep 2026 08:02:37 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Громогласен молк на барањата за транспарентност за прославата на независноста | Слободен Печат",
+      "title": "ДЗР: Отсуството на ефикасен и системски пристап во управувањето и постапувањето со работните спорови предизвикале одлив од државниот буџет средства во износ од 64 милиони евра за период од пет години | Либертас",
       "description": "",
-      "url": "https://time.mk/c/6a98074160/gromoglasen-molk-na-baranjata-za-transparentnost-za-proslavata-na-nezavisnosta.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/david-guetta-2-300x200.jpg",
-      "date": "Wed, 16 Sep 2026 13:52:53 +0000"
+      "url": "https://time.mk/c/cd7c4a3bdb/dzr-otsustvoto-na-efikasen-i-sistemski-pristap-vo-upravuvanjeto-i-postapuvanjeto-so-rabotnite-sporovi-predizvikale-odliv-od-drzavniot-budzet-sredstva-vo-iznos-od-64-milioni-evra-za-period-od-pet-godini.html",
+      "image": "https://libertas.mk/wp-content/uploads/2026/09/20260917092955_big_730x400_94-300x280.webp",
+      "date": "Thu, 17 Sep 2026 08:52:54 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Зошто шефовите на гигантите за ВИ одеднаш предупредуваат за огромна опасност? | Емитер",
+      "title": "Младите во Македонија остануваат во домовите на родителите до 30,7 години, а во ЕУ до 26,3 | Независен",
       "description": "",
-      "url": "https://time.mk/c/36876a210b/zosto-sefovite-na-gigantite-za-vi-odednas-predupreduvaat-za-ogromna-opasnost.html",
-      "image": "https://emiter.com.mk/sites/default/files/styles/vesti/public/sliki/napis_web/2026/09/emiter_viOpasnost_00_09-2026.jpg?itok=vk00TjG9",
-      "date": "Wed, 16 Sep 2026 18:04:56 +0000"
+      "url": "https://time.mk/c/3abb2e6ba2/mladite-vo-makedonija-ostanuvaat-vo-domovite-na-roditelite-do-30-7-godini-a-vo-eu-do-26-3.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/Luge-i-turisti-na-ul-Makedonija-toplo-vreme-leto-2-bg.jpg",
+      "date": "Thu, 17 Sep 2026 06:16:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Левица до Јаневска: „Каде во листите за студентски домови се објавени бодовите?“ | Скопје1",
+      "title": "Не може двојни аршини, Гаши извршува државна функција: за СДСМ реакциите на претседателот на Собранието по пресудата за Хашим Тачи се крајно несоодветни | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/3f90373fb5/levica-do-janevska-kade-vo-listite-za-studentski-domovi-se-objaveni-bodovite.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/82353/conversions/text-max.jpg",
-      "date": "Wed, 16 Sep 2026 14:46:38 +0000"
+      "url": "https://time.mk/c/df5bc3d052/ne-moze-dvojni-arsini-gasi-izvrsuva-drzavna-funkcija-za-sdsm-reakciite-na-pretsedatelot-na-sobranieto-po-presudata-za-hasim-taci-se-krajno-nesoodvetni.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/03/gashi-8mart2.jpg",
+      "date": "Thu, 17 Sep 2026 06:46:36 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Кога судот ќе ѝ каже „не“ на власта: германски искуства за градење доверба во Уставниот суд | Deutsche Welle",
+      "title": "Енергетската транзиција забрзува: Македонија ги надмина целите за обновливи извори – Енергетската заедница позитивно го оцени напредокот во спроведувањето на НПЕК | Бизнис Вести",
       "description": "",
-      "url": "https://time.mk/c/8128d65e66/koga-sudot-ke-i-kaze-ne-na-vlasta-germanski-iskustva-za-gradenje-doverba-vo-ustavniot-sud.html",
-      "image": "https://static.dw.com/image/19117978_301.jpg",
-      "date": "Wed, 16 Sep 2026 12:20:55 +0000"
+      "url": "https://time.mk/c/f5044f19ad/energetskata-tranzicija-zabrzuva-makedonija-gi-nadmina-celite-za-obnovlivi-izvori-energetskata-zaednica-pozitivno-go-oceni-napredokot-vo-sproveduvanjeto-na-npek.html",
+      "image": "https://biznisvesti.mk/wp-content/uploads/2026/09/fotovolatitsi-300x168.webp",
+      "date": "Thu, 17 Sep 2026 08:46:37 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Билатерални договори – решение за транспортерите | 24 Вести",
+      "title": "Новата ЕУ такса за нарачки од Тему: Ќе удрат ли новите правила и по македонските џебови? | Трн",
       "description": "",
-      "url": "https://time.mk/c/351a9abd1a/bilateralni-dogovori-resenie-za-transporterite.html",
-      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1789573342/bjxobpiopx2pefhltfdt.jpg",
-      "date": "Wed, 16 Sep 2026 15:46:36 +0000"
+      "url": "https://time.mk/c/9537cbd3bb/novata-eu-taksa-za-naracki-od-temu-ke-udrat-li-novite-pravila-i-po-makedonskite-dzebovi.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/09/paket-posta.jpg",
+      "date": "Thu, 17 Sep 2026 09:24:57 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВМРО-ДПМНЕ: Пензискиот фонд е стабилен | 24 Вести",
+      "title": "Филмското бегство заврши: Уапсен поштарот од БиХ кој побегна со пензиите на Тајланд | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/8dac58cc92/vmro-dpmne-penziskiot-fond-e-stabilen.html",
-      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1789574118/k1uethc8nvcaidvuzmzu.jpg",
-      "date": "Wed, 16 Sep 2026 15:56:47 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Вучиќ: Најтешките можни злосторства над Србите не се опфатени | Фокус",
-      "description": "",
-      "url": "https://time.mk/c/ca2c787192/vucik-najteskite-mozni-zlostorstva-nad-srbite-ne-se-opfateni.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/09/Mo6k9kpTURBXy9lOGFmM2Y3YmY0Y2VhZWZiYmIyMWFlNmQyNGFlOTFhOS5qcGeRkwLNBYIA3gABoTAF-1170x780.webp",
-      "date": "Wed, 16 Sep 2026 17:30:37 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "САД: Ја почитуваме пресудата против поранешните водачи на ОВК | ТВ21",
-      "description": "",
-      "url": "https://time.mk/c/e10b0e8b67/sad-ja-pocituvame-presudata-protiv-poranesnite-vodaci-na-ovk.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2020/06/stejt-department.jpg",
-      "date": "Wed, 16 Sep 2026 14:46:38 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Фед ги зголеми каматите за прв пат од 2023 година, најавено уште едно зголемување | Bloomberg Adria",
-      "description": "",
-      "url": "https://time.mk/c/f76d667a5c/fed-gi-zgolemi-kamatite-za-prv-pat-od-2023-godina-najaveno-uste-edno-zgolemuvanje.html",
-      "image": "https://mk.bloombergadria.com/data/images/2026-09-16/116133_467663578_f.jpg?timestamp=1789509600",
-      "date": "Wed, 16 Sep 2026 21:40:55 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Што ќе значи за Македонија асоцијативното членство на Канада? | Независен",
-      "description": "",
-      "url": "https://time.mk/c/4a419eb03e/sto-ke-znaci-za-makedonija-asocijativnoto-clenstvo-na-kanada.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/Mark-Karni-Roberta-Mecola-i-Ursula-fon-der-Lajen-1024x989.jpg",
-      "date": "Wed, 16 Sep 2026 13:18:44 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Жичницата на Водно возела со оштетени сајли, среќа што не се случила катастрофа | Вечер Прес",
-      "description": "",
-      "url": "https://time.mk/c/6275b37873/zicnicata-na-vodno-vozela-so-osteteni-sajli-sreka-sto-ne-se-slucila-katastrofa.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/09/zicnica-2.jpg",
-      "date": "Wed, 16 Sep 2026 13:12:54 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Во Мичурин и Стар Аеродром ќе се вози еднонасочно, предвидени се 415 нови паркинг-места и патеки за велосипеди | Слободен Печат",
-      "description": "",
-      "url": "https://time.mk/c/b448b58e28/vo-micurin-i-star-aerodrom-ke-se-vozi-ednonasocno-predvideni-se-415-novi-parking-mesta-i-pateki-za-velosipedi.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/parking-vo-micurin-300x191.jpg",
-      "date": "Wed, 16 Sep 2026 13:34:39 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ЦУК: Активни два пожари на отворен простор, осум изгаснати во текот на денот | Фокус",
-      "description": "",
-      "url": "https://time.mk/c/eb43c5a6a9/cuk-aktivni-dva-pozari-na-otvoren-prostor-osum-izgasnati-vo-tekot-na-denot.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/09/image-2026-08-13t094341.403.webp",
-      "date": "Wed, 16 Sep 2026 16:38:53 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "МВР со повеќе случаи со дрога: Пронајдени марихуана и други материи, следуваат пријави | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/3b19142e4c/mvr-so-poveke-slucai-so-droga-pronajdeni-marihuana-i-drugi-materii-sleduvaat-prijavi.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/81731/conversions/text-max.jpg",
-      "date": "Wed, 16 Sep 2026 11:19:00 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Изградени три улици во населбата СРЦ | Вечер Прес",
-      "description": "",
-      "url": "https://time.mk/c/d6bfc9f180/izgradeni-tri-ulici-vo-naselbata-src.html",
+      "url": "https://time.mk/c/38736b35b4/filmskoto-begstvo-zavrsi-uapsen-postarot-od-bih-koj-pobegna-so-penziite-na-tajland.html",
       "image": "",
-      "date": "Wed, 16 Sep 2026 13:30:45 +0000"
+      "date": "Thu, 17 Sep 2026 08:54:34 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Саниран дефектот, водоснабдувањето во Куманово наскоро ќе се нормализира | Кумановски м.",
+      "title": "81 година затвор, но што остана надвор од пресудата за Тачи? Вучиќ отвори тешки прашања | Рацин",
       "description": "",
-      "url": "https://time.mk/c/808b76ba54/saniran-defektot-vodosnabduvanjeto-vo-kumanovo-naskoro-ke-se-normalizira.html",
-      "image": "https://cdn.kumanovskimuabeti.mk/2026/08/716230429_1004619975482127_5963271000441945695_n-1024x695.jpg",
-      "date": "Wed, 16 Sep 2026 18:44:49 +0000"
+      "url": "https://time.mk/c/3a72f52120/81-godina-zatvor-no-sto-ostana-nadvor-od-presudata-za-taci-vucik-otvori-teski-prasanja.html",
+      "image": "https://racin.mk/wp-content/uploads/2026/09/vucic-3-720x480.jpg?x43437",
+      "date": "Thu, 17 Sep 2026 04:40:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Гостување на албанската писателка Мимоза Хиса и промоција на романот „Ќерките на генералот“ на АrtArea под Крошна | Нова Македонија",
+      "title": "ВИДЕО | Русите го нападнаа Киев — повредени се најмалку 18 луѓе, меѓу нив и деца | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/fbb852690a/gostuvanje-na-albanskata-pisatelka-mimoza-hisa-i-promocija-na-romanot-kerkite-na-generalot-na-artarea-pod-krosna.html",
-      "image": "",
-      "date": "Wed, 16 Sep 2026 11:42:49 +0000"
+      "url": "https://time.mk/c/13c234b64a/video-rusite-go-napadnaa-kiev-povredeni-se-najmalku-18-lugje-megju-niv-i-deca.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/kiev-napadi-300x169.jpg",
+      "date": "Thu, 17 Sep 2026 09:04:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "30 години Фолтин спакувани во нов сајт и дизајни на студенти | Трн",
+      "title": "Украина погоди шест воени авиони во Ростов и нафтена рафинерија во Јарослав | Трн",
       "description": "",
-      "url": "https://time.mk/c/bd11bb32ad/30-godini-foltin-spakuvani-vo-nov-sajt-i-dizajni-na-studenti.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/09/foltin.jpg",
-      "date": "Wed, 16 Sep 2026 10:22:48 +0000"
+      "url": "https://time.mk/c/b36f256b8e/ukraina-pogodi-sest-voeni-avioni-vo-rostov-i-naftena-rafinerija-vo-jaroslav.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/09/napadvorostov.jpg",
+      "date": "Thu, 17 Sep 2026 09:12:53 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "(ВИДЕО) Скопјанка застана на мост со „порше“ за да фрли отпад во Лепенец | Скопје инфо",
+      "description": "",
+      "url": "https://time.mk/c/85398f3f07/video-skopjanka-zastana-na-most-so-porse-za-da-frli-otpad-vo-lepenec.html",
+      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/septemvri/image-260384.png?itok=HbTEvjwO",
+      "date": "Thu, 17 Sep 2026 09:04:48 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "ВИДЕО- БОГ ВЕ ЧУВАЛ ВАС И ГРАЃАНИТЕ! Затекната шокантна состојба на скопската жичница,Ѓорѓиевски откри страшни детали од проверката на Допелмајер | Фактор",
+      "description": "",
+      "url": "https://time.mk/c/d6942d54b4/video-bog-ve-cuval-vas-i-gragjanite-zateknata-sokantna-sostojba-na-skopskata-zicnica-gjorgjievski-otkri-strasni-detali-od-proverkata-na-dopelmajer.html",
+      "image": "https://faktor.mk/media/main/2026/09/20260917105310.jpg",
+      "date": "Thu, 17 Sep 2026 08:54:34 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Уапсен велешанец: запалил сува трева и отпаден шут, пожарот се проширил на ридот во близина | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/2cf3bf024e/uapsen-velesanec-zapalil-suva-treva-i-otpaden-sut-pozarot-se-prosiril-na-ridot-vo-blizina.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/pozar-apsenje1.webp",
+      "date": "Thu, 17 Sep 2026 09:26:46 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Маж ги нападнал брат му и снаата | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/05abd69dad/maz-gi-napadnal-brat-mu-i-snaata.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/79521/conversions/text-max.jpg",
+      "date": "Thu, 17 Sep 2026 09:22:42 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "(ФОТО) ЈКП Комуналец Прилеп: Парк-шумата „Могила“ со нов лик: 26.000 квадратни метри парк и спортски терени | Репортер",
+      "description": "",
+      "url": "https://time.mk/c/7866f99a95/foto-jkp-komunalec-prilep-park-sumata-mogila-so-nov-lik-26-000-kvadratni-metri-park-i-sportski-tereni.html",
+      "image": "https://reporter.mk/wp-content/uploads/2026/09/FB_IMG_1789631232158-225x300.jpg",
+      "date": "Thu, 17 Sep 2026 07:58:34 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Мапирање на пристапноста, безбедноста и условите за движење со Smart CityZen | Битола Њуз",
+      "description": "",
+      "url": "https://time.mk/c/ec153fb679/mapiranje-na-pristapnosta-bezbednosta-i-uslovite-za-dvizenje-so-smart-cityzen.html",
+      "image": "https://bitolanews.mk/wp-content/uploads/2026/09/kolors-mobilnost-21-150x150.jpg",
+      "date": "Thu, 17 Sep 2026 08:52:54 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Скопје и Нова Горица ќе соработуваат за Европска престолнина на културата 2028 | Независен",
+      "description": "",
+      "url": "https://time.mk/c/e1cfb0f6f5/skopje-i-nova-gorica-ke-sorabotuvaat-za-evropska-prestolnina-na-kulturata-2028.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/orce-nova-gorica.jpg",
+      "date": "Thu, 17 Sep 2026 09:00:56 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "На КРИК гостува Шејла Камериќ која МСУ ќе го претвори во простор на будност, сеќавање и заедничка ранливост | Рацин",
+      "description": "",
+      "url": "https://time.mk/c/6f90ebdd0c/na-krik-gostuva-sejla-kamerik-koja-msu-ke-go-pretvori-vo-prostor-na-budnost-sekavanje-i-zaednicka-ranlivost.html",
+      "image": "https://racin.mk/wp-content/uploads/2026/09/shejla-1-484x480.jpg?x43437",
+      "date": "Thu, 17 Sep 2026 08:32:51 +0000"
     }
   ],
   "de": [
@@ -638,6 +638,15 @@
     {
       "category": "eng",
       "source": "PCWorld",
+      "title": "This PDF editor has no monthly fees, and it’s on sale now for $30",
+      "description": "TL;DR : AcePDF converts, edits, and OCRs PDF files on Windows and Mac, and a lifetime license is on sale for $29.99 (reg. $99.99). Online PDF converters cap your file size, watermark the output, and route private documents through someone else’s server, and most desktop editors bill by the month. AcePDF is a desktop PDF converter and editor for Windows and Mac, and a lifetime license is on sale for $29.99 (reg. $99.99). AcePDF gives you the tools to turn a PDF into Word, Excel, PowerPoint, HTML,",
+      "url": "https://www.pcworld.com/article/3235181/this-pdf-editor-has-no-monthly-fees-and-its-on-sale-now-for-30.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3235181-0-86823900-1789632036-AcePDF.png",
+      "date": "Thu, 17 Sep 2026 08:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
       "title": "11 smart home gadgets that automate chores you still do yourself",
       "description": "Remember when “smart home” meant a single voice assistant that half-heard your requests? Those days are gone. Today, your house can vacuum itself, remotely unlock the door, water the lawn only when it’s needed, and even warn you about leaks before water destroys everything. If you’re a level one smart home owner (i.e., you have the basics like a smart speaker, some smart bulbs, maybe a simple robot vacuum) and you want to take your home to the next level—or maybe even over the top—then here are ",
       "url": "https://www.pcworld.com/article/3221403/11-smart-home-gadgets-that-automate-chores-you-still-do-yourself.html",
@@ -715,15 +724,6 @@
       "url": "https://www.pcworld.com/article/3105992/how-to-safely-buy-used-pc-parts-in-2026.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3105992-0-15357800-1789563662-Used-PC-components-hardware-e-waste-in-a-dump-recycle.jpg?quality=50&strip=all",
       "date": "Wed, 16 Sep 2026 13:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
-      "description": "If you’re looking for an affordable Windows machine under $500 , a blazing fast gaming beast for those intense matches, or a portable 2-in-1 for school or work, you’ve got plenty of great choices right now. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 80 laptops every year. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches",
-      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/550968-0-72822100-1789560623-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
-      "date": "Wed, 16 Sep 2026 12:10:03 +0000"
     }
   ],
   "starwars": [
@@ -1020,15 +1020,6 @@
     {
       "category": "youtube",
       "source": "Hood Informatik",
-      "title": "Nightmare Eclipse war Mitarbeiter bei Microsoft ?! #informatik #news #microsoft #cybersecurity",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/UTpH9Pgb4S0",
-      "image": "https://i.ytimg.com/vi/UTpH9Pgb4S0/hqdefault.jpg",
-      "date": "2026-09-14T16:30:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
       "title": "OpenAI Agenten übernehmen RubyGems...aber was ist mit dem Rest ?",
       "description": "",
       "url": "https://www.youtube.com/shorts/SA41xgf4EJI",
@@ -1088,6 +1079,195 @@
       "url": "https://www.youtube.com/shorts/dBrpY6j9Mek",
       "image": "https://i.ytimg.com/vi/dBrpY6j9Mek/hqdefault.jpg",
       "date": "2026-09-08T10:20:05+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Warum Berlin sich nicht erpressen ließ #informatik #berlin #code #news #cybersecurity",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/TGvSFxZMF4M",
+      "image": "https://i.ytimg.com/vi/TGvSFxZMF4M/hqdefault.jpg",
+      "date": "2026-09-07T10:00:16+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Exploring The Last Coal Power Plant in Connecticut Bridgeport Harbor Station",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=CR84XRBKBzs",
+      "image": "https://i.ytimg.com/vi/CR84XRBKBzs/hqdefault.jpg",
+      "date": "2026-08-27T17:00:39+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Rocketdyne Santa Susana Field Laboratory Abandoned America Space Race (1948)",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=0lka-0REQrQ",
+      "image": "https://i.ytimg.com/vi/0lka-0REQrQ/hqdefault.jpg",
+      "date": "2026-04-23T17:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition AMC Seats And Screens Left Behind",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=UnG29VothuQ",
+      "image": "https://i.ytimg.com/vi/UnG29VothuQ/hqdefault.jpg",
+      "date": "2026-03-27T21:09:35+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition Fly by In And Out",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=fDnOH8ZsfTg",
+      "image": "https://i.ytimg.com/vi/fDnOH8ZsfTg/hqdefault.jpg",
+      "date": "2026-03-27T20:40:08+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "AMC Westfield Promenade Mall Raw Demolition Drone Footage",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/5iA5R3Jq4g0",
+      "image": "https://i.ytimg.com/vi/5iA5R3Jq4g0/hqdefault.jpg",
+      "date": "2026-03-27T18:03:29+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition AMC Coming Down First!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=SAxjFGjTiHQ",
+      "image": "https://i.ytimg.com/vi/SAxjFGjTiHQ/hqdefault.jpg",
+      "date": "2026-03-23T17:42:38+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Beautiful Art Deco Theater",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=ccfU0LSmkj8",
+      "image": "https://i.ytimg.com/vi/ccfU0LSmkj8/hqdefault.jpg",
+      "date": "2026-03-11T20:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Decommissioned Power Station #synthwave #synth #retrowave #abandonedplaces",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/mOUbNSMoBJs",
+      "image": "https://i.ytimg.com/vi/mOUbNSMoBJs/hqdefault.jpg",
+      "date": "2025-06-17T17:55:51+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Wheel of Misfortune Three Kids Mine Demolition",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=VXRselqoN-8",
+      "image": "https://i.ytimg.com/vi/VXRselqoN-8/hqdefault.jpg",
+      "date": "2025-06-17T17:45:42+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Resort with a River Running Through It",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=0ILQ06M4hA0",
+      "image": "https://i.ytimg.com/vi/0ILQ06M4hA0/hqdefault.jpg",
+      "date": "2025-06-01T20:15:01+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Install Windows 11 with a Local Account in 2026",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=juIh1auHo3s",
+      "image": "https://i.ytimg.com/vi/juIh1auHo3s/hqdefault.jpg",
+      "date": "2026-08-05T17:00:04+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Replace the Battery in a Dell Precision 7760 Laptop",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=JOVmOahO2xs",
+      "image": "https://i.ytimg.com/vi/JOVmOahO2xs/hqdefault.jpg",
+      "date": "2026-03-11T17:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Use & Combine Joy-Con Controllers on the Steam Deck!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=p9ZdCe-eW1M",
+      "image": "https://i.ytimg.com/vi/p9ZdCe-eW1M/hqdefault.jpg",
+      "date": "2025-12-05T18:01:07+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Borderlands GOTY Enhanced Co-Op Lag Fix on PC | Windows & Steam Deck",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=UsaKlS3WBBs",
+      "image": "https://i.ytimg.com/vi/UsaKlS3WBBs/hqdefault.jpg",
+      "date": "2025-08-20T17:00:42+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Thrifty Gaming Pickups 058 - Going Through a Bag of Games, Controllers, and More!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=yKwMn2OMLLY",
+      "image": "https://i.ytimg.com/vi/yKwMn2OMLLY/hqdefault.jpg",
+      "date": "2025-05-07T17:01:12+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Thrifty Gaming Pickups 057 - Returning to Old Thrift Shops + A Big Xbox 360 Bundle!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=EOQgA7Q8Kw8",
+      "image": "https://i.ytimg.com/vi/EOQgA7Q8Kw8/hqdefault.jpg",
+      "date": "2024-12-04T18:00:14+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Thrifty Gaming Pickups 056 - Import Switch Games, Switch Lite, Xbox, and Xbox 360 Games!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=xaNcbxQkk5k",
+      "image": "https://i.ytimg.com/vi/xaNcbxQkk5k/hqdefault.jpg",
+      "date": "2024-06-12T17:00:40+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Thrifty Gaming Pickups 055 - Japanese Xbox 360 Imports, Consoles, and More!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=fvzT178zAlk",
+      "image": "https://i.ytimg.com/vi/fvzT178zAlk/hqdefault.jpg",
+      "date": "2024-05-15T17:00:26+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Final Fantasy VII Rebirth Best Buy Steelbook (PS5) #shorts",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/k02mkNRvIYE",
+      "image": "https://i.ytimg.com/vi/k02mkNRvIYE/hqdefault.jpg",
+      "date": "2024-03-01T18:00:24+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Final Fantasy VII Rebirth Deluxe Edition Unboxing (PS5) #shorts",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/SFwXpq5kwe4",
+      "image": "https://i.ytimg.com/vi/SFwXpq5kwe4/hqdefault.jpg",
+      "date": "2024-03-01T02:23:40+00:00"
     }
   ]
 }
