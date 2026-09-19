@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T20:13:31.825710+00:00",
+  "updated": "2026-09-19T22:25:10.403238+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -93,12 +93,30 @@
     },
     {
       "category": "mkd",
-      "source": "Time.mk - Sport",
-      "title": "Вардар е сепак предлабок за Шкендија Арачиново: Николов и Закариќ донесоа триумф за шампионот | МакФудбал",
+      "source": "Time.mk - All",
+      "title": "Нека започне новото филмско ткаење: Отворено 47. издание на ИФФК „Браќа Манаки“ | Бизнис Вести",
       "description": "",
-      "url": "https://time.mk/c/8714f7f437/vardar-e-sepak-predlabok-za-skendija-aracinovo-nikolov-i-zakarik-donesoa-triumf-za-sampionot.html",
-      "image": "https://makfudbal.mk/wp-content/uploads/2026/09/vardar-naredeni-3-300x184.jpg",
-      "date": "Sat, 19 Sep 2026 20:07:06 +0000"
+      "url": "https://time.mk/c/896bb2cced/neka-zapocne-novoto-filmsko-tkaenje-otvoreno-47-izdanie-na-iffk-braka-manaki.html",
+      "image": "https://biznisvesti.mk/wp-content/uploads/2026/09/6d4cce94-8375-4e40-85cc-20cce5d7d30e-300x200.jpg",
+      "date": "Sat, 19 Sep 2026 22:20:50 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Мицкоски од САД побара вклучување на Бугарија во преговорите околу ЕУ | 24 Вести",
+      "description": "",
+      "url": "https://time.mk/c/9ac68943c1/mickoski-od-sad-pobara-vklucuvanje-na-bugarija-vo-pregovorite-okolu-eu.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1789829185/xo2t07tzd1lrycuaesdo.jpg",
+      "date": "Sat, 19 Sep 2026 14:54:45 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "ЕУ ќе забрани социјални мрежи за деца до 13 години – дали и Македонија ќе воведе такви мерки? Експертите укажуваат на потребата од тоа | ТВ21",
+      "description": "",
+      "url": "https://time.mk/c/13ae0999c4/eu-ke-zabrani-socijalni-mrezi-za-deca-do-13-godini-dali-i-makedonija-ke-vovede-takvi-merki-ekspertite-ukazuvaat-na-potrebata-od-toa.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2026/09/deca-mobilen-1024x620.png",
+      "date": "Sat, 19 Sep 2026 15:52:56 +0000"
     },
     {
       "category": "mkd",
@@ -130,47 +148,29 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Мицкоски од САД побара вклучување на Бугарија во преговорите околу ЕУ | 24 Вести",
+      "title": "Мицкоски: Антимонот може да ја зголеми стратешката и економската важност на Македонија | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/9ac68943c1/mickoski-od-sad-pobara-vklucuvanje-na-bugarija-vo-pregovorite-okolu-eu.html",
-      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1789829185/xo2t07tzd1lrycuaesdo.jpg",
-      "date": "Sat, 19 Sep 2026 14:54:45 +0000"
+      "url": "https://time.mk/c/aa1ba9437a/mickoski-antimonot-moze-da-ja-zgolemi-strateskata-i-ekonomskata-vaznost-na-makedonija.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2026/09/Screenshot_2-1-1024x585.jpg",
+      "date": "Sat, 19 Sep 2026 10:46:46 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "СДСМ: Арамијата Мицкоски е армагедон за Македонија | 360 степени",
+      "title": "Гасните интерконектори треба да обезбедат струја за идните дата-центри | Пари",
       "description": "",
-      "url": "https://time.mk/c/c118955585/sdsm-aramijata-mickoski-e-armagedon-za-makedonija.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2025/12/sdsm-sedishte.png",
-      "date": "Sat, 19 Sep 2026 12:46:52 +0000"
+      "url": "https://time.mk/c/81d1a0af2f/gasnite-interkonektori-treba-da-obezbedat-struja-za-idnite-data-centri.html",
+      "image": "http://pari.com.mk/wp-content/uploads/2024/09/12092024_Mickoski_Butel_8.jpg",
+      "date": "Sat, 19 Sep 2026 07:26:46 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Антимон кај Крива Паланка: 5 милиони долари од DFC за „Крстов Дол“ | Паноптикум",
+      "title": "Не му давала пари за коцка, па крвнички ја избодел? Детали за синот – убиец од Нови Сад, родителите не сакале да прифатат дека имал проблеми | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/bbf3ac29de/antimon-kaj-kriva-palanka-5-milioni-dolari-od-dfc-za-krstov-dol.html",
-      "image": "https://panoptikum.mk/wp-content/uploads/rudnik-antimon-kriva-palanka.webp",
-      "date": "Sat, 19 Sep 2026 19:12:56 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Странските компании со 4,7% од фирмите, но со 37% од бруто-додадената вредност | Бизнис Вести",
-      "description": "",
-      "url": "https://time.mk/c/48d89580df/stranskite-kompanii-so-4-7-od-firmite-no-so-37-od-bruto-dodadenata-vrednost.html",
-      "image": "https://biznisvesti.mk/wp-content/uploads/2026/05/ronaldcandonga-job-5382501_1920-300x181.jpg",
-      "date": "Fri, 18 Sep 2026 20:11:07 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Кесиќ за „Индекс“: Отстранети сме непосредно пред најзначајните избори во Србија | Слободен Печат",
-      "description": "",
-      "url": "https://time.mk/c/b9ab4ddc03/kesik-za-indeks-otstraneti-sme-neposredno-pred-najznacajnite-izbori-vo-srbija.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/Screenshot-2026-09-19-194018-300x165.png",
-      "date": "Sat, 19 Sep 2026 17:54:45 +0000"
+      "url": "https://time.mk/c/f8ba3b9133/ne-mu-davala-pari-za-kocka-pa-krvnicki-ja-izbodel-detali-za-sinot-ubiec-od-novi-sad-roditelite-ne-sakale-da-prifatat-deka-imal-problemi.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/srpska-policjia.jpg",
+      "date": "Sat, 19 Sep 2026 20:19:10 +0000"
     },
     {
       "category": "mkd",
@@ -184,11 +184,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Техеран ги доставил своите услови за крај на војната до Вашингтон – се чека одговор од Трамп | 360 степени",
+      "title": "ВИДЕО | Путин со остра порака до Европа: „Оставете нè да живееме во мир – во спротивно и ние ќе реагираме“ | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/4b47383323/teheran-gi-dostavil-svoite-uslovi-za-kraj-na-vojnata-do-vasington-se-ceka-odgovor-od-tramp.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/06/SAD-i-Iran-znaminja.webp",
-      "date": "Sat, 19 Sep 2026 19:26:50 +0000"
+      "url": "https://time.mk/c/7f255b42ac/video-putin-so-ostra-poraka-do-evropa-ostavete-ne-da-ziveeme-vo-mir-vo-sprotivno-i-nie-ke-reagirame.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2025/12/13592644-300x185.jpg",
+      "date": "Sat, 19 Sep 2026 14:58:45 +0000"
     },
     {
       "category": "mkd",
@@ -202,15 +202,6 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Попов: Герасимовски и СДС од фрустрација поради поразот кој им е близу, наместо со глувците во Центар, се занимаваат со лични напади | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/b851722fac/popov-gerasimovski-i-sds-od-frustracija-poradi-porazot-koj-im-e-blizu-namesto-so-gluvcite-vo-centar-se-zanimavaat-so-licni-napadi.html",
-      "image": "",
-      "date": "Sat, 19 Sep 2026 14:24:55 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
       "title": "Ракот не избира, превенцијата и раната дијагноза можат да спасат живот | Журнал",
       "description": "",
       "url": "https://time.mk/c/83aaf17b5e/rakot-ne-izbira-prevencijata-i-ranata-dijagnoza-mozat-da-spasat-zivot.html",
@@ -220,11 +211,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Нарушен јавниот ред и мир на ул. „Радојца Новичиќ“ | Охрид1",
+      "title": "СДСМ Центар за глодарите: Дератизацијата не може да ги замени собирањето отпад и одржувањето на канализацијата | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/39d77ce84f/narusen-javniot-red-i-mir-na-ul-radojca-novicik.html",
-      "image": "https://ohrid1.com/wp-content/uploads/2025/03/ohrid-prolet-750x460.jpg",
-      "date": "Sat, 19 Sep 2026 19:26:50 +0000"
+      "url": "https://time.mk/c/e6362f57b8/sdsm-centar-za-glodarite-deratizacijata-ne-moze-da-gi-zameni-sobiranjeto-otpad-i-odrzuvanjeto-na-kanalizacijata.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/40175/conversions/macki-gluvci-max.jpg",
+      "date": "Sat, 19 Sep 2026 12:32:57 +0000"
     },
     {
       "category": "mkd",
@@ -238,11 +229,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Проданоски по повод 84 години од Дабничкиот масакр: Да не се повтори и никогаш да не се заборави | Репортер",
+      "title": "Нарушен јавниот ред и мир на ул. „Радојца Новичиќ“ | Охрид1",
       "description": "",
-      "url": "https://time.mk/c/a16ac37721/prodanoski-po-povod-84-godini-od-dabnickiot-masakr-da-ne-se-povtori-i-nikogas-da-ne-se-zaboravi.html",
-      "image": "https://reporter.mk/wp-content/uploads/2026/09/FB_IMG_1789811951434-300x200.jpg",
-      "date": "Sat, 19 Sep 2026 10:03:27 +0000"
+      "url": "https://time.mk/c/39d77ce84f/narusen-javniot-red-i-mir-na-ul-radojca-novicik.html",
+      "image": "https://ohrid1.com/wp-content/uploads/2025/03/ohrid-prolet-750x460.jpg",
+      "date": "Sat, 19 Sep 2026 19:26:50 +0000"
     },
     {
       "category": "mkd",
@@ -256,11 +247,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Саботно „корзо“ на битолчани (19.09.2026) | Шеталиште",
+      "title": "Проданоски по повод 84 години од Дабничкиот масакр: Да не се повтори и никогаш да не се заборави | Репортер",
       "description": "",
-      "url": "https://time.mk/c/e51fa984ec/sabotno-korzo-na-bitolcani-19-09-2026.html",
-      "image": "https://setaliste.mk/wp-content/uploads/2026/09/19.09.2026-42-150x150.jpg",
-      "date": "Sat, 19 Sep 2026 15:46:45 +0000"
+      "url": "https://time.mk/c/a16ac37721/prodanoski-po-povod-84-godini-od-dabnickiot-masakr-da-ne-se-povtori-i-nikogas-da-ne-se-zaboravi.html",
+      "image": "https://reporter.mk/wp-content/uploads/2026/09/FB_IMG_1789811951434-300x200.jpg",
+      "date": "Sat, 19 Sep 2026 10:03:27 +0000"
     },
     {
       "category": "mkd",
@@ -268,8 +259,17 @@
       "title": "„Што ми е мило“ зазвуче во Холивуд со Меконахи и Курт Расел | Рацин",
       "description": "",
       "url": "https://time.mk/c/f4dc589905/sto-mi-e-milo-zazvuce-vo-holivud-so-mekonahi-i-kurt-rasel.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/09/metju-mekonahi-753x480.jpg?x64280",
+      "image": "https://racin.mk/wp-content/uploads/2026/09/metju-mekonahi-753x480.jpg?x63568",
       "date": "Sat, 19 Sep 2026 18:28:56 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "РУСИЈА ГО ПРОГЛАСИ РЕЖИСЕРОТ АНДРЕЈ ЗВЈАГИНЦЕВ ЗА СТРАНСКИ АГЕНТ НЕКОЛКУ МЕСЕЦИ ОТКАКО БЕШЕ НАГРАДЕН ВО КАН | Сакам да кажам",
+      "description": "",
+      "url": "https://time.mk/c/6629116505/rusija-go-proglasi-reziserot-andrej-zvjagincev-za-stranski-agent-nekolku-meseci-otkako-bese-nagraden-vo-kan.html",
+      "image": "",
+      "date": "Sat, 19 Sep 2026 15:28:55 +0000"
     }
   ],
   "de": [
