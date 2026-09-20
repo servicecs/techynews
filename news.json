@@ -1,6 +1,105 @@
 {
-  "updated": "2026-09-20T20:29:43.704549+00:00",
+  "updated": "2026-09-20T22:40:24.435375+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Gallery апликацијата кај Samsung Galaxy уредите добива можност за синхронизација со Google Photos",
+      "description": "Samsung започна со воведување на интеграцијата на својата апликација за слики со Google Photos, овозможувајќи им на корисниците на Galaxy уредите директно да прават резервни копии на своите фотографии и видеа на серверите на Google. Оваа промена доаѓа откако компанијата во мај најави дека поддршката за синхронизација преку Microsoft OneDrive ќе биде целосно укината на […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/gallery-google-photos-samsung-galaxy/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/IMG_1440-150x150.webp",
+      "date": "Fri, 18 Sep 2026 11:12:31 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Продажбата на Galaxy Z Fold8 бележи раст по претставувањето на iPhone Duo",
+      "description": "Претставувањето на првиот телефон на преклоп на Apple, моделот iPhone Duo, предизвика позитивен ефект врз продажбата на конкурентскиот уред Samsung Galaxy Z Fold8. Според информациите објавени од корејскиот медиум The Chosun, продажбата на Galaxy Z Fold8 е зголемена за 10% по премиерата на новиот модел на Apple. Овој пазарен тренд, според медиумот, се должи на […]",
+      "url": "https://smartportal.mk/novosti/uredi/galaxy-z-fold-8-rast-po-pretstavuvanjeto-na-iphone-duo/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/IMG_1439_z_fold8-12-150x150.webp",
+      "date": "Fri, 18 Sep 2026 10:00:30 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Google претстави посебен ВИ асистент за менаџирање на заедничките обврски на семејствата",
+      "description": "Google го надградува својот експериментален систем за вештачка интелигенција CC, кој отсега ќе функционира како дигитален асистент за семејства и домаќинства. Овој систем, развиен од Google Labs, овозможува до шест корисници да соработуваат и да ги организираат секојдневните обврски преку една централизирана платформа. Првично замислен како личен асистент кој подоцна беше интегриран како дневен преглед, […]",
+      "url": "https://smartportal.mk/novosti/ai/google-asistent-za-semejstva/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/CC_hero.width-2200.format-webp-150x150.webp",
+      "date": "Fri, 18 Sep 2026 09:02:54 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "[АНАЛИЗА] Изборот е твој: Кој модел од Galaxy S26 серијата е скроен за твојот дигитален стил?",
+      "description": "Во светот каде сите телефони на прв поглед изгледаат исто, вистинската разлика денес ја прави софтверот, брзината на AI и начинот на кој уредот ги решава секојдневните пречки. Со своите уреди, Samsung се бори против концептот „еден телефон за сите“ и нуди прецизно наменети паметни телефони согласно барањата на корисниците, од бескомпромисни супер-машини, до паметно […]",
+      "url": "https://smartportal.mk/novosti/smartfoni/koj-model-od-galaxy-s26-serijata-e-skroen-za-tvojot-digitalen-svet/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/407-kv-family-galaxy-s26-fe-galaxy-s26-galaxy-s26plus-s26ultra-1200x600-1-150x150.webp",
+      "date": "Fri, 18 Sep 2026 08:01:49 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "OpenAI пријави шест безбедносни инциденти на своите модели",
+      "description": "OpenAI официјално објави шест нови безбедносни инциденти поврзани со неочекувано и загрижувачко однесување на нивните модели на вештачка интелигенција забележани во изминатите шест месеци. Како одговор на овие случувања, компанијата воведе нова детална рамка за јавно пријавување на ваквите отстапувања, со цел да се воспостават пошироки стандарди во целата индустрија за известување при несакани однесувања […]",
+      "url": "https://smartportal.mk/novosti/ai/openai-sest-novi-bezbednosni-incidenti-so-svoite-modeli/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/zac-wolff-rv2ooDQuNuI-unsplash-150x150.webp",
+      "date": "Thu, 17 Sep 2026 13:53:28 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Партнерство помеѓу Mozilla и Mistral за интеграција на вештачка интелигенција во Firefox",
+      "description": "Mozilla и Mistral објавија ново партнерство преку кое моделот на вештачка интелигенција Mistral Small 4 ќе биде интегриран во функцијата Smart Window на прелистувачот Firefox, функција која сѐ уште не е достапна за повеќето корисници. Соработката има за цел да понуди алтернатива со отворен код наспроти екосистемите кои ги наметнуваат големите технолошки компании, овозможувајќи им […]",
+      "url": "https://smartportal.mk/novosti/ai/partnerstvo-mozilla-mistral/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Firefox-x-Mistral1-2048x1152.png-150x150.webp",
+      "date": "Thu, 17 Sep 2026 13:17:21 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Првата бета верзија на iOS 27.2 ја донесува новата Health апликација базирана на вештачка интелигенција",
+      "description": "Apple веќе започна со тестирање на iOS 27.2, кратко по пуштањето на финалните верзии од системите за сите корисници, а интересно е што директно отидоа на .2 верзијата, наместо прво на .1. Првата бета верзија на iOS 27.2 ја вклучува целосно редизајнираната Health апликација која користи Apple Intelligence за генерирање персонализирани здравствени насоки. Apple ја […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/prva-beta-ios-27-2-ja-otkriva-novata-health-aplikacija/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-Health-app-Longevity-Health-Age-01-260909.mp4",
+      "date": "Thu, 17 Sep 2026 12:30:21 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Од идеја до бизнис за три месеци: Остануваат уште 3 дена за аплицирање на #ИмамИдеја4",
+      "description": "Имаш идеја за бизнис, но сè уште не си го направил/а првиот чекор? Остануваат уште само 3 дена за аплицирање на четвртото издание на инкубаторската програма #ИмамИдеја4, во организација на Startup Club Skopje. Програмата е наменета за сите кои имаат иновативна бизнис идеја и желба да ја претворат во одржлив стартап. Не ти е потребен […]",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/uste-tri-dena-za-imamideja4/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/ImamIdeja4_3DaysLeft-150x150.webp",
+      "date": "Thu, 17 Sep 2026 09:52:02 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Anthropic најави спојување на Claude функциите во „еден“ Claude",
+      "description": "Од денеска, Anthropic ги спојува функциите Cowork и стандардниот разговор во еден заеднички систем на Claude. Корисниците повеќе немаат потреба да избираат каде припаѓа одредена задача, бидејќи платформата сега сама препознава што е потребно и ги користи достапните ресурси и конектори директно од прозорецот за комуникација. Системот може да преземе сложени задачи и да ги […]",
+      "url": "https://smartportal.mk/novosti/ai/spojuvanje-claude-funkcii-vo-eden-claude/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/05/Depositphotos_830980654_XL-150x150.webp",
+      "date": "Thu, 17 Sep 2026 09:00:21 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Apple конечно ја пушти новата и понапредна верзија од Siri, но истата треба прво да се вклучи",
+      "description": "После две години од кога првично требаше да им биде достапна, Apple конечно оваа недела ја донесe новата и понапредна верзија од Siri, сега наречена Siri AI, иако сѐ уште со бета ознака. Со пуштањето на официјалните финални верзии од iOS 27 и другите системи од компанијата, официјално и дојде Siri AI за повеќето корисници […]",
+      "url": "https://smartportal.mk/novosti/ai/apple-konecno-ja-pusti-siri-ai/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Apple-iOS-27-Siri-AI-personal-context-150x150.webp",
+      "date": "Wed, 16 Sep 2026 17:02:37 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Мицкоски на средба со македонската заедница во САД | Независен",
+      "description": "",
+      "url": "https://time.mk/c/bfce309c91/mickoski-na-sredba-so-makedonskata-zaednica-vo-sad.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/Ð¼Ð¸ÑÐºÐ¾ÑÐºÐ¸-Ð¸ÑÐµÐ»ÐµÐ½Ð¸ÑÐ¸-2-1024x720.webp",
+      "date": "Sun, 20 Sep 2026 21:30:39 +0000"
+    },
     {
       "category": "mkd",
       "source": "Time.mk - Sport",
@@ -9,15 +108,6 @@
       "url": "https://time.mk/c/6502c385e7/murinjo-so-zestok-monolog-po-porazot-vakvo-derbi-ne-e-za-neiskusen-sudija.html",
       "image": "https://derbi.mk/wp-content/uploads/2026/09/murinjo-pres-poalteti.jpg",
       "date": "Sun, 20 Sep 2026 17:28:46 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Вајдел ја обвини Левицата дека сака да ги „стрела богатите“, па удри и по Мерц | Трн",
-      "description": "",
-      "url": "https://time.mk/c/1972d95d33/vajdel-ja-obvini-levicata-deka-saka-da-gi-strela-bogatite-pa-udri-i-po-merc.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/09/images-2026-09-20t215446.531.jpg",
-      "date": "Sun, 20 Sep 2026 19:56:51 +0000"
     },
     {
       "category": "mkd",
@@ -31,38 +121,29 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Гувернер од САД: Вештачката интелигенција е закана на ниво на нуклеарно оружје | Вечер Прес",
-      "description": "",
-      "url": "https://time.mk/c/828a16cad6/guverner-od-sad-vestackata-inteligencija-e-zakana-na-nivo-na-nuklearno-oruzje.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/09/vestacka-intelegencija-igor-omilaev-eggfz5x2lna-unsplash-2.jpg",
-      "date": "Sun, 20 Sep 2026 20:12:52 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Стефанија Кузмановска е нова претседателка на СДММ | 24Инфо",
-      "description": "",
-      "url": "https://time.mk/c/4ea01f668b/stefanija-kuzmanovska-e-nova-pretsedatelka-na-sdmm.html",
-      "image": "https://24info.mk/wp-content/uploads/2026/09/b3bac557-8c4a-4e1a-a9ee-725dc0ec9a5d-1024x884.jpeg",
-      "date": "Sun, 20 Sep 2026 18:18:36 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Кога врбата ќе роди грозје, тогаш ќе ги викнеме Софија и Брисел на гроздобер | Нова Македонија",
-      "description": "",
-      "url": "https://time.mk/c/f2719936ed/koga-vrbata-ke-rodi-grozje-togas-ke-gi-vikneme-sofija-i-brisel-na-grozdober.html",
-      "image": "",
-      "date": "Sat, 19 Sep 2026 08:06:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
       "title": "Зголемени животните трошоци во септември, синдикалната кошница над 1.120 евра за основните потреби | 24 Вести",
       "description": "",
       "url": "https://time.mk/c/0195e66f52/zgolemeni-zivotnite-trosoci-vo-septemvri-sindikalnata-kosnica-nad-1-120-evra-za-osnovnite-potrebi.html",
       "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1789912891/mqenachuvbq7zbmvsimk.jpg",
       "date": "Sun, 20 Sep 2026 14:52:58 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Маврово без заштитен штит: Правниот вакуум отвора простор за лов и злоупотреби | Deutsche Welle",
+      "description": "",
+      "url": "https://time.mk/c/f98ea87e9e/mavrovo-bez-zastiten-stit-pravniot-vakuum-otvora-prostor-za-lov-i-zloupotrebi.html",
+      "image": "https://static.dw.com/image/45861189_301.jpg",
+      "date": "Sun, 20 Sep 2026 10:10:36 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Мисајловски во посета на Словенија: Средба со дијаспората пред состаноците на министрите за одбрана | Press24",
+      "description": "",
+      "url": "https://time.mk/c/5726687205/misajlovski-vo-poseta-na-slovenija-sredba-so-dijasporata-pred-sostanocite-na-ministrite-za-odbrana.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/72048.jpg",
+      "date": "Sun, 20 Sep 2026 12:42:51 +0000"
     },
     {
       "category": "mkd",
@@ -76,6 +157,15 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
+      "title": "Зошто ништо повеќе не е направено да трае 20 години: Живееме во економија на планирана застареност | Фактор",
+      "description": "",
+      "url": "https://time.mk/c/e1c1941ad5/zosto-nisto-poveke-ne-e-napraveno-da-trae-20-godini-ziveeme-vo-ekonomija-na-planirana-zastarenost.html",
+      "image": "https://faktor.mk/media/main/2026/09/20260920092453.jpg",
+      "date": "Sun, 20 Sep 2026 11:31:17 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
       "title": "ОДО Бјело Поље му одреди мерки за надзор на возачот што превезуваше ученици на екскурзија: – задолжитело ќе треба да се јавува во полицијата во Будва секој понеделник | Вечер Прес",
       "description": "",
       "url": "https://time.mk/c/c868bd8002/odo-bjelo-polje-mu-odredi-merki-za-nadzor-na-vozacot-sto-prevezuvase-ucenici-na-ekskurzija-zadolzitelo-ke-treba-da-se-javuva-vo-policijata-vo-budva-sekoj-ponedelnik.html",
@@ -85,36 +175,36 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Срдановиќ: Убеден сум во победа, подготвени сме ненасилно да го одбраниме секој глас | 24Инфо",
+      "title": "82-годишен маж почина по расправија за лежалка на плажа во Атина | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/c21c61e555/srdanovik-ubeden-sum-vo-pobeda-podgotveni-sme-nenasilno-da-go-odbranime-sekoj-glas.html",
-      "image": "https://24info.mk/wp-content/uploads/2026/09/srdanovic-1024x768.webp",
-      "date": "Sat, 19 Sep 2026 10:53:02 +0000"
+      "url": "https://time.mk/c/4549c9ddc4/82-godisen-maz-pocina-po-raspravija-za-lezalka-na-plaza-vo-atina.html",
+      "image": "https://glamur.mk/wp-content/uploads/2026/09/ai-780x470.jpg",
+      "date": "Sun, 20 Sep 2026 10:51:12 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "РУСКИ ДРОН УБИ СВЕШТЕНИК ВО УКРАИНСКИ МАНАСТИР Уште четворица свештеници се ранети во нападот кај Дњепар | +инфо",
+      "title": "И покрај новата „катастрофа“ на изборите, Мерц вели дека не се повлекува | Deutsche Welle",
       "description": "",
-      "url": "https://time.mk/c/dfe20e7157/ruski-dron-ubi-svestenik-vo-ukrainski-manastir-uste-cetvorica-svestenici-se-raneti-vo-napadot-kaj-dnjepar.html",
+      "url": "https://time.mk/c/96817781ca/i-pokraj-novata-katastrofa-na-izborite-merc-veli-deka-ne-se-povlekuva.html",
+      "image": "https://static.dw.com/image/79347595_301.jpg",
+      "date": "Sun, 20 Sep 2026 17:10:36 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Рафинерија во Москва во пламен: Русија го пријави најголемиот напад во 2026 година | Bloomberg Adria",
+      "description": "",
+      "url": "https://time.mk/c/dfe20e7157/rafinerija-vo-moskva-vo-plamen-rusija-go-prijavi-najgolemiot-napad-vo-2026-godina.html",
       "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/ruski-napad-300x222.jpg",
-      "date": "Sun, 20 Sep 2026 15:16:51 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "По смртоносниот напад, Израел подготвува голема операција на Западниот Брег | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/530701c330/po-smrtonosniot-napad-izrael-podgotvuva-golema-operacija-na-zapadniot-breg.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/85148/conversions/text-max.jpg",
-      "date": "Sun, 20 Sep 2026 19:20:56 +0000"
+      "date": "Sun, 20 Sep 2026 11:58:34 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
       "title": "(Видео) Стотици верници во Скопје ја одбележаа Мала Богородица со молитвена поворка | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/101befead8/video-stotici-vernici-vo-skopje-ja-odbelezaa-mala-bogorodica-so-molitvena-povorka.html",
+      "url": "https://time.mk/c/6e63cb4d9d/video-stotici-vernici-vo-skopje-ja-odbelezaa-mala-bogorodica-so-molitvena-povorka.html",
       "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/85292/conversions/text-max.jpg",
       "date": "Sun, 20 Sep 2026 16:44:59 +0000"
     },
@@ -139,20 +229,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВИДЕО | Жестока тепачка на скопскиот аеродром, во пресметката „леташе“ и столица | Слободен Печат",
+      "title": "Црна ноќ на македонските патишта: Три жртви и седум повредени | Рацин",
       "description": "",
-      "url": "https://time.mk/c/00e1ec36e1/video-zestoka-tepacka-na-skopskiot-aerodrom-vo-presmetkata-letase-i-stolica.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/tepacka-aerodrom-e1789935006933-300x213.jpg",
-      "date": "Sun, 20 Sep 2026 20:14:37 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Се потешко е да се произведе гравот тетовец | Журнал",
-      "description": "",
-      "url": "https://time.mk/c/ee32e9d745/se-potesko-e-da-se-proizvede-gravot-tetovec.html",
-      "image": "https://zurnal.mk/wp-content/uploads/2026/09/groshe.jpg",
-      "date": "Sun, 20 Sep 2026 20:18:38 +0000"
+      "url": "https://time.mk/c/35d5aef59c/crna-nok-na-makedonskite-patista-tri-zrtvi-i-sedum-povredeni.html",
+      "image": "https://racin.mk/wp-content/uploads/2026/05/policzija-soobrakajna-721x480.jpg?x38687",
+      "date": "Sun, 20 Sep 2026 13:12:49 +0000"
     },
     {
       "category": "mkd",
@@ -166,110 +247,29 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Се одржа второто издание на метал фестивалот Skopje Fury | Кајгана",
+      "title": "Се потешко е да се произведе гравот тетовец | Журнал",
       "description": "",
-      "url": "https://time.mk/c/649c70238b/se-odrza-vtoroto-izdanie-na-metal-festivalot-skopje-fury.html",
-      "image": "https://kajgana.com/sites/default/files/styles/article_image_xxl/public/2026-09/Game-Over-Skopje-Fury-2026-ÑÐ¾ÑÐ¾-Ð¤Ð¸Ð»Ð¸Ð¿-ÐÐ´ÑÐ°Ð²ÐµÑÐºÐ¸.jpg?itok=hKoiv2Xg",
-      "date": "Sun, 20 Sep 2026 19:54:53 +0000"
+      "url": "https://time.mk/c/ee32e9d745/se-potesko-e-da-se-proizvede-gravot-tetovec.html",
+      "image": "https://zurnal.mk/wp-content/uploads/2026/09/groshe.jpg",
+      "date": "Sun, 20 Sep 2026 20:18:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Лаустен: Како дете не сакав филм воопшто, но подоцна камерата стана мојот живот | Трн",
+      "title": "Со врвни светски кинематографери отворен 47. „Браќа Манаки“; Продолжува ткаењето на филмската историја! | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/d4dc5c5238/lausten-kako-dete-ne-sakav-film-voopsto-no-podocna-kamerata-stana-mojot-zivot.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/09/2b4e1c2f-bb68-45ec-99cc-44279afbaad9.jpg",
-      "date": "Sun, 20 Sep 2026 17:52:47 +0000"
+      "url": "https://time.mk/c/c6f8a7236d/so-vrvni-svetski-kinematograferi-otvoren-47-braka-manaki-prodolzuva-tkaenjeto-na-filmskata-istorija.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/vtora-5.jpg",
+      "date": "Sun, 20 Sep 2026 13:30:45 +0000"
     },
     {
       "category": "mkd",
-      "source": "Motika",
-      "title": "Тетовски татко сподели дел од муабетите што ги прават родителите на заедничката Вибер група",
-      "description": "РОДИТЕЛСКА ВИБЕР ГРУПА Затоа што, детето во школо оди по знаење. Родителот оди на Вибер или Ватсап и таму нема милост. Учителката во 17:03 пишува: „Почитувани, утре децата треба да донесат тетратка по природа.“ И си оди. Жената си кажала сè што треба да се каже. Тетратка. По природа. Утре. Четири зборови кои до 22 ...",
-      "url": "https://motika.mk/tetovski-tatko-spodeli-del-od-muabetite-sto-gi-pravat-roditelite-na-zaednickata-viber-grupa/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/20/viber_group_comic_1789891070173-1200x611.jpg",
-      "date": "Sun, 20 Sep 2026 08:00:39 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Жељко, извини брат, ама фудбалот е поинтересен од тебе",
-      "description": "Дечково го погрешил стадионот 🙂",
-      "url": "https://motika.mk/zelko-izvini-brat-ama-fudbalot-e-pointeresen-od-tebe/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/20/c3f7521f86bf44378a6cb1b39e43759b.jpg",
-      "date": "Sun, 20 Sep 2026 07:45:34 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Скопско секојдневие: 7-ца чади затоа што се прави скара, а зошто чади 5-ка?",
-      "description": "Пак е заради скарата, затоа што некој наместо да работи домаќински и да купи нови автобуси, си инвестирал во скарата во дворот на луксузната вила.",
-      "url": "https://motika.mk/skopsko-sekojdnevie-7-ca-cadi-zatoa-sto-se-pravi-skara-a-zosto-cadi-5-ka/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/20/6ebc8285112e405bae5dc9eab6061a28.jpg",
-      "date": "Sun, 20 Sep 2026 07:43:11 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "3, 2, 1… и трката за првите редови на концеротот на Жељко Јоксимовиќ во Штип може да започне",
-      "description": "Да беше некоја светска ѕвезда, да ги разбере човек, а за Србите што повеќе настапи имаат кај нас отколку дома, некако премногу трчање е.",
-      "url": "https://motika.mk/3-2-1-i-trkata-za-prvite-redovi-na-koncerotot-na-zelko-joksimovik-vo-stip-moze-da-zapocne/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/20/67c6345f13eb46308b76cc7a00b33cac.jpg",
-      "date": "Sun, 20 Sep 2026 07:39:15 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Ја откривме тајната како Вардар „процвета“ со новото раководство… Тајната има 4 нозе",
-      "description": "Смешно видео на кое еден од фудбалерите доби неочекувано интензивен кондиционен тренинг благодарение на кучето на газдата. Со вакви тренинзи, фудбалерите ќе летат по теренот.",
-      "url": "https://motika.mk/ja-otkrivme-tajnata-kako-vardar-procveta-so-novoto-rakovodstvo-tajnata-ima-4-noze/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/20/b3512b89955d4032bba0734c5bc32980.jpg",
-      "date": "Sun, 20 Sep 2026 07:35:03 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "„Македонско девојче“ грми среде Солун",
-      "description": "Можете да не негирате колку сакате, ние отсекогаш сме опстојувале и ќе најдеме начин како да опстоиме. Македонија на Македонците!",
-      "url": "https://motika.mk/makedonsko-devojce-grmi-srede-solun/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/20/57a2496229464da2926fd0f4087b9c14.jpg",
-      "date": "Sun, 20 Sep 2026 07:31:55 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Попот го знае ситното?! Ајде попе, само весело!",
-      "description": "Орото е најдобриот фитнес што постои: Ем вежбаш, ем те полни со позитивна енергија.",
-      "url": "https://motika.mk/popot-go-znae-sitnoto-ajde-pope-samo-veselo/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/20/pope.jpg",
-      "date": "Sun, 20 Sep 2026 07:27:55 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Охрид има свој Колосеум: Под седиштата на Античкиот театар некогаш се чувале лавови за суровите гладијаторски борби",
-      "description": "Дали знаевте дека под дел од мермерните седишта на Античкиот театар во Охрид некогаш имало подземни простории и кафези во кои се чувале диви животни за суровите гладијаторски борби? Денес ова место изгледа како сцена за музика, тишина и поглед кон езерото, но под неговиот камен останала приказна што звучи како сенка од некое друго ...",
-      "url": "https://motika.mk/ohrid-ima-svoj-koloseum-pod-sedistata-na-antickiot-teatar-nekogas-se-cuvale-lavovi-za-surovite-gladijatorski-borbi/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/20/anticki-teatar-ohrid.jpeg",
-      "date": "Sun, 20 Sep 2026 06:57:42 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Пред 1600 години црквата на Плаошник била колку фудбалско игралиште и со раскош споредуван со Цариград",
-      "description": "На ридот над Охрид, меѓу камените остатоци и тишината на вековите, се крие сведоштво што го прави секој Македонец горд: монументална ранохристијанска базилика, една од највпечатливите траги од времето кога градот бил духовно и културно средиште со голема сила. Содржина: Кога Охрид се викал Лихнид, на ова место веќе се издигал христијански комплекс НУ Завод ...",
-      "url": "https://motika.mk/pred-1600-godini-crkvata-na-plaosnik-bila-kolku-fudbalsko-igraliste-i-so-raskos-sporeduvan-so-carigrad/",
-      "image": "https://motika.mk/wp-content/uploads/2026/09/20/plaosnik-1200x675.jpeg",
-      "date": "Sun, 20 Sep 2026 06:17:38 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Македонија се гордее со своите мозоци: Владимир Грчев, кој има само 16 години, освои сребрен медал, Дамјан Давков, кој е најуспешниот македонски натпреварувач до сега ја дополни својата импресивна колекција со уште една бронза",
-      "description": "Од 14 до 20 септември во Тирана, Албанија, се одржа 33. Балканска олимпијада по информатика БОИ 2026. На престижниот регионален натпревар во програмирање, сите членови на македонскиот тим постигнаа извонреден успех и се враќаат со одличја. Содржина: Владимир, Дамјан, Никола и Марко ја донесоа македонската приказна меѓу најдобрите Благојче Павлески и Петар Ковачовски го водеа ...",
-      "url": "https://motika.mk/makedonija-se-gordee-so-svoite-mozoci-vladimir-grcev-koj-ima-samo-16-godini-osvoi-srebren-medal-damjan-davkov-koj-e-najuspesniot-makedonski-natprevaruvac-do-sega-ja-dopolni-svojata-impresivna-kol/",
-      "image": "https://motika.io/media/2026/09/20/img-9845a660-e33e-45b0-a069-bb1fa0348079-5.jpg",
-      "date": "Sun, 20 Sep 2026 05:42:45 +0000"
+      "source": "Time.mk - All",
+      "title": "Дан Лаустсен: Кога снимам, не ме плаши темнината | Умно",
+      "description": "",
+      "url": "https://time.mk/c/2ead6cf68e/dan-laustsen-koga-snimam-ne-me-plasi-temninata.html",
+      "image": "https://umno.mk/wp-content/uploads/2026/09/9e1549a5-ac3e-4ebe-a13c-45754dcb3f8d-2.jpg",
+      "date": "Sun, 20 Sep 2026 17:24:50 +0000"
     }
   ],
   "de": [
@@ -730,6 +730,15 @@
     {
       "category": "starwars",
       "source": "Star Wars News Net",
+      "title": "Lucas Museum Inauguration Took Place on Saturday With Major Industry and Political Figures In Attendance",
+      "description": "The Lucas Museum of Narrative Art is set to open its doors on Sept. 22, but it hosted its inauguration The post Lucas Museum Inauguration Took Place on Saturday With Major Industry and Political Figures In Attendance appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/09/lucas-museum-inauguration-took-place-on-saturday-with-major-industry-figures-in-attendance.html",
+      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/09/LucasMuseum-scaled.webp",
+      "date": "Sun, 20 Sep 2026 21:55:55 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
       "title": "This Week, In a Galaxy Far, Far Away: ‘The Mandalorian and Grogu’ Streaming Numbers, ‘The Force Awakens’ Dethroned, and Not Much More",
       "description": "Happy Sunday, and welcome to an all-new edition of “This Week, In a Galaxy Far, Far Away“. The period of Star The post This Week, In a Galaxy Far, Far Away: ‘The Mandalorian and Grogu’ Streaming Numbers, ‘The Force Awakens’ Dethroned, and Not Much More appeared first on Star Wars News Net .",
       "url": "https://www.starwarsnewsnet.com/2026/09/this-week-in-a-galaxy-far-far-away-the-mandalorian-and-grogu-streaming-numbers-the-force-awakens-dethroned-and-not-much-more.html",
@@ -798,15 +807,6 @@
       "url": "https://www.starwarsnewsnet.com/2026/09/review-the-fall-of-kylo-ren-2-introduces-a-new-mystery-of-the-force.html",
       "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/09/Fall-of-Kylo-Ren-2-cover-art-scaled-e1789642065602.webp",
       "date": "Thu, 17 Sep 2026 18:55:02 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars News Net",
-      "title": "Review – ‘The High Republic Adventures: Pathfinders’ #5 Sinks Into Madness as the Series Approaches the Finale",
-      "description": "Pathfinders has reached its endgame. While we are a bit late to the party to talk about last week’s fascinating The post Review – ‘The High Republic Adventures: Pathfinders’ #5 Sinks Into Madness as the Series Approaches the Finale appeared first on Star Wars News Net .",
-      "url": "https://www.starwarsnewsnet.com/2026/09/review-the-high-republic-adventures-pathfinders-5-sinks-into-madness-as-the-series-approaches-the-finale.html",
-      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/09/Screenshot-2026-09-16-1.09.25-PM-e1789582554937.png",
-      "date": "Thu, 17 Sep 2026 18:45:12 +0000"
     },
     {
       "category": "starwars",
