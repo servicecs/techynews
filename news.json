@@ -1,6 +1,51 @@
 {
-  "updated": "2026-09-22T06:38:14.605881+00:00",
+  "updated": "2026-09-22T12:26:28.186203+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Започна AI Tech Summit „Filip Avramchev“ 2026: Два дена за AI, технологијата и иднината која веќе ја живееме",
+      "description": "Денес во Националната опера и балет во Скопје започна AI Tech Summit „Filip Avramchev“ 2026, кој на 22 и 23 септември на едно место ги обединува глобалните AI експерти, инженерите, бизнис-лидерите, стартапите и студентите. Под мотото „Human x AI – Where Innovation Meets Human Potential“, дводневната програма е посветена на тоа како вештачката интелигенција веќе […]",
+      "url": "https://smartportal.mk/novosti/nastani/zapocna-ai-tech-summit-filip-avramchev-2026/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/techsummit-6405-fi-150x150.webp",
+      "date": "Tue, 22 Sep 2026 11:47:32 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "X воведува известувања за корисниците при владини ограничувања на нивните објави",
+      "description": "Социјалната мрежа X најави нова промена во начинот на кој се справува со барањата за цензура, овозможувајќи им на корисниците директен увид кога државните институции влијаат врз видливоста на нивните објави. Според најновите информации, платформата системски ќе ја зголеми видливоста на владините барања кои имаат за цел да ограничат или целосно да отстранат одредена содржина. […]",
+      "url": "https://smartportal.mk/novosti/socijalni-mrezi/x-izvestuvanja-pri-vladini-oranicuvanja-na-objavi/",
+      "image": "https://smartportal.mk/wp-content/uploads/2023/08/shutterstock_2336648595-150x150.jpg",
+      "date": "Tue, 22 Sep 2026 08:24:13 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Motorola го прикажа изгледот на нивниот претстоен телефон со несекојдневен дизајн",
+      "description": "Motorola преку своите профили на социјалните мрежи објави кратка најава за својот претстоен паметен телефон од високата класа, кој најверојатно ќе го носи името Signature 27. Оваа објава доаѓа непосредно пред споделувањето на повеќе информации кое од страна на компанијата е закажано за денес. Со овој потег, производителот одлучи да ги отстрани шпекулациите и да […]",
+      "url": "https://smartportal.mk/novosti/smartfoni/motorola-prikaza-izgled-telefon-so-specificen-dizajn/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/794598210_18042704783822177_1266268008550511190_n-f-150x150.webp",
+      "date": "Tue, 22 Sep 2026 08:13:27 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Microsoft ги потсетува администраторите да преминат на „passkey“ за пристап за Entra ID",
+      "description": "Microsoft ги повика ИТ администраторите да ги префрлат корисниците на Entra ID на методи за автентикација кои се отпорни на фишинг напади, како што се клучевите за пристап (passkeys). Ова известување доаѓа како подготовка за целосното укинување на SMS пораките како примарен метод за најавување, кое е закажано за почетокот на февруари 2027 година. По […]",
+      "url": "https://smartportal.mk/novosti/veb-i-bezbednost/microsoft-entra-id-passkeys-potsetuvanje/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/425625-How-It-Works-1076x608-1-150x150.webp",
+      "date": "Tue, 22 Sep 2026 07:38:37 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Apple започна со исплата на 250 милиони долари обесштетување за доцнењето на Siri AI",
+      "description": "Apple ја активираше веб страницата преку која американските корисници можат да побараат финансиски надомест, како дел од спогодбата вредна 250 милиони долари. Компанијата се согласи на исплатата за да избегне судење по групната тужба за лажно рекламирање, поврзана со доцнењето на функциите на Siri AI. Иако Apple ги негира обвинувањата, процесот на обесштетување е веќе […]",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/apple-zapocna-so-isplata-na-bestetuvanje-za-siri-ai/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/06/Depositphotos_378445062_XL-150x150.webp",
+      "date": "Tue, 22 Sep 2026 07:19:48 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -48,228 +93,183 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Американскиот „стартап“ ScrollEd ги трансформира академските учебници во формат сличен на TikTok",
-      "description": "Стартапот ScrollEd од Пало Алто развива нова дигитална платформа која има за цел да ги претвори традиционалните академски учебници во интерактивен формат кој наликува на социјалните мрежи. Основана од студентите Утсав Гупта и Ребека Неф, компанијата го претстави својот проект на конференцијата TechCrunch Disrupt. Основната идеја на платформата е да го промени начинот на кој […]",
-      "url": "https://smartportal.mk/novosti/nauka-istrazuvanja/scrolled-transformira-ucebnici-vo-tiktok-format/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/scrolled-f-150x150.webp",
-      "date": "Mon, 21 Sep 2026 08:13:01 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Gallery апликацијата кај Samsung Galaxy уредите добива можност за синхронизација со Google Photos",
-      "description": "Samsung започна со воведување на интеграцијата на својата апликација за слики со Google Photos, овозможувајќи им на корисниците на Galaxy уредите директно да прават резервни копии на своите фотографии и видеа на серверите на Google. Оваа промена доаѓа откако компанијата во мај најави дека поддршката за синхронизација преку Microsoft OneDrive ќе биде целосно укината на […]",
-      "url": "https://smartportal.mk/novosti/softver-prog/gallery-google-photos-samsung-galaxy/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/IMG_1440-150x150.webp",
-      "date": "Fri, 18 Sep 2026 11:12:31 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Продажбата на Galaxy Z Fold8 бележи раст по претставувањето на iPhone Duo",
-      "description": "Претставувањето на првиот телефон на преклоп на Apple, моделот iPhone Duo, предизвика позитивен ефект врз продажбата на конкурентскиот уред Samsung Galaxy Z Fold8. Според информациите објавени од корејскиот медиум The Chosun, продажбата на Galaxy Z Fold8 е зголемена за 10% по премиерата на новиот модел на Apple. Овој пазарен тренд, според медиумот, се должи на […]",
-      "url": "https://smartportal.mk/novosti/uredi/galaxy-z-fold-8-rast-po-pretstavuvanjeto-na-iphone-duo/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/IMG_1439_z_fold8-12-150x150.webp",
-      "date": "Fri, 18 Sep 2026 10:00:30 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Google претстави посебен ВИ асистент за менаџирање на заедничките обврски на семејствата",
-      "description": "Google го надградува својот експериментален систем за вештачка интелигенција CC, кој отсега ќе функционира како дигитален асистент за семејства и домаќинства. Овој систем, развиен од Google Labs, овозможува до шест корисници да соработуваат и да ги организираат секојдневните обврски преку една централизирана платформа. Првично замислен како личен асистент кој подоцна беше интегриран како дневен преглед, […]",
-      "url": "https://smartportal.mk/novosti/ai/google-asistent-za-semejstva/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/CC_hero.width-2200.format-webp-150x150.webp",
-      "date": "Fri, 18 Sep 2026 09:02:54 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "[АНАЛИЗА] Изборот е твој: Кој модел од Galaxy S26 серијата е скроен за твојот дигитален стил?",
-      "description": "Во светот каде сите телефони на прв поглед изгледаат исто, вистинската разлика денес ја прави софтверот, брзината на AI и начинот на кој уредот ги решава секојдневните пречки. Со своите уреди, Samsung се бори против концептот „еден телефон за сите“ и нуди прецизно наменети паметни телефони согласно барањата на корисниците, од бескомпромисни супер-машини, до паметно […]",
-      "url": "https://smartportal.mk/novosti/smartfoni/koj-model-od-galaxy-s26-serijata-e-skroen-za-tvojot-digitalen-svet/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/407-kv-family-galaxy-s26-fe-galaxy-s26-galaxy-s26plus-s26ultra-1200x600-1-150x150.webp",
-      "date": "Fri, 18 Sep 2026 08:01:49 +0000"
+      "source": "Time.mk - All",
+      "title": "Мисајловски: Македонскиот придонес кон колективната безбедност и сигурноста на регионот и инвестициите во одбраната се реалност | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/ecad694ca7/misajlovski-makedonskiot-pridones-kon-kolektivnata-bezbednost-i-sigurnosta-na-regionot-i-investiciite-vo-odbranata-se-realnost.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/misajlovski-cedc-wb-22.09.2026-slovenija-1.webp",
+      "date": "Tue, 22 Sep 2026 11:58:37 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Македонија останува на европскиот пат, ги браниме идентитетот и државните интереси“: Мицкоски на самитот „Конкордија“ во Њујорк: | Скопје1",
+      "title": "„Мора да ги адресираме ризиците“ — дваесет земји и ЕУ предлагаат поголем надзор врз вештачката интелигенција | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/c591e4916e/makedonija-ostanuva-na-evropskiot-pat-gi-branime-identitetot-i-drzavnite-interesi-mickoski-na-samitot-konkordija-vo-njujork.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/85348/conversions/text-max.jpg",
-      "date": "Tue, 22 Sep 2026 06:26:34 +0000"
+      "url": "https://time.mk/c/087d26a633/mora-da-gi-adresirame-rizicite-dvaeset-zemji-i-eu-predlagaat-pogolem-nadzor-vrz-vestackata-inteligencija.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/03/FotoJet-2025-08-15T120805.994-300x185.jpg",
+      "date": "Tue, 22 Sep 2026 12:20:57 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Пензионерите – членови или ресурс? | Слободен Печат",
+      "title": "29-годишна кумановка го нападнала вонбрачниот сопруг | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/91be947b20/penzionerite-clenovi-ili-resurs.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2025/11/8b050c5f-441e-4750-8678-1460892cdd02-300x225.jpg",
-      "date": "Tue, 22 Sep 2026 06:32:48 +0000"
+      "url": "https://time.mk/c/8a0a4e1add/29-godisna-kumanovka-go-napadnala-vonbracniot-soprug.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/82307/conversions/text-max.jpg",
+      "date": "Tue, 22 Sep 2026 11:34:36 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Завршна конференција на проектот „Зајакнување на иднината“ | Независен",
+      "title": "БУГАРИЈА СО НАЈВИСОК РАСТ НА ЦЕНИТЕ НА ГОРИВАТА ВО ЕУ | Економија и Бизнис",
       "description": "",
-      "url": "https://time.mk/c/fd305576b4/zavrsna-konferencija-na-proektot-zajaknuvanje-na-idninata.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2024/01/Kuce-kraj-grafit-za-ceni-i-plati-socijala-siromastija-1-bg.jpg",
-      "date": "Tue, 22 Sep 2026 05:52:49 +0000"
+      "url": "https://time.mk/c/5ec78c2381/bugarija-so-najvisok-rast-na-cenite-na-gorivata-vo-eu.html",
+      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/09/parkingkolisolun-1024x625.jpg",
+      "date": "Tue, 22 Sep 2026 12:24:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Демографската криза во Македонија се продлабочува, во Тетово и Гостивар стотици раѓања помалку отколку во 2021 година | Независен",
+      "title": "Глувите граѓани немаат соодветна комуникациска поддршка во полиција, банки и други институции | Независен",
       "description": "",
-      "url": "https://time.mk/r/NONE/775191cf60/demografskata-kriza-vo-makedonija-se-prodlabocuva-vo-tetovo-i-gostivar-stotici-ragjanja-pomalku-otkolku-vo-2021-godina.html",
-      "image": "https://time.mk/r/NONE/775191cf60/images/thumb/908fde9985.jpg",
-      "date": "Tue, 22 Sep 2026 06:32:47 +0000"
+      "url": "https://time.mk/c/c50df9a3fc/gluvite-gragjani-nemaat-soodvetna-komunikaciska-poddrska-vo-policija-banki-i-drugi-institucii.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/gluvi-sobranie.jpg",
+      "date": "Tue, 22 Sep 2026 12:20:57 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВЛЕН: Со тврдењето дека Груби е невин, Ахмети всушност одработува тој да биде осуден | Макфакс",
+      "title": "Ангелов го коментира извештајот на ДЗР: Состојбите се значително подобрени | Независен",
       "description": "",
-      "url": "https://time.mk/c/4a12955976/vlen-so-tvrdenjeto-deka-grubi-e-nevin-ahmeti-vsusnost-odrabotuva-toj-da-bide-osuden.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2021/01/grubi-i-ahmeti.jpeg",
-      "date": "Tue, 22 Sep 2026 06:34:47 +0000"
+      "url": "https://time.mk/c/056c2d25e2/angelov-go-komentira-izvestajot-na-dzr-sostojbite-se-znacitelno-podobreni.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2025/08/Sovet-za-bezbednost-kaj-Siljanovska-Stojance-Angelov-4-bg.jpg",
+      "date": "Tue, 22 Sep 2026 11:14:46 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Годишниот извештај за работата на Агенцијата за цивилно воздухопловство пред матичната собраниска Комисија | Независен",
+      "title": "Штериев: Главниот предизвик е проширување на понудата на Македонската берза со нови финансиски инструменти | Фактор",
       "description": "",
-      "url": "https://time.mk/c/8bf8100a61/godisniot-izvestaj-za-rabotata-na-agencijata-za-civilno-vozduhoplovstvo-pred-maticnata-sobraniska-komisija.html",
-      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1790055898/ti0djsn5uhgwwqzfo01l.webp",
-      "date": "Tue, 22 Sep 2026 05:34:36 +0000"
+      "url": "https://time.mk/c/52438ddf2d/steriev-glavniot-predizvik-e-prosiruvanje-na-ponudata-na-makedonskata-berza-so-novi-finansiski-instrumenti.html",
+      "image": "https://faktor.mk/media/main/2026/09/20260922113730.jpg",
+      "date": "Tue, 22 Sep 2026 09:42:43 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Коста Котески, членот на УО на Реплек, купи нови акции на компанијата | еМагазин",
+      "title": "Просечната нето-плата во јули достигна 48.499 денари, во угостителството е најниска, во ИТ-секторот највисока | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/1c68f7c795/kosta-koteski-clenot-na-uo-na-replek-kupi-novi-akcii-na-kompanijata.html",
-      "image": "https://emagazin.mk/wp-content/uploads/2025/05/foto_replek_1-300x200.jpg",
-      "date": "Tue, 22 Sep 2026 06:26:34 +0000"
+      "url": "https://time.mk/c/78da32f13f/prosecnata-neto-plata-vo-juli-dostigna-48-499-denari-vo-ugostitelstvoto-e-najniska-vo-it-sektorot-najvisoka.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2020/04/denari-300x147.png",
+      "date": "Tue, 22 Sep 2026 10:42:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "За што се користи рубинот? | Градина",
+      "title": "Расте бројот на повредени во Турција: приведени мајката, таткото и дедото на малолетниот напаѓач | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/55cb1388a9/za-sto-se-koristi-rubinot.html",
-      "image": "https://gradina.mk/wp-content/uploads/2018/01/mkrubin-150x150.jpg",
-      "date": "Tue, 22 Sep 2026 05:10:38 +0000"
+      "url": "https://time.mk/c/c51f5511e2/raste-brojot-na-povredeni-vo-turcija-privedeni-majkata-tatkoto-i-dedoto-na-maloletniot-napagjac.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/depositphotos_614637146_xl.webp",
+      "date": "Tue, 22 Sep 2026 11:08:53 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Во Србија почнува исплатата на еднократна помош од 6.000 динари | Бизнис Вести",
+      "title": "Криминална шема во Грција: измамници со фиктивни компании ја оштетиле државата за над 13,3 милиони евра | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/c271e92403/vo-srbija-pocnuva-isplatata-na-ednokratna-pomos-od-6-000-dinari.html",
-      "image": "https://biznisvesti.mk/wp-content/uploads/2025/11/srbija-300x200.jpg",
-      "date": "Tue, 22 Sep 2026 05:22:34 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "(Видео) „Му се закануваат на Вучиќ со силување“: Брнабиќ ѝ пиша на ЕУ поради студентски предизборен спот | Макфакс",
-      "description": "",
-      "url": "https://time.mk/c/e41adde17b/video-mu-se-zakanuvaat-na-vucik-so-siluvanje-brnabik-i-pisa-na-eu-poradi-studentski-predizboren-spot.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/01/Depositphotos_184516204_XL.jpg",
-      "date": "Mon, 21 Sep 2026 19:16:51 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ЦЕНИТЕ НА НАФТАТА ПОВТОРНО ГО СМЕНИЈА ПРАВЕЦОТ: Барелот се продава над 101 долар, сите очи вперени во Њујорк | Пари",
-      "description": "",
-      "url": "https://time.mk/c/edc80d88c0/cenite-na-naftata-povtorno-go-smenija-pravecot-barelot-se-prodava-nad-101-dolar-site-oci-vpereni-vo-njujork.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/09/Hutite.jpg",
-      "date": "Tue, 22 Sep 2026 06:18:36 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Државите на Г-7 го повикаа Иран да престане да ги вооружува и поддржува Хутите | 24 Вести",
-      "description": "",
-      "url": "https://time.mk/c/1a2e3b0338/drzavite-na-g-7-go-povikaa-iran-da-prestane-da-gi-vooruzuva-i-poddrzuva-hutite.html",
-      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1790056007/spcbmilxbtoaegfbo4se.webp",
-      "date": "Tue, 22 Sep 2026 05:48:54 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Скопје меѓу метлата и депонијата: кој ја губи битката за чист град? | Deutsche Welle",
-      "description": "",
-      "url": "https://time.mk/c/b7d36c610b/skopje-megju-metlata-i-deponijata-koj-ja-gubi-bitkata-za-cist-grad.html",
-      "image": "https://static.dw.com/image/74437460_301.jpg",
-      "date": "Tue, 22 Sep 2026 04:50:38 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Провери дали припаѓаш во најинтелигентните два отсто – Менса организира тестирање во Скопје | Трн",
-      "description": "",
-      "url": "https://time.mk/c/6399c750f4/proveri-dali-pripagjas-vo-najinteligentnite-dva-otsto-mensa-organizira-testiranje-vo-skopje.html",
+      "url": "https://time.mk/c/a5cf913bec/kriminalna-sema-vo-grcija-izmamnici-so-fiktivni-kompanii-ja-ostetile-drzavata-za-nad-13-3-milioni-evra.html",
       "image": "",
-      "date": "Mon, 21 Sep 2026 09:56:55 +0000"
+      "date": "Tue, 22 Sep 2026 12:18:54 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Брат си го пријавил братот во полиција – Семејна драма во Македонија | Press24",
+      "title": "Горештини и на крајот од септември — нов топлотен бран се очекува во Европа и на Балканот | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/3e8f1eda8d/brat-si-go-prijavil-bratot-vo-policija-semejna-drama-vo-makedonija.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/72377.png",
-      "date": "Tue, 22 Sep 2026 06:24:53 +0000"
+      "url": "https://time.mk/c/72cd07ef0f/gorestini-i-na-krajot-od-septemvri-nov-toploten-bran-se-ocekuva-vo-evropa-i-na-balkanot.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2021/03/soncze-300x188.png",
+      "date": "Tue, 22 Sep 2026 11:25:00 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ЦУК: Нема активни пожари, еден пожар под контрола | Независен",
+      "title": "Трамп на Генералното собрание на ОН – фокусот на Иран и вештачката интелигенција | Колегиум",
       "description": "",
-      "url": "https://time.mk/c/23c1390abd/cuk-nema-aktivni-pozari-eden-pozar-pod-kontrola.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/08/pozar-plamen-1024x600.jpg",
-      "date": "Tue, 22 Sep 2026 06:29:13 +0000"
+      "url": "https://time.mk/c/8b96089df4/tramp-na-generalnoto-sobranie-na-on-fokusot-na-iran-i-vestackata-inteligencija.html",
+      "image": "https://kolegium.mk/wp-content/uploads/2026/03/obedineti-nacii-sednica-zname-znaminja-foto-vlada-na-rsm-1-300x200.jpg",
+      "date": "Tue, 22 Sep 2026 12:13:02 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Велосипедски тури по повод Денот без автомобили: Во Кочани ќе се вози „По патеката на оризот“, во Делчево масовна акција „Велобус“ | Независен",
+      "title": "Ден без автомобили, градови со автомобили: Велосипедски акции во Македонија, а Скопје повторно во утрински метеж | Паноптикум",
       "description": "",
-      "url": "https://time.mk/c/1eacee4dd1/velosipedski-turi-po-povod-denot-bez-avtomobili-vo-kocani-ke-se-vozi-po-patekata-na-orizot-vo-delcevo-masovna-akcija-velobus.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/kocani-velosipedi.png",
-      "date": "Tue, 22 Sep 2026 05:40:53 +0000"
+      "url": "https://time.mk/c/1176847f96/den-bez-avtomobili-gradovi-so-avtomobili-velosipedski-akcii-vo-makedonija-a-skopje-povtorno-vo-utrinski-metez.html",
+      "image": "https://panoptikum.mk/wp-content/uploads/den-bez-avtomobil.webp",
+      "date": "Tue, 22 Sep 2026 12:04:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Нова монахиња во манастирот „Пречиста“ кај Кичево – сестрата Хрисанта стана дел од големото монашко сестринство на МПЦ-ОА | Религија",
+      "title": "Општина Илинден: Продолжуваат активностите за унапредување на локалната патна инфраструктура | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/6b88a39d0f/nova-monahinja-vo-manastirot-precista-kaj-kicevo-sestrata-hrisanta-stana-del-od-golemoto-monasko-sestrinstvo-na-mpc-oa.html",
-      "image": "https://religija.mk/wp-content/uploads/2026/09/MONA-17.jpg",
-      "date": "Tue, 22 Sep 2026 04:30:38 +0000"
+      "url": "https://time.mk/c/7960a80986/opstina-ilinden-prodolzuvaat-aktivnostite-za-unapreduvanje-na-lokalnata-patna-infrastruktura.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/1-41.webp",
+      "date": "Tue, 22 Sep 2026 12:16:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Урош Ѓоровиќ, гостин на Ре Култура: „Младите книжевни сцени во регионот веќе создаваат заедница без граници“ | Трн",
+      "title": "Крадец осуден на една година затвор е уапсен во Куманово | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/9fc166bafd/uros-gjorovik-gostin-na-re-kultura-mladite-knizevni-sceni-vo-regionot-veke-sozdavaat-zaednica-bez-granici.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/09/4547aab7-9bf5-4d8b-bb87-d6e5dc05da6b-e1789994812506.jpg",
-      "date": "Tue, 22 Sep 2026 06:32:48 +0000"
+      "url": "https://time.mk/c/f08f599914/kradec-osuden-na-edna-godina-zatvor-e-uapsen-vo-kumanovo.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/20260922125301_big_730x400_14-300x157.webp",
+      "date": "Tue, 22 Sep 2026 12:24:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ДПМ го прошири своето членство со шест авторки и автори | Бизнис Вести",
+      "title": "Маж пронајден починат на фудбалскиот стадион, во негова близина пронајдена моторна пила | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/d92e0a1708/dpm-go-prosiri-svoeto-clenstvo-so-sest-avtorki-i-avtori.html",
-      "image": "https://biznisvesti.mk/wp-content/uploads/2026/09/DPM-novi-chlenovi-300x182.jpg",
-      "date": "Tue, 22 Sep 2026 05:26:49 +0000"
+      "url": "https://time.mk/c/31683a5663/maz-pronajden-pocinat-na-fudbalskiot-stadion-vo-negova-blizina-pronajdena-motorna-pila.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/85363/conversions/text-max.jpg",
+      "date": "Tue, 22 Sep 2026 09:52:49 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Отчет на градоначалникот Почивалец: Инфраструктурни проекции, поддршка за младите и нови економски мерки во Радовиш | Press24",
+      "description": "",
+      "url": "https://time.mk/c/7c9d56dafd/otcet-na-gradonacalnikot-pocivalec-infrastrukturni-proekcii-poddrska-za-mladite-i-novi-ekonomski-merki-vo-radovis.html",
+      "image": "",
+      "date": "Tue, 22 Sep 2026 11:02:39 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Општина Битола организира турнир во футсал и есенски крос во рамки на Европската недела на спортот | Булевар",
+      "description": "",
+      "url": "https://time.mk/c/3c498f4a12/opstina-bitola-organizira-turnir-vo-futsal-i-esenski-kros-vo-ramki-na-evropskata-nedela-na-sportot.html",
+      "image": "https://bulevar.mk/wp-content/uploads/2026/09/67d340b5-182a-40a3-a7a4-a05f7d6ce187-1024x640.jpeg",
+      "date": "Tue, 22 Sep 2026 11:28:54 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "ДАРКО МИТРЕВСКИ САКА ДА СНИМИ СПИН-ОФ НА „БАЛ-КАН-КАН“, СО САШКО КОЦЕВ, ТОНИ МИХАЈЛОВСКИ И ЈЕЛЕНА ЈОВАНОВА | Сакам да кажам",
+      "description": "",
+      "url": "https://time.mk/c/db66396e8c/darko-mitrevski-saka-da-snimi-spin-of-na-bal-kan-kan-so-sasko-kocev-toni-mihajlovski-i-jelena-jovanova.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/09/darko-mitrevski-i-sasko-kocev.jpg",
+      "date": "Tue, 22 Sep 2026 12:16:49 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "МАМА МИ ШИЕШЕ ФУСТАН ЗА НА СУД, НО ВЕЌЕ НЕМАМ СУДЕЊА, ВЕЛИ СЕВЕРИНА ПРЕД КОНЦЕРТОТ ВО СКОПЈЕ | Сакам да кажам",
+      "description": "",
+      "url": "https://time.mk/c/7cf85cd5fa/mama-mi-siese-fustan-za-na-sud-no-veke-nemam-sudenja-veli-severina-pred-koncertot-vo-skopje.html",
+      "image": "https://smart.sdk.mk/wp-content/uploads/2026/09/severina-11-958x575.jpg",
+      "date": "Tue, 22 Sep 2026 10:38:38 +0000"
     }
   ],
   "de": [
@@ -458,6 +458,15 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "Peloton Just Launched Its First Foldable and Most Affordable Treadmill to Date",
+      "description": "Peloton's new treadmills span a wide range, from a space-saving $2,195 foldable to a $6,695 powerhouse.",
+      "url": "https://lifehacker.com/health/peloton-new-treadmills-launch?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M32R964DDS6ZE4TQBX9HY9Q6/hero-image.png",
+      "date": "Tue, 22 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "Even a VPN Can't Protect You From This Browser Security Flaw",
       "description": "How to prevent your IP address from leaking, even when you're taking steps to hide it.",
       "url": "https://lifehacker.com/tech/even-a-vpn-cant-protect-your-from-this-browser-security-flaw?utm_medium=RSS",
@@ -628,12 +637,30 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "The Best Gifts to Give an E-Book Reader",
-      "description": "From a wallet-sized e-reader to a page-turning remote, these gifts take digital reading to the next level.",
-      "url": "https://lifehacker.com/tech/the-best-gifts-to-give-e-book-reader-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M2TN3X1HJF53C1CQCES0J4A7/hero-image.png",
-      "date": "Fri, 18 Sep 2026 19:00:00 +0000"
+      "source": "PCWorld",
+      "title": "I’ve loved Razer’s weird little half-keyboard for 20 years. Cut the cord already",
+      "description": "The year is 2007. After two semesters of watching my college roommate play PC games on his laptop while I devoured Smash Bros. Brawl and Twilight Princess on the Wii U, I was ready to jump into PC gaming. But a decade plus of controllers made a mouse and keyboard look intimidating. The solution was the Belkin N52 Te , the third generation of a single-handed keyboard that looked appealingly controller-like to me. This gadget already had an interesting pedigree, and its DNA survives to this very d",
+      "url": "https://www.pcworld.com/article/3240076/ive-loved-razers-weird-little-half-keyboard-for-20-years-cut-the-cord-already.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3240076-0-80572900-1790078458-image_36128d.png",
+      "date": "Tue, 22 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Want your laptop battery to last for years? Avoid these 9 mistakes",
+      "description": "One of the most frustrating aspects of an aging laptop is how the battery life diminishes. Even super-long-lasting laptops eventually decay, and what once lasted a full day starts needing a charge before the work day ends. Before long, you’re using it plugged in all the time. But it doesn’t have to be this way! Modern laptops are designed to be efficient, long-lasting machines. If you treat them right and take good care of them, you can make sure the battery maintains its longevity for much long",
+      "url": "https://www.pcworld.com/article/3091558/want-your-laptop-battery-to-last-for-years-avoid-these-9-mistakes.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3091558-0-15827100-1790073063-Laptop-on-wooden-desk-with-empty-battery-icon-indicator.jpg?quality=50&strip=all",
+      "date": "Tue, 22 Sep 2026 10:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Pay just $19.99 for a Windows PC cleanup toolkit",
+      "description": "TL;DR: Get Ashampoo WinOptimizer Pro 29 for $19.99 and use its 30-module toolkit to clean junk, optimize Windows, troubleshoot crashes, and remove privacy traces. PCs have a habit of collecting digital baggage. Junk files pile up, browsing traces linger, and figuring out what’s behind an annoying system crash isn’t always straightforward. Ashampoo WinOptimizer Pro 29 is $19.99 (MSRP $50) for a lifetime license, giving you one place to tackle all three. The software packs 30 optimization modules ",
+      "url": "https://www.pcworld.com/article/3239277/pay-just-19-99-for-a-windows-pc-cleanup-toolkit.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3239277-0-39248600-1790064078-Ashampoo-WinOptimizer.jpg?quality=50&strip=all",
+      "date": "Tue, 22 Sep 2026 08:00:00 +0000"
     },
     {
       "category": "eng",
@@ -697,33 +724,6 @@
       "url": "https://www.pcworld.com/article/3239947/the-first-googlebooks-are-here-i-tried-all-5-from-acer-dell-hp-asus-and-lenovo.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3239947-0-00809700-1790001090-googlebook-lineup.jpg?quality=50&strip=all",
       "date": "Mon, 21 Sep 2026 14:31:14 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "AMD GPU and motherboard prices could jump 10% soon, Ryzen may follow",
-      "description": "According to information from ChannelGate, AMD may be set to raise prices on several of its products, reported by Digital Trends and gathered by @harukaze5719 on social media . Graphics chips for the consumer market, AI accelerators, and motherboard chips could all become around 10 percent more expensive in the fourth quarter of 2026—right around the corner. According to ChannelGate, AMD will increase chip price about 10% in Q4 It is result from TSMC's price increase. The product include AI acce",
-      "url": "https://www.pcworld.com/article/3239912/amd-gpu-and-motherboard-prices-could-jump-10-percent-soon-ryzen-may-follow.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3239912-0-14164500-1789997805-AMD-Radeon-RX-9060-chip-shot.jpg?quality=50&strip=all",
-      "date": "Mon, 21 Sep 2026 13:36:29 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "The Googlebook’s most compelling AI feature isn’t even AI",
-      "description": "Google’s new Googlebooks are finally here! As promised, they come with a bevy of flashy Gemini features, including an AI-enabled mouse pointer, a local dictation tool, and the ability to create desktop widgets with prompts. But the Googlebook AI feature that really got my attention isn’t, strictly speaking, an AI feature. First, let’s talk about the Gemini-infused “ Magic Pointer ,” which lets you select or lasso text, images, and other elements. From there it gets sent off to Gemini for further",
-      "url": "https://www.pcworld.com/article/3238878/the-googlebooks-most-compelling-ai-feature-isnt-even-ai.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3238878-0-28184200-1789999243-Antigravity-on-Googlebook.jpeg?quality=50&strip=all",
-      "date": "Mon, 21 Sep 2026 13:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Google’s new Googlebooks aren’t AI-first. They’re phone-first",
-      "description": "How much time do you spend on your phone? Depending on a series of factors, there’s a pretty decent chance that you use it more often than your laptop or desktop PC, especially if you take work out of the equation. If so, you’re the kind of person for whom a Googlebook laptop makes sense. At least if that phone is Android. For the rest of you, us , it probably doesn’t. And even if a more powerful, flexible, premium take on the Google-top-to-bottom setup of a Chromebook is appealing to you, actua",
-      "url": "https://www.pcworld.com/article/3238847/googles-new-googlebooks-arent-ai-first-theyre-phone-first.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3238847-0-59306700-1789997517-image_dd26e4.png",
-      "date": "Mon, 21 Sep 2026 13:00:00 +0000"
     }
   ],
   "starwars": [
@@ -811,6 +811,15 @@
     {
       "category": "starwars",
       "source": "Star Wars Union",
+      "title": "Dave Filoni: Mortis-Götter werden ein Thema in Staffel 2 von Star Wars: Ahsoka",
+      "description": "Weitere Teaser zur zweiten Staffel sollen im Laufe der Woche folgen.",
+      "url": "https://starwars-union.de/dave-filoni-mortis-goetter-werden-ein-thema-in-staffel-2-von-star-wars-ahsoka/",
+      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2025/03/20230804-ahsoka-tv-spot-some.jpg",
+      "date": "Tue, 22 Sep 2026 10:02:52 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars Union",
       "title": "Galactic Racer: BTS-Vids zum OST und weiteres Trailermaterial",
       "description": "Zusammen mit dem Verkaufsstart wird es möglich sein, den Soundtrack von Gordy Haab zu hören. Kennt ihr außerdem schon die unterschiedlichen Rennfahrzeug-Typen?",
       "url": "https://starwars-union.de/galactic-racer-bts-vids-zum-ost-und-weiteres-trailermaterial/",
@@ -888,15 +897,6 @@
       "url": "https://starwars-union.de/adria-arjona-wuerdigt-andor/",
       "image": "https://starwars-union.de/wp-content/uploads/2024/09/bix-caleen.jpg",
       "date": "Wed, 02 Sep 2026 07:42:38 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "In eigener Sache: Wir legen SWU in eure Hände",
-      "description": "Die Werbung geht, und wir freuen uns auf eure Unterstützung via Steady.",
-      "url": "https://starwars-union.de/in-eigener-sache-wir-legen-swu-in-eure-haende/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/09/SWU-dreams-of-Dawn.jpg",
-      "date": "Tue, 01 Sep 2026 18:26:00 +0000"
     },
     {
       "category": "starwars",
@@ -998,5 +998,276 @@
       "date": "Sat, 19 Sep 2026 20:41:56 +0000"
     }
   ],
-  "youtube": []
+  "youtube": [
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Wird deine Festplatte schwerer wenn Daten drauf sind ?! #informatik #hardware #code #fakten",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/0oAtpKLlmls",
+      "image": "https://i.ytimg.com/vi/0oAtpKLlmls/hqdefault.jpg",
+      "date": "2026-09-21T16:00:15+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Mit einem Foto ins Herz von OpenAI #informatik #openai #news #cybersecurity",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/sw02X45QnJw",
+      "image": "https://i.ytimg.com/vi/sw02X45QnJw/hqdefault.jpg",
+      "date": "2026-09-19T09:45:33+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Kann man aus einem KI Modell die Trainingsdaten extrahieren ?!",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/ClOnbodaQTs",
+      "image": "https://i.ytimg.com/vi/ClOnbodaQTs/hqdefault.jpg",
+      "date": "2026-09-18T10:00:10+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "KI Modelle und das Zählen von Buchstaben... #informatik #code #ai #llm",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/G33Qc2KWnUQ",
+      "image": "https://i.ytimg.com/vi/G33Qc2KWnUQ/hqdefault.jpg",
+      "date": "2026-09-17T16:45:04+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Sollten AI Detektoren über Noten entscheiden können ?! #informatik #ai #universität #code",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/o39ZkQnA_YU",
+      "image": "https://i.ytimg.com/vi/o39ZkQnA_YU/hqdefault.jpg",
+      "date": "2026-09-16T16:15:14+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Die Front der Software ist total zerschossen, würde so manch ein Gebrauchtwagenhändler sagen...",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/oQbGADk0EXY",
+      "image": "https://i.ytimg.com/vi/oQbGADk0EXY/hqdefault.jpg",
+      "date": "2026-09-15T16:15:31+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Nightmare Eclipse war Mitarbeiter bei Microsoft ?! #informatik #news #microsoft #cybersecurity",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/UTpH9Pgb4S0",
+      "image": "https://i.ytimg.com/vi/UTpH9Pgb4S0/hqdefault.jpg",
+      "date": "2026-09-14T16:30:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "OpenAI Agenten übernehmen RubyGems...aber was ist mit dem Rest ?",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/SA41xgf4EJI",
+      "image": "https://i.ytimg.com/vi/SA41xgf4EJI/hqdefault.jpg",
+      "date": "2026-09-13T10:02:06+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Ein Forscher kündigt, ein Alignment Lead bestätigt ihn und.... niemand bremst.",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/Y6c5EaG9L5Q",
+      "image": "https://i.ytimg.com/vi/Y6c5EaG9L5Q/hqdefault.jpg",
+      "date": "2026-09-12T09:30:05+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Dieser Wurm verbreitet sich durch Anrufe #informatik #cybersecurity #wechat #code #news",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/W9azNPRFgR8",
+      "image": "https://i.ytimg.com/vi/W9azNPRFgR8/hqdefault.jpg",
+      "date": "2026-09-10T10:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Exploring The Last Coal Power Plant in Connecticut Bridgeport Harbor Station",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=CR84XRBKBzs",
+      "image": "https://i.ytimg.com/vi/CR84XRBKBzs/hqdefault.jpg",
+      "date": "2026-08-27T17:00:39+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Rocketdyne Santa Susana Field Laboratory Abandoned America Space Race (1948)",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=0lka-0REQrQ",
+      "image": "https://i.ytimg.com/vi/0lka-0REQrQ/hqdefault.jpg",
+      "date": "2026-04-23T17:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition AMC Seats And Screens Left Behind",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=UnG29VothuQ",
+      "image": "https://i.ytimg.com/vi/UnG29VothuQ/hqdefault.jpg",
+      "date": "2026-03-27T21:09:35+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition Fly by In And Out",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=fDnOH8ZsfTg",
+      "image": "https://i.ytimg.com/vi/fDnOH8ZsfTg/hqdefault.jpg",
+      "date": "2026-03-27T20:40:08+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "AMC Westfield Promenade Mall Raw Demolition Drone Footage",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/5iA5R3Jq4g0",
+      "image": "https://i.ytimg.com/vi/5iA5R3Jq4g0/hqdefault.jpg",
+      "date": "2026-03-27T18:03:29+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition AMC Coming Down First!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=SAxjFGjTiHQ",
+      "image": "https://i.ytimg.com/vi/SAxjFGjTiHQ/hqdefault.jpg",
+      "date": "2026-03-23T17:42:38+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Beautiful Art Deco Theater",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=ccfU0LSmkj8",
+      "image": "https://i.ytimg.com/vi/ccfU0LSmkj8/hqdefault.jpg",
+      "date": "2026-03-11T20:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Decommissioned Power Station #synthwave #synth #retrowave #abandonedplaces",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/mOUbNSMoBJs",
+      "image": "https://i.ytimg.com/vi/mOUbNSMoBJs/hqdefault.jpg",
+      "date": "2025-06-17T17:55:51+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Wheel of Misfortune Three Kids Mine Demolition",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=VXRselqoN-8",
+      "image": "https://i.ytimg.com/vi/VXRselqoN-8/hqdefault.jpg",
+      "date": "2025-06-17T17:45:42+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Resort with a River Running Through It",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=0ILQ06M4hA0",
+      "image": "https://i.ytimg.com/vi/0ILQ06M4hA0/hqdefault.jpg",
+      "date": "2025-06-01T20:15:01+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Install Windows 11 with a Local Account in 2026",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=juIh1auHo3s",
+      "image": "https://i.ytimg.com/vi/juIh1auHo3s/hqdefault.jpg",
+      "date": "2026-08-05T17:00:04+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Replace the Battery in a Dell Precision 7760 Laptop",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=JOVmOahO2xs",
+      "image": "https://i.ytimg.com/vi/JOVmOahO2xs/hqdefault.jpg",
+      "date": "2026-03-11T17:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Use & Combine Joy-Con Controllers on the Steam Deck!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=p9ZdCe-eW1M",
+      "image": "https://i.ytimg.com/vi/p9ZdCe-eW1M/hqdefault.jpg",
+      "date": "2025-12-05T18:01:07+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Borderlands GOTY Enhanced Co-Op Lag Fix on PC | Windows & Steam Deck",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=UsaKlS3WBBs",
+      "image": "https://i.ytimg.com/vi/UsaKlS3WBBs/hqdefault.jpg",
+      "date": "2025-08-20T17:00:42+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Thrifty Gaming Pickups 058 - Going Through a Bag of Games, Controllers, and More!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=yKwMn2OMLLY",
+      "image": "https://i.ytimg.com/vi/yKwMn2OMLLY/hqdefault.jpg",
+      "date": "2025-05-07T17:01:12+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Thrifty Gaming Pickups 057 - Returning to Old Thrift Shops + A Big Xbox 360 Bundle!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=EOQgA7Q8Kw8",
+      "image": "https://i.ytimg.com/vi/EOQgA7Q8Kw8/hqdefault.jpg",
+      "date": "2024-12-04T18:00:14+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Thrifty Gaming Pickups 056 - Import Switch Games, Switch Lite, Xbox, and Xbox 360 Games!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=xaNcbxQkk5k",
+      "image": "https://i.ytimg.com/vi/xaNcbxQkk5k/hqdefault.jpg",
+      "date": "2024-06-12T17:00:40+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Thrifty Gaming Pickups 055 - Japanese Xbox 360 Imports, Consoles, and More!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=fvzT178zAlk",
+      "image": "https://i.ytimg.com/vi/fvzT178zAlk/hqdefault.jpg",
+      "date": "2024-05-15T17:00:26+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Final Fantasy VII Rebirth Best Buy Steelbook (PS5) #shorts",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/k02mkNRvIYE",
+      "image": "https://i.ytimg.com/vi/k02mkNRvIYE/hqdefault.jpg",
+      "date": "2024-03-01T18:00:24+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Final Fantasy VII Rebirth Deluxe Edition Unboxing (PS5) #shorts",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/SFwXpq5kwe4",
+      "image": "https://i.ytimg.com/vi/SFwXpq5kwe4/hqdefault.jpg",
+      "date": "2024-03-01T02:23:40+00:00"
+    }
+  ]
 }
