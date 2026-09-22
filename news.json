@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T22:30:13.661923+00:00",
+  "updated": "2026-09-22T01:06:00.198862+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -130,20 +130,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
+      "title": "Мисајловски: Зацврстувањето на одбранбените односи е уште еден силен импулс за јакнење на регионалната безбедност | Press24",
+      "description": "",
+      "url": "https://time.mk/c/e6c01398d9/misajlovski-zacvrstuvanjeto-na-odbranbenite-odnosi-e-uste-eden-silen-impuls-za-jaknenje-na-regionalnata-bezbednost.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/72343.jpg",
+      "date": "Mon, 21 Sep 2026 21:16:47 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
       "title": "Зошто ВМРО-ДПМНЕ не ги убеди своите советници во Пехчево да гласаат за изградба на дата-центар – прашање до министерот Андоновски | 360 степени",
       "description": "",
       "url": "https://time.mk/c/0c241ed4b0/zosto-vmro-dpmne-ne-gi-ubedi-svoite-sovetnici-vo-pehcevo-da-glasaat-za-izgradba-na-data-centar-prasanje-do-ministerot-andonovski.html",
       "image": "https://360stepeni.mk/wp-content/uploads/2026/09/001-1.jpg",
       "date": "Mon, 21 Sep 2026 18:54:42 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "15 години образование за мир: „Меѓаши“ со благодарници за две средни училишта | ТВ21",
-      "description": "",
-      "url": "https://time.mk/c/c1011164ff/15-godini-obrazovanie-za-mir-megjasi-so-blagodarnici-za-dve-sredni-ucilista.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2026/09/megjashi-1024x718.png",
-      "date": "Mon, 21 Sep 2026 12:36:50 +0000"
     },
     {
       "category": "mkd",
@@ -186,7 +186,7 @@
       "source": "Time.mk - All",
       "title": "Таен состанок на ЦДУ без Мерц по изборниот дебакл: „Имаат потреба да разговараат меѓу себе“ | Трн",
       "description": "",
-      "url": "https://time.mk/c/cb9a9d7792/taen-sostanok-na-cdu-bez-merc-po-izborniot-debakl-imaat-potreba-da-razgovaraat-megju-sebe.html",
+      "url": "https://time.mk/c/ab4c3dc355/taen-sostanok-na-cdu-bez-merc-po-izborniot-debakl-imaat-potreba-da-razgovaraat-megju-sebe.html",
       "image": "https://trn.mk/wp-content/uploads/2025/10/ff70a6b2-bdf2-4ca9-a251-253d5467306d.avif",
       "date": "Mon, 21 Sep 2026 17:33:18 +0000"
     },
@@ -229,18 +229,18 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ЦУК: Регистрирани 19 пожари на отворено, активни се 10 пожари низ државата | ТВ21",
+      "title": "Гинеколог физички нападнат во ординација додека прегледувал пациенти | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/f6372fb5e9/cuk-registrirani-19-pozari-na-otvoreno-aktivni-se-10-pozari-niz-drzavata.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2026/08/Screenshot_7-7-1024x578.jpg",
-      "date": "Mon, 21 Sep 2026 16:36:49 +0000"
+      "url": "https://time.mk/c/7524707ec8/ginekolog-fizicki-napadnat-vo-ordinacija-dodeka-pregleduval-pacienti.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/85343/conversions/text-max.jpg",
+      "date": "Mon, 21 Sep 2026 18:16:51 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
       "title": "Нови проекти во Крушево: Од инфраструктура до туризам и спорт | Press24",
       "description": "",
-      "url": "https://time.mk/c/49639d24e3/novi-proekti-vo-krusevo-od-infrastruktura-do-turizam-i-sport.html",
+      "url": "https://time.mk/c/073f9e20b3/novi-proekti-vo-krusevo-od-infrastruktura-do-turizam-i-sport.html",
       "image": "http://press24.mk/wp-content/uploads/ndb-featured/72129.jpg",
       "date": "Mon, 21 Sep 2026 07:40:55 +0000"
     },
@@ -458,6 +458,15 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "Even a VPN Can't Protect You From This Browser Security Flaw",
+      "description": "How to prevent your IP address from leaking, even when you're taking steps to hide it.",
+      "url": "https://lifehacker.com/tech/even-a-vpn-cant-protect-your-from-this-browser-security-flaw?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M2V5PTZZW8TK93H2TTC8N35M/hero-image.jpg",
+      "date": "Mon, 21 Sep 2026 21:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "10 Hacks Every Proton VPN User Should Know",
       "description": "These are the best Proton VPN hacks for keeping your browsing activity private.",
       "url": "https://lifehacker.com/tech/10-hacks-every-proton-vpn-user-should-know?utm_medium=RSS",
@@ -625,15 +634,6 @@
       "url": "https://lifehacker.com/tech/the-best-gifts-to-give-e-book-reader-2026?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01M2TN3X1HJF53C1CQCES0J4A7/hero-image.png",
       "date": "Fri, 18 Sep 2026 19:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "Do the Apple Watch Series 12's New Health Features Live Up to the Hype?",
-      "description": "I have the newest Apple Watch in my hands, and I've already begun putting its newest features to the test.",
-      "url": "https://lifehacker.com/health/apple-watch-series-12-new-health-features?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M2TSPPTN4Y9KVTK5H0WJVH5Y/hero-image.jpg",
-      "date": "Fri, 18 Sep 2026 18:30:00 +0000"
     },
     {
       "category": "eng",
@@ -998,276 +998,5 @@
       "date": "Sat, 19 Sep 2026 20:41:56 +0000"
     }
   ],
-  "youtube": [
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Wird deine Festplatte schwerer wenn Daten drauf sind ?! #informatik #hardware #code #fakten",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/0oAtpKLlmls",
-      "image": "https://i.ytimg.com/vi/0oAtpKLlmls/hqdefault.jpg",
-      "date": "2026-09-21T16:00:15+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Mit einem Foto ins Herz von OpenAI #informatik #openai #news #cybersecurity",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/sw02X45QnJw",
-      "image": "https://i.ytimg.com/vi/sw02X45QnJw/hqdefault.jpg",
-      "date": "2026-09-19T09:45:33+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Kann man aus einem KI Modell die Trainingsdaten extrahieren ?!",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/ClOnbodaQTs",
-      "image": "https://i.ytimg.com/vi/ClOnbodaQTs/hqdefault.jpg",
-      "date": "2026-09-18T10:00:10+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "KI Modelle und das Zählen von Buchstaben... #informatik #code #ai #llm",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/G33Qc2KWnUQ",
-      "image": "https://i.ytimg.com/vi/G33Qc2KWnUQ/hqdefault.jpg",
-      "date": "2026-09-17T16:45:04+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Sollten AI Detektoren über Noten entscheiden können ?! #informatik #ai #universität #code",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/o39ZkQnA_YU",
-      "image": "https://i.ytimg.com/vi/o39ZkQnA_YU/hqdefault.jpg",
-      "date": "2026-09-16T16:15:14+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Die Front der Software ist total zerschossen, würde so manch ein Gebrauchtwagenhändler sagen...",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/oQbGADk0EXY",
-      "image": "https://i.ytimg.com/vi/oQbGADk0EXY/hqdefault.jpg",
-      "date": "2026-09-15T16:15:31+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Nightmare Eclipse war Mitarbeiter bei Microsoft ?! #informatik #news #microsoft #cybersecurity",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/UTpH9Pgb4S0",
-      "image": "https://i.ytimg.com/vi/UTpH9Pgb4S0/hqdefault.jpg",
-      "date": "2026-09-14T16:30:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "OpenAI Agenten übernehmen RubyGems...aber was ist mit dem Rest ?",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/SA41xgf4EJI",
-      "image": "https://i.ytimg.com/vi/SA41xgf4EJI/hqdefault.jpg",
-      "date": "2026-09-13T10:02:06+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Ein Forscher kündigt, ein Alignment Lead bestätigt ihn und.... niemand bremst.",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/Y6c5EaG9L5Q",
-      "image": "https://i.ytimg.com/vi/Y6c5EaG9L5Q/hqdefault.jpg",
-      "date": "2026-09-12T09:30:05+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Dieser Wurm verbreitet sich durch Anrufe #informatik #cybersecurity #wechat #code #news",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/W9azNPRFgR8",
-      "image": "https://i.ytimg.com/vi/W9azNPRFgR8/hqdefault.jpg",
-      "date": "2026-09-10T10:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Exploring The Last Coal Power Plant in Connecticut Bridgeport Harbor Station",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=CR84XRBKBzs",
-      "image": "https://i.ytimg.com/vi/CR84XRBKBzs/hqdefault.jpg",
-      "date": "2026-08-27T17:00:39+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Rocketdyne Santa Susana Field Laboratory Abandoned America Space Race (1948)",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=0lka-0REQrQ",
-      "image": "https://i.ytimg.com/vi/0lka-0REQrQ/hqdefault.jpg",
-      "date": "2026-04-23T17:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Mall Westfield Promenade Demolition AMC Seats And Screens Left Behind",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=UnG29VothuQ",
-      "image": "https://i.ytimg.com/vi/UnG29VothuQ/hqdefault.jpg",
-      "date": "2026-03-27T21:09:35+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Mall Westfield Promenade Demolition Fly by In And Out",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=fDnOH8ZsfTg",
-      "image": "https://i.ytimg.com/vi/fDnOH8ZsfTg/hqdefault.jpg",
-      "date": "2026-03-27T20:40:08+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "AMC Westfield Promenade Mall Raw Demolition Drone Footage",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/5iA5R3Jq4g0",
-      "image": "https://i.ytimg.com/vi/5iA5R3Jq4g0/hqdefault.jpg",
-      "date": "2026-03-27T18:03:29+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Mall Westfield Promenade Demolition AMC Coming Down First!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=SAxjFGjTiHQ",
-      "image": "https://i.ytimg.com/vi/SAxjFGjTiHQ/hqdefault.jpg",
-      "date": "2026-03-23T17:42:38+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Beautiful Art Deco Theater",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=ccfU0LSmkj8",
-      "image": "https://i.ytimg.com/vi/ccfU0LSmkj8/hqdefault.jpg",
-      "date": "2026-03-11T20:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Decommissioned Power Station #synthwave #synth #retrowave #abandonedplaces",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/mOUbNSMoBJs",
-      "image": "https://i.ytimg.com/vi/mOUbNSMoBJs/hqdefault.jpg",
-      "date": "2025-06-17T17:55:51+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Wheel of Misfortune Three Kids Mine Demolition",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=VXRselqoN-8",
-      "image": "https://i.ytimg.com/vi/VXRselqoN-8/hqdefault.jpg",
-      "date": "2025-06-17T17:45:42+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Resort with a River Running Through It",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=0ILQ06M4hA0",
-      "image": "https://i.ytimg.com/vi/0ILQ06M4hA0/hqdefault.jpg",
-      "date": "2025-06-01T20:15:01+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Install Windows 11 with a Local Account in 2026",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=juIh1auHo3s",
-      "image": "https://i.ytimg.com/vi/juIh1auHo3s/hqdefault.jpg",
-      "date": "2026-08-05T17:00:04+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Replace the Battery in a Dell Precision 7760 Laptop",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=JOVmOahO2xs",
-      "image": "https://i.ytimg.com/vi/JOVmOahO2xs/hqdefault.jpg",
-      "date": "2026-03-11T17:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Use & Combine Joy-Con Controllers on the Steam Deck!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=p9ZdCe-eW1M",
-      "image": "https://i.ytimg.com/vi/p9ZdCe-eW1M/hqdefault.jpg",
-      "date": "2025-12-05T18:01:07+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Borderlands GOTY Enhanced Co-Op Lag Fix on PC | Windows & Steam Deck",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=UsaKlS3WBBs",
-      "image": "https://i.ytimg.com/vi/UsaKlS3WBBs/hqdefault.jpg",
-      "date": "2025-08-20T17:00:42+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Thrifty Gaming Pickups 058 - Going Through a Bag of Games, Controllers, and More!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=yKwMn2OMLLY",
-      "image": "https://i.ytimg.com/vi/yKwMn2OMLLY/hqdefault.jpg",
-      "date": "2025-05-07T17:01:12+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Thrifty Gaming Pickups 057 - Returning to Old Thrift Shops + A Big Xbox 360 Bundle!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=EOQgA7Q8Kw8",
-      "image": "https://i.ytimg.com/vi/EOQgA7Q8Kw8/hqdefault.jpg",
-      "date": "2024-12-04T18:00:14+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Thrifty Gaming Pickups 056 - Import Switch Games, Switch Lite, Xbox, and Xbox 360 Games!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=xaNcbxQkk5k",
-      "image": "https://i.ytimg.com/vi/xaNcbxQkk5k/hqdefault.jpg",
-      "date": "2024-06-12T17:00:40+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Thrifty Gaming Pickups 055 - Japanese Xbox 360 Imports, Consoles, and More!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=fvzT178zAlk",
-      "image": "https://i.ytimg.com/vi/fvzT178zAlk/hqdefault.jpg",
-      "date": "2024-05-15T17:00:26+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Final Fantasy VII Rebirth Best Buy Steelbook (PS5) #shorts",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/k02mkNRvIYE",
-      "image": "https://i.ytimg.com/vi/k02mkNRvIYE/hqdefault.jpg",
-      "date": "2024-03-01T18:00:24+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Final Fantasy VII Rebirth Deluxe Edition Unboxing (PS5) #shorts",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/SFwXpq5kwe4",
-      "image": "https://i.ytimg.com/vi/SFwXpq5kwe4/hqdefault.jpg",
-      "date": "2024-03-01T02:23:40+00:00"
-    }
-  ]
+  "youtube": []
 }
