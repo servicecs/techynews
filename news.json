@@ -1,6 +1,33 @@
 {
-  "updated": "2026-09-23T17:55:30.427081+00:00",
+  "updated": "2026-09-23T21:16:20.913632+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Од Main Stage до Hackathon Grand Finale: Вториот ден го заокружи AI Tech Summit „Filip Avramchev“ 2026",
+      "description": "Вториот ден на AI Tech Summit „Filip Avramchev“ 2026 продолжи таму каде што заврши првиот – со прашањето што следува кога AI ќе престане да биде само алатка и ќе стане дел од начинот на кој работиме, создаваме производи, донесуваме одлуки и комуницираме со физичкиот свет. Main Stage програмата повторно спои различни перспективи: од agentic […]",
+      "url": "https://smartportal.mk/novosti/nastani/vtoriot-den-go-zaokruzi-ai-tech-summit-2026/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Од-Main-Stage-до-Hackathon-Grand-Finale-Вториот-ден-го-заокружи-AI-Tech-Summit-„Filip-Avramchev-2026-1-150x150.webp",
+      "date": "Wed, 23 Sep 2026 18:32:07 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Кога AI станува првиот контакт со брендот: Новите правила на дигиталната видливост",
+      "description": "Начинот на кој луѓето откриваат, споредуваат и избираат брендови се менува. Ако до неодамна главната битка за дигитална видливост се водеше околу позицијата на Google, денес сè почесто првиот контакт со еден бренд се случува во одговор генериран од вештачка интелигенција. ChatGPT, Google AI Overviews, Gemini, Perplexity, Copilot и сличните системи не нудат само листа […]",
+      "url": "https://smartportal.mk/novosti/ai/koga-ai-stanuva-prviot-kontakt-so-brendot/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/ai-first-brand-contact-f-150x150.webp",
+      "date": "Wed, 23 Sep 2026 18:22:36 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "The Founder Games организира Live Challenge на Startup Revolution AI Summit",
+      "description": "Околу 20 стартапи ќе се соочат со предизвик во живо пред инвеститори, претприемачи, инфлуенсери, новинари и публика, без сигурноста на класичната презентација и со само една задача: да успеат да привлечат внимание и да убедат вистински луѓе во вредноста на она што го градат. Од 1 до 4 октомври, Скопје ќе биде домаќин на Startup Revolution […]",
+      "url": "https://smartportal.mk/novosti/nastani/the-founder-games-live-challenge-startup-revolution-ai-summit/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/fg-PR-text1-150x150.webp",
+      "date": "Wed, 23 Sep 2026 18:11:32 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -66,39 +93,21 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "X воведува известувања за корисниците при владини ограничувања на нивните објави",
-      "description": "Социјалната мрежа X најави нова промена во начинот на кој се справува со барањата за цензура, овозможувајќи им на корисниците директен увид кога државните институции влијаат врз видливоста на нивните објави. Според најновите информации, платформата системски ќе ја зголеми видливоста на владините барања кои имаат за цел да ограничат или целосно да отстранат одредена содржина. […]",
-      "url": "https://smartportal.mk/novosti/socijalni-mrezi/x-izvestuvanja-pri-vladini-oranicuvanja-na-objavi/",
-      "image": "https://smartportal.mk/wp-content/uploads/2023/08/shutterstock_2336648595-150x150.jpg",
-      "date": "Tue, 22 Sep 2026 08:24:13 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Motorola го прикажа изгледот на нивниот претстоен телефон со несекојдневен дизајн",
-      "description": "Motorola преку своите профили на социјалните мрежи објави кратка најава за својот претстоен паметен телефон од високата класа, кој најверојатно ќе го носи името Signature 27. Оваа објава доаѓа непосредно пред споделувањето на повеќе информации кое од страна на компанијата е закажано за денес. Со овој потег, производителот одлучи да ги отстрани шпекулациите и да […]",
-      "url": "https://smartportal.mk/novosti/smartfoni/motorola-prikaza-izgled-telefon-so-specificen-dizajn/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/794598210_18042704783822177_1266268008550511190_n-f-150x150.webp",
-      "date": "Tue, 22 Sep 2026 08:13:27 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Microsoft ги потсетува администраторите да преминат на „passkey“ за пристап за Entra ID",
-      "description": "Microsoft ги повика ИТ администраторите да ги префрлат корисниците на Entra ID на методи за автентикација кои се отпорни на фишинг напади, како што се клучевите за пристап (passkeys). Ова известување доаѓа како подготовка за целосното укинување на SMS пораките како примарен метод за најавување, кое е закажано за почетокот на февруари 2027 година. По […]",
-      "url": "https://smartportal.mk/novosti/veb-i-bezbednost/microsoft-entra-id-passkeys-potsetuvanje/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/425625-How-It-Works-1076x608-1-150x150.webp",
-      "date": "Tue, 22 Sep 2026 07:38:37 +0000"
+      "source": "Time.mk - All",
+      "title": "Пратениците и партиите пред нови измени на Изборниот законик: Актуелните правилата за изборно рекламирање остануваат во сила | ТВ21",
+      "description": "",
+      "url": "https://time.mk/c/46fb21ba7a/pratenicite-i-partiite-pred-novi-izmeni-na-izborniot-zakonik-aktuelnite-pravilata-za-izborno-reklamiranje-ostanuvaat-vo-sila.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2024/08/ustaven-sud-1024x576.jpg",
+      "date": "Wed, 23 Sep 2026 20:04:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Уставен не поведе постапка по иницијативата на Левица за државното финансирање на партиите | 360 степени",
+      "title": "Муцунски во ОН се сретнал со министрите на Монголија, Кенија и Тринидад и Тобаго | Независен",
       "description": "",
-      "url": "https://time.mk/c/581c774831/ustaven-ne-povede-postapka-po-inicijativata-na-levica-za-drzavnoto-finansiranje-na-partiite.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/09/Kostadinovski-Ustaven.jpg",
-      "date": "Wed, 23 Sep 2026 14:40:50 +0000"
+      "url": "https://time.mk/c/6fdb7894b8/mucunski-vo-on-se-sretnal-so-ministrite-na-mongolija-kenija-i-trinidad-i-tobago.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2024/10/Mucunski-1-bg.jpg",
+      "date": "Wed, 23 Sep 2026 20:06:38 +0000"
     },
     {
       "category": "mkd",
@@ -112,6 +121,24 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
+      "title": "Може ли вештачката интелигенција да го уништи човештвото? Научниците предупредуваат на три можни сценарија | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/bec616c920/moze-li-vestackata-inteligencija-da-go-unisti-covestvoto-naucnicite-predupreduvaat-na-tri-mozni-scenarija.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/Veshtachka-inteligencija-300x185.jpg",
+      "date": "Wed, 23 Sep 2026 19:21:11 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "(Во живо) Беџети: ДУИ нема да обезбеди Бадентер за враќање на името „Македонија“ | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/945bfa359a/vo-zivo-bedzeti-dui-nema-da-obezbedi-badenter-za-vrakanje-na-imeto-makedonija.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/85432/conversions/text-max.jpg",
+      "date": "Wed, 23 Sep 2026 21:02:38 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
       "title": "Манасиевски: Љупчо Николовски изготвил вешт наод за нанесена душевна болка кај доктор кој повеќекратно бил донатор во СДС | Скопје1",
       "description": "",
       "url": "https://time.mk/c/93a3a55ff3/manasievski-ljupco-nikolovski-izgotvil-vest-naod-za-nanesena-dusevna-bolka-kaj-doktor-koj-povekekratno-bil-donator-vo-sds.html",
@@ -121,83 +148,65 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Четботови во криза речиси секогаш избирале нуклеарен напад | Трн",
+      "title": "ОЕЦД ПРОГНОЗИРА ГЛОБАЛЕН РАСТ ОД 2,9 ПРОЦЕНТИ ВО 2026 ГОДИНА | Економија и Бизнис",
       "description": "",
-      "url": "https://time.mk/c/11730e334e/cetbotovi-vo-kriza-recisi-sekogas-izbirale-nuklearen-napad.html",
-      "image": "https://trn.mk/wp-content/uploads/2025/11/24570_vestacka-inteligencija-ai-chatgpt-informatika-softver_f.jpg",
-      "date": "Wed, 23 Sep 2026 16:24:48 +0000"
+      "url": "https://time.mk/c/4d6754572a/oecd-prognozira-globalen-rast-od-2-9-procenti-vo-2026-godina.html",
+      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/08/zemjodelstvosenozetva.jpg",
+      "date": "Wed, 23 Sep 2026 18:24:54 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Меѓународен ден на знаковниот јазик | 24 Вести",
+      "title": "Јаревски: Мерките што ги презема Владата даваат резултати, 7 квартали по ред имаме над 3% раст | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/3059c568c4/megjunaroden-den-na-znakovniot-jazik.html",
-      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1790181126/fkl8gv040l90jyrp3qk7.jpg",
-      "date": "Wed, 23 Sep 2026 15:50:42 +0000"
+      "url": "https://time.mk/c/bbd89e5240/jarevski-merkite-sto-gi-prezema-vladata-davaat-rezultati-7-kvartali-po-red-imame-nad-3-rast.html",
+      "image": "",
+      "date": "Wed, 23 Sep 2026 19:40:54 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "БЕЗ СОПСТВЕНИ ВИ-МОДЕЛИ И ДАТА-ЦЕНТРИ МАКЕДОНИЈА РИЗИКУВА ДА СТАНЕ ДИГИТАЛНА КОЛОНИЈА Пристапно предавање на новоизбраниот член на МАНУ проф. д-р Димитар Трајанов | +инфо",
+      "title": "Куќен притвор за шефицата на албанската разузнавачка служба | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/1bbbabc0eb/bez-sopstveni-vi-modeli-i-data-centri-makedonija-rizikuva-da-stane-digitalna-kolonija-pristapno-predavanje-na-novoizbraniot-clen-na-manu-prof-d-r-dimitar-trajanov.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2026/09/dimitar-trajanov.jpg",
-      "date": "Wed, 23 Sep 2026 15:26:37 +0000"
+      "url": "https://time.mk/c/00216feb61/kuken-pritvor-za-seficata-na-albanskata-razuznavacka-sluzba.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/edi-rama-epa-juni26-1.jpg",
+      "date": "Wed, 23 Sep 2026 19:28:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Спремете се за нов бран поскапувања | Рацин",
+      "title": "Реагира Амбасадата на Србија: На спорната снимка не е амбасадорката на Србија во Шпанија Ирена Шарац, туку водителката Јелена Димитријевиќ | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/9df40c4def/spremete-se-za-nov-bran-poskapuvanja.html",
-      "image": "https://racin.mk/wp-content/uploads/2024/08/inflacija-721x480.jpg?x11917",
-      "date": "Wed, 23 Sep 2026 16:56:48 +0000"
+      "url": "https://time.mk/c/d824f54ed6/reagira-ambasadata-na-srbija-na-spornata-snimka-ne-e-ambasadorkata-na-srbija-vo-spanija-irena-sarac-tuku-voditelkata-jelena-dimitrijevik.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2026/09/foto-ispravka-zname-srbija.png",
+      "date": "Wed, 23 Sep 2026 15:20:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Секој граѓанин должи по 2.620 евра | Трн",
+      "title": "Зеленски во ОН: Путин е нулта пациент, нема да успее | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/fec1f191c8/sekoj-gragjanin-dolzi-po-2-620-evra.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/05/shvajczarija-pari.jpg",
-      "date": "Wed, 23 Sep 2026 16:32:50 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Кој го бакна холандското знаме? | Рацин",
-      "description": "",
-      "url": "https://time.mk/c/98dc765428/koj-go-bakna-holandskoto-zname.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/09/zname.jpg?x11917",
-      "date": "Wed, 23 Sep 2026 17:32:50 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "„Лошо ќе завршиме, душо“: Откриени пораки меѓу шефицата на албанската разузнавачка служба и тајкунот Агаси | Вечер Прес",
-      "description": "",
-      "url": "https://time.mk/c/db5a1f57df/loso-ke-zavrsime-duso-otkrieni-poraki-megju-seficata-na-albanskata-razuznavacka-sluzba-i-tajkunot-agasi.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/09/vlora.png",
-      "date": "Wed, 23 Sep 2026 11:59:00 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Путин: Одзивот на гласачите на парламентарните избори покажа дека Русите ја поддржуваат воената агенда | Независен",
-      "description": "",
-      "url": "https://time.mk/c/c5530b9a53/putin-odzivot-na-glasacite-na-parlamentarnite-izbori-pokaza-deka-rusite-ja-poddrzuvaat-voenata-agenda.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2025/05/Vladimir-Putin.jpeg",
-      "date": "Wed, 23 Sep 2026 17:10:45 +0000"
+      "url": "https://time.mk/c/d0fd35c0a3/zelenski-vo-on-putin-e-nulta-pacient-nema-da-uspee.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/14313288.webp",
+      "date": "Wed, 23 Sep 2026 19:38:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
       "title": "Иранскиот претседател му одговори на Трамп: „Никогаш нема да паднеме на колена“ | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/b96c030023/iranskiot-pretsedatel-mu-odgovori-na-tramp-nikogas-nema-da-padneme-na-kolena.html",
+      "url": "https://time.mk/c/aa4baccea8/iranskiot-pretsedatel-mu-odgovori-na-tramp-nikogas-nema-da-padneme-na-kolena.html",
       "image": "https://www.vecer.press/wp-content/uploads/2026/09/pezeskijan-sept26-epa-sarah-yenesel.jpeg",
       "date": "Wed, 23 Sep 2026 17:22:37 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Oтворени училишните спортски лиги во Kарпош | Вечер Прес",
+      "description": "",
+      "url": "https://time.mk/c/ad96949c8b/otvoreni-ucilisnite-sportski-ligi-vo-karpos.html",
+      "image": "",
+      "date": "Wed, 23 Sep 2026 12:40:54 +0000"
     },
     {
       "category": "mkd",
@@ -211,11 +220,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Гола месечина“ се „облече“ и почна да пее | Независен",
+      "title": "МВР СО ДЕТАЛИ: Неколку случаи на партнерско насилство за едно деноноќие | ПРВ.мк",
       "description": "",
-      "url": "https://time.mk/c/7076446250/gola-mesecina-se-oblece-i-pocna-da-pee.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/gola-mesecina.jpg",
-      "date": "Wed, 23 Sep 2026 09:08:49 +0000"
+      "url": "https://time.mk/c/77d9112c92/mvr-so-detali-nekolku-slucai-na-partnersko-nasilstvo-za-edno-denonokie.html",
+      "image": "https://cmsnebula.eu-central-1.linodeobjects.com/cdf7130d-94d0-4983-ba14-4bb301cd463a/$88cb3c6e-adad-436d-a830-5fc58e458a14/semejno-nasilstvo-2.jpg",
+      "date": "Wed, 23 Sep 2026 19:14:47 +0000"
     },
     {
       "category": "mkd",
@@ -229,11 +238,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ЦУК: 16 пожари на отворен простор, четири се уште активни | Либертас",
+      "title": "За сите брачни парови кои досега не се венчале во црква: Бесплатна групна венчавка во Кавадарци | iNFOMAX",
       "description": "",
-      "url": "https://time.mk/c/b2b020b882/cuk-16-pozari-na-otvoren-prostor-cetiri-se-uste-aktivni.html",
-      "image": "https://libertas.mk/wp-content/uploads/2026/09/20260923190115_big_730x400_99-300x169.webp",
-      "date": "Wed, 23 Sep 2026 17:26:37 +0000"
+      "url": "https://time.mk/c/ba2e045110/za-site-bracni-parovi-koi-dosega-ne-se-vencale-vo-crkva-besplatna-grupna-vencavka-vo-kavadarci.html",
+      "image": "",
+      "date": "Wed, 23 Sep 2026 20:26:38 +0000"
     },
     {
       "category": "mkd",
@@ -247,11 +256,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Отчет на градоначалникот Почивалец: Инфраструктурни проекции, поддршка за младите и нови економски мерки во Радовиш | Press24",
+      "title": "Здравко Чолиќ објави нов албум: Излегува „Маштам и праштам“ | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/81c814fd6b/otcet-na-gradonacalnikot-pocivalec-infrastrukturni-proekcii-poddrska-za-mladite-i-novi-ekonomski-merki-vo-radovis.html",
-      "image": "",
-      "date": "Tue, 22 Sep 2026 11:02:39 +0000"
+      "url": "https://time.mk/c/ca37b45b66/zdravko-colik-objavi-nov-album-izleguva-mastam-i-prastam.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/cola-mastam-video.jpg",
+      "date": "Wed, 23 Sep 2026 19:06:39 +0000"
     },
     {
       "category": "mkd",
@@ -261,15 +270,6 @@
       "url": "https://time.mk/c/ea2a99046e/napravivme-sovremena-drama-tri-sestri-sto-prasuva-sto-nѐ-sprecuva-da-pocneme-odnovo-veli-ekipata-pred-premierata-vo-mnt-na-25-septemvri.html",
       "image": "https://sdk.mk/wp-content/uploads/2026/09/tri-sestri-i-nela-2.jpg",
       "date": "Wed, 23 Sep 2026 11:52:56 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "BookStar 2026 во Скопје: литературата го отвора прашањето „Чуму слобода?“ | Паноптикум",
-      "description": "",
-      "url": "https://time.mk/c/548022f2fb/bookstar-2026-vo-skopje-literaturata-go-otvora-prasanjeto-cumu-sloboda.html",
-      "image": "",
-      "date": "Wed, 23 Sep 2026 08:05:04 +0000"
     }
   ],
   "de": [
@@ -458,6 +458,33 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "Apple Has a Fix for Your New Apple Watch's Restart Bug",
+      "description": "If you bought an Apple Watch Series 12 or Ultra 4, you'll want to update ASAP.",
+      "url": "https://lifehacker.com/tech/apple-just-fixed-a-restart-bug-with-your-new-apple-watch?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M37Z56X3XC21NNZHSXGZYXDB/hero-image.jpg",
+      "date": "Wed, 23 Sep 2026 20:45:17 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Apple Intelligence Is Taking Up Way More Storage Than Apple Promised on These Devices",
+      "description": "If you updated to iOS 27 or macOS 27, check your storage.",
+      "url": "https://lifehacker.com/tech/if-you-updated-to-ios-27-or-macos-golden-gate-check-your-storage?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M37TKQ54WW3E219480GAP3J3/hero-image.jpg",
+      "date": "Wed, 23 Sep 2026 20:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "10 uBlock Origin Hacks Everyone Should Know",
+      "description": "Make the most out of uBlock Origin (and uBlock Origin Lite).",
+      "url": "https://lifehacker.com/tech/10-hacks-every-ublock-origin-user-should-know?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M37GQGZH286X5XBTQSMW9D1D/hero-image.jpg",
+      "date": "Wed, 23 Sep 2026 18:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "Why You Probably Won't Have to Verify Your Age With Discord After All",
       "description": "Discord's age verification system is now live, but won't apply to more than 90% of users.",
       "url": "https://lifehacker.com/tech/you-probably-wont-have-to-verify-your-age-with-discord?utm_medium=RSS",
@@ -610,30 +637,12 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "Five Hacks Every Garmin Fenix 9 Pro User Should Know",
-      "description": "Garmin's most advanced adventure watch can get even better.",
-      "url": "https://lifehacker.com/health/garmin-fenix-9-pro-hacks?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M32M9J53DNYNQVZYESF0HBT4/hero-image.jpg",
-      "date": "Mon, 21 Sep 2026 19:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "Why Your 'HIIT' Workouts Are Full of Empty Promises",
-      "description": "The original HIIT was supposed to a cheat code for cardio gains. Today's HIIT is nothing like it.",
-      "url": "https://lifehacker.com/why-your-hiit-workouts-are-full-of-empty-promises?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01HF2GVGC9E88KBMRQ6DAWWJ1B/hero-image.jpg",
-      "date": "Mon, 21 Sep 2026 18:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "Do This If You Want Another Year of Windows 10 Security Updates",
-      "description": "ESU coverage for Windows 10 is being extended through October 2027.",
-      "url": "https://lifehacker.com/tech/windows-10-security-updates-extended-to-2027?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M32BQHK1PJW9A26F72KKKCW8/hero-image.jpg",
-      "date": "Mon, 21 Sep 2026 17:30:00 +0000"
+      "source": "PCWorld",
+      "title": "Sorry, Microsoft: Haptic mice are a productivity gimmick",
+      "description": "Mice from Logitech and now Microsoft support Windows’ latest feature: haptic feedback. But instead of serving as the next productivity enhancement, haptic mice feel like more of a convenience rather than a must-have. Microsoft today announced a new version of the Surface Mouse, a $79.99 ambidextrous mouse that it launched alongside a new 13-inch Surface Laptop ($1,199) and a 12-inch Surface Pro ($1,149) which include Qualcomm’s Snapdragon X2 Plus chips inside. The Mouse is the most intriguing of",
+      "url": "https://www.pcworld.com/article/3242530/sorry-microsoft-haptic-mice-are-a-productivity-gimmick.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3242530-0-24436600-1790195443-Microsoft-Surface-Mouse-2026-edit.png",
+      "date": "Wed, 23 Sep 2026 20:30:00 +0000"
     },
     {
       "category": "eng",
@@ -715,15 +724,6 @@
       "url": "https://www.pcworld.com/article/3242179/windows-11s-optional-september-update-tries-to-fix-bluetooth-again.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3242179-0-52440000-1790171677-Finger-touching-Windows-11-logo-on-screen-in-dark-room.jpg?quality=50&strip=all",
       "date": "Wed, 23 Sep 2026 13:54:14 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
-      "description": "If you’re looking for an affordable Windows machine under $500 , a blazing fast gaming beast for those intense matches, or a portable 2-in-1 for school or work, you’ve got plenty of great choices right now. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 80 laptops every year. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches",
-      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/550968-0-60014000-1790168869-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
-      "date": "Wed, 23 Sep 2026 13:07:27 +0000"
     }
   ],
   "starwars": [
@@ -901,6 +901,60 @@
     {
       "category": "starwars",
       "source": "Jedi News",
+      "title": "Daisy Ridley Surprises Worcester Film Festival Organisers",
+      "description": "Daisy Ridley surprised the organisers of the Worcester Film Festival, by agreeing to join their judging panel, taking place at the Odeon cinema in Foregate Street from September 22nd to 26th and showcasing more than 250 films. The post Daisy Ridley Surprises Worcester Film Festival Organisers appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/events/articles/daisy-ridley-surprises-worcester-film-festival-organisers/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2025/12/Daisy-Ridley-Dec25-300x201.jpg",
+      "date": "Wed, 23 Sep 2026 18:00:52 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Adam Savage Works on the Razor Crest Filming Model | Adam Savage’s Tested",
+      "description": "Adam Savage spends a day with modelmakers John Goodson and Dan Patrascu to help apply the Razor Crest's chrome finish using the same techniques they employed working on miniatures for the Star Wars prequel trilogy! The post Adam Savage Works on the Razor Crest Filming Model | Adam Savage’s Tested appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/adam-savage-works-on-the-razor-crest-filming-model-adam-savages-tested/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/maxresdefault-46-300x169.jpg",
+      "date": "Wed, 23 Sep 2026 17:22:12 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Full Of Sith Episode DCXLIX: The Lucas Museum of Narrative Art Inbox",
+      "description": "It's time to join the team for episode DCXLIX of Full of Sith. The post Full Of Sith Episode DCXLIX: The Lucas Museum of Narrative Art Inbox appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/full-of-sith-episode-dcxlix-the-lucas-museum-of-narrative-art-inbox/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2018/04/full-of-sith-network-300x201.jpg",
+      "date": "Wed, 23 Sep 2026 16:49:36 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Build the Millennium Falcon: Part 95",
+      "description": "Another delivery from Fanhome has landed on the Alders doorstep. Mark his daughter Ember, continue their journey to build their very own version of the iconic YT-1300 freighter. This week they take on part 95. The post Build the Millennium Falcon: Part 95 appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/collecting/articles/build-the-millennium-falcon-part-95/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2024/01/Build-the-Millennium-Falcon-FI-300x201.jpg",
+      "date": "Wed, 23 Sep 2026 16:01:18 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Mando and Grogu Get Their Signets | The Mandalorian Commentary w/ Legacy FX’s J. Alan Scott",
+      "description": "Join J. Alan Scott, Co-Founder of Legacy FX, as he breaks down the significance of Mandalorian armor, Din Djarin and Grogu's signets, and the use of beskar, exploring their meaning in the Star Wars universe and how they were brought to life in the real world. The post Mando and Grogu Get Their Signets | The Mandalorian Commentary w/ Legacy FX’s J. Alan Scott appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/mando-and-grogu-get-their-signets-the-mandalorian-commentary-w-legacy-fxs-j-alan-scott/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/maxresdefault-45-300x169.jpg",
+      "date": "Tue, 22 Sep 2026 23:23:47 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "A Message from George Lucas and Mellody Hobson On Opening Day of Lucas Museum of Narrative Art",
+      "description": "The Lucas Museum of Narrative Art is now open, and co-founders George Lucas and Mellody Hobson have shared a message to celebrate the occasion. The post A Message from George Lucas and Mellody Hobson On Opening Day of Lucas Museum of Narrative Art appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/a-message-from-george-lucas-and-mellody-hobson-on-opening-day-of-lucas-museum-of-narrative-art/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/George-Lucas-and-Mellody-Hobson-Sept26-300x201.jpg",
+      "date": "Tue, 22 Sep 2026 20:38:04 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
       "title": "Blast Points Podcast #498: Dark Empire II (what the hell happens in it?)",
       "description": "Join Jason and Gabe for episode 498 of Blast Points Podcast. The post Blast Points Podcast #498: Dark Empire II (what the hell happens in it?) appeared first on Jedi News .",
       "url": "https://www.jedinews.com/podcasts/articles/blast-points-podcast-498-dark-empire-ii-what-the-hell-happens-in-it/",
@@ -942,60 +996,6 @@
       "url": "https://www.jedinews.com/podcasts/articles/enjoy-stuff-21st-day-of-stufftember/",
       "image": "https://www.jedinews.com/wp-content/uploads/2021/05/RetroZap-Enjoy-Stuff-Techno-Retro-Featured-Image-300x201.jpg",
       "date": "Mon, 21 Sep 2026 23:55:42 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "The Ghost Crew Save Mon Mothma | Star Wars Rebels | Star Wars Kids",
-      "description": "The Ghost Crew must work together to protect Senator Mon Mothma as they attempt to escape the Empire. Can Ezra and Hera use their skills and teamwork to survive this dangerous situation? Stream Star Wars Rebels on Disney+. The post The Ghost Crew Save Mon Mothma | Star Wars Rebels | Star Wars Kids appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/the-ghost-crew-save-mon-mothma-star-wars-rebels-star-wars-kids/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/maxresdefault-43-300x169.jpg",
-      "date": "Mon, 21 Sep 2026 23:22:34 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "The Saga Museum’s 2027 Roadshow is Heading to Cincinnati Museum Center",
-      "description": "As part of their 2027 Roadshow, The Saga Museum is heading to the Cincinnati Museum Center between March 19th and June 27th showcasing the legacy of Kenner toys, including rare and one-of-a-kind prototypes in time for the 50th anniversary of Star Wars. The post The Saga Museum’s 2027 Roadshow is Heading to Cincinnati Museum Center appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/events/articles/the-saga-museums-2027-roadshow-is-heading-to-cincinnati-museum-center/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/The-Saga-Museum-Cincinnati-Museum-Center-Sept26-300x201.jpg",
-      "date": "Mon, 21 Sep 2026 22:32:07 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Luke Skywalker’s Jedi Training with Obi-Wan Kenobi | Star Wars: A New Hope | Official Clip",
-      "description": "\"Remember, a Jedi can feel the Force flowing through him.\" Stream Star Wars: A New Hope on Disney+. The post Luke Skywalker’s Jedi Training with Obi-Wan Kenobi | Star Wars: A New Hope | Official Clip appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/luke-skywalkers-jedi-training-with-obi-wan-kenobi-star-wars-a-new-hope-official-clip/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/maxresdefault-44-300x169.jpg",
-      "date": "Mon, 21 Sep 2026 21:58:32 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Podcast Stardust #1,086: Eyes Like Stars and Legacy Reviews",
-      "description": "First-generation Star Wars fans, Dennis Keithly and Jay Krebs, host episode 1,086 of Podcast Stardust. The post Podcast Stardust #1,086: Eyes Like Stars and Legacy Reviews appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/podcast-stardust-1086-eyes-like-stars-and-legacy-reviews/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2020/05/Podcast-Stardust-300x201.jpg",
-      "date": "Mon, 21 Sep 2026 09:36:17 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "This Weeks Publications – 21st September 2026",
-      "description": "Welcome to week 38 of 2026 and our list detailing what new publications to expect from a galaxy far, far away. The post This Weeks Publications – 21st September 2026 appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/literature/articles/this-weeks-publications-21st-september-2026/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/SW-Quips-and-Comebacks-FI-300x201.jpg",
-      "date": "Mon, 21 Sep 2026 04:01:03 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Star Wars Rebels Full Episode Marathon | 3 Full Episodes From S4 | Star Wars Kids",
-      "description": "The Ghost crew joins the growing Rebel Alliance, struggling to unite against the Galactic Empire. Old friends are reunited and new allegiances are forged as the series builds to its epic conclusion. Stream Star Wars Rebels on Disney+. The post Star Wars Rebels Full Episode Marathon | 3 Full Episodes From S4 | Star Wars Kids appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/star-wars-rebels-full-episode-marathon-3-full-episodes-from-s4-star-wars-kids-2/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/maxresdefault-41-300x169.jpg",
-      "date": "Sun, 20 Sep 2026 23:21:45 +0000"
     }
   ],
   "youtube": [
