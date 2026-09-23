@@ -1,6 +1,51 @@
 {
-  "updated": "2026-09-23T07:30:59.584625+00:00",
+  "updated": "2026-09-23T13:26:20.027576+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "„Макпетрол“ и ФФМ потпишаа договор за поддршка на македонската фудбалска репрезентација",
+      "description": "„Макпетрол“ ја продолжува својата долгогодишна определба за поддршка на македонскиот спорт, започнувајќи соработка со Фудбалската федерација на Македонија и со поддршка за македонската А-репрезентација. Во текот на своето повеќедецениско постоење, компанијата континуирано вложува во спортот и во спортистите кои ја претставуваат земјата на најголемите домашни и меѓународни натпреварувања. Почетокот на соработката беше одбележан со потпишување […]",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/makpetrol-ffm-dogovor-poddrska-fudbalska-reeprezentacija/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/makpetrol_ffm_01-150x150.webp",
+      "date": "Wed, 23 Sep 2026 12:55:45 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Motorola го претстави signature 27, еден од првите телефони со најновиот Snapdragon процесор и прв со звук од Bang & Olufsen",
+      "description": "Откако неодамна го покажа изгледот на својот нов телефон, Motorola на овогодинешниот Snapdragon Summit ги откри и првите детали за motorola signature 27. Уредот е еден од првите телефони со Snapdragon 8 Elite Extreme Gen 6, процесорот што Qualcomm го претстави истиот ден. Со ова се потврди и претпоставката дека телефонот ќе користи процесор од најновата серија […]",
+      "url": "https://smartportal.mk/novosti/smartfoni/motorola-signature-27/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/motorola-signature-lifestyle-2-150x150.webp",
+      "date": "Wed, 23 Sep 2026 12:27:07 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Anthropic го претстави Claude Opus 5.5 кој е помоќен, побрз и 40% поевтин за користење од својот претходник",
+      "description": "Anthropic го претстави Claude Opus 5.5, прв модел од новата фамилија Claude 5.5. Според компанијата, моделот на повеќето задачи работи на ниво на Claude Fable 5.1, а при типична употреба е 40% поевтин од Opus 5. Цената за милион влезни „токени“ е 4 долари, а за излезни 20 долари, што е 20% помалку од Opus […]",
+      "url": "https://smartportal.mk/novosti/ai/anthropic-claude-opus-5-5/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/brecht-corbeel-j8ummUQNRXc-unsplash-f-150x150.webp",
+      "date": "Wed, 23 Sep 2026 11:56:59 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Apple наводно развива уред за следење на здравјето и физичката активност без екран конкуренција на Whoop и сличните",
+      "description": "Apple работи на уред за следење на здравјето и физичката активност без екран, кој би бил конкуренција на популарниот Whoop. Ова го објави Bloomberg, според кој компанијата веќе развива прототипови, но сè уште не одлучила дали производот ќе го пушти во продажба. Прототиповите се состојат од тенка лента од ткаенина и модул со сензори. Проектот засега […]",
+      "url": "https://smartportal.mk/novosti/uredi/apple-fitness-ured-bez-ekran/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/andres-urena-V7UoMNWsYsg-unsplash-f-150x150.webp",
+      "date": "Wed, 23 Sep 2026 11:29:02 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "OpenAI ги претстави GPT-6 Sol и Luna – поевтини и побрзи модели што носат дел од можностите на Astra со двојно пониски цени",
+      "description": "На почетокот на септември OpenAI го претстави GPT-6 Astra, модел што компанијата го опиша како најинтелигентен досега. Сега, според официјалниот блог на OpenAI, до него доаѓаат GPT-6 Sol и GPT-6 Luna. Двата модела се наменети за секојдневна работа и за задачи за кои не е потребна целата моќ на Astra. Моделите се тренирани со слични […]",
+      "url": "https://smartportal.mk/novosti/ai/openai-gpt-6-sol-i-luna/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/gpt-6-sol-luna-f-150x150.webp",
+      "date": "Wed, 23 Sep 2026 10:45:00 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -48,228 +93,183 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Apple започна со исплата на 250 милиони долари обесштетување за доцнењето на Siri AI",
-      "description": "Apple ја активираше веб страницата преку која американските корисници можат да побараат финансиски надомест, како дел од спогодбата вредна 250 милиони долари. Компанијата се согласи на исплатата за да избегне судење по групната тужба за лажно рекламирање, поврзана со доцнењето на функциите на Siri AI. Иако Apple ги негира обвинувањата, процесот на обесштетување е веќе […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/apple-zapocna-so-isplata-na-bestetuvanje-za-siri-ai/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/06/Depositphotos_378445062_XL-150x150.webp",
-      "date": "Tue, 22 Sep 2026 07:19:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Започнаа нарачките за Googlebook: Новата генерација лаптопи од Google пристигнува во октомври",
-      "description": "По неодамнешното официјално претставување, Google објави дека започнуваат нарачките за новата категорија лаптопи, Googlebook. Оваа линија преносни компјутери, која ја спојува технолошката основа на Android со десктоп околината на ChromeOS, сега е достапна за резервација преку дигиталната продавница на компанијата и избрани малопродажни партнери. Уредот е креиран со цел да понуди беспрекорна синхронизација со паметните […]",
-      "url": "https://smartportal.mk/novosti/kompjuteri/zapocnaa-narackite-za-googlebook/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/googlebook-f-150x150.webp",
-      "date": "Mon, 21 Sep 2026 16:11:55 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Gamers Nexus најави нова истражувачка серија за ИТ корпорациите и корисничката приватност",
-      "description": "Популарниот YouTube канал, а посебно изминатите неколку месеци со нивното истражување на LG телевизорите, Gamers Nexus, најави амбициозна серија на истражувачки репортажи кои ќе бидат објавени во следните три месеци. Оваа одлука следи откако тимот бил контактиран од одделот за сајбер криминал и финансиски измами на Тајната служба на САД во врска со компанија која […]",
-      "url": "https://smartportal.mk/novosti/veb-i-bezbednost/gamers-nexus-nova-istrazuvacka-serija-za-it-kompaniite-i-privatnost/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/maxresdefault-2-150x150.jpg",
-      "date": "Mon, 21 Sep 2026 12:31:09 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Apple воведе функција за детекција на ризик од измами во iOS 27",
-      "description": "Со пуштањето на iOS 27 и iPadOS 27, Apple воведе нова функција која треба да го процени ризикот од лажно претставување со кое може да се соочат корисниците. Оваа алатка е дизајнирана да понуди заштита од активни измами базирани на социјален инженеринг, при кои напаѓачите се претставуваат како банки, владини агенции или други доверливи лица […]",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/apple-impersonation-risk-detection/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/ios-27-iphone-17-pro-settings-privacy-and-security-impersonation-risk-detection-f-2-150x150.webp",
-      "date": "Mon, 21 Sep 2026 11:37:00 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Откриени можните поголеми димензии на екраните кај iPhone 20 Pro серијата",
-      "description": "Идната година навршуваат 20 години од претставувањето на iPhone телефонот, за кого може да се каже дека целосно го промени тогашниот пазар. Повеќе пати можевме да прочитаме дека Apple планира измена на дизајнот кај Pro серијата идната година, која најверојатно ќе прескокне една бројка и ќе го носи името iPhone 20 Pro. Како што беше […]",
-      "url": "https://smartportal.mk/novosti/smartfoni/mozni-dimenzii-ekrani-iphone-20-pro/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/pexels-photo-5749999-150x150.jpeg",
-      "date": "Mon, 21 Sep 2026 09:59:18 +0000"
+      "source": "Time.mk - All",
+      "title": "Манасиевски до Николовски: „Кукавиците бегаат и се кријат. За тоа дали моите аргументи се вистинити или лажни ќе каже судот, а не ти“ | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/06e64fb357/manasievski-do-nikolovski-kukavicite-begaat-i-se-krijat-za-toa-dali-moite-argumenti-se-vistiniti-ili-lazni-ke-kaze-sudot-a-ne-ti.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/85416/conversions/text-max.jpg",
+      "date": "Wed, 23 Sep 2026 13:17:17 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Уставниот суд решава за државното финансирање на изборните кампањи | Вечер Прес",
+      "title": "Уставните судии ги отфрлија иницијативите на Левица и на Демократи, Собранието има право да решава кој ќе добива државни пари за кампањи | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/e541e0ecbf/ustavniot-sud-resava-za-drzavnoto-finansiranje-na-izbornite-kampanji.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/09/ustaven.jpg",
-      "date": "Wed, 23 Sep 2026 07:14:46 +0000"
+      "url": "https://time.mk/c/31efc4f727/ustavnite-sudii-gi-otfrlija-inicijativite-na-levica-i-na-demokrati-sobranieto-ima-pravo-da-resava-koj-ke-dobiva-drzavni-pari-za-kampanji.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/ustaven-1.jpg",
+      "date": "Wed, 23 Sep 2026 12:34:37 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Доларот на двомесечен максимум, еврото падна на најниско ниво од јули | Фактор",
+      "title": "Клековски: Имаме јавни примери каде луѓе кои се на боледување работат друга работа, сакаме тоа да го сузбиеме, а не да малтретираме | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/4fdeeb27ae/dolarot-na-dvomesecen-maksimum-evroto-padna-na-najnisko-nivo-od-juli.html",
-      "image": "https://faktor.mk/media/main/2026/09/20260923091408.jpg",
-      "date": "Wed, 23 Sep 2026 07:12:57 +0000"
+      "url": "https://time.mk/c/72531b3fcb/klekovski-imame-javni-primeri-kade-lugje-koi-se-na-boleduvanje-rabotat-druga-rabota-sakame-toa-da-go-suzbieme-a-ne-da-maltretirame.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1790168777/g7i4pz835cgycalil4ij.webp",
+      "date": "Wed, 23 Sep 2026 13:08:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Уапсен поранешниот припадник на ОВК Фадиљ Пушкољи | Проверено",
+      "title": "Јаневска за случајот со Дарко Василевски: МОН нема ингеренции за вработување специјалисти на Медицински факултет, ДПИ ќе постапува ако се работи за избор во звање | Независен",
       "description": "",
-      "url": "https://time.mk/c/16561cb1e1/uapsen-poranesniot-pripadnik-na-ovk-fadilj-puskolji.html",
-      "image": "https://provereno.mk/wp-content/uploads/2026/08/Ð»Ð¸ÑÐ¸ÑÐ¸-300x200.jpg",
-      "date": "Wed, 23 Sep 2026 05:08:56 +0000"
+      "url": "https://time.mk/c/3b12704288/janevska-za-slucajot-so-darko-vasilevski-mon-nema-ingerencii-za-vrabotuvanje-specijalisti-na-medicinski-fakultet-dpi-ke-postapuva-ako-se-raboti-za-izbor-vo-zvanje.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/janevska-1.jpg",
+      "date": "Wed, 23 Sep 2026 12:00:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Седници на три собраниски комисии | Независен",
+      "title": "Заокружен деветгодишниот циклус на структуриран дијалог за европските реформи во рамките на Националната конвенција | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/85fab433f9/sednici-na-tri-sobraniski-komisii.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/08/Izgradba-na-parking-kaj-sobranie-6-bg.jpg",
-      "date": "Wed, 23 Sep 2026 05:38:45 +0000"
+      "url": "https://time.mk/c/9ddb6981f6/zaokruzen-devetgodisniot-ciklus-na-strukturiran-dijalog-za-evropskite-reformi-vo-ramkite-na-nacionalnata-konvencija.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/nastan-nkeu-mk-23.10-26.webp",
+      "date": "Wed, 23 Sep 2026 10:40:57 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Видео) Ова е првиот гостин во четвртата сезона од „Претрес“ | Скопје1",
+      "title": "Од 4.900 на 1.500 помалку првачиња: корекција на податоците, но демографскиот пад останува | Deutsche Welle",
       "description": "",
-      "url": "https://time.mk/c/d648f675a3/video-ova-e-prviot-gostin-vo-cetvrtata-sezona-od-pretres.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/85395/conversions/text-max.jpg",
-      "date": "Wed, 23 Sep 2026 07:25:06 +0000"
+      "url": "https://time.mk/c/d49072e2c3/od-4-900-na-1-500-pomalku-prvacinja-korekcija-na-podatocite-no-demografskiot-pad-ostanuva.html",
+      "image": "https://static.dw.com/image/66691378_301.jpg",
+      "date": "Wed, 23 Sep 2026 09:30:40 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Арамијата Мицкоски е цела недела на екскурзија во САД со 50 луѓе а немаше ниту една официјална средба и нема никаков резултат, велат од СДСМ | Макфакс",
+      "title": "ОЕЦД: Глобалната инфлација ќе потрае, Фед одново ќе ги зголеми каматите | Bloomberg Adria",
       "description": "",
-      "url": "https://time.mk/c/1ff3ffc71e/aramijata-mickoski-e-cela-nedela-na-ekskurzija-vo-sad-so-50-lugje-a-nemase-nitu-edna-oficijalna-sredba-i-nema-nikakov-rezultat-velat-od-sdsm.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/818743805_1104555945773794_8258558527156580756_n.webp",
-      "date": "Wed, 23 Sep 2026 07:06:45 +0000"
+      "url": "https://time.mk/c/c81d4c9a0f/oecd-globalnata-inflacija-ke-potrae-fed-odnovo-ke-gi-zgolemi-kamatite.html",
+      "image": "https://mk.bloombergadria.com/data/images/2026-09-01/115248_maloprodaja-kolica-kupovina-bloomberg-adria_f.jpg?timestamp=1790114400",
+      "date": "Wed, 23 Sep 2026 11:18:44 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Годишен раст од 9,0% на вкупните депозити и од 13,6% на вкупната кредитна поддршка | Скопје1",
+      "title": "БОЖИНОВСКА: СОЛАРНАТА ЕНЕРГИЈА Е СЕГАШНОСТА, НО СЛЕДНИОТ ЧЕКОР Е РЕД, ПЛАН И СИЛНА МРЕЖА | Бизнис Вести",
       "description": "",
-      "url": "https://time.mk/c/00a3ee54ad/godisen-rast-od-9-0-na-vkupnite-depoziti-i-od-13-6-na-vkupnata-kreditna-poddrska.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/70380/conversions/mmf-1-max.jpg",
-      "date": "Wed, 23 Sep 2026 06:38:46 +0000"
+      "url": "https://time.mk/c/04337bae8b/bozinovska-solarnata-energija-e-segasnosta-no-sledniot-cekor-e-red-plan-i-silna-mreza.html",
+      "image": "https://biznisvesti.mk/wp-content/uploads/2026/09/IAM04326-300x200.jpg",
+      "date": "Wed, 23 Sep 2026 12:28:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Сметките за струја растат во зима? Овој трик со бојлерот може да ви заштеди пари | Трн",
+      "title": "„Лошо ќе завршиме, душо“: Откриени пораки меѓу шефицата на албанската разузнавачка служба и тајкунот Агаси | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/94e57bcba4/smetkite-za-struja-rastat-vo-zima-ovoj-trik-so-bojlerot-moze-da-vi-zastedi-pari.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/01/bojler-1.jpg",
-      "date": "Wed, 23 Sep 2026 06:04:55 +0000"
+      "url": "https://time.mk/c/b4d041d73a/loso-ke-zavrsime-duso-otkrieni-poraki-megju-seficata-na-albanskata-razuznavacka-sluzba-i-tajkunot-agasi.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/vlora.png",
+      "date": "Wed, 23 Sep 2026 11:59:00 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Доаѓа „топлинска купола“: Есента носи температури и до 40 степени во Европа | Фактор",
+      "title": "Случајот Пушколи повторно го отвора прашањето за српските потерници: Интерпол, Косово и ризикот од политичка злоупотреба | CivilMedia",
       "description": "",
-      "url": "https://time.mk/c/15e7ff2a5d/doagja-toplinska-kupola-esenta-nosi-temperaturi-i-do-40-stepeni-vo-evropa.html",
-      "image": "https://faktor.mk/media/main/2026/09/20260922220355.png",
-      "date": "Wed, 23 Sep 2026 04:00:51 +0000"
+      "url": "https://time.mk/c/3467e64496/slucajot-puskoli-povtorno-go-otvora-prasanjeto-za-srpskite-poternici-interpol-kosovo-i-rizikot-od-politicka-zloupotreba.html",
+      "image": "https://civilmedia.b-cdn.net/wp-content/uploads/fadil-pushkolli-750x375.jpg",
+      "date": "Wed, 23 Sep 2026 13:00:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Видео) Пленковиќ ја критикуваше Србија во ОН | Макфакс",
+      "title": "Пријавени загинати и повредени ширум Украина во најновите руски напади | Независен",
       "description": "",
-      "url": "https://time.mk/c/eb0c5099a8/video-plenkovik-ja-kritikuvase-srbija-vo-on.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/14311637.webp",
-      "date": "Wed, 23 Sep 2026 05:46:44 +0000"
+      "url": "https://time.mk/c/772537115d/prijaveni-zaginati-i-povredeni-sirum-ukraina-vo-najnovite-ruski-napadi.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/ukraina.webp",
+      "date": "Wed, 23 Sep 2026 13:08:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Молдавија прогласи вонредна состојба во енергетскиот и хидролошкиот сектор во траење од 60 денови | Независен",
+      "title": "Европската комисија предложи одблокирање на 4,2 милијарди евра за унгарските студенти и истражувачи | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/e61db5558f/moldavija-proglasi-vonredna-sostojba-vo-energetskiot-i-hidroloskiot-sektor-vo-traenje-od-60-denovi.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2024/10/moldavija-eu.jpg",
-      "date": "Wed, 23 Sep 2026 05:54:47 +0000"
+      "url": "https://time.mk/c/2e2e987a53/evropskata-komisija-predlozi-odblokiranje-na-4-2-milijardi-evra-za-ungarskite-studenti-i-istrazuvaci.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2023/12/ÐµÑÐ°Ð·Ð¼ÑÑ.png",
+      "date": "Wed, 23 Sep 2026 10:52:54 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Зеленски: Русија подготвува нов масовен напад врз Украина | 360 степени",
+      "title": "Пред грејната сезона ЕСМ прави „ладна“ проверка на мрежата, а граѓаните треба да си ги проверат радијаторите | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/2f02e224aa/zelenski-rusija-podgotvuva-nov-masoven-napad-vrz-ukraina.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/09/Zelenski-2.jpg",
-      "date": "Wed, 23 Sep 2026 06:58:46 +0000"
+      "url": "https://time.mk/c/c0bcd2c4e9/pred-grejnata-sezona-esm-pravi-ladna-proverka-na-mrezata-a-gragjanite-treba-da-si-gi-proverat-radijatorite.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2022/02/Ð¢Ð¾Ð¿Ð»Ð¸ÑÐ¸ÐºÐ°ÑÐ¸ÑÐ°-ÐÐÐ-7-ink-300x200.jpeg",
+      "date": "Wed, 23 Sep 2026 13:17:17 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ФОТО: Граѓаните алармираат за глувци во Кисела Вода – Фотографии кружат на социјалните мрежи | Press24",
+      "title": "„Гола месечина“ се „облече“ и почна да пее | Независен",
       "description": "",
-      "url": "https://time.mk/c/8f656a2a29/foto-gragjanite-alarmiraat-za-gluvci-vo-kisela-voda-fotografii-kruzat-na-socijalnite-mrezi.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/72667.jpg",
-      "date": "Wed, 23 Sep 2026 06:44:57 +0000"
+      "url": "https://time.mk/c/7076446250/gola-mesecina-se-oblece-i-pocna-da-pee.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/gola-mesecina.jpg",
+      "date": "Wed, 23 Sep 2026 09:08:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Уште неколку скопски улици остануваат без вода | Press24",
+      "title": "АДВОКАТОТ ЈОРДАН АПОСТОЛСКИ ЈА СПОРИ ПРИЧИНАТА ЗА КРИВИЧНО ГОНЕЊЕ ВО „ДРЖАВНА ЛОТАРИЈА“ ЗА ПРОНЕВЕРА ОД 10 МИЛИОНИ ЕВРА, ВЕЛИ ДЕКА ЗАКОНОТ ДАВА ТАА ДА ОРГАНИЗИРА ЕЛЕКТРОНСКИ ИГРИ НА СРЕЌА | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/0095e43faa/uste-nekolku-skopski-ulici-ostanuvaat-bez-voda.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/72675.jpg",
-      "date": "Wed, 23 Sep 2026 06:48:56 +0000"
+      "url": "https://time.mk/c/a02171b1a9/advokatot-jordan-apostolski-ja-spori-pricinata-za-krivicno-gonenje-vo-drzavna-lotarija-za-pronevera-od-10-milioni-evra-veli-deka-zakonot-dava-taa-da-organizira-elektronski-igri-na-sreka.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/09/perparim-sudenje-8989328932-1.jpg",
+      "date": "Wed, 23 Sep 2026 13:08:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Уапсен 40-годишник во Струшко: кај мажот е пронајдена марихуана | Макфакс",
+      "title": "Малолетен внук ја натепал бабата во Берово и уште куп семејни насилства | Независен",
       "description": "",
-      "url": "https://time.mk/c/8ee7233949/uapsen-40-godisnik-vo-strusko-kaj-mazot-e-pronajdena-marihuana.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/marihuana1-1.webp",
-      "date": "Wed, 23 Sep 2026 07:04:57 +0000"
+      "url": "https://time.mk/c/400dde00c6/maloleten-vnuk-ja-natepal-babata-vo-berovo-i-uste-kup-semejni-nasilstva.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2023/05/nasilstvo-ilustracija.jpg",
+      "date": "Wed, 23 Sep 2026 11:28:54 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Нападот врз гинеколог во скопската поликлиника „Букурешт“ го актуализира проблемот со насилството врз лекарите | Deutsche Welle",
+      "title": "Lidl ја проширува инвестицијата во Битола: Поставен камен-темелник за вториот маркет | Црнобело",
       "description": "",
-      "url": "https://time.mk/c/3761cfc9f8/napadot-vrz-ginekolog-vo-skopskata-poliklinika-bukurest-go-aktualizira-problemot-so-nasilstvoto-vrz-lekarite.html",
-      "image": "https://static.dw.com/image/68637093_301.jpg",
-      "date": "Wed, 23 Sep 2026 05:10:44 +0000"
+      "url": "https://time.mk/c/6f04ba3a6f/lidl-ja-prosiruva-investicijata-vo-bitola-postaven-kamen-temelnik-za-vtoriot-market.html",
+      "image": "https://www.crnobelo.com/images/stories/2026/09/1019/lidl-ja-proshiruva-investicijata-vo-bitola-postaven-kamen-temelnik-za-vtoriot-market-povekje.jpg",
+      "date": "Wed, 23 Sep 2026 13:24:57 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Отчет на градоначалникот Почивалец: Инфраструктурни проекции, поддршка за младите и нови економски мерки во Радовиш | Press24",
+      "title": "И Кичево мака мачи со фрлањето отпад во реката | Независен",
       "description": "",
-      "url": "https://time.mk/c/7c9d56dafd/otcet-na-gradonacalnikot-pocivalec-infrastrukturni-proekcii-poddrska-za-mladite-i-novi-ekonomski-merki-vo-radovis.html",
-      "image": "",
-      "date": "Tue, 22 Sep 2026 11:02:39 +0000"
+      "url": "https://time.mk/c/12fd2a7a9c/i-kicevo-maka-maci-so-frlanjeto-otpad-vo-rekata.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/reka-temnica-kicevo.jpg",
+      "date": "Wed, 23 Sep 2026 09:32:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Лидл“ ќе има и втор маркет во Битола | Независен",
+      "title": "НАПРАВИВМЕ СОВРЕМЕНА ДРАМА „ТРИ СЕСТРИ“ ШТО ПРАШУВА ШТО НЀ СПРЕЧУВА ДА ПОЧНЕМЕ ОДНОВО, ВЕЛИ ЕКИПАТА ПРЕД ПРЕМИЕРАТА ВО МНТ НА 25 СЕПТЕМВРИ | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/384463741b/lidl-ke-ima-i-vtor-market-vo-bitola.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2025/01/Lidl-1.jpeg",
-      "date": "Tue, 22 Sep 2026 09:30:37 +0000"
+      "url": "https://time.mk/c/ea2a99046e/napravivme-sovremena-drama-tri-sestri-sto-prasuva-sto-nѐ-sprecuva-da-pocneme-odnovo-veli-ekipata-pred-premierata-vo-mnt-na-25-septemvri.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/09/tri-sestri-i-nela-2.jpg",
+      "date": "Wed, 23 Sep 2026 11:52:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "КОНЦЕРТ ВО ЧЕСТ НА НИКОЛА БАДЕВ ВО КАВАДАРЦИ | Сакам да кажам",
+      "title": "Тапаните силно чукаа!Како поминавме на гала-промоцијата на новите цедеа кај браќата Нуне? | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/453a119f12/koncert-vo-cest-na-nikola-badev-vo-kavadarci.html",
-      "image": "https://smart.sdk.mk/wp-content/uploads/2026/09/nikola-badev-1-958x575.jpg",
-      "date": "Wed, 23 Sep 2026 06:56:56 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "КРИК се враќа во деведесеттите: хаос, капитализам и неонацистичко насилство на сцената на ФДУ | Трн",
-      "description": "",
-      "url": "https://time.mk/c/fdc802a551/krik-se-vraka-vo-devedesettite-haos-kapitalizam-i-neonacisticko-nasilstvo-na-scenata-na-fdu.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/09/810248336_2062037885084735_375060491965639861_n.jpg",
-      "date": "Wed, 23 Sep 2026 06:48:56 +0000"
+      "url": "https://time.mk/c/3e74ce290d/tapanite-silno-cukaa-kako-pominavme-na-gala-promocijata-na-novite-cedea-kaj-brakata-nune.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/nune-foto-1.jpg",
+      "date": "Wed, 23 Sep 2026 12:40:54 +0000"
     }
   ],
   "de": [
@@ -458,6 +458,24 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "The Latest 13-Inch iPad Air Is $180 Off Right Now",
+      "description": "This 13-inch iPad Air with Apple’s M4 chip is one of the best iPads to buy this year.",
+      "url": "https://lifehacker.com/tech/apple-13-inch-ipad-air-m4-chip-sale-september-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M36X906DMZHEJ0SV9EE9N19P/hero-image.png",
+      "date": "Wed, 23 Sep 2026 13:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "The Samsung Galaxy Z Fold 7 Is $150 Off Right Now",
+      "description": "Samsung’s latest foldable, the Galaxy Z Fold 8, is also $250 off right now.",
+      "url": "https://lifehacker.com/tech/galaxy-z-fold-7-phone-sale-september-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M36X0Y2AJGDYX10K2TDWYZ36/hero-image.png",
+      "date": "Wed, 23 Sep 2026 12:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "Your Fitness Tracker Has No Idea How Many Calories You’re Burning",
       "description": "It would be great if Fitbits and Apple Watches were accurate, but sorry—they're not.",
       "url": "https://lifehacker.com/you-cant-trust-your-fitness-tracker-on-calorie-burn?utm_medium=RSS",
@@ -619,21 +637,48 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "How to Claim Your Piece of Apple's $250 Million Siri Settlement",
-      "description": "If you bought an iPhone 15 Pro or iPhone 16, you may be eligible for a payout.",
-      "url": "https://lifehacker.com/tech/how-to-claim-your-piece-of-the-250-million-siri-settlement?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M325BBJ5C2G9DET5GJSXM4WM/hero-image.jpg",
-      "date": "Mon, 21 Sep 2026 14:15:00 +0000"
+      "source": "PCWorld",
+      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
+      "description": "If you’re looking for an affordable Windows machine under $500 , a blazing fast gaming beast for those intense matches, or a portable 2-in-1 for school or work, you’ve got plenty of great choices right now. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 80 laptops every year. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches",
+      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/550968-0-60014000-1790168869-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
+      "date": "Wed, 23 Sep 2026 13:07:27 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "You Can Get ExpressVPN on Sale for Just $50 Right Now",
-      "description": "It supports up to 12 devices and includes servers in more than 100 countries.",
-      "url": "https://lifehacker.com/tech/expressvpn-stacksocial-sale-september-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01KZNGGKECXG8ZEX82583D8A66/hero-image.png",
-      "date": "Mon, 21 Sep 2026 14:00:00 +0000"
+      "source": "PCWorld",
+      "title": "I’m a PC expert, but I still can’t break these 8 bad habits",
+      "description": "I have a confession to make: I don’t always do as I say. I’ve been a tech journalist for 20 years. Over those years, I’ve written countless how-to guides and advice columns, and I’ve made endless recommendations for how you should go about looking after, maintaining, and enhancing your PC. But I’m embarrassed to say, I don’t follow all of the tips and tricks I share, and I sometimes fall into the very traps I warn others against. It’s time to come clean and admit my mistakes. Here are some of my",
+      "url": "https://www.pcworld.com/article/2672904/im-a-pc-expert-but-i-still-cant-break-these-8-bad-habits.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/2672904-0-57958500-1790168428-Red-warning-cube-on-a-laptop-keyboard-in-darkened-room.jpg?quality=50&strip=all",
+      "date": "Wed, 23 Sep 2026 13:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "RAM is painfully expensive. Make these 10 gaming PC upgrades instead",
+      "description": "Any sports fan can tell you about the concept of a “rebuilding year,” when your team doesn’t have a realistic shot at the title, so they give the foundations of their franchise some much-needed TLC. I’m feeling that a lot at the moment, albeit in a twisted way. Because in terms of PC gaming performance, rebuilding is the only thing I’m not doing this year. If you have a budget for PC hardware, it’s probably busted in 2026 , and 2027 isn’t looking any better. Thanks, “AI,” for completely oblitera",
+      "url": "https://www.pcworld.com/article/3191609/ram-is-painfully-expensive-try-these-10-gaming-pc-upgrades-instead.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3191609-0-75513800-1790162132-image_3d4441.png",
+      "date": "Wed, 23 Sep 2026 11:15:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Buying a motherboard? Check this amazing site first",
+      "description": "Shopping for a motherboard can get surprisingly complicated. A board might advertise five M.2 slots and a stack of PCIe slots, which sounds great… until you find out that using one of them can slow down or disable another. Enter MoboMaps . This free site lays out a motherboard’s PCIe connections in a simple interactive map, showing how lanes run from the CPU and chipset to the GPU, M.2 slots, and other expansion slots. The visual layout is a much easier way to spot potential conflicts than diggi",
+      "url": "https://www.pcworld.com/article/3226929/before-you-buy-a-motherboard-check-this-site-first.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3226929-0-16020600-1790159469-Mobomaps.png",
+      "date": "Wed, 23 Sep 2026 10:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Get lifetime AI stock analysis and a portfolio builder for just $59.99",
+      "description": "TL;DR: Sterling Stock Picker combines stock analysis, personalized portfolio-building tools, and an AI financial coach in one platform, with lifetime access for $59.99. Stock research can quickly become a second job involving earnings reports, charts, risk calculations, and more browser tabs than anyone needs. Sterling Stock Picker is on sale right now for just $59.99 (MSRP $399) for a lifetime subscription, using technology to handle more of that legwork. Its patent-pending North Star technolog",
+      "url": "https://www.pcworld.com/article/3240484/get-lifetime-ai-stock-analysis-and-a-portfolio-builder-for-just-59-99.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3240484-0-26501300-1790150475-ssp_f23979.jpg?quality=50&strip=all",
+      "date": "Wed, 23 Sep 2026 08:00:00 +0000"
     },
     {
       "category": "eng",
@@ -679,51 +724,6 @@
       "url": "https://www.pcworld.com/article/3241203/the-baseus-blade-laptop-power-bank-is-35-percent-off-now-54-at-amazon.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3241203-0-79503000-1790089005-Baseus-Blade-Laptop-Power-Bank.jpg?quality=50&strip=all",
       "date": "Tue, 22 Sep 2026 14:55:22 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Windows 11’s audio bugs won’t be fixed until October",
-      "description": "Microsoft is still busy addressing the damage caused by updates released on September’s Patch Tuesday. The Windows audio issues in particular are proving stubborn and still remain unresolved. Don’t expect a fix soon, as Microsoft doesn’t intend to fix Windows 11’s audio issues until October’s Patch Tuesday. Until then, affected Windows 11 users will have to put up with various USB audio issues on their systems. As a reminder, here are the potential problems you may run into, which will remain un",
-      "url": "https://www.pcworld.com/article/3241102/windows-11s-audio-bugs-wont-be-fixed-until-october.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3241102-0-88872300-1790086711-Windows-11-settings-shortcut-volume-slider-mobile-hotspot.jpg?quality=50&strip=all",
-      "date": "Tue, 22 Sep 2026 14:18:13 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Ugreen DXP4800 GT review: This Ryzen NAS makes 10GbE affordable",
-      "description": "At a glance Expert's Rating Pros Two 10GbE ports, which can be aggregated via link aggregation Four SATA bays, two of which also accommodate U.2 SSDs RAM upgradeable to 64GB; ECC modules supported Metal chassis, magnetic dust filter, quiet fan UGOS Pro with Docker, VMs, and AI photo search Cons Full volume encryption not available Only 8GB of DDR4 installed as standard Our Verdict The DXP4800 GT is not a refreshed DXP4800, but a completely new design. Two 10GbE ports, U.2-compatible bays, and a ",
-      "url": "https://www.pcworld.com/article/3223782/ugreen-dxp4800-gt-review.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3223782-0-95122700-1790085650-Test-Ugreen-NAS-DXP4800GT.png",
-      "date": "Tue, 22 Sep 2026 14:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Windows’ September update breaks File History. The fix is a rollback",
-      "description": "Many users who have installed the latest September security patches for Windows have found that the “File History” feature no longer works—deleted or corrupted files can no longer be recovered. File History automatically saves copies of files, allowing users to recover accidentally deleted or corrupted files using older versions that were stored hours, days, or weeks ago. By default, File History backs up all folders in the user profile (Documents, Music, Pictures, Videos, and Desktop) to an ext",
-      "url": "https://www.pcworld.com/article/3241104/windows-september-update-breaks-file-history-the-fix-is-a-rollback.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3241104-0-85619500-1790083781-Windows-11-File-Explorer-Quick-Access-folders-Desktop-Music-Downloads-Videos-personal.jpg?quality=50&strip=all",
-      "date": "Tue, 22 Sep 2026 13:29:23 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "34 work-from-home tech upgrades actually worth your money",
-      "description": "Working from home is the dream for many people. But despite being more comfortable than a traditional office, your home office may not be optimally suited for productivity. Thankfully, it’s easy to upgrade your WFH life with a few choice products. With the right tools and equipment, your home workspace can be as efficient as you need it to be. Our entire newsroom has had to adjust to remote work over the past few years—like most of the world—so we’ve spent a long time testing and reviewing hardw",
-      "url": "https://www.pcworld.com/article/1443810/work-from-home-tech-gear-better-home-office.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/1443810-0-94088200-1790082054-Home-Office_Srijaroen.jpg?quality=50&strip=all",
-      "date": "Tue, 22 Sep 2026 13:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
-      "description": "If you’re looking for an affordable Windows machine under $500 , a blazing fast gaming beast for those intense matches, or a portable 2-in-1 for school or work, you’ve got plenty of great choices right now. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 80 laptops every year. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches",
-      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/550968-0-08947900-1790081023-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
-      "date": "Tue, 22 Sep 2026 12:43:23 +0000"
     }
   ],
   "starwars": [
@@ -811,6 +811,15 @@
     {
       "category": "starwars",
       "source": "Star Wars Union",
+      "title": "Jede Reise beginnt mit dem ersten Schritt: Das Lucas-Museum ist eröffnet",
+      "description": "Nach der großen Eröffnungsgala für die Prominenz, ist das Museum nun auch für Gäste aus aller Welt geöffnet.",
+      "url": "https://starwars-union.de/jede-reise-beginnt-mit-dem-ersten-schritt-das-lucas-museum-ist-eroeffnet/",
+      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/09/Lucas-Museum.jpg",
+      "date": "Wed, 23 Sep 2026 13:17:48 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars Union",
       "title": "Gewinnspiel: 2×2 Wochenendtickets für die HiroCon",
       "description": "Ich lehne mich mal aus dem Fenster und behaupte, dass viele unsere Leser und Leserinnen nicht nur Star-Wars-Fans sind sondern auch mit vielen anderen Themen, die gemeinhin als „nerdig“ bezeichnet werden, einiges anfangen können. Stimmt das? Wenn ja, dann haben wir hier etwas für euch. Denn in Zusammenarbeit mit den Veranstaltern, können wir euch 2x […]",
       "url": "https://starwars-union.de/gewinnspiel-2x2-wochenendtickets-fuer-die-hirocon/",
@@ -888,15 +897,6 @@
       "url": "https://starwars-union.de/hinter-den-kulissen-die-effekte-von-the-mandalorian-and-grogu/",
       "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/09/The-Mandalorian-and-Grogu-Zeb-Effekte.jpg",
       "date": "Thu, 03 Sep 2026 09:38:00 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "Neu auf Disney+: The Mandalorian and Grogu",
-      "description": "Das ist der Weg: Das Kinoabenteuer des Mandalorianers und seines Ziehsohns erwartet euch seit heute auf Disney+. Der Film ist in 2 Fassungen verfügbar, der normalen Kinofassung und der IMAX-Enhanced-Version. Wir wünschen abermals oder erstmals gute Unterhaltung.",
-      "url": "https://starwars-union.de/neu-auf-disney-the-mandalorian-and-grogu/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/09/The-Mandalorian-and-Grogu-auf-Disney.jpg",
-      "date": "Wed, 02 Sep 2026 09:31:29 +0000"
     },
     {
       "category": "starwars",
