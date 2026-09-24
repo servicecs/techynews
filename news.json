@@ -1,6 +1,60 @@
 {
-  "updated": "2026-09-24T09:06:09.275339+00:00",
+  "updated": "2026-09-24T14:19:29.917985+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "„Мотоцентар“ ги претстави брендовите Dunlop и Falken: Нова ера на супериорни перформанси и безбедност на патиштата",
+      "description": "Скопје, 24.09.2026 година – Компанијата „Мотоцентар“ официјално ја презентираше соработката со водечкиот глобален производител на гуми „Sumitomo Rubber Industries“ (SRI). Во рамки на презентацијата која се одржа денес во хотелот „DoubleTree by Hilton“ во Скопје, беа претставени брендовите Dunlop и Falken пред партнерите, соработниците и медиумите. Со ова партнерство, „Мотоцентар“ ја зајакнува позицијата на пазарот, […]",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/motocentar-dunlop-i-falken/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Motocentar_Prezentacija-Dunlop-i-Falken_9.20262-150x150.webp",
+      "date": "Thu, 24 Sep 2026 14:10:39 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Qualcomm објави рана верзија на Linux за лаптопите со Snapdragon X2, засега наменета само за програмерите и одржувачите на дистрибуции",
+      "description": "Qualcomm објави рана верзија за програмери на Linux за лаптопите со процесорите Snapdragon X2. Таа е наменета за програмерите на кернелот, одржувачите на дистрибуции и инженерите за хардвер, а не за обичните корисници. Верзијата што ќе може едноставно да се инсталира ќе дојде подоцна, кога дистрибуциите ќе ги преземат промените. Засега основа е Debian 13 „Trixie“ со […]",
+      "url": "https://smartportal.mk/novosti/kompjuteri/qualcomm-rana-verzija-linux-laptopi-snapdragon-x2/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/HS7dYE-W8AAvbnt-150x150.webp",
+      "date": "Thu, 24 Sep 2026 13:48:25 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Microsoft ги претстави новите Surface Pro од 12 инчи и Surface Laptop од 13 инчи со побрз процесор, но и со повисоки цени",
+      "description": "Microsoft на Snapdragon Summit ги претстави новите Surface Pro од 12 инчи и Surface Laptop од 13 инчи, најмалите уреди од линијата Surface. Двата уреди сега користат процесор Snapdragon X2 Plus, наместо Snapdragon X Plus кај претходната генерација. Според тестовите на Microsoft, во однос на претходната генерација графиката е над 60% побрза, локалната вештачка интелигенција до 95% […]",
+      "url": "https://smartportal.mk/novosti/kompjuteri/microsoft-surface-pro-12-inci-i-surface-laptop-%d0%be%d0%b4-13-inci/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/SURFACE-FY27-CONS-C-Hero-Image-1600x900-1-150x150.webp",
+      "date": "Thu, 24 Sep 2026 12:02:47 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Google призна дека Gemini неовластено пристапил до системите на три компании за време на безбедносен тест",
+      "description": "Google потврди дека неговиот AI модел Gemini во мај неовластено пристапил до компјутерските системи на три надворешни компании. Инцидентот се случил за време на безбедносен тест, а компанијата го објави дури минатиот петок. Во еден случај Gemini пристапил со повторено погодување на лозинката, а во другите два со податоци за најава што ги пронашол во […]",
+      "url": "https://smartportal.mk/novosti/ai/gemini-neovlasteno-pristapil-do-tri-kompanii/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/04/Gemini_for_MacOS_01_Hero_16x9.width-1200.format-webp-150x150.webp",
+      "date": "Thu, 24 Sep 2026 10:17:10 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Xiaomi ги претстави 18 Pro и 18 Pro Max со екран заштитен од „туѓи погледи“, две камери од 200 мегапиксели и батерија до 8.500 mAh",
+      "description": "Само ден откако Qualcomm ги претстави новите Snapdragon процесори, Xiaomi ги објави Xiaomi 18 Pro и 18 Pro Max, кои ги претставува како прва серија телефони со двата нови процесори. 18 Pro го користи стандардниот Snapdragon 8 Elite Gen 6, а 18 Pro Max верзијата Extreme. Најинтересната новост е екранот за приватност, односно екранот кој […]",
+      "url": "https://smartportal.mk/novosti/smartfoni/xiaomi-18-pro-i-18-pro-max/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/xiaomi-18-pro-f-150x150.webp",
+      "date": "Thu, 24 Sep 2026 09:43:27 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Qualcomm ги претстави двата нови Snapdragon процесори за идната генерација врвни телефони, со јадра што достигнуваат 5GHz",
+      "description": "Qualcomm на овогодинешниот Snapdragon Summit ги претстави Snapdragon 8 Elite Gen 6 и Snapdragon 8 Elite Extreme Gen 6, новите процесори за врвните Android телефони. Двата процесори се изработени во 2nm процес и го делат истиот осумјадрен Oryon „CPU“. Две од јадрата работат на највисоко 5GHz, што според Qualcomm е прв пат кај мобилен процесор, […]",
+      "url": "https://smartportal.mk/novosti/smartfoni/qualcomm-snapdragon-8-elite-gen-6-i-extreme-gen-6/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Snapdragon8EliteExtremeGen6andSnapdragon8EliteGen6MobilePlatforms-150x150.webp",
+      "date": "Thu, 24 Sep 2026 09:13:46 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -39,237 +93,183 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "The Founder Games организира Live Challenge на Startup Revolution AI Summit",
-      "description": "Околу 20 стартапи ќе се соочат со предизвик во живо пред инвеститори, претприемачи, инфлуенсери, новинари и публика, без сигурноста на класичната презентација и со само една задача: да успеат да привлечат внимание и да убедат вистински луѓе во вредноста на она што го градат. Од 1 до 4 октомври, Скопје ќе биде домаќин на Startup Revolution […]",
-      "url": "https://smartportal.mk/novosti/nastani/the-founder-games-live-challenge-startup-revolution-ai-summit/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/fg-PR-text1-150x150.webp",
-      "date": "Wed, 23 Sep 2026 18:11:32 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "„Макпетрол“ и ФФМ потпишаа договор за поддршка на македонската фудбалска репрезентација",
-      "description": "„Макпетрол“ ја продолжува својата долгогодишна определба за поддршка на македонскиот спорт, започнувајќи соработка со Фудбалската федерација на Македонија и со поддршка за македонската А-репрезентација. Во текот на своето повеќедецениско постоење, компанијата континуирано вложува во спортот и во спортистите кои ја претставуваат земјата на најголемите домашни и меѓународни натпреварувања. Почетокот на соработката беше одбележан со потпишување […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/makpetrol-ffm-dogovor-poddrska-fudbalska-reeprezentacija/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/makpetrol_ffm_01-150x150.webp",
-      "date": "Wed, 23 Sep 2026 12:55:45 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Motorola го претстави signature 27, еден од првите телефони со најновиот Snapdragon процесор и прв со звук од Bang & Olufsen",
-      "description": "Откако неодамна го покажа изгледот на својот нов телефон, Motorola на овогодинешниот Snapdragon Summit ги откри и првите детали за motorola signature 27. Уредот е еден од првите телефони со Snapdragon 8 Elite Extreme Gen 6, процесорот што Qualcomm го претстави истиот ден. Со ова се потврди и претпоставката дека телефонот ќе користи процесор од најновата серија […]",
-      "url": "https://smartportal.mk/novosti/smartfoni/motorola-signature-27/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/motorola-signature-lifestyle-2-150x150.webp",
-      "date": "Wed, 23 Sep 2026 12:27:07 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Anthropic го претстави Claude Opus 5.5 кој е помоќен, побрз и 40% поевтин за користење од својот претходник",
-      "description": "Anthropic го претстави Claude Opus 5.5, прв модел од новата фамилија Claude 5.5. Според компанијата, моделот на повеќето задачи работи на ниво на Claude Fable 5.1, а при типична употреба е 40% поевтин од Opus 5. Цената за милион влезни „токени“ е 4 долари, а за излезни 20 долари, што е 20% помалку од Opus […]",
-      "url": "https://smartportal.mk/novosti/ai/anthropic-claude-opus-5-5/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/brecht-corbeel-j8ummUQNRXc-unsplash-f-150x150.webp",
-      "date": "Wed, 23 Sep 2026 11:56:59 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Apple наводно развива уред за следење на здравјето и физичката активност без екран конкуренција на Whoop и сличните",
-      "description": "Apple работи на уред за следење на здравјето и физичката активност без екран, кој би бил конкуренција на популарниот Whoop. Ова го објави Bloomberg, според кој компанијата веќе развива прототипови, но сè уште не одлучила дали производот ќе го пушти во продажба. Прототиповите се состојат од тенка лента од ткаенина и модул со сензори. Проектот засега […]",
-      "url": "https://smartportal.mk/novosti/uredi/apple-fitness-ured-bez-ekran/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/andres-urena-V7UoMNWsYsg-unsplash-f-150x150.webp",
-      "date": "Wed, 23 Sep 2026 11:29:02 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "OpenAI ги претстави GPT-6 Sol и Luna – поевтини и побрзи модели што носат дел од можностите на Astra со двојно пониски цени",
-      "description": "На почетокот на септември OpenAI го претстави GPT-6 Astra, модел што компанијата го опиша како најинтелигентен досега. Сега, според официјалниот блог на OpenAI, до него доаѓаат GPT-6 Sol и GPT-6 Luna. Двата модела се наменети за секојдневна работа и за задачи за кои не е потребна целата моќ на Astra. Моделите се тренирани со слични […]",
-      "url": "https://smartportal.mk/novosti/ai/openai-gpt-6-sol-i-luna/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/gpt-6-sol-luna-f-150x150.webp",
-      "date": "Wed, 23 Sep 2026 10:45:00 +0000"
+      "source": "Time.mk - All",
+      "title": "Крај на дилемите: пензиите ќе се зголемат законски за 3 отсто | Независен",
+      "description": "",
+      "url": "https://time.mk/c/c6c013a100/kraj-na-dilemite-penziite-ke-se-zgolemat-zakonski-za-3-otsto.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/04/Luge-na-kej-na-sonce-penzioneri-vreme-zima-1-bg.jpg",
+      "date": "Thu, 24 Sep 2026 14:00:39 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Температурите паднаа под нулата: во Берово утрово „камен ладно“ со минус 2 степена | Слободен Печат",
+      "title": "Нема лекарска грешка за случајот со парализираната родилка од Струмица, утврдила Стручната комисија | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/c2bb04c2f6/temperaturite-padnaa-pod-nulata-vo-berovo-utrovo-kamen-ladno-so-minus-2-stepena.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2020/08/berovo-300x148.jpg",
-      "date": "Thu, 24 Sep 2026 08:39:02 +0000"
+      "url": "https://time.mk/c/e14bf07673/nema-lekarska-greska-za-slucajot-so-paraliziranata-rodilka-od-strumica-utvrdila-strucnata-komisija.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/09/Klekovski-pres.webp",
+      "date": "Thu, 24 Sep 2026 13:18:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Лидерите на две од водечките светски компании за вештачка интелигенција побараа регулација, во спротива се загрозува глобалната безбедност | еМагазин",
+      "title": "Љупчо Пецов – Ѓаволот признал вина и добил условна казна | Колегиум",
       "description": "",
-      "url": "https://time.mk/c/70a8076b31/liderite-na-dve-od-vodeckite-svetski-kompanii-za-vestacka-inteligencija-pobaraa-regulacija-vo-sprotiva-se-zagrozuva-globalnata-bezbednost.html",
-      "image": "https://emagazin.mk/wp-content/uploads/2025/08/ai-vestacka-inteligencija1-300x169.jpg",
-      "date": "Thu, 24 Sep 2026 08:10:50 +0000"
+      "url": "https://time.mk/c/277a5abeba/ljupco-pecov-gjavolot-priznal-vina-i-dobil-uslovna-kazna.html",
+      "image": "https://kolegium.mk/wp-content/uploads/2026/05/krivicen-sud-skopje-prinscreen-300x200.png",
+      "date": "Thu, 24 Sep 2026 13:42:53 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Пет нови случаи на западнонилска треска изминатата недела, досега вкупно 70 регистрирани во 2026, според последниот извештај на ИЈЗ | Макфакс",
+      "title": "Платформата за смена на Филипче „удри“ и по ЗНАМ, Заев, Црвенковски и ВМРО-ДПМНЕ | Независен",
       "description": "",
-      "url": "https://time.mk/c/4b04349030/pet-novi-slucai-na-zapadnonilska-treska-izminatata-nedela-dosega-vkupno-70-registrirani-vo-2026-spored-posledniot-izvestaj-na-ijz.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2020/06/106334394_662790667633414_2690237943835592150_n-1.jpg",
-      "date": "Thu, 24 Sep 2026 07:02:49 +0000"
+      "url": "https://time.mk/c/daac17a7e6/platformata-za-smena-na-filipce-udri-i-po-znam-zaev-crvenkovski-i-vmro-dpmne.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/platforma-sdsm-1024x1024.jpg",
+      "date": "Thu, 24 Sep 2026 14:14:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "СКАНДАЛ ВО АВСТРАЛИЈА: Агент на ОпенАИ неовластено упаднал во здравствениот систем во јуни, компанијата ја известила Владата дури во септември | Пари",
+      "title": "Уште нема отчет: „Дејвид Гета за четири дена не сте можеле да го донесете“, му рече пратеникот Оливер Спасовски на заменик-министерот за финансии | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/e6eebab847/skandal-vo-avstralija-agent-na-openai-neovlasteno-upadnal-vo-zdravstveniot-sistem-vo-juni-kompanijata-ja-izvestila-vladata-duri-vo-septemvri.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/09/AI-2-1.jpg",
-      "date": "Thu, 24 Sep 2026 06:56:38 +0000"
+      "url": "https://time.mk/c/611ab6f8f1/uste-nema-otcet-dejvid-geta-za-cetiri-dena-ne-ste-mozele-da-go-donesete-mu-rece-pratenikot-oliver-spasovski-na-zamenik-ministerot-za-finansii.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/download-300x300.png",
+      "date": "Thu, 24 Sep 2026 11:56:40 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Делегација на Групата за пријателство Франција во посета на Македонија | Економија и Бизнис",
+      "title": "Лукаревска до Јаневска: Кога сите ученици од училиштето „Киро Глигоров“ ќе се вратат на настава со физичко присуство? | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/9c1541aea1/delegacija-na-grupata-za-prijatelstvo-francija-vo-poseta-na-makedonija.html",
-      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/09/france_flag-1024x576.jpg",
-      "date": "Thu, 24 Sep 2026 08:54:55 +0000"
+      "url": "https://time.mk/c/43d23cb414/lukarevska-do-janevska-koga-site-ucenici-od-ucilisteto-kiro-gligorov-ke-se-vratat-na-nastava-so-fizicko-prisustvo.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/sanja-lukarevska-1.webp",
+      "date": "Thu, 24 Sep 2026 12:32:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Видео) Кузеска: Мега скандал: Приватна фирма плаќа лобисти во САД за Мицкоски! | Скопје1",
+      "title": "Се намалуваат коефициентите за платите на функционерите, предлогот оди пред пратениците | 4NEWS",
       "description": "",
-      "url": "https://time.mk/c/5412deffb5/video-kuzeska-mega-skandal-privatna-firma-plaka-lobisti-vo-sad-za-mickoski.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/85442/conversions/text-max.jpg",
-      "date": "Thu, 24 Sep 2026 08:40:38 +0000"
+      "url": "https://time.mk/c/54054c8d87/se-namaluvaat-koeficientite-za-platite-na-funkcionerite-predlogot-odi-pred-pratenicite.html",
+      "image": "https://4news.mk/wp-content/uploads/2023/02/pari-8.webp",
+      "date": "Thu, 24 Sep 2026 11:44:42 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Возило во отпад, инспектори за кои немало обезбедено плата — што најдоа ревизорите во ДПИ? | Слободен Печат",
+      "title": "Интервју: Едлира Мука, извршна директорка на BALFIN Group | Црнобело",
       "description": "",
-      "url": "https://time.mk/c/e92e14e10a/vozilo-vo-otpad-inspektori-za-koi-nemalo-obezbedeno-plata-sto-najdoa-revizorite-vo-dpi.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2021/02/drzhaven-zavod-za-revizija-na-makedonija-300x185.jpg",
-      "date": "Thu, 24 Sep 2026 08:34:52 +0000"
+      "url": "https://time.mk/c/ee5072e32c/intervju-edlira-muka-izvrsna-direktorka-na-balfin-group.html",
+      "image": "https://www.crnobelo.com/images/stories/2026/09/72/intervju-elira-muka-izvrsna-direktorka-na-balfin-group-povekje.jpg",
+      "date": "Thu, 24 Sep 2026 13:02:58 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "203 МИЛИОНИ ЕВРА СЕКОЈ ДЕН ОСТАВААТ НА ПУМПИТЕ: Горивото во ЕУ 23,8% поскапо во однос на лани, во Бугарија најголем раст на цените | Пари",
+      "title": "Германските работодавачи предупредуваат: Намалувањето на квотата за работници од Западен Балкан ќе го продлабочи недостигот од работна сила | Deutsche Welle",
       "description": "",
-      "url": "https://time.mk/c/6ca9bb73af/203-milioni-evra-sekoj-den-ostavaat-na-pumpite-gorivoto-vo-eu-23-8-poskapo-vo-odnos-na-lani-vo-bugarija-najgolem-rast-na-cenite.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/09/Gorivo-tocenje.jpg",
-      "date": "Thu, 24 Sep 2026 07:24:36 +0000"
+      "url": "https://time.mk/c/4b7df66cbc/germanskite-rabotodavaci-predupreduvaat-namaluvanjeto-na-kvotata-za-rabotnici-od-zapaden-balkan-ke-go-prodlaboci-nedostigot-od-rabotna-sila.html",
+      "image": "https://static.dw.com/image/47511428_301.jpg",
+      "date": "Thu, 24 Sep 2026 13:26:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Изгоре одлагалиште за отпад во близина на Риека – граѓаните предупредени за лош воздух | Независен",
+      "title": "Вучиќ од ОН ја обвини Хрватска за величење на нацистичкото минато | Рацин",
       "description": "",
-      "url": "https://time.mk/c/ed6b80af06/izgore-odlagaliste-za-otpad-vo-blizina-na-rieka-gragjanite-predupredeni-za-los-vozduh.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/pozar-rieka-otpad.jpg",
-      "date": "Thu, 24 Sep 2026 07:46:49 +0000"
+      "url": "https://time.mk/c/ed8af10429/vucik-od-on-ja-obvini-hrvatska-za-velicenje-na-nacistickoto-minato.html",
+      "image": "https://racin.mk/wp-content/uploads/2026/09/vucic-un-832x480.jpg?x12299",
+      "date": "Thu, 24 Sep 2026 14:06:51 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ОН – глобална арена каде што еден свет ја губи старата рамнотежа | Нова Македонија",
+      "title": "Трамп и Си ја делат картата, Европа останува пред вратата | Трн",
       "description": "",
-      "url": "https://time.mk/c/ff14c71d76/on-globalna-arena-kade-sto-eden-svet-ja-gubi-starata-ramnoteza.html",
-      "image": "https://novamakedonija.com.mk/wp-content/uploads/2026/09/on-za-naslovna-epa-150x150.jpg",
-      "date": "Thu, 24 Sep 2026 08:12:47 +0000"
+      "url": "https://time.mk/c/27509174f4/tramp-i-si-ja-delat-kartata-evropa-ostanuva-pred-vratata.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/09/tramp-si.webp",
+      "date": "Thu, 24 Sep 2026 13:06:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВИДЕО | Експлозии го разбудија Киев — најмалку двајца загинаа по жесток руски напад | Слободен Печат",
+      "title": "Дрон влезе во Романија од Украина: Подигнати осум авиони, леталото се урна/ВИДЕО | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/ca2e9e0193/video-eksplozii-go-razbudija-kiev-najmalku-dvajca-zaginaa-po-zestok-ruski-napad.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/Kiev-napadi-1-300x166.jpg",
-      "date": "Thu, 24 Sep 2026 07:34:49 +0000"
+      "url": "https://time.mk/c/0f4e92edcc/dron-vleze-vo-romanija-od-ukraina-podignati-osum-avioni-letaloto-se-urna-video.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/dron-padnat-sept26-epa-4.jpg",
+      "date": "Thu, 24 Sep 2026 11:36:40 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "НАПАД ВРЗ ЕВРОПА ОД МОРЕ, РУСИЈА ГИ НИШАНИ ФРАНЦИЈА, ШПАНИЈА И ИТАЛИЈА Објавена е мапата на досегот на дронот „Gerbera“ | +инфо",
+      "title": "Жителите на Пчиња и околните села бараат решение за чадот од депонијата Краста | Либертас",
       "description": "",
-      "url": "https://time.mk/c/367dd60260/napad-vrz-evropa-od-more-rusija-gi-nisani-francija-spanija-i-italija-objavena-e-mapata-na-dosegot-na-dronot-gerbera.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2026/09/napd23.jpg",
-      "date": "Thu, 24 Sep 2026 08:39:02 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Стефковски: Ноќе работиме за преку ден да има помалку гужва | Press24",
-      "description": "",
-      "url": "https://time.mk/c/f9a8722ee5/stefkovski-noke-rabotime-za-preku-den-da-ima-pomalku-guzva.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/72993.jpg",
-      "date": "Thu, 24 Sep 2026 08:18:53 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Општина Центар распиша јавен повик зa „Обука за финансиска писменост на жените“ | Макфакс",
-      "description": "",
-      "url": "https://time.mk/c/4b590a51b5/opstina-centar-raspisa-javen-povik-za-obuka-za-finansiska-pismenost-na-zenite.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/o.webp",
-      "date": "Thu, 24 Sep 2026 08:36:37 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Обвинителството ја потврди „Филтер 2“: Сомнежи за криумчарење и царинска измама, огромна штета за буџетот | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/11ca2e14eb/obvinitelstvoto-ja-potvrdi-filter-2-somnezi-za-kriumcarenje-i-carinska-izmama-ogromna-steta-za-budzetot.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/45021/conversions/eZy-Watermark_26-08-2023_12-39-39-2680PM-max.jpg",
-      "date": "Thu, 24 Sep 2026 08:22:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ВИДЕО: Малолетник го запалил македонското знаме и се фалел со видео – МВР го расчисти случајот | Press24",
-      "description": "",
-      "url": "https://time.mk/c/cd7f73df74/video-maloletnik-go-zapalil-makedonskoto-zname-i-se-falel-so-video-mvr-go-rascisti-slucajot.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/72947.png",
-      "date": "Thu, 24 Sep 2026 06:40:47 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Осуденици учат угостителски вештини во затворската кујна во штипскиот затвор | Фокус",
-      "description": "",
-      "url": "https://time.mk/c/9e9212f0d1/osudenici-ucat-ugostitelski-vestini-vo-zatvorskata-kujna-vo-stipskiot-zatvor.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/09/FB_IMG_1790236120358.jpg",
-      "date": "Thu, 24 Sep 2026 08:01:12 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Трет уписен рок за студенти бруцоши на УКЛО Битола | Проверено",
-      "description": "",
-      "url": "https://time.mk/c/a73ac035bc/tret-upisen-rok-za-studenti-brucosi-na-uklo-bitola.html",
+      "url": "https://time.mk/c/9c83b05575/zitelite-na-pcinja-i-okolnite-sela-baraat-resenie-za-cadot-od-deponijata-krasta.html",
       "image": "",
-      "date": "Thu, 24 Sep 2026 07:38:49 +0000"
+      "date": "Thu, 24 Sep 2026 14:10:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Објавен е Конкурсот за доделување на државната награда „Св. Климент Охридски“ во 2026 година | Скопје1",
+      "title": "ФРЛАЛ ОТПАД НА УЛИЦА, СЕГА ЌЕ МОРА ДА ГО СОБЕРЕ Казнет скопјанецот снимен во Ченто | +инфо",
       "description": "",
-      "url": "https://time.mk/c/ed826a9787/objaven-e-konkursot-za-dodeluvanje-na-drzavnata-nagrada-sv-kliment-ohridski-vo-2026-godina.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/67821/conversions/ministerstvo-za-kultura-5-max.jpg",
-      "date": "Thu, 24 Sep 2026 08:46:50 +0000"
+      "url": "https://time.mk/c/802e6e5e28/frlal-otpad-na-ulica-sega-ke-mora-da-go-sobere-kaznet-skopjanecot-snimen-vo-cento.html",
+      "image": "https://plusinfo.mk/wp-content/uploads/2026/08/cair-gjubre-kabast-otpad.jpg",
+      "date": "Thu, 24 Sep 2026 13:10:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Слем-поезија по улиците на Скопје по повод Светскиот ден на слемот | Макфакс",
+      "title": "Операција „Филтер” – Голема акција на Царинската управа: Разбиен коплексен систем за шверц на големи количини цигари | 24Инфо",
       "description": "",
-      "url": "https://time.mk/c/785bd2e29c/slem-poezija-po-ulicite-na-skopje-po-povod-svetskiot-den-na-slemot.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/slem-2.webp",
-      "date": "Thu, 24 Sep 2026 08:06:49 +0000"
+      "url": "https://time.mk/c/84ee7e6ef6/operacija-filter-golema-akcija-na-carinskata-uprava-razbien-kopleksen-sistem-za-sverc-na-golemi-kolicini-cigari.html",
+      "image": "https://24info.mk/wp-content/uploads/2026/09/image_2026-09-24_150931454-1024x602.png",
+      "date": "Thu, 24 Sep 2026 13:12:37 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Директорите на фирмите на Чифлигароски добија затворски казни додека тој беше во бегство – сите беа со празни сметки | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/81bd195704/direktorite-na-firmite-na-cifligaroski-dobija-zatvorski-kazni-dodeka-toj-bese-vo-begstvo-site-bea-so-prazni-smetki.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2025/10/REK-Bitola-5-300x200.jpg",
+      "date": "Thu, 24 Sep 2026 11:02:48 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Општина Аеродром: Се одбележува Европската недела на спортот | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/180c408feb/opstina-aerodrom-se-odbelezuva-evropskata-nedela-na-sportot.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/evropska-nedela-na-sportot5.webp",
+      "date": "Thu, 24 Sep 2026 10:08:59 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "ПОЧНА УРЕДУВАЊЕТО НА ПЛАНИНАРСКАТА ПАТЕКА НИЖЕ ПОЛЕ-ГОЛЕМО ЕЗЕРО-БРАЈЧИНО НА ПЕЛИСТЕР | Сакам да кажам",
+      "description": "",
+      "url": "https://time.mk/c/d441bdfd4b/pocna-ureduvanjeto-na-planinarskata-pateka-nize-pole-golemo-ezero-brajcino-na-pelister.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/09/pesacka-pateka-nize-pole.jpg",
+      "date": "Thu, 24 Sep 2026 10:07:13 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "ДОГОДИНА ЌЕ ОДАМ ВО ПЕНЗИЈА И ЌЕ БИДАМ НАЈАКТИВНИОТ ПЕНЗИОНЕР, РЕЧЕ ИГОР ЏАМБАЗОВ ПРИМАЈЌИ ЈА НАГРАДАТА „ВАСИЛ ИЉОСКИ“ | Сакам да кажам",
+      "description": "",
+      "url": "https://time.mk/c/a025fa20b6/dogodina-ke-odam-vo-penzija-i-ke-bidam-najaktivniot-penzioner-rece-igor-dzambazov-primajki-ja-nagradata-vasil-iljoski.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/09/igor-dzambazov-kumanovo-24.9.2026.jpg",
+      "date": "Thu, 24 Sep 2026 11:36:40 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "(Видео) Магично: „Си љубела, ќе љубиш“ – нова песна на Пијан Славеј, Каролина Гочева и Драги Иванов | еМагазин",
+      "description": "",
+      "url": "https://time.mk/c/15f20a692d/video-magicno-si-ljubela-ke-ljubis-nova-pesna-na-pijan-slavej-karolina-goceva-i-dragi-ivanov.html",
+      "image": "https://emagazin.mk/wp-content/uploads/2026/09/maxresdefault-300x169.jpg",
+      "date": "Thu, 24 Sep 2026 14:10:50 +0000"
     }
   ],
   "de": [
@@ -277,9 +277,9 @@
       "category": "de",
       "source": "Tarnkappe",
       "title": "Streaming-Piraterie: Piraten wechseln vom Firestick zu Social Media",
-      "description": "Streaming-Piraterie ist gerade im Begriff, sich zu verändern. Galten bisher modifizierte Firesticks und illegale IPTV-Abos als häufigste Zugänge für Streaming-Piraterie, rücken gemäß einer Studie von BeStreamWise nun soziale Netzwerke in den Mittelpunkt. Die aktuelle britische Untersuchung kommt zu dem Schluss, dass mehr als die Hälfte der aktiven Nutzer illegaler Streams in Großbritannien über Social Media […] Der Artikel Streaming-Piraterie: Piraten wechseln vom Firestick zu Social Media ersch",
-      "url": "https://tarnkappe.info/artikel/iptv/streaming-piraterie-firestick-social-media-333780.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/streaming-piraterie-firestick-social-media",
+      "description": "Firestick verliert bei Streaming-Piraterie an Bedeutung: Social Media wird zum wichtigsten Zugang zu illegalen Streams in Großbritannien. Der Artikel Streaming-Piraterie: Piraten wechseln vom Firestick zu Social Media erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/streaming/streaming-piraterie-firestick-social-media-333780.html",
+      "image": "https://cdn.tarnkappe.info/wp-content/uploads/Use-AI-Image-Sep-23-2026-19_02_44.png",
       "date": "Wed, 23 Sep 2026 17:09:45 +0000"
     },
     {
@@ -458,6 +458,33 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "The Best Power Tools to Gift Your Favorite DIYer",
+      "description": "Whether they're a beginner or an expert, you can give them the ultimate gift this year.",
+      "url": "https://lifehacker.com/home/best-tools-gifts?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M38SH6CC90SJHMQSZ1WM0YDQ/hero-image.png",
+      "date": "Thu, 24 Sep 2026 14:00:22 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Battery-Powered Blink Floodlight Camera Is Just $40 Right Now",
+      "description": "The Blink Outdoor 4 Floodlight Camera is $39.99 at Amazon, down from $99.99.",
+      "url": "https://lifehacker.com/tech/blink-outdoor-4-floodlight-camera-sale-september-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M39C30CHN8MABW05PVT1QGW0/hero-image.jpg",
+      "date": "Thu, 24 Sep 2026 13:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Complete Philips Smart Door Lock Setup Is 27% Off Right Now",
+      "description": "This Philips door lock bundle connects directly to wifi—no separate hub required.",
+      "url": "https://lifehacker.com/tech/phillips-smart-lock-bundle-deal-september-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01KX083GXD98P7DSWZWVE3VTEN/hero-image.jpg",
+      "date": "Thu, 24 Sep 2026 12:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "I Tried Siri AI on My New Apple Watch, and I'm Frustrated",
       "description": "When it works, it's great—but it rarely works smoothly.",
       "url": "https://lifehacker.com/tech/i-tried-siri-ai-on-the-apple-watch-and-im-frustrated?utm_medium=RSS",
@@ -610,30 +637,66 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "This Fitbit Smartwatch for Kids Is $65 Off Right Now",
-      "description": "This kid-friendly smartwatch has GPS tracking and movement-based games.",
-      "url": "https://lifehacker.com/tech/fitbit-google-ace-lte-kids-smartwatch-deal-september-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M34A0765JDB913X2YHWE8J21/hero-image.jpg",
-      "date": "Tue, 22 Sep 2026 12:30:31 +0000"
+      "source": "PCWorld",
+      "title": "Can’t get started on a daunting task? Try this simple ChatGPT prompt",
+      "description": "My goal was a simple one: Go to the DMV and replace my old driver’s license with a Real ID one. A tad annoying, yes, but not all that difficult. Yet somehow, I just couldn’t get it started. Maybe it was because we’d just moved to a new apartment, or maybe it was work, or the state of the world, or the fact that I hadn’t had lunch yet. For a million reasons I didn’t fully understand, I just wouldn’t — couldn’t — deal with the Real ID thing. Now, one solution to my Real ID roadblock could’ve been ",
+      "url": "https://www.pcworld.com/article/3242435/cant-get-started-on-a-task-try-this-simple-chatgpt-prompt.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3242435-0-01863500-1790258432-ChatGPT-work.jpg?quality=50&strip=all",
+      "date": "Thu, 24 Sep 2026 14:00:00 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "Peloton Just Launched Its First Foldable and Most Affordable Treadmill to Date",
-      "description": "Peloton's new treadmills span a wide range, from a space-saving $2,195 foldable to a $6,695 powerhouse.",
-      "url": "https://lifehacker.com/health/peloton-new-treadmills-launch?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M32R964DDS6ZE4TQBX9HY9Q6/hero-image.png",
-      "date": "Tue, 22 Sep 2026 12:00:00 +0000"
+      "source": "PCWorld",
+      "title": "Microsoft is killing its ‘Companion’ taskbar mini-apps in December",
+      "description": "Back in August 2025, Microsoft launched a new kind of software initiative called “Microsoft 365 Companions,” which were like mini-apps that lived within the taskbar and served a middle-of-the-road solution between simple notifications and complex Widgets. When they first launched, there were three Microsoft 365 Companions immediately available: People, which showed your favorite contacts and let you search your full contact list; Files, which could search, preview, and share cloud files without ",
+      "url": "https://www.pcworld.com/article/3243331/microsoft-is-killing-its-companion-taskbar-mini-apps-in-december.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3243331-0-58670900-1790257408-image_0c4b77.png",
+      "date": "Thu, 24 Sep 2026 13:42:14 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "Even a VPN Can't Protect You From This Browser Security Flaw",
-      "description": "How to prevent your IP address from leaking, even when you're taking steps to hide it.",
-      "url": "https://lifehacker.com/tech/even-a-vpn-cant-protect-your-from-this-browser-security-flaw?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M2V5PTZZW8TK93H2TTC8N35M/hero-image.jpg",
-      "date": "Mon, 21 Sep 2026 21:30:00 +0000"
+      "source": "PCWorld",
+      "title": "Google Chrome is a privacy nightmare. Fix these settings",
+      "description": "Chrome is the most popular browser in the world by a country mile. With more than 77% of the browser market across all kinds of devices, it’s most people’s first choice—especially after a fresh Windows install . But Chrome isn’t some privacy-centric upstart that puts the user first. Just like Google’s “free” search engine, Chrome’s users are the product. The browser collects a lot of information about how, when, and where it’s used, and that can make some people uneasy. If you’re in the nothing-",
+      "url": "https://www.pcworld.com/article/2941324/google-chrome-is-a-privacy-nightmare-by-default-fix-these-settings.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/2941324-0-36583000-1790254840-Hacker-Chrome.jpg?quality=50&strip=all",
+      "date": "Thu, 24 Sep 2026 13:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
+      "description": "If you’re looking for an affordable Windows machine under $500 , a blazing fast gaming beast for those intense matches, or a portable 2-in-1 for school or work, you’ve got plenty of great choices right now. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 80 laptops every year. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches",
+      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/550968-0-43452900-1790251523-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
+      "date": "Thu, 24 Sep 2026 12:04:57 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "These hidden Windows 11 tools can save your PC — and your workday",
+      "description": "Ideally, your PC will work smoothly day in and day out. But when something goes wrong, you should have a game plan for solving your problems — and there’s even some new, updated features within Windows for doing so. I happened to live in London during the run of The IT Crowd , the Channel 4 production that helped launch the careers of Richard Ayoade and Chris O’Dowd. The two characters manned the help desk, and the show’s catchphrase was a simple one: “Have you tried turning it off and on again?",
+      "url": "https://www.pcworld.com/article/3240313/these-hidden-windows-11-tools-can-save-your-pc-and-your-workday.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3240313-0-69611500-1790251233-Frowny-face-laptop.jpg?quality=50&strip=all",
+      "date": "Thu, 24 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "I’ve worked remotely for 20 years. Here’s what’s always in my laptop bag",
+      "description": "One morning I’m working out of my home office, the next I’m working in a bustling coffee shop, and the next I’m working out of a fast food joint near my kid’s school. Being a working parent is hectic, and I’m lucky to have the flexibility to work wherever I happen to be. But that means I need a portable workstation, one I can carry around with me comfortably and productively. My laptop bag has evolved quite a bit over the years, and it’s as good as ever now that I’ve been doing this for nearly t",
+      "url": "https://www.pcworld.com/article/3216111/ive-worked-remotely-for-20-years-heres-whats-always-in-my-laptop-bag.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3216111-0-95875200-1790247626-my-laptop-bag.jpg?quality=50&strip=all",
+      "date": "Thu, 24 Sep 2026 11:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "How to Free Up Disk Space & Fix a Full C Drive on Windows 10/11",
+      "description": "Running out of disk space on Windows 10/11 can trigger low disk space warnings and interfere with updates. In many cases, you can reclaim space without buying a larger drive or paid software. This guide covers five free ways to free up disk space, from Windows cleanup tools to partition management. If deleting files isn’t enough, you’ll also learn how to merge partitions to fix a full C drive. Quick Summary: How to Free Up Disk Space? Method 1: Clean Temporary Files – Automate cleanup through Se",
+      "url": "https://www.pcworld.com/article/3241214/how-to-free-up-disk-space-fix-a-full-c-drive-on-windows-10-11.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3241214-0-54071500-1790241314-01-Free-up-disk-space-on-Windows-10-11.png",
+      "date": "Thu, 24 Sep 2026 09:14:58 +0000"
     },
     {
       "category": "eng",
@@ -661,69 +724,6 @@
       "url": "https://www.pcworld.com/article/2999556/best-mini-pc-deals-top-picks-for-performance-gaming-and-more.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/09/2999556-0-66845300-1790208205-image-2.png",
       "date": "Thu, 24 Sep 2026 00:03:10 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Sorry, Microsoft: Haptic mice are a productivity gimmick",
-      "description": "Mice from Logitech and now Microsoft support Windows’ latest feature: haptic feedback. But instead of serving as the next productivity enhancement, haptic mice feel like more of a convenience rather than a must-have. Microsoft today announced a new version of the Surface Mouse, a $79.99 ambidextrous mouse that it launched alongside a new 13-inch Surface Laptop ($1,199) and a 12-inch Surface Pro ($1,149) which include Qualcomm’s Snapdragon X2 Plus chips inside. The Mouse is the most intriguing of",
-      "url": "https://www.pcworld.com/article/3242530/sorry-microsoft-haptic-mice-are-a-productivity-gimmick.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3242530-0-24436600-1790195443-Microsoft-Surface-Mouse-2026-edit.png",
-      "date": "Wed, 23 Sep 2026 20:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Best 5 VPNs for streaming Netflix and other services",
-      "description": "VPNs are best known for protecting your privacy online, but they’re also one of the most useful tools for streaming. Whether you’re traveling abroad, trying to access content from another country, or simply looking to avoid regional restrictions, a good VPN can open up libraries on services such as Netflix, Disney+, Hulu, Max, BBC iPlayer, Amazon Prime Video, and more. Of course, not every VPN is up to the challenge. Streaming platforms actively work to detect and block VPN traffic, and many ser",
-      "url": "https://www.pcworld.com/article/618517/best-vpn-for-streaming-netflix.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/618517-0-23081400-1790184634-Netflix-Hintergrund.jpg?quality=50&strip=all",
-      "date": "Wed, 23 Sep 2026 17:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "This 49-inch ultrawide monitor is $220 off — now just $530 at Amazon",
-      "description": "NOW $220 OFF 49-inch Innocn Ultrawide Monitor View Deal If you need a massive ultrawide monitor but you’re on a tight budget, then here’s a deal to consider: Innocn’s 49-incher is on sale for $529.96 at Amazon , down from its original $749.99. That’s a super low price for such an enormous display, making it a great entry-level giant ultrawide. 49-inch displays don’t come cheap. Mid-rangers can easily cost up to $900 and high-end OLED options can cross above $1,500. A huge screen for just over $5",
-      "url": "https://www.pcworld.com/article/3242362/this-49-inch-ultrawide-monitor-is-220-off-now-just-530-at-amazon.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3242362-0-83189000-1790182904-Innocn-49-inch-3840x1080-144Hz-ultrawide-monitor.jpg?quality=50&strip=all",
-      "date": "Wed, 23 Sep 2026 17:00:45 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Hate your keyboard’s Copilot key? Remap it to any app you want",
-      "description": "Newer keyboards often feature a Copilot key, which by default launches Microsoft’s AI chatbot. If you don’t use Copilot, you can reassign the key. To do this, open Windows ‘Settings’ and go to ‘Bluetooth & devices > Keyboard.’ Under ‘Customize the Copilot key on your keyboard’, you’ll find a small menu where you can select the ‘Search’ option. Pressing the Copilot key will then open the search box, which you can access via the taskbar. Alternatively, you can set it to ‘Custom’. In this case, Win",
-      "url": "https://www.pcworld.com/article/3237999/hate-your-keyboards-copilot-key-remap-it-to-any-app-you-want.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3237999-0-84622700-1790182824-image_930daa.png",
-      "date": "Wed, 23 Sep 2026 17:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Best Thunderbolt docks to extend your laptop’s capabilities",
-      "description": "A Thunderbolt laptop docking station offers a serious boost to your productivity, providing support for old and new peripherals alike. It’s a necessity for a home office, but only buy what you need: In 2026, premium Thunderbolt 5 docks might be overkill for a Windows PC. Here, we’ll recommend the best Thunderbolt docks — an overall pick, as well as budget and premium recommendations — based on our own testing of dozens of Thunderbolt docking stations. That testing includes a formal performance e",
-      "url": "https://www.pcworld.com/article/393714/best-thunderbolt-docks-for-a-laptop-pc.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/393714-0-27727000-1790179235-thunderbolt-dock-primary-100868060-orig.jpg?quality=50&strip=all",
-      "date": "Wed, 23 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Anker’s best Amazon deals: $6 USB-C cables to a 250W charging monster",
-      "description": "Anker sits among our favorite brands for accessories and gadgets, ranging from GaN chargers to power banks to USB-C cables and more. Stuff for your desk, stuff for your travels, and everything in between. Even better is when you’re able to grab Anker gear at a discount. Right now, a bunch of their stuff is on sale on Amazon… so I’ve rounded up the most standout deals worth grabbing today. Deals at a glance Anker 100W USB-C Cable (2-pack) — $12.99 Anker Nano 45W GaN Charger — $29.99 (was $39.99) ",
-      "url": "https://www.pcworld.com/article/3191549/ankers-best-amazon-deals-6-usb-c-cables-to-a-250w-charging-monster.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3191549-0-11454800-1790175635-Anker-Prime-deals.jpg?quality=50&strip=all",
-      "date": "Wed, 23 Sep 2026 15:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Chrome 154 fixes 108 security flaws, including 11 critical bugs",
-      "description": "In the newest versions of Chrome—154.0.8037.57/58 for Windows and macOS, and 154.0.8037.57 for Linux—Google has fixed 108 security vulnerabilities, some of which are critical. None of them have been exploited in attacks yet. Meanwhile, Chrome 154 doesn’t offer any new features beyond these security improvements. In the Chrome Releases blog post , Srinivas Sista lists the 108 vulnerabilities that have been fixed, stating that Google discovered 76 of them. The remaining 32 vulnerabilities were ide",
-      "url": "https://www.pcworld.com/article/3242182/chrome-154-fixes-108-security-flaws-including-11-critical-bugs.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3242182-0-85091400-1790174717-Chrome-logo-on-pixelized-Chrome-logo.jpg?quality=50&strip=all",
-      "date": "Wed, 23 Sep 2026 14:44:58 +0000"
     }
   ],
   "starwars": [
