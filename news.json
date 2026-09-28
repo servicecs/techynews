@@ -1,6 +1,51 @@
 {
-  "updated": "2026-09-28T08:23:56.491155+00:00",
+  "updated": "2026-09-28T16:56:03.488651+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "„Родителска средба без оценки“ на Телеком го исполни градскиот парк со родители и деца",
+      "description": "Добро познатата „Школка“ во Градскиот парк беше местото каде што викендов се одржа првата „Родителска средба без оценки“, организирана од Македонски Телеком. Родители, деца, експерти и јавни личности се собраа на едно место за да отворат важен разговор за тоа како заедно можеме да ги заштитиме децата од врсничко и онлајн насилство и да создадеме […]",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/roditelska-sredba-bez-ocenki-na-telekom/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Photo11-150x150.webp",
+      "date": "Mon, 28 Sep 2026 13:57:36 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Астрономи за прв пат уверливо открија радио сигнали што доаѓаат директно од планета надвор од Сончевиот систем, а преку нив го измерија нејзиното магнетно поле",
+      "description": "Тим астрономи од Центарот за астрофизика Harvard и Smithsonian и Универзитетот во Орегон објави нова студија во која тврди дека за прв пат уловил радио сигнали што со сигурност доаѓаат од планета надвор од Сончевиот систем. Станува збор за Beta Pictoris b, гасен гигант оддалечен околу 64 светлосни години од Земјата. Сигналите ги снимил MeerKAT, мрежа […]",
+      "url": "https://smartportal.mk/novosti/nauka-istrazuvanja/astronomi-radio-signali-planeta/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Depositphotos_358573382_XL-f-150x150.webp",
+      "date": "Mon, 28 Sep 2026 12:03:08 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Instagram додаде ефект со вештачка интелигенција во Stories кој ги пикселизира луѓето што ќе ги опишете, а го рекламира за „прикриено објавување“ на нова врска",
+      "description": "Instagram во Stories додаде ефект наречен Pixel, кој со помош на вештачка интелигенција ги пикселизира луѓето или предметите што корисникот ќе ги опише со текст. Наместо нечие лице рачно да се покрие со стикер или цртеж, доволно е во командата („prompt“) да се напише, на пример, „личноста десно“. Компанијата ефектот го промовираше со објава на својот […]",
+      "url": "https://smartportal.mk/novosti/socijalni-mrezi/instagram-efekt-soft-launch/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/instagram-soft-launch-1-150x150.webp",
+      "date": "Mon, 28 Sep 2026 10:56:51 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Microsoft го претстави новиот Copilot со Home, Code и Autopilot, агентот што продолжува да работи и кога корисникот не е на компјутер",
+      "description": "Microsoft го претстави новиот Copilot, кој е организиран во три нови простори: Home, Code и Autopilot. Компанијата сака на едно место да ги поврзе алатките што луѓето веќе ги користат со новите можности за градење и автоматизирање на работата. Home е новата почетна страница, каде се спојуваат Chat, за брзи прашања и нацрти, и Cowork, на кој […]",
+      "url": "https://smartportal.mk/novosti/ai/microsoft-nov-copilot/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/OMB-Copilot-9-25-Hero-9_22_26-150x150.webp",
+      "date": "Mon, 28 Sep 2026 10:11:42 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Македонските млади информатичари ја заокружија успешната година за Македонија со бронзен медал и олимписка пофалба на олимпијадата во Сараево",
+      "description": "Ново одлично претставување на Здружението на информатичарите на Македонија, како заокружување на уште една, исклучително успешна година за Македонија на олимпијадите по информатика, преку резултатот на 19-тата Јуниорска балканска олимпијада по информатика, која од 22-ри до 28-ми септември се одржува во Сараево, Босна и Херцеговина. Македонскиот тим на овој престижен меѓународен натпревар во програмирање за ученици […]",
+      "url": "https://smartportal.mk/novosti/nauka-istrazuvanja/makedonskite-mladi-informaticari-ja-zaokruzija-uspesnata-godina/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/sl2-150x150.webp",
+      "date": "Mon, 28 Sep 2026 08:54:04 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -48,231 +93,204 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "„Мотоцентар“ ги претстави брендовите Dunlop и Falken: Нова ера на супериорни перформанси и безбедност на патиштата",
-      "description": "Скопје, 24.09.2026 година – Компанијата „Мотоцентар“ официјално ја презентираше соработката со водечкиот глобален производител на гуми „Sumitomo Rubber Industries“ (SRI). Во рамки на презентацијата која се одржа денес во хотелот „DoubleTree by Hilton“ во Скопје, беа претставени брендовите Dunlop и Falken пред партнерите, соработниците и медиумите. Со ова партнерство, „Мотоцентар“ ја зајакнува позицијата на пазарот, […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/motocentar-dunlop-i-falken/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Motocentar_Prezentacija-Dunlop-i-Falken_9.20262-150x150.webp",
-      "date": "Thu, 24 Sep 2026 14:10:39 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Qualcomm објави рана верзија на Linux за лаптопите со Snapdragon X2, засега наменета само за програмерите и одржувачите на дистрибуции",
-      "description": "Qualcomm објави рана верзија за програмери на Linux за лаптопите со процесорите Snapdragon X2. Таа е наменета за програмерите на кернелот, одржувачите на дистрибуции и инженерите за хардвер, а не за обичните корисници. Верзијата што ќе може едноставно да се инсталира ќе дојде подоцна, кога дистрибуциите ќе ги преземат промените. Засега основа е Debian 13 „Trixie“ со […]",
-      "url": "https://smartportal.mk/novosti/kompjuteri/qualcomm-rana-verzija-linux-laptopi-snapdragon-x2/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/HS7dYE-W8AAvbnt-150x150.webp",
-      "date": "Thu, 24 Sep 2026 13:48:25 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Microsoft ги претстави новите Surface Pro од 12 инчи и Surface Laptop од 13 инчи со побрз процесор, но и со повисоки цени",
-      "description": "Microsoft на Snapdragon Summit ги претстави новите Surface Pro од 12 инчи и Surface Laptop од 13 инчи, најмалите уреди од линијата Surface. Двата уреди сега користат процесор Snapdragon X2 Plus, наместо Snapdragon X Plus кај претходната генерација. Според тестовите на Microsoft, во однос на претходната генерација графиката е над 60% побрза, локалната вештачка интелигенција до 95% […]",
-      "url": "https://smartportal.mk/novosti/kompjuteri/microsoft-surface-pro-12-inci-i-surface-laptop-%d0%be%d0%b4-13-inci/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/SURFACE-FY27-CONS-C-Hero-Image-1600x900-1-150x150.webp",
-      "date": "Thu, 24 Sep 2026 12:02:47 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Google призна дека Gemini неовластено пристапил до системите на три компании за време на безбедносен тест",
-      "description": "Google потврди дека неговиот AI модел Gemini во мај неовластено пристапил до компјутерските системи на три надворешни компании. Инцидентот се случил за време на безбедносен тест, а компанијата го објави дури минатиот петок. Во еден случај Gemini пристапил со повторено погодување на лозинката, а во другите два со податоци за најава што ги пронашол во […]",
-      "url": "https://smartportal.mk/novosti/ai/gemini-neovlasteno-pristapil-do-tri-kompanii/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/04/Gemini_for_MacOS_01_Hero_16x9.width-1200.format-webp-150x150.webp",
-      "date": "Thu, 24 Sep 2026 10:17:10 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Xiaomi ги претстави 18 Pro и 18 Pro Max со екран заштитен од „туѓи погледи“, две камери од 200 мегапиксели и батерија до 8.500 mAh",
-      "description": "Само ден откако Qualcomm ги претстави новите Snapdragon процесори, Xiaomi ги објави Xiaomi 18 Pro и 18 Pro Max, кои ги претставува како прва серија телефони со двата нови процесори. 18 Pro го користи стандардниот Snapdragon 8 Elite Gen 6, а 18 Pro Max верзијата Extreme. Најинтересната новост е екранот за приватност, односно екранот кој […]",
-      "url": "https://smartportal.mk/novosti/smartfoni/xiaomi-18-pro-i-18-pro-max/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/xiaomi-18-pro-f-150x150.webp",
-      "date": "Thu, 24 Sep 2026 09:43:27 +0000"
+      "source": "Time.mk - All",
+      "title": "Расте бројот на случаите на фемицид во светот – над 50 илјади жени жртви во 2024 поради родово базирано насилно | 24 Вести",
+      "description": "",
+      "url": "https://time.mk/c/28b271d596/raste-brojot-na-slucaite-na-femicid-vo-svetot-nad-50-iljadi-zeni-zrtvi-vo-2024-poradi-rodovo-bazirano-nasilno.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1790609646/wq9uh7pww0cegnqrvx0j.jpg",
+      "date": "Mon, 28 Sep 2026 15:36:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Ана Брнабиќ, вршител на должноста претседател на Србија, доби букет цвеќе од Вучиќ за нејзиниот роденден | Вечер Прес",
+      "title": "20 години од Законот за слободен пристап до информации од јавен карактер | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/b68c89a02a/ana-brnabik-vrsitel-na-dolznosta-pretsedatel-na-srbija-dobi-buket-cveke-od-vucik-za-nejziniot-rodenden.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/09/buket-brnabic-rts-screen.jpg",
-      "date": "Mon, 28 Sep 2026 08:14:37 +0000"
+      "url": "https://time.mk/c/7d5887ec42/20-godini-od-zakonot-za-sloboden-pristap-do-informacii-od-javen-karakter.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1790609908/z3uqm3tb3l1gnpfzz8ep.jpg",
+      "date": "Mon, 28 Sep 2026 15:42:40 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "НОВИ ЕВРО-БАНКНОТИ: Како ќе изгледаат, кога ќе бидат пуштени во оптек и дали треба да ги замените старите? | Пари",
+      "title": "СЕРИСКИОТ УБИЕЦ ОД СТАРО НАГОРИЧАНЕ ПРИЗНА ТРИ ОД ЧЕТИРИТЕ УБИСТВА ЗА КОИ Е ОБВИНЕТ | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/3ed4bec962/novi-evro-banknoti-kako-ke-izgledaat-koga-ke-bidat-pusteni-vo-optek-i-dali-treba-da-gi-zamenite-starite.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/09/Evra.jpg",
-      "date": "Mon, 28 Sep 2026 07:50:37 +0000"
+      "url": "https://time.mk/c/55cf9d8ee4/seriskiot-ubiec-od-staro-nagoricane-prizna-tri-od-cetirite-ubistva-za-koi-e-obvinet.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/09/tRAJKO-bOJKOVSKI-SERISKI-UBIETS-sTARO-nAGORICHANE.jpg",
+      "date": "Mon, 28 Sep 2026 14:44:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Гејтс против Трамп: На вештачката интелигенција ѝ треба строг надзор | Bloomberg Adria",
+      "title": "РАКЕТАТА НА „СПЕЈСЕКС“ ПРВПАТ СТИГНА ДО ОРБИТАТА И РАСПОРЕДИ САТЕЛИТИ | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/5d6642369a/gejts-protiv-tramp-na-vestackata-inteligencija-i-treba-strog-nadzor.html",
-      "image": "https://mk.bloombergadria.com/data/images/2025-03-28/79871_bill-gates-umjetna-inteligencija-poslovi-bloomberg-adria_f.jpg?timestamp=1790546400",
-      "date": "Mon, 28 Sep 2026 07:04:53 +0000"
+      "url": "https://time.mk/c/7a15f7b72f/raketata-na-spejseks-prvpat-stigna-do-orbitata-i-rasporedi-sateliti.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/09/spejs-eks-lansirane-AP.jpg",
+      "date": "Mon, 28 Sep 2026 15:46:36 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Струјата станува новата нафта на АИ: Кој има мегавати, ќе ги добие и дата-центрите | Пари",
+      "title": "СДСМ: Македонија е изоставена од патоказите кон ЕУ, Мицкоски ја носи земјата во изолација | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/26c0d6235f/strujata-stanuva-novata-nafta-na-ai-koj-ima-megavati-ke-gi-dobie-i-data-centrite.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/09/ChatGPT-Image-Sep-28-2026-07_48_49-AM.png",
-      "date": "Mon, 28 Sep 2026 05:54:36 +0000"
+      "url": "https://time.mk/c/455ee40f7f/sdsm-makedonija-e-izostavena-od-patokazite-kon-eu-mickoski-ja-nosi-zemjata-vo-izolacija.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/73865/conversions/text-max.jpg",
+      "date": "Mon, 28 Sep 2026 15:06:40 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "АХВ: Беснилото може 100 посто да се спречи со вакцинација и навремено пријавување | Макфакс",
+      "title": "Почина 70-годишен пациент со западнонилска треска, десетти смртен случај | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/67475fd44c/ahv-besniloto-moze-100-posto-da-se-spreci-so-vakcinacija-i-navremeno-prijavuvanje.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/besnilo-ahv-9d94a709-6d85-4164-82b6-523f4880f82c.webp",
-      "date": "Mon, 28 Sep 2026 07:22:43 +0000"
+      "url": "https://time.mk/c/c2cda5d23c/pocina-70-godisen-pacient-so-zapadnonilska-treska-desetti-smrten-slucaj.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2020/06/106244162_731845254300129_8175323471992844746_n-1.jpg",
+      "date": "Mon, 28 Sep 2026 11:44:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Кога и членките не можат да ги следат правилата, што останува за кандидатите | Нова Македонија",
+      "title": "Пристигнаа новите цени на горивата | Авто Магазин",
       "description": "",
-      "url": "https://time.mk/c/d84530d4c1/koga-i-clenkite-ne-mozat-da-gi-sledat-pravilata-sto-ostanuva-za-kandidatite.html",
-      "image": "https://novamakedonija.com.mk/wp-content/uploads/2026/09/eu-ficer-d-andonovski-4-150x150.jpg",
-      "date": "Mon, 28 Sep 2026 08:14:38 +0000"
+      "url": "https://time.mk/c/96958ed60c/pristignaa-novite-ceni-na-gorivata.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/goriva-383736-4.jpg",
+      "date": "Mon, 28 Sep 2026 16:18:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Никој веќе не зборува за крипто - Дали Македонија пропушта уште една шанса со ВИ и дата-центрите: Анализа со Дарко Симуновски | Фактор",
+      "title": "Продолжува мерката за намален ДДВ за дизелот до 12 октомври | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/32e62b1d95/nikoj-veke-ne-zboruva-za-kripto-dali-makedonija-propusta-uste-edna-sansa-so-vi-i-data-centrite-analiza-so-darko-simunovski.html",
-      "image": "https://faktor.mk/media/main/2026/09/20260928100411.png",
-      "date": "Mon, 28 Sep 2026 08:10:50 +0000"
+      "url": "https://time.mk/c/cb8be27537/prodolzuva-merkata-za-namalen-ddv-za-dizelot-do-12-oktomvri.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/goriva-383736-3.jpg",
+      "date": "Mon, 28 Sep 2026 09:20:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Од полноќ нови цени на горивата – дизелот е поскап | Press24",
+      "title": "Македонија надвор од моменталните проекции на Брисел со кои се мапираа ЕУ-процесите на Албанија, Црна Гора, Молдавија и Украина | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/1a37653e3c/od-polnok-novi-ceni-na-gorivata-dizelot-e-poskap.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/73630.jpg",
-      "date": "Mon, 28 Sep 2026 07:33:00 +0000"
+      "url": "https://time.mk/c/3eefa71ea9/makedonija-nadvor-od-momentalnite-proekcii-na-brisel-so-koi-se-mapiraa-eu-procesite-na-albanija-crna-gora-moldavija-i-ukraina.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1790607478/mxnk4ldwmvtthtyo7iqt.jpg",
+      "date": "Mon, 28 Sep 2026 15:32:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Пожар во кафуле во Атина зафати трикатна зграда, станарите превентивно евакуирани | Нова Македонија",
+      "title": "Вучиќ поднесе оставка, Србија има претседателка | Кајгана",
       "description": "",
-      "url": "https://time.mk/c/90543e1697/pozar-vo-kafule-vo-atina-zafati-trikatna-zgrada-stanarite-preventivno-evakuirani.html",
-      "image": "https://novamakedonija.com.mk/wp-content/uploads/2025/01/policija-150x150.jpg",
-      "date": "Mon, 28 Sep 2026 07:46:46 +0000"
+      "url": "https://time.mk/c/4797bdb850/vucik-podnese-ostavka-srbija-ima-pretsedatelka.html",
+      "image": "https://kajgana.com/sites/default/files/styles/article_image_xxl/public/2026-09/Screenshot 2026-09-28 131744.png?itok=o8dnL8yS",
+      "date": "Mon, 28 Sep 2026 12:02:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ЗАГРЕБ ОСТАНА БЕЗ ЈАВНИОТ ПРЕВОЗ, А НЕМА И КОЈ ДА ГО ЧИСТИ Штрајкуваат вработените во јавниот превоз и комуналците | +инфо",
+      "title": "Дмитријев за Калас: Нека чита книги за да стане попаметна, таа е диверзија на ЕУ против Европа | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/12f8819127/zagreb-ostana-bez-javniot-prevoz-a-nema-i-koj-da-go-cisti-strajkuvaat-vrabotenite-vo-javniot-prevoz-i-komunalcite.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2026/09/zagreb.jpg",
-      "date": "Mon, 28 Sep 2026 07:10:36 +0000"
+      "url": "https://time.mk/c/15b060cdd5/dmitrijev-za-kalas-neka-cita-knigi-za-da-stane-popametna-taa-e-diverzija-na-eu-protiv-evropa.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/03/depositphotos_648099418_xl.webp",
+      "date": "Mon, 28 Sep 2026 14:25:08 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Берзански преглед: Пад на обврзниците и акциите, раст на нафтата поради тензиите со Иран | Bloomberg Adria",
+      "title": "Британската полиција ослободи петтемина мажи осомничени за тероризам по апсењето кај базата Ферфорд | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/60618703db/berzanski-pregled-pad-na-obvrznicite-i-akciite-rast-na-naftata-poradi-tenziite-so-iran.html",
-      "image": "",
-      "date": "Mon, 28 Sep 2026 07:20:50 +0000"
+      "url": "https://time.mk/c/9885122171/britanskata-policija-oslobodi-pettemina-mazi-osomniceni-za-terorizam-po-apsenjeto-kaj-bazata-ferford.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/policija-britanija.jpg",
+      "date": "Mon, 28 Sep 2026 16:53:09 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Калас предупреди дека Русија планира нови саботажи и напади низ Европа | Слободен Печат",
+      "title": "Голема новост за родителите во Инџиково: Наскоро се отвора новата градинка „Лавче“ | Press24",
       "description": "",
-      "url": "https://time.mk/c/b6c253e01b/kalas-predupredi-deka-rusija-planira-novi-sabotazi-i-napadi-niz-evropa.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2024/06/w_57535365-300x200.jpg",
-      "date": "Mon, 28 Sep 2026 07:46:46 +0000"
+      "url": "https://time.mk/c/39db1c05f4/golema-novost-za-roditelite-vo-indzikovo-naskoro-se-otvora-novata-gradinka-lavce.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/73797.jpg",
+      "date": "Mon, 28 Sep 2026 16:48:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Нови пет „ЗОО приказни“ утре во Зоолошката градина во Скопје | Трн",
+      "title": "Градот останува, животот исчезнува | Градска",
       "description": "",
-      "url": "https://time.mk/c/741d0baf82/novi-pet-zoo-prikazni-utre-vo-zooloskata-gradina-vo-skopje.html",
-      "image": "",
-      "date": "Mon, 28 Sep 2026 08:12:55 +0000"
+      "url": "https://time.mk/c/cdd7940ddb/gradot-ostanuva-zivotot-isceznuva.html",
+      "image": "https://gradska.mk/wp-content/uploads/2026/09/gradska-chatgpt-feat.png",
+      "date": "Mon, 28 Sep 2026 15:06:40 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Герасимовски: Вложуваме во дигитална инклузија, создаваме еднакви можности за секое дете | Макфакс",
+      "title": "Штипјанец го пријавил својот син во полиција | Press24",
       "description": "",
-      "url": "https://time.mk/c/a5e98803f5/gerasimovski-vlozuvame-vo-digitalna-inkluzija-sozdavame-ednakvi-moznosti-za-sekoe-dete.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/inkluzivnost-deca-opstina-centar-1.webp",
-      "date": "Mon, 28 Sep 2026 08:22:45 +0000"
+      "url": "https://time.mk/c/3222124f8a/stipjanec-go-prijavil-svojot-sin-vo-policija.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/73763.jpg",
+      "date": "Mon, 28 Sep 2026 13:54:41 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "18-годишник од Куманово приведен од „Task Force“ единицата против дрога | Кумановски м.",
+      "title": "СЕ АПСАТ ЛИЦА ПОВРЗАНИ СО ТЕРОРИЗАМ ВО СКОПЈЕ ВО АКЦИЈА НА ОБВИНИТЕЛСТВОТО, МВР И АНБ | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/01a504fd7f/18-godisnik-od-kumanovo-priveden-od-task-force-edinicata-protiv-droga.html",
-      "image": "https://cdn.kumanovskimuabeti.mk/2025/01/DSC_0048-1024x683.jpg",
-      "date": "Mon, 28 Sep 2026 08:04:54 +0000"
+      "url": "https://time.mk/c/6b0669fd68/se-apsat-lica-povrzani-so-terorizam-vo-skopje-vo-akcija-na-obvinitelstvoto-mvr-i-anb.html",
+      "image": "https://sdk.mk/wp-content/uploads/2021/04/policija-specijalci-1.jpg",
+      "date": "Mon, 28 Sep 2026 11:26:45 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Малолетник прегазен во скопски Чаир | Press24",
+      "title": "Велковски: Сакаме да говориме за сите политики што се однесуваат за младите | Press24",
       "description": "",
-      "url": "https://time.mk/c/b24ce81add/maloletnik-pregazen-vo-skopski-cair.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/73643.jpg",
-      "date": "Mon, 28 Sep 2026 07:54:37 +0000"
+      "url": "https://time.mk/c/98a9f77526/velkovski-sakame-da-govorime-za-site-politiki-sto-se-odnesuvaat-za-mladite.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/73789.jpg",
+      "date": "Mon, 28 Sep 2026 15:46:36 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Земјотрес со јачина од 3,3 степени ја стресе Преспа | Скопје1",
+      "title": "Ќе се доделуваат финансиски средства на здруженија чија дејност е унапредување на туризмот | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/0fe6d16fee/zemjotres-so-jacina-od-3-3-stepeni-ja-strese-prespa.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/73800/conversions/text-max.jpg",
-      "date": "Sun, 27 Sep 2026 12:37:02 +0000"
+      "url": "https://time.mk/c/c48f2d9450/ke-se-dodeluvaat-finansiski-sredstva-na-zdruzenija-cija-dejnost-e-unapreduvanje-na-turizmot.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/2-bitola-1.jpg",
+      "date": "Mon, 28 Sep 2026 12:56:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Во Босилово по 5. пат се одржа „Ајверијада“ | Економија и Бизнис",
+      "title": "Во Ровињ првпат претставен филмскиот проект за Тоше Проески | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/cb69517e44/vo-bosilovo-po-5-pat-se-odrza-ajverijada.html",
-      "image": "",
-      "date": "Sun, 27 Sep 2026 14:37:12 +0000"
+      "url": "https://time.mk/c/3d1b75dd5e/vo-rovinj-prvpat-pretstaven-filmskiot-proekt-za-tose-proeski.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/9dea198b-4f50-4f09-8f1c-908ad368547f.webp",
+      "date": "Mon, 28 Sep 2026 16:22:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Трифун Ситниковски на „Џифони“: Филмската екипа секогаш мора да биде безбедна | Трн",
+      "title": "Почнува потрагата по новиот македонски музички „Идол“ — еве каде можете да се пријавите | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/33cc28c401/trifun-sitnikovski-na-dzifoni-filmskata-ekipa-sekogas-mora-da-bide-bezbedna.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/09/dzifoni.jpg",
-      "date": "Mon, 28 Sep 2026 08:04:54 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Стефан Николовски ја распродаде Т арената „Борис Трајковски“ во рекордно време – публиката веќе бара втор датум | Црнобело",
-      "description": "",
-      "url": "https://time.mk/c/cbfbe95875/stefan-nikolovski-ja-rasprodade-t-arenata-boris-trajkovski-vo-rekordno-vreme-publikata-veke-bara-vtor-datum.html",
-      "image": "https://www.crnobelo.com/images/stories/2026/09/1019/stefan-nikolovski-ja-rasprodade-t-arenata-boris-trajkovski-vo-rekordno-vreme-publikata-vekje-bara-vtor-datum-povekje.jpg",
-      "date": "Mon, 28 Sep 2026 08:04:54 +0000"
+      "url": "https://time.mk/c/844d0db30f/pocnuva-potragata-po-noviot-makedonski-muzicki-idol-eve-kade-mozete-da-se-prijavite.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/Screenshot-2026-09-28-175429-300x169.png",
+      "date": "Mon, 28 Sep 2026 16:06:38 +0000"
     }
   ],
   "de": [
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Bargeld-Obergrenze ab 2027: EU setzt neues Limit für Barzahlungen",
+      "description": "Bargeld-Obergrenze ab 2027: Die EU führt ein neues Limit für Barzahlungen ein. Was gilt für Privatpersonen und welche Regeln ändern sich? Der Artikel Bargeld-Obergrenze ab 2027: EU setzt neues Limit für Barzahlungen erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/rechtssachen/bargeld-obergrenze-ab-2027-333868.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/bargeld-obergrenze-ab-2027",
+      "date": "Mon, 28 Sep 2026 15:20:36 +0000"
+    },
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "DenuvOwO Cracks gehören nun offenkundig der Geschichte an",
+      "description": "DenuvOwO kündigte ihr vorzeitiges Aus an, nachdem Irdeto mit einem gerichtlichen Auskunftsersuchen die Identität von voices38 klären will. Der Artikel DenuvOwO Cracks gehören nun offenkundig der Geschichte an erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/denuvo/denuvowo-cracks-gehoeren-nun-offenkundig-der-geschichte-an-333856.html",
+      "image": "https://cdn.tarnkappe.info/wp-content/uploads/denuvo-protecs.jpg",
+      "date": "Mon, 28 Sep 2026 13:23:25 +0000"
+    },
     {
       "category": "de",
       "source": "Tarnkappe",
@@ -434,27 +452,63 @@
       "url": "https://tarnkappe.info/artikel/softwareentwicklung/osiris-eine-alternative-zu-palantir-333476.html",
       "image": "https://cdn.tarnkappe.info/wpimg/osiris-eine-alternative-zu-palantir",
       "date": "Wed, 16 Sep 2026 08:43:06 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Pentest bestanden und trotzdem gehackt: Wo Red Teaming und APT Simulationen mehr bieten",
-      "description": "Die Firma hat den Pentest bestanden, wurde aber trotzdem gehackt? Erfahre, warum Red Teaming und APT-Simulationen die IT-Abwehr verbessern. Der Artikel Pentest bestanden und trotzdem gehackt: Wo Red Teaming und APT Simulationen mehr bieten erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/gast-artikel/pentest-bestanden-und-trotzdem-gehackt-wo-red-teaming-und-apt-simulationen-mehr-bieten-333471.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/pentest-bestanden-und-trotzdem-gehackt-wo-red-teaming-und-apt-simulationen-mehr-bieten",
-      "date": "Tue, 15 Sep 2026 17:26:31 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "KI-Pornografie: Jailbreak bringt sechs Entwickler ins Gefängnis",
-      "description": "KI-Pornografie führt in China zu Haftstrafen: Sechs Entwickler umgingen Sicherheitsfilter und machten daraus ein lukratives Geschäftsmodell. Der Artikel KI-Pornografie: Jailbreak bringt sechs Entwickler ins Gefängnis erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/jailbreaks/ki-pornografie-jailbreak-haftstrafen-333467.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/ki-pornografie-jailbreak-haftstrafen",
-      "date": "Tue, 15 Sep 2026 15:03:11 +0000"
     }
   ],
   "eng": [
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "The Boox Picco Is a Contender for My New Favorite Tiny E-Reader",
+      "description": "Boox has released its answer to the Xteink X4 Pro.",
+      "url": "https://lifehacker.com/tech/the-boox-picco-is-a-contender-for-your-new-favorite-tiny-e-reader?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M34ZZ1THSSQTY9NNQ281RV7B/hero-image.png",
+      "date": "Mon, 28 Sep 2026 15:10:43 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "These Are the Best October Prime Day Deals on DeWalt Cordless Tools",
+      "description": "You can tackle all your fall projects with these deals on DeWalt cordless tools.",
+      "url": "https://lifehacker.com/home/best-deals-on-dewalt-cordless-tools-early-october-prime-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M3K87FCS4JKM0SV04WMYCJ41/hero-image.png",
+      "date": "Mon, 28 Sep 2026 14:30:20 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Blink 2K+ Doorbell and Five-Camera Bundle Is 71% Off for October Prime Day",
+      "description": "The Blink Battery Doorbell 2K+ and five Outdoor 2K+ camera bundle is now $119.99.",
+      "url": "https://lifehacker.com/tech/blink-2k-doorbell-camera-bundle-sale-early-october-prime-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M3KJG4896P11FWW2XT7TMYH2/hero-image.png",
+      "date": "Mon, 28 Sep 2026 14:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This 65-Inch Samsung Mini-LED TV Is at Its Lowest Price Ever for October Prime Day",
+      "description": "The Samsung M80H TV with 4K and AI features is under $650 right now.",
+      "url": "https://lifehacker.com/tech/samsung-mini-led-tv-deal-early-october-prime-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M2TYB470MGVX4GN5RD8EEV6J/hero-image.png",
+      "date": "Mon, 28 Sep 2026 13:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Philips Smart Door Lock With Handle Is 26% Off for October Prime Day",
+      "description": "This early October Prime Day 2026 deal has brought the Philips Wifi Keypad Door Lock with Handle down to $105.99 from $142.49.",
+      "url": "https://lifehacker.com/tech/phillips-smart-lock-bundle-deal-early-october-prime-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01KX083GXD98P7DSWZWVE3VTEN/hero-image.png",
+      "date": "Mon, 28 Sep 2026 13:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Highly Rated TCL Mini-LED TV Is 32% Off for October Prime Day",
+      "description": "This 65-inch TCL QM8L TV is down to $1,697.99 from its $2,499.99 launch price.",
+      "url": "https://lifehacker.com/tech/tcl-65-inch-mini-led-qled-tv-sale-early-october-prime-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M2T13PFDC5SS7KMDFGAAW6YM/hero-image.png",
+      "date": "Mon, 28 Sep 2026 12:30:00 +0000"
+    },
     {
       "category": "eng",
       "source": "Lifehacker",
@@ -583,147 +637,93 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "The GoPro Lit Hero Is $65 Off in This Early October Prime Day Sale",
-      "description": "It’s easy to carry, has a built-in light, and is at its lowest price yet ahead of October Prime Day 2026.",
-      "url": "https://lifehacker.com/tech/gopro-lit-hero-sale-early-october-prime-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01KRAR4Z8BARCW8Y441C51WSKB/hero-image.png",
-      "date": "Fri, 25 Sep 2026 13:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "What's New on Netflix in October 2026",
-      "description": "\"The Diplomat\" and \"Lupin\" return alongside new series \"East of Eden\" and Ben Affleck's \"Animals.\"",
-      "url": "https://lifehacker.com/entertainment/whats-new-on-netflix-in-october-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M35B8V5HGM0PWGJCDNESJS7A/hero-image.png",
-      "date": "Fri, 25 Sep 2026 12:30:05 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "I Tested the Apple Watch's New Heart Rate Sensor to See If It's Really Better Than Garmin's",
-      "description": "I pitted the Apple Watch Series 12 against the Garmin Forerunner 570.",
-      "url": "https://lifehacker.com/health/how-the-new-apple-watch-heart-rate-sensor-compares-to-garmin?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M3AK1V62FZD33204R0NJG580/hero-image.jpg",
-      "date": "Thu, 24 Sep 2026 21:20:46 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "The Best Amazon Prime Benefits You Probably Don't Know About",
-      "description": "There's more to being a Prime Member than just getting free two-day shipping.",
-      "url": "https://lifehacker.com/best-amazon-prime-benefits?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01JYHYVVF3E2SN8A9K7M43R2V1/hero-image.png",
-      "date": "Thu, 24 Sep 2026 21:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "These Are the Biggest Announcements From Meta Connect 2026",
-      "description": "If you missed Meta's evening tech event, here are the highlights.",
-      "url": "https://lifehacker.com/tech/everything-announced-at-meta-connect-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M3A8Y95ZCAR3DPEGQ03H91VT/hero-image.webp",
-      "date": "Thu, 24 Sep 2026 19:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "These Are the Best Price-Tracking Tools I Use As a Deals Writer",
-      "description": "I rely on Camelcamelcamel, Honey, SlickDeals, and others to help me determine whether online deals are, well, the real deal.",
-      "url": "https://lifehacker.com/best-price-tracking-tools?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01HF2GY1EGKVBM56BVJC4RJMWT/hero-image.jpg",
-      "date": "Thu, 24 Sep 2026 19:00:00 +0000"
+      "source": "PCWorld",
+      "title": "Gemini Gems appear to be on their way out, Reddit screenshots show",
+      "description": "If you’re a fan of Gems—the Gemini feature that lets you create customized Gemini chatbots with their own instructions and knowledge files—prepare for some big changes coming soon. According to a banner that popped up on the Gems Manager page over the weekend, Google is about to turn Gems into skills, a feature within Google’s Spark AI assistant that offers related but also somewhat different functionality. The news comes just a few weeks after OpenAI announced the impending “retirement” of cust",
+      "url": "https://www.pcworld.com/article/3245691/gemini-gems-appear-to-be-on-their-way-out-reddit-screenshots-show.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3245691-0-40557700-1790612153-Google-Gemini-mobile-icon.jpeg?quality=50&strip=all",
+      "date": "Mon, 28 Sep 2026 16:13:46 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Windows 11 Pro and Office 2019 land on one PC for $26 total",
-      "description": "TL;DR: Get Windows 11 Pro and Microsoft Office Professional Plus 2019 together for $25.99 (reg. $428). Save for your personal work or business with this deal: two license keys, one payment, and zero monthly fees. Grab the All-in-One Microsoft Office Pro Plus 2019 for Windows and Windows 11 Pro bundle for $25.99 (reg. $428). What’s in the bundle The Office side includes Word, Excel, PowerPoint, Outlook, OneNote, Publisher, and Access 2019. The license installs on one Windows 10 or 11 PC and is ti",
-      "url": "https://www.pcworld.com/article/3244748/windows-11-pro-and-office-2019-land-on-one-pc-for-26-total.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3244748-0-82282000-1790582431-mso-pro-plus-2019-x-win.jpg?quality=50&strip=all",
-      "date": "Mon, 28 Sep 2026 08:00:00 +0000"
+      "title": "Google will let some Chromebooks upgrade to Googlebook OS",
+      "description": "A few days ago, Google quietly announced that it’ll be allowing certain Chromebook models to upgrade from ChromeOS to Googlebook OS at some point in the future. The announcement was made via a new support page , spotted by The Verge . Googlebook OS is the company’s newest laptop operating system , which is being launched alongside its new lineup of Googlebook laptops. As of now, the first Googlebooks will come from manufacturers including Acer, Asus, Dell, HP, and Lenovo . However, exactly which",
+      "url": "https://www.pcworld.com/article/3245608/google-will-let-some-chromebooks-upgrade-to-googlebook-os.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3245608-0-26789900-1790608993-Googlebook_f969c1.jpg?quality=50&strip=all",
+      "date": "Mon, 28 Sep 2026 15:21:54 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Best mini PC deals: Top Intel and AMD picks for performance, gaming, and more",
-      "description": "At a glance Top AMD mini PC deal picks GMKtec M7 Ultra —$750 (12% off on Amazon) Reatan A8 —$519 with coupon (19% off on Amazon with coupon) Kamrui Pinova P2 —$340 (11% off on Amazon) Top Intel mini PC deal picks Kamrui P2 —$569 (39% off on Amazon) Acemagic M5 —$600 (33% off on Amazon) Kamrui Hyper H2 Mini —$480 (28% off on Amazon) Whether you’re looking for a productivity mini PC, something for gaming, or just a budget-friendly machine with a small footprint, we’ve got you covered. The team at ",
-      "url": "https://www.pcworld.com/article/2999556/best-mini-pc-deals-top-picks-for-performance-gaming-and-more.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/2999556-0-17943400-1790554867-image-2.png",
-      "date": "Mon, 28 Sep 2026 00:20:51 +0000"
+      "title": "Anker’s clever $16 USB-C cable charges 2 devices at once",
+      "description": "MATCHES ALL-TIME LOW PRICE Anker 140W USB-C splitter cable View Deal What do you do when you need to charge two devices? One option is to use a multi-port charger with multiple cables. Another option is to use a single USB charger with a single cable—like this Anker 2-in-1 USB-C splitter cable that’s now on sale for $15.99, matching its lowest price ever. On one end, it has a typical USB-C connector. Plug that end into any USB-C power adapter, ideally one that can put out up to 140 watts because",
+      "url": "https://www.pcworld.com/article/3240088/ankers-clever-16-usb-c-cable-charges-2-devices-at-once.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3240088-0-53847700-1790606170-Anker-2-in-1-USB-C-splitter-cable.jpg?quality=50&strip=all",
+      "date": "Mon, 28 Sep 2026 14:36:01 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Stop subscribing: Office 2024 Pro Plus is yours to keep for $50",
-      "description": "TL;DR: Tired of renewing Microsoft 365 every year? Get Microsoft Office 2024 Professional Plus for Windows for $49.97 (reg. $249.99) and own it outright during this limited-time September Flash Sale. A perpetual license means you pay once and keep the apps on your PC for good. Pick up Microsoft Office 2024 Professional Plus for $49.97 (reg. $249.99) and skip the annual bill. The full Office lineup, minus the renewals Word and Excel handle documents and spreadsheets. PowerPoint builds presentatio",
-      "url": "https://www.pcworld.com/article/3243876/stop-subscribing-office-2024-pro-plus-is-yours-to-keep-for-50.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3243876-0-39149900-1790496023-mso-2024-Pro-Plus-1.jpg?quality=50&strip=all",
-      "date": "Sun, 27 Sep 2026 08:00:00 +0000"
+      "title": "Ring’s popular Indoor Cam just dropped to $25 — its lowest price ever",
+      "description": "MATCHES LOWEST PRICE Ring Indoor Security Camera View Deal There’s one thing that’ll give you peace of mind when you’re on vacation, at work, or on a grocery run—a security camera that watches over your home and lets you tune in remotely. Right now, Amazon is selling its Ring Indoor Cam for just $25 instead of $50 . Not only is that half price, but it matches the lowest price it’s ever been. At half off, the Ring Indoor Cam is a fantastic value. It records 1080p video, it’s easy to install and s",
+      "url": "https://www.pcworld.com/article/3243617/rings-indoor-cam-just-dropped-to-25-its-lowest-price-ever.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3243617-0-78442000-1790605591-Ring-indoor-cam.jpg?quality=50&strip=all",
+      "date": "Mon, 28 Sep 2026 14:25:47 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Get lifetime web hosting for unlimited websites at $149.99",
-      "description": "TL;DR: Hostdeal Unlimited Plan is a lifetime web hosting subscription with unlimited websites, storage, and bandwidth, on sale for $149.99 (reg. $1,800). Web hosting is usually billed monthly, and the cost increases with each new site added to the account. Hostdeal Unlimited Plan offers an alternative to never-ending payments. A lifetime subscription covering unlimited websites is on sale for $149.99 (reg. $1,800). Unlimited NVMe SSD storage, unlimited bandwidth, and 54 free lifetime domains com",
-      "url": "https://www.pcworld.com/article/3243867/get-lifetime-web-hosting-for-unlimited-websites-at-149-99.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3243867-0-13540700-1790496063-Hostdeal.jpg?quality=50&strip=all",
-      "date": "Sun, 27 Sep 2026 08:00:00 +0000"
+      "title": "Microsoft Office suddenly needs to reactivate? A bad update might be why",
+      "description": "Microsoft recently released optional out-of-band update KB5002907 , intended to bring outdated versions of Microsoft 365 Apps back in sync and continuing to receive updates. However, Microsoft quickly halted the rollout of this update due to a serious issue. This update was for Windows PCs on which Microsoft 365 Apps were more than 90 days out of date and either on the Current Channel or Monthly Enterprise Channel. Installing the update would allow those apps to be updated again and switch to a ",
+      "url": "https://www.pcworld.com/article/3245610/microsoft-office-suddenly-needs-to-reactivate-a-bad-update-might-be-why.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3245610-0-18595900-1790605314-new-Microsoft-Office-365-app-icon.png",
+      "date": "Mon, 28 Sep 2026 14:21:38 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Edit and convert PDFs without committing to another software subscription — this one’s a flat $40",
-      "description": "TL;DR: Get lifetime access to PDF Agile for $39.99 instead of signing up for an ongoing Adobe Acrobat subscription. Adobe Acrobat may be the familiar name for working with PDFs, but it’s far from the only tool available. PDF Agile offers another way to handle everyday PDF tasks without adding another recurring software expense. The all-in-one editor normally costs $119, but it’s currently available for $39.99 with lifetime access. PDF Agile is simple and easy to use. It can edit text, images, or",
-      "url": "https://www.pcworld.com/article/3242502/edit-and-convert-pdfs-without-committing-to-another-software-subscription-this-ones-a-flat-40.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3242502-0-37633100-1790409679-PDF-Agile-1.jpg?quality=50&strip=all",
-      "date": "Sat, 26 Sep 2026 08:00:00 +0000"
+      "title": "Anker’s best Amazon deals: $6 USB-C cables to a 250W charging monster",
+      "description": "Anker sits among our favorite brands for accessories and gadgets, ranging from GaN chargers to power banks to USB-C cables and more. Stuff for your desk, stuff for your travels, and everything in between. Even better is when you’re able to grab Anker gear at a discount. Right now, a bunch of their stuff is on sale on Amazon… so I’ve rounded up the most standout deals worth grabbing today. Deals at a glance Anker 100W USB-C Cable (2-pack) — $12.99 Anker Nano 45W GaN Charger — $29.99 (was $39.99) ",
+      "url": "https://www.pcworld.com/article/3191549/ankers-best-amazon-deals-6-usb-c-cables-to-a-250w-charging-monster.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3191549-0-34178700-1790605086-Anker-Prime-deals.jpg?quality=50&strip=all",
+      "date": "Mon, 28 Sep 2026 14:17:57 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Give your Windows PC a subscription-free Microsoft Office setup for only $17",
-      "description": "TL;DR: Get Microsoft Office Pro Plus 2019 for a one-time $16.97 payment (MSRP $229) and keep a lifetime license through October 4. Office has increasingly moved toward subscriptions, which means another payment every year just to keep access to familiar productivity apps . For anyone looking to avoid that recurring cost, Office Pro Plus 2019 offers a one-time alternative, and it’s currently available for $16.97 (MSRP $229) until October 4. This license gives you lifetime access to Word, Excel, P",
-      "url": "https://www.pcworld.com/article/3242488/give-your-windows-pc-a-subscription-free-microsoft-office-setup-for-only-17.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3242488-0-47772800-1790409683-mso-pro-plus-2019-win-1.jpg?quality=50&strip=all",
-      "date": "Sat, 26 Sep 2026 08:00:00 +0000"
+      "title": "Windows 11’s ads are way too pushy. These 9 settings fix the worst",
+      "description": "Remember back when Windows 11 first came out and Microsoft gave everyone a free pass to upgrade? On the surface, it was a generous move; in actuality, it was a ploy to lure us away from Windows 10. get windows 11 pro for cheap Windows 11 Pro Price When Reviewed: 199.99 Best Prices Today: $59 at PCWorld Store – Win 11 Pro Upgrade Only | $79.99 at PCWorld Software Store Obviously, if Microsoft was giving something away, it was going to come with a catch. In this case, it’s all the ads that are bei",
+      "url": "https://www.pcworld.com/article/2545435/windows-11s-ads-are-way-too-pushy-these-9-settings-fix-the-worst-of-it.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/2545435-0-05153200-1790604035-oh-god-why-copilot-why.jpg?quality=50&strip=all",
+      "date": "Mon, 28 Sep 2026 14:00:00 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "10 early October Prime Day deals worth buying right now",
-      "description": "October Prime Day (officially known as “Prime Big Deal Days”) is coming next week! If you missed out on June’s Prime Day, this is your chance to snag a bunch of stuff on sale—hopefully stuff that’s already in your cart, waiting for you to pull the trigger. Prime Big Deal Days runs Tuesday, October 6th to Wednesday, October 7th. But if you have cash to spend right now and you want to score some early deals ahead of the big event, here are some of the coolest tech deals I’ve spotted in the days le",
-      "url": "https://www.pcworld.com/article/3244511/early-october-prime-day-deals-2026.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3244511-0-06209000-1790366647-Amazon-Prime-Day-promo-image-2026-16x9-1.png",
-      "date": "Fri, 25 Sep 2026 20:03:50 +0000"
+      "title": "Samsung’s 49-inch ultrawide monitor is $400 off ahead of Prime Day",
+      "description": "BEST PRICE ALL YEAR Samsung ViewFinity S9 Ultrawide Monitor View Deal Prime Day is a week away and we’re already seeing impressive discounts for tech gear we’ve been eyeing. Right now, Samsung’s impressive 49-inch ultrawide monitor is on sale for $799.98 , a whopping $400 discount that matches the best price it’s been all year. What’s interesting is that high-end ultrawides like this are typically marketed towards gamers, but this one is a business-class model. You’re looking at double HDMI plus",
+      "url": "https://www.pcworld.com/article/3245211/samsungs-49-inch-ultrawide-monitor-is-400-off-ahead-of-prime-day.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3245211-0-91000100-1790602435-Samsung-ViewFinity-S95UC-ultrawide-business-monitor.jpg?quality=50&strip=all",
+      "date": "Mon, 28 Sep 2026 13:33:37 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "SCUF’s premium PC-only wireless controller just hit its lowest price ever",
-      "description": "NEW LOWEST PRICE SCUF Envision Pro Wireless V2 Controller View Deal Amazon is currently selling the SCUF Envision Pro Wireless V2 at a nice discount: normally $179.99, it’s now available for $139.99. That’s a new all-time low price for a wireless gaming controller that boasts some killer features, with one caveat—it’s PC only. This is the 2025 revised version of the SCUF Envision Pro Wireless, specifically designed for PC gaming. It offers a total of 11 configurable inputs, including four rear p",
-      "url": "https://www.pcworld.com/article/3244480/scufs-premium-pc-only-wireless-controller-just-hit-its-lowest-price-ever.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3244480-0-89090700-1790355788-Scuf.jpg?quality=50&strip=all",
-      "date": "Fri, 25 Sep 2026 17:02:53 +0000"
+      "title": "Your monitor placement is hurting you. Don’t make these 5 mistakes!",
+      "description": "Monitor placement is key to a healthy posture at your desk , whether for work or gaming. If the monitor is too far, too close, too high, too low, or tilted at the wrong angle, you will develop posture-related problems at some point—like eye strain, fatigue, back pain, or more severe issues like herniated disks and pinched nerves. As someone with chronic back issues who works at a desk all day, I take my workstation setup seriously. I switched to a standing desk and sometimes even use an under-de",
+      "url": "https://www.pcworld.com/article/3044089/your-monitor-placement-is-hurting-you-dont-make-these-5-mistakes.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3044089-0-59579000-1790600423-Alienware-monitor-on-a-high-tech-wooden-desk-setup.jpg?quality=50&strip=all",
+      "date": "Mon, 28 Sep 2026 13:00:00 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Best gaming laptops 2026: 4 top options for portable performance",
-      "description": "Not all gaming laptops are created equal, which is important to know when you’re shopping for one. Some are designed to give you the best performance possible, while others prioritize color accurate displays. The real test is how they hold up in actually gameplay. And that’s where we come in! At PCWorld, we’ve put every laptop on this list through hands-on testing. And we didn’t just stop at the specifications, either! We looked at everything, including keyboard feel, port placement, performance",
-      "url": "https://www.pcworld.com/article/407493/best-gaming-laptops.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/407493-0-89050400-1790355631-msi-titan-gt77-4.jpg?quality=50&strip=all",
-      "date": "Fri, 25 Sep 2026 17:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Windows 10 is more stable than Windows 11 in 2026, data shows",
-      "description": "Time and again, Microsoft has to issue fixes for Windows 11 because its monthly updates cause unexpected damage. But just how prone to errors is Windows 11 really, given the number of updates that constantly cause new problems? And how robust is Windows 10 in comparison? According to Windows Latest , which analyzed all the Windows updates released since January 2026, the results are unsurprising: Windows 10 is significantly more stable and reliable than Windows 11. Most recently, the Windows 11 ",
-      "url": "https://www.pcworld.com/article/3244478/windows-10-is-more-stable-than-windows-11-in-2026-data-shows.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3244478-0-74855300-1790353743-Windows-11-logo-juxtaposed-with-Windows-10-logo-1.jpg?quality=50&strip=all",
-      "date": "Fri, 25 Sep 2026 16:28:46 +0000"
+      "title": "The FBI employee data hack offers three useful lessons for all of us",
+      "description": "I don’t work for the FBI. (Obviously.) But I’ve avidly followed the news that ShinyHunters, a prolific hacking group, allegedly broke into the FBI’s personnel records. The high profile nature of this hack makes me wonder how well the agency’s employees will weather any data theft—and what lessons we ordinary folk can take away from such a situation. Welcome to Safe Mode, your weekly report for pressing security and privacy news—and what steps to take next. Want this newsletter to come directly t",
+      "url": "https://www.pcworld.com/article/3244776/the-fbi-employee-data-hack-offers-three-useful-lessons-for-all-of-us.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3244776-0-52760200-1790596827-david-trinks-Vvh_9ooeEZ0-unsplash.jpg?quality=50&strip=all",
+      "date": "Mon, 28 Sep 2026 12:00:00 +0000"
     }
   ],
   "starwars": [
@@ -901,104 +901,113 @@
     {
       "category": "starwars",
       "source": "Jedi News",
+      "title": "Hot Toys Han Solo 1/6 Scale Collectible Figure Unboxing with Sideshow",
+      "description": "Sideshow unboxes the Hot Toys Han Solo 1/6 Scale Collectible Figure inspired by the characters appearance in Star Wars: The Empire Strikes Back, available with a carefully crafted outfit and detailed accessories that evoke iconic moments from the beloved film. The post Hot Toys Han Solo 1/6 Scale Collectible Figure Unboxing with Sideshow appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/collecting/articles/hot-toys-han-solo-1-6-scale-collectible-figure-unboxing-with-sideshow/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/Hot-Toys-Han-Solo-Sixth-Scale-Sept26-300x201.jpg",
+      "date": "Mon, 28 Sep 2026 12:13:50 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Disney Store UK Launches Free Online Membership Programme with 15% Off for Launch Week",
+      "description": "Disney Store UK has launched a new free membership programme that will give shoppers access to exclusive savings, offers and benefits throughout the year when they shop at DisneyStore.co.uk. The post Disney Store UK Launches Free Online Membership Programme with 15% Off for Launch Week appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/collecting/articles/disney-store-uk-launches-free-online-membership-programme-with-15-off-for-launch-week/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/Disney-Store-Unlocked-Sept26-300x201.jpg",
+      "date": "Mon, 28 Sep 2026 11:40:22 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Blocks Issue 144 Celebrates 25 Years of LEGO Harry Potter",
+      "description": "Issue 144 of the monthly Blocks magazine is out now featuring reviews of the latest LEGO releases, a celebration of the 25th anniversary of LEGO Harry Potter, and interviews LEGO Masters contestant Boone Langston, who is now a fully fledged LEGO Star Wars designer. The post Blocks Issue 144 Celebrates 25 Years of LEGO Harry Potter appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/literature/articles/blocks-issue-144-celebrates-25-years-of-lego-harry-potter/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/Blocks-magazine-Issue-144-featured-Sept26-300x201.jpg",
+      "date": "Mon, 28 Sep 2026 10:44:02 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "R8-26 from Tales of the Empire Confirmed for November’s Disney Droid Factory Release",
+      "description": "The full line up of Disney Droid Factory Series 2 releases for the rest of 2026 has been confirmed as KP-1 from the Obi-Wan Kenobi series on October 2nd, R8-26 from Tales of The Empire on November 6th, and M5-BZ/Meebur Gascon from D-Squad on December 4th. The post R8-26 from Tales of the Empire Confirmed for November’s Disney Droid Factory Release appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/collecting/articles/r8-26-from-tales-of-the-empire-confirmed-for-novembers-disney-droid-factory-release/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/Droid-Factory-R8-26-Featured-Sept26-300x201.jpg",
+      "date": "Mon, 28 Sep 2026 10:09:00 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Nominations for Ewok Batuu Adventure Buddy and LEGO Star Wars Smart Play Sets at TAGIE Awards",
+      "description": "Two Star Wars products received nominations at the 19th Annual Toy & Game International Excellence (TAGIE) Awards, Alex Wilde, Cody Hampton & Jessica Kaups for the Interactive Ewok Batuu Adventure Buddy and Chris Gollaher for LEGO Star Wars SMART Play sets. The post Nominations for Ewok Batuu Adventure Buddy and LEGO Star Wars Smart Play Sets at TAGIE Awards appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/collecting/articles/nominations-for-ewok-batuu-adventure-buddy-and-lego-star-wars-smart-play-sets-at-tagie-awards/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/TAGIE-Awards-LEGO-Star-Wars-Batuu-Buddies-Sept26-300x201.jpg",
+      "date": "Mon, 28 Sep 2026 09:34:06 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Rare Kenner Star Wars Luke Skywalker Double Lightsaber Action Figure Heads to Auction",
+      "description": "A rare Kenner Star Wars Luke Skywalker action figure featuring a double telescoping lightsaber is going under the hammer at Vectis Auctions on October 15th, with bids starting at £9,000 and expected to reach up to £20,000. The post Rare Kenner Star Wars Luke Skywalker Double Lightsaber Action Figure Heads to Auction appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/collecting/articles/rare-kenner-star-wars-luke-skywalker-double-lightsaber-action-figure-heads-to-auction/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/Luke-Skywalker-Vectis-Sept26-300x201.jpg",
+      "date": "Mon, 28 Sep 2026 06:17:06 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Tarkin’s Top Shelf #465: Mortis Gods Are a THING! Plus, Rumors of the Future?",
+      "description": "Time to revisit Tarkin's Top Shelf with episode 465 discussing all things Star Wars. The post Tarkin’s Top Shelf #465: Mortis Gods Are a THING! Plus, Rumors of the Future? appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/tarkins-top-shelf-465-mortis-gods-are-a-thing-plus-rumors-of-the-future/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2018/04/tarkins-top-shelf-300x201.jpg",
+      "date": "Mon, 28 Sep 2026 05:45:53 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "This Weeks Publications – 28th September 2026",
+      "description": "Welcome to week 39 of 2026 and our list detailing what new publications to expect from a galaxy far, far away. The post This Weeks Publications – 28th September 2026 appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/literature/articles/this-weeks-publications-28th-september-2026/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/Star-Pilots-FI-300x201.jpeg",
+      "date": "Mon, 28 Sep 2026 04:01:40 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Guess The Missing LEGO Star Wars Piece | Star Wars Kids",
+      "description": "Play along with this fun LEGO Star Wars guessing game! Each clip has a LEGO piece removed. Can you remember what piece is missing from each iconic LEGO Star Wars scene? The post Guess The Missing LEGO Star Wars Piece | Star Wars Kids appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/guess-the-missing-lego-star-wars-piece-star-wars-kids/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/maxresdefault-52-300x169.jpg",
+      "date": "Sun, 27 Sep 2026 23:28:39 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Rebel Force Radio: Crafting Star Wars History with Alan Dean Foster",
+      "description": "Join Jimmy and Jason on Rebel Force Radio as they discuss the latest Star Wars news. The post Rebel Force Radio: Crafting Star Wars History with Alan Dean Foster appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/rebel-force-radio-crafting-star-wars-history-with-alan-dean-foster/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2018/04/rebel-force-radio-300x201.jpg",
+      "date": "Sun, 27 Sep 2026 22:55:51 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
       "title": "Skywalker Saga Set to Continue with Spider-Man and Skeleton Crew Director Jon Watts",
       "description": "Jon Watts has previously shared that he would be willing to return to a galaxy far, far away and now Deadline has confirmed that Lucasfilm has tapped the Skeleton Crew co-creator and Spider-Man director to helm the first entry in a new trilogy of the Skywalker Saga. The post Skywalker Saga Set to Continue with Spider-Man and Skeleton Crew Director Jon Watts appeared first on Jedi News .",
       "url": "https://www.jedinews.com/film-music-tv/articles/skywalker-saga-set-to-continue-with-spider-man-and-skeleton-crew-director-jon-watts/",
       "image": "https://www.jedinews.com/wp-content/uploads/2026/09/Jon-Watts-Star-Wars-Sept26-300x201.jpg",
       "date": "Sun, 27 Sep 2026 20:14:54 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "The Mandalorian and Grogu Visit the Anzellans to Repair IG-11 | The Mandalorian | Official Clip",
-      "description": "Bad baby, no squeezie! Stream The Mandalorian now on Disney+. The post The Mandalorian and Grogu Visit the Anzellans to Repair IG-11 | The Mandalorian | Official Clip appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/the-mandalorian-and-grogu-visit-the-anzellans-to-repair-ig-11-the-mandalorian-official-clip/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/maxresdefault-53-300x169.jpg",
-      "date": "Sun, 27 Sep 2026 17:28:19 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Skywalking Through Neverland #576: Star Wars Stories from Rebel Scum Con, Part 3",
-      "description": "Join Skywalking Through Neverland duo Sarah and Richard for their latest episode (#576) discussing all the latest Star Wars and Disney news. The post Skywalking Through Neverland #576: Star Wars Stories from Rebel Scum Con, Part 3 appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/skywalking-through-neverland-576-star-wars-stories-from-rebel-scum-con-part-3/",
-      "image": "",
-      "date": "Sun, 27 Sep 2026 16:56:10 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Podcast Stardust #1,089: “It’s Definitely A Thing” The Mortis Gods in Ahsoka | Star Wars News",
-      "description": "First-generation Star Wars fans, Dennis Keithly and Jay Krebs, host episode 1,089 of Podcast Stardust. The post Podcast Stardust #1,089: “It’s Definitely A Thing” The Mortis Gods in Ahsoka | Star Wars News appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/podcast-stardust-1089-its-definitely-a-thing-the-mortis-gods-in-ahsoka-star-wars-news/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2020/05/Podcast-Stardust-300x201.jpg",
-      "date": "Sun, 27 Sep 2026 09:39:04 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "2+ Full Hours of Star Wars Rebels | Full Episode Marathon | Star Wars Kids",
-      "description": "The Ghost crew joins the growing Rebel Alliance, struggling to unite against the Galactic Empire. Stream Star Wars Rebels on Disney+. The post 2+ Full Hours of Star Wars Rebels | Full Episode Marathon | Star Wars Kids appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/2-full-hours-of-star-wars-rebels-full-episode-marathon-star-wars-kids/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/maxresdefault-51-300x169.jpg",
-      "date": "Sat, 26 Sep 2026 23:27:38 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Yannick Lorvo Attending Thank the Maker – Rogue One: A Star Wars Story 10th Anniversary Event on October 17th",
-      "description": "VFX, CG and Asset Supervisor Yannick Lorvo is the seventeenth guest confirmed as attending Thank the Maker, in celebration of the 10th anniversary of Rogue One: A Star Wars Story, at St Swithun’s School in Winchester, Hampshire on October 17th, 2026. The post Yannick Lorvo Attending Thank the Maker – Rogue One: A Star Wars Story 10th Anniversary Event on October 17th appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/events/articles/yannick-lorvo-attending-thank-the-maker-rogue-one-a-star-wars-story-10th-anniversary-event-on-october-17th/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/Thank-the-Maker-Yannick-Lorvo-Sept26-300x201.jpg",
-      "date": "Sat, 26 Sep 2026 19:30:17 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "The Star Wars Underworld Podcast Live | We’re Going Back To Mortis? ‘Ahsoka’ Season 2 Details Revealed!",
-      "description": "Join the Star Wars Underworld team as they discuss this week's latest Star Wars news. The post The Star Wars Underworld Podcast Live | We’re Going Back To Mortis? ‘Ahsoka’ Season 2 Details Revealed! appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/the-star-wars-underworld-podcast-live-were-going-back-to-mortis-ahsoka-season-2-details-revealed/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2018/08/The-SW-Underworld-300x201.jpg",
-      "date": "Sat, 26 Sep 2026 18:52:28 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Comic Solicitations: Marvel – December 2026",
-      "description": "Marvel Comics have announced their solicitations for December 2026. The post Comic Solicitations: Marvel – December 2026 appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/literature/articles/comic-solicitations-marvel-december-2026/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/TFoKR5-Sol-FI-300x201.jpg",
-      "date": "Sat, 26 Sep 2026 11:01:41 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Ion Cannon #495: Star Wars: Zero Company",
-      "description": "Ion Cannon #495 blasts off. The post Ion Cannon #495: Star Wars: Zero Company appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/ion-cannon-495-star-wars-zero-company/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2018/04/ion-cannon-podcast-300x201.jpg",
-      "date": "Sat, 26 Sep 2026 08:45:12 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "C-3PO Meets the Ghost Crew | LEGO Star Wars | Star Wars Kids",
-      "description": "C-3PO recalls his first encounter with Hera, Kanan, and the Ghost crew during the hijacking of an Imperial ship. Will C-3PO and R2-D2 get along with the Ghost crew’s trusty droid, Chopper? Stream LEGO Star Wars: Droid Tales on Disney+. The post C-3PO Meets the Ghost Crew | LEGO Star Wars | Star Wars Kids appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/c-3po-meets-the-ghost-crew-lego-star-wars-star-wars-kids/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/maxresdefault-50-300x169.jpg",
-      "date": "Fri, 25 Sep 2026 23:26:52 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Skytalkers: Our First Trip to the Lucas Museum of Narrative Art",
-      "description": "Skytalkers - join Charlotte Errity and Caitlin Plesher as they talk about pressing and existing topics in the Star Wars universe. The post Skytalkers: Our First Trip to the Lucas Museum of Narrative Art appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/skytalkers-our-first-trip-to-the-lucas-museum-of-narrative-art/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2018/06/Skytalkers-300x201.jpg",
-      "date": "Fri, 25 Sep 2026 22:53:36 +0000"
     }
   ],
   "youtube": [
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Warum ein JWT ohne Signaturprüfung nichts wert ist ... #informatik #code #cybersecurity #microsoft",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/Tr01Ufk_VAo",
+      "image": "https://i.ytimg.com/vi/Tr01Ufk_VAo/hqdefault.jpg",
+      "date": "2026-09-28T16:15:39+00:00"
+    },
     {
       "category": "youtube",
       "source": "Hood Informatik",
@@ -1079,15 +1088,6 @@
       "url": "https://www.youtube.com/shorts/G33Qc2KWnUQ",
       "image": "https://i.ytimg.com/vi/G33Qc2KWnUQ/hqdefault.jpg",
       "date": "2026-09-17T16:45:04+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Sollten AI Detektoren über Noten entscheiden können ?! #informatik #ai #universität #code",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/o39ZkQnA_YU",
-      "image": "https://i.ytimg.com/vi/o39ZkQnA_YU/hqdefault.jpg",
-      "date": "2026-09-16T16:15:14+00:00"
     },
     {
       "category": "youtube",
