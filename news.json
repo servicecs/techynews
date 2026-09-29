@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-29T15:28:27.418796+00:00",
+  "updated": "2026-09-29T20:11:02.843408+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "NVIDIA го претстави Kumo Tabular, отворен модел што прави предвидувања од табели без тренирање",
+      "description": "NVIDIA го претстави Kumo Tabular, отворен модел за вештачка интелигенција наменет за табеларни податоци. Станува збор за податоците што компаниите ги чуваат во табели и бази на податоци, од листи со клиенти и трансакции до кредитни барања, односно за најчестиот вид податоци во бизнисот. Моделот од табела со познати примери предвидува вредности за нови редови. На пример, […]",
+      "url": "https://smartportal.mk/novosti/ai/nvidia-kumo-tabular/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Depositphotos_713337552_XL-f-150x150.webp",
+      "date": "Tue, 29 Sep 2026 16:57:27 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Sony го прескокнува CES 2027 и се фокусира на игрите, филмовите и музиката",
+      "description": "Sony нема да учествува на CES 2027, саемот за потрошувачка електроника што секој јануари се одржува во Лас Вегас. Веста прва ја објави Nikkei, а компанијата ја потврди за Bloomberg, наведувајќи дека „постојано и стратешки го оценува својот пристап кон настаните и комуникацијата, според потребите и приоритетите на својот разновиден бизнис“. Според самата Sony, компанијата за прв пат […]",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/sony-go-preskoknuva-ces-2027/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/declan-sun-1p8YPO06SbM-unsplash-150x150.jpg",
+      "date": "Tue, 29 Sep 2026 16:29:53 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -75,129 +93,111 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Microsoft го претстави новиот Copilot со Home, Code и Autopilot, агентот што продолжува да работи и кога корисникот не е на компјутер",
-      "description": "Microsoft го претстави новиот Copilot, кој е организиран во три нови простори: Home, Code и Autopilot. Компанијата сака на едно место да ги поврзе алатките што луѓето веќе ги користат со новите можности за градење и автоматизирање на работата. Home е новата почетна страница, каде се спојуваат Chat, за брзи прашања и нацрти, и Cowork, на кој […]",
-      "url": "https://smartportal.mk/novosti/ai/microsoft-nov-copilot/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/OMB-Copilot-9-25-Hero-9_22_26-150x150.webp",
-      "date": "Mon, 28 Sep 2026 10:11:42 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Македонските млади информатичари ја заокружија успешната година за Македонија со бронзен медал и олимписка пофалба на олимпијадата во Сараево",
-      "description": "Ново одлично претставување на Здружението на информатичарите на Македонија, како заокружување на уште една, исклучително успешна година за Македонија на олимпијадите по информатика, преку резултатот на 19-тата Јуниорска балканска олимпијада по информатика, која од 22-ри до 28-ми септември се одржува во Сараево, Босна и Херцеговина. Македонскиот тим на овој престижен меѓународен натпревар во програмирање за ученици […]",
-      "url": "https://smartportal.mk/novosti/nauka-istrazuvanja/makedonskite-mladi-informaticari-ja-zaokruzija-uspesnata-godina/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/sl2-150x150.webp",
-      "date": "Mon, 28 Sep 2026 08:54:04 +0000"
-    },
-    {
-      "category": "mkd",
       "source": "Time.mk - All",
-      "title": "УАПСЕНА ЗА ТЕРОРИЗАМ ГРУПА ПРИПАДНИЦИ НА ИСИС ВО СКОПЈЕ, ДОКАЗИТЕ ПРОИЗЛЕГЛЕ ОД ТЕКОВЕН СУДСКИ ПРОЦЕС НА ДРУГИ ОБВИНЕТИ | Сакам да кажам",
+      "title": "Петров: Оваа недела ќе го доставиме планот до Филипче, СДСМ е на слабо ниво, сулудо е да се чека | 4NEWS",
       "description": "",
-      "url": "https://time.mk/c/76055225e9/uapsena-za-terorizam-grupa-pripadnici-na-isis-vo-skopje-dokazite-proizlegle-od-tekoven-sudski-proces-na-drugi-obvineti.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/09/apsene-ekstremisti-oruzhje2.jpg",
-      "date": "Tue, 29 Sep 2026 15:20:54 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Мицкоски контра „Политико“: Нема информација дека Македонија ќе остане без патоказ за ЕУ | Независен",
-      "description": "",
-      "url": "https://time.mk/c/117d53d477/mickoski-kontra-politiko-nema-informacija-deka-makedonija-ke-ostane-bez-patokaz-za-eu.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/09/mickoski-izjava-328932898923.jpg",
-      "date": "Tue, 29 Sep 2026 10:00:57 +0000"
+      "url": "https://time.mk/c/512b002e46/petrov-ovaa-nedela-ke-go-dostavime-planot-do-filipce-sdsm-e-na-slabo-nivo-suludo-e-da-se-ceka.html",
+      "image": "https://4news.mk/wp-content/uploads/2026/09/andrej-petrov-5--1024x672.avif",
+      "date": "Tue, 29 Sep 2026 19:54:37 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - Magazin",
-      "title": "Светски ден на срцето: Во Македонија една третина од смртните случаи се од кардиоваскуларни заболувања | ТВ21",
+      "title": "Срцето не предупредува секогаш гласно: секоја трета смрт во Македонија е од кардиоваскуларни заболувања | Паноптикум",
       "description": "",
-      "url": "https://time.mk/c/edfa3b1588/svetski-den-na-srceto-vo-makedonija-edna-tretina-od-smrtnite-slucai-se-od-kardiovaskularni-zaboluvanja.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2020/09/den-na-srceto.jpg",
-      "date": "Tue, 29 Sep 2026 14:21:04 +0000"
+      "url": "https://time.mk/c/e888705148/srceto-ne-predupreduva-sekogas-glasno-sekoja-treta-smrt-vo-makedonija-e-od-kardiovaskularni-zaboluvanja.html",
+      "image": "https://panoptikum.mk/wp-content/uploads/kontrola-na-srceto-kako-preventiva.webp",
+      "date": "Tue, 29 Sep 2026 20:04:58 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - Sport",
+      "title": "Нема гол на полувреме, но ова е многу подобро од првиот меч со Швајцарија | МакФудбал",
+      "description": "",
+      "url": "https://time.mk/c/a2c912cd8e/nema-gol-na-poluvreme-no-ova-e-mnogu-podobro-od-prviot-mec-so-svajcarija.html",
+      "image": "https://makfudbal.mk/wp-content/uploads/2026/09/slovenija-so-makedonija-1-300x187.jpg",
+      "date": "Tue, 29 Sep 2026 19:38:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Пет-шест дена ќе требаат за нормално функционирање на „Нова Македонија“ по поплавата, вели директорот Томовски чии екипи работат на санацијата | Скопје1",
+      "title": "Скопје бара излез од бугарската блокада, ќе има ли разговори во европски формат?! | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/c2dbba1f2b/pet-sest-dena-ke-trebaat-za-normalno-funkcioniranje-na-nova-makedonija-po-poplavata-veli-direktorot-tomovski-cii-ekipi-rabotat-na-sanacijata.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/85621/conversions/text-max.jpg",
-      "date": "Tue, 29 Sep 2026 10:34:36 +0000"
+      "url": "https://time.mk/c/73bb721203/skopje-bara-izlez-od-bugarskata-blokada-ke-ima-li-razgovori-vo-evropski-format.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1790691734/fusfl5w1osslj3b2irym.jpg",
+      "date": "Tue, 29 Sep 2026 14:54:45 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Стоп за фемицидот: Заедничка одговорност за заштита на жените | Макфакс",
+      "title": "Муцунски: Проширувањето на ЕУ е инвестиција во стабилноста и безбедноста на Европа | Нова Македонија",
       "description": "",
-      "url": "https://time.mk/c/6249f2ce36/stop-za-femicidot-zaednicka-odgovornost-za-zastita-na-zenite.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/stopfemicid1.webp",
-      "date": "Tue, 29 Sep 2026 14:32:50 +0000"
+      "url": "https://time.mk/c/a84ce8bf9e/mucunski-prosiruvanjeto-na-eu-e-investicija-vo-stabilnosta-i-bezbednosta-na-evropa.html",
+      "image": "https://novamakedonija.com.mk/wp-content/uploads/2026/08/mucunski-150x150.jpg",
+      "date": "Tue, 29 Sep 2026 19:23:12 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Жените ја носат администрацијата, мажите – одлуките | Пари",
+      "title": "Петров: ДУИ има паметни луѓе, но фудбалот во кабинет беше изживување, поединечната недопирливост му нанесе штета на СДСМ | 4NEWS",
       "description": "",
-      "url": "https://time.mk/c/5ed1643b95/zenite-ja-nosat-administracijata-mazite-odlukite.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/09/f4641ab6-85c3-44a3-8c74-72f7566e290f.png",
-      "date": "Tue, 29 Sep 2026 09:10:58 +0000"
+      "url": "https://time.mk/c/d7a8a7964e/petrov-dui-ima-pametni-lugje-no-fudbalot-vo-kabinet-bese-izzivuvanje-poedinecnata-nedopirlivost-mu-nanese-steta-na-sdsm.html",
+      "image": "https://4news.mk/wp-content/uploads/2026/09/andrej-petrov-7--1024x672.avif",
+      "date": "Tue, 29 Sep 2026 20:06:39 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "24 Анализа - Што претставуваат дата центрите, околу кои владата развива интерес за привлекување странски инвестиции? | 24 Вести",
+      "description": "",
+      "url": "https://time.mk/c/9251cef057/24-analiza-sto-pretstavuvaat-data-centrite-okolu-koi-vladata-razviva-interes-za-privlekuvanje-stranski-investicii.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1790711761/z6rbbkl8z6eiw9udszvf.jpg",
+      "date": "Tue, 29 Sep 2026 19:57:16 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
       "title": "По децении неуспешни обиди за јавно-приватно партнерство, државата ќе го гради “Чебрен и Галиште” | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/c0f4370c1f/po-decenii-neuspesni-obidi-za-javno-privatno-partnerstvo-drzavata-ke-go-gradi-cebren-i-galiste.html",
+      "url": "https://time.mk/c/a66f399988/po-decenii-neuspesni-obidi-za-javno-privatno-partnerstvo-drzavata-ke-go-gradi-cebren-i-galiste.html",
       "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1790694710/yxraxt9dkfqrb1haz2xq.jpg",
       "date": "Tue, 29 Sep 2026 15:12:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Инфлацијата паѓа, економијата расте, но ниту храната поевтинува ниту имаме повисок животен стандард | Вечер Прес",
+      "title": "Уставен суд на Црна Гора: Вакцинациите се услов децата да одат во градинка | Независен",
       "description": "",
-      "url": "https://time.mk/c/3cd51bf24e/inflacijata-pagja-ekonomijata-raste-no-nitu-hranata-poevtinuva-nitu-imame-povisok-zivoten-standard.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/09/1-8-scaled.jpg",
-      "date": "Tue, 29 Sep 2026 13:16:58 +0000"
+      "url": "https://time.mk/c/1e570faf0e/ustaven-sud-na-crna-gora-vakcinaciite-se-uslov-decata-da-odat-vo-gradinka.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2021/04/Masovna-vakcinacija-vo-Boris-Trajkovski-vakcina-Sputnik-V-5-bg_resize.jpg",
+      "date": "Tue, 29 Sep 2026 19:32:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Што стои зад дипломатскиот договор меѓу Софија и Атина: Коските на Цар Самоил во замена за реликвии од грчки манастири | Независен",
+      "title": "БУГАРИЈА СО НЕПОВОЛНА СОЦИЈАЛНА СЛИКА, околу 1,37 милиони луѓе живеат по линијата на сиромаштија | Економија и Бизнис",
       "description": "",
-      "url": "https://time.mk/c/662792f594/sto-stoi-zad-diplomatskiot-dogovor-megju-sofija-i-atina-koskite-na-car-samoil-vo-zamena-za-relikvii-od-grcki-manastiri.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/Rosen-Plevneliev-Car-Samoil.jpg",
-      "date": "Tue, 29 Sep 2026 13:24:53 +0000"
+      "url": "https://time.mk/c/f9487adbf4/bugarija-so-nepovolna-socijalna-slika-okolu-1-37-milioni-lugje-ziveat-po-linijata-na-siromastija.html",
+      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/04/ugostitelstvocorba-1024x578.jpg",
+      "date": "Tue, 29 Sep 2026 19:36:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ЕК ќе предложи радикална реформа на процесот на одлучување | Независен",
+      "title": "Берлин: Русија сè уште не е подготвена за сериозни преговори за завршување на војната | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/a97e571d9d/ek-ke-predlozi-radikalna-reforma-na-procesot-na-odlucuvanje.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2023/09/Evropska-unija.jpg",
-      "date": "Tue, 29 Sep 2026 10:36:48 +0000"
+      "url": "https://time.mk/c/0a92814b27/berlin-rusija-se-uste-ne-e-podgotvena-za-seriozni-pregovori-za-zavrsuvanje-na-vojnata.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/pexels-rockwell-branding-agency-85164430-9137423.jpg",
+      "date": "Tue, 29 Sep 2026 19:46:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Нетанјаху тврди дека има „индикации“ за можни непријателски напади пред парламентарните избори | Слободен Печат",
+      "title": "Прва жена на чело на владата на Мароко | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/9b3c81730b/netanjahu-tvrdi-deka-ima-indikacii-za-mozni-neprijatelski-napadi-pred-parlamentarnite-izbori.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2025/03/12679344-e1749846825958-300x166.jpg",
-      "date": "Tue, 29 Sep 2026 15:00:57 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Храната поскапи за 128 отсто, а иранската валута падна на досега невидено рекордно ниско ниво | Фактор",
-      "description": "",
-      "url": "https://time.mk/c/458deb2306/hranata-poskapi-za-128-otsto-a-iranskata-valuta-padna-na-dosega-nevideno-rekordno-nisko-nivo.html",
-      "image": "https://faktor.mk/media/main/2026/09/20260929171954.png",
-      "date": "Tue, 29 Sep 2026 15:20:54 +0000"
+      "url": "https://time.mk/c/ac73b2faea/prva-zena-na-celo-na-vladata-na-maroko.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/Screenshot-2026-09-29-205239-e1790707990488-300x193.png",
+      "date": "Tue, 29 Sep 2026 18:56:52 +0000"
     },
     {
       "category": "mkd",
@@ -220,56 +220,56 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Двајца малолетници учествувале во сообраќајка во Арачиново меѓу „голф“ и мопед, еден тешко повреден | Скопје1",
+      "title": "УАПСЕНА ЗА ТЕРОРИЗАМ ГРУПА ПРИПАДНИЦИ НА ИСИС ВО СКОПЈЕ, ДОКАЗИТЕ ПРОИЗЛЕГЛЕ ОД ТЕКОВЕН СУДСКИ ПРОЦЕС НА ДРУГИ ОБВИНЕТИ | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/f201dc9864/dvajca-maloletnici-ucestvuvale-vo-soobrakajka-vo-aracinovo-megju-golf-i-moped-eden-tesko-povreden.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/76873/conversions/text-max.jpg",
-      "date": "Tue, 29 Sep 2026 10:21:02 +0000"
+      "url": "https://time.mk/c/76055225e9/uapsena-za-terorizam-grupa-pripadnici-na-isis-vo-skopje-dokazite-proizlegle-od-tekoven-sudski-proces-na-drugi-obvineti.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/09/apsene-ekstremisti-oruzhje2.jpg",
+      "date": "Tue, 29 Sep 2026 15:20:54 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Пријавено лице од Охрид кој бил агресивен и физички нападнал членови на неговото семејство | Охрид1",
+      "title": "Физички нападнато 21-годишно лице од Охрид на булеварот „Железничка“ | Охрид1",
       "description": "",
-      "url": "https://time.mk/c/ef3b123f04/prijaveno-lice-od-ohrid-koj-bil-agresiven-i-fizicki-napadnal-clenovi-na-negovoto-semejstvo.html",
-      "image": "https://ohrid1.com/wp-content/uploads/2022/01/svr-oh.jpg",
+      "url": "https://time.mk/c/299606b95e/fizicki-napadnato-21-godisno-lice-od-ohrid-na-bulevarot-zeleznicka.html",
+      "image": "https://ohrid1.com/wp-content/uploads/2022/06/zeleznicka-750x460.png",
       "date": "Tue, 29 Sep 2026 15:26:44 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Одбележување на 110 години од Кајмакчаланската битка | Press24",
+      "title": "ВО БИТОЛА ЗАПОЧНА ОБЕЛЕЖУВАЊЕТО НА 110-ГОДИШНИНАТА ОД КАЈМАКЧАЛАНСКАТА БИТКА | Тера",
       "description": "",
-      "url": "https://time.mk/c/f5b7fc2fd4/odbelezuvanje-na-110-godini-od-kajmakcalanskata-bitka.html",
+      "url": "https://time.mk/c/57bbb4c0e7/vo-bitola-zapocna-obelezuvanjeto-na-110-godisninata-od-kajmakcalanskata-bitka.html",
+      "image": "https://tera.mk/wp-content/uploads/2026/09/5-Ð¿Ð¾Ð»Ð¾Ð¶ÑÐ²Ð°ÑÐµ-ÑÐ²ÐµÑÐµ-150x150.jpg",
+      "date": "Tue, 29 Sep 2026 15:34:45 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Нова опрема за одржување на јавните површини во Дојран | Бизнис Вести",
+      "description": "",
+      "url": "https://time.mk/c/ddd97d36e4/nova-oprema-za-odrzuvanje-na-javnite-povrsini-vo-dojran.html",
       "image": "",
-      "date": "Tue, 29 Sep 2026 15:12:51 +0000"
+      "date": "Tue, 29 Sep 2026 15:34:45 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Ново сообраќајно решение за центарот на Валандово | Вечер Прес",
+      "title": "ВИДЕО | Косовски рапер пее „Секси мама“ на гробот на Никола Карев — директорот на музејот во Крушево му го изнајмил Македониумот за 500 евра | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/854587ca13/novo-soobrakajno-resenie-za-centarot-na-valandovo.html",
-      "image": "",
-      "date": "Tue, 29 Sep 2026 12:28:55 +0000"
+      "url": "https://time.mk/c/7567c119a1/video-kosovski-raper-pee-seksi-mama-na-grobot-na-nikola-karev-direktorot-na-muzejot-vo-krusevo-mu-go-iznajmil-makedoniumot-za-500-evra.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/don-xhoni-spot-300x163.jpg",
+      "date": "Tue, 29 Sep 2026 15:50:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ДВАЕСЕТИНА ВИНАРИИ ЌЕ УЧЕСТВУВААТ НА ОСМОТО ИЗДАНИЕ НА „СВЕТСКИОТ ДЕН НА ВРАНЕЦОТ“ НА 5 ОКТОМВРИ ВО СКОПЈЕ | Сакам да кажам",
+      "title": "ВИДЕО | „Емотивно сум оштетена“: Тамара Тодевска се расплака зборувајќи за тежок животен период | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/5dbee4d74c/dvaesetina-vinarii-ke-ucestvuvaat-na-osmoto-izdanie-na-svetskiot-den-na-vranecot-na-5-oktomvri-vo-skopje.html",
-      "image": "https://smart.sdk.mk/wp-content/uploads/2026/09/vino-958x575.jpg",
-      "date": "Tue, 29 Sep 2026 15:06:47 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Да ѝ дадеме слобода на книжевноста и книжевност на слободата; 12. Фестивал на европската литература „Букстар“ | Вечер Прес",
-      "description": "",
-      "url": "https://time.mk/c/92d6b2b6fa/da-i-dademe-sloboda-na-knizevnosta-i-knizevnost-na-slobodata-12-festival-na-evropskata-literatura-bukstar.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/09/captttture.jpg",
-      "date": "Tue, 29 Sep 2026 13:47:00 +0000"
+      "url": "https://time.mk/c/1f15126db4/video-emotivno-sum-ostetena-tamara-todevska-se-rasplaka-zboruvajki-za-tezok-zivoten-period.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/signal-2026-09-29-18-18-38-139_002-e1790704929939-300x206.jpg",
+      "date": "Tue, 29 Sep 2026 18:27:01 +0000"
     }
   ],
   "de": [
@@ -458,6 +458,33 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "OpenAI Just Announced 'Dots,' a New Type of Personalized AI Agent",
+      "description": "Your \"dot\" can run multiple tasks on your behalf.",
+      "url": "https://lifehacker.com/tech/openai-just-announced-dots-its-take-on-metas-muse?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M3Q76V9D9SCVY4BDNE2M3CPB/hero-image.png",
+      "date": "Tue, 29 Sep 2026 19:30:15 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "10 Shows Like 'Lioness' You Should Watch Next",
+      "description": "These other thrillers have distinctive takes on crime and spycraft.",
+      "url": "https://lifehacker.com/entertainment/best-shows-like-lioness?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M3MA1NNJSHXE3FCD3ZW1FMB7/hero-image.jpg",
+      "date": "Tue, 29 Sep 2026 16:01:29 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "10 Hacks Every Canva User Should Know",
+      "description": "Level up your design capabilities with these hidden hacks.",
+      "url": "https://lifehacker.com/tech/best-canva-hacks?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M32EHJWX5YBV8XAAHT4ZWHQ9/hero-image.jpg",
+      "date": "Tue, 29 Sep 2026 15:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "Spotify and Claude Are Both Down",
       "description": "If you can't access Spotify or Claude this morning, you're not alone.",
       "url": "https://lifehacker.com/tech/spotify-and-claude-are-down?utm_medium=RSS",
@@ -610,30 +637,39 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "These Are the Best October Prime Day Deals on DeWalt Cordless Tools",
-      "description": "You can tackle all your fall projects with these deals on DeWalt cordless tools.",
-      "url": "https://lifehacker.com/home/best-deals-on-dewalt-cordless-tools-early-october-prime-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M3K87FCS4JKM0SV04WMYCJ41/hero-image.png",
-      "date": "Mon, 28 Sep 2026 14:30:20 +0000"
+      "source": "PCWorld",
+      "title": "OpenAI’s Dots are always-on AI agents for work",
+      "description": "Meta’s Muse agent was born to shop , while Gemini’s Spark can help you book airline tickets or plan your weekly meals. But while Muse and Spark act like personal assistants, OpenAI’s new AI agents are designed to be, well, another “you” in the office. Dots, which OpenAI boss Sam Altman just unveiled at the company’s annual developers conference , are always-on AI assistants that — as with Muse — you can name, assign cute little avatars to, and chat with in the ChatGPT interface, via text, or eve",
+      "url": "https://www.pcworld.com/article/3246780/openais-dots-are-always-on-ai-agents-for-work.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3246780-0-27104200-1790709048-OpenAI-Dots.jpg?quality=50&strip=all",
+      "date": "Tue, 29 Sep 2026 19:10:32 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "This Blink 2K+ Doorbell and Five-Camera Bundle Is 71% Off for October Prime Day",
-      "description": "The Blink Battery Doorbell 2K+ and five Outdoor 2K+ camera bundle is now $119.99.",
-      "url": "https://lifehacker.com/tech/blink-2k-doorbell-camera-bundle-sale-early-october-prime-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M3KJG4896P11FWW2XT7TMYH2/hero-image.png",
-      "date": "Mon, 28 Sep 2026 14:00:00 +0000"
+      "source": "PCWorld",
+      "title": "10 early October Prime Day deals worth buying right now",
+      "description": "October Prime Day (officially known as “Prime Big Deal Days”) is coming next week! If you missed out on June’s Prime Day, this is your chance to snag a bunch of stuff on sale—hopefully stuff that’s already in your cart, waiting for you to pull the trigger. Prime Big Deal Days runs Tuesday, October 6th to Wednesday, October 7th. But if you have cash to spend right now and you want to score some early deals ahead of the big event, here are some of the coolest tech deals I’ve spotted in the days le",
+      "url": "https://www.pcworld.com/article/3244511/early-october-prime-day-deals-2026.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3244511-0-84167200-1790701269-Amazon-Prime-Day-promo-image-2026-16x9-1.png",
+      "date": "Tue, 29 Sep 2026 17:01:01 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "This 65-Inch Samsung Mini-LED TV Is at Its Lowest Price Ever for October Prime Day",
-      "description": "The Samsung M80H TV with 4K and AI features is under $650 right now.",
-      "url": "https://lifehacker.com/tech/samsung-mini-led-tv-deal-early-october-prime-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M2TYB470MGVX4GN5RD8EEV6J/hero-image.png",
-      "date": "Mon, 28 Sep 2026 13:30:00 +0000"
+      "source": "PCWorld",
+      "title": "Best Windows backup software for PCs and laptops",
+      "description": "By now, the importance of backing up your Windows PC or laptop goes without saying. It only takes a moment to consider how much of your data is at potential risk of a drive failure, natural disaster, or a bad actor, if you don’t have a solid backup plan in place. The best Windows backup software includes file backup, sure, but also disk imaging and full image restore, as well as disaster recovery. Our picks for best Windows backup software are selected with all the must-haves of data backup and ",
+      "url": "https://www.pcworld.com/article/407021/best-windows-backup-software.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/407021-0-59190400-1790697635-backup-software_aufmacher.png",
+      "date": "Tue, 29 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Claude Sonnet 5.5 is here. This prompt stops it from wasting your usage",
+      "description": "The latest version of Claude Sonnet—Anthropic’s workhorse AI model—has just landed, and with it comes a prompt that could help keep any AI agent from leaping into action before making a plan first. Available now on the web, the Claude desktop app, and other Claude platforms, Claude Sonnet 5.5 is Anthropic’s middle-of-the-road model , It’s a step below Opus 5.5 but apparently just as capable as Fable 5.1 (Anthropic’s pricey frontier flagship) and a step above Haiku 5 (a fast but basic Claude mode",
+      "url": "https://www.pcworld.com/article/3246614/claude-sonnet-5-5-is-here-this-prompt-stops-it-from-wasting-your-usage.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3246614-0-68758500-1790696067-Claude-Sonnet-prompt.jpg?quality=50&strip=all",
+      "date": "Tue, 29 Sep 2026 15:34:12 +0000"
     },
     {
       "category": "eng",
@@ -688,42 +724,6 @@
       "url": "https://www.pcworld.com/article/3238152/why-sd-and-microsd-cards-fail-and-how-to-prevent-it.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3238152-0-84068600-1790686863-Pile-of-SD-cards-that-could-be-broken-or-inoperable.jpg?quality=50&strip=all",
       "date": "Tue, 29 Sep 2026 13:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
-      "description": "If you’re looking for an affordable Windows machine under $500 , a blazing fast gaming beast for those intense matches, or a portable 2-in-1 for school or work, you’ve got plenty of great choices right now. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 80 laptops every year. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches",
-      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/550968-0-46469900-1790685059-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
-      "date": "Tue, 29 Sep 2026 12:30:51 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Meta’s new VR headset forgot about the games",
-      "description": "I have a medium-intensity interest in virtual reality gaming. I’m excited to try Valve’s new Steam Frame , and an older VR headset design helped me lose a ton of weight . VR, more than any other technology, has the potential to change how video games are experienced. So it’s a little concerning to me that Meta, the multi-trillion-dollar company that rebranded itself around a virtual reality future…doesn’t seem to care about VR gaming. There’s a lot of information to unpack here, a big complicate",
-      "url": "https://www.pcworld.com/article/3245627/metas-new-vr-headset-forgot-about-the-games.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3245627-0-12905200-1790683242-image_89cd94.png",
-      "date": "Tue, 29 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Want your photos to survive for decades? A digital archivist explains what to do",
-      "description": "Some people spend most of their digital lives on social media and save almost nothing with the intention of preserving it for the future. They might share photos and videos on Instagram or send them via a messaging app, but it’s all ephemeral. If they ever want to keep something, they might order prints or a photo book. Most people, however, have a great deal in their digital collections – both on their computers and on their smartphones – that they hope will remain, if not forever, then at leas",
-      "url": "https://www.pcworld.com/article/3233366/want-your-photos-to-survive-for-decades-a-digital-archivist-explains-what-to-do.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3233366-0-34694300-1790679641-4_f5ccec.png",
-      "date": "Tue, 29 Sep 2026 11:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Learning piano? This AI teacher gives you live feedback, and a 5-year subscription is on sale for $80",
-      "description": "TL;DR: Instead of grinding through video tutorials, flowkey listens while you play and provides live feedback, and a 5-year subscription is only $80 right now. Learning piano on your own is tough and usually involves hours of staring at tutorials with little progress to show for it. If you want a smarter option, flowkey is an AI piano teacher that listens while you play and provides real-time feedback. A lifetime subscription is also on sale for just $79.99 (reg. $899). As you play, the app list",
-      "url": "https://www.pcworld.com/article/3245803/learning-piano-this-ai-teacher-gives-you-live-feedback-and-a-5-year-subscription-is-on-sale-for-80.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3245803-0-40114300-1790668864-flowkey.jpg?quality=50&strip=all",
-      "date": "Tue, 29 Sep 2026 08:00:00 +0000"
     }
   ],
   "starwars": [
