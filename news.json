@@ -1,6 +1,42 @@
 {
-  "updated": "2026-09-30T10:58:56.683258+00:00",
+  "updated": "2026-09-30T16:47:10.368091+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Конференција Connected by Xiaomi во Скопје: Зајакнување на партнерствата и натамошно позиционирање на македонскиот пазар",
+      "description": "Скопје, 30.09.2026 – Компанијата Xiaomi организираше конференција во соработка со овластениот дистрибутер EWE Дистрибуција од Скопје, со цел дополнително зајакнување на присуството на македонскиот пазар и унапредување на соработката со локалните партнери. Настанот ги обедини клучните претставници од индустријата, медиумите и дистрибутивната мрежа, а фокусот беше ставен на понатамошниот развој на екосистемот на производи на […]",
+      "url": "https://smartportal.mk/novosti/nastani/konferencija-connected-by-xiaomi-skopje/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/DSC_4100-150x150.webp",
+      "date": "Wed, 30 Sep 2026 13:43:25 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "OpenAI ги претстави Dots, агенти со вештачка интелигенција што работат со GPT-6 Astra",
+      "description": "OpenAI ги претстави Dots, нов тип автономни агенти со вештачка интелигенција кои работат за корисникот и кога тој не е пред компјутерот. Компанијата ги опишува како „исклучително способни агенти кои се секогаш вклучени и се направени да се справат со сè“, што е прилично амбициозно тврдење за производ кој штотуку излегува. Според OpenAI, секој агент, односно […]",
+      "url": "https://smartportal.mk/novosti/ai/openai-dots/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/pRuD4dBa-150x150.webp",
+      "date": "Wed, 30 Sep 2026 13:21:45 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Samsung ја претставува серијата Galaxy Tab S12: Врвен центар за продуктивност создаден за раст",
+      "description": "Скопје, 30 септември 2026 година– Компанијата Самсунг („Samsung“) денес ја претстави серијата Galaxy Tab S12 — Galaxy Tab S12 Ultra и Tab S12+ — со што го испорачува досега најмоќното и најразновидното искуство со таблет од Samsung. Со спој на врвни перформанси, долготрајна батерија и најновата технологија Galaxy AI, вградени во препознатливиот ултратенок дизајн на […]",
+      "url": "https://smartportal.mk/novosti/uredi/samsung-galaxy-tab-s12/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Galaxy-Tab-S12-series_Combo-KV-150x150.webp",
+      "date": "Wed, 30 Sep 2026 12:50:08 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Microsoft ја објави Windows 11 2026 надградбата што во главно ги обединува новостите од изминатата година",
+      "description": "Microsoft ја објави Windows 11 2026 Update, односно верзијата 26H2 на Windows 11. Компанијата ја опишува како „предвидливо ажурирање со малку пречки“. Станува збор за таканаречен „enablement package“, а не за голема нова верзија на системот. Верзиите 26H2, 25H2 и 24H2 ја делат истата основа, па најголемиот дел од новиот код веќе се наоѓа на компјутерите […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/microsoft-windows-11-2026-update/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/IMG_1531-150x150.webp",
+      "date": "Wed, 30 Sep 2026 12:38:10 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -57,222 +93,195 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Anthropic го претстави Claude Sonnet 5.5, модел кој според компанијата е над 30% побрз од претходникот и за повеќето задачи до 30% поевтин",
-      "description": "Anthropic го претстави Claude Sonnet 5.5, вториот модел од фамилијата Claude 5.5 по Opus 5.5. Според компанијата, тој е „јасна надградба“ на Sonnet 5, генерира одговори над 30% побрзо и е нивниот најбрз Sonnet модел досега. Anthropic го позиционира Sonnet 5.5 како побрза и поевтина алтернатива на Opus 5.5, кој останува наменет за сложена работа што бара […]",
-      "url": "https://smartportal.mk/novosti/ai/anthropic-claude-sonnet-5-5/",
-      "image": "https://smartportal.mk/wp-content/uploads/2025/02/shutterstock_2443144493-150x150.jpg",
-      "date": "Tue, 29 Sep 2026 07:50:28 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "„Родителска средба без оценки“ на Телеком го исполни градскиот парк со родители и деца",
-      "description": "Добро познатата „Школка“ во Градскиот парк беше местото каде што викендов се одржа првата „Родителска средба без оценки“, организирана од Македонски Телеком. Родители, деца, експерти и јавни личности се собраа на едно место за да отворат важен разговор за тоа како заедно можеме да ги заштитиме децата од врсничко и онлајн насилство и да создадеме […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/roditelska-sredba-bez-ocenki-na-telekom/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Photo11-150x150.webp",
-      "date": "Mon, 28 Sep 2026 13:57:36 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Астрономи за прв пат уверливо открија радио сигнали што доаѓаат директно од планета надвор од Сончевиот систем, а преку нив го измерија нејзиното магнетно поле",
-      "description": "Тим астрономи од Центарот за астрофизика Harvard и Smithsonian и Универзитетот во Орегон објави нова студија во која тврди дека за прв пат уловил радио сигнали што со сигурност доаѓаат од планета надвор од Сончевиот систем. Станува збор за Beta Pictoris b, гасен гигант оддалечен околу 64 светлосни години од Земјата. Сигналите ги снимил MeerKAT, мрежа […]",
-      "url": "https://smartportal.mk/novosti/nauka-istrazuvanja/astronomi-radio-signali-planeta/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Depositphotos_358573382_XL-f-150x150.webp",
-      "date": "Mon, 28 Sep 2026 12:03:08 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Instagram додаде ефект со вештачка интелигенција во Stories кој ги пикселизира луѓето што ќе ги опишете, а го рекламира за „прикриено објавување“ на нова врска",
-      "description": "Instagram во Stories додаде ефект наречен Pixel, кој со помош на вештачка интелигенција ги пикселизира луѓето или предметите што корисникот ќе ги опише со текст. Наместо нечие лице рачно да се покрие со стикер или цртеж, доволно е во командата („prompt“) да се напише, на пример, „личноста десно“. Компанијата ефектот го промовираше со објава на својот […]",
-      "url": "https://smartportal.mk/novosti/socijalni-mrezi/instagram-efekt-soft-launch/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/instagram-soft-launch-1-150x150.webp",
-      "date": "Mon, 28 Sep 2026 10:56:51 +0000"
+      "source": "Time.mk - All",
+      "title": "Пензионираниот судија осомничен за поткуп, Елјеса Алији, пак се пријавил за претседател на Гостиварскиот суд | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/d7fc9ca779/penzioniraniot-sudija-osomnicen-za-potkup-eljesa-aliji-pak-se-prijavil-za-pretsedatel-na-gostivarskiot-sud.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/05/e-a-1-300x162.png",
+      "date": "Wed, 30 Sep 2026 16:10:39 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Мицкоски се извини за спотот во Македониумот и побара разрешување на директорот и на УО: Таков тип институции не треба да бидат изнајмувани и користени за такви намени | Макфакс",
+      "title": "Општина Ѓорче Петров се приклучи на големата еколошка акција: Секој од нас има одговорност | Press24",
       "description": "",
-      "url": "https://time.mk/c/2cd94cda07/mickoski-se-izvini-za-spotot-vo-makedoniumot-i-pobara-razresuvanje-na-direktorot-i-na-uo-takov-tip-institucii-ne-treba-da-bidat-iznajmuvani-i-koristeni-za-takvi-nameni.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/spot-mickoski-makedonium-screenshot-2026-09-30-123615.webp",
-      "date": "Wed, 30 Sep 2026 10:42:37 +0000"
+      "url": "https://time.mk/c/bccea8859b/opstina-gjorce-petrov-se-prikluci-na-golemata-ekoloska-akcija-sekoj-od-nas-ima-odgovornost.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/74273.jpg",
+      "date": "Wed, 30 Sep 2026 16:06:37 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Дизелот руши рекорди, а Европа стравува од нов шок: ИЕА ја спомна „тајната“ резерва | Слободен Печат",
+      "title": "На земјоделците и сточарите им „прекипе“: „Живееме на питачки стап“ | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/f3e71a7860/dizelot-rusi-rekordi-a-evropa-stravuva-od-nov-sok-iea-ja-spomna-tajnata-rezerva.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2020/07/nafta-1-3-300x184.jpg",
-      "date": "Wed, 30 Sep 2026 10:32:50 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Мицкоски во пресрет на средбата со Фон дер Лајен: Подготвени сме за разговор и решение | Press24",
-      "description": "",
-      "url": "https://time.mk/c/806d5f9de1/mickoski-vo-presret-na-sredbata-so-fon-der-lajen-podgotveni-sme-za-razgovor-i-resenie.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/74194.jpg",
-      "date": "Wed, 30 Sep 2026 10:44:58 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Враќањето на останките на цар Самoил во Бугарија предизвика полемики за историјата, дипломатијата и можните последици | Deutsche Welle",
-      "description": "",
-      "url": "https://time.mk/c/42fa9934ee/vrakanjeto-na-ostankite-na-car-samoil-vo-bugarija-predizvika-polemiki-za-istorijata-diplomatijata-i-moznite-posledici.html",
-      "image": "https://static.dw.com/image/18502255_301.jpg",
-      "date": "Wed, 30 Sep 2026 09:10:45 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Судовите имаат 149.415 нерешени предмети во вториот квартал – неажурни се | Независен",
-      "description": "",
-      "url": "https://time.mk/c/ef6c5d6e50/sudovite-imaat-149-415-nereseni-predmeti-vo-vtoriot-kvartal-neazurni-se.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2021/02/Kompleks-sudovi-Skopje-2-bg_resize.jpg",
-      "date": "Wed, 30 Sep 2026 10:08:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Милошоски на Регионална конференција за спречување корупција | Макфакс",
-      "description": "",
-      "url": "https://time.mk/c/90cd63c39e/milososki-na-regionalna-konferencija-za-sprecuvanje-korupcija.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/miloshoski-konf2.webp",
-      "date": "Wed, 30 Sep 2026 10:24:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Мицкоски најави можен ребаланс, мерките за горивата ќе го чинат Буџетот 6-7 милијарди денари | Независен",
-      "description": "",
-      "url": "https://time.mk/c/4708eb88f0/mickoski-najavi-mozen-rebalans-merkite-za-gorivata-ke-go-cinat-budzetot-6-7-milijardi-denari.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2025/11/Sobranie-komisija-za-budzet-9-bg.jpg",
-      "date": "Wed, 30 Sep 2026 10:24:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "(Видео) СДСМ обвинува дека построгите критериуми ќе остават илјадници земјоделци без поддршка | Макфакс",
-      "description": "",
-      "url": "https://time.mk/c/0309c2ca07/video-sdsm-obvinuva-deka-postrogite-kriteriumi-ke-ostavat-iljadnici-zemjodelci-bez-poddrska.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/natasha-popovic-sdsm.webp",
-      "date": "Wed, 30 Sep 2026 09:48:54 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "СУДОТ МУ СТАВИ КРАЈ НА ТРИДНЕВНИОТ ХАОС ВО ЗАГРЕБ: ZET се враќа на улиците, останува проблемот со натрупаниот отпад | Пари",
-      "description": "",
-      "url": "https://time.mk/c/66305011e7/sudot-mu-stavi-kraj-na-tridnevniot-haos-vo-zagreb-zet-se-vraka-na-ulicite-ostanuva-problemot-so-natrupaniot-otpad.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/09/Screenshot-2026-09-30-123725.png",
-      "date": "Wed, 30 Sep 2026 10:46:40 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Новите членки на ЕУ на пробација од 10 години? | Независен",
-      "description": "",
-      "url": "https://time.mk/c/3dbda59dc1/novite-clenki-na-eu-na-probacija-od-10-godini.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2022/06/ÐÐ£-ÐÐ°Ð¿Ð°Ð´ÐµÐ½-ÐÐ°Ð»ÐºÐ°Ð½-1024x788.jpg",
-      "date": "Wed, 30 Sep 2026 10:22:37 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Руски балистички ракети и дронови го погодија Киев, има загинати и прекин на струјата | Трн",
-      "description": "",
-      "url": "https://time.mk/c/9a242c94c0/ruski-balisticki-raketi-i-dronovi-go-pogodija-kiev-ima-zaginati-i-prekin-na-strujata.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/09/kiev-napad-1.webp",
-      "date": "Wed, 30 Sep 2026 08:41:06 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ПИЛОТ ИЗБОЛ СО НОЖ ДРУГ ПИЛОТ ВО АВИОНОТ НА „ФЛАЈДУБАИ“ ШТО ПРИНУДНО СЛЕТА ВО САУДИСКА АРАБИЈА, СЕ ИСТРАЖУВА ДАЛИ САКАЛ ДА ГО УРНЕ | Сакам да кажам",
-      "description": "",
-      "url": "https://time.mk/c/105ea2e9fb/pilot-izbol-so-noz-drug-pilot-vo-avionot-na-flajdubai-sto-prinudno-sleta-vo-saudiska-arabija-se-istrazuva-dali-sakal-da-go-urne.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/09/w737svopxp-v3-ax-w800h450.jpeg",
-      "date": "Wed, 30 Sep 2026 10:34:47 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Град Скопје: Околу 30.000 граѓани учествуваа во големата еко-акција за чисто Скопје | 24Инфо",
-      "description": "",
-      "url": "https://time.mk/c/2db4dd50f6/grad-skopje-okolu-30-000-gragjani-ucestvuvaa-vo-golemata-eko-akcija-za-cisto-skopje.html",
-      "image": "https://24info.mk/wp-content/uploads/2026/09/828311734_1639318841154732_492057686643997685_n-1024x683.jpg",
-      "date": "Wed, 30 Sep 2026 10:42:37 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "НОВИТЕ ЕЛЕКТРИЧНИ АВТОБУСИ ШТО ЌЕ СЕ КУПАТ ОД УНГАРИЈА И КИНА ЌЕ ИМААТ 30 МЕСТА ПОМАЛКУ ОД ДОНИРАНИТЕ ОД ЕУ, ВЕЛИ НОВО ИСТРАЖУВАЊЕ | Сакам да кажам",
-      "description": "",
-      "url": "https://time.mk/c/e397b1b76a/novite-elektricni-avtobusi-sto-ke-se-kupat-od-ungarija-i-kina-ke-imaat-30-mesta-pomalku-od-doniranite-od-eu-veli-novo-istrazuvanje.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/02/avtobusi-skopje6-09.02.2026.jpg",
-      "date": "Wed, 30 Sep 2026 08:28:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Син тепаше татко во општина Чашка | Фокус",
-      "description": "",
-      "url": "https://time.mk/c/70458f4d79/sin-tepase-tatko-vo-opstina-caska.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/09/tepanjeee-585x439-1.jpg",
-      "date": "Wed, 30 Sep 2026 10:30:39 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Фрлил марихуана низ прозорец од автомобил, 20-годишник од Тетово заработи кривична | Press24",
-      "description": "",
-      "url": "https://time.mk/c/1b57d80dd9/frlil-marihuana-niz-prozorec-od-avtomobil-20-godisnik-od-tetovo-zaraboti-krivicna.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/74192.jpg",
-      "date": "Wed, 30 Sep 2026 10:42:37 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Голем број проекти во Петровец: Од инфраструктура и водоснабдување до спорт и социјална поддршка | Press24",
-      "description": "",
-      "url": "https://time.mk/c/4920b20ce6/golem-broj-proekti-vo-petrovec-od-infrastruktura-i-vodosnabduvanje-do-sport-i-socijalna-poddrska.html",
+      "url": "https://time.mk/c/e57239eb5d/na-zemjodelcite-i-stocarite-im-prekipe-ziveeme-na-pitacki-stap.html",
       "image": "",
-      "date": "Wed, 30 Sep 2026 07:40:50 +0000"
+      "date": "Wed, 30 Sep 2026 15:22:37 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "НП „Пелистер“ доби директна финансиска поддршка од АФПЗРР | Тера",
+      "title": "Студентите сместени во „Стив“ конечно ќе може да се перат – нема веќе праќање алишта дома | Независен",
       "description": "",
-      "url": "https://time.mk/c/6f7b2fd960/np-pelister-dobi-direktna-finansiska-poddrska-od-afpzrr.html",
-      "image": "https://tera.mk/wp-content/uploads/2026/09/20260930_095035-n-am-150x150.jpg",
-      "date": "Wed, 30 Sep 2026 08:06:37 +0000"
+      "url": "https://time.mk/c/9f75dbb4fc/studentite-smesteni-vo-stiv-konecno-ke-moze-da-se-perat-nema-veke-prakanje-alista-doma.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/Studentski-dom-Stiv-Naumov-pusten-po-renoviranje-bg-15-1024x934.jpg",
+      "date": "Wed, 30 Sep 2026 11:38:40 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Видео) „Секси мама“ во „Македониумот“ му е тазе случај на министерот за култура: Случајот е чувствителен, ќе видиме со правните служби како понатаму | Скопје1",
+      "title": "Урсула фон дер Лајен во петок во Скопје: Брисел стравува дека блокадата на Македонија ќе ја сврти кон Русија или Кина | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/8c1e721d71/video-seksi-mama-vo-makedoniumot-mu-e-taze-slucaj-na-ministerot-za-kultura-slucajot-e-cuvstvitelen-ke-vidime-so-pravnite-sluzbi-kako-ponatamu.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/85652/conversions/text-max.jpg",
-      "date": "Wed, 30 Sep 2026 08:48:55 +0000"
+      "url": "https://time.mk/c/9b2140bb9d/ursula-fon-der-lajen-vo-petok-vo-skopje-brisel-stravuva-deka-blokadata-na-makedonija-ke-ja-svrti-kon-rusija-ili-kina.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1790781129/fp1zjk8xnx7egnbnridl.jpg",
+      "date": "Wed, 30 Sep 2026 15:12:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Програма за Бела ноќ 2026: Игор Џамбазов и „Гуру Харе бенд“, „Допамин“, електронска музика и уметност низ Скопје | Црнобело",
+      "title": "Фехми Стафа бара порано да излезе од затвор, а Пецов ја платил казната од 8 000 евра уште пред правосилноста на пресудата | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/add158e69e/programa-za-bela-nok-2026-igor-dzambazov-i-guru-hare-bend-dopamin-elektronska-muzika-i-umetnost-niz-skopje.html",
-      "image": "https://www.crnobelo.com/images/stories/2026/09/1019/programa-za-bela-nokj-2026-igor-dzhambazov-i-guru-hare-bend-dopamin-elektronska-muzika-i-umetnost-niz-skopje-povekje.jpg",
-      "date": "Wed, 30 Sep 2026 09:29:02 +0000"
+      "url": "https://time.mk/c/efe540da95/fehmi-stafa-bara-porano-da-izleze-od-zatvor-a-pecov-ja-platil-kaznata-od-8-000-evra-uste-pred-pravosilnosta-na-presudata.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/01/Fehmi-Stafa-.jpg",
+      "date": "Wed, 30 Sep 2026 14:16:59 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Петрова: Предизвик е да создадеме систем во УЈП што знае што да прави со податоците од ВИ | Независен",
+      "description": "",
+      "url": "https://time.mk/c/8b040bb02c/petrova-predizvik-e-da-sozdademe-sistem-vo-ujp-sto-znae-sto-da-pravi-so-podatocite-od-vi.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/petrova-ujp.jpg",
+      "date": "Wed, 30 Sep 2026 15:17:02 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Поради намалените акцизи и ДДВ за горивата, Буџетот со дупка од 6 до 7 милијарди денари | Вечер Прес",
+      "description": "",
+      "url": "https://time.mk/c/561d8184a9/poradi-namalenite-akcizi-i-ddv-za-gorivata-budzetot-so-dupka-od-6-do-7-milijardi-denari.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/09/dsc_0377-scaled.jpg",
+      "date": "Wed, 30 Sep 2026 13:16:54 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Жестоки реакции на македонските историчари: научно нема доказ дека коските се на Цар Самоил, ова е нов шамар за Македонија | 24 Вести",
+      "description": "",
+      "url": "https://time.mk/c/550effb60c/zestoki-reakcii-na-makedonskite-istoricari-naucno-nema-dokaz-deka-koskite-se-na-car-samoil-ova-e-nov-samar-za-makedonija.html",
+      "image": "",
+      "date": "Wed, 30 Sep 2026 15:14:36 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Чистачите во Загреб го прекинаа штрајкот, се чекаат возачите | Независен",
+      "description": "",
+      "url": "https://time.mk/c/3f0a33adf1/cistacite-vo-zagreb-go-prekinaa-strajkot-se-cekaat-vozacite.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/strajk-komunalci-vozaci-zagreb.jpg",
+      "date": "Wed, 30 Sep 2026 12:13:12 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "(Видео) Патници облеани во крв го спречиле ужасот: се појавија нови снимки, пилотот кој нападна колега со нож сакал да го сруши авионот | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/bda0865af2/video-patnici-obleani-vo-krv-go-sprecile-uzasot-se-pojavija-novi-snimki-pilotot-koj-napadna-kolega-so-noz-sakal-da-go-srusi-avionot.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/screenshot-2026-09-30-174012.webp",
+      "date": "Wed, 30 Sep 2026 15:44:57 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Нови правила за патот кон Брисел: кој добива повеќе, а кој останува во чекалната | Deutsche Welle",
+      "description": "",
+      "url": "https://time.mk/c/772c0b49c6/novi-pravila-za-patot-kon-brisel-koj-dobiva-poveke-a-koj-ostanuva-vo-cekalnata.html",
+      "image": "https://static.dw.com/image/64484723_301.jpg",
+      "date": "Wed, 30 Sep 2026 13:00:56 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Транспорт и врски: Не може да се споредуваат автобуси на гас и електрични | Независен",
+      "description": "",
+      "url": "https://time.mk/c/b2f2682cc1/transport-i-vrski-ne-moze-da-se-sporeduvaat-avtobusi-na-gas-i-elektricni.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2025/11/Luge-na-avtobuska-postojka-2-bg.jpg",
+      "date": "Wed, 30 Sep 2026 12:26:37 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Запалена механизација на стадионот во Арачиново, градоначалникот порачува: Проектот нема да запре | 4NEWS",
+      "description": "",
+      "url": "https://time.mk/c/08107d0c05/zapalena-mehanizacija-na-stadionot-vo-aracinovo-gradonacalnikot-poracuva-proektot-nema-da-zapre.html",
+      "image": "https://4news.mk/wp-content/uploads/2026/09/screenshot_4-17-1024x573.avif",
+      "date": "Wed, 30 Sep 2026 16:42:38 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Насилник од Радовиш ги истепал ќерката и сопругата, полицијата го уапси | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/a2584ea766/nasilnik-od-radovis-gi-istepal-kerkata-i-soprugata-policijata-go-uapsi.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2024/12/profimedia-0680721023-300x200.jpg",
+      "date": "Wed, 30 Sep 2026 12:54:36 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Кривичен сè уште чека мислење од ОЈО за гаранцијата од 200.000 евра на газдата на „Пулс“ – Деко излегува во сабота | 24 Вести",
+      "description": "",
+      "url": "https://time.mk/c/63eb0cf58c/krivicen-se-uste-ceka-mislenje-od-ojo-za-garancijata-od-200-000-evra-na-gazdata-na-puls-deko-izleguva-vo-sabota.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1790780439/dw84qnv7k3oikc7yrald.jpg",
+      "date": "Wed, 30 Sep 2026 15:22:37 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "110 ГОДИНИ КАЈМАКЧАЛАН ! СЕЌАВАЊЕ, ЖРТВА И ПОРАКА ЗА ИДНИНАТА | Тера",
+      "description": "",
+      "url": "https://time.mk/c/75cf7e4468/110-godini-kajmakcalan-sekavanje-zrtva-i-poraka-za-idninata.html",
+      "image": "https://tera.mk/wp-content/uploads/2026/09/VESTI.00_33_51_20.Still187-150x150.jpg",
+      "date": "Wed, 30 Sep 2026 14:10:38 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Струмица со поддршка за жените пчелари и развојот на руралните средини | Агротим",
+      "description": "",
+      "url": "https://time.mk/c/1b8283e7d0/strumica-so-poddrska-za-zenite-pcelari-i-razvojot-na-ruralnite-sredini.html",
+      "image": "https://agrotim.mk/wp-content/uploads/2026/09/strumica-860x484.jpg",
+      "date": "Wed, 30 Sep 2026 12:34:54 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "(Видео) Kалиопи го најави големиот концерт: За мене постои само Република Македонија без придавки, арената секогаш ќе биде „Борис Трајковски“ | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/710e71947f/video-kaliopi-go-najavi-golemiot-koncert-za-mene-postoi-samo-republika-makedonija-bez-pridavki-arenata-sekogas-ke-bide-boris-trajkovski.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/85670/conversions/text-max.jpg",
+      "date": "Wed, 30 Sep 2026 14:48:48 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "По бурата од реакции за скандалот со споменикот „Македониум“: Мицкоски најави разрешување, директорот си поднесе оставка | 24 Вести",
+      "description": "",
+      "url": "https://time.mk/c/fe6625af18/po-burata-od-reakcii-za-skandalot-so-spomenikot-makedonium-mickoski-najavi-razresuvanje-direktorot-si-podnese-ostavka.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1790779116/v8tackj8ssazrf4cvivb.jpg",
+      "date": "Wed, 30 Sep 2026 15:18:40 +0000"
     }
   ],
   "de": [
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Pay-TV-Pirat: Zwei Jahre und vier Monate Haft – Kunden im Visier",
+      "description": "Ein Pay-TV-Pirat muss für zwei Jahre und vier Monate in Haft. Zudem werden 137.286 Euro eingezogen. Auch seine Kunden geraten ins Visier. Der Artikel Pay-TV-Pirat: Zwei Jahre und vier Monate Haft – Kunden im Visier erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/iptv/pay-tv-pirat-zwei-jahre-vier-monate-haft-kunden-im-visier-334070.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/pay-tv-pirat-zwei-jahre-vier-monate-haft-kunden-im-visier",
+      "date": "Wed, 30 Sep 2026 14:55:36 +0000"
+    },
     {
       "category": "de",
       "source": "Tarnkappe",
@@ -443,18 +452,54 @@
       "url": "https://tarnkappe.info/artikel/denuvo/irdeto-tochter-denuvo-reicht-klage-gegen-voices38-ein-333498.html",
       "image": "https://cdn.tarnkappe.info/wpimg/irdeto-tochter-denuvo-reicht-klage-gegen-voices38-ein",
       "date": "Wed, 16 Sep 2026 16:20:07 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Streaminghub offline: Eigenwerbung führt BREIN zum Betreiber",
-      "description": "Streaminghub offline: BREIN identifiziert Betreiber über dessen Eigenwerbung. Das illegale Angebot umfasste Filme, Serien, Live-TV und Sport Der Artikel Streaminghub offline: Eigenwerbung führt BREIN zum Betreiber erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/streaming/streaminghub-offline-brein-betreiber-eigenwerbung-333497.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/streaminghub-offline-brein-betreiber-eigenwerbung",
-      "date": "Wed, 16 Sep 2026 16:02:00 +0000"
     }
   ],
   "eng": [
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "If You Loved 'Furious,' There's One Movie You Need to Watch Next",
+      "description": "If Emmy Rossum’s tense, twisting story of serial revenge and obsessive police work got you hooked, watch this movie.",
+      "url": "https://lifehacker.com/entertainment/one-movie-like-furious?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M3SGTDFYBDGNCTA25NCV7XZD/hero-image.jpg",
+      "date": "Wed, 30 Sep 2026 16:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Your Mac Should Be Doing More of the Work. Here's How MacPaw Helps",
+      "description": "Setapp, CleanMyMac, and Eney take everyday Mac work off your hands without adding one more thing to manage.",
+      "url": "https://lifehacker.com/tech/your-mac-should-be-doing-more-of-the-work-heres-how-macpaw-helps?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M32HJ615J0MDH72FTZYQCSZ4/hero-image.png",
+      "date": "Wed, 30 Sep 2026 14:37:02 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "These Are the Best October Prime Day Deals on Cordless Power Tools",
+      "description": "Upgrade your tool kit and check off everything on your fall DIY to-do list.",
+      "url": "https://lifehacker.com/home/best-cordless-power-tool-deals-early-october-prime-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M3RDE7PY8M8682QXHXE126EX/hero-image.png",
+      "date": "Wed, 30 Sep 2026 13:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Versatile Multi-Port Charger Is on Sale for Under $100 Right Now",
+      "description": "The Gitryin Nexus 140W charging station is available for $89.99 during its early-access period.",
+      "url": "https://lifehacker.com/ad/tech/gitryin-140w-multi-port-charger-deal-september-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M3RN85MTA41E631ACY4KE4BY/hero-image.jpg",
+      "date": "Wed, 30 Sep 2026 13:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "These Top-Rated TVs Are up to 41% Off for October Prime Day",
+      "description": "From a $450 Roku to Samsung’s flagship OLED, this year's Prime Day TV deals cover every budget.",
+      "url": "https://lifehacker.com/tech/tv-sales-early-october-prime-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M3RQDJCZRA61QQJG5AF0Q5CW/hero-image.png",
+      "date": "Wed, 30 Sep 2026 12:30:00 +0000"
+    },
     {
       "category": "eng",
       "source": "Lifehacker",
@@ -592,141 +637,114 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "These Kindle Scribes Are 21% Off for October Prime Day",
-      "description": "Refurbished Kindle Scribes are now $284.99 for 16GB, $299.99 for 32GB, and $319.99 for 64GB.",
-      "url": "https://lifehacker.com/tech/2024-kindle-scribe-with-premium-pen-sale-early-october-prime-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01KH5Z8T735QKPBHVD2ARVTE06/hero-image.png",
-      "date": "Tue, 29 Sep 2026 12:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "This 65-Inch Sony OLED TV Is $800 Off During the October Prime Day Sale",
-      "description": "It's one of the best early TV deals I've seen.",
-      "url": "https://lifehacker.com/tech/sony-65-inch-bravia-8-ii-oled-tv-deal-october-prime-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M3MXS8RQJFK6NSVARBT6N76M/hero-image.png",
-      "date": "Tue, 29 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "These Are the Best Tech Gifts Under $50",
-      "description": "You don't need to spend a fortune to buy people great new tech.",
-      "url": "https://lifehacker.com/tech/the-best-tech-under-50-dollars?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M3D49AMWFH2M5H5DB0C3GPDK/hero-image.png",
-      "date": "Mon, 28 Sep 2026 21:30:52 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "10 Security Hacks Every Local AI User Should Know",
-      "description": "You can run AI models locally without risking rogue cyberattacks.",
-      "url": "https://lifehacker.com/tech/10-security-hacks-every-local-ai-user-should-know?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M3MQHZSM9CXTB02KWQ6238W2/hero-image.jpg",
-      "date": "Mon, 28 Sep 2026 21:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "Sam's Club Has Some Great Tech Deals to Compete With October Prime Day",
-      "description": "Sam's Club has discounts on TVs, laptops, and other tech, too.",
-      "url": "https://lifehacker.com/tech/best-tech-deals-sams-club-october-prime-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M3MS97QPRFV0G6GP7BPBN2W3/hero-image.jpg",
-      "date": "Mon, 28 Sep 2026 20:00:00 +0000"
+      "source": "PCWorld",
+      "title": "Amazon’s Fire HD 8 tablet hits $79.99, its lowest price ever",
+      "description": "NEW LOWEST PRICE Amazon Fire HD 8 Tablet (newest model) View Deal Tablets with a compact 8-inch display are especially appealing if all you want to do is read ebooks, watch videos, browse the web, and use simple apps while on the go. Compared to larger models, 8-inchers are easier to carry around and fit into tight bags and backpacks. The Amazon Fire HD 8 (2024) is one of the best value picks in the 8-inch tablet category, and it just hit a new all-time best price: $79.99, which is 38% off its o",
+      "url": "https://www.pcworld.com/article/3219970/amazons-fire-hd-8-tablet-hits-79-99-its-lowest-price-ever.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3219970-0-26889400-1790786910-Amazon-Fire-HD-8-tablet-2024.jpg?quality=50&strip=all",
+      "date": "Wed, 30 Sep 2026 16:48:21 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Control your PC from your phone with this free app",
-      "description": "Phones and computers don’t always play nice together, especially when you’re bouncing between the two–it can be super annoying. KDE Connect is a handy app that helps fix this issue by linking your devices and letting them share files and notifications, while also allowing you to control your PC from your phone (or vice versa). File sharing is probably what people use KDE Connect for most. It allows you to send files straight between your phone and computer—think AirDrop, but for PCs. And while K",
-      "url": "https://www.pcworld.com/article/3243818/control-your-pc-from-your-phone-with-kde-connect.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3243818-0-15138400-1790764274-kcm.png",
-      "date": "Wed, 30 Sep 2026 10:30:00 +0000"
+      "title": "Firefox’s biggest redesign in years just landed with Nova",
+      "description": "Firefox 157 is out for Windows, macOS, Linux, and Android and the biggest change in this version is the new Nova design, which brings a more modern look to the browser. Mozilla has also fixed over 70 security vulnerabilities, and updates are also available for the Firefox ESR versions. The release of Firefox 158 is scheduled for October 13th, 2026. What’s new in Firefox 157? Now that Firefox has adopted a two-week release cycle, major new features are growing fewer and farther between. With Fire",
+      "url": "https://www.pcworld.com/article/3247664/firefoxs-biggest-redesign-in-years-just-landed-with-nova.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3247664-0-13134600-1790786226-Mozilla-Firefox-157-Nova-redesign-promo.jpg?quality=50&strip=all",
+      "date": "Wed, 30 Sep 2026 16:36:02 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "During this Flash Sale, a Microsoft Project Pro lifetime license is only $50",
-      "description": "TL;DR : Microsoft Project Professional 2024 is a full project management tool for Windows, and a lifetime license is on sale for $49.97 (reg. $1,129.99) through October 4. Most of the good project management tools are locked behind a monthly or yearly subscription. Microsoft Project Pro used to have the same problem, but it doesn’t anymore. Instead of paying monthly, you can now get a Project Pro lifetime license on sale for $49.97 (reg. $1,129.99) during this September Flash Sale. Instead of mu",
-      "url": "https://www.pcworld.com/article/3245809/during-this-flash-sale-a-microsoft-project-pro-lifetime-license-is-only-50.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3245809-0-41511200-1790755265-Project-Pro-2024.jpg?quality=50&strip=all",
-      "date": "Wed, 30 Sep 2026 08:00:00 +0000"
+      "title": "Best laptops 2026: Premium, budget, gaming, 2-in-1, and more",
+      "description": "PCWorld has been testing and writing about PCs since 1983. That’s a long time! Today, we put more than 70 laptops through our review process every year, covering everything from affordable everyday laptops to powerful gaming machines . That kind of hands-on experience matters when you’re trying to buy a laptop. What begins as a simple Google search can quickly spiral into a maze of complicated processor names, graphic cards, and other specs that can be difficult to make sense of. That’s where we",
+      "url": "https://www.pcworld.com/article/436674/best-pc-laptops.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/436674-0-69668300-1790784030-best-budget-laptops.jpg?quality=50&strip=all",
+      "date": "Wed, 30 Sep 2026 16:00:00 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "OpenAI’s Dots are always-on AI agents for work",
-      "description": "Meta’s Muse agent was born to shop , while Gemini’s Spark can help you book airline tickets or plan your weekly meals. But while Muse and Spark act like personal assistants, OpenAI’s new AI agents are designed to be, well, another “you” in the office. Dots, which OpenAI boss Sam Altman just unveiled at the company’s annual developers conference , are always-on AI assistants that — as with Muse — you can name, assign cute little avatars to, and chat with in the ChatGPT interface, via text, or eve",
-      "url": "https://www.pcworld.com/article/3246780/openais-dots-are-always-on-ai-agents-for-work.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3246780-0-12128900-1790713924-OpenAI-Dots.jpg?quality=50&strip=all",
-      "date": "Tue, 29 Sep 2026 19:10:32 +0000"
+      "title": "Windows 11 26H2 update has known issues. You might want to wait",
+      "description": "Windows 11 26H2 is here earlier than expected, but before you run off and install it, you might want to take a second. Microsoft has issued a warning that the update contains a few known issues. According to the Windows Release Health notes : USB audio devices might fail to start or produce no sound , meaning some USB Audio Class 1.0 devices display Code 10 or fail in multichannel audio modes after installing the September 2026 update . Domain-joined devices might lose their secure trust relatio",
+      "url": "https://www.pcworld.com/article/3247667/windows-11-26h2-update-has-known-issues-you-might-want-to-wait.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3247667-0-45815800-1790781600-Finger-touching-Windows-11-logo-on-screen-in-dark-room.jpg?quality=50&strip=all",
+      "date": "Wed, 30 Sep 2026 15:17:17 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "10 early October Prime Day deals worth buying right now",
-      "description": "October Prime Day (officially known as “Prime Big Deal Days”) is coming next week! If you missed out on June’s Prime Day, this is your chance to snag a bunch of stuff on sale—hopefully stuff that’s already in your cart, waiting for you to pull the trigger. Prime Big Deal Days runs Tuesday, October 6th to Wednesday, October 7th. But if you have cash to spend right now and you want to score some early deals ahead of the big event, here are some of the coolest tech deals I’ve spotted in the days le",
-      "url": "https://www.pcworld.com/article/3244511/early-october-prime-day-deals-2026.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3244511-0-84167200-1790701269-Amazon-Prime-Day-promo-image-2026-16x9-1.png",
-      "date": "Tue, 29 Sep 2026 17:01:01 +0000"
+      "title": "Ashampoo Backup Pro 27 review: Easy, effective PC backup, but not ‘pro’",
+      "description": "At a glance Expert's Rating Pros Friendly interface Drive, partition, and file/folder (plain and compressed) backup with versioning Support for network sources and destinations Supports some cloud storage services Cons No more true real-time or continuous backup No backup using the recovery media Our Verdict Backup Pro 27’s friendly interface helps new users through imaging, versioned file backup, and disaster recovery. However, some features that would render it truly “Pro” aren’t included. Pri",
+      "url": "https://www.pcworld.com/article/2516007/ashampoo-backup-pro-review.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/2516007-0-70786100-1790780428-Ashampoo-Backup-Pro-27-hero.png",
+      "date": "Wed, 30 Sep 2026 15:00:00 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Best Windows backup software for PCs and laptops",
-      "description": "By now, the importance of backing up your Windows PC or laptop goes without saying. It only takes a moment to consider how much of your data is at potential risk of a drive failure, natural disaster, or a bad actor, if you don’t have a solid backup plan in place. The best Windows backup software includes file backup, sure, but also disk imaging and full image restore, as well as disaster recovery. Our picks for best Windows backup software are selected with all the must-haves of data backup and ",
-      "url": "https://www.pcworld.com/article/407021/best-windows-backup-software.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/407021-0-59190400-1790697635-backup-software_aufmacher.png",
-      "date": "Tue, 29 Sep 2026 16:00:00 +0000"
+      "title": "Windows 11 26H2 is here earlier than expected. Here’s how to get it",
+      "description": "According to past patterns, Windows 11 26H2 should’ve released next Tuesday … but it’s actually already here. Windows 11 PCs running 25H2 or 24H2 (but not 26H1, which is specifically for Arm PCs) will receive the update as a tiny enablement package. Once installed, the update will require a single restart. That’s because the actual code for the new features is already on eligible PCs and simply needs to be enabled (hence it being called an “enablement” package). However, Microsoft isn’t actually",
+      "url": "https://www.pcworld.com/article/3247669/windows-11-26h2-is-here-earlier-than-expected-heres-how-to-get-it.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3247669-0-22746200-1790781764-Windows-11-laptop-on-a-wooden-desk-workstation.jpg?quality=50&strip=all",
+      "date": "Wed, 30 Sep 2026 14:29:00 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Claude Sonnet 5.5 is here. This prompt stops it from wasting your usage",
-      "description": "The latest version of Claude Sonnet—Anthropic’s workhorse AI model—has just landed, and with it comes a prompt that could help keep any AI agent from leaping into action before making a plan first. Available now on the web, the Claude desktop app, and other Claude platforms, Claude Sonnet 5.5 is Anthropic’s middle-of-the-road model , It’s a step below Opus 5.5 but apparently just as capable as Fable 5.1 (Anthropic’s pricey frontier flagship) and a step above Haiku 5 (a fast but basic Claude mode",
-      "url": "https://www.pcworld.com/article/3246614/claude-sonnet-5-5-is-here-this-prompt-stops-it-from-wasting-your-usage.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3246614-0-68758500-1790696067-Claude-Sonnet-prompt.jpg?quality=50&strip=all",
-      "date": "Tue, 29 Sep 2026 15:34:12 +0000"
+      "title": "Switching to New Outlook? Here’s how to move your calendar and contacts",
+      "description": "If you’re moving your data to the latest version of Microsoft Outlook , it’s important to know that your calendar and contacts may need to be handled separately from your email. Classic Outlook can export your data in a PST file, but New Outlook does not restore calendar and contact information in the same way. Instead, you need to first export your calendar as an ICS file and then your contacts as a CSV file, then you need to import those files to the new version. Restoring your calendar To res",
+      "url": "https://www.pcworld.com/article/3227646/back-up-your-outlook-calendar-and-contacts-before-you-lose-them.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3227646-0-78898900-1790776833-outlook5.jpg?quality=50&strip=all",
+      "date": "Wed, 30 Sep 2026 14:00:00 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "14 clever USB-C gadgets I’d actually keep in my tech drawer",
-      "description": "I don’t know how your tech drawers look, but mine are filled with wires I’ll likely never use again because technology has advanced quite a bit. Thankfully, USB-C seems to be here to stay since there is no wrong way to plug these things in. It’s not just smartphones, tablets, and laptops that use these, however, but also a long list of gadgets. We’ve scoured the market for hidden gems: 14 gadgets that will make you think “Wow, I didn’t know I needed that, but it will make my life so much easier!",
-      "url": "https://www.pcworld.com/article/2779758/14-clever-usb-c-gadgets-id-actually-keep-in-my-tech-drawer.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/2779758-0-70701500-1790694048-Ugreen_USBC-L_02.jpg?quality=50&strip=all",
-      "date": "Tue, 29 Sep 2026 15:00:00 +0000"
+      "title": "Save $100 on the Echo Show 11 before Prime Day even starts",
+      "description": "MATCHES LOWEST EVER PRICE Amazon Echo Show 11 View Deal Want to smarten up your home with a gorgeous, versatile device you’ll actually use every day? The Amazon Echo Show 11 is a large Alexa-powered screen that can also act as a central hub for other Alexa-compatible devices, and it’s $100 off ahead of October Prime Day . Now just $149.99, it matches the lowest price it’s ever been. This 11-inch display is a full-blown smart device that can play music, stream video via platforms like Netflix and",
+      "url": "https://www.pcworld.com/article/3247382/save-100-on-the-echo-show-11-before-prime-day-even-starts.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3247382-0-35857100-1790775951-Amazon-Echo-Show-11-smart-display.jpg?quality=50&strip=all",
+      "date": "Wed, 30 Sep 2026 13:44:31 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Windows 11 can keep traces of deleted photos. Here’s what you can do",
-      "description": "A viral social media post claims Windows 11 stores a preview of every photo ever deleted. The controversy centers around a well-known Windows feature called the thumbnail cache, which can still contain image thumbnails long after their original files have been deleted. The discussion was sparked by user @Ayzacoder , which has been viewed millions of times over the last few days. However, the claim is only partially correct—while Windows 11 can store thumbnails of deleted images, not every image ",
-      "url": "https://www.pcworld.com/article/3246500/windows-11-can-keep-traces-of-deleted-photos-heres-what-you-can-do.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3246500-0-17756200-1790692743-Windows-11-logo-skewed-captured-from-laptop-screen.jpg?quality=50&strip=all",
-      "date": "Tue, 29 Sep 2026 14:38:46 +0000"
+      "title": "RAM and SSD prices are soaring. Here’s how to buy a PC without overpaying",
+      "description": "Do you need a new computer? Unfortunately, the market is currently experiencing high prices and uncertainty due to the massive wave of investment in AI. But it’s still possible to get ahold of a decent machine — even if you might have to compromise on your budget or your requirements. The RAMpocalypse driving up prices It can hardly have escaped anyone’s notice that the prices of memory chips — both DRAM for RAM, and NAND for storage — have skyrocketed over the past year. Higher-capacity memory ",
+      "url": "https://www.pcworld.com/article/3226529/pc-prices-are-sky-high-heres-how-to-buy-one-without-overpaying.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3226529-0-49758600-1790773225-Gaming-chair-at-a-desk-with-gaming-desktop-PC-rig-and-lots-of-RGB-colors.jpg?quality=50&strip=all",
+      "date": "Wed, 30 Sep 2026 13:00:00 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "When is Windows 11 26H2 coming? Here’s what the pattern says",
-      "description": "Microsoft is expected to release the next major fall update for Windows 11 in a few days. But when exactly ? We have a guess. Windows Latest analyzed when Microsoft released the last few fall updates for Windows 11 over the last few years and found that next Tuesday—October 6th, 2026—is the most likely date. According to the analysis, Windows 11 versions 21H2, 22H2, 23H2, 24H2, and 25H2 were all released on a Tuesday. In three cases, that Tuesday fell in October; in two cases, it fell in Septemb",
-      "url": "https://www.pcworld.com/article/3246502/when-is-windows-11-26h2-coming-heres-what-the-pattern-says.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3246502-0-03564800-1790690801-Windows-11-laptop-on-a-wooden-desk-workstation.jpg?quality=50&strip=all",
-      "date": "Tue, 29 Sep 2026 14:05:49 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Discord’s age verification is less terrible than I expected",
-      "description": "Back in February, Discord first attempted to launch its age verification process—only to run straight into massive user outcry. In response, the company went back to the drawing board. Now, half a year later, the branding of teen and adult accounts has finally rolled out. As a regular Discord user, I wasn’t sure what to expect from the process. So, while waiting my turn, I read up on what I needed to know. You can’t opt out Discord first framed age verification on the platform as a move to prote",
-      "url": "https://www.pcworld.com/article/3245390/discords-age-verification-is-less-terrible-than-i-expected.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3245390-0-54407100-1790690429-mariia-shalabaieva-jtRkbtUHsps-unsplash.jpg?quality=50&strip=all",
-      "date": "Tue, 29 Sep 2026 14:00:00 +0000"
+      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
+      "description": "If you’re looking for an affordable Windows machine under $500 , a blazing fast gaming beast for those intense matches, or a portable 2-in-1 for school or work, you’ve got plenty of great choices right now. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 80 laptops every year. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches",
+      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/550968-0-49276700-1790772273-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
+      "date": "Wed, 30 Sep 2026 12:44:17 +0000"
     }
   ],
   "starwars": [
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "‘Star Wars: Galactic Racer’ Introduces Voice Cast in New Video Series",
+      "description": "Fuse Games, the studio behind upcoming video game Star Wars: Galactic Racer, has showcased some of their voice talent in a The post ‘Star Wars: Galactic Racer’ Introduces Voice Cast in New Video Series appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/09/star-wars-galactic-racer-introduces-voice-cast-in-new-video-series.html",
+      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/02/Star-Wars_-Galactic-Racer_Shift_KestarBool.png",
+      "date": "Wed, 30 Sep 2026 15:00:01 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "Shawn Levy Scored Overall TV At Disney After Executives Saw ‘Star Wars: Starfighter’ Cut",
+      "description": "For the past few months, we’ve been receiving messages from the cast and crew behind Star Wars: Starfighter, saying that The post Shawn Levy Scored Overall TV At Disney After Executives Saw ‘Star Wars: Starfighter’ Cut appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/09/shawn-levy-scored-overall-tv-at-disney-after-executives-saw-star-wars-starfighter-cut.html",
+      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2025/06/StarWarsCelebration25Tokyo_008_P1g4TREo-scaled.jpg",
+      "date": "Wed, 30 Sep 2026 13:00:30 +0000"
+    },
     {
       "category": "starwars",
       "source": "Star Wars News Net",
@@ -789,24 +807,6 @@
       "url": "https://www.starwarsnewsnet.com/2026/09/domhnall-gleeson-discusses-his-unfulfilled-wishes-for-general-hux-in-the-rise-of-skywalker.html",
       "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2017/09/General-Hux-in-Force-Awakens.jpg",
       "date": "Sat, 26 Sep 2026 16:00:52 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars News Net",
-      "title": "Dave Filoni Confirms Mortis Gods Will be Explored in ‘Ahsoka’ Season 2",
-      "description": "Star Wars fans have been wondering for years if the Mortis gods will make a return in Ahsoka Season 2, The post Dave Filoni Confirms Mortis Gods Will be Explored in ‘Ahsoka’ Season 2 appeared first on Star Wars News Net .",
-      "url": "https://www.starwarsnewsnet.com/2026/09/dave-filoni-confirms-mortis-gods-will-be-explored-in-ahsoka-season-2.html",
-      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/09/MonumentToTheOnes-Ahsoka-PartEight.webp",
-      "date": "Sat, 26 Sep 2026 15:50:21 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars News Net",
-      "title": "The Jedi Academy of Journalism: How Star Wars Fan Sites Can Earn Their Press Pass",
-      "description": "Starting a Star Wars fan site usually begins with a single, passionate fan and a deep obsession with the galaxy The post The Jedi Academy of Journalism: How Star Wars Fan Sites Can Earn Their Press Pass appeared first on Star Wars News Net .",
-      "url": "https://www.starwarsnewsnet.com/2026/09/the-jedi-academy-of-journalism-how-star-wars-fan-sites-can-earn-their-press-pass.html",
-      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2016/11/Kylo_Ren_duels_Rey-e1478121289533.png",
-      "date": "Sat, 26 Sep 2026 15:30:45 +0000"
     },
     {
       "category": "starwars",
