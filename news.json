@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T21:18:25.108093+00:00",
+  "updated": "2026-10-01T00:43:26.964511+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -111,24 +111,6 @@
     },
     {
       "category": "mkd",
-      "source": "Time.mk - Sport",
-      "title": "Пелистер брзо се огласи по фијаското, а само среќните фанови имаа шанса да испратат порака! | SportSport",
-      "description": "",
-      "url": "https://time.mk/c/a46674d31f/pelister-brzo-se-oglasi-po-fijaskoto-a-samo-sreknite-fanovi-imaa-sansa-da-ispratat-poraka.html",
-      "image": "https://sportsport.mk/wp-content/uploads/2026/09/825340372_2141785446717677_8489060206525825128_n-150x150.jpg",
-      "date": "Wed, 30 Sep 2026 20:44:46 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - Magazin",
-      "title": "Ќе спиете подобро, верувајте ни: Само откажете се од овие навики пред и по вечерата | Попара",
-      "description": "",
-      "url": "https://time.mk/c/33f9d4acc8/ke-spiete-podobro-veruvajte-ni-samo-otkazete-se-od-ovie-naviki-pred-i-po-vecerata.html",
-      "image": "https://popara.mk/wp-content/uploads/2026/09/shutterstock_2344748123-1.webp",
-      "date": "Wed, 30 Sep 2026 21:12:55 +0000"
-    },
-    {
-      "category": "mkd",
       "source": "Time.mk - All",
       "title": "Пензионираниот судија осомничен за поткуп, Елјеса Алији, пак се пријавил за претседател на Гостиварскиот суд | Слободен Печат",
       "description": "",
@@ -139,38 +121,56 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Регионален форум за борба против корупција во организација на Државната ревизија | Press24",
+      "title": "Нови правила за патот кон Брисел: кој добива повеќе, а кој останува во чекалната | Deutsche Welle",
       "description": "",
-      "url": "https://time.mk/c/3f10ff10bc/regionalen-forum-za-borba-protiv-korupcija-vo-organizacija-na-drzavnata-revizija.html",
-      "image": "",
-      "date": "Wed, 30 Sep 2026 20:10:54 +0000"
+      "url": "https://time.mk/c/7f03a207ba/novi-pravila-za-patot-kon-brisel-koj-dobiva-poveke-a-koj-ostanuva-vo-cekalnata.html",
+      "image": "https://static.dw.com/image/64484723_301.jpg",
+      "date": "Wed, 30 Sep 2026 13:00:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "На земјоделците и сточарите им „прекипе“: „Живееме на питачки стап“ | 24 Вести",
+      "title": "Студентите сместени во „Стив“ конечно ќе може да се перат – нема веќе праќање алишта дома | Независен",
       "description": "",
-      "url": "https://time.mk/c/838fc74418/na-zemjodelcite-i-stocarite-im-prekipe-ziveeme-na-pitacki-stap.html",
-      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1790779849/u5fgue5kmpqauvq2f0tv.jpg",
-      "date": "Wed, 30 Sep 2026 15:22:37 +0000"
+      "url": "https://time.mk/c/d08c59c299/studentite-smesteni-vo-stiv-konecno-ke-moze-da-se-perat-nema-veke-prakanje-alista-doma.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/Studentski-dom-Stiv-Naumov-pusten-po-renoviranje-bg-15-1024x934.jpg",
+      "date": "Wed, 30 Sep 2026 11:38:40 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Фехми Стафа бара порано да излезе од затвор, а Пецов ја платил казната од 8 000 евра уште пред правосилноста на пресудата | 360 степени",
+      "description": "",
+      "url": "https://time.mk/c/efe540da95/fehmi-stafa-bara-porano-da-izleze-od-zatvor-a-pecov-ja-platil-kaznata-od-8-000-evra-uste-pred-pravosilnosta-na-presudata.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/01/Fehmi-Stafa-.jpg",
+      "date": "Wed, 30 Sep 2026 14:16:59 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "НА ПРОТЕСТ СЕ ОБЕДИНИЈА ЗЕМЈОДЕЛЦИТЕ И СТОЧАРИТЕ ОД ЦЕЛА МАКЕДОНИЈА И ГО БЛОКИРАА ПАТОТ БИТОЛА-ПРИЛЕП | Сакам да кажам",
+      "description": "",
+      "url": "https://time.mk/c/f5737c87ee/na-protest-se-obedinija-zemjodelcite-i-stocarite-od-cela-makedonija-i-go-blokiraa-patot-bitola-prilep.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/09/protest-zemjodeltsi.jpg",
+      "date": "Wed, 30 Sep 2026 13:06:45 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
       "title": "Владините мерки за поевтини горива ќе чинат над 100 милиони евра: Мицкоски најавува нов ребаланс на буџетот | 4NEWS",
       "description": "",
-      "url": "https://time.mk/c/d1f37ac18a/vladinite-merki-za-poevtini-goriva-ke-cinat-nad-100-milioni-evra-mickoski-najavuva-nov-rebalans-na-budzetot.html",
+      "url": "https://time.mk/c/82d8471f8e/vladinite-merki-za-poevtini-goriva-ke-cinat-nad-100-milioni-evra-mickoski-najavuva-nov-rebalans-na-budzetot.html",
       "image": "https://4news.mk/wp-content/uploads/2026/04/hristijan-mickoski-1024x682.avif",
       "date": "Wed, 30 Sep 2026 20:18:35 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Нови правила за патот кон Брисел: кој добива повеќе, а кој останува во чекалната | Deutsche Welle",
+      "title": "Жестоки реакции на македонските историчари: научно нема доказ дека коските се на Цар Самоил, ова е нов шамар за Македонија | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/7f03a207ba/novi-pravila-za-patot-kon-brisel-koj-dobiva-poveke-a-koj-ostanuva-vo-cekalnata.html",
-      "image": "https://static.dw.com/image/64484723_301.jpg",
-      "date": "Wed, 30 Sep 2026 13:00:56 +0000"
+      "url": "https://time.mk/c/550effb60c/zestoki-reakcii-na-makedonskite-istoricari-naucno-nema-dokaz-deka-koskite-se-na-car-samoil-ova-e-nov-samar-za-makedonija.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1790777875/tkv1gu0dk1ptqhmicmb3.jpg",
+      "date": "Wed, 30 Sep 2026 15:14:36 +0000"
     },
     {
       "category": "mkd",
@@ -211,10 +211,10 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "АФЖ: џабе е борбата против насилството врз жените кога вмровски градоначалник на жена ѝ се заканува со ликвидација | Антропол",
+      "title": "Булеварот „Цветан Димов“ пред тендерска постапка – пешачкиот премин кај „Бит Пазар“ во постапка | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/1e6d0d9c34/afz-dzabe-e-borbata-protiv-nasilstvoto-vrz-zenite-koga-vmrovski-gradonacalnik-na-zena-i-se-zakanuva-so-likvidacija.html",
-      "image": "https://antropol.mk/wp-content/uploads/2026/02/screenshot-2026-02-09-132205.webp",
+      "url": "https://time.mk/c/c55bd077a5/bulevarot-cvetan-dimov-pred-tenderska-postapka-pesackiot-premin-kaj-bit-pazar-vo-postapka.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2025/12/bit-pazar-3-1024x568.jpg",
       "date": "Wed, 30 Sep 2026 18:30:41 +0000"
     },
     {
@@ -256,20 +256,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Во живо) Михајловски за спотот снимен во Македониумот: „Можеби го замислиле од уметнички аспект, но не сметам дека тоа е местото“ | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/e0ed0732ab/vo-zivo-mihajlovski-za-spotot-snimen-vo-makedoniumot-mozebi-go-zamislile-od-umetnicki-aspekt-no-ne-smetam-deka-toa-e-mestoto.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/85682/conversions/text-max.jpg",
-      "date": "Wed, 30 Sep 2026 21:04:35 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
       "title": "Калиопи пред концертот на 17 октомври: „Ќе се журкаме и ќе се веселиме“, најави и специјален гостин | Репортер",
       "description": "",
       "url": "https://time.mk/c/c35631561e/kaliopi-pred-koncertot-na-17-oktomvri-ke-se-zurkame-i-ke-se-veselime-najavi-i-specijalen-gostin.html",
       "image": "https://reporter.mk/wp-content/uploads/2026/09/kaliopi-1-1-300x225.jpg",
       "date": "Wed, 30 Sep 2026 17:18:37 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "По бурата од реакции за скандалот со споменикот „Македониум“: Мицкоски најави разрешување, директорот си поднесе оставка | 24 Вести",
+      "description": "",
+      "url": "https://time.mk/c/fe6625af18/po-burata-od-reakcii-za-skandalot-so-spomenikot-makedonium-mickoski-najavi-razresuvanje-direktorot-si-podnese-ostavka.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1790779116/v8tackj8ssazrf4cvivb.jpg",
+      "date": "Wed, 30 Sep 2026 15:18:40 +0000"
     }
   ],
   "de": [
@@ -458,6 +458,51 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "10 Hacks Every 'YNAB' User Should Know",
+      "description": "Get a better hold on your finances with these tips and tricks.",
+      "url": "https://lifehacker.com/tech/best-ynab-hacks?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M3PX51TQP71GWQEJES9XHCTC/hero-image.jpg",
+      "date": "Wed, 30 Sep 2026 22:30:59 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "The Best Deals on Sony Tech During October Prime Day",
+      "description": "Find deals on TVs, soundbars, headphones, and more.",
+      "url": "https://lifehacker.com/tech/best-sony-deals-early-october-prime-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M3SY5A96VEA9YQ4QJSGY4ENR/hero-image.png",
+      "date": "Wed, 30 Sep 2026 22:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Credit Card-Sized E-Reader Has a Front Light and a Touchscreen, and It's 15% Off for October Prime Day",
+      "description": "The new Xteink X4 Pro is my favorite tiny e-reader.",
+      "url": "https://lifehacker.com/tech/xteink-x4-pro-deal-early-october-prime-day-sale-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M3T54D3R1P4671GXSHGHWEVT/hero-image.png",
+      "date": "Wed, 30 Sep 2026 21:59:24 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place",
+      "description": "Keep up with all of the best deals that Lifehacker publishes, including laptops, speakers, TVs, security cameras, and more.",
+      "url": "https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg",
+      "date": "Wed, 30 Sep 2026 21:44:09 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "How to Sign up for Amazon's ‘Invite-Only’ Deals During October Prime Day",
+      "description": "Put your name in the hat to get the best deals Amazon has to offer during Amazon's October Prime Day sale.",
+      "url": "https://lifehacker.com/how-to-sign-up-for-amazons-invite-only-deals?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01J0KH73FARMPATK73Z5335B2G/hero-image.jpg",
+      "date": "Wed, 30 Sep 2026 21:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "This Compact Sony Soundbar Is Under $100 in an October Prime Day Sale",
       "description": "This compact soundbar from Sony is perfect for apartments and small spaces.",
       "url": "https://lifehacker.com/tech/sony-s100f-soundbar-deal-early-october-prime-day-2026?utm_medium=RSS",
@@ -472,6 +517,15 @@
       "url": "https://lifehacker.com/biggest-tech-discounted-brand-prime-day-2026?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01HF2H5YTE02SCG040QSDZGMQV/hero-image.jpg",
       "date": "Wed, 30 Sep 2026 20:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "10 'One UI 9' Hacks Every Samsung Galaxy User Should Know",
+      "description": "Do more with your Galaxy phone.",
+      "url": "https://lifehacker.com/tech/best-samsung-one-ui-9-hacks?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M3SETBFMQ7X4JFPN8JD7MQTQ/hero-image.jpg",
+      "date": "Wed, 30 Sep 2026 20:00:00 +0000"
     },
     {
       "category": "eng",
@@ -557,15 +611,6 @@
     {
       "category": "eng",
       "source": "Lifehacker",
-      "title": "Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place",
-      "description": "Keep up with all of the best deals that Lifehacker publishes, including laptops, speakers, TVs, security cameras, and more.",
-      "url": "https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg",
-      "date": "Tue, 29 Sep 2026 22:57:55 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
       "title": "10 Spotlight Search Hacks Every iPhone User Should Know",
       "description": "Spotlight is far more than just a search tool.",
       "url": "https://lifehacker.com/tech/10-spotlight-search-hacks-every-iphone-user-should-know?utm_medium=RSS",
@@ -592,48 +637,12 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "These Are the Best October Prime Day Deals on Smartwatches",
-      "description": "These Apple, Samsung, and Pixel smartwatches are already on sale.",
-      "url": "https://lifehacker.com/tech/best-early-deals-on-smartwatches-october-prime-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M3Q8KH1TX0BXT6AXSND6TZ71/hero-image.jpg",
-      "date": "Tue, 29 Sep 2026 21:30:47 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "‘Aura Battle,’ ‘Tylenol Baby,’ and Other Gen Z and Gen Alpha Slang You Might Need Help Decoding",
-      "description": "Use our in-depth glossary to find out if you're a based chad who has aura or a delulu chud in danger of being mogged.",
-      "url": "https://lifehacker.com/entertainment/guide-to-gen-z-and-gen-alpha-slang?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01HW96DTWTS3NVFYV43RH258NM/hero-image.jpg",
-      "date": "Tue, 29 Sep 2026 20:53:37 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "The Best Deals on FItness Equipment From the October Prime Day Sale",
-      "description": "Adjustable dumbbells, treadmills, and other home gym staples are already discounted.",
-      "url": "https://lifehacker.com/health/best-fitness-equipment-deals-early-october-prime-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M3Q7XEY097D2TRQDA9MKZDJ5/hero-image.jpg",
-      "date": "Tue, 29 Sep 2026 20:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "OpenAI Just Announced 'Dots,' a New Type of Personalized AI Agent",
-      "description": "Your \"dot\" can run multiple tasks on your behalf.",
-      "url": "https://lifehacker.com/tech/openai-just-announced-dots-its-take-on-metas-muse?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M3Q76V9D9SCVY4BDNE2M3CPB/hero-image.png",
-      "date": "Tue, 29 Sep 2026 19:30:15 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "10 Shows Like 'Lioness' You Should Watch Next",
-      "description": "These other thrillers have distinctive takes on crime and spycraft.",
-      "url": "https://lifehacker.com/entertainment/best-shows-like-lioness?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M3MA1NNJSHXE3FCD3ZW1FMB7/hero-image.jpg",
-      "date": "Tue, 29 Sep 2026 16:01:29 +0000"
+      "source": "PCWorld",
+      "title": "Best VPN deals: Protect your privacy for the lowest prices",
+      "description": "Whether you’re looking for something that will give you the privacy you need or access to location-restricted streaming content, we’ve got you covered with the very best VPN deals currently available. But not all deals are worth it, so we only highlight those offered by reputable providers that we’ve personally reviewed and recommend. We’ve also included some helpful answers to common questions about VPN shopping at the bottom of this article. Before you decide on a new VPN, be sure to check out",
+      "url": "https://www.pcworld.com/article/2548950/best-vpn-deals.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/2548950-0-47812900-1790809610-nordvpn-inspiron-5441.jpg?quality=50&strip=all",
+      "date": "Wed, 30 Sep 2026 23:06:42 +0000"
     },
     {
       "category": "eng",
@@ -715,15 +724,6 @@
       "url": "https://www.pcworld.com/article/3247382/save-100-on-the-echo-show-11-before-prime-day-even-starts.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3247382-0-35857100-1790775951-Amazon-Echo-Show-11-smart-display.jpg?quality=50&strip=all",
       "date": "Wed, 30 Sep 2026 13:44:31 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "RAM and SSD prices are soaring. Here’s how to buy a PC without overpaying",
-      "description": "Do you need a new computer? Unfortunately, the market is currently experiencing high prices and uncertainty due to the massive wave of investment in AI. But it’s still possible to get ahold of a decent machine — even if you might have to compromise on your budget or your requirements. The RAMpocalypse driving up prices It can hardly have escaped anyone’s notice that the prices of memory chips — both DRAM for RAM, and NAND for storage — have skyrocketed over the past year. Higher-capacity memory ",
-      "url": "https://www.pcworld.com/article/3226529/pc-prices-are-sky-high-heres-how-to-buy-one-without-overpaying.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3226529-0-49758600-1790773225-Gaming-chair-at-a-desk-with-gaming-desktop-PC-rig-and-lots-of-RGB-colors.jpg?quality=50&strip=all",
-      "date": "Wed, 30 Sep 2026 13:00:00 +0000"
     }
   ],
   "starwars": [
