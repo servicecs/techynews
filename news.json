@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-02T10:56:15.602082+00:00",
+  "updated": "2026-10-02T16:34:00.643877+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Apple на 13 октомври планира да го претстави одложуваниот уред за паметен дом, пишува Bloomberg",
+      "description": "Apple изгледа конечно се подготвени да влезат во нова голема категорија на пазарот, паметниот дом. Ова го пишува Марк Гурман во најновата статија за Bloomberg, која е насловена како „Apple конечно се подготвени да влезат во својата следна голема категорија: паметниот дом“. Според неименувани извори на Гурман, компанијата планира на 13 октомври да претстави три […]",
+      "url": "https://smartportal.mk/novosti/uredi/apple-planira-pretstavuvanje-odlozen-ured-pameten-dom/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/06/Depositphotos_378445062_XL-150x150.webp",
+      "date": "Fri, 02 Oct 2026 13:55:42 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Bitwarden доби нов изглед кој засега може да се проба во бета верзија",
+      "description": "Bitwarden, еден од попознатите менаџери за лозинки, ги претстави бета верзиите на своите редизајнирани апликации. Корисниците можат да го пробаат новиот изглед и да остават забелешки пред тој да им стане достапен на сите корисници. Менаџерот за лозинки ги чува сите лозинки во шифриран сеф, кој се отклучува со една главна лозинка, а потоа самиот ги пополнува […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/bitwarden-nov-izgled-vo-beta/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/bitwarden-rd-01-150x150.webp",
+      "date": "Fri, 02 Oct 2026 12:59:50 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "PR и комуникациски агенции од над 30 земји во Скопје: AI носи промени, но човечкиот фактор останува клучен",
+      "description": "Вештачката интелигенција не го менува само начинот на кој работат комуникациските професионалци, туку и начинот на кој се креираат услуги, се организира работата и се размислува за идниот развој на агенциите. Тоа беше еден од заклучоците од регионалниот самит на PROI Worldwide, кој вчера и денеска се одржа во Скопје, со учество на 52 претставници […]",
+      "url": "https://smartportal.mk/novosti/nastani/ai-nosi-promeni-no-coveckiot-faktor-ostanuva-klucen/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/pr-proi-1-150x150.webp",
+      "date": "Fri, 02 Oct 2026 12:40:39 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Opera во својот прелистувач за Android додаде „eSIM“ за мобилен интернет во 47 дестинации",
+      "description": "Opera додаде „eSIM“ за патување во својот прелистувач за Android, па мобилен интернет во странство може да се купи директно од него, без посебна апликација. Компанијата тврди дека е првата што вградила „eSIM“ во прелистувач. Услугата работи во 47 дестинации, со 5G мрежа таму каде што е достапна, а зад неа стои Holiday.com. Пакетите се од 3GB, […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/opera-android-esim/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/16_9-HERO-2-150x150.webp",
+      "date": "Fri, 02 Oct 2026 12:10:56 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -57,222 +93,195 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "NVIDIA го претстави Kumo Tabular, отворен модел што прави предвидувања од табели без тренирање",
-      "description": "NVIDIA го претстави Kumo Tabular, отворен модел за вештачка интелигенција наменет за табеларни податоци. Станува збор за податоците што компаниите ги чуваат во табели и бази на податоци, од листи со клиенти и трансакции до кредитни барања, односно за најчестиот вид податоци во бизнисот. Моделот од табела со познати примери предвидува вредности за нови редови. На пример, […]",
-      "url": "https://smartportal.mk/novosti/ai/nvidia-kumo-tabular/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Depositphotos_713337552_XL-f-150x150.webp",
-      "date": "Tue, 29 Sep 2026 16:57:27 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Sony го прескокнува CES 2027 и се фокусира на игрите, филмовите и музиката",
-      "description": "Sony нема да учествува на CES 2027, саемот за потрошувачка електроника што секој јануари се одржува во Лас Вегас. Веста прва ја објави Nikkei, а компанијата ја потврди за Bloomberg, наведувајќи дека „постојано и стратешки го оценува својот пристап кон настаните и комуникацијата, според потребите и приоритетите на својот разновиден бизнис“. Според самата Sony, компанијата за прв пат […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/sony-go-preskoknuva-ces-2027/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/declan-sun-1p8YPO06SbM-unsplash-150x150.jpg",
-      "date": "Tue, 29 Sep 2026 16:29:53 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Откријте како ќе изгледа домот на иднината на ЕНЕРГО ТЕХНОМА 2026",
-      "description": "Посетителите ќе имаат можност да се запознаат со сите расположливи паметните домашни системи, кои ги поврзуваат контролата на осветлувањето, греењето и ладењето, безбедноста, аудио-визуелната опрема и другите уреди во една целина. Да се информираат како тие придонесуваат кон поголема контрола, безбедност и заштеда на енергија во домот, и колку е едноставно, но практично нивното автоматско […]",
-      "url": "https://smartportal.mk/novosti/nastani/kako-ke-izgleda-domot-na-idninata-energo-tehnoma-2026/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/smart-domuvanje-2-150x150.webp",
-      "date": "Tue, 29 Sep 2026 12:31:42 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Bose претстави жични слушалки со активно поништување на бучавата и USB-C приклучок за 99 долари",
-      "description": "Bose ги претстави Noise Cancelling Wired Earbuds, жични слушалки што се приклучуваат преку USB-C и имаат активно поништување на бучавата. Тоа се првите жични слушалки на компанијата по 2015 година, кога ги издаде SoundSport и SoundTrue Ultra. Според Раза Хајдер, претседател на одделот за премиум аудио производи во Bose, жичните слушалки доживуваат „културна ренесанса“, па компанијата […]",
-      "url": "https://smartportal.mk/novosti/uredi/bose-zicni-slusalki-so-anc/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/FY27_NCWE27-Blk_PDP_EcomGal12_Exp_D_1500x1120-150x150.webp",
-      "date": "Tue, 29 Sep 2026 09:11:21 +0000"
+      "source": "Time.mk - All",
+      "title": "Започнува процес за решавање на спорот, Муцунски вторник оди во Софија | 4NEWS",
+      "description": "",
+      "url": "https://time.mk/c/ed57b3d098/zapocnuva-proces-za-resavanje-na-sporot-mucunski-vtornik-odi-vo-sofija.html",
+      "image": "https://4news.mk/wp-content/uploads/2026/04/timco-mucunski-1-1024x683.avif",
+      "date": "Fri, 02 Oct 2026 16:32:35 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Какви пораки испрати Лајен во Подгорица и Приштина – што ќе порача во Македонија? | Независен",
+      "title": "Платформата 12.05 достави предлози за структурни промени во СДСМ | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/1f334fdc5b/kakvi-poraki-isprati-lajen-vo-podgorica-i-pristina-sto-ke-poraca-vo-makedonija.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/lajen-crna-gora-1024x1024.jpg",
-      "date": "Fri, 02 Oct 2026 09:02:51 +0000"
+      "url": "https://time.mk/c/ad6428d785/platformata-12-05-dostavi-predlozi-za-strukturni-promeni-vo-sdsm.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1790953094/jam5wjofv5zxzg2fo8s8.jpg",
+      "date": "Fri, 02 Oct 2026 15:02:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Сончево време за викендот, од понеделник променлива облачност | Независен",
+      "title": "Дејан Јованов Деко останува во притвор | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/76359fb96d/soncevo-vreme-za-vikendot-od-ponedelnik-promenliva-oblacnost.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/Crna-macka-vo-pasaz-vo-centar-1-bg.jpg",
-      "date": "Fri, 02 Oct 2026 10:16:38 +0000"
+      "url": "https://time.mk/c/d146d4e595/dejan-jovanov-deko-ostanuva-vo-pritvor.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1790950869/jwhv80zcvs4924codagw.jpg",
+      "date": "Fri, 02 Oct 2026 14:58:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Ниту ден помалку боледување, ниту контрола по дома без причина | Пари",
+      "title": "Јанев: Презедовме опсежна акција, претресена е нова локација, засилено е присуството на полицијата со цел конекција со граѓаните на Прилеп | Либертас",
       "description": "",
-      "url": "https://time.mk/c/ed4f93f09d/nitu-den-pomalku-boleduvanje-nitu-kontrola-po-doma-bez-pricina.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/10/ee56cd9a-3824-4d8d-af0b-1818f60884b7.png",
-      "date": "Fri, 02 Oct 2026 10:28:55 +0000"
+      "url": "https://time.mk/c/5a27f44093/janev-prezedovme-opsezna-akcija-pretresena-e-nova-lokacija-zasileno-e-prisustvoto-na-policijata-so-cel-konekcija-so-gragjanite-na-prilep.html",
+      "image": "https://libertas.mk/wp-content/uploads/2026/10/20261002170519_big_730x400_68.webp",
+      "date": "Fri, 02 Oct 2026 15:22:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Видео) Најдоски: ВМРО-ОКГ против Блаже Конески и македонскиот јазик | Скопје1",
+      "title": "СДСМ: Пристапувањето во ЕУ ризикува да се претвори од европеизација во билатерализација | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/b94b53f993/video-najdoski-vmro-okg-protiv-blaze-koneski-i-makedonskiot-jazik.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/85745/conversions/text-max.jpg",
-      "date": "Fri, 02 Oct 2026 09:56:46 +0000"
+      "url": "https://time.mk/c/0d1ef567d4/sdsm-pristapuvanjeto-vo-eu-rizikuva-da-se-pretvori-od-evropeizacija-vo-bilateralizacija.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/10/Fani-SDSM-1-1.jpg",
+      "date": "Fri, 02 Oct 2026 14:56:34 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Видео) Кузеска: Сè што рековме се потврдува, aрамијата не сака во ЕУ затоа што не сака европско обвинителство | Скопје1",
+      "title": "Реакции од спротивните страни на политичката палета: Каранфилова Пановска и Андонов по посетата на Фон дер Лајен | CivilMedia",
       "description": "",
-      "url": "https://time.mk/c/8da7743b68/video-kuzeska-se-sto-rekovme-se-potvrduva-aramijata-ne-saka-vo-eu-zatoa-sto-ne-saka-evropsko-obvinitelstvo.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/85732/conversions/text-max.jpg",
-      "date": "Fri, 02 Oct 2026 09:22:48 +0000"
+      "url": "https://time.mk/c/adc4ce2c2f/reakcii-od-sprotivnite-strani-na-politickata-paleta-karanfilova-panovska-i-andonov-po-posetata-na-fon-der-lajen.html",
+      "image": "https://civilmedia.b-cdn.net/wp-content/uploads/mickoski-pred-fon-der-lajen-makedonija-gi-ispolnuva-obvrskite-vreme-e-evropa-da-obezbedi-fer-proces-bez-novi-uslovuvanja-image-FiAC-750x375.jpg",
+      "date": "Fri, 02 Oct 2026 16:14:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВИДЕО | Шатор пред Медицинскиот факултет: Веднат глава и се прогласуваат за ненадлежни додека доктор штрајкува со глад | Слободен Печат",
+      "title": "Поскапеа житото, говедското месо и шеќерот на глобално ниво | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/79bf0478a5/video-sator-pred-medicinskiot-fakultet-vednat-glava-i-se-proglasuvaat-za-nenadlezni-dodeka-doktor-strajkuva-so-glad.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/doktor-300x225.jpg",
-      "date": "Fri, 02 Oct 2026 09:42:51 +0000"
+      "url": "https://time.mk/c/59bcceaf29/poskapea-zitoto-govedskoto-meso-i-sekerot-na-globalno-nivo.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/04/M79_8516-300x200.jpg",
+      "date": "Fri, 02 Oct 2026 12:52:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Повеќе евтина струја за време на викендите? РКЕ подготвува нови анализи | Deutsche Welle",
+      "title": "Од пролетта РКЕ размислува за повеќе евтина струја, резултати сè уште нема | Рацин",
       "description": "",
-      "url": "https://time.mk/c/cb43ef4819/poveke-evtina-struja-za-vreme-na-vikendite-rke-podgotvuva-novi-analizi.html",
-      "image": "https://static.dw.com/image/62338552_301.jpg",
-      "date": "Fri, 02 Oct 2026 09:26:49 +0000"
+      "url": "https://time.mk/c/96fb078832/od-proletta-rke-razmisluva-za-poveke-evtina-struja-rezultati-se-uste-nema.html",
+      "image": "https://racin.mk/wp-content/uploads/2026/10/strujomer-848x466.jpg?x31731",
+      "date": "Fri, 02 Oct 2026 16:22:53 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ЖЕШКОТО ЛЕТО СКАПО ЈА ЧИНЕШЕ ЕВРОПА: Проценките на штетите од горештините се движат од 113 до 180 милијарди евра | Пари",
+      "title": "Вучиќ: „Со големо внимание го следиме јакнењето на нацизмот во Хрватска“ | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/376f2a2954/zeskoto-leto-skapo-ja-cinese-evropa-procenkite-na-stetite-od-gorestinite-se-dvizat-od-113-do-180-milijardi-evra.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/10/Burning-field.jpg",
-      "date": "Fri, 02 Oct 2026 08:00:42 +0000"
+      "url": "https://time.mk/c/bcc151990a/vucik-so-golemo-vnimanie-go-sledime-jaknenjeto-na-nacizmot-vo-hrvatska.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/38932/conversions/Screenshot-2024-12-01-at-11.18.01-max.jpg",
+      "date": "Fri, 02 Oct 2026 16:22:53 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Последен ден од изборната кампања во БиХ, од утре изборен молк | Скопје1",
+      "title": "Евростат бележи раст на цените на недвижностите на сите пазари, најмногу во Бугарија и Португалија | Иновативност",
       "description": "",
-      "url": "https://time.mk/c/31fb197029/posleden-den-od-izbornata-kampanja-vo-bih-od-utre-izboren-molk.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/78177/conversions/text-max.jpg",
-      "date": "Fri, 02 Oct 2026 10:38:50 +0000"
+      "url": "https://time.mk/c/de78b52435/evrostat-belezi-rast-na-cenite-na-nedviznostite-na-site-pazari-najmnogu-vo-bugarija-i-portugalija.html",
+      "image": "https://inovativnost.mk/wp-content/uploads/2026/10/real_estate-pix4free-600x400.jpg",
+      "date": "Fri, 02 Oct 2026 14:03:01 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Црна Гора најнапредна на патот кон ЕУ, Брисел гледа можност за членство во 2028 година | Deutsche Welle",
+      "title": "Трамп: Европа штотуку се согласи да ослободи огромни количества дизел – процесот започнува веднаш | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/fbbb60d2da/crna-gora-najnapredna-na-patot-kon-eu-brisel-gleda-moznost-za-clenstvo-vo-2028-godina.html",
-      "image": "https://static.dw.com/image/79508988_302.jpg",
-      "date": "Fri, 02 Oct 2026 07:20:38 +0000"
+      "url": "https://time.mk/c/57b4ad3979/tramp-evropa-stotuku-se-soglasi-da-oslobodi-ogromni-kolicestva-dizel-procesot-zapocnuva-vednas.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/dsc_0325-scaled-1-1920x1311-1.jpg",
+      "date": "Fri, 02 Oct 2026 15:51:01 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Коперникус: Температурите летово беа за 2,5 степени над просекот од претходната деценија | Независен",
+      "title": "Руски мотоциклист осомничен за саботажа на аеродромот во Лајпциг: Со години бил во контакт со полковник од ГРУ/ФОТО | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/bf59548828/kopernikus-temperaturite-letovo-bea-za-2-5-stepeni-nad-prosekot-od-prethodnata-decenija.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/07/Luge-na-ulica-toplo-vreme-leto-2-bg.jpg",
-      "date": "Fri, 02 Oct 2026 10:46:55 +0000"
+      "url": "https://time.mk/c/f09f41b1b2/ruski-motociklist-osomnicen-za-sabotaza-na-aerodromot-vo-lajpcig-so-godini-bil-vo-kontakt-so-polkovnik-od-gru-foto.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/leipzig-halle_airport_check-in.jpg-696x309-1.webp",
+      "date": "Fri, 02 Oct 2026 15:08:34 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ПЧЕНИЦАТА И ШЕЌЕРОТ ПОСКАПИ ЗА ПОВЕЌЕ ОД 6% ВО СВЕТОТ Ако кризата потрае цехот ќе го плаќаат граѓаните | +инфо",
+      "title": "ВИДЕО | Советниците на Левица го исвиркаа Ѓорѓиевски, тој ги нарече „хор Ветер и магла“ | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/945c538631/pcenicata-i-sekerot-poskapi-za-poveke-od-6-vo-svetot-ako-krizata-potrae-cehot-ke-go-plakaat-gragjanite.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2022/07/pcenica-zito-2.jpg",
-      "date": "Fri, 02 Oct 2026 09:44:48 +0000"
+      "url": "https://time.mk/c/4281308b1e/video-sovetnicite-na-levica-go-isvirkaa-gjorgjievski-toj-gi-narece-hor-veter-i-magla.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/orce-levica-300x167.png",
+      "date": "Fri, 02 Oct 2026 12:20:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Во недела изменет сообраќаен режим во Скопје поради Виз Ер Скопскиот маратон | Црнобело",
+      "title": "Во недела ќе се чествува Денот на сите македонски светители и 40 години од епископската служба на архиепископот Стефан | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/d5163c5d32/vo-nedela-izmenet-soobrakaen-rezim-vo-skopje-poradi-viz-er-skopskiot-maraton.html",
-      "image": "https://www.crnobelo.com/images/stories/2026/10/1000/vo-nedela-izmenet-soobrakjaen-rezhim-vo-skopje-poradi-viz-er-skopskiot-maraton_povekje01.jpg",
-      "date": "Fri, 02 Oct 2026 10:22:56 +0000"
+      "url": "https://time.mk/c/3963df7cbb/vo-nedela-ke-se-cestvuva-denot-na-site-makedonski-svetiteli-i-40-godini-od-episkopskata-sluzba-na-arhiepiskopot-stefan.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/soboren-e1790948179585.jpg",
+      "date": "Fri, 02 Oct 2026 13:40:45 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Стаменкоска – Трајкоска се сретна со жителите на Усје | Вечер Прес",
+      "title": "Ограбен 24-годишен турски државјанин во Центар | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/f1ae50942b/stamenkoska-trajkoska-se-sretna-so-zitelite-na-usje.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/10/kisela-voda.jpg",
-      "date": "Fri, 02 Oct 2026 10:32:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ВИДЕО | Газда Деко е донесен во Кривичен, каде што ќе се одлучува за новиот притвор — полицајците го носеа додека тој едвај се качуваше по скали | Слободен Печат",
-      "description": "",
-      "url": "https://time.mk/c/e2c21879ee/video-gazda-deko-e-donesen-vo-krivicen-kade-sto-ke-se-odlucuva-za-noviot-pritvor-policajcite-go-nosea-dodeka-toj-edvaj-se-kacuvase-po-skali.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/signal-2026-10-02-11-48-13-073_002-300x176.jpg",
-      "date": "Fri, 02 Oct 2026 09:52:38 +0000"
+      "url": "https://time.mk/c/6e914e8fe5/ograben-24-godisen-turski-drzavjanin-vo-centar.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/81971/conversions/text-max.jpg",
+      "date": "Fri, 02 Oct 2026 12:12:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
       "title": "Директор од ,,Државна лотарија” сведочеше во полза на Груби и Бајрами, обвинителството го прогласи за ,,непријателски сведок” | Фокус",
       "description": "",
-      "url": "https://time.mk/c/cf2b7cc2e0/direktor-od-drzavna-lotarija-svedocese-vo-polza-na-grubi-i-bajrami-obvinitelstvoto-go-proglasi-za-neprijatelski-svedok.html",
+      "url": "https://time.mk/c/7d27b012c2/direktor-od-drzavna-lotarija-svedocese-vo-polza-na-grubi-i-bajrami-obvinitelstvoto-go-proglasi-za-neprijatelski-svedok.html",
       "image": "https://fokus.mk/wp-content/uploads/2026/10/grubi-585x390.jpg",
       "date": "Fri, 02 Oct 2026 10:00:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Сиљаноски: Нова инвестиција од 6 милиони евра во Мешеишта и реализирани над 51 отсто од изборната програма во Дебрца | Press24",
+      "title": "Отворен Дневен центар за лицата со попреченост во Кочани | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/3cdc8117cb/siljanoski-nova-investicija-od-6-milioni-evra-vo-meseista-i-realizirani-nad-51-otsto-od-izbornata-programa-vo-debrca.html",
-      "image": "",
-      "date": "Fri, 02 Oct 2026 09:58:48 +0000"
+      "url": "https://time.mk/c/277184bbc5/otvoren-dneven-centar-za-licata-so-poprecenost-vo-kocani.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/1-kocani.jpg",
+      "date": "Fri, 02 Oct 2026 12:14:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Повозрасните охриѓани добија Дневен центар за активно стареење | Press24",
+      "title": "Коњановски: Битола покажа дека живее за спортот и за големите натпревари | Булевар",
       "description": "",
-      "url": "https://time.mk/c/3e00d63d81/povozrasnite-ohrigjani-dobija-dneven-centar-za-aktivno-stareenje.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/74490.jpg",
-      "date": "Thu, 01 Oct 2026 16:42:51 +0000"
+      "url": "https://time.mk/c/2dc6a5caeb/konjanovski-bitola-pokaza-deka-zivee-za-sportot-i-za-golemite-natprevari.html",
+      "image": "https://bulevar.mk/wp-content/uploads/2026/10/img_0237-1024x683.jpeg",
+      "date": "Fri, 02 Oct 2026 13:15:00 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Овие серии пристигнуваат во октомври: Новата сезона започнува со трилери, драми и хорор | WebMind",
+      "title": "Јубилејниот „Прилеп џез викенд“ го слави 15. издание со богата музичка програма | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/edd444390d/ovie-serii-pristignuvaat-vo-oktomvri-novata-sezona-zapocnuva-so-trileri-drami-i-horor.html",
-      "image": "https://web-mind.io/aa-media/fi25/serii-6450-fi-380x.jpg",
-      "date": "Fri, 02 Oct 2026 10:06:52 +0000"
+      "url": "https://time.mk/c/7473dd0c37/jubilejniot-prilep-dzez-vikend-go-slavi-15-izdanie-so-bogata-muzicka-programa.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2026/10/Screenshot_5-1-1024x564.jpg",
+      "date": "Fri, 02 Oct 2026 13:50:53 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Со Шуберт и Малер, Филхармонија ја отвори сезоната со музика што допира до душата (фото) | Независен",
+      "title": "Гласот на гајдата од сите страни на светот ќе одекне во Скопје | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/79cac656a6/so-subert-i-maler-filharmonija-ja-otvori-sezonata-so-muzika-sto-dopira-do-dusata-foto.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/angel-3.jpg",
-      "date": "Fri, 02 Oct 2026 10:32:48 +0000"
+      "url": "https://time.mk/c/4c3da0b68f/glasot-na-gajdata-od-site-strani-na-svetot-ke-odekne-vo-skopje.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/1-1.jpg",
+      "date": "Fri, 02 Oct 2026 13:26:58 +0000"
     }
   ],
   "de": [
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "E-Books: Digitales Lesen knackt erstmals die 50-Prozent-Marke",
+      "description": "Das digitale Buch ist in Deutschland angekommen: Eine Bitkom-Studie zeigt, wie stark sich das Leseverhalten verändert hat. Der Artikel E-Books: Digitales Lesen knackt erstmals die 50-Prozent-Marke erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/e-books/e-books-50-prozent-deutsche-lesen-digital-334242.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/e-books-50-prozent-deutsche-lesen-digital",
+      "date": "Fri, 02 Oct 2026 13:53:14 +0000"
+    },
     {
       "category": "de",
       "source": "Tarnkappe",
@@ -443,18 +452,54 @@
       "url": "https://tarnkappe.info/artikel/gaming/ps2-sicherheitschip-mechacon-geknackt-333554.html",
       "image": "https://cdn.tarnkappe.info/wpimg/ps2-sicherheitschip-mechacon-geknackt",
       "date": "Thu, 17 Sep 2026 16:45:39 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Replik zum Artikel „Vom Keller in die Cloud: Warum das lokale Firmen-Rechenzentrum zum Sicherheitsrisiko wird “",
-      "description": "Replik zum Cloud-Hype: Wie FUD täuscht, welche Risiken der US Cloud Act birgt und warum die lokale IT erforderlich bleibt. Der Artikel Replik zum Artikel „Vom Keller in die Cloud: Warum das lokale Firmen-Rechenzentrum zum Sicherheitsrisiko wird “ erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/it-sicherheit/replik-zum-artikel-vom-keller-in-die-cloud-warum-das-lokale-firmen-rechenzentrum-zum-sicherheitsrisiko-wird-333537.html",
-      "image": "https://cdn.tarnkappe.info/wp-content/uploads/Rechenzentrum-Schrank-von-hinten.jpg",
-      "date": "Thu, 17 Sep 2026 16:05:02 +0000"
     }
   ],
   "eng": [
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "15 Hacks Every Opera Browser User Should Know",
+      "description": "If you use Opera to surf the web, you need to know these hacks.",
+      "url": "https://lifehacker.com/tech/15-hacks-every-opera-browser-user-should-know?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01KQ7E5YVVDX22FG9ZWPDGM4ZV/hero-image.jpg",
+      "date": "Fri, 02 Oct 2026 15:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "These DeWalt Cordless Power Tools Are up to 40% Off at Lowe's Right Now",
+      "description": "Build out your kits and get your fall DIY projects handled under budget.",
+      "url": "https://lifehacker.com/home/best-dewalt-cordless-power-tools-lowes-early-october-prime-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M3XEVN6T8V6W1RJCCTKSH5PX/hero-image.png",
+      "date": "Fri, 02 Oct 2026 14:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "The Top 10 Movies Right Now, According to Streaming Data",
+      "description": "Discover the top 10 most-streamed movies right now—from horror hits like \"Backrooms\" to family favorites like \"Toy Story 5.\"",
+      "url": "https://lifehacker.com/entertainment/the-top-10-movies-right-now-according-to-streaming-data-october-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M3WQB61TTQTYM47F38Z7VRRQ/hero-image.png",
+      "date": "Fri, 02 Oct 2026 13:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "These Are the Best Bluetooth Speaker Deals for October Prime Day",
+      "description": "Amazon’s early October Prime Day sales include Bluetooth speakers from Soundcore, JBL, Ultimate Ears, and Marshall starting at $22.99.",
+      "url": "https://lifehacker.com/tech/best-bluetooth-speaker-sales-early-october-prime-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M3XRQ76YM3TH6J3DCX8F3AMY/hero-image.png",
+      "date": "Fri, 02 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This TP-Link Wi-Fi 7 Router Is 32% Off for October Prime Day",
+      "description": "Early October Prime Day deals have dropped the TP-Link Archer BE550 Wi-Fi 7 router to $169.99, down from $249.99.",
+      "url": "https://lifehacker.com/tech/tp-link-archer-be550-wi-fi-7-router-sale-early-october-prime-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M3XQ04TT3Y0JDX4NSAH31Y65/hero-image.png",
+      "date": "Fri, 02 Oct 2026 12:30:00 +0000"
+    },
     {
       "category": "eng",
       "source": "Lifehacker",
@@ -592,141 +637,114 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "These Are the Best October Prime Day Deals on Power Banks",
-      "description": "Here are the best October Prime Day deals on power banks, portable chargers, and battery packs.",
-      "url": "https://lifehacker.com/tech/best-power-bank-deals-early-october-prime-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M3TAKZTS16Z1R58YG0MWMTBQ/hero-image.png",
-      "date": "Thu, 01 Oct 2026 13:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "This Eero Max Wifi Mesh System Is $350 Off for October Prime Day",
-      "description": "A two-pack of the Amazon Eero Max 7 is down to $799.99 from $1,149.99, ahead of Amazon's October Prime Day.",
-      "url": "https://lifehacker.com/tech/eero-max-7-mesh-system-sale-early-october-prime-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M3V2AP3C4RG528XCS30Q4FKY/hero-image.png",
-      "date": "Thu, 01 Oct 2026 13:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "These Are the Best October Prime Day Deals on Smart Home Tech",
-      "description": "Many October Prime Day smart home deals are already live, including the Echo Dot at $39.99 and the Roomba 705X at $699.99.",
-      "url": "https://lifehacker.com/tech/best-smart-home-deals-early-october-prime-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M3V7HN75SJF03NMMED4SBJ4Z/hero-image.png",
-      "date": "Thu, 01 Oct 2026 12:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "10 Hacks Every 'YNAB' User Should Know",
-      "description": "Get a better hold on your finances with these tips and tricks.",
-      "url": "https://lifehacker.com/tech/best-ynab-hacks?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M3PX51TQP71GWQEJES9XHCTC/hero-image.jpg",
-      "date": "Wed, 30 Sep 2026 22:30:59 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "The Best Deals on Sony Tech During October Prime Day",
-      "description": "Find deals on TVs, soundbars, headphones, and more.",
-      "url": "https://lifehacker.com/tech/best-sony-deals-early-october-prime-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M3SY5A96VEA9YQ4QJSGY4ENR/hero-image.png",
-      "date": "Wed, 30 Sep 2026 22:00:00 +0000"
+      "source": "PCWorld",
+      "title": "Samsung’s 32-inch 1440p gaming monitor just dropped to $190",
+      "description": "MATCHES LOWEST PRICE Samsung Odyssey G55C Monitor View Deal If you’re still stuck on a cruddy 1080p monitor and want to level up your gaming and workflows, stepping up to a 1440p display can be one of the best upgrades you can make. And right now, the Samsung Odyssey G55C is on sale for just $190 ahead of October Prime Day —that’s a big drop from its original $330 and matches the lowest price it’s ever been. This 32-inch monitor delivers a 2560×1440 resolution and a fast 165Hz refresh rate, whic",
+      "url": "https://www.pcworld.com/article/3250356/samsungs-32-inch-1440p-gaming-monitor-just-dropped-to-190.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3250356-0-25482500-1790958766-Samsung-Odyssey-G55C-gaming-monitor.jpg?quality=50&strip=all",
+      "date": "Fri, 02 Oct 2026 16:32:36 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "I found a better way to search my Windows PC",
-      "description": "Windows Search is fine, I guess. But Flow Launcher is a much quicker way to get around. While regular Windows Search can be slow with hit-or-miss results, Flow Launcher optimizes search results and uses keyboard shortcuts to navigate—and shortcuts are just better . At its core, Flow Launcher is a free, open-source app launcher for Windows. By pressing Alt + Space , a small search box appears, allowing you to open apps, find files, jump to Windows settings, open bookmarks, and more–all without cl",
-      "url": "https://www.pcworld.com/article/3244903/i-found-a-better-way-to-search-my-windows-pc.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3244903-0-52381100-1790937059-flow_launcher_b31d63.jpg?quality=50&strip=all",
-      "date": "Fri, 02 Oct 2026 10:30:00 +0000"
+      "title": "Best gaming monitors 2026: Displays that will do your games justice",
+      "description": "Any monitor can be used for PC gaming, but a display built for productivity will likely leave you underwhelmed. Limited contrast, blurry motion, and slow refresh rates still hold basic productivity monitors back in games. Fortunately, there’s no shortage of excellent gaming monitors available at a wide range of price points—and the best of them embrace cutting-edge technology unavailable in any other PC display. The following are the best gaming monitors we’ve tested throughout this year and las",
+      "url": "https://www.pcworld.com/article/813301/best-gaming-monitors.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/813301-0-25157600-1790956822-dell-3223q-1.jpg?quality=50&strip=all",
+      "date": "Fri, 02 Oct 2026 16:00:00 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Compare 20+ AI models side by side for $54.97 for life",
-      "description": "TL;DR: Compare answers from 20+ AI models in one dashboard with a lifetime ChatPlayground AI Unlimited Plan , on sale for $54.97 (reg. $619). Every AI model has different strengths, and figuring out which one to trust for a given task takes a lot of trial and error. A ChatPlayground AI Unlimited Plan lifetime subscription puts more than 20 models on hand in one place, and it’s on sale for $54.97 (reg. $619) through Oct. 4. Type one prompt, and ChatGPT, Gemini, DeepSeek, Llama, Perplexity, and ot",
-      "url": "https://www.pcworld.com/article/3249391/compare-20-ai-models-side-by-side-for-54-97-for-life.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3249391-0-73820000-1790928064-ChatPlayground.jpg?quality=50&strip=all",
-      "date": "Fri, 02 Oct 2026 08:00:00 +0000"
+      "title": "Best early Prime Day monitor deals: Save big on OLED and more",
+      "description": "One of the easiest ways to enhance your PC experience is to get a better monitor. It doesn’t require any upgrades for your desktop or laptop (which is good, since they’re all insanely expensive right now), and it shines up the primary way you interact with almost everything: the visuals. Even better, the prices of luxurious models with high resolutions, frame rates, and features like OLED panels have consistently fallen over the year. Now it’s time to take action. Amazon’s latest Prime Day deal ",
+      "url": "https://www.pcworld.com/article/2833659/best-monitor-deals-amazon-prime-day.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/2833659-0-14755800-1790957212-displays-PCW-Prime-Day-25.jpg?quality=50&strip=all",
+      "date": "Fri, 02 Oct 2026 15:41:41 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Cancel Microsoft 365 and get Microsoft Office for life for $30",
-      "description": "TL;DR : Get Word, Excel, PowerPoint, and more when you get a Microsoft Office Pro lifetime license , only $30 through October 11. Microsoft 365 Personal costs $99.99 a year, and there’s no guarantee it won’t go up later. If you don’t want to get stuck paying for the same apps year after year, you can now switch to a lifetime license for Microsoft Office Pro 2021 . You get stable versions of many of the same apps, and it only costs $29.97 on sale (reg. $219.99). Your license includes Word, Excel,",
-      "url": "https://www.pcworld.com/article/3248268/cancel-microsoft-365-and-get-microsoft-office-for-life-for-30.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3248268-0-16289500-1790928053-mso-pro-2021-win.jpg?quality=50&strip=all",
-      "date": "Fri, 02 Oct 2026 08:00:00 +0000"
+      "title": "You don’t need max graphics settings for great PC gaming visuals",
+      "description": "In the world of PC gaming, there’s a persistent myth that, to achieve maximum FPS rates (FPS, frames per second), you generally have to set all graphics settings to their maximum. However, we’ll show you that just a handful of settings are enough to massively enhance the visual experience without placing an excessive strain on modern graphics cards. The absolute standout among these free upgrades is anisotropic filtering. This technique ensures that textures on surfaces at an acute angle to the ",
+      "url": "https://www.pcworld.com/article/3236988/how-to-improve-graphics-quality-in-pc-games-without-losing-fps.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3236988-0-51826800-1790953228-Gaming-Monitor_RGBeci.jpg?quality=50&strip=all",
+      "date": "Fri, 02 Oct 2026 15:00:00 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "A $100 PDF editor for $23.97, and the license never expires",
-      "description": "TL;DR: AcePDF Converter & Editor handles PDF conversion, editing, OCR, and form building on Windows and Mac for a one-time $23.97 (MSRP $99.99). Most PDF editors either charge a monthly fee or only handle one job well. AcePDF Converter & Editor is a lifetime license on sale during Deal Days, PCWorld’s answer to Prime Day, that does conversion, editing, and OCR in one app. On the conversion side, AcePDF batch-processes PDFs into Word, Excel, PowerPoint, HTML, and image formats while keeping the o",
-      "url": "https://www.pcworld.com/article/3249701/a-100-pdf-editor-for-23-97-and-the-license-never-expires.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3249701-0-52404200-1790899167-AcePDF.png",
-      "date": "Thu, 01 Oct 2026 23:59:10 +0000"
+      "title": "Best early Prime Day SSD deals: Save on storage before prices climb higher",
+      "description": "PC upgrades cost more than they used to. At least, if you’re looking to get more storage space. AI data center buildouts have obliterated affordable prices for SSDs and hard drives. Even SD cards and flash drives haven’t been immune! If you’d like to reduce the sting of sky-high costs, Amazon’s October Prime Day is worth a peek. The main event starts next Tuesday, October 6 at midnight Pacific time, and as it draws near, rivals like Newegg, Best Buy, and Walmart have announced their own deals in",
+      "url": "https://www.pcworld.com/article/2834437/best-prime-day-ssd-storage-deals.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/2834437-0-69137200-1790953131-hds-PCW-Prime-Day-25.jpg?quality=50&strip=all",
+      "date": "Fri, 02 Oct 2026 14:58:40 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Best PDF editors: Premium, budget, and free options",
-      "description": "PDF files are a necessary component of our multi-platform world. With this convenient file format, users are able to view and share documents across various devices, using various operating systems and software programs. While tasks such as simple viewing and/or commenting on a PDF can be accomplished with free software, there are times when you need a broader range of tools for working with a PDF document. You might want to make edits, reorganize the elements of a file, or collaborate with othe",
-      "url": "https://www.pcworld.com/article/407214/best-pdf-editors.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/407214-0-94167300-1790875822-Best-free-PDF.jpg?quality=50&strip=all",
-      "date": "Thu, 01 Oct 2026 17:30:00 +0000"
+      "title": "Your used CPU might come with someone else’s Valorant ban",
+      "description": "With PC hardware more expensive than it’s ever been, doubly so for gamers , you might be tempted to hunt for used parts. That’s prudent and practical…but not without its risks. In addition to the usual problems of used goods with no warranty, you might just find yourself banned from your favorite online multiplayer game after you boot up with that new upgrade installed. What? Yes, this is a real thing that happens to people. Though from what I’ve been able to see, it’s pretty darn rare. Here’s t",
+      "url": "https://www.pcworld.com/article/3250222/your-used-cpu-might-come-with-someone-elses-valorant-ban.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3250222-0-51475700-1790951998-image_3e8e58.png",
+      "date": "Fri, 02 Oct 2026 14:39:11 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Get Amazon’s 55-inch 4K smart TV for under $300 ahead of Prime Day",
-      "description": "MATCHES LOWEST PRICE 55-inch Amazon Ember 4K Smart TV View Deal Amazon is currently selling its 55-inch Ember 4K Smart TV for just $279.99 , a 39% discount off its original $459.99 price. That matches the lowest price it’s ever been, representing a great deal in the days leading up to October Prime Day next week. If you want a feature-rich 4K TV for under $300, this is the deal you want to jump on. What the Amazon Ember 4K TV offers This Amazon Ember TV (model 4K55N402) has a large 55-inch scree",
-      "url": "https://www.pcworld.com/article/3249270/get-amazons-55-inch-4k-smart-tv-for-under-300-ahead-of-prime-day.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3249270-0-07332500-1790874457-Amazon-Ember-4K-Smart-TV-model-4K55N402.jpg?quality=50&strip=all",
-      "date": "Thu, 01 Oct 2026 17:07:28 +0000"
+      "title": "Best early Prime Day deals on mini PCs: Save big on tiny computers",
+      "description": "Amazon’s October Prime Day is one of the best times of the year to score a mini PC deal. These compact machines have exploded in popularity thanks to their tiny footprints, surprisingly strong performance, and wallet-friendly prices. Whether you need a capable productivity box, a living-room PC, or even a compact gaming rig, Prime Day is packed with discounts worth considering. The challenge is separating the genuinely great bargains from the mediocre markdowns. The official sale runs October 6t",
+      "url": "https://www.pcworld.com/article/2828494/best-prime-day-mini-pc-deals.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/2828494-0-71385400-1790950756-mini-PCs-PCW-Prime-Day-25.jpg?quality=50&strip=all",
+      "date": "Fri, 02 Oct 2026 14:17:22 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Soulog Sense Goes Beyond Transcription to Turn Captured Context Into Useful Results",
-      "description": "Log your Days. Log your life. AI Voice Recorder with a Personal Context System Soulog Sense There’s a particular kind of frustration that anyone juggling meetings, classes, or creative projects knows well: the good idea that slipped away because you were too busy talking to write it down, the client detail buried somewhere in a call, the lecture point you meant to revisit but never found again. Information isn’t usually lost because we weren’t paying attention—it’s lost because it was never capt",
-      "url": "https://www.pcworld.com/article/3246579/soulog-sense-goes-beyond-transcription-to-turn-captured-context-into-useful-results.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3246579-0-91432800-1790874022-Soulog-ps-7.jpg?quality=50&strip=all",
-      "date": "Thu, 01 Oct 2026 17:00:00 +0000"
+      "title": "Firefox can now show two websites in one tab. Here’s how",
+      "description": "Firefox is making it easier to work with two web pages at once. In version 149, the developers added a new feature that allows a single tab to display two web pages side by side. You could, for example, keep Google Maps open on one side to follow your route while searching for accommodation on the other. Activating this feature is simple. Just right-click a tab in the Firefox title bar and select Add Split View. The page will now appear on the left, while Firefox displays its home screen with a ",
+      "url": "https://www.pcworld.com/article/3241444/use-firefox-split-tab-view-to-browse-two-sites-at-once-heres-how.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3241444-0-60983700-1790949625-Firefox-logo-on-a-bold-high-contrast-background.jpg?quality=50&strip=all",
+      "date": "Fri, 02 Oct 2026 14:00:00 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Best online backup 2026: Expert reviews and top picks",
-      "description": "Online backup is your protection against any harm that might come to your computer or local storage devices. Mechanical failure, acts of malice, or natural disasters are serious threats to all of the data you have stored on your PC. While I always recommend keeping a local backup for quick restores (see our roundup of the best Windows backup software for desktop solutions), uploading your data to a cloud backup service is a good way to cover your bases. There’s a valid reason for the “ backup ru",
-      "url": "https://www.pcworld.com/article/407149/online-cloud-backup-services-carbonite-idrive-backblaze-livedrive.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/407149-0-91621700-1790870421-cloud-backup.jpg?quality=50&strip=all",
-      "date": "Thu, 01 Oct 2026 16:00:00 +0000"
+      "title": "Best early October Prime Day deals on Thunderbolt docks, USB-C hubs",
+      "description": "Amazon’s October Prime Day is one of the best opportunities for shoppers to score great deals on Thunderbolt docks and their cousins, USB-C hubs before the holiday season kicks off in earnest. I should know — I’ve been tracking them for years and years! Laptop docking stations, Thunderbolt docks, and USB-C hubs offer an opportunity to connect a variety of peripherals to your laptop — even adding new ports your notebook may lack. Nothing against other retailers, but Amazon has hosted the best dea",
+      "url": "https://www.pcworld.com/article/2833865/best-prime-day-deals-on-thunderbolt-docks-usb-c-hubs.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/2833865-0-04154300-1790946824-hubs-PCW-Prime-Day-25.jpg?quality=50&strip=all",
+      "date": "Fri, 02 Oct 2026 13:13:32 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "10 early October Prime Day tech deals worth buying right now",
-      "description": "October Prime Day (officially known as “Prime Big Deal Days”) is coming next week! If you missed out on June’s Prime Day, this is your chance to snag a bunch of stuff on sale—hopefully stuff that’s already in your cart, waiting for you to pull the trigger. Prime Big Deal Days runs Tuesday, October 6th to Wednesday, October 7th . But if you have cash to spend right now and you want to score some early deals ahead of the big event, here are some of the coolest tech deals I’ve spotted in the days l",
-      "url": "https://www.pcworld.com/article/3244511/early-october-prime-day-tech-deals-2026.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3244511-0-52359900-1790870380-Amazon-Prime-Day-promo-image-2026-16x9-1.png",
-      "date": "Thu, 01 Oct 2026 15:54:39 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "This $150 Ring doorbell + camera bundle is now $50 ahead of Prime Day",
-      "description": "NOW $100 OFF Ring Battery Doorbell 2K + Indoor Cam Original value $149.98. Get this bundle for just $49.99. View Deal The Ring Battery Doorbell 2K is on sale for $39.99, down from $99.99. And the Ring Indoor Cam is on sale for $24.99, down from $49.99. But if you’re interested in both, you’re in luck—Amazon has bundled the two together and priced the package at just $49.99 . That’s a $150 value with a massive $100 discount, or an extra $15 off buying them separately. That’s a huge deal ahead of ",
-      "url": "https://www.pcworld.com/article/3249192/this-150-ring-doorbell-camera-bundle-is-now-50-ahead-of-prime-day.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3249192-0-11601300-1790870394-Ring-Battery-doorbell-and-indoor-cam.jpg?quality=50&strip=all",
-      "date": "Thu, 01 Oct 2026 15:46:02 +0000"
+      "title": "My phone ran Skyrim at 60 fps, and it wasn’t even streaming",
+      "description": "Your phone can play games. You already know this if you’ve perused an app store in the last 15 years, or seen the absolute dregs of YouTube advertising. But did you know that your phone can play PC games? And I don’t mean an emulated build of Age of Empires that looked old even running on Windows XP. I mean new Steam games, downloaded from your own Steam account, played right on your phone. This is a super-cool development, using a lot of the same tech that makes the Linux-based Steam Deck play ",
+      "url": "https://www.pcworld.com/article/3164479/my-phone-ran-skyrim-at-60-fps-and-it-wasnt-even-streaming.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3164479-0-82448100-1790946717-image_dd1a85.png",
+      "date": "Fri, 02 Oct 2026 13:00:00 +0000"
     }
   ],
   "starwars": [
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "Zuckuss – ‘Star Wars’ Character Spotlight",
+      "description": "This Star Wars Character Spotlight will look at Zuckuss, one of the more well-recognized bounty hunters in Star Wars lore. The post Zuckuss – ‘Star Wars’ Character Spotlight appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/10/zuckuss-star-wars-character-spotlight.html",
+      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/09/ZuckussTheUncannyOne-SoH.webp",
+      "date": "Fri, 02 Oct 2026 15:00:50 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "‘Star Wars: Galactic Racer’ Review – The Definitive ‘Star Wars’ Racing Game With Endless Potential for High-Speed Fun",
+      "description": "Over 20 years ago, Star Wars Episode I: Racer ripped the glory of becoming the galaxy’s best racer away from The post ‘Star Wars: Galactic Racer’ Review – The Definitive ‘Star Wars’ Racing Game With Endless Potential for High-Speed Fun appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/10/star-wars-galactic-racer-review-the-definitive-star-wars-racing-game-with-endless-potential-for-high-speed-fun.html",
+      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/10/SWGR_PR_05-scaled.jpg",
+      "date": "Fri, 02 Oct 2026 12:00:15 +0000"
+    },
     {
       "category": "starwars",
       "source": "Star Wars News Net",
@@ -792,21 +810,12 @@
     },
     {
       "category": "starwars",
-      "source": "Star Wars News Net",
-      "title": "This Week, In a Galaxy Far, Far Away: Jon Watts Possibly Directing ‘Star Wars’ Episode X, Mortis Gods Confirmed for ‘Ahsoka’ Season 2, and More",
-      "description": "Happy Sunday, and welcome to a new edition of “This Week, In a Galaxy Far, Far Away“. It was a The post This Week, In a Galaxy Far, Far Away: Jon Watts Possibly Directing ‘Star Wars’ Episode X, Mortis Gods Confirmed for ‘Ahsoka’ Season 2, and More appeared first on Star Wars News Net .",
-      "url": "https://www.starwarsnewsnet.com/2026/09/this-week-in-a-galaxy-far-far-away-jon-watts-possibly-directing-star-wars-episode-x-mortis-gods-confirmed-for-ahsoka-season-2-and-more.html",
-      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2024/10/jon-watts.webp",
-      "date": "Sun, 27 Sep 2026 23:53:01 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars News Net",
-      "title": "‘Star Wars: Skeleton Crew’ Showrunner Jon Watts to Direct the ‘Star Wars’ Movie Written by Simon Kinberg",
-      "description": "Jon Watts, the showrunner of Star Wars: Skeleton Crew and the director of the Marvel Cinematic Universe’s first Spider-Man trilogy The post ‘Star Wars: Skeleton Crew’ Showrunner Jon Watts to Direct the ‘Star Wars’ Movie Written by Simon Kinberg appeared first on Star Wars News Net .",
-      "url": "https://www.starwarsnewsnet.com/2026/09/star-wars-skeleton-crew-showrunner-jon-watts-to-direct-the-star-wars-movie-written-by-simon-kinberg.html",
-      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/09/Jon-Watts-Star-Wars.png",
-      "date": "Sun, 27 Sep 2026 01:16:18 +0000"
+      "source": "Star Wars Union",
+      "title": "George Lucas und Mellody Hobson im Interview über ihr Museum",
+      "description": "Eine weitere Star-Wars-Trilogie oder dieses Museum.",
+      "url": "https://starwars-union.de/george-lucas-und-mellody-hobson-im-interview-ueber-ihr-museum/",
+      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/09/Lucas-Museum.jpg",
+      "date": "Fri, 02 Oct 2026 11:04:05 +0000"
     },
     {
       "category": "starwars",
@@ -888,15 +897,6 @@
       "url": "https://starwars-union.de/ein-wechselspiel-galaxys-edge-und-die-star-wars-weltenschoepfung/",
       "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/09/Jan-Favreau-und-einige-seiner-Weltenschoepfungen.jpg",
       "date": "Fri, 18 Sep 2026 08:52:45 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "Nur echt in Lebensgröße: Star-Wars-Figuren für das Lucas-Museum",
-      "description": "Das Team von Tom Spina Designs berichtet über seine Arbeit an 11 Filmfiguren für die Ausstellung Star Wars in Motion.",
-      "url": "https://starwars-union.de/nur-echt-in-lebensgroesse-star-wars-figuren-fuer-das-lucas-museum/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/09/Silikonfiguren-fuer-das-Lucas-Museum.jpg",
-      "date": "Tue, 15 Sep 2026 08:08:07 +0000"
     },
     {
       "category": "starwars",
@@ -1002,6 +1002,15 @@
     {
       "category": "youtube",
       "source": "Hood Informatik",
+      "title": "CyberSec Safespace[GER]",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Lzv8DVA4NKg",
+      "image": "https://i.ytimg.com/vi/Lzv8DVA4NKg/hqdefault.jpg",
+      "date": "2026-10-02T15:58:12+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
       "title": "Niemand muss zuschauen, damit überwachung wirkt... #informatik #privacy #data #cybersecurity",
       "description": "",
       "url": "https://www.youtube.com/shorts/0LXcUIlZeQk",
@@ -1079,15 +1088,6 @@
       "url": "https://www.youtube.com/shorts/HggFs7i7Wow",
       "image": "https://i.ytimg.com/vi/HggFs7i7Wow/hqdefault.jpg",
       "date": "2026-09-22T17:06:47+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Wird deine Festplatte schwerer wenn Daten drauf sind ?! #informatik #hardware #code #fakten",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/0oAtpKLlmls",
-      "image": "https://i.ytimg.com/vi/0oAtpKLlmls/hqdefault.jpg",
-      "date": "2026-09-21T16:00:15+00:00"
     },
     {
       "category": "youtube",
