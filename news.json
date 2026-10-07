@@ -1,6 +1,51 @@
 {
-  "updated": "2026-10-07T07:01:44.018174+00:00",
+  "updated": "2026-10-07T14:39:39.397317+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Новите BMW X5 и BMW Серија 7 Седан премиерно претставени во Македонија",
+      "description": "Името е познато, но приказната е нова. BMW X5 и BMW Серија 7 Седан во своите нови генерации денеска беа претставени пред македонската публика. Два препознатливи модели, со различен карактер и различна намена, но со нови беспрекорни решенија во дизајнот, технологијата и начинот на кој го доживуваат возењето. Нивната приказна е различна, но заедничкиот јазик […]",
+      "url": "https://smartportal.mk/novosti/avtomobili/novite-bmw-x5-bmw-serija-7-sedan-pretstaveni-vo-makedonija/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Новите-BMW-X5-и-BMW-Серија-7-Седан-премиерно-претставени-во-Македонија-11-150x150.webp",
+      "date": "Wed, 07 Oct 2026 13:22:06 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "LibreOffice останува без вградена вештачка интелигенција додека не се исполнат шест услови на развивачите",
+      "description": "The Document Foundation, непрофитната организација зад бесплатниот и доста познат пакет апликации LibreOffice, објасни зошто во основната инсталација засега нема вештачка интелигенција. Според фондацијата, LibreOffice 26.8, објавен на 26 август, не содржи функции со генеративна вештачка интелигенција и не праќа документи до надворешни сервиси. Повод бил коментар под најавата: „Значи, без AI сега е функција?“. Фондацијата вели […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/libreoffice-ostanuva-bez-vgradena-vi/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/LO-no-forced-AI-new-150x150.webp",
+      "date": "Wed, 07 Oct 2026 10:28:44 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Claude сега работи директно во Google Docs, Sheets и Slides преку нов додаток",
+      "description": "Anthropic го претстави Claude for Google Workspace, додаток што Claude го носи директно во Google Docs, Sheets и Slides. Додатокот засега е во бета верзија и е достапен за сите платени пакети на Claude, а се надоврзува на постоечките додатоци за Word, Excel и PowerPoint, кои сега се водат под името Claude for Microsoft 365. Claude се […]",
+      "url": "https://smartportal.mk/novosti/ai/claude-google-workspace/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/claud-for-docs-1-150x150.webp",
+      "date": "Wed, 07 Oct 2026 10:08:06 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Револуцијата продолжува: Скопје повторно ја обедини глобалната стартап и AI сцена",
+      "description": "Повеќе од 2.000 учесници, 100+ говорници, 400+ стартапи и 200+ инвеститори од над 50 земји беа дел од второто издание на Startup Revolution AI Summit, кое се одржа од 1 до 4 октомври во Скопје. Во организација на Startup Club Skopje, самитот ги поврза основачите од Македонија и регионот со меѓународни инвеститори, експерти и компании, […]",
+      "url": "https://smartportal.mk/novosti/nastani/skopje-povtorno-ja-obedini-globalnata-startap-i-ai-scena/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/95732574-b14d-44ac-8b1f-db63c57779ff-150x150.webp",
+      "date": "Wed, 07 Oct 2026 09:23:07 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Македонски програмер ја објави 8 way, бесплатна игра со зборови на Android и iOS",
+      "description": "Македонскиот програмер Дарко Петковски, основач на MelioAppStudio, ја објави „8 way – Најди го зборот“, игра со зборови за Android и iOS. Играта е бесплатна, а покрај на англиски, може да се игра и на македонски, српски, бугарски јазик и други јазици. Како во класичните игри за барање зборови, на табла со букви треба да се пронајдат скриени […]",
+      "url": "https://smartportal.mk/novosti/gejming/makedonski-programer-8-way/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/8-way-f-150x150.webp",
+      "date": "Wed, 07 Oct 2026 09:09:02 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -48,228 +93,183 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Amazon, Tesla и Decathlon меѓу глобалните компании на Ecommerce Conference 2026",
-      "description": "Како да се зголеми продажбата преку Amazon на европските пазари, како AI агентите го менуваат онлајн купувањето, кој ќе го „поседува“ откривањето производи во иднина и како да се изградат системи што ќе ги издржат најголемите продажни пикови како Black Friday? Ова се дел од темите што на 3 ноември ќе ги отворат домашни, регионални […]",
-      "url": "https://smartportal.mk/novosti/nastani/amazon-tesla-decathlon-megju-globalnite-kompanii-na-ecomm-conf-2026/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/novi-govornici-ecomm-conf-2026-150x150.webp",
-      "date": "Tue, 06 Oct 2026 08:35:55 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "OpenAI ќе додава невидлива ознака на текстовите од ChatGPT во ЕУ поради европските правила",
-      "description": "OpenAI вчера го објасни својот пристап кон означувањето на текстот создаден со вештачка интелигенција, со кој одговара на барањата на европскиот Закон за вештачка интелигенција. Во наредните недели ќе се почне со додавање на невидлива ознака, односно „воден жиг“ на текстот што го пишуваат ChatGPT и Codex, но само во Европската унија. Законот бара текстовите, сликите, звукот и […]",
-      "url": "https://smartportal.mk/novosti/ai/openai-oznaka-tekstovi-chatgpt-eu/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/09/Depositphotos_640750110_XL-f-1-150x150.webp",
-      "date": "Tue, 06 Oct 2026 08:00:11 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Џон Тернус многу повеќе се „интересира“ за дизајнот на производите за разлика од Тим Кук",
-      "description": "Џон Тернус веќе ги исполнува очекувањата и надежите на голем дел на Apple фанови, а конкретно со враќање на доста поголемо внимание во дизајнот на производите и софтверот. Ова е нешто по кое што беше познат Стив Џобс, па наводно Тернус може да се спореди со него кога е во прашање овој дел од неговата […]",
-      "url": "https://smartportal.mk/novosti/licnosti/ternus-se-angazira-kaj-timovite-za-dizajn/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/01/john-ternus-2-150x150.webp",
-      "date": "Mon, 05 Oct 2026 14:52:30 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Google го ограничува бесплатниот Gemini на Flash-Lite, а претплатниците на AI Plus го губат Pro",
-      "description": "Google ги менува правилата за тоа кои модели во апликацијата Gemini може да ги користат корисниците без претплата и оние со најевтиниот план AI Plus. Според ажурираната страница за помош, промените важат за личните сметки и почнуваат во октомври. Кај корисниците без претплата промените почнуваат да се воведуваат од 9 октомври, по што ќе имаат пристап […]",
-      "url": "https://smartportal.mk/novosti/ai/google-novi-ogranicuvanja-gemini/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/04/Gemini_for_MacOS_01_Hero_16x9.width-1200.format-webp-150x150.webp",
-      "date": "Mon, 05 Oct 2026 10:43:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Новата компанија од спојувањето на Paramount и Warner Bros. ќе се вика Skydance",
-      "description": "Извршниот директор на Paramount Skydance, Дејвид Елисон, објави дека компанијата што ќе настане со преземањето на Warner Bros. Discovery ќе се вика Skydance. Името го соопшти во својата прва објава на X, пред завршувањето на договорот. Според заедничкото соопштение на двете компании, спојувањето се очекува да заврши во вторник, 6 октомври, доколку се исполнат вообичаените услови. Договорот е вреден […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/paramount-warner-bros-spojuvanje-skydance/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/03/shutterstock_2720659229-150x150.webp",
-      "date": "Mon, 05 Oct 2026 10:00:51 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - Sport",
-      "title": "Великани се збогуваа со Меси – силни зборови од Роналдињо, Нејмар, Ди Марија, Модриќ… | TopSport",
+      "source": "Time.mk - All",
+      "title": "Пецо Везироски – шефот на Вишото јавно обвинителство Битола е приведениот обвинител | еМагазин",
       "description": "",
-      "url": "https://time.mk/c/7a39c72103/velikani-se-zboguvaa-so-mesi-silni-zborovi-od-ronaldinjo-nejmar-di-marija-modrik.html",
-      "image": "https://topsport.mk/wp-content/uploads/2026/10/14343974.jpg",
-      "date": "Wed, 07 Oct 2026 06:52:57 +0000"
+      "url": "https://time.mk/c/2247430b3b/peco-veziroski-sefot-na-visoto-javno-obvinitelstvo-bitola-e-privedeniot-obvinitel.html",
+      "image": "https://emagazin.mk/wp-content/uploads/2025/05/sud-300x200.jpg",
+      "date": "Wed, 07 Oct 2026 14:30:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Една година во СЕПА: над 5 милиони евра заштеди за граѓаните и компаниите | Макфакс",
+      "title": "Загадувачката индустрија влегува на мала врата – се брише забраната за реконструкција близу населени места | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/e3c1bea2a5/edna-godina-vo-sepa-nad-5-milioni-evra-zastedi-za-gragjanite-i-kompaniite.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2024/03/narodna-banka-5.jpg",
-      "date": "Wed, 07 Oct 2026 06:52:57 +0000"
+      "url": "https://time.mk/c/e2dd866ad8/zagaduvackata-industrija-vleguva-na-mala-vrata-se-brise-zabranata-za-rekonstrukcija-blizu-naseleni-mesta.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/lojane.jpg",
+      "date": "Wed, 07 Oct 2026 13:02:39 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ПО ПЕНТАГОН, КОРИСТЕЊЕТО НА ВЕШТАЧКАТА ИНТЕЛИГЕНЦИЈА НА АНТРОПИК ја прекинаа и Мајкрософт и Мета | Пари",
+      "title": "Храбриот концепт ќе го означи и 45. издание на Скопскиот џез-фестивал; Современ џез и експериментална музика од 15 до 18 октомври во Скопје | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/740929e51e/po-pentagon-koristenjeto-na-vestackata-inteligencija-na-antropik-ja-prekinaa-i-majkrosoft-i-meta.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/10/Pentagon.jpg",
-      "date": "Wed, 07 Oct 2026 06:46:37 +0000"
+      "url": "https://time.mk/c/1bc6088824/hrabriot-koncept-ke-go-oznaci-i-45-izdanie-na-skopskiot-dzez-festival-sovremen-dzez-i-eksperimentalna-muzika-od-15-do-18-oktomvri-vo-skopje.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/vtorare.jpg",
+      "date": "Wed, 07 Oct 2026 14:17:00 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Балканот пред временски пресврт: Циклон носи до 200 литри дожд, а потоа стигнува и заладување | Вечер Прес",
+      "title": "Анри Б. Каган и Кенсо Соаи добитници на Нобел за хемија: Открија како настанува хомохиралноста | Независен",
       "description": "",
-      "url": "https://time.mk/c/654c0ddcf6/balkanot-pred-vremenski-presvrt-ciklon-nosi-do-200-litri-dozd-a-potoa-stignuva-i-zaladuvanje.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/10/dozd-opsta-dzoto2.jpg",
-      "date": "Wed, 07 Oct 2026 06:57:00 +0000"
+      "url": "https://time.mk/c/93c6398489/anri-b-kagan-i-kenso-soai-dobitnici-na-nobel-za-hemija-otkrija-kako-nastanuva-homohiralnosta.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/838744499_2560150761089710_7991522077674391725_n.jpg",
+      "date": "Wed, 07 Oct 2026 11:56:57 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Наместо на европскиот се качивме на бугарскиот воз | Deutsche Welle",
+      "title": "ЕДИНСТВЕНОТО ШТИПСКО ШКОЛО ШТО ЗАБРАНИ МОБИЛКИ И НЕЗДРАВА ХРАНА ДОБИ СПОРТСКА САЛА | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/4ad2273e2d/namesto-na-evropskiot-se-kacivme-na-bugarskiot-voz.html",
-      "image": "https://static.dw.com/image/79517813_301.jpg",
-      "date": "Wed, 07 Oct 2026 05:54:46 +0000"
+      "url": "https://time.mk/c/9a7f3dd789/edinstvenoto-stipsko-skolo-sto-zabrani-mobilki-i-nezdrava-hrana-dobi-sportska-sala.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/10/ou-DIMITAR-VLAHOV-shtip.jpg",
+      "date": "Wed, 07 Oct 2026 13:24:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Си одам со нарушено здравје, но горд на себе“: Докторот Василевски го заврши шестдневниот протест со гладување пред Деканатот на Медицинскиот факултет | Скопје1",
+      "title": "Уставните измени остануваат во игра, постепената интеграција нуди нови можности | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/21df3d9dfd/si-odam-so-naruseno-zdravje-no-gord-na-sebe-doktorot-vasilevski-go-zavrsi-sestdnevniot-protest-so-gladuvanje-pred-dekanatot-na-medicinskiot-fakultet.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/85916/conversions/text-max.jpg",
-      "date": "Wed, 07 Oct 2026 06:26:35 +0000"
+      "url": "https://time.mk/c/bd4294df9d/ustavnite-izmeni-ostanuvaat-vo-igra-postepenata-integracija-nudi-novi-moznosti.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2021/05/evropska-unija-makedonija-skopje-300x199.jpg",
+      "date": "Wed, 07 Oct 2026 12:21:02 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Предупредувавме, сега се случува: Ново задолжување од 250 милиони евра за до крај на годината!“, велат од СДСМ | Макфакс",
+      "title": "ИНФЛАЦИЈАТА ВО СЕПТЕМВРИ 2,7%: Цените мируваа на месечно ниво, храната повторно поскапе | Пари",
       "description": "",
-      "url": "https://time.mk/c/01cf03a827/predupreduvavme-sega-se-slucuva-novo-zadolzuvanje-od-250-milioni-evra-za-do-kraj-na-godinata-velat-od-sdsm.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2019/12/pari-denari.jpg",
-      "date": "Wed, 07 Oct 2026 06:18:35 +0000"
+      "url": "https://time.mk/c/cec9460a95/inflacijata-vo-septemvri-2-7-cenite-miruvaa-na-mesecno-nivo-hranata-povtorno-poskape.html",
+      "image": "http://pari.com.mk/wp-content/uploads/2026/10/Micko-oktomvri-2.jpg",
+      "date": "Wed, 07 Oct 2026 11:50:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Европската централна банка повторно ги зголемува каматите: што значи тоа за денарот и кредитите? | Пари",
+      "title": "„ВИЗЕР“ ПРЕВЕЗУВА 63,8% ОД ПАТНИЦИТЕ НА СКОПСКИОТ АЕРОДРОМ, ВО ОХРИД ИМА УДЕЛ ОД 70% | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/925b601818/evropskata-centralna-banka-povtorno-gi-zgolemuva-kamatite-sto-znaci-toa-za-denarot-i-kreditite.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/10/Pari_Kolumna-Svrtinov-ECB-kamati_1.jpg",
-      "date": "Wed, 07 Oct 2026 06:30:44 +0000"
+      "url": "https://time.mk/c/28e393f174/vizer-prevezuva-63-8-od-patnicite-na-skopskiot-aerodrom-vo-ohrid-ima-udel-od-70.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/06/vizer-skopje-07.06.2026.jpg",
+      "date": "Wed, 07 Oct 2026 12:13:03 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Видео) Косово има нова претседателка | Макфакс",
+      "title": "Босна и Херцеговина, исто така, ја паузира употребата на бесеже-вакцината од бугарскиот производител | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/4784eaf660/video-kosovo-ima-nova-pretsedatelka.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/12033609.webp",
-      "date": "Wed, 07 Oct 2026 04:32:57 +0000"
+      "url": "https://time.mk/c/4b6785392e/bosna-i-hercegovina-isto-taka-ja-pauzira-upotrebata-na-beseze-vakcinata-od-bugarskiot-proizvoditel.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/bsg-vakcina-300x200.png",
+      "date": "Wed, 07 Oct 2026 13:21:04 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Брод потона во Црното море, кај брегот на Бугарија, по напад со дрон, се трага по членовите на екипажот | Мета",
+      "title": "Црното Море може да стане „мртво море“ | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/9f9bd47e19/brod-potona-vo-crnoto-more-kaj-bregot-na-bugarija-po-napad-so-dron-se-traga-po-clenovite-na-ekipazot.html",
-      "image": "https://meta.mk/wp-content/uploads/2023/06/aleksey-malinovski-12hsgekfihu-unsplash-scaled.jpg.webp",
-      "date": "Wed, 07 Oct 2026 06:08:56 +0000"
+      "url": "https://time.mk/c/7e9ac380fb/crnoto-more-moze-da-stane-mrtvo-more.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/vezba-morski-shtit-vo-crnoto-more-300x173.jpg",
+      "date": "Wed, 07 Oct 2026 10:16:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Експлозии во текот на ноќта го потресоа Киев, загинаа најмалку две лица | Фокус",
+      "title": "ВТОР СОМНИТЕЛЕН СЛУЧАЈ ГИ ЗАПАЛИ АЛАРМИТЕ ЗА ЧУМА ВО РУСИЈА: СЗО бара одговори, Трамп најави разговор со Путин | Пари",
       "description": "",
-      "url": "https://time.mk/c/11a8abf5de/eksplozii-vo-tekot-na-nokta-go-potresoa-kiev-zaginaa-najmalku-dve-lica.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/10/430138_aptopix-russia-ukraine-war_f.webp",
-      "date": "Wed, 07 Oct 2026 06:25:09 +0000"
+      "url": "https://time.mk/c/f3a2aa5818/vtor-somnitelen-slucaj-gi-zapali-alarmite-za-cuma-vo-rusija-szo-bara-odgovori-tramp-najavi-razgovor-so-putin.html",
+      "image": "http://pari.com.mk/wp-content/uploads/2026/10/Tramp-i-Putin-na-telefon.png",
+      "date": "Wed, 07 Oct 2026 13:18:44 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ЕУ ЗАСЕДАВА ЗА СОМНЕЖОТ ЗА ЧУМА ВО СИБИР Русија не го потврдува случајот, а СЗО проценува дека ризикот за Европа е низок | +инфо",
+      "title": "(Фото) Зеленски: Руската армија уништи петкатница како „роденденски подарок“ за Путин | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/86f3034c61/eu-zasedava-za-somnezot-za-cuma-vo-sibir-rusija-ne-go-potvrduva-slucajot-a-szo-procenuva-deka-rizikot-za-evropa-e-nizok.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2022/09/national-cancer-institute-Vb0GY3PWSSM-unsplash.jpg",
-      "date": "Wed, 07 Oct 2026 06:52:57 +0000"
+      "url": "https://time.mk/c/685e36ef66/foto-zelenski-ruskata-armija-unisti-petkatnica-kako-rodendenski-podarok-za-putin.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/14340699.webp",
+      "date": "Wed, 07 Oct 2026 09:30:53 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Панел-дискусија: Најсовремената медицина, ВИ и роботиката можат значително да го подобрат животот на лицата со церебрална парализа | Независен",
+      "title": "Двесте и педесет деца добиваат место во градинка, Шуто Оризари без листа на чекање | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/53de4b92da/panel-diskusija-najsovremenata-medicina-vi-i-robotikata-mozat-znacitelno-da-go-podobrat-zivotot-na-licata-so-cerebralna-paraliza.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/cerebralna-paraliza.png",
-      "date": "Wed, 07 Oct 2026 06:12:59 +0000"
+      "url": "https://time.mk/c/e6942c63f1/dveste-i-pedeset-deca-dobivaat-mesto-vo-gradinka-suto-orizari-bez-lista-na-cekanje.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/gradinka-suto-orizari-1-ovaa-glavna.jpg",
+      "date": "Wed, 07 Oct 2026 13:10:53 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Во Велес обука за самовработување и развој на претприемништвото | Бизнис Вести",
+      "title": "Стаменкоска -Трајкоска ги слушна проблемите на Драчевчани | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/e5ca6b6eea/vo-veles-obuka-za-samovrabotuvanje-i-razvoj-na-pretpriemnistvoto.html",
-      "image": "https://biznisvesti.mk/wp-content/uploads/2025/11/konferencija-300x200.jpg",
-      "date": "Wed, 07 Oct 2026 04:32:57 +0000"
+      "url": "https://time.mk/c/ee9a64c019/stamenkoska-trajkoska-gi-slusna-problemite-na-dracevcani.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/kisela-voda-1.jpg",
+      "date": "Wed, 07 Oct 2026 13:50:39 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Ниту студот не ги запре пожарите: ЦУК со пресек за состојбата | Press24",
+      "title": "Правеле ајвар и предизвикале пожар во Горно Соње, интервенирала полицијата | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/17e36ac7a6/nitu-studot-ne-gi-zapre-pozarite-cuk-so-presek-za-sostojbata.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/75468.jpg",
-      "date": "Wed, 07 Oct 2026 06:10:36 +0000"
+      "url": "https://time.mk/c/f5c0ce06bc/pravele-ajvar-i-predizvikale-pozar-vo-gorno-sonje-intervenirala-policijata.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/depositphotos_682148964_s.webp",
+      "date": "Wed, 07 Oct 2026 11:34:36 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Малолетник преживеал хорор на Бит Пазар | Press24",
+      "title": "Избеган затвореник нападнал 25-годишна жена во Шуто Оризари и ја одвел со себе | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/b597d82c67/maloletnik-preziveal-horor-na-bit-pazar.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/75484.jpg",
-      "date": "Wed, 07 Oct 2026 06:44:56 +0000"
+      "url": "https://time.mk/c/ed6e76d7c9/izbegan-zatvorenik-napadnal-25-godisna-zena-vo-suto-orizari-i-ja-odvel-so-sebe.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2025/12/policija2-1024x503.jpg",
+      "date": "Wed, 07 Oct 2026 11:34:37 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "МАКЕДОНИЈА ЌЕ ПРОДОЛЖИ ДА СЕ ПРАЗНИ, РЕКОА ЕКСПЕРТИТЕ НА ПРЕЗЕНТАЦИЈАТА НА НАЦРТ-ПРОСТОРНИОТ ПЛАН ДО 2040 ГОДИНА | Сакам да кажам",
+      "title": "ОД ЧКЕМБЕ ДО ФИЛМ И ОПЕРА: БИТОЛА ГРАД НА ФЕСТИВАЛИ – И ГРАД НА ЈАВНИ ПАРИ | Тера",
       "description": "",
-      "url": "https://time.mk/c/6e5b4e1e3b/makedonija-ke-prodolzi-da-se-prazni-rekoa-ekspertite-na-prezentacijata-na-nacrt-prostorniot-plan-do-2040-godina.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/10/prezentatsija-na-natsrt-planot.jpg",
-      "date": "Wed, 07 Oct 2026 06:58:52 +0000"
+      "url": "https://time.mk/c/e813841731/od-ckembe-do-film-i-opera-bitola-grad-na-festivali-i-grad-na-javni-pari.html",
+      "image": "https://tera.mk/wp-content/uploads/2026/10/833324563_122128933202807782_2440265528238697810_n-150x150.png",
+      "date": "Wed, 07 Oct 2026 13:02:39 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Ќе се гради пат со пешачка патека до плажата во селото Николиќ | Вечер Прес",
+      "title": "Пецаков не кажа зошто се гради парапетче на Охридско Езеро, а и базенот ќе биде готов дури по година и пол | Независен",
       "description": "",
-      "url": "https://time.mk/c/17f6553108/ke-se-gradi-pat-so-pesacka-pateka-do-plazata-vo-seloto-nikolik.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/10/3-dojran-1.jpg",
-      "date": "Tue, 06 Oct 2026 13:21:12 +0000"
+      "url": "https://time.mk/c/9bfff908a5/pecakov-ne-kaza-zosto-se-gradi-parapetce-na-ohridsko-ezero-a-i-bazenot-ke-bide-gotov-duri-po-godina-i-pol.html",
+      "image": "",
+      "date": "Wed, 07 Oct 2026 10:18:40 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "На 102 години почина русокосата на Хичкок, легендарната Ева Мари Сејнт | Слободен Печат",
+      "title": "Нина Елзесер и Марјан Наумов од Драмски театар наградени на Фестивалот на комедијата во Куманово | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/5d6c44a206/na-102-godini-pocina-rusokosata-na-hickok-legendarnata-eva-mari-sejnt.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/Eva-Mari-Sejnt-so-Keri-Grant-vo-Sever-Severozapad-Foto-HA-Hollywood-Archive-Profimedia-300x235.jpg",
-      "date": "Wed, 07 Oct 2026 06:54:37 +0000"
+      "url": "https://time.mk/c/e9d65c0afa/nina-elzeser-i-marjan-naumov-od-dramski-teatar-nagradeni-na-festivalot-na-komedijata-vo-kumanovo.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/img_3530.webp",
+      "date": "Tue, 06 Oct 2026 10:22:57 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Здраво Млади“ на 10. октомври во МКЦ, еве кој настапува | еМагазин",
+      "title": "ОСНОВЦИ ОД КИСЕЛА ВОДА УЧЕА ДА СНИМААТ ФИЛМОВИ СО ТЕЛЕФОНИ ВО БОРБАТА ПРОТИВ ВРСНИЧКОТО НАСИЛСТВО | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/ed6351665f/zdravo-mladi-na-10-oktomvri-vo-mkc-eve-koj-nastapuva.html",
-      "image": "https://emagazin.mk/wp-content/uploads/2026/10/825267429_1731727652289878_936610893194614648_n-212x300.jpg",
-      "date": "Wed, 07 Oct 2026 06:38:38 +0000"
+      "url": "https://time.mk/c/b816091b59/osnovci-od-kisela-voda-ucea-da-snimaat-filmovi-so-telefoni-vo-borbata-protiv-vrsnickoto-nasilstvo.html",
+      "image": "https://smart.sdk.mk/wp-content/uploads/2026/10/marija-dzidzeva-958x513.jpg",
+      "date": "Wed, 07 Oct 2026 07:21:00 +0000"
     }
   ],
   "de": [
@@ -458,20 +458,65 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "Ring Designed a Keyless Smart Lock That Can Still Open When the Battery Dies",
+      "description": "I can't believe no one has thought of this before.",
+      "url": "https://lifehacker.com/home/ring-designed-a-keyless-power-dial-smart-lock?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M4B95M20XDDHB2NER62R25SD/hero-image.png",
+      "date": "Wed, 07 Oct 2026 14:00:06 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Gemini-Powered Google Pixel Watch 5 Is $85 Off for October Prime Day",
+      "description": "Google’s latest LTE smartwatch pairs proactive Gemini features with more than two days of tested battery life.",
+      "url": "https://lifehacker.com/tech/google-pixel-watch-5-sale-october-prime-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M4AZC4YP4XR320N8AP5ZA7G1/hero-image.png",
+      "date": "Wed, 07 Oct 2026 12:50:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "The Best Samsung Tech on Sale Right Now for October Prime Day",
+      "description": "These Galaxy phones and watches, OLED TVs, Odyssey gaming monitors, and Q-Series soundbars are up to $900 off.",
+      "url": "https://lifehacker.com/tech/best-samsung-tech-deals-october-prime-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M45H1FRGZ0NANEMQ9X754ZX4/hero-image.png",
+      "date": "Wed, 07 Oct 2026 12:40:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This 25W Anker Wireless Charger Is Nearly $100 Off for October Prime Day",
+      "description": "This 3-in-1 MagSafe charger powers your iPhone, Apple Watch, and AirPods, now at a record-low price.",
+      "url": "https://lifehacker.com/tech/anker-prime-3-in-1-magsafe-charger-sale-october-prime-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01KQER2VPSG2723DJ6HBCBG0RE/hero-image.png",
+      "date": "Wed, 07 Oct 2026 12:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Samsung’s Rotating-Bezel Galaxy Watch 8 Classic Is $160 Off for October Prime Day",
+      "description": "This is a premium stainless-steel smartwatch with cellular connectivity, and is now at its lowest price yet.",
+      "url": "https://lifehacker.com/tech/samsung-galaxy-watch-8-classic-sale-october-prime-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M4AM8QT4KDEXD1CTBJ47AD3H/hero-image.png",
+      "date": "Wed, 07 Oct 2026 12:20:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "These Bose QuietComfort Ultra Headphones Are $80 Off for October Prime Day",
-      "description": "It’s a limited-edition color, now at its lowest price ever.",
-      "url": "https://lifehacker.com/tech/bose-quietcomfort-ultra-headphones-second-gen-sale-prime-day-2026?utm_medium=RSS",
+      "description": "These headphones are in a limited-edition color, and now at their lowest price ever.",
+      "url": "https://lifehacker.com/tech/bose-quietcomfort-ultra-headphones-second-gen-sale-october-prime-day-2026?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01KQ9W6234DFRE3K4G1DJDCV87/hero-image.png",
-      "date": "Wed, 07 Oct 2026 06:04:24 +0000"
+      "date": "Wed, 07 Oct 2026 12:15:00 +0000"
     },
     {
       "category": "eng",
       "source": "Lifehacker",
       "title": "This 12-Piece SimpliSafe Home Security Kit Is Nearly $180 Off for October Prime Day",
-      "description": "For $160, you get five entry sensors, two motion sensors, an indoor camera, and the hardware to cover several rooms at once.",
+      "description": "For $160, this kit gives you five entry sensors, two motion sensors, an indoor camera, and the hardware to cover several rooms at once.",
       "url": "https://lifehacker.com/tech/12-piece-simplisafe-home-security-kit-sale-october-prime-day-2026?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01M4A9MCGE6CGDASHRWF4MNRP2/hero-image.png",
-      "date": "Wed, 07 Oct 2026 04:32:21 +0000"
+      "date": "Wed, 07 Oct 2026 12:00:00 +0000"
     },
     {
       "category": "eng",
@@ -592,66 +637,75 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "The Kindle Kids Is Only $123 for October Prime Day",
-      "description": "It comes with a case and six months of Kids+.",
-      "url": "https://lifehacker.com/tech/kindle-kids-deal-october-prime-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M3T4AJRZV893QEMK51MP25WN/hero-image.jpg",
-      "date": "Tue, 06 Oct 2026 21:50:58 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "This Eero Max Wifi Mesh System Is $350 Off for October Prime Day",
-      "description": "A two-pack of the Amazon Eero Max 7 is down to $799.99 for Amazon's October Prime Day.",
-      "url": "https://lifehacker.com/tech/eero-max-7-mesh-system-sale-october-prime-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M3V2AP3C4RG528XCS30Q4FKY/hero-image.png",
-      "date": "Tue, 06 Oct 2026 21:36:42 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "This DeWalt Drill and Driver Combo Is on Sale for $138 During October Prime Day",
-      "description": "Drill and drive all day with this cheap-as-chips Dewalt combo.",
-      "url": "https://lifehacker.com/home/dewalt-drill-and-driver-combo-deal-october-prime-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M49FCHBVZKZEE380VFQ24MBY/hero-image.png",
-      "date": "Tue, 06 Oct 2026 21:15:22 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "Peloton Equipment Is up to $1,000 Off During the October Prime Day Sale",
-      "description": "The Peloton Tread is at a particularly great discount.",
-      "url": "https://lifehacker.com/health/peloton-bikes-tread-deals-october-prime-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M49EPV0CJNZ8BKHAGC93KAEQ/hero-image.jpg",
-      "date": "Tue, 06 Oct 2026 20:45:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "The Beats Powerbeats Pro 2 Are $70 Off for October Prime Day",
-      "description": "These popular workout earbuds have hit a record low price for October Prime Day.",
-      "url": "https://lifehacker.com/tech/the-beats-powerbeats-pro-2-are-70-off-for-october-prime-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M49D19ZD3H42MET23BZRXY38/hero-image.jpg",
-      "date": "Tue, 06 Oct 2026 20:30:00 +0000"
+      "source": "PCWorld",
+      "title": "Alienware’s gorgeous 280Hz ultrawide OLED is 21% off for Prime Day",
+      "description": "$170 off Alienware 34-inch OLED gaming monitor $630 SEE DEAL There’s a sweet spot I look for when I want to have some fun, a little bigger than standard without being unmanageable. Just enough to enhance the experience, not so big that you can’t fit it into the space available. I am, of course, talking about PC gaming monitors. And absolutely nothing else. For Prime Day, Alienware’s 34-inch OLED gaming monitor is just $630 . Nice. The AW3426DW is an upgrade to Alienware’s already popular 34-inch",
+      "url": "https://www.pcworld.com/article/3254941/alienwares-gorgeous-280hz-ultrawide-oled-is-21-off-for-prime-day.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3254941-0-70669500-1791383933-Dell-ALienware-AW3426DW.jpg?quality=50&strip=all",
+      "date": "Wed, 07 Oct 2026 14:38:42 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Best mini PC deals: Top Intel and AMD picks for performance, gaming, and more",
-      "description": "At a glance Top AMD mini PC deal picks Reatan A8 —$499 (22% off on Amazon) Kamrui Pinova P2 —$323 (15% off on Amazon) Glorlin AI Mini PC —$510 (27% off on Amazon) Top Intel mini PC deal picks Kamrui P2 —$519 (44% off on Amazon) Kamrui Hyper H2 Mini —$456 (32% off on Amazon) GMKtec Mini AI PC —$550 (29% off on Amazon) Whether you’re looking for a productivity mini PC, something for gaming, or just a budget-friendly machine with a small footprint, we’ve got you covered. The team at PCWorld continu",
-      "url": "https://www.pcworld.com/article/2999556/best-mini-pc-deals-top-picks-for-performance-gaming-and-more.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/2999556-0-81108800-1791329680-image-2.png",
-      "date": "Tue, 06 Oct 2026 23:34:34 +0000"
+      "title": "Samsung’s ultra-light Galaxy Book6 is $250 off for Prime Day",
+      "description": "Looking for a lightweight Windows laptop that doesn’t cut too many corners? Then take a look at this Samsung Galaxy Book6 deal on Amazon. It’s a 14-inch laptop that weighs just 2.98 pounds. It’s also packing a current generation Intel Core Ultra 5 325 processor. And right now, it’s $999.99 for Prime Day, down from $1,249.99. The thing that really caught my eye, though, was the amount of memory and storage. 16GB of RAM and 512GB of storage are exactly what I’d want to see in a laptop at this pric",
+      "url": "https://www.pcworld.com/article/3254908/samsungs-ultra-light-galaxy-book6-is-250-off-for-prime-day.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3254908-0-80706800-1791383978-Untitled-design-34-5.jpg?quality=50&strip=all",
+      "date": "Wed, 07 Oct 2026 14:34:40 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "An RTX 5060 gaming PC for $1,100 in this economy? Prime Day just delivered",
-      "description": "The CyberPowerPC Gamer Xtreme with an RTX 5060 is 15 percent off for Prime subscribers this Prime Day, dropping it to its best price in well over a year. (If you aren’t already a Prime subscriber, here’s how to get Amazon Prime for free .) Gaming PC prices are rough right now, which makes practically any prebuilt in the neighborhood of $1,000 worth a second look. Amazon has the CyberPowerPC Gamer Xtreme for $1,100 for Prime Day (down from $1,300). That’s a $200 discount and the lowest price we’v",
-      "url": "https://www.pcworld.com/article/3254041/an-rtx-5060-gaming-pc-for-1100-in-this-economy-prime-day-just-delivered.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3254041-0-45124600-1791329662-61uzvGuzPgL._AC_SL1200__a04212.jpg?quality=50&strip=all",
-      "date": "Tue, 06 Oct 2026 23:34:09 +0000"
+      "title": "Is your laptop’s LAN too slow? Here’s how to get the most out of it",
+      "description": "Nowadays, most modern laptops don’t have an Ethernet port. It’s a fairly large port, and with laptops getting thinner and thinner, there simply isn’t enough room for one. However, if you still wish to enjoy the benefits of a fast and stable LAN connection, you can always use an adapter or a docking station. Even if you can set up a LAN connection with an adapter, you should check whether you’re actually achieving the optimal data rate. For a gigabit adapter with 1000 Mbit/s, this should be aroun",
+      "url": "https://www.pcworld.com/article/3230642/is-your-laptops-lan-too-slow-heres-how-to-get-the-most-out-of-it.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3230642-0-89064300-1791381624-microsoft_2.jpg?quality=50&strip=all",
+      "date": "Wed, 07 Oct 2026 14:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Building a PC in 2026 is all about choosing your compromises",
+      "description": "Anyone who wants or needs a new desktop computer has long had a choice to make: Buy a ready-built computer or build one yourself from individual components. The choice isn’t always that simple, and there are several factors that can make either option appealing. The price of a pre-built computer always includes, in one way or another, the cost of assembling it. If you build it yourself, you can spend all your money on getting the best possible components and pay for the assembly with your own ti",
+      "url": "https://www.pcworld.com/article/3242354/building-your-own-pc-vs-buying-one-in-2026-how-to-actually-decide.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3242354-0-36231500-1791378054-puff_490a53.jpg?quality=50&strip=all",
+      "date": "Wed, 07 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Best Prime Day laptop deals: The best bargains we’ve found so far",
+      "description": "I’ve been spending the past few months digging into laptop pricing , and one thing is incredibly obvious here. Laptops are getting wildly expensive thanks in part to the rising cost of RAM and storage. But with Prime Day finally here (October 6th and 7th), some genuinely compelling discounts are beginning to materialize. That’s why I’ve pulled together the best laptop deals worth watching right now across the biggest categories: everyday budget laptops, gaming laptops, Chromebooks, and so on. I’",
+      "url": "https://www.pcworld.com/article/2923815/best-laptop-prime-day-deals.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/2923815-0-04174000-1791376475-laptops-PCW-Prime-Day-25.jpg?quality=50&strip=all",
+      "date": "Wed, 07 Oct 2026 12:32:20 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
+      "description": "If you’re looking for an affordable Windows machine under $500 , a blazing fast gaming beast for those intense matches, or a portable 2-in-1 for school or work, you’ve got plenty of great choices right now. Amazon Prime Day is here , and the deals are popping up all over the place. We’re tracking the best early Prime Day laptop deals , from budget notebooks and Chromebooks to gaming machines. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’",
+      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/550968-0-10149000-1791374412-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
+      "date": "Wed, 07 Oct 2026 11:59:56 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Seagate One Touch Portable review: The fastest 2.5-inch USB hard drive I’ve tested",
+      "description": "At a glance Expert's Rating Pros Low cost per TB compared to SSDs Type-C connectivity Good looking and very portable Cons Slow compared to SSDs and 3.5-inch HDDs Our Verdict If you’re looking for a more affordable alternative to USB SSDs, the One Touch Portable provides lots of capacity for a lot less money in a still relatively portable profile. It’s also the fastest of its ilk that I’ve tested. Price When Reviewed This value will show the geolocated pricing text for product undefined Best Pric",
+      "url": "https://www.pcworld.com/article/3244597/seagate-one-touch-portable-review.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3244597-0-27365200-1791371717-Seagate-One-Touch-Portable-hero.jpg?quality=50&strip=all",
+      "date": "Wed, 07 Oct 2026 11:15:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Relive the glory days of Windows 98 right in your browser",
+      "description": "If the sight of a boxy, dull-beige desktop and a floppy disk drive gives you a weird little rush of nostalgia, then Desktop98 is about to blow your mind. It’s a free Windows 98 simulator that runs in your browser. Not only does it give you the desktop nostalgia, it goes well past that, making you feel like you actually sat down at a computer in 1998. I can just hear the gentle buzzing of the CRT monitor in the background and smell the molten hot Pizza Rolls. With Desktop98, you can fire up AOL a",
+      "url": "https://www.pcworld.com/article/3250774/relive-the-glory-days-of-windows-98-right-in-your-browser.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3250774-0-49063100-1791369049-Desktop98.png",
+      "date": "Wed, 07 Oct 2026 10:30:00 +0000"
     },
     {
       "category": "eng",
@@ -659,8 +713,8 @@
       "title": "Best Prime Day deals on mini PCs: Save big on tiny computers",
       "description": "Amazon’s October Prime Day is one of the best times of the year to score a mini PC deal. These compact machines have exploded in popularity thanks to their tiny footprints, surprisingly strong performance, and wallet-friendly prices. Whether you need a capable productivity box, a living-room PC, or even a compact gaming rig, Prime Day is packed with discounts worth considering. The challenge is separating the genuinely great bargains from the mediocre markdowns. The sales event has begun and wil",
       "url": "https://www.pcworld.com/article/2828494/best-prime-day-mini-pc-deals.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/2828494-0-60761400-1791329372-mini-PCs-PCW-Prime-Day-25.jpg?quality=50&strip=all",
-      "date": "Tue, 06 Oct 2026 22:25:10 +0000"
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/2828494-0-73632700-1791365420-mini-PCs-PCW-Prime-Day-25.jpg?quality=50&strip=all",
+      "date": "Wed, 07 Oct 2026 09:30:00 +0000"
     },
     {
       "category": "eng",
@@ -668,62 +722,8 @@
       "title": "Best Prime Day monitor deals: Save big on OLED, gaming, and office displays",
       "description": "One of the easiest ways to enhance your PC experience is to get a better monitor. It doesn’t require any upgrades for your desktop or laptop (which is good, since they’re all insanely expensive right now), and it shines up the primary way you interact with almost everything: the visuals. Even better, the prices of luxurious models with high resolutions, frame rates, and features like OLED panels have consistently fallen over the year. Now it’s time to take action. Amazon’s latest Prime Day deal ",
       "url": "https://www.pcworld.com/article/2833659/best-monitor-deals-amazon-prime-day.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/2833659-0-98914900-1791315836-displays-PCW-Prime-Day-25.jpg?quality=50&strip=all",
-      "date": "Tue, 06 Oct 2026 19:43:47 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Best October Prime Day SSD deals: Save on storage before prices climb higher",
-      "description": "PC upgrades cost more than they used to. At least, if you’re looking to get more storage space. AI data center buildouts have obliterated affordable prices for SSDs and hard drives. Even SD cards and flash drives haven’t been immune! If you’d like to reduce the sting of sky-high costs, Amazon’s October Prime Day offers a temporary reprieve. The main event kicked off on Tuesday, October 6 at midnight Pacific time, and has inspired rivals like Newegg to release its own deals in response. Given how",
-      "url": "https://www.pcworld.com/article/2834437/best-prime-day-ssd-storage-deals.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/2834437-0-52368600-1791312905-hds-PCW-Prime-Day-25.jpg?quality=50&strip=all",
-      "date": "Tue, 06 Oct 2026 18:52:56 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "One of my favorite PC-building tools is down to $28 for Prime Day",
-      "description": "Look, a good electronic screwdriver set is useful in any household. But if your household is the kind that likes to roll up its collective sleeves and dive deep into the bones of DIY desktop computers, a good electronic screwdriver set is downright necessary . Good news! You can grab a beefy 25-piece electric screwdriver set for just $28.50 at Amazon during Prime Big Deal Days — damned near half off its usual $50 price tag. I’ll take it! No, seriously — I just bought one before bothering to writ",
-      "url": "https://www.pcworld.com/article/3253929/one-of-my-favorite-pc-building-tools-is-down-to-28-for-prime-day.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3253929-0-89272000-1791312525-Precision-Electric-Screwdriver-Kit-Layout.png",
-      "date": "Tue, 06 Oct 2026 18:48:37 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "I use my AirPods every day. Now they’re $70 off for Prime Day",
-      "description": "I use my AirPods every single day. They come with me when I’m cooking dinner, writing, and walking the dog. Honestly, next to my Kindle , they’re probably the gadget I use most. And that makes the Apple AirPods Pro 3 an incredibly tempting buy during Prime Day. They’re currently $179 at Amazon , a massive $70 discount off the usual $250 price. They have active noise cancellation, with Apple saying they remove up to twice as much unwanted noise as the previous model. They feature better three-dim",
-      "url": "https://www.pcworld.com/article/3253889/i-use-my-airpods-every-now-now-theyre-70-off.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3253889-0-36996100-1791311802-Untitled-design-34-4.jpg?quality=50&strip=all",
-      "date": "Tue, 06 Oct 2026 18:36:10 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Samsung’s ferocious 9100 Pro SSD is 39% off for Prime Day — a rare deal in 2026",
-      "description": "It’s been a brutally bad year for anyone who needs more storage or RAM, but Amazon’s Prime Day is ready to rescue you from misery. Today and tomorrow, you can grab the fantastic 1TB Samsung 9100 Pro SSD for $207 – assuming you’re a Prime subscriber of course. (Here’s how to get Amazon Prime for free if needed.) I won’t try and oversell that by saying it’s “only” $207 when storage prices have skyrocketed over the past year (thanks, AI). But in this current hellscape, you could do a lot worse. Tha",
-      "url": "https://www.pcworld.com/article/3253892/samsungs-ferocious-9100-pro-ssd-is-39-off-for-prime-day-a-rare-deal-in-2026.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3253892-0-55375700-1791310410-Samsung-9100-PRO-NVMe-M2-SSD.jpeg?quality=50&strip=all",
-      "date": "Tue, 06 Oct 2026 18:13:22 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "These Prime Day deals will reinvigorate your home office and your productivity",
-      "description": "Amazon’s October Prime Day (hopefully) kicks off the holiday sales season, and it’s an ideal opportunity for you to update your home office. From new displays to an update to the humble mouse, these are some of the deals that we’re keeping an eye as the deal days progress. Keep in mind that Amazon’s October Prime Day deals last just today and tomorrow, October 6 through October 7. However, rival Walmart is running its own sales all week, so that may keep deals in place longer than Amazon planned",
-      "url": "https://www.pcworld.com/article/3253790/update-your-home-office-with-these-prime-day-productivity-deals.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3253790-0-85717000-1791308358-daniel-enders-theiss-9meZsq21IwE-unsplash.jpg?quality=50&strip=all",
-      "date": "Tue, 06 Oct 2026 17:38:56 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Anker’s 60W USB-C cable is just $4 each for October Prime Day",
-      "description": "LOWEST PRICE EVER Anker 60W USB-C Cable (2-pack) View Deal It’s time to upgrade your USB-C cables, especially if you got them over five years ago and they came bundled with a device. Amazon is currently selling a 2-pack of 60W Anker cables for $7.99 , which amounts to just $4 a piece. That’s the lowest price we’ve seen on these cables, and a great deal for one of the better value cables on the market. These deliver up to 60W of charging, enough to fast-charge most phones, and work fine with olde",
-      "url": "https://www.pcworld.com/article/3253754/anker-60w-usb-c-cable-is-just-4-each-for-october-prime-day.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3253754-0-47653400-1791305574-Anker-60W-USB-C-charging-cables.jpg?quality=50&strip=all",
-      "date": "Tue, 06 Oct 2026 16:51:48 +0000"
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/2833659-0-69264700-1791363661-displays-PCW-Prime-Day-25.jpg?quality=50&strip=all",
+      "date": "Wed, 07 Oct 2026 09:00:00 +0000"
     }
   ],
   "starwars": [
@@ -823,7 +823,7 @@
       "title": "Galactic Racer: Noch einmal etwas Promo sowie ein Blick aufs Presse-Echo",
       "description": "Top-Wertungen für den galaktischen Rennsimulator, mit einem Rekord, den seit über 20 Jahren keine SW-Game überboten hat!",
       "url": "https://starwars-union.de/galactic-racer-noch-einmal-etwas-promo-sowie-ein-blick-aufs-presse-echo/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/10/Galactic-Racer-Podrenner-SoMe.jpg",
+      "image": "",
       "date": "Sun, 04 Oct 2026 09:29:59 +0000"
     },
     {
@@ -897,6 +897,15 @@
       "url": "https://starwars-union.de/dave-filoni-mortis-goetter-werden-ein-thema-in-staffel-2-von-star-wars-ahsoka/",
       "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2025/03/20230804-ahsoka-tv-spot-some.jpg",
       "date": "Tue, 22 Sep 2026 10:02:52 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Blast Points Podcast #500: Living in These Star Wars with Dan Whitley of the Rebel Force Band",
+      "description": "Join Jason and Gabe for episode 500 of Blast Points Podcast The post Blast Points Podcast #500: Living in These Star Wars with Dan Whitley of the Rebel Force Band appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/blast-points-podcast-500-living-in-these-star-wars-with-dan-whitley-of-the-rebel-force-band/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2025/01/Blast-Points-Jan25-300x201.jpg",
+      "date": "Wed, 07 Oct 2026 04:00:08 +0000"
     },
     {
       "category": "starwars",
@@ -987,15 +996,6 @@
       "url": "https://www.jedinews.com/podcasts/articles/skytalkers-the-state-of-star-wars-new-trilogy-news-the-reylo-renaissance/",
       "image": "https://www.jedinews.com/wp-content/uploads/2018/06/Skytalkers-300x201.jpg",
       "date": "Mon, 05 Oct 2026 04:25:01 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "This Weeks Publications – 5th October 2026",
-      "description": "Welcome to week 40 of 2026 and our list detailing what new publications to expect from a galaxy far, far away. The post This Weeks Publications – 5th October 2026 appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/literature/articles/this-weeks-publications-5th-october-2026/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/Star-Pilots-FI-300x201.jpeg",
-      "date": "Mon, 05 Oct 2026 04:01:18 +0000"
     }
   ],
   "youtube": [
