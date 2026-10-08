@@ -1,6 +1,60 @@
 {
-  "updated": "2026-10-08T06:30:40.057803+00:00",
+  "updated": "2026-10-08T14:26:08.120462+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Mistral го претстави Large 4, нивниот најголем јазичен модел досега кој засега е достапен како „преглед“",
+      "description": "Француската компанија Mistral го претстави Mistral Large 4, јазичен модел со вештачка интелигенција кој според нив е нивниот најголем и најспособен досега. Станува збор за мултимодален модел со 1 трилион параметри, од кои 52 милијарди се активни при секое барање. Засега моделот е достапен како јавен „преглед“ преку „API“ во Mistral Studio, по цена од 1,36 долари за […]",
+      "url": "https://smartportal.mk/novosti/ai/mistral-go-pretstavi-large-4/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/cover-logo-lockup-gradient_ZBoC9y.webp",
+      "date": "Thu, 08 Oct 2026 13:49:22 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Microsoft почна да тестира нова верзија од Windows Search функцијата во Windows 11, која е побрза и извршува команди",
+      "description": "Microsoft вчера го претстави новото пребарување во Windows 11, кое засега постепено стигнува до Windows Insiders во Experimental каналот. Тоа е продолжение на средувањето на Windows Search што компанијата го започна во јули. Новото функција е изградена на WinUI 3, а според Microsoft, раните тестови покажуваат значително подобри перформанси и помала потрошувачка на меморија, иако бројки не […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/microsoft-nova-verzija-windows-search-test/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/New_Windows_Search-150x150.webp",
+      "date": "Thu, 08 Oct 2026 12:31:05 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Телеком одбележува 30 години мобилна технологија во Македонија – од првата мобилна мрежа до 5G+",
+      "description": "Македонски Телеком одбележува 30 години од првата мобилна мрежа во Македонија – три децении во кои мобилните комуникации целосно го променија начинот на кој комуницираме, работиме и живееме. Во изминатиот период Телеком, преку 2G, 3G, 4G и 5G, ги воведе сите нови генерации мобилна технологија на македонскиот пазар. Од првите мобилни разговори, преку мобилен интернет […]",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/telekom-30-godini-mobilna-tehnologija-makedonija/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/telekom-30-god-mob-mreza-5-150x150.jpg",
+      "date": "Thu, 08 Oct 2026 11:53:04 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "GPT-6 стигнува во ChatGPT и за бесплатните корисници, а одговорите добиваат графикони, мапи и алатки",
+      "description": "OpenAI почна да го воведува GPT-6 во разговорите на ChatGPT, околу еден месец откако првите GPT-6 модели ги понуди за платените корисници. Според компанијата, новата верзија е наменета за повеќе од 1,2 милијарди луѓе што секоја недела го користат ChatGPT. Главната новина е „Intelligent UI“. Според OpenAI, моделот е трениран сам да одлучи кога одговорот ќе […]",
+      "url": "https://smartportal.mk/novosti/ai/gpt-6-stignuva-vo-chatgpt/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/06/Depositphotos_692579234_XL-150x150.webp",
+      "date": "Thu, 08 Oct 2026 09:55:27 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Surface Laptop Ultra веќе може да се нарача, а цената почнува од 2.899 евра",
+      "description": "Microsoft на вчерашниот Windows и Surface настан ги отвори нарачките за Surface Laptop Ultra, лаптопот со Nvidia RTX Spark чип што компанијата го најави уште во јуни. Тогаш немаше ниту цена ниту точен датум, а сега е познато дека испораките почнуваат на 16 октомври. Цената во САД почнува од 2.599,99 долари, а на германската страница на Microsoft цената почнува […]",
+      "url": "https://smartportal.mk/novosti/kompjuteri/surface-laptop-ultra-veke-moze-da-se-naraca/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Surface-Laptop-Ultra-Opened-150x150.webp",
+      "date": "Thu, 08 Oct 2026 09:14:50 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Microsoft ја претстави „хибридната интелигенција“ со која Windows ќе ги комбинира локалните модели и тие од „облакот“",
+      "description": "Microsoft на вчерашниот Windows и Surface настан најави дека Windows го гради како „дом на хибридната интелигенција“. Тоа е пристап каде моделите на вештачка интелигенција што работат на компјутерот и оние во „облакот“ работат заедно. Ова е пристапот по кој се познати Apple, па со оглед и на технологијата, очекувано беше дека останатите ќе почнат да одат […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/microsoft-windows-hybrid-intelligence/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/News-of-the-Day-Windows-and-Devices-150x150.webp",
+      "date": "Thu, 08 Oct 2026 08:49:11 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -39,240 +93,195 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Македонски програмер ја објави 8 way, бесплатна игра со зборови на Android и iOS",
-      "description": "Македонскиот програмер Дарко Петковски, основач на MelioAppStudio, ја објави „8 way – Најди го зборот“, игра со зборови за Android и iOS. Играта е бесплатна, а покрај на англиски, може да се игра и на македонски, српски, бугарски јазик и други јазици. Како во класичните игри за барање зборови, на табла со букви треба да се пронајдат скриени […]",
-      "url": "https://smartportal.mk/novosti/gejming/makedonski-programer-8-way/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/8-way-f-150x150.webp",
-      "date": "Wed, 07 Oct 2026 09:09:02 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Paramount го заврши преземањето на Warner Bros. Discovery и сега работи под името Skydance",
-      "description": "Skydance, досегашната Paramount Skydance, денеска објави дека го заврши преземањето на Warner Bros. Discovery. Тоа се случи неколку дена откако извршниот директор Дејвид Елисон соопшти дека новата компанија ќе се вика Skydance. Акционерите на Warner Bros. Discovery добиваат по околу 31,02 долари во готово за секоја акција, а нивните акции од денеска не се тргуваат на берзата NASDAQ. […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/paramount-go-zavrsi-prezemanjeto-na-warner-bros-i-sega-se-vika-skydance/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Untitled_Blog_Hero-7-150x150.webp",
-      "date": "Tue, 06 Oct 2026 13:56:28 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Линус Торвалдс вели дека алатките со вештачка интелигенција донеле „ново нормално“ во развојот на Linux",
-      "description": "Линус Торвалдс, креаторот на Linux, во недела ја објави шестата пробна верзија (rc6) на јадрото Linux 7.3 и успат кажа како вештачката интелигенција го менува развојот. Во објавата тој вели дека бројот на промени е нормален, но „за новото AI нормално, со многу мали поправки во кодот што се справува со грешки“. Во оваа верзија има над […]",
-      "url": "https://smartportal.mk/novosti/ai/linus-torwarlds-alatki-vi-novo-normalno/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/LinuxCon_Europe_Linus_Torvalds_03-150x150.webp",
-      "date": "Tue, 06 Oct 2026 13:39:05 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Хрватската CircuitMess собра над 385.000 долари за MAKERphone 2.0, 4G телефон што сами го склопувате",
-      "description": "Хрватската компанија CircuitMess, позната по комплетите за учење електроника, го претстави MAKERphone 2.0, мобилен телефон што купувачот сам го склопува и програмира. Ова е наследник на првиот MAKERphone од 2018 година, а новата верзија на Kickstarter собра над 385.000 долари од речиси 1.940 поддржувачи, иако целта беше 30.000 долари. Според CircuitMess, телефонот се склопува за околу два […]",
-      "url": "https://smartportal.mk/novosti/smartfoni/hrvatskata-circuitmess-sobra-nad-385000-dolari-za-makerphone-2-0/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/9306b994a318ebfdad0a86c0ff20cec7_original-150x150.webp",
-      "date": "Tue, 06 Oct 2026 13:23:21 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Dave2D го испроба ASUS Googlebook 14, лаптоп со одличен хардвер, но засега за мал број корисници",
-      "description": "Познатиот YouTube канал Dave2D објави видео во кое Дејв Ли го покажува ASUS Googlebook 14, еден од првите Googlebook лаптопи. Според него, ова е најтенкиот и најлесниот Googlebook, со најмногу приклучоци, а моделот што го покажува чини 1.300 долари. Во видеото може да се види поставувањето преку телефон со QR-код, како и поврзувањето со Android телефонот. Од […]",
-      "url": "https://smartportal.mk/novosti/kompjuteri/dave2d-go-isproba-asus-googlebook-14/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/dave-2d-googlebook-video-1-150x150.webp",
-      "date": "Tue, 06 Oct 2026 11:22:23 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "OpenAI ќе прикажува нов тип реклами во ChatGPT додека корисниците генерираат слики",
-      "description": "OpenAI вчера најави нов визуелен формат на реклами за ChatGPT, кој на почеток ќе се тестира при создавањето слики. Според компанијата, ваквите реклами треба да им помогнат на луѓето да „замислат како производите и услугите би се вклопиле во нивниот живот“. Тестирањето почнува подоцна овој месец во САД, со почетна група огласувачи чии имиња не се соопштени. […]",
-      "url": "https://smartportal.mk/novosti/ai/openai-ke-testira-reklami-pri-generiranje-sliki/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/heirloom-grocery-visual-ads-hero.png-150x150.webp",
-      "date": "Tue, 06 Oct 2026 10:49:06 +0000"
+      "source": "Time.mk - All",
+      "title": "Во Софија едногласни за Коридорот 8, ќе се отвори ли патот кон Брисел? | Вечер Прес",
+      "description": "",
+      "url": "https://time.mk/c/0d0a7ebdbc/vo-sofija-ednoglasni-za-koridorot-8-ke-se-otvori-li-patot-kon-brisel.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/838893285_1778897759823429_4602728068340630799_n.jpg",
+      "date": "Thu, 08 Oct 2026 13:36:57 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Во Софија министерска конференција за Коридорот 8 | Економија и Бизнис",
+      "title": "Ребаланс за стабилен буџет или корекција на нереалните проекции? | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/dff65d06b2/vo-sofija-ministerska-konferencija-za-koridorot-8.html",
-      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/05/prugasotreva-1024x488.jpg",
-      "date": "Thu, 08 Oct 2026 05:56:55 +0000"
+      "url": "https://time.mk/c/9b47216539/rebalans-za-stabilen-budzet-ili-korekcija-na-nerealnite-proekcii.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/rebalans-scaled.jpg",
+      "date": "Thu, 08 Oct 2026 13:48:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Обвинителот Пеливанов, кандидат за шеф на ОЈО ГОКК: Јас сум вистинскиот избор | Фокус",
+      "title": "СВЕДОК: НАБАВЕНИТЕ ВЛТ-АПАРАТИТЕ НИКОГАШ НЕ СЕ СТАВЕНИ ВО УПОТРЕБА | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/6b7612a9e3/obvinitelot-pelivanov-kandidat-za-sef-na-ojo-gokk-jas-sum-vistinskiot-izbor.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/10/Pelivanov.jpg",
-      "date": "Thu, 08 Oct 2026 06:18:44 +0000"
+      "url": "https://time.mk/c/8a6f7b3154/svedok-nabavenite-vlt-aparatite-nikogas-ne-se-staveni-vo-upotreba.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/artan1-scaled.jpg",
+      "date": "Thu, 08 Oct 2026 13:36:57 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Каматите како товар на буџетот | Независен",
+      "title": "Нема докази дека за неовластен пристап во компјутерскиот систем во Кабинетот на Сиљновска Давкова – ОЈОГОКК ја прекина постапката | Press24",
       "description": "",
-      "url": "https://time.mk/c/97dd48dca0/kamatite-kako-tovar-na-budzetot.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/05/Kire-Naumov.jpg",
-      "date": "Thu, 08 Oct 2026 06:12:59 +0000"
+      "url": "https://time.mk/c/52cf0206a9/nema-dokazi-deka-za-neovlasten-pristap-vo-kompjuterskiot-sistem-vo-kabinetot-na-siljnovska-davkova-ojogokk-ja-prekina-postapkata.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/75862.jpg",
+      "date": "Thu, 08 Oct 2026 14:04:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "КЕЛВИНОВ БРАН – нов климатски феномен ја „прекројува“ зимата на целата планета: Што значи тоа за Балканот? | Вечер Прес",
+      "title": "Еврата во ѕидот од паричките од црвен пипер, дињи, лозје… – мајката на Ристов тврди дека таа ги пикала зад плочката | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/69d7140c77/kelvinov-bran-nov-klimatski-fenomen-ja-prekrojuva-zimata-na-celata-planeta-sto-znaci-toa-za-balkanot.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/10/klimatski-promeni-opsto.png",
-      "date": "Thu, 08 Oct 2026 06:16:49 +0000"
+      "url": "https://time.mk/c/ac482d5a8c/evrata-vo-zidot-od-parickite-od-crven-piper-dinji-lozje-majkata-na-ristov-tvrdi-deka-taa-gi-pikala-zad-plockata.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/img_1035-scaled.jpeg",
+      "date": "Thu, 08 Oct 2026 09:09:11 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Собранието ќе ја одржи 125. седница – на дневен ред предлог-закони за администрацијата, јавниот сектор, високото образование | Бизнис Вести",
+      "title": "Лани имало 1.000 нови случаи на рак на дојка, директорот на Онкологија вели дека „расте потребата од финансии“ | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/e23218b833/sobranieto-ke-ja-odrzi-125-sednica-na-dneven-red-predlog-zakoni-za-administracijata-javniot-sektor-visokoto-obrazovanie.html",
-      "image": "https://biznisvesti.mk/wp-content/uploads/2025/10/sobranie-300x258.jpg",
-      "date": "Thu, 08 Oct 2026 05:32:55 +0000"
+      "url": "https://time.mk/c/b871838a09/lani-imalo-1-000-novi-slucai-na-rak-na-dojka-direktorot-na-onkologija-veli-deka-raste-potrebata-od-finansii.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2023/04/onkologija-DAD_5342-300x200.jpg",
+      "date": "Thu, 08 Oct 2026 11:49:02 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "СЕРИОЗНО МЕТЕОРОЛОШКО ПРЕДУПРЕДУВАЊЕ ОД ПОПОСКИ: Викендов силно невреме и поплави му се закануваат на Балканот, ќе наврнат над 200 литри дожд | Фактор",
+      "title": "12 КИЛОМЕТРИ ОД АВТОПАТОТ ПРИЛЕП-БИТОЛА ЌЕ БИДАТ ГОТОВИ ВГОДИНА Наместо земјена подлога, првпат се користи технологија на дробен камен | +инфо",
       "description": "",
-      "url": "https://time.mk/c/5b8aa351c6/seriozno-meteorolosko-predupreduvanje-od-poposki-vikendov-silno-nevreme-i-poplavi-mu-se-zakanuvaat-na-balkanot-ke-navrnat-nad-200-litri-dozd.html",
-      "image": "https://faktor.mk/media/main/2026/10/20261007131213.jpg",
-      "date": "Thu, 08 Oct 2026 04:00:59 +0000"
+      "url": "https://time.mk/c/2ccb5621a6/12-kilometri-od-avtopatot-prilep-bitola-ke-bidat-gotovi-vgodina-namesto-zemjena-podloga-prvpat-se-koristi-tehnologija-na-droben-kamen.html",
+      "image": "https://plusinfo.mk/wp-content/uploads/2024/11/avtopat-Prilep-Bitola.jpg",
+      "date": "Thu, 08 Oct 2026 14:22:45 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Прва работа, прва плата, први финансиски одлуки | Факултети",
+      "title": "Цветаноска: Ребаланс затоа што нема пари за плати и пензии | Фокус",
       "description": "",
-      "url": "https://time.mk/c/4589045bc2/prva-rabota-prva-plata-prvi-finansiski-odluki.html",
-      "image": "",
-      "date": "Thu, 08 Oct 2026 05:56:55 +0000"
+      "url": "https://time.mk/c/16996291a6/cvetanoska-rebalans-zatoa-sto-nema-pari-za-plati-i-penzii.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/10/Simona-TSvetanoski.jpeg",
+      "date": "Thu, 08 Oct 2026 11:09:03 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ОД СОФИЈА ДО БЕЛГРАД ПРЕКУ СКОПЈЕ: Македонија влегува во голем железнички инвестициски циклус | Пари",
+      "title": "И БиХ привремено ја запира употребата на бугарската БСЖ вакцина | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/c97f881768/od-sofija-do-belgrad-preku-skopje-makedonija-vleguva-vo-golem-zeleznicki-investiciski-ciklus.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2024/10/Pruga-izgradba-zheleznica.jpg",
-      "date": "Thu, 08 Oct 2026 05:46:39 +0000"
+      "url": "https://time.mk/c/6880a253c1/i-bih-privremeno-ja-zapira-upotrebata-na-bugarskata-bsz-vakcina.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/vakcina-pexels-pavel-danilyuk-5998489.jpg",
+      "date": "Thu, 08 Oct 2026 10:50:44 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ЕУ изрази загриженост откако косовскиот парламент ги усвои законските измени за Специјализираните совети во Хаг | 360 степени",
+      "title": "Хрватска европратеничка носела блиски луѓе на службено патување — лажно ги претставила како доктори и професори | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/68a41e35a2/eu-izrazi-zagrizenost-otkako-kosovskiot-parlament-gi-usvoi-zakonskite-izmeni-za-specijaliziranite-soveti-vo-hag.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/09/14296219.jpg",
-      "date": "Thu, 08 Oct 2026 05:42:46 +0000"
+      "url": "https://time.mk/c/f4daf7de2a/hrvatska-evropratenicka-nosela-bliski-lugje-na-sluzbeno-patuvanje-lazno-gi-pretstavila-kako-doktori-i-profesori.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/agjroiejgfo-300x172.jpg",
+      "date": "Thu, 08 Oct 2026 13:38:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Видео) Започна операцијата за спасување на рударите од „Трепча“ | Макфакс",
+      "title": "Проговори мајката на почината руска научничка: Приказната за чумата во епрувета е лага | Кајгана",
       "description": "",
-      "url": "https://time.mk/c/356d83c82c/video-zapocna-operacijata-za-spasuvanje-na-rudarite-od-trepca.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/rudnik-depositphotos_75768665_xl.webp",
-      "date": "Thu, 08 Oct 2026 04:04:57 +0000"
+      "url": "https://time.mk/c/cdad0a6cf0/progovori-majkata-na-pocinata-ruska-naucnicka-prikaznata-za-cumata-vo-epruveta-e-laga.html",
+      "image": "https://kajgana.com/sites/default/files/styles/article_image_xxl/public/2026-10/ÐÐ°ÑÑÐ°-Ð¨Ð¸Ð¿Ð¸Ð»Ð¾Ð²Ð°-ÑÑÐ¼Ð°.jpg?itok=TdIXRgKy",
+      "date": "Thu, 08 Oct 2026 13:30:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Еден ден по смртоносните напади: Хутите повторно го нападнаа аеродромот во Ријад | Deutsche Welle",
+      "title": "Најмалку 35 загинати во руските напади врз Украина | Независен",
       "description": "",
-      "url": "https://time.mk/c/80f42bb797/eden-den-po-smrtonosnite-napadi-hutite-povtorno-go-napadnaa-aerodromot-vo-rijad.html",
-      "image": "https://static.dw.com/image/79587634_302.jpg",
-      "date": "Thu, 08 Oct 2026 06:10:44 +0000"
+      "url": "https://time.mk/c/fe89a42e67/najmalku-35-zaginati-vo-ruskite-napadi-vrz-ukraina.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/kramatorsk-2.jpg",
+      "date": "Thu, 08 Oct 2026 11:25:03 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Нов случај на пневмонија во Русија под надзор на СЗО: Москва реагира – „Нема чума“ | Вечер Прес",
+      "title": "Мостот „Близнак“ останува отворен за сообраќај, одложена е санацијата на оградата | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/a66f34eeb1/nov-slucaj-na-pnevmonija-vo-rusija-pod-nadzor-na-szo-moskva-reagira-nema-cuma.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/10/laboratorija-pexels-karola-g-6627667.jpg",
-      "date": "Thu, 08 Oct 2026 05:28:57 +0000"
+      "url": "https://time.mk/c/9565f640e9/mostot-bliznak-ostanuva-otvoren-za-soobrakaj-odlozena-e-sanacijata-na-ogradata.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/img-b1d4e941958d6dba38f6090762f8b0ef-v-e1791375505910-1157x578-1-300x150.jpg",
+      "date": "Thu, 08 Oct 2026 08:56:58 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Без струја делови од Илинден, Петровец, Кисела Вода и Аеродром | Фокус",
+      "title": "Општина Илинден започна нов проект за доградба на СОСУ „Илинден“ | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/fd8ef9b6e4/bez-struja-delovi-od-ilinden-petrovec-kisela-voda-i-aerodrom.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/04/struja-3.jpg",
-      "date": "Thu, 08 Oct 2026 06:10:44 +0000"
+      "url": "https://time.mk/c/fe4e8697a0/opstina-ilinden-zapocna-nov-proekt-za-dogradba-na-sosu-ilinden.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/ilinden-07-10-26-1-16.webp",
+      "date": "Thu, 08 Oct 2026 12:34:39 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Институционална соработка помеѓу Општина Карпош и Град Скопје | Макфакс",
+      "title": "24-годишна скопјанка доживеала хорор во Кисела Вода: партнерот насилник ја тепал и ја расекол со остар предмет | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/61ae0bff28/institucionalna-sorabotka-pomegju-opstina-karpos-i-grad-skopje.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/viber_image_2026-10-07_17-17-18-334.webp",
-      "date": "Wed, 07 Oct 2026 16:00:46 +0000"
+      "url": "https://time.mk/c/cc3a17c5b6/24-godisna-skopjanka-doziveala-horor-vo-kisela-voda-partnerot-nasilnik-ja-tepal-i-ja-rasekol-so-ostar-predmet.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2024/10/semejno-nasilstvo3435-300x200.jpg",
+      "date": "Thu, 08 Oct 2026 14:13:01 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„УБИЕЦ!“ – РОДИТЕЛИТЕ НА ЗАГИНАТИТЕ со жестока реакција на сведочењето за „Пулс“ | Вечер",
+      "title": "Пронајдено огревно дрво без документација во велешко: тројца уапсени | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/3f29a811d2/ubiec-roditelite-na-zaginatite-so-zestoka-reakcija-na-svedocenjeto-za-puls.html",
-      "image": "https://cmsnebula.eu-central-1.linodeobjects.com/b79723b0-fe00-4f46-ae15-f16613a5853e/$50b7b429-1698-4381-9c4d-94e5cf168bf2/20261008075037-big-730x400-45.webp",
-      "date": "Thu, 08 Oct 2026 06:21:09 +0000"
+      "url": "https://time.mk/c/64fa35dec6/pronajdeno-ogrevno-drvo-bez-dokumentacija-vo-velesko-trojca-uapseni.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/drva-apsenje-mvr-foto.webp",
+      "date": "Thu, 08 Oct 2026 08:41:05 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Каков имот пријавил обвинителот Пецо Везироски, кој е осомничен за мито | еМагазин",
+      "title": "УЈП во Берово со порака: „Фер туризам започнува со пријавен доход“ | Независен",
       "description": "",
-      "url": "https://time.mk/c/8d8c42df82/kakov-imot-prijavil-obvinitelot-peco-veziroski-koj-e-osomnicen-za-mito.html",
-      "image": "https://emagazin.mk/wp-content/uploads/2025/05/lupa-300x225.jpg",
-      "date": "Thu, 08 Oct 2026 05:56:55 +0000"
+      "url": "https://time.mk/c/06a97fa07c/ujp-vo-berovo-so-poraka-fer-turizam-zapocnuva-so-prijaven-dohod.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2022/03/UJP-i-Centralen-depozitar-2-bg_resize.jpg",
+      "date": "Thu, 08 Oct 2026 14:02:53 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВИДЕО | На ѕидот на брегот кај Охрид се работи со полна пареа, Пецаков не кажува кој го гради и зошто | Слободен Печат",
+      "title": "Министерот Серафимовски додели осум решенија за упис на корисници на заштитената географска ознака „Мариовски мед“ | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/0a50d040ea/video-na-zidot-na-bregot-kaj-ohrid-se-raboti-so-polna-parea-pecakov-ne-kazuva-koj-go-gradi-i-zosto.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/dzid-ohrid-parapet-300x194.jpg",
-      "date": "Wed, 07 Oct 2026 19:38:57 +0000"
+      "url": "https://time.mk/c/46f3446174/ministerot-serafimovski-dodeli-osum-resenija-za-upis-na-korisnici-na-zastitenata-geografska-oznaka-mariovski-med.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/serafimovski-dodeli-07-10-26.webp",
+      "date": "Thu, 08 Oct 2026 12:37:09 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ОД ЧКЕМБЕ ДО ФИЛМ И ОПЕРА: БИТОЛА ГРАД НА ФЕСТИВАЛИ – И ГРАД НА ЈАВНИ ПАРИ | Тера",
+      "title": "Фестивалот „Игор Маџиров“ под мотото „Сите сме исти“ ќе ја разбуди детската фантазија; Претстави од регионот и Европа од 13 до 17 октомври во Скопје | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/e813841731/od-ckembe-do-film-i-opera-bitola-grad-na-festivali-i-grad-na-javni-pari.html",
-      "image": "https://tera.mk/wp-content/uploads/2026/10/833324563_122128933202807782_2440265528238697810_n-150x150.png",
-      "date": "Wed, 07 Oct 2026 13:02:39 +0000"
+      "url": "https://time.mk/c/b3a4a5a2ff/festivalot-igor-madzirov-pod-mototo-site-sme-isti-ke-ja-razbudi-detskata-fantazija-pretstavi-od-regionot-i-evropa-od-13-do-17-oktomvri-vo-skopje.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/dsc_2981-scaled.jpg",
+      "date": "Thu, 08 Oct 2026 13:42:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Храброста на храбрите“ го отвора 45. Скопски џез фестивал | Трн",
+      "title": "(Во живо) Кој ќе ја добие Нобеловата награда за литература? | Независен",
       "description": "",
-      "url": "https://time.mk/c/cb1bbd247c/hrabrosta-na-hrabrite-go-otvora-45-skopski-dzez-festival.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/10/814471108_1783515092543991_1759412872435956063_n.jpg",
-      "date": "Thu, 08 Oct 2026 05:00:54 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "„Сирак“ на унгарскиот режисер Ласло Немеш низ киносалите | Умно",
-      "description": "",
-      "url": "https://time.mk/c/abebe0f9b6/sirak-na-ungarskiot-reziser-laslo-nemes-niz-kinosalite.html",
-      "image": "",
-      "date": "Thu, 08 Oct 2026 05:00:54 +0000"
+      "url": "https://time.mk/c/a0e9ca6d49/vo-zivo-koj-ke-ja-dobie-nobelovata-nagrada-za-literatura.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/nobel-literatura-1024x642.jpg",
+      "date": "Thu, 08 Oct 2026 10:56:54 +0000"
     }
   ],
   "de": [
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "CTONE AM23: Kompakter Mini-PC mit AMD- und Intel-Plattform für lokale KI und anspruchsvolle Anwendungen (Pressemitteilung)",
+      "description": "Der CTONE AM23 Mini-PC bietet Top-Performance für lokale KI mit AMD & Intel. Inklusive OCuLink & bis zu 128 GB RAM. Jetzt sichern! Der Artikel CTONE AM23: Kompakter Mini-PC mit AMD- und Intel-Plattform für lokale KI und anspruchsvolle Anwendungen (Pressemitteilung) erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/pressemitteilungen/ctone-am23-kompakter-mini-pc-mit-amd-und-intel-plattform-fuer-lokale-ki-und-anspruchsvolle-anwendungen-pressemitteilung-334415.html",
+      "image": "https://cdn.tarnkappe.info/wp-content/uploads/CTONE-Messestand-1.jpg",
+      "date": "Thu, 08 Oct 2026 12:27:49 +0000"
+    },
     {
       "category": "de",
       "source": "Tarnkappe",
@@ -443,18 +452,36 @@
       "url": "https://tarnkappe.info/test/nipogi-e3b-im-test-ryzen-5-7430u-fuer-desktop-und-homelab-333802.html",
       "image": "https://cdn.tarnkappe.info/wp-content/uploads/NiPoGi_E3B_im_Test-.jpg",
       "date": "Fri, 25 Sep 2026 14:46:45 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Discord Altersverifizierung: KI schätzt Alter anhand Discord-Verhaltens",
-      "description": "Discord führt eine KI-gestützte Altersverifizierung ein. Sie schätzt das Alter anhand von Account- und Verhaltensdaten. Der Artikel Discord Altersverifizierung: KI schätzt Alter anhand Discord-Verhaltens erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/it-sicherheit/discord-altersverifizierung-ki-alter-verhalten-333787.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/discord-altersverifizierung-ki-alter-verhalten",
-      "date": "Thu, 24 Sep 2026 17:56:27 +0000"
     }
   ],
   "eng": [
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Rugged Bose Bluetooth Speaker Is Still 30% Off in This Last-Minute October Prime Day Deal",
+      "description": "Bose’s SoundLink Max skips smart-speaker extras and focuses on great audio quality.",
+      "url": "https://lifehacker.com/tech/bose-soundlink-max-speaker-sale-last-minute-october-prime-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01KW9BEDZWKC58HXG854M06J70/hero-image.png",
+      "date": "Thu, 08 Oct 2026 13:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Tiny E-Reader Has a Front Light and Touchscreen, and It's Even Cheaper After October Prime Day",
+      "description": "The new Xteink X4 Pro is my favorite tiny e-reader.",
+      "url": "https://lifehacker.com/tech/xteink-x4-pro-deal-after-october-prime-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M3T54D3R1P4671GXSHGHWEVT/hero-image.png",
+      "date": "Thu, 08 Oct 2026 13:15:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Bose's New Dolby Atmos Soundbar Is $255 Off in This Last-Minute October Prime Day Deal",
+      "description": "It can pair with matching Bose speakers and a subwoofer for a larger home theater setup.",
+      "url": "https://lifehacker.com/tech/bose-new-dolby-atmos-soundbar-sale-last-minute-october-prime-day-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M4CZNNHBKQWCCB53D5E2TAZC/hero-image.jpg",
+      "date": "Thu, 08 Oct 2026 13:00:00 +0000"
+    },
     {
       "category": "eng",
       "source": "Lifehacker",
@@ -610,30 +637,75 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "These Are the Best Last-Minute Deals on Smartwatches Before October Prime Day Ends Tonight",
-      "description": "These Apple, Samsung, and Pixel smartwatches are all on sale.",
-      "url": "https://lifehacker.com/tech/last-minute-best-deals-on-smartwatches-october-prime-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M3Q8KH1TX0BXT6AXSND6TZ71/hero-image.jpg",
-      "date": "Wed, 07 Oct 2026 21:57:05 +0000"
+      "source": "PCWorld",
+      "title": "Windows Search is becoming your PC’s new AI-powered control center",
+      "description": "For years — decades, really — the entry point inside Windows has been the Start menu. But from what Microsoft showed as part of its AI vision for Windows 11 this week, Start might be on its way out. Instead, Windows Search may be the app you connect with first when you want to get things done. Yes, Windows Search, the humble search box buried in your taskbar and at the top of the Start menu. Microsoft plans to embed even more functions inside it, including Actions, essentially mini-widgets for c",
+      "url": "https://www.pcworld.com/article/3255309/windows-search-is-becoming-your-pcs-new-ai-powered-control-center.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3255309-0-14132000-1791468498-Windows-Search-bar-edit.png",
+      "date": "Thu, 08 Oct 2026 14:06:49 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "These Are the Best Last-Minute Deals on Fitness Trackers Before October Prime Day Ends Tonight",
-      "description": "Fitbit, RingConn, Polar, and Garmin trackers are all discounted.",
-      "url": "https://lifehacker.com/health/last-minute-best-fitness-tracker-deals-october-prime-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M48XNAK8Q9RJ4TB55H6JR1VQ/hero-image.jpg",
-      "date": "Wed, 07 Oct 2026 21:55:49 +0000"
+      "source": "PCWorld",
+      "title": "I used Claude to find the online accounts I’d forgotten about",
+      "description": "When you’ve reviewed as many tech products as I have, you wind up with dozens of abandoned online accounts, most of them created and forgotten the moment I was done with my testing. Over the years, I’d started to wonder: How many of those accounts are still floating around, idle but still active? Good question, and I’m sure I’m not the only one curious about the online accounts they’ve left behind. A good method for tracking down forgotten online accounts is to scour your inbox for signup confir",
+      "url": "https://www.pcworld.com/article/3253645/i-used-claude-to-find-the-online-accounts-id-forgotten-about.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3253645-0-76119300-1791468018-Claude-lost-accounts-search.jpg?quality=50&strip=all",
+      "date": "Thu, 08 Oct 2026 14:00:00 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "The Best Last-Minute Deals on Fitness Equipment Before October Prime Day Ends Tonight",
-      "description": "You can save hundreds on brands like Peloton, Bowflex, and Theragun.",
-      "url": "https://lifehacker.com/health/last-minute-best-fitness-equipment-deals-october-prime-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M3Q7XEY097D2TRQDA9MKZDJ5/hero-image.jpg",
-      "date": "Wed, 07 Oct 2026 21:54:54 +0000"
+      "source": "PCWorld",
+      "title": "What does Amazon know about you? The answer is buried in your account info",
+      "description": "We all know companies profile us. But understanding that abstractly is one thing. Reading the words “has flat buttocks” in your Amazon account is very much another. If you’re not on Threads, this discovery is one of the latest viral posts . A woman stumbled upon this assumption while in her Amazon settings, buried among other, less inflammatory ones within the Your Shopping preferences section. Of course, having read that post myself while doomscrolling before bed, I resolved to look at my own p",
+      "url": "https://www.pcworld.com/article/3255207/what-does-amazon-know-about-you-the-answer-is-buried-in-your-account-info.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3255207-0-47986200-1791467591-amazon-box-pixabay-josemiguels.jpg?quality=50&strip=all",
+      "date": "Thu, 08 Oct 2026 13:53:02 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Is the new Fire TV Stick 4K really faster? It depends",
+      "description": "Last week, Amazon launched a new Fire TV Stick 4K with a bold claim: It’s nearly 20 to 40 percent faster, the company says , than “a similarly priced 4K streaming stick from another leading brand.” Amazon won’t name the competitor, but in my own tests, the advantage over comparably priced streamers isn’t so clear-cut. What I tested Amazon’s own comparison video is impossible to test because it doesn’t show real-world results. Instead, it’s just a mock-up “for illustrative purposes,” based on Ama",
+      "url": "https://www.pcworld.com/article/3255305/is-the-new-fire-tv-stick-4k-really-faster-it-depends.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3255305-0-64986200-1791464422-firetvstick4k.jpg?quality=50&strip=all",
+      "date": "Thu, 08 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
+      "description": "If you’re looking for an affordable Windows machine under $500 , a blazing fast gaming beast for those intense matches, or a portable 2-in-1 for school or work, you’ve got plenty of great choices right now. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 80 laptops every year. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches",
+      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/550968-0-43974600-1791461383-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
+      "date": "Thu, 08 Oct 2026 12:09:25 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "The smartest PC upgrade in 2026 isn’t a new computer — it’s a monitor",
+      "description": "You’ve heard all of the stories about skyrocketing laptop and PC component costs. You’re trying to limit your tech expenses. Is there any way you can improve your workstation in 2026 that’s not completely going to bust your budget? There is. The one upgrade that you can and should make without hesitation right now your monitor — or monitors . A 27-inch 4K monitor can now cost less than many individual PC upgrades. You’ve probably heard this argument before: invest in something you’ll use for hou",
+      "url": "https://www.pcworld.com/article/3246759/the-smartest-pc-upgrade-in-2026-isnt-a-new-computer-its-a-monitor.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3246759-0-88850500-1791460831-image_77d56f.png",
+      "date": "Thu, 08 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Chuwi UniBook review: A $449 laptop that gets a lot right",
+      "description": "At a glance Expert's Rating Pros Lightweight and sturdy aluminium casing Very long battery life Plenty of ports, including Gigabit LAN Comfortable typing experience and backlit keys Quiet and efficient cooling Cons Only 8 GB of soldered-on RAM Dull display Low CPU and graphics performance Our Verdict The Chuwi UniBook is a well-built, portable laptop with good battery life and connectivity. That said, its 8GB of RAM and mediocre display hold it back. Price at time of review This value will show ",
+      "url": "https://www.pcworld.com/article/3244554/chuwi-unibook-review.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3244554-0-80223100-1791457238-Chuwi-UniBook.png",
+      "date": "Thu, 08 Oct 2026 11:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Get Babbel for life and learn from expert-created lessons",
+      "description": "TL;DR: Pay $134.99 once for lifetime Babbel access to all 14 languages. Learning Spanish is useful. Learning Spanish, French, Italian, German, and maybe a little Norwegian because you like a challenge? That’s where Babbel can help . Through Oct. 13, new U.S. users can get lifetime access to all 14 Babbel languages for $134.99 (MSRP $299) with the StackSocial code LEARN. You get more than 10,000 hours of language education. Lessons are broken into manageable 10- to 15-minute sessions and can be c",
+      "url": "https://www.pcworld.com/article/3253803/get-babbel-for-life-and-learn-from-expert-created-lessons.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3253803-0-64333300-1791446421-Babbel-no-coupon.png",
+      "date": "Thu, 08 Oct 2026 08:00:00 +0000"
     },
     {
       "category": "eng",
@@ -652,81 +724,18 @@
       "url": "https://www.pcworld.com/article/2828494/best-prime-day-mini-pc-deals.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/10/2828494-0-53004400-1791411180-mini-PCs-PCW-Prime-Day-25.jpg?quality=50&strip=all",
       "date": "Wed, 07 Oct 2026 22:12:54 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "What does Amazon know about you? The answer is buried in your account info",
-      "description": "We all know companies profile us. But understanding that abstractly is one thing. Reading the words “has flat buttocks” in your Amazon account is very much another. If you’re not on Threads, this discovery is one of the latest viral posts . A woman stumbled upon this assumption while in her Amazon settings, buried among other, less inflammatory ones within the Your Shopping preferences section. Of course, having read that post myself while doomscrolling before bed, I resolved to look at my own p",
-      "url": "https://www.pcworld.com/article/3255207/what-does-amazon-know-about-you-the-answer-is-buried-in-your-account-info.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3255207-0-97998400-1791405314-amazon-box-pixabay-josemiguels.jpg?quality=50&strip=all",
-      "date": "Wed, 07 Oct 2026 20:35:05 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "The Surface Laptop Ultra is an AI monster with a laptop problem",
-      "description": "Microsoft’s new Surface Laptop Ultra is powered by a Mediatek CPU and Nvidia’s powerful RTX Spark SoC, which is mainly designed to run local AI models on the user’s lap. Five competing laptops—from Dell, HP, MSI and more—will offer additional options. Here’s the thinking. Microsoft is banking on near-future AI developers and enthusiasts running local AI models and tools directly from their PC. If needed, they’ll tap Microsoft’s Copilot AI for more horsepower. Microsoft calls this “hybrid intelli",
-      "url": "https://www.pcworld.com/article/3255200/the-surface-laptop-ultra-is-an-ai-monster-with-a-laptop-problem.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3255200-0-48162900-1791407081-Microsoft-Surface-Laptop-Ultra-at-Windows-and-Surface-Event-October-2026.jpg?quality=50&strip=all",
-      "date": "Wed, 07 Oct 2026 20:15:07 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "PC upgrades are brutally expensive. These 8 Prime Day accessories aren’t",
-      "description": "Being a PC gamer in 2026 makes me want to self-medicate . Upgrading your PC hardware or looking for a new laptop is an exercise in self-punishment, as RAM and storage push prices beyond the breaking point. That being the case, if you’re trying to upgrade on Amazon Prime Day, it’s time to look to everything else on your desk. I’ve made a pick for every major component connected to your desktop PC, and a few more besides. Hopefully you can find a few things you’re interested in, at a budget that w",
-      "url": "https://www.pcworld.com/article/3254999/pc-upgrades-are-brutally-expensive-these-8-prime-day-accessories-arent.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3254999-0-30722800-1791399888-image_3c44c8.png",
-      "date": "Wed, 07 Oct 2026 19:04:36 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "I found the 9 best Anker deals for Prime Day — and 6 are all-time lows",
-      "description": "October Prime Day is now here, and that means exciting discounts on Anker’s best products. We love Anker because they provide quality devices and accessories at affordable prices, and they have a solid track record of safety and consumer-friendly practices. But not all Anker products are made equal. I’ve gone through the October Prime Day deals and found the best ones to snag, including ones that have dipped down to record-low prices. These are the deals that’ll save you the most cash without le",
-      "url": "https://www.pcworld.com/article/3173279/best-amazon-prime-day-anker-deals.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3173279-0-09992700-1791399234-Anker-Prime-deals.jpg?quality=50&strip=all",
-      "date": "Wed, 07 Oct 2026 18:53:44 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Nice, Samsung’s speedy T9 portable SSD is $115 off for Prime Day",
-      "description": "I’ve been hoping for SSD prices to drop at least a little during holiday sales—and thankfully, Amazon delivered by slashing the price of the Samsung T9, one of our favorite portable SSDs, down to just $335 for the 2TB model. That’s an all-time low since February, when the prices of SSDs began skyrocketing. Normally, this fast, rugged portable SSD has gone for around $450 on the street, with discounts both small and rare. View This Amazon Deal We’re big fans of the Samsung T9 , having given it an",
-      "url": "https://www.pcworld.com/article/3255159/nice-samsungs-speedy-t9-portable-ssd-is-115-off-for-prime-day.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3255159-0-72935900-1791396910-71EESd1deTL._AC_SL1500_-bg.png",
-      "date": "Wed, 07 Oct 2026 18:15:02 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "I tested Google’s new SynthID detector on AI slop. There’s a big catch",
-      "description": "Aw, have you seen that viral video of the little puppy nuzzling with a baby? It’s absolutely adorable — so adorable that it’s probably AI, although not even Reddit seems to know for sure. Now Google has unveiled a site featuring a tool designed to spot AI-generated images, videos, and audio files , using a technology called SynthID to pinpoint invisible watermarks embedded in AI-generated content. Surely the SynthID tool can tell us whether that suspicious puppy video was created by AI, right? I",
-      "url": "https://www.pcworld.com/article/3255083/i-tested-googles-new-synthid-detector-on-ai-slop-theres-a-big-catch.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3255083-0-42432100-1791394824-SynthID-detector-desktop.jpg?quality=50&strip=all",
-      "date": "Wed, 07 Oct 2026 17:40:14 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Best October Prime Day SSD deals: Save on storage before prices climb higher",
-      "description": "PC upgrades cost more than they used to. At least, if you’re looking to get more storage space. AI data center buildouts have obliterated affordable prices for SSDs and hard drives. Even SD cards and flash drives haven’t been immune! If you’d like to reduce the sting of sky-high costs, Amazon’s October Prime Day offers a temporary reprieve. The main event runs through Wednesday, October 7 at 11:59pm Pacific Time, so just hours remain to grab deals from Amazon–and its rivals, who also want in on ",
-      "url": "https://www.pcworld.com/article/2834437/best-prime-day-ssd-storage-deals.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/2834437-0-91346200-1791394428-hds-PCW-Prime-Day-25.jpg?quality=50&strip=all",
-      "date": "Wed, 07 Oct 2026 17:33:39 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Best USB-C hubs and dongles: Add ports to your laptop or tablet",
-      "description": "The best USB-C hubs add ports to your PC, providing connections to legacy peripherals like mice, keyboards, printers, or more. If you follow my advice, you shouldn’t pay that much for a hub, either. Most users will probably be happy with any of my standard hub recommendations. But if you want to go further, I have additional options for more specialized purposes. Those include USB-C docking stations that sit on your desk, plus some higher-end alternatives: DisplayLink docks , as well as the best",
-      "url": "https://www.pcworld.com/article/402858/the-best-usb-c-hubs-for-your-laptop-tablet-or-2-in-1.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/402858-0-03897400-1791388836-testung-usb-c-hubs-primary-edit.png",
-      "date": "Wed, 07 Oct 2026 16:00:00 +0000"
     }
   ],
   "starwars": [
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "New ‘Star Wars’ Young Adult Book ‘Princess of the Rebellion’ Focuses on Leia, Luke, and Han After ‘A New Hope’",
+      "description": "Claudia Gray is working on a new young adult Star Wars novel in time for the 50th Anniversary of the The post New ‘Star Wars’ Young Adult Book ‘Princess of the Rebellion’ Focuses on Leia, Luke, and Han After ‘A New Hope’ appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/10/new-star-wars-young-adult-book-princess-of-the-rebellion-focuses-on-leia-luke-and-han-after-a-new-hope.html",
+      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2025/05/Leia-A-New-Hope.jpg",
+      "date": "Thu, 08 Oct 2026 12:25:56 +0000"
+    },
     {
       "category": "starwars",
       "source": "Star Wars News Net",
@@ -801,12 +810,12 @@
     },
     {
       "category": "starwars",
-      "source": "Star Wars News Net",
-      "title": "‘Star Wars: Zero Company’ Among Top-Selling PC Games of August As It Sells Over 1 Million Copies",
-      "description": "Star Wars: Zero Company is off to a good start, as the new strategy title debuted at #6 among various The post ‘Star Wars: Zero Company’ Among Top-Selling PC Games of August As It Sells Over 1 Million Copies appeared first on Star Wars News Net .",
-      "url": "https://www.starwarsnewsnet.com/2026/10/star-wars-zero-company-among-top-selling-pc-games-of-august-as-it-sells-over-1-million-copies.html",
-      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/07/Star-Wars-Zero-Company-Gameplay.jpeg",
-      "date": "Thu, 01 Oct 2026 22:23:27 +0000"
+      "source": "Star Wars Union",
+      "title": "Comic-Miniserie über Ezras Reise zurück in die Galaxis",
+      "description": "Versteckspielen auf der Schimäre in 5 Einzelheften.",
+      "url": "https://starwars-union.de/comic-miniserie-ueber-ezras-reise-zurueck-in-die-galaxis/",
+      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/10/Ahsoka-Escape-from-Thrawn-1.jpg",
+      "date": "Thu, 08 Oct 2026 07:41:11 +0000"
     },
     {
       "category": "starwars",
@@ -891,112 +900,374 @@
     },
     {
       "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "Dave Filoni: Mortis-Götter werden ein Thema in Staffel 2 von Star Wars: Ahsoka",
-      "description": "Weitere Teaser zur zweiten Staffel sollen im Laufe der Woche folgen.",
-      "url": "https://starwars-union.de/dave-filoni-mortis-goetter-werden-ein-thema-in-staffel-2-von-star-wars-ahsoka/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2025/03/20230804-ahsoka-tv-spot-some.jpg",
-      "date": "Tue, 22 Sep 2026 10:02:52 +0000"
+      "source": "Jedi News",
+      "title": "Some Furloughed Star Wars Zero Company Developers Returning to Work",
+      "description": "Bit Reactor, the Maryland based company, behind this summer’s tactical combat game Star Wars Zero Company says that “more” of its team is returning to work after being furloughed ahead of the game’s release. The post Some Furloughed Star Wars Zero Company Developers Returning to Work appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/gaming/articles/some-furloughed-star-wars-zero-company-developers-returning-to-work/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/06/Star-Wars-Zero-Company-696x467-Jun26-300x201.jpg",
+      "date": "Thu, 08 Oct 2026 11:45:02 +0000"
     },
     {
       "category": "starwars",
       "source": "Jedi News",
-      "title": "Blast Points Podcast #500: Living in These Star Wars with Dan Whitley of the Rebel Force Band",
-      "description": "Join Jason and Gabe for episode 500 of Blast Points Podcast The post Blast Points Podcast #500: Living in These Star Wars with Dan Whitley of the Rebel Force Band appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/blast-points-podcast-500-living-in-these-star-wars-with-dan-whitley-of-the-rebel-force-band/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2025/01/Blast-Points-Jan25-300x201.jpg",
-      "date": "Wed, 07 Oct 2026 04:00:08 +0000"
+      "title": "Galactic Figure Talk Episode 212: George Lucas & Pre-NYCC Annoucements",
+      "description": "Welcome to episode 212 of Galactic Figure Talk with your host Criz Bee talking the latest Star Wars collecting news. The post Galactic Figure Talk Episode 212: George Lucas & Pre-NYCC Annoucements appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/galactic-figure-talk-episode-212-george-lucas-pre-nycc-annoucements/",
+      "image": "",
+      "date": "Thu, 08 Oct 2026 11:12:08 +0000"
     },
     {
       "category": "starwars",
       "source": "Jedi News",
-      "title": "Regal Robot’s Indiana Jones Francisco de Orellana’s Death Mask Wall Decor Available Now",
-      "description": "The Indiana Jones Francisco de Orellana’s Death Mask Wall Decor, sized 1:1 to the film prop, is now available from Regal Robot, the companies first product from Indiana Jones and the Kingdom of the Crystal Skull. The post Regal Robot’s Indiana Jones Francisco de Orellana’s Death Mask Wall Decor Available Now appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/regal-robots-indiana-jones-francisco-de-orellanas-death-mask-wall-decor-available-now/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/09/indiana_jones_mask_of_francisco_de_orellana_mask_prop_04_Sept26-300x201.jpg",
-      "date": "Tue, 06 Oct 2026 16:00:56 +0000"
+      "title": "Star Wars: Galactic Racer Available Now on Amazon Luna",
+      "description": "Star Wars: Galactic Racer has launched on Amazon Luna alongside the game’s worldwide release, delivering high-stakes racing across iconic Star Wars planets, with Amazon Prime members able to play the game now for free. The post Star Wars: Galactic Racer Available Now on Amazon Luna appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/gaming/articles/star-wars-galactic-racer-available-now-on-amazon-luna/",
+      "image": "",
+      "date": "Thu, 08 Oct 2026 06:07:06 +0000"
     },
     {
       "category": "starwars",
       "source": "Jedi News",
-      "title": "Enjoy Stuff: The Fright at The End of The Tunnel!",
-      "description": "Jovial Jay and Shua bring you the latest episode of Enjoy Stuff: A TechnoRetro Podcast. The post Enjoy Stuff: The Fright at The End of The Tunnel! appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/enjoy-stuff-the-fright-at-the-end-of-the-tunnel/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2021/05/RetroZap-Enjoy-Stuff-Techno-Retro-Featured-Image-300x201.jpg",
-      "date": "Tue, 06 Oct 2026 15:24:57 +0000"
+      "title": "We Combined All of Ahsoka Season 1 Into ONE Drawing ft. Will Sliney | Star Wars Illustrated",
+      "description": "Join Star Wars Comic Artist Will Sliney as he illustrates and recaps the can’t-miss moments of Star Wars: Ahsoka Season 1 ahead of Season 2, premiering January 20th, 2027 on Disney+. The post We Combined All of Ahsoka Season 1 Into ONE Drawing ft. Will Sliney | Star Wars Illustrated appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/we-combined-all-of-ahsoka-season-1-into-one-drawing-ft-will-sliney-star-wars-illustrated/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/maxresdefault-16-300x169.jpg",
+      "date": "Thu, 08 Oct 2026 05:23:05 +0000"
     },
     {
       "category": "starwars",
       "source": "Jedi News",
-      "title": "Thank the Maker – Rogue One: A Star Wars Story 10th Anniversary Event – Meet the Makers, Get the Merch, Live the Experience",
-      "description": "Thank the Maker, in celebration of the 10th anniversary of Rogue One: A Star Wars Story, takes place at St Swithun’s School in Winchester, Hampshire on October 17th, 2026, get your VIP ticket now to meet 17 filmmakers, artists, designers and technicians. The post Thank the Maker – Rogue One: A Star Wars Story 10th Anniversary Event – Meet the Makers, Get the Merch, Live the Experience appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/events/articles/thank-the-maker-rogue-one-a-star-wars-story-10th-anniversary-event-meet-the-makers-get-the-merch-live-the-experience/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/Thank-the-Maker-Merch-Oct26-300x201.jpg",
-      "date": "Tue, 06 Oct 2026 12:13:38 +0000"
+      "title": "Full Of Sith Episode DCLI: Kiersten White and Hiding From the Dark",
+      "description": "It's time to join the team for episode DCLI of Full of Sith. The post Full Of Sith Episode DCLI: Kiersten White and Hiding From the Dark appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/full-of-sith-episode-dcli-kiersten-white-and-hiding-from-the-dark/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2018/04/full-of-sith-network-300x201.jpg",
+      "date": "Thu, 08 Oct 2026 04:51:38 +0000"
     },
     {
       "category": "starwars",
       "source": "Jedi News",
-      "title": "Podcast Stardust #1,093: The Clone Wars – “Nomad Droids”",
-      "description": "First-generation Star Wars fans, Dennis Keithly and Jay Krebs, host episode 1,093 of Podcast Stardust. The post Podcast Stardust #1,093: The Clone Wars – “Nomad Droids” appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/podcast-stardust-1093-the-clone-wars-nomad-droids/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2020/05/Podcast-Stardust-300x201.jpg",
-      "date": "Tue, 06 Oct 2026 09:43:15 +0000"
+      "title": "Cuddly Crochet Ewoks Are Too Cute | Star Wars Kids",
+      "description": "The only thing more adorable than an Ewok? An Ewok made of crochet! But don't let their appearance fool you, these little creatures from Endor are clever and fierce. Watch this stylized celebration of the original stories. Stream Star Wars: Return of the Jedi on Disney+ The post Cuddly Crochet Ewoks Are Too Cute | Star Wars Kids appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/cuddly-crochet-ewoks-are-too-cute-star-wars-kids/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/maxresdefault-15-300x169.jpg",
+      "date": "Wed, 07 Oct 2026 23:08:57 +0000"
     },
     {
       "category": "starwars",
       "source": "Jedi News",
-      "title": "Star Wars: Galactic Racer | Launch Day Trailer",
-      "description": "Fuse Games and Secret Mode, in collaboration with Lucasfilm Games, have today released a new trailer to mark the launch of Star Wars: Galactic Racer. The post Star Wars: Galactic Racer | Launch Day Trailer appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/gaming/articles/star-wars-galactic-racer-launch-day-trailer/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/maxresdefault-13-300x169.jpg",
-      "date": "Tue, 06 Oct 2026 09:30:58 +0000"
+      "title": "NYCC 2026: Thrawn Returns in an Untold Story from Dave Filoni",
+      "description": "The official site at StarWars.com has revealed a new Marvel Star Wars comic dreamed up by Ahsoka creator Dave Filoni, Lucasfilm’s President and Chief Creative Officer, telling the story of how Ezra Bridger escaped the Empire’s greatest strategist, Thrawn. The post NYCC 2026: Thrawn Returns in an Untold Story from Dave Filoni appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/literature/articles/nycc-2026-thrawn-returns-in-an-untold-story-from-dave-filoni/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/nycc-2026-lucasfilm-publishing-reveals-sw-ahsoka-escape-Featured-Oct26-300x201.jpg",
+      "date": "Wed, 07 Oct 2026 22:32:02 +0000"
     },
     {
       "category": "starwars",
       "source": "Jedi News",
-      "title": "Best of Luke and Leia Skywalker in The Skywalker Saga | Official Compilation",
-      "description": "\"The Force runs strong in my family. My father has it. I have it. And... my sister has it.\" All titles now streaming on ‪‪Disney+. The post Best of Luke and Leia Skywalker in The Skywalker Saga | Official Compilation appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/best-of-luke-and-leia-skywalker-in-the-skywalker-saga-official-compilation/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/maxresdefault-12-300x169.jpg",
-      "date": "Mon, 05 Oct 2026 23:06:58 +0000"
+      "title": "Disney Droid Factory Holiday 4-Pack Revealed",
+      "description": "A new Disney Droid Factory Holiday 4-Pack has been revealed including previously released astromechs of R5-D33R from 2021, R6-SN0 from 2022, R8-H23 from 2023 and R4-TR3 from 2024, available to purchase from Disney Store on October 26th at 8am PT. The post Disney Droid Factory Holiday 4-Pack Revealed appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/collecting/articles/disney-droid-factory-holiday-4-pack-revealed/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/Disney-Droid-Factory-Holiday-4-Pack-Oct26-300x201.jpg",
+      "date": "Wed, 07 Oct 2026 22:00:24 +0000"
     },
     {
       "category": "starwars",
       "source": "Jedi News",
-      "title": "First Three Guests Announced for Rebel Scum Con IV, July 9th – 11th, 2027",
-      "description": "The first three guests for Rebel Scum Con IV have been announced as sculptor Brian Muir, ILM Academy Award winner Lorne Peterson and the legendary Phil Tippett, taking place at the Irving Convention Center at Las Colinasis, Texas, between July 9th and 11th, 2027. The post First Three Guests Announced for Rebel Scum Con IV, July 9th – 11th, 2027 appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/events/articles/first-three-guests-announced-for-rebel-scum-con-iv-july-9th-11th-2027/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/First-Three-Guests-Rebel-Scum-Con-IV-Oct26-300x201.jpg",
-      "date": "Mon, 05 Oct 2026 18:12:07 +0000"
+      "title": "Iconic Force Moments | Official Compilation",
+      "description": "\"These aren't the droids you're looking for.\" All titles now streaming on Disney+. The post Iconic Force Moments | Official Compilation appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/iconic-force-moments-official-compilation/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/maxresdefault-14-300x169.jpg",
+      "date": "Wed, 07 Oct 2026 18:27:18 +0000"
     },
     {
       "category": "starwars",
       "source": "Jedi News",
-      "title": "Star Wars: The Mandalorian and Grogu Beskar Collector’s Edition Closer Look",
-      "description": "Star Wars: The Mandalorian and Grogu Beskar Collector's Edition is available from today in the UK, and we take a closer look at what's inside the A4 sized box. The post Star Wars: The Mandalorian and Grogu Beskar Collector’s Edition Closer Look appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/star-wars-the-mandalorian-and-grogu-beskar-collectors-edition-closer-look/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/The-Mandalorian-and-Grogu-Beskar-Collectors-Edition-Oct26-300x201.jpg",
-      "date": "Mon, 05 Oct 2026 17:38:06 +0000"
+      "title": "Build the Millennium Falcon: Part 96",
+      "description": "Another delivery from Fanhome has landed on the Alders doorstep. Mark his daughter Ember, continue their journey to build their very own version of the iconic YT-1300 freighter. This week they take on part 96. The post Build the Millennium Falcon: Part 96 appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/collecting/articles/build-the-millennium-falcon-part-96/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2024/01/Build-the-Millennium-Falcon-FI-300x201.jpg",
+      "date": "Wed, 07 Oct 2026 16:01:46 +0000"
     },
     {
       "category": "starwars",
       "source": "Jedi News",
-      "title": "Three New LEGO DC Batman Sets Revealed for January 2027",
-      "description": "The LEGO Group have revealed three new LEGO DC Batman sets for January 2027, the 672-piece Batman Returns Batmobile & Duck (67008), the 317-piece Arkham Batman Batmobile and The Joker Wall Art Comic Cover (67012) made up of 1,849-pieces. The post Three New LEGO DC Batman Sets Revealed for January 2027 appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/lego/articles/three-new-lego-dc-batman-sets-revealed-for-january-2027/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/LEGO-DC-Batman-Jan27-Releases-Oct26-300x201.jpg",
-      "date": "Mon, 05 Oct 2026 14:00:11 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Skytalkers: The State of Star Wars: New Trilogy News & the Reylo Renaissance",
-      "description": "Skytalkers - join Charlotte Errity and Caitlin Plesher as they talk about pressing and existing topics in the Star Wars universe. The post Skytalkers: The State of Star Wars: New Trilogy News & the Reylo Renaissance appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/skytalkers-the-state-of-star-wars-new-trilogy-news-the-reylo-renaissance/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2018/06/Skytalkers-300x201.jpg",
-      "date": "Mon, 05 Oct 2026 04:25:01 +0000"
+      "title": "The Cantina Cast 689: One Last Lesson: Why Anakin Still Needs To Teach Ahsoka",
+      "description": "Grab a flagon of your favorite brew for episode 689 of the Cantina Cast. The post The Cantina Cast 689: One Last Lesson: Why Anakin Still Needs To Teach Ahsoka appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/the-cantina-cast-689-one-last-lesson-why-anakin-still-needs-to-teach-ahsoka/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2018/04/cantina-cast-podcast-300x201.jpg",
+      "date": "Wed, 07 Oct 2026 15:29:29 +0000"
     }
   ],
-  "youtube": []
+  "youtube": [
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Warum Grafikkarten wichtiger für KI sind als CPUs. #informatik #hardware #cpu #gpu #llm",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/NxgExgjdAHo",
+      "image": "https://i.ytimg.com/vi/NxgExgjdAHo/hqdefault.jpg",
+      "date": "2026-10-07T16:00:04+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Eine Kamera, 50k Autos und Software von 2017... Wie sicher ist Flock ?!",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/olowqm52KjI",
+      "image": "https://i.ytimg.com/vi/olowqm52KjI/hqdefault.jpg",
+      "date": "2026-10-06T10:15:18+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Kann man einer KI beibringen, deine Daten zu vergessen? #informatik #machinelearning",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/eY9t7zexf6I",
+      "image": "https://i.ytimg.com/vi/eY9t7zexf6I/hqdefault.jpg",
+      "date": "2026-10-05T16:00:32+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Eine neue Schwachstelle in KVM und was das bedeutet#informatik #cybersecurity #linux #news",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/Jz2o-x2Dbz4",
+      "image": "https://i.ytimg.com/vi/Jz2o-x2Dbz4/hqdefault.jpg",
+      "date": "2026-10-04T16:00:32+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Das Internet scrapen ist Innovation. PewDiePie, der OpenAI scraped, ist ein Verstoß....",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/mDOq4BeyyQo",
+      "image": "https://i.ytimg.com/vi/mDOq4BeyyQo/hqdefault.jpg",
+      "date": "2026-10-03T16:53:50+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Niemand muss zuschauen, damit überwachung wirkt... #informatik #privacy #data #cybersecurity",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/0LXcUIlZeQk",
+      "image": "https://i.ytimg.com/vi/0LXcUIlZeQk/hqdefault.jpg",
+      "date": "2026-10-02T10:15:16+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Warum deine MAC Randomisiert wird... #informatik #mac #code #privacy #cybersecurity",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/HlBPkeSkS7k",
+      "image": "https://i.ytimg.com/vi/HlBPkeSkS7k/hqdefault.jpg",
+      "date": "2026-10-01T17:00:26+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Wie gehts es mit den ShinyHunters weiter ?! #informatik #cybersecurity #fbi #news",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/tGknnPrqIno",
+      "image": "https://i.ytimg.com/vi/tGknnPrqIno/hqdefault.jpg",
+      "date": "2026-09-30T10:15:13+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Warum ein JWT ohne Signaturprüfung nichts wert ist ... #informatik #code #cybersecurity #microsoft",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/Tr01Ufk_VAo",
+      "image": "https://i.ytimg.com/vi/Tr01Ufk_VAo/hqdefault.jpg",
+      "date": "2026-09-28T16:15:39+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Eine Fruchtfliege die Doom spielt und programmiert ?! #informatik #code #neuron #fruitfly #brain",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/5UMTHEBCMz0",
+      "image": "https://i.ytimg.com/vi/5UMTHEBCMz0/hqdefault.jpg",
+      "date": "2026-09-26T16:00:16+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Set Off Alarms in Abandoned Paper Mill",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=_2m_nAVaYSg",
+      "image": "https://i.ytimg.com/vi/_2m_nAVaYSg/hqdefault.jpg",
+      "date": "2026-09-30T17:00:15+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Exploring The Last Coal Power Plant in Connecticut Bridgeport Harbor Station",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=CR84XRBKBzs",
+      "image": "https://i.ytimg.com/vi/CR84XRBKBzs/hqdefault.jpg",
+      "date": "2026-08-27T17:00:39+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Rocketdyne Santa Susana Field Laboratory Abandoned America Space Race (1948)",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=0lka-0REQrQ",
+      "image": "https://i.ytimg.com/vi/0lka-0REQrQ/hqdefault.jpg",
+      "date": "2026-04-23T17:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition AMC Seats And Screens Left Behind",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=UnG29VothuQ",
+      "image": "https://i.ytimg.com/vi/UnG29VothuQ/hqdefault.jpg",
+      "date": "2026-03-27T21:09:35+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition Fly by In And Out",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=fDnOH8ZsfTg",
+      "image": "https://i.ytimg.com/vi/fDnOH8ZsfTg/hqdefault.jpg",
+      "date": "2026-03-27T20:40:08+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "AMC Westfield Promenade Mall Raw Demolition Drone Footage",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/5iA5R3Jq4g0",
+      "image": "https://i.ytimg.com/vi/5iA5R3Jq4g0/hqdefault.jpg",
+      "date": "2026-03-27T18:03:29+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition AMC Coming Down First!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=SAxjFGjTiHQ",
+      "image": "https://i.ytimg.com/vi/SAxjFGjTiHQ/hqdefault.jpg",
+      "date": "2026-03-23T17:42:38+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Beautiful Art Deco Theater",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=ccfU0LSmkj8",
+      "image": "https://i.ytimg.com/vi/ccfU0LSmkj8/hqdefault.jpg",
+      "date": "2026-03-11T20:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Decommissioned Power Station #synthwave #synth #retrowave #abandonedplaces",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/mOUbNSMoBJs",
+      "image": "https://i.ytimg.com/vi/mOUbNSMoBJs/hqdefault.jpg",
+      "date": "2025-06-17T17:55:51+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Wheel of Misfortune Three Kids Mine Demolition",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=VXRselqoN-8",
+      "image": "https://i.ytimg.com/vi/VXRselqoN-8/hqdefault.jpg",
+      "date": "2025-06-17T17:45:42+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Install Windows 11 with a Local Account in 2026",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=juIh1auHo3s",
+      "image": "https://i.ytimg.com/vi/juIh1auHo3s/hqdefault.jpg",
+      "date": "2026-08-05T17:00:04+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Replace the Battery in a Dell Precision 7760 Laptop",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=JOVmOahO2xs",
+      "image": "https://i.ytimg.com/vi/JOVmOahO2xs/hqdefault.jpg",
+      "date": "2026-03-11T17:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Use & Combine Joy-Con Controllers on the Steam Deck!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=p9ZdCe-eW1M",
+      "image": "https://i.ytimg.com/vi/p9ZdCe-eW1M/hqdefault.jpg",
+      "date": "2025-12-05T18:01:07+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Borderlands GOTY Enhanced Co-Op Lag Fix on PC | Windows & Steam Deck",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=UsaKlS3WBBs",
+      "image": "https://i.ytimg.com/vi/UsaKlS3WBBs/hqdefault.jpg",
+      "date": "2025-08-20T17:00:42+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Thrifty Gaming Pickups 058 - Going Through a Bag of Games, Controllers, and More!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=yKwMn2OMLLY",
+      "image": "https://i.ytimg.com/vi/yKwMn2OMLLY/hqdefault.jpg",
+      "date": "2025-05-07T17:01:12+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Thrifty Gaming Pickups 057 - Returning to Old Thrift Shops + A Big Xbox 360 Bundle!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=EOQgA7Q8Kw8",
+      "image": "https://i.ytimg.com/vi/EOQgA7Q8Kw8/hqdefault.jpg",
+      "date": "2024-12-04T18:00:14+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Thrifty Gaming Pickups 056 - Import Switch Games, Switch Lite, Xbox, and Xbox 360 Games!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=xaNcbxQkk5k",
+      "image": "https://i.ytimg.com/vi/xaNcbxQkk5k/hqdefault.jpg",
+      "date": "2024-06-12T17:00:40+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Thrifty Gaming Pickups 055 - Japanese Xbox 360 Imports, Consoles, and More!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=fvzT178zAlk",
+      "image": "https://i.ytimg.com/vi/fvzT178zAlk/hqdefault.jpg",
+      "date": "2024-05-15T17:00:26+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Final Fantasy VII Rebirth Best Buy Steelbook (PS5) #shorts",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/k02mkNRvIYE",
+      "image": "https://i.ytimg.com/vi/k02mkNRvIYE/hqdefault.jpg",
+      "date": "2024-03-01T18:00:24+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Final Fantasy VII Rebirth Deluxe Edition Unboxing (PS5) #shorts",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/SFwXpq5kwe4",
+      "image": "https://i.ytimg.com/vi/SFwXpq5kwe4/hqdefault.jpg",
+      "date": "2024-03-01T02:23:40+00:00"
+    }
+  ]
 }
