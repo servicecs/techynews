@@ -1,6 +1,69 @@
 {
-  "updated": "2026-10-09T07:11:56.469403+00:00",
+  "updated": "2026-10-09T14:32:00.793065+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Yes for Less Викенд: Два дена што покажуваат дека промената почнува од секој од нас",
+      "description": "На 17 и 18 октомври од 10:30 до 17:30 во Лабораториум, Скопје, здружението Yes for Less го организира „Yes for Less Викенд“ – дводневен настан што ги обединува одржливото живеење, локалните еко-бизниси, граѓанскиот активизам и пред сѐ, луѓето желни за промени. По три успешни изданија на Саемот на еко-бизниси нa Yes for Less, оваа година […]",
+      "url": "https://smartportal.mk/novosti/nastani/yes-for-less-vikend/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/yess-for-less-1-150x150.webp",
+      "date": "Fri, 09 Oct 2026 12:37:16 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "По Photoshop и Premiere, програмер со вештачка интелигенција прави и бесплатна замена за Word",
+      "description": "Брендон Томас, основач на ArtCraft и Storyteller.ai, неодамна објави седум бесплатни програми со отворен код направени по „пример“ на главните алатки на Adobe: PhotoCraft (Photoshop), VectorCraft (Illustrator), FilmCraft (Premiere Pro), LightCraft (Lightroom), EffectCraft (After Effects), DesignCraft (InDesign) и PdfCraft (Acrobat), кој првично се викаше PrintCraft. Сега на GitHub се појави и WordCraft, кој проектот го опишува […]",
+      "url": "https://smartportal.mk/novosti/ai/po-photoshop-i-premiere-programer-so-vi-pravi-i-zamena-za-word/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/wordcraft-hero-150x150.webp",
+      "date": "Fri, 09 Oct 2026 10:50:47 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Apple на крајот на октомври планира да го претстави првиот MacBook со екран на допир, пишува Марк Гурман",
+      "description": "Октомври изгледа ќе биде доста зафатен месец за Apple. Покрај настанот на 13 октомври, кој Apple вчера го потврдија со поканите „Welcome home“, компанијата планира и второ претставување на крајот од месецот, пишува Марк Гурман во најновата статија за Bloomberg. Според неименуваните извори на Гурман, претставувањето е закажано за вторник, 27 октомври или околу тој датум, а […]",
+      "url": "https://smartportal.mk/novosti/kompjuteri/apple-kraj-oktomvri-macbook-ekran-na-dopir/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/wes-hicks-ptXljygBu-0-unsplash-f-150x150.webp",
+      "date": "Fri, 09 Oct 2026 10:15:03 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Апел на РСБСП до сите учесници во сообраќајот по повод претстојниот празник 11 октомври",
+      "description": "По повод престојниот празник 11 октомври, продолжениот викенд и очекувањата за зголемената раздвиженост и фреквенција на возила на патиштата, Републичкиот совет за безбедност на сообраќајот на патиштата (РСБСП) упатува апел до сите учесници во сообраќајот да бидат особено внимателни, одговорни и доследни во почитувањето на сообраќајните правила и прописи. Продолжените викенди се период кога поголем […]",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/rsbsp-apel-11-oktomvri/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/img_0520-150x150.webp",
+      "date": "Fri, 09 Oct 2026 09:22:40 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "САД ги суспендираа Microsoft, Adobe и шест ИТ компании од програмата за зелени карти",
+      "description": "Американската администрација ги суспендираше Microsoft и Adobe, како и ИТ компаниите Capgemini, Cognizant, HCL, Infosys, Tata и Wipro, од програмата за трудова сертификација преку која странските работници можат да добијат зелена карта, односно постојан престој во САД. Владата ги обвинува компаниите за измама. Министерот за труд Кит Сондерлинг на прес-конференцијата во Белата куќа рече дека министерството нема […]",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/sad-suspendira-microsoft-adobe-i-drugi-programa-zeleni-karti/",
+      "image": "https://smartportal.mk/wp-content/uploads/2024/07/shutterstock_1363073402-150x150.jpg",
+      "date": "Fri, 09 Oct 2026 08:45:24 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Трамп му го додели на Елон Маск Националниот медал за наука, највисокото научно признание во САД",
+      "description": "Американскиот претседател Доналд Трамп во четвртокот му го додели на Елон Маск Националниот медал за наука, кој Белата куќа го нарекува највисоко американско признание за достигнувања во науката. Церемонијата се одржа на самитот „Science: A New Golden Age“ во Институтот за мир во Вашингтон. Истиот медал го добија и коосновачот на Google Сергеј Брин, директорот на […]",
+      "url": "https://smartportal.mk/novosti/licnosti/elon-musk-nacionalen-medal-za-nauka/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/P20260929DT-1541.jpg-150x150.webp",
+      "date": "Fri, 09 Oct 2026 08:17:17 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Електричните возила и современата мобилност во фокусот на ЕНЕРГО ТЕХНОМА 2026",
+      "description": "Практичност, удобност и лесно паркирање – токму тоа го нудат електричните возила на Urban EV, создадени како идеално решение за секојдневно движење низ градот. Компактни, економични и едноставни за управување, тие одговараат на потребите на современиот урбан живот, особено во средини со густ сообраќај и ограничен простор за паркирање. Возилата се особено погодни за студенти […]",
+      "url": "https://smartportal.mk/novosti/nastani/elektricni-vozila-sovremena-mobilnost-energo-tehnoma-2026/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/energo_saem-1024x662-1-150x150.webp",
+      "date": "Fri, 09 Oct 2026 07:32:56 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -30,246 +93,183 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Microsoft почна да тестира нова верзија од Windows Search функцијата во Windows 11, која е побрза и извршува команди",
-      "description": "Microsoft вчера го претстави новото пребарување во Windows 11, кое засега постепено стигнува до Windows Insiders во Experimental каналот. Тоа е продолжение на средувањето на Windows Search што компанијата го започна во јули. Новото функција е изградена на WinUI 3, а според Microsoft, раните тестови покажуваат значително подобри перформанси и помала потрошувачка на меморија, иако бројки не […]",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/microsoft-nova-verzija-windows-search-test/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/New_Windows_Search-150x150.webp",
-      "date": "Thu, 08 Oct 2026 12:31:05 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Телеком одбележува 30 години мобилна технологија во Македонија – од првата мобилна мрежа до 5G+",
-      "description": "Македонски Телеком одбележува 30 години од првата мобилна мрежа во Македонија – три децении во кои мобилните комуникации целосно го променија начинот на кој комуницираме, работиме и живееме. Во изминатиот период Телеком, преку 2G, 3G, 4G и 5G, ги воведе сите нови генерации мобилна технологија на македонскиот пазар. Од првите мобилни разговори, преку мобилен интернет […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/telekom-30-godini-mobilna-tehnologija-makedonija/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/telekom-30-god-mob-mreza-5-150x150.jpg",
-      "date": "Thu, 08 Oct 2026 11:53:04 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "GPT-6 стигнува во ChatGPT и за бесплатните корисници, а одговорите добиваат графикони, мапи и алатки",
-      "description": "OpenAI почна да го воведува GPT-6 во разговорите на ChatGPT, околу еден месец откако првите GPT-6 модели ги понуди за платените корисници. Според компанијата, новата верзија е наменета за повеќе од 1,2 милијарди луѓе што секоја недела го користат ChatGPT. Главната новина е „Intelligent UI“. Според OpenAI, моделот е трениран сам да одлучи кога одговорот ќе […]",
-      "url": "https://smartportal.mk/novosti/ai/gpt-6-stignuva-vo-chatgpt/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/06/Depositphotos_692579234_XL-150x150.webp",
-      "date": "Thu, 08 Oct 2026 09:55:27 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Surface Laptop Ultra веќе може да се нарача, а цената почнува од 2.899 евра",
-      "description": "Microsoft на вчерашниот Windows и Surface настан ги отвори нарачките за Surface Laptop Ultra, лаптопот со Nvidia RTX Spark чип што компанијата го најави уште во јуни. Тогаш немаше ниту цена ниту точен датум, а сега е познато дека испораките почнуваат на 16 октомври. Цената во САД почнува од 2.599,99 долари, а на германската страница на Microsoft цената почнува […]",
-      "url": "https://smartportal.mk/novosti/kompjuteri/surface-laptop-ultra-veke-moze-da-se-naraca/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Surface-Laptop-Ultra-Opened-150x150.webp",
-      "date": "Thu, 08 Oct 2026 09:14:50 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Microsoft ја претстави „хибридната интелигенција“ со која Windows ќе ги комбинира локалните модели и тие од „облакот“",
-      "description": "Microsoft на вчерашниот Windows и Surface настан најави дека Windows го гради како „дом на хибридната интелигенција“. Тоа е пристап каде моделите на вештачка интелигенција што работат на компјутерот и оние во „облакот“ работат заедно. Ова е пристапот по кој се познати Apple, па со оглед и на технологијата, очекувано беше дека останатите ќе почнат да одат […]",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/microsoft-windows-hybrid-intelligence/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/News-of-the-Day-Windows-and-Devices-150x150.webp",
-      "date": "Thu, 08 Oct 2026 08:49:11 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Новите BMW X5 и BMW Серија 7 Седан премиерно претставени во Македонија",
-      "description": "Името е познато, но приказната е нова. BMW X5 и BMW Серија 7 Седан во своите нови генерации денеска беа претставени пред македонската публика. Два препознатливи модели, со различен карактер и различна намена, но со нови беспрекорни решенија во дизајнот, технологијата и начинот на кој го доживуваат возењето. Нивната приказна е различна, но заедничкиот јазик […]",
-      "url": "https://smartportal.mk/novosti/avtomobili/novite-bmw-x5-bmw-serija-7-sedan-pretstaveni-vo-makedonija/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Новите-BMW-X5-и-BMW-Серија-7-Седан-премиерно-претставени-во-Македонија-11-150x150.webp",
-      "date": "Wed, 07 Oct 2026 13:22:06 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "LibreOffice останува без вградена вештачка интелигенција додека не се исполнат шест услови на развивачите",
-      "description": "The Document Foundation, непрофитната организација зад бесплатниот и доста познат пакет апликации LibreOffice, објасни зошто во основната инсталација засега нема вештачка интелигенција. Според фондацијата, LibreOffice 26.8, објавен на 26 август, не содржи функции со генеративна вештачка интелигенција и не праќа документи до надворешни сервиси. Повод бил коментар под најавата: „Значи, без AI сега е функција?“. Фондацијата вели […]",
-      "url": "https://smartportal.mk/novosti/softver-prog/libreoffice-ostanuva-bez-vgradena-vi/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/LO-no-forced-AI-new-150x150.webp",
-      "date": "Wed, 07 Oct 2026 10:28:44 +0000"
+      "source": "Time.mk - All",
+      "title": "Две кошници, две реалности: Разлика од 11.000 денари | Deutsche Welle",
+      "description": "",
+      "url": "https://time.mk/c/c6f96f924e/dve-kosnici-dve-realnosti-razlika-od-11-000-denari.html",
+      "image": "https://static.dw.com/image/45954930_301.jpg",
+      "date": "Fri, 09 Oct 2026 12:56:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Што пишуваат бугарските медиуми за средбата на Муцунски и Петрова Чамова | еМагазин",
+      "title": "Средба без отстапки – Уставот на маса, гаранциите во магла | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/f00da9a743/sto-pisuvaat-bugarskite-mediumi-za-sredbata-na-mucunski-i-petrova-camova.html",
-      "image": "https://emagazin.mk/wp-content/uploads/2026/10/838893285_1778897759823429_4602728068340630799_n-300x196.jpg",
-      "date": "Fri, 09 Oct 2026 06:46:40 +0000"
+      "url": "https://time.mk/c/120098c58f/sredba-bez-otstapki-ustavot-na-masa-garanciite-vo-magla.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/2-3_094328.jpeg",
+      "date": "Fri, 09 Oct 2026 12:36:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ОпенАИ очекува годишен приход од 70 милијарди долари: Вредноста на компанијата достигна 1,4 билиони долари | Трн",
+      "title": "Николоски во Подгорица на средба со премиерот Спајиќ: Силно политичко партнерство меѓу Македонија и Црна Гора и засилена економска соработка за развој на регионот | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/e519691776/openai-ocekuva-godisen-prihod-od-70-milijardi-dolari-vrednosta-na-kompanijata-dostigna-1-4-bilioni-dolari.html",
-      "image": "https://trn.mk/wp-content/uploads/2025/02/openai.webp",
-      "date": "Fri, 09 Oct 2026 07:08:56 +0000"
+      "url": "https://time.mk/c/e013b1e1f1/nikoloski-vo-podgorica-na-sredba-so-premierot-spajik-silno-politicko-partnerstvo-megju-makedonija-i-crna-gora-i-zasilena-ekonomska-sorabotka-za-razvoj-na-regionot.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/86038/conversions/text-max.jpg",
+      "date": "Fri, 09 Oct 2026 13:50:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Обвинителката Раичевиќ, кандидат за шеф на ОЈО ГОКК: Ветувам бестрашна борба со криминалот | Фокус",
+      "title": "Владата со бруто-отчет за прославата, деталите доверливи | Призма",
       "description": "",
-      "url": "https://time.mk/c/9b6653fe78/obvinitelkata-raicevik-kandidat-za-sef-na-ojo-gokk-vetuvam-bestrasna-borba-so-kriminalot.html",
-      "image": "https://fokus.mk/wp-content/uploads/2025/07/Lidija-Raichevikj.jpg",
-      "date": "Fri, 09 Oct 2026 06:46:39 +0000"
+      "url": "https://time.mk/c/263550458c/vladata-so-bruto-otcet-za-proslavata-detalite-doverlivi.html",
+      "image": "https://prizma.mk/wp-content/uploads/2026/10/naslvona-1024x640.png",
+      "date": "Fri, 09 Oct 2026 12:30:51 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Се отстрануваат хаварисани возила во Карпош 3 | Скопје инфо",
+      "title": "Здравство: Во функција е еден томограф на Радиологија, тој во хируршкиот комплекс се сервисира | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/ceb226ec56/se-otstranuvaat-havarisani-vozila-vo-karpos-3.html",
+      "url": "https://time.mk/c/ff2b561afe/zdravstvo-vo-funkcija-e-eden-tomograf-na-radiologija-toj-vo-hirurskiot-kompleks-se-servisira.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2023/12/klinicki-centar.jpg",
+      "date": "Fri, 09 Oct 2026 08:36:58 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "ПРЕМИЕРОТ МИЦКОСКИ НЕ ДОЈДЕ ВО СУД ДА СЕ СООЧИ СО ЛЕНЧЕ РИСТОСКА, ДЕНЕСКА ИМАЛ ОБВРСКИ | Сакам да кажам",
+      "description": "",
+      "url": "https://time.mk/c/e2b7a2826f/premierot-mickoski-ne-dojde-vo-sud-da-se-sooci-so-lence-ristoska-deneska-imal-obvrski.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/10/lence-ristoska-32898932.jpg",
+      "date": "Fri, 09 Oct 2026 10:46:48 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Не треба да се кратат веќе стекнатите права на работниците, вели Дурмиши за предлогот на Стопанската комора за празниците | Бизнис Вести",
+      "description": "",
+      "url": "https://time.mk/c/24bfbae2f9/ne-treba-da-se-kratat-veke-steknatite-prava-na-rabotnicite-veli-durmisi-za-predlogot-na-stopanskata-komora-za-praznicite.html",
+      "image": "https://biznisvesti.mk/wp-content/uploads/2026/10/durmisi-300x205.webp",
+      "date": "Fri, 09 Oct 2026 12:32:57 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Случај Северна Македонија: Земја изгубена во лавиринтот на сопствените блокади | CivilMedia",
+      "description": "",
+      "url": "https://time.mk/c/31c589a5ff/slucaj-severna-makedonija-zemja-izgubena-vo-lavirintot-na-sopstvenite-blokadi.html",
+      "image": "https://civilmedia.b-cdn.net/wp-content/uploads/Journey-Through-the-Labyrinth-of-the-European-Dream-CIVIL-MEDIA-750x375.jpg",
+      "date": "Fri, 09 Oct 2026 14:25:01 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "ВО ЦРНА ГОРА УАПСЕН ВЛИЈАТЕЛНИОТ РУСКИ ВОЕН БЛОГЕР РИБАР, ГО СОМНИЧАТ ЗА ОБИД ЗА ДЕСТАБИЛИЗАЦИЈА НА ЗЕМЈАТА | Сакам да кажам",
+      "description": "",
+      "url": "https://time.mk/c/396fb8e322/vo-crna-gora-uapsen-vlijatelniot-ruski-voen-bloger-ribar-go-somnicat-za-obid-za-destabilizacija-na-zemjata.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/10/Rutube341fa80ea780bd659b42e-1920x960px_2x.jpg",
+      "date": "Fri, 09 Oct 2026 12:48:58 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Серија закани за бомби во училишта во Србија, наставата прекината во повеќе градови | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/9b66b47eaf/serija-zakani-za-bombi-vo-ucilista-vo-srbija-nastavata-prekinata-vo-poveke-gradovi.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/02/Depositphotos_658782562_XL.jpg",
+      "date": "Fri, 09 Oct 2026 09:58:36 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Трамп се надеваше на Нобелова награда за мир, но признанието заврши кај поранешната комесарка на ОН | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/c0d7328c11/tramp-se-nadevase-na-nobelova-nagrada-za-mir-no-priznanieto-zavrsi-kaj-poranesnata-komesarka-na-on.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/78858/conversions/text-max.jpg",
+      "date": "Fri, 09 Oct 2026 14:30:56 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Зеленски ги обвини САД за недоволна помош по 78 загинати за два дена | Трн",
+      "description": "",
+      "url": "https://time.mk/c/37b65dca9a/zelenski-gi-obvini-sad-za-nedovolna-pomos-po-78-zaginati-za-dva-dena.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/06/zelenski.jpg",
+      "date": "Fri, 09 Oct 2026 12:04:52 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Меџити: Новиот базен во училиштето „7 Март“, инвестиција од околу 1 милион евра за децата од Чаир | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/24ffe12f6b/medziti-noviot-bazen-vo-ucilisteto-7-mart-investicija-od-okolu-1-milion-evra-za-decata-od-cair.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/img_8420.webp",
+      "date": "Fri, 09 Oct 2026 13:08:56 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Без вода дел од Општина Карпош | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/72082de8b4/bez-voda-del-od-opstina-karpos.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/07/depositphotos_390440204_xl.webp",
+      "date": "Fri, 09 Oct 2026 04:46:36 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "МВР ќе спроведе внатрешна истрага по тврдењата на две лица дека биле малтретирани од полицајци | Мета",
+      "description": "",
+      "url": "https://time.mk/c/011580d99e/mvr-ke-sprovede-vnatresna-istraga-po-tvrdenjata-na-dve-lica-deka-bile-maltretirani-od-policajci.html",
+      "image": "https://meta.mk/wp-content/uploads/2025/05/469194425_3902075940121825_6161484217543342424_n-800x450.jpg.webp",
+      "date": "Fri, 09 Oct 2026 10:48:52 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Акција на границата кај Гевгелија: Спречен влез на 40 мигранти, 15 уапсени | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/5f6c0776e6/akcija-na-granicata-kaj-gevgelija-sprecen-vlez-na-40-migranti-15-uapseni.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/80573/conversions/text-max.jpg",
+      "date": "Fri, 09 Oct 2026 11:28:46 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Со свечен настан во Лескоец одбележани 85 години од Денот на народното востание | Охрид1",
+      "description": "",
+      "url": "https://time.mk/c/3daf7249da/so-svecen-nastan-vo-leskoec-odbelezani-85-godini-od-denot-na-narodnoto-vostanie.html",
       "image": "",
-      "date": "Fri, 09 Oct 2026 07:08:56 +0000"
+      "date": "Fri, 09 Oct 2026 13:46:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Македонската политика меѓу Преспанскиот договор, спорот со Бугарија и недовршените реформи | Deutsche Welle",
+      "title": "Сушното лето повторно го намали водостојот на Дојранското Езеро | Бизнис Вести",
       "description": "",
-      "url": "https://time.mk/c/cdfcd97bed/makedonskata-politika-megju-prespanskiot-dogovor-sporot-so-bugarija-i-nedovrsenite-reformi.html",
-      "image": "https://static.dw.com/image/74183059_301.jpg",
-      "date": "Fri, 09 Oct 2026 05:14:36 +0000"
+      "url": "https://time.mk/c/f1f9151943/susnoto-leto-povtorno-go-namali-vodostojot-na-dojranskoto-ezero.html",
+      "image": "https://biznisvesti.mk/wp-content/uploads/2026/08/dojran-300x225.jpg",
+      "date": "Fri, 09 Oct 2026 12:48:58 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Левица: СДС измисли нова „работничка политика” – народот да ги субвенционира газдите, а газдите да го собираат кајмакот | 24Инфо",
+      "title": "ВО ЦРКВАТА „СВЕТИ СПАС“ ЌЕ СЕ ИЗЛОЖАТ ФОТОГРАФИИ И ДОКУМЕНТИ ЗА 80-ГОДИШНИНАТА ОД ПРЕНЕСУВАЊЕТО НА ГРОБОТ НА ГОЦЕ ДЕЛЧЕВ ВО СКОПЈЕ | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/1548ace317/levica-sds-izmisli-nova-rabotnicka-politika-narodot-da-gi-subvencionira-gazdite-a-gazdite-da-go-sobiraat-kajmakot.html",
-      "image": "https://24info.mk/wp-content/uploads/2024/11/Levica.jpg",
-      "date": "Fri, 09 Oct 2026 06:54:36 +0000"
+      "url": "https://time.mk/c/c6cb7ad81e/vo-crkvata-sveti-spas-ke-se-izlozat-fotografii-i-dokumenti-za-80-godisninata-od-prenesuvanjeto-na-grobot-na-goce-delcev-vo-skopje.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/10/arhiv-goce-delcev.jpg",
+      "date": "Fri, 09 Oct 2026 13:56:57 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Куча посао, посао куча“ | Фокус",
+      "title": "Дебито на Андреј Волкашин, „Сладоста на горчливите нешта“, со светска премиера во Талин; Филм за забранетата љубов во едно патријархално општество | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/7e07bdb19e/kuca-posao-posao-kuca.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/10/FB_IMG_1791529231904-1-585x591.jpg",
-      "date": "Fri, 09 Oct 2026 07:10:38 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Како работела лани Пошта | еМагазин",
-      "description": "",
-      "url": "https://time.mk/c/06e0a8a9f7/kako-rabotela-lani-posta.html",
-      "image": "https://emagazin.mk/wp-content/uploads/2026/07/753783466_1580963113656972_8825819048978601388_n-300x138.jpg",
-      "date": "Fri, 09 Oct 2026 07:06:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Црна Гора и Хрватска денеска ги почнуваат преговорите за отворените прашања | Независен",
-      "description": "",
-      "url": "https://time.mk/c/2bf894a268/crna-gora-i-hrvatska-deneska-gi-pocnuvaat-pregovorite-za-otvorenite-prasanja.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/03/crna-gora-eu-znaminja-1.jpg",
-      "date": "Fri, 09 Oct 2026 06:50:44 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Косово го менува законот за Специјалниот суд во Хаг: Дали осудените поранешни лидери на ОВК можат да добијат пократки казни? | Трн",
-      "description": "",
-      "url": "https://time.mk/c/2fda77fab1/kosovo-go-menuva-zakonot-za-specijalniot-sud-vo-hag-dali-osudenite-poranesni-lideri-na-ovk-mozat-da-dobijat-pokratki-kazni.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/10/kosovo-protesti-presuda.jpg",
-      "date": "Fri, 09 Oct 2026 07:00:57 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Зеленски ги обвини САД за неподготвеност да помогнат, откако во руски напади загинаа над 70 лица за два дена | Мета",
-      "description": "",
-      "url": "https://time.mk/c/fe8df2dc81/zelenski-gi-obvini-sad-za-nepodgotvenost-da-pomognat-otkako-vo-ruski-napadi-zaginaa-nad-70-lica-za-dva-dena.html",
-      "image": "https://meta.mk/wp-content/uploads/2026/02/whatsapp-image-2026-02-01-at-171621-800x450.jpeg.webp",
-      "date": "Fri, 09 Oct 2026 05:52:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Француската Влада вети ангажирање 3000 наставници, откако студентските протести не се смируваат веќе десет дена | Мета",
-      "description": "",
-      "url": "https://time.mk/c/b717307f3c/francuskata-vlada-veti-angaziranje-3000-nastavnici-otkako-studentskite-protesti-ne-se-smiruvaat-veke-deset-dena.html",
-      "image": "https://meta.mk/wp-content/uploads/2026/10/studenstki-protesti-francija-800x450.jpg.webp",
-      "date": "Fri, 09 Oct 2026 06:14:37 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "НаТочак алармира: Новиот БРТ систем ќе го згасне проектот Скопје Велоград | Трн",
-      "description": "",
-      "url": "https://time.mk/c/ad12fbe682/natocak-alarmira-noviot-brt-sistem-ke-go-zgasne-proektot-skopje-velograd.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/10/velograd.jpg",
-      "date": "Fri, 09 Oct 2026 07:04:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Делови од Карпош без вода, Лисиче и Пржино без струја | Рацин",
-      "description": "",
-      "url": "https://time.mk/c/1d81ef5148/delovi-od-karpos-bez-voda-lisice-i-przino-bez-struja.html",
-      "image": "https://racin.mk/wp-content/uploads/2025/07/voda-restrikcii-793x480.jpg?x83530",
-      "date": "Fri, 09 Oct 2026 06:36:57 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ВИДЕО: Со албанско знаме го блокираше сообраќајот – Полицијата го пронајде лицето кое„глумеше шериф“ во Скопје | Press24",
-      "description": "",
-      "url": "https://time.mk/c/0d04023b4a/video-so-albansko-zname-go-blokirase-soobrakajot-policijata-go-pronajde-liceto-koe-glumese-serif-vo-skopje.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/75985.jpg",
-      "date": "Fri, 09 Oct 2026 06:36:56 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Полицијата претресе скопјанец – Веднаш го привеле | Press24",
-      "description": "",
-      "url": "https://time.mk/c/a54a43a569/policijata-pretrese-skopjanec-vednas-go-privele.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/75976.png",
-      "date": "Fri, 09 Oct 2026 06:18:46 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Медот го нема како порано - пчеларите ја опишуваат 2026 како една од најлошите години | Скопје инфо",
-      "description": "",
-      "url": "https://time.mk/c/e64825da97/medot-go-nema-kako-porano-pcelarite-ja-opisuvaat-2026-kako-edna-od-najlosite-godini.html",
-      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/oktomvri/image-261964.jpg?itok=yzb0PCYG",
-      "date": "Thu, 08 Oct 2026 15:31:01 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "12 КИЛОМЕТРИ ОД АВТОПАТОТ ПРИЛЕП-БИТОЛА ЌЕ БИДАТ ПУШТЕНИ ВГОДИНА Наместо земјена подлога, првпат се користи технологија на дробен камен | +инфо",
-      "description": "",
-      "url": "https://time.mk/c/b4a2f0a171/12-kilometri-od-avtopatot-prilep-bitola-ke-bidat-pusteni-vgodina-namesto-zemjena-podloga-prvpat-se-koristi-tehnologija-na-droben-kamen.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2024/11/avtopat-Prilep-Bitola.jpg",
-      "date": "Thu, 08 Oct 2026 14:22:45 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ФИЛМОЛОГОТ ВЛАДИМИР АНГЕЛОВ ВО ЖИРИТО НА ФИПРЕСЦИ НА ФЕСТИВАЛОТ ВО ВАРШАВА ОД А КАТЕГОРИЈА | Екран",
-      "description": "",
-      "url": "https://time.mk/c/de756b31a0/filmologot-vladimir-angelov-vo-zirito-na-fipresci-na-festivalot-vo-varsava-od-a-kategorija.html",
-      "image": "https://ekran.mk/wp-content/uploads/2026/10/vlado-angelov-696x396.jpg",
-      "date": "Fri, 09 Oct 2026 06:26:39 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Во Битола на „Интерфест“ музички рецитал со францускиот пијанист Иг Леклер | Шеталиште",
-      "description": "",
-      "url": "https://time.mk/c/21317383c4/vo-bitola-na-interfest-muzicki-recital-so-francuskiot-pijanist-ig-lekler.html",
-      "image": "",
-      "date": "Fri, 09 Oct 2026 06:42:40 +0000"
+      "url": "https://time.mk/c/5c135f01bf/debito-na-andrej-volkasin-sladosta-na-gorclivite-nesta-so-svetska-premiera-vo-talin-film-za-zabranetata-ljubov-vo-edno-patrijarhalno-opstestvo.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/sladosta.jpg",
+      "date": "Fri, 09 Oct 2026 13:25:05 +0000"
     }
   ],
   "de": [
@@ -458,6 +458,24 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "Roku's Pro Series OLED TV Is $400 Off Right Now",
+      "description": "This 65-inch TV also comes with a free 90-day subscription to Amazon Music.",
+      "url": "https://lifehacker.com/tech/rokus-pro-series-oled-tv-deal-october-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M4FM4SWJ7KPYNCTWAG3S55SB/hero-image.jpg",
+      "date": "Fri, 09 Oct 2026 13:00:45 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Anker Portable Projector (With Google TV) Is $100 Off Right Now",
+      "description": "It's a solid pick for casual movie nights with simple plug-and-play convenience.",
+      "url": "https://lifehacker.com/tech/anker-nebula-p1i-projector-sale-october-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01KPAMYQZAHJGQ42E74YNEGJJR/hero-image.jpg",
+      "date": "Fri, 09 Oct 2026 12:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "This DeWalt Drill and Driver Combo Is Still 38% Off After Prime Day",
       "description": "Drill and drive all day with this cheap-as-chips DeWalt combo.",
       "url": "https://lifehacker.com/home/last-minute-dewalt-drill-and-driver-combo-deal-october-prime-day-2026?utm_medium=RSS",
@@ -619,111 +637,93 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "Apple's Latest Mac Mini Is Still at Its Lowest Price Ever After October Prime Day",
-      "description": "Apple's M6 Mac mini is up to $150 off.",
-      "url": "https://lifehacker.com/tech/apple-mac-mini-deal-last-chance-october-prime-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M4C800BBJ6RHN0S67Y99CH2J/hero-image.png",
-      "date": "Thu, 08 Oct 2026 15:05:35 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "The Best Apple Watch for Most People Is Still on Sale After October Prime Day",
-      "description": "You can buy an Apple Watch SE for as little as $219 right now.",
-      "url": "https://lifehacker.com/tech/last-minute-apple-watch-se-3-deal-october-prime-day-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M49BJ1S7CBNXDSY1ATW1D1J4/hero-image.png",
-      "date": "Thu, 08 Oct 2026 15:02:58 +0000"
+      "source": "PCWorld",
+      "title": "Is your graphics card getting too hot? This tip will boost its performance",
+      "description": "Graphics cards don’t simply die of old age — they usually suffocate due to neglect. The biggest enemy is dust, which settles on the cooling fins like an insulating layer and sabotages the cooling performance. However, before you take any action, you should carry out a professional diagnosis. Use the free tool Hwinfo for this. Launch the program in ‘Sensors only’ mode and look for the ‘GPU Hotspot Temperature’ reading under your graphics card. This reading represents the hottest spot directly on ",
+      "url": "https://www.pcworld.com/article/3244556/is-your-graphics-card-getting-too-hot-this-tip-will-boost-its-performance.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3244556-0-08238600-1791556218-nvidia7.jpg?quality=50&strip=all",
+      "date": "Fri, 09 Oct 2026 14:30:00 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Samsung’s 34-inch ultrawide monitor is 50% off, and it’s also a dock",
-      "description": "NOW 50% OFF Samsung ViewFinity S65TC Monitor View Deal Tired of feeling cramped on your cheapo 1080p monitor? It’s likely affecting your productivity, which means it’s time to upgrade—and if you hop on it now, you can save a lot of cash. Amazon is selling the Samsung ViewFinity S65TC for 50% off , bringing it down to just $399.99. Yup, Prime Day ended yesterday, but some deals still abound. Going from your tiny 21- or 24-incher to this 34-inch beauty will redefine how much you can get done and h",
-      "url": "https://www.pcworld.com/article/3256290/samsungs-34-inch-ultrawide-monitor-is-50-percent-off-and-its-also-a-dock.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3256290-0-79703900-1791477625-Samsung-ViewFinity-S65TC-productivity-monitor.jpg?quality=50&strip=all",
-      "date": "Thu, 08 Oct 2026 16:39:06 +0000"
+      "title": "Sharing Microsoft 365 with 3+ people? Your OneDrive is shrinking",
+      "description": "Yesterday, Microsoft dropped the amount of OneDrive cloud storage included with Microsoft 365 Family, Premium, and Pro. The change only affects new customers right now, but existing customers will get hit with the reduction at their first subscription renewal on or after May 2nd, 2027. Prior to this change, Microsoft 365 Family, Premium, and Pro provided 1TB of OneDrive storage per user, with all plans able to be shared with up to 5 other users (for a total of 6TB per account). After this change",
+      "url": "https://www.pcworld.com/article/3257337/sharing-microsoft-365-with-3-people-your-onedrive-is-shrinking.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3257337-0-17078300-1791555955-new-Microsoft-Office-365-app-icon.png",
+      "date": "Fri, 09 Oct 2026 14:25:46 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "I’m unreasonably excited about Googlebooks getting custom ROMs",
-      "description": "When I went to Google’s presentation on its new Googlebooks , it was an act of convenience. I happen to be near New York City, so I’m used to schlepping my way onto a bus for media events. As the Performance desk lead, I really don’t have any personal interest in Google’s successor to its Chromebook venture, especially since it’s packed with “AI.” So I was there mostly to support our AI expert, Ben Patterson . But one bit of news caught my attention: You get access to the bootloader. A brave new",
-      "url": "https://www.pcworld.com/article/3256355/custom-roms-have-me-excited-about-googlebooks.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3256355-0-78928700-1791487845-image_e2471d.png",
-      "date": "Thu, 08 Oct 2026 16:30:24 +0000"
+      "title": "Recoverit V15: A Closer Look at Data Recovery for Creators",
+      "description": "Lost Photos or Videos? Recover your files with Wondershare Recoverit V15. Recover Files From treasured family photos to essential client footage, losing files can be devastating. Whether it’s down to a corrupted SD card, sudden power loss, or accidental deletion, recovering as much of that data as possible is critical. Wondershare Recoverit V15 is built to cover thousands of loss scenarios, across over a million different storage devices, giving you the best chance of salvaging that data. With o",
+      "url": "https://www.pcworld.com/article/3257351/recoverit-v15-a-closer-look-at-data-recovery-for-creators.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3257351-0-03063100-1791555221-Wondershare-Recoverit_be2f8e.png",
+      "date": "Fri, 09 Oct 2026 14:13:35 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Best antivirus for Windows PC in 2026: 7 apps to keep your PC safe",
-      "description": "You need antivirus software. Because of AI , online threats keep getting more sophisticated—more and more AI-fueled attacks pop up with each passing week. Even the tech-savvy and cautious can get tricked into exposing themselves to malware, spyware, ransomware, or a phishing attack. This guide compares the best Windows antivirus suites, including when Windows Security is enough and when extra privacy, parental, or identity tools make a paid suite worth it. Make sure you understand how all our pi",
-      "url": "https://www.pcworld.com/article/407277/best-antivirus-for-windows-pc.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/407277-0-19864500-1791475229-IMG_3733-sz.jpg?quality=50&strip=all",
-      "date": "Thu, 08 Oct 2026 16:00:00 +0000"
+      "title": "Acer Googlebook 14 review: The AI isn’t the best part",
+      "description": "At a glance Expert's Rating Pros Gorgeous OLED display Lightweight, premium design Excellent battery life Cons AI features aren’t particularly useful Touchpad attracts fingerprints Our Verdict The Acer Googlebook 14 is a great premium laptop, but it’s not going to be everyone’s cup of tea. It’s only worth considering if you want a lightweight, high-end convertible laptop and you’re already deeply enmeshed in Google’s/Android’s ecosystem. Price When Reviewed This value will show the geolocated pr",
+      "url": "https://www.pcworld.com/article/3255332/acer-googlebook-review.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3255332-0-89342100-1791551493-Untitled-design-34-7.jpg?quality=50&strip=all",
+      "date": "Fri, 09 Oct 2026 13:00:00 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Nvidia’s first RTX Spark laptops cost up to $7,000. Here’s what you get",
-      "description": "There’s a brand new platform for Windows-powered laptops arriving soon, with a familiar name and some shockingly high prices. If you’ve been following the high-end hardware news in 2026… then I’m sorry. But possibly the most exciting thing to land in some time is Nvidia’s Spark RTX, an Arm-based chip that’s now going into consumer laptops, headlined by the Surface Laptop Ultra . “Consumer” gets a bit of an asterisk there. While these Arm-based laptops are at least somewhat similar to Qualcomm-po",
-      "url": "https://www.pcworld.com/article/3256085/here-are-all-the-rtx-spark-laptops-available-at-launch-going-up-to-7000.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3256085-0-46145100-1791476569-RTX-Spark-notebooks.jpg?quality=50&strip=all",
-      "date": "Thu, 08 Oct 2026 15:27:29 +0000"
+      "title": "Worried about letting AI loose in your Gmail? You should be",
+      "description": "Why in the world would you ever give ChatGPT access to your email? It’s a reasonable question, given everything we’re hearing about rogue AI agents, not to mention the privacy implications of unleashing AI in your inbox. Then again, one of the best ways to appreciate the power of a personal AI assistant is to let it triage your unruly inbox , culling the spam and the marketing blasts while highlighting the messages that truly matter. An agent with access to your messages can also give you a head",
+      "url": "https://www.pcworld.com/article/3256352/worried-about-letting-ai-loose-in-your-gmail-you-should-be.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3256352-0-93938900-1791547225-Gmail-on-iPhone.jpeg?quality=50&strip=all",
+      "date": "Fri, 09 Oct 2026 12:00:00 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "New Outlook stores your settings in a hidden file. You should back it up",
-      "description": "For the past couple of years, Microsoft has made a concerted effort to move users from the classic Outlook app for Windows 11 to “new” Outlook, a web-based app. If you’re using new Outlook, you should take advantage of the ability to back up your account settings. These settings are stored in the ‘UserSettings.json’ file, which you can find in the ‘C:\\Users\\[username]\\AppData\\Local\\Microsoft\\Olk’ folder. If you have set up multiple accounts in Outlook, you will find separate configuration files ",
-      "url": "https://www.pcworld.com/article/3242356/new-outlook-stores-your-settings-in-a-hidden-file-you-should-back-it-up.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3242356-0-56990400-1791471624-outlook5.jpg?quality=50&strip=all",
-      "date": "Thu, 08 Oct 2026 15:00:00 +0000"
+      "title": "Welcome to the era of the used PC",
+      "description": "I’ve never bought a PC or component second-hand, but that may change if this RAM shortage doesn’t let up soon. I started thinking about the issue after listening to this week’s episode of The Full Nerd , which features some smart conversation about the consequences of purchasing used components as well as the best way to safely find and buy them. Welcome to The Full Nerd newsletter—your weekly dose of hardware talk from the enthusiasts at PCWorld. Missed the surprising topics on our YouTube show",
+      "url": "https://www.pcworld.com/article/3255156/welcome-to-the-era-of-the-used-pc.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3255156-0-73743100-1791543626-Used-PC-components-hardware-e-waste-in-a-dump-recycle.jpg?quality=50&strip=all",
+      "date": "Fri, 09 Oct 2026 11:00:00 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Windows Search is becoming your PC’s new AI-powered control center",
-      "description": "For years — decades, really — the entry point inside Windows has been the Start menu. But from what Microsoft showed as part of its AI vision for Windows 11 this week, Start might be on its way out. Instead, Windows Search may be the app you connect with first when you want to get things done. Yes, Windows Search, the humble search box buried in your taskbar and at the top of the Start menu. Microsoft plans to embed even more functions inside it, including Actions, essentially mini-widgets for c",
-      "url": "https://www.pcworld.com/article/3255309/windows-search-is-becoming-your-pcs-new-ai-powered-control-center.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3255309-0-14132000-1791468498-Windows-Search-bar-edit.png",
-      "date": "Thu, 08 Oct 2026 14:06:49 +0000"
+      "title": "I use this free sleep tool to stop my mind from racing at night",
+      "description": "I don’t know about you, but there’ve been countless times that I go to bed exhausted only for my brain to suddenly decide it’s the perfect time to replay an awkward conversation from five years ago. If that sounds familiar, then I recommend giving the site Fall Asleep a try. It’s a free website with a small collection of exercises aimed at helping you quiet your thoughts so you can drift off to sleep. Shutting your brain off at night can be easier said than done, especially when your whole life ",
+      "url": "https://www.pcworld.com/article/3242716/i-use-this-free-sleep-tool-to-stop-my-mind-from-racing-at-night.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3242716-0-87053700-1791541850-Fall-Asleep.png",
+      "date": "Fri, 09 Oct 2026 10:30:00 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "I used Claude to find the online accounts I’d forgotten about",
-      "description": "When you’ve reviewed as many tech products as I have, you wind up with dozens of abandoned online accounts, most of them created and forgotten the moment I was done with my testing. Over the years, I’d started to wonder: How many of those accounts are still floating around, idle but still active? Good question, and I’m sure I’m not the only one curious about the online accounts they’ve left behind. A good method for tracking down forgotten online accounts is to scour your inbox for signup confir",
-      "url": "https://www.pcworld.com/article/3253645/i-used-claude-to-find-the-online-accounts-id-forgotten-about.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3253645-0-76119300-1791468018-Claude-lost-accounts-search.jpg?quality=50&strip=all",
-      "date": "Thu, 08 Oct 2026 14:00:00 +0000"
+      "title": "RemoveMe Removes Your Personal Data From Broker Sites – and Keeps It Off",
+      "description": "Find out what data brokers know about you RemoveMe offers a free 30-second privacy scan. Scan My Data The best way to protect yourself against online scammers and hackers is to remain vigilant. But even if you exercise best practices in password management and web browsing, there’s no stopping the masses of personal information data brokers can build up on you over time. From the adverts you see, to the websites you visit, to the devices you browse with, people search sites can generate detailed",
+      "url": "https://www.pcworld.com/article/3256005/removeme-removes-your-personal-data-from-broker-sites-and-keeps-it-off.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3256005-0-65568400-1791537913-RemoveMe-main-image.png",
+      "date": "Fri, 09 Oct 2026 09:25:06 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "What does Amazon know about you? The answer is buried in your account info",
-      "description": "We all know companies profile us. But understanding that abstractly is one thing. Reading the words “has flat buttocks” in your Amazon account is very much another. If you’re not on Threads, this discovery is one of the latest viral posts . A woman stumbled upon this assumption while in her Amazon settings, buried among other, less inflammatory ones within the Your Shopping preferences section. Of course, having read that post myself while doomscrolling before bed, I resolved to look at my own p",
-      "url": "https://www.pcworld.com/article/3255207/what-does-amazon-know-about-you-the-answer-is-buried-in-your-account-info.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3255207-0-47986200-1791467591-amazon-box-pixabay-josemiguels.jpg?quality=50&strip=all",
-      "date": "Thu, 08 Oct 2026 13:53:02 +0000"
+      "title": "Replace Acrobat with this PDF editor that has no monthly fee, just $30 through October 11",
+      "description": "TL;DR: PDF Agile edits, converts, and signs PDFs, and a lifetime subscription is on sale for $29.97 (reg. $119) through October 11. Most PDF editors charge a monthly subscription, even if you only use them a few times a year. PDF Agile Premium is an all-in-one PDF editor, converter, and viewer for Windows and Mac that doesn’t require a monthly fee. Instead, you can get a lifetime subscription on sale for just $29.97 (reg. $119). PDF Agile works a lot like Adobe Acrobat. You can edit text inside ",
+      "url": "https://www.pcworld.com/article/3256327/replace-acrobat-with-this-pdf-editor-that-has-no-monthly-fee-just-30-through-october-11.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3256327-0-77573700-1791532868-PDF-Agile.jpg?quality=50&strip=all",
+      "date": "Fri, 09 Oct 2026 08:00:00 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Is the new Fire TV Stick 4K really faster? It depends",
-      "description": "Last week, Amazon launched a new Fire TV Stick 4K with a bold claim: It’s nearly 20 to 40 percent faster, the company says , than “a similarly priced 4K streaming stick from another leading brand.” Amazon won’t name the competitor, but in my own tests, the advantage over comparably priced streamers isn’t so clear-cut. What I tested Amazon’s own comparison video is impossible to test because it doesn’t show real-world results. Instead, it’s just a mock-up “for illustrative purposes,” based on Ama",
-      "url": "https://www.pcworld.com/article/3255305/is-the-new-fire-tv-stick-4k-really-faster-it-depends.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3255305-0-64986200-1791464422-firetvstick4k.jpg?quality=50&strip=all",
-      "date": "Thu, 08 Oct 2026 13:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
-      "description": "If you’re looking for an affordable Windows machine under $500 , a blazing fast gaming beast for those intense matches, or a portable 2-in-1 for school or work, you’ve got plenty of great choices right now. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 80 laptops every year. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches",
-      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/550968-0-43974600-1791461383-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
-      "date": "Thu, 08 Oct 2026 12:09:25 +0000"
+      "title": "Use this promo code to get an $810 1TB cloud storage lifetime subscription for $130",
+      "description": "TL;DR: Get 1TB of private cloud storage with a Koofr lifetime subscription on sale for $129.99 through October 11 with code KOOFR. Most cloud storage platforms charge you a monthly fee that seems cheap until you start adding it up year over year over year. If you want a cheaper alternative, Koofr has a 1TB encrypted cloud storage lifetime subscription on sale for $129.99 (reg. $810). This sale ends soon. A full terabyte is enough room to account for years of photos, dozens of videos, a whole lib",
+      "url": "https://www.pcworld.com/article/3255961/use-this-promo-code-to-get-an-810-1tb-cloud-storage-lifetime-subscription-for-130.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3255961-0-23181700-1791532822-Koofr_dfcab1.jpg?quality=50&strip=all",
+      "date": "Fri, 09 Oct 2026 08:00:00 +0000"
     }
   ],
   "starwars": [
@@ -901,6 +901,15 @@
     {
       "category": "starwars",
       "source": "Jedi News",
+      "title": "Star Wars Splash Page #523: Holocene",
+      "description": "Issue 523 of Star Wars Splash Page podcast hits the shelves. The post Star Wars Splash Page #523: Holocene appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/star-wars-splash-page-523-holocene/",
+      "image": "",
+      "date": "Fri, 09 Oct 2026 04:23:33 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
       "title": "Discover an Updated Hilt Theme and New Lightsaber Upgrades at Savi’s Workshop",
       "description": "An updated “Protection and Defense” hilt theme awaits new builders at Disneyland and Walt Disney World's Savi’s Workshop, with all new lightsabers featuring new thermal cutting effects, deflection effects, upgraded audio and a smoother blade activation. The post Discover an Updated Hilt Theme and New Lightsaber Upgrades at Savi’s Workshop appeared first on Jedi News .",
       "url": "https://www.jedinews.com/collecting/articles/discover-an-updated-hilt-theme-and-new-lightsaber-upgrades-at-savis-workshop/",
@@ -987,18 +996,18 @@
       "url": "https://www.jedinews.com/literature/articles/nycc-2026-thrawn-returns-in-an-untold-story-from-dave-filoni/",
       "image": "https://www.jedinews.com/wp-content/uploads/2026/10/nycc-2026-lucasfilm-publishing-reveals-sw-ahsoka-escape-Featured-Oct26-300x201.jpg",
       "date": "Wed, 07 Oct 2026 22:32:02 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Disney Droid Factory Holiday 4-Pack Revealed",
-      "description": "A new Disney Droid Factory Holiday 4-Pack has been revealed including previously released astromechs of R5-D33R from 2021, R6-SN0 from 2022, R8-H23 from 2023 and R4-TR3 from 2024, available to purchase from Disney Store on October 26th at 8am PT. The post Disney Droid Factory Holiday 4-Pack Revealed appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/collecting/articles/disney-droid-factory-holiday-4-pack-revealed/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/Disney-Droid-Factory-Holiday-4-Pack-Oct26-300x201.jpg",
-      "date": "Wed, 07 Oct 2026 22:00:24 +0000"
     }
   ],
   "youtube": [
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Was genau war eigentlich die chipTAN ?! #informatik #chip #banking #cybersecurity #lernen",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/0Sw0YX75OlM",
+      "image": "https://i.ytimg.com/vi/0Sw0YX75OlM/hqdefault.jpg",
+      "date": "2026-10-09T13:30:13+00:00"
+    },
     {
       "category": "youtube",
       "source": "Hood Informatik",
@@ -1079,15 +1088,6 @@
       "url": "https://www.youtube.com/shorts/tGknnPrqIno",
       "image": "https://i.ytimg.com/vi/tGknnPrqIno/hqdefault.jpg",
       "date": "2026-09-30T10:15:13+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Warum ein JWT ohne Signaturprüfung nichts wert ist ... #informatik #code #cybersecurity #microsoft",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/Tr01Ufk_VAo",
-      "image": "https://i.ytimg.com/vi/Tr01Ufk_VAo/hqdefault.jpg",
-      "date": "2026-09-28T16:15:39+00:00"
     },
     {
       "category": "youtube",
