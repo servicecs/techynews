@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T22:18:10.227391+00:00",
+  "updated": "2026-10-12T01:34:50.205016+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -130,20 +130,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Штабот во Куманово бара деблокирање на депонијата „Краста“ и непречено одлагање на сметот | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/c87840f157/stabot-vo-kumanovo-bara-deblokiranje-na-deponijata-krasta-i-nepreceno-odlaganje-na-smetot.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/86138/conversions/text-max.jpg",
-      "date": "Sun, 11 Oct 2026 14:20:57 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
       "title": "Антифашизмот обединува – Левица и независните опозициски сили заедно положија цвеќе за 11 октомври во Куманово | Антропол",
       "description": "",
       "url": "https://time.mk/c/f5a8898853/antifasizmot-obedinuva-levica-i-nezavisnite-opoziciski-sili-zaedno-polozija-cveke-za-11-oktomvri-vo-kumanovo.html",
       "image": "https://antropol.mk/wp-content/uploads/2026/10/kumanovo.webp",
       "date": "Sun, 11 Oct 2026 14:41:00 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Штабот во Куманово бара деблокирање на депонијата „Краста“ и непречено одлагање на сметот | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/c87840f157/stabot-vo-kumanovo-bara-deblokiranje-na-deponijata-krasta-i-nepreceno-odlaganje-na-smetot.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/86138/conversions/text-max.jpg",
+      "date": "Sun, 11 Oct 2026 14:20:57 +0000"
     },
     {
       "category": "mkd",
@@ -175,11 +175,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Голема полициска акција во Турција: 195 луѓе се осомничени за рекетарство и за трговија со оружје | Слободен Печат",
+      "title": "Нов град за 25.000 жители никнува веднаш до Требиње | Независен",
       "description": "",
-      "url": "https://time.mk/c/93967187d3/golema-policiska-akcija-vo-turcija-195-lugje-se-osomniceni-za-reketarstvo-i-za-trgovija-so-oruzje.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/02/policija-turcija-300x164.jpg",
-      "date": "Sun, 11 Oct 2026 16:40:49 +0000"
+      "url": "https://time.mk/c/677e5280a3/nov-grad-za-25-000-ziteli-niknuva-vednas-do-trebinje.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/novo-trebinje.png",
+      "date": "Sun, 11 Oct 2026 19:34:37 +0000"
     },
     {
       "category": "mkd",
@@ -195,7 +195,7 @@
       "source": "Time.mk - All",
       "title": "ВИДЕО | Нема ништо од „енергетското примирје“ на Трамп: Русија удри врз повеќе украински централи, погоди и станбен блок во Харков | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/52e14d5207/video-nema-nisto-od-energetskoto-primirje-na-tramp-rusija-udri-vrz-poveke-ukrainski-centrali-pogodi-i-stanben-blok-vo-harkov.html",
+      "url": "https://time.mk/c/35688bdb37/video-nema-nisto-od-energetskoto-primirje-na-tramp-rusija-udri-vrz-poveke-ukrainski-centrali-pogodi-i-stanben-blok-vo-harkov.html",
       "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/termocentrala-harkov-napad-300x191.jpg",
       "date": "Sun, 11 Oct 2026 19:41:06 +0000"
     },
@@ -265,11 +265,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Андоновски на доделувањето на „11 Октомври“: „Ништо не е завршено“ | 4NEWS",
+      "title": "„Македонско име нема да загине“ - приказна зад легендарната песна „А бре, Македонче“ | Скопје инфо",
       "description": "",
-      "url": "https://time.mk/c/503bcca777/andonovski-na-dodeluvanjeto-na-11-oktomvri-nisto-ne-e-zavrseno.html",
-      "image": "https://4news.mk/wp-content/uploads/2026/10/venko-andonovski-1024x678.avif",
-      "date": "Sun, 11 Oct 2026 15:22:46 +0000"
+      "url": "https://time.mk/c/409b5fc559/makedonsko-ime-nema-da-zagine-prikazna-zad-legendarnata-pesna-a-bre-makedonce.html",
+      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/oktomvri/image-262093.jpeg?itok=gstCzy5b",
+      "date": "Sun, 11 Oct 2026 15:01:07 +0000"
     }
   ],
   "de": [
@@ -730,6 +730,15 @@
     {
       "category": "starwars",
       "source": "Star Wars News Net",
+      "title": "This Week, In a Galaxy Far, Far Away: ‘Star Wars’ Publishing Announcements New York Comic-Con; Also, Where Is Taika?",
+      "description": "Happy Sunday, and welcome to a new edition of “This Week, In a Galaxy Far, Far Away“. It’s been a The post This Week, In a Galaxy Far, Far Away: ‘Star Wars’ Publishing Announcements New York Comic-Con; Also, Where Is Taika? appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/10/this-week-in-a-galaxy-far-far-away-star-wars-publishing-announcements-new-york-comic-con-also-where-is-taika.html",
+      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/10/Vader_InfinityGauntlet_cropped.jpg",
+      "date": "Sun, 11 Oct 2026 23:00:41 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
       "title": "UPDATE: Every New ‘Star Wars’ Title Announced During Lucasfilm Publishing Panels at NYCC",
       "description": "UPDATE: During Sunday’s NYCC Star Wars comics panel with Mad Cave Studios, a couple of new titles were announced. The post UPDATE: Every New ‘Star Wars’ Title Announced During Lucasfilm Publishing Panels at NYCC appeared first on Star Wars News Net .",
       "url": "https://www.starwarsnewsnet.com/2026/10/update-every-new-star-wars-title-announced-during-lucasfilm-publishing-panels-nycc.html",
@@ -798,15 +807,6 @@
       "url": "https://www.starwarsnewsnet.com/2026/10/faster-than-the-millennium-falcon-under-1-hour-payout-canadian-casinos-hosting-star-wars-slots.html",
       "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2018/08/Canto-Bight.png",
       "date": "Fri, 09 Oct 2026 17:10:30 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars News Net",
-      "title": "‘Star Wars: Ahsoka’ Tie-In Comic Revealed With an Original Story Penned by Dave Filoni",
-      "description": "In an official post on StarWars.com, Lucasfilm Publishing has announced a new tie-in comic for Star Wars: Ahsoka. Focusing on Ezra The post ‘Star Wars: Ahsoka’ Tie-In Comic Revealed With an Original Story Penned by Dave Filoni appeared first on Star Wars News Net .",
-      "url": "https://www.starwarsnewsnet.com/2026/10/star-wars-ahsoka-tie-in-comic-revealed-with-an-original-story-penned-by-dave-filoni.html",
-      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/10/Star-Wars-Ahsoka-Escape-From-Thrawn-Cover-Banner-e1791385189448.jpeg",
-      "date": "Wed, 07 Oct 2026 15:09:09 +0000"
     },
     {
       "category": "starwars",
@@ -901,6 +901,24 @@
     {
       "category": "starwars",
       "source": "Jedi News",
+      "title": "NYCC 2026 Hasbro Star Wars Reveals for Vintage Collection and Black Series",
+      "description": "The Hasbro Star Wars team took part in Hasbro's wider brand panel at NYCC earlier today with three new reveals in the Black Series as Saesee Tiin, Agen Kolar and Zam Wesell, and a new Vintage Collection 3-pack inspired by season 2 of The Mandalorian. The post NYCC 2026 Hasbro Star Wars Reveals for Vintage Collection and Black Series appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/collecting/articles/nycc-2026-hasbro-star-wars-reveals-for-vintage-collection-and-black-series/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/Hasbro-NYCC-2026-Reveals-Oct26-300x201.jpg",
+      "date": "Sun, 11 Oct 2026 22:38:58 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Coffee With Kenobi #865: Star Wars Icons Vader Author Anthony Breznican",
+      "description": "Join Dan Zehr and co for episode 865 of Coffee With Kenobi. The post Coffee With Kenobi #865: Star Wars Icons Vader Author Anthony Breznican appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/coffee-with-kenobi-865-star-wars-icons-vader-author-anthony-breznican/",
+      "image": "",
+      "date": "Sun, 11 Oct 2026 17:45:44 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
       "title": "Tarkin’s Top Shelf #467: THE DEAD SPEAK! Anakin Has a Conversation with Rey",
       "description": "Time to revisit Tarkin's Top Shelf with episode 467 discussing all things Star Wars. The post Tarkin’s Top Shelf #467: THE DEAD SPEAK! Anakin Has a Conversation with Rey appeared first on Jedi News .",
       "url": "https://www.jedinews.com/podcasts/articles/tarkins-top-shelf-467-the-dead-speak-anakin-has-a-conversation-with-rey/",
@@ -978,296 +996,7 @@
       "url": "https://www.jedinews.com/podcasts/articles/podcast-stardust-1095-shawn-levy-moves-21-laps-entertainment-to-disney-star-wars-news/",
       "image": "https://www.jedinews.com/wp-content/uploads/2020/05/Podcast-Stardust-300x201.jpg",
       "date": "Sat, 10 Oct 2026 09:45:36 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Star Wars Comic Previews: October 14, 2026",
-      "description": "An early look inside the pages of the Marvel Comics and Dark Horse Comics Star Wars titles for release on October 14, 2026. The post Star Wars Comic Previews: October 14, 2026 appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/literature/articles/star-wars-comic-previews-october-14-2026/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/R1CB1-FI-300x201.jpg",
-      "date": "Sat, 10 Oct 2026 09:01:52 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Star Wars: Unlimited Homeworlds Available Now",
-      "description": "Asmodee have launched the ninth Star Wars: Unlimited deck, Homeworlds, in its ever-expanding series, placing a spotlight on alien creatures and the invading armies that threaten them with Chewbacca and Grand Moff Tarkin featuring as the new deck leaders. The post Star Wars: Unlimited Homeworlds Available Now appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/collecting/articles/star-wars-unlimited-homeworlds-available-now/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/Star-Wars-Unlimited-Homeworlds-Oct26-300x201.jpg",
-      "date": "Sat, 10 Oct 2026 07:28:23 +0000"
     }
   ],
-  "youtube": [
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Was genau macht eigentlich AnyPS5 ?! #informatik #code #playstation #game #programming",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/DzSnqtFYpm4",
-      "image": "https://i.ytimg.com/vi/DzSnqtFYpm4/hqdefault.jpg",
-      "date": "2026-10-11T17:00:25+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Wird CODE jetzt wertlos ?!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=l5SbBoauUNE",
-      "image": "https://i.ytimg.com/vi/l5SbBoauUNE/hqdefault.jpg",
-      "date": "2026-10-11T14:22:29+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Wie funktioniert paralleles editieren in einem Dokument mit mehreren Nutzern ?!",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/wSsIYKE_Zog",
-      "image": "https://i.ytimg.com/vi/wSsIYKE_Zog/hqdefault.jpg",
-      "date": "2026-10-10T16:15:28+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Was genau war eigentlich die chipTAN ?! #informatik #chip #banking #cybersecurity #lernen",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/0Sw0YX75OlM",
-      "image": "https://i.ytimg.com/vi/0Sw0YX75OlM/hqdefault.jpg",
-      "date": "2026-10-09T13:30:13+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Alexa via Laser fernsteuern ?! #informatik #smarthome #alexa #siri #google #cybersecurity",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/9b112G2DG7U",
-      "image": "https://i.ytimg.com/vi/9b112G2DG7U/hqdefault.jpg",
-      "date": "2026-10-08T16:30:33+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Warum Grafikkarten wichtiger für KI sind als CPUs. #informatik #hardware #cpu #gpu #llm",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/NxgExgjdAHo",
-      "image": "https://i.ytimg.com/vi/NxgExgjdAHo/hqdefault.jpg",
-      "date": "2026-10-07T16:00:04+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Eine Kamera, 50k Autos und Software von 2017... Wie sicher ist Flock ?!",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/olowqm52KjI",
-      "image": "https://i.ytimg.com/vi/olowqm52KjI/hqdefault.jpg",
-      "date": "2026-10-06T10:15:18+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Kann man einer KI beibringen, deine Daten zu vergessen? #informatik #machinelearning",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/eY9t7zexf6I",
-      "image": "https://i.ytimg.com/vi/eY9t7zexf6I/hqdefault.jpg",
-      "date": "2026-10-05T16:00:32+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Eine neue Schwachstelle in KVM und was das bedeutet#informatik #cybersecurity #linux #news",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/Jz2o-x2Dbz4",
-      "image": "https://i.ytimg.com/vi/Jz2o-x2Dbz4/hqdefault.jpg",
-      "date": "2026-10-04T16:00:32+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Das Internet scrapen ist Innovation. PewDiePie, der OpenAI scraped, ist ein Verstoß....",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/mDOq4BeyyQo",
-      "image": "https://i.ytimg.com/vi/mDOq4BeyyQo/hqdefault.jpg",
-      "date": "2026-10-03T16:53:50+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Set Off Alarms in Abandoned Paper Mill",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=_2m_nAVaYSg",
-      "image": "https://i.ytimg.com/vi/_2m_nAVaYSg/hqdefault.jpg",
-      "date": "2026-09-30T17:00:15+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Exploring The Last Coal Power Plant in Connecticut Bridgeport Harbor Station",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=CR84XRBKBzs",
-      "image": "https://i.ytimg.com/vi/CR84XRBKBzs/hqdefault.jpg",
-      "date": "2026-08-27T17:00:39+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Rocketdyne Santa Susana Field Laboratory Abandoned America Space Race (1948)",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=0lka-0REQrQ",
-      "image": "https://i.ytimg.com/vi/0lka-0REQrQ/hqdefault.jpg",
-      "date": "2026-04-23T17:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Mall Westfield Promenade Demolition AMC Seats And Screens Left Behind",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=UnG29VothuQ",
-      "image": "https://i.ytimg.com/vi/UnG29VothuQ/hqdefault.jpg",
-      "date": "2026-03-27T21:09:35+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Mall Westfield Promenade Demolition Fly by In And Out",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=fDnOH8ZsfTg",
-      "image": "https://i.ytimg.com/vi/fDnOH8ZsfTg/hqdefault.jpg",
-      "date": "2026-03-27T20:40:08+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "AMC Westfield Promenade Mall Raw Demolition Drone Footage",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/5iA5R3Jq4g0",
-      "image": "https://i.ytimg.com/vi/5iA5R3Jq4g0/hqdefault.jpg",
-      "date": "2026-03-27T18:03:29+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Mall Westfield Promenade Demolition AMC Coming Down First!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=SAxjFGjTiHQ",
-      "image": "https://i.ytimg.com/vi/SAxjFGjTiHQ/hqdefault.jpg",
-      "date": "2026-03-23T17:42:38+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Beautiful Art Deco Theater",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=ccfU0LSmkj8",
-      "image": "https://i.ytimg.com/vi/ccfU0LSmkj8/hqdefault.jpg",
-      "date": "2026-03-11T20:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Decommissioned Power Station #synthwave #synth #retrowave #abandonedplaces",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/mOUbNSMoBJs",
-      "image": "https://i.ytimg.com/vi/mOUbNSMoBJs/hqdefault.jpg",
-      "date": "2025-06-17T17:55:51+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Wheel of Misfortune Three Kids Mine Demolition",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=VXRselqoN-8",
-      "image": "https://i.ytimg.com/vi/VXRselqoN-8/hqdefault.jpg",
-      "date": "2025-06-17T17:45:42+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Backup & Play Xbox 360 Games on a Modded Xbox 360 - Multi-Disc, DLC, XBLA & More!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=KYOZR0zotSc",
-      "image": "https://i.ytimg.com/vi/KYOZR0zotSc/hqdefault.jpg",
-      "date": "2026-10-10T17:00:36+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Softmod the Xbox 360 - Peer Pressure Beginner Setup for Homebrew, Backups, and More!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=G8ceM_xXlO8",
-      "image": "https://i.ytimg.com/vi/G8ceM_xXlO8/hqdefault.jpg",
-      "date": "2026-10-07T19:00:34+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Bad Storage Unauthenticated: Use Any HDD or SSD on Bad Update for Xbox 360!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=svNvWiJAjow",
-      "image": "https://i.ytimg.com/vi/svNvWiJAjow/hqdefault.jpg",
-      "date": "2026-10-03T17:00:02+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Mario's Minute 105 - Wiping Old Drives and XBOX's Disc to Digital Program",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=C0pBgwThC68",
-      "image": "https://i.ytimg.com/vi/C0pBgwThC68/hqdefault.jpg",
-      "date": "2026-09-30T17:00:10+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "AutoDNS: A Useful Network Safety Plugin for Bad Update & ABadAvatar Consoles",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=dgX6KUQy4jk",
-      "image": "https://i.ytimg.com/vi/dgX6KUQy4jk/hqdefault.jpg",
-      "date": "2026-09-26T17:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "PS5 Hypervisor Drama, Xbox 360 Softmod Details Revealed, Switch 2 Game Binary Dumped - ModChat 148",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=eMTjE6NIAAQ",
-      "image": "https://i.ytimg.com/vi/eMTjE6NIAAQ/hqdefault.jpg",
-      "date": "2026-09-23T17:00:08+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "XeUnshackle Max: Auto-Start, Custom Boot Animations, and More for Bad Update or ABadAvatar!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=P2hOdoLzQ38",
-      "image": "https://i.ytimg.com/vi/P2hOdoLzQ38/hqdefault.jpg",
-      "date": "2026-09-19T17:00:35+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Run ABadAvatar from an Internal Drive - ABadAvatar HDD Setup & Transfer",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=seOPwVF3YEM",
-      "image": "https://i.ytimg.com/vi/seOPwVF3YEM/hqdefault.jpg",
-      "date": "2026-09-12T17:00:38+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Enable Aurora's Hidden Splash Screen on a Modded Xbox 360",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/8JwsEdKQLz4",
-      "image": "https://i.ytimg.com/vi/8JwsEdKQLz4/hqdefault.jpg",
-      "date": "2026-09-09T17:00:30+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "ABadAvatar 1.3: Instant Bad Update on Boot for Xbox 360! - Upgrade & Usage Guide",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=nchLv_yS5wI",
-      "image": "https://i.ytimg.com/vi/nchLv_yS5wI/hqdefault.jpg",
-      "date": "2026-09-04T17:00:27+00:00"
-    }
-  ]
+  "youtube": []
 }
