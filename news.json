@@ -1,6 +1,69 @@
 {
-  "updated": "2026-10-13T08:11:48.189082+00:00",
+  "updated": "2026-10-13T16:16:32.581114+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Новиот Apple TV 4K доби Siri AI и три микрофони, но чини 299 долари",
+      "description": "Apple денес го претстави новиот Apple TV 4K, заедно со HomeView и HomePod mini 2. Новиот модел доаѓа со Siri AI, која според Apple помага да се најде што да се гледа и одговара на прашања за серијата додека трае. Таа сепак стигнува и на Apple TV 4K од втора генерација наваму преку tvOS 27.2, па за […]",
+      "url": "https://smartportal.mk/novosti/uredi/apple-tv-4k-siri-ai/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Apple-TV-4K-261013-150x150.webp",
+      "date": "Tue, 13 Oct 2026 16:03:10 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Apple го претстави HomeView, уред за паметен дом со екран од 7 инчи и Siri AI",
+      "description": "Apple денес го претстави HomeView, уред за паметен дом со екран од 7 инчи кој може да стои на маса или да се монтира на ѕид. Според Apple, тој на едно место ги обединува музиката, видео повиците преку FaceTime и управувањето со паметниот дом. Ова е уредот за кој на 30 септември пишуваше Марк Гурман од Bloomberg, […]",
+      "url": "https://smartportal.mk/novosti/uredi/apple-homeview/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Apple-HomeView-lineup-261013-150x150.webp",
+      "date": "Tue, 13 Oct 2026 15:49:14 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "SpaceXAI ги спои Grok, Cursor и X Premium во една претплата со пет пакети",
+      "description": "SpaceXAI, компанијата за вештачка интелигенција во рамките на SpaceX, ја претстави The X Subscription, претплата која ги обединува Grok, Grok Bot, Cursor и X Premium. Новата претплата е достапна за новите корисници од понеделник, а според компанијата во наредните неколку дена ќе стане достапна за сите ширум светот. Cursor официјално стана дел од SpaceX на 14 август, со […]",
+      "url": "https://smartportal.mk/novosti/servisi/spacexai-gi-spoi-grok-cursor-i-x-premium/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/HUd0WGpWMAAcwIa-150x150.webp",
+      "date": "Tue, 13 Oct 2026 12:01:18 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Во „јадрото“ на Linux се предлага папка со упатства за AI агентите што пишуваат код",
+      "description": "Саша Левин, еден од одржувачите на стабилните и долгорочните верзии на јадрото на Linux, предложи нова папка „agents/“ во изворниот код на „јадрото“ (kernel). Во неа би се чувале „вештини“ („skills“), упатства и други ресурси за AI асистентите за програмирање, а секоја вештина би имала своја SKILL.md датотека во Agent Skills форматот, кој првично го разви Anthropic, а […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/linux-jadro-predlog-papka-za-ai/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/04/lukas-NLSXFjl_nhc-unsplash-150x150.webp",
+      "date": "Tue, 13 Oct 2026 11:29:09 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Microsoft го претстави Maia 300 и планира сопствените чипови да станат главна основа за AI услугите",
+      "description": "Microsoft го претстави Maia 300, третата генерација на сопствените чипови за вештачка интелигенција и најави дека од 2027 година Maia системите ќе ги прошири до капацитет од повеќе гигавати. Целта, според Скот Гатри, извршен потпретседател за „облак“ и вештачка интелигенција, е Maia да стане главниот систем за инференција, односно за извршување на моделите, во производите и услугите […]",
+      "url": "https://smartportal.mk/novosti/kompjuteri/microsoft-maia-300/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/OMB-Maia-300-Hero_10_9_26-150x150.webp",
+      "date": "Tue, 13 Oct 2026 10:30:48 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Thundermail, е-поштата од Thunderbird што ветува приватност, засега е достапна само со покана",
+      "description": "Тимот на Thunderbird, клиентот за е-пошта со отворен код зад кој стои Mozilla, повторно ја промовира Thundermail, својата услуга за е-пошта. Услугата прв пат беше најавена во април минатата година, а од пролетта е во бета верзија и засега е достапна само со покана. Главниот адут е приватноста. Според страницата за поддршка, во Thundermail нема реклами, следење, […]",
+      "url": "https://smartportal.mk/novosti/servisi/thundermail-zasega-dostapna-samo-so-pokana/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/thundermail-1-f-150x150.webp",
+      "date": "Tue, 13 Oct 2026 10:02:27 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Microsoft 365 Family и Premium наместо 6 TB ќе нудат 2 TB заеднички простор на OneDrive",
+      "description": "Microsoft го менува начинот на кој се дели просторот на OneDrive во претплатите Microsoft 365 Family и Microsoft 365 Premium. Досега секој од најмногу шест членови добиваше по 1 TB, односно вкупно 6 TB, а отсега сите ќе делат заеднички простор од 2 TB. Според страницата за поддршка на Microsoft, промената важи за новите претплати од 8 […]",
+      "url": "https://smartportal.mk/novosti/servisi/microsoft-365-family-i-premium-2-tb-zaednicki-prostor/",
+      "image": "https://smartportal.mk/wp-content/uploads/2025/10/shutterstock_2575527853-150x150.webp",
+      "date": "Tue, 13 Oct 2026 09:13:57 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -30,246 +93,183 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "По Photoshop и Premiere, програмер со вештачка интелигенција прави и бесплатна замена за Word",
-      "description": "Брендон Томас, основач на ArtCraft и Storyteller.ai, неодамна објави седум бесплатни програми со отворен код направени по „пример“ на главните алатки на Adobe: PhotoCraft (Photoshop), VectorCraft (Illustrator), FilmCraft (Premiere Pro), LightCraft (Lightroom), EffectCraft (After Effects), DesignCraft (InDesign) и PdfCraft (Acrobat), кој првично се викаше PrintCraft. Сега на GitHub се појави и WordCraft, кој проектот го опишува […]",
-      "url": "https://smartportal.mk/novosti/ai/po-photoshop-i-premiere-programer-so-vi-pravi-i-zamena-za-word/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/wordcraft-hero-150x150.webp",
-      "date": "Fri, 09 Oct 2026 10:50:47 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Apple на крајот на октомври планира да го претстави првиот MacBook со екран на допир, пишува Марк Гурман",
-      "description": "Октомври изгледа ќе биде доста зафатен месец за Apple. Покрај настанот на 13 октомври, кој Apple вчера го потврдија со поканите „Welcome home“, компанијата планира и второ претставување на крајот од месецот, пишува Марк Гурман во најновата статија за Bloomberg. Според неименуваните извори на Гурман, претставувањето е закажано за вторник, 27 октомври или околу тој датум, а […]",
-      "url": "https://smartportal.mk/novosti/kompjuteri/apple-kraj-oktomvri-macbook-ekran-na-dopir/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/wes-hicks-ptXljygBu-0-unsplash-f-150x150.webp",
-      "date": "Fri, 09 Oct 2026 10:15:03 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Апел на РСБСП до сите учесници во сообраќајот по повод претстојниот празник 11 октомври",
-      "description": "По повод престојниот празник 11 октомври, продолжениот викенд и очекувањата за зголемената раздвиженост и фреквенција на возила на патиштата, Републичкиот совет за безбедност на сообраќајот на патиштата (РСБСП) упатува апел до сите учесници во сообраќајот да бидат особено внимателни, одговорни и доследни во почитувањето на сообраќајните правила и прописи. Продолжените викенди се период кога поголем […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/rsbsp-apel-11-oktomvri/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/img_0520-150x150.webp",
-      "date": "Fri, 09 Oct 2026 09:22:40 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "САД ги суспендираа Microsoft, Adobe и шест ИТ компании од програмата за зелени карти",
-      "description": "Американската администрација ги суспендираше Microsoft и Adobe, како и ИТ компаниите Capgemini, Cognizant, HCL, Infosys, Tata и Wipro, од програмата за трудова сертификација преку која странските работници можат да добијат зелена карта, односно постојан престој во САД. Владата ги обвинува компаниите за измама. Министерот за труд Кит Сондерлинг на прес-конференцијата во Белата куќа рече дека министерството нема […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/sad-suspendira-microsoft-adobe-i-drugi-programa-zeleni-karti/",
-      "image": "https://smartportal.mk/wp-content/uploads/2024/07/shutterstock_1363073402-150x150.jpg",
-      "date": "Fri, 09 Oct 2026 08:45:24 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Трамп му го додели на Елон Маск Националниот медал за наука, највисокото научно признание во САД",
-      "description": "Американскиот претседател Доналд Трамп во четвртокот му го додели на Елон Маск Националниот медал за наука, кој Белата куќа го нарекува највисоко американско признание за достигнувања во науката. Церемонијата се одржа на самитот „Science: A New Golden Age“ во Институтот за мир во Вашингтон. Истиот медал го добија и коосновачот на Google Сергеј Брин, директорот на […]",
-      "url": "https://smartportal.mk/novosti/licnosti/elon-musk-nacionalen-medal-za-nauka/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/P20260929DT-1541.jpg-150x150.webp",
-      "date": "Fri, 09 Oct 2026 08:17:17 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Електричните возила и современата мобилност во фокусот на ЕНЕРГО ТЕХНОМА 2026",
-      "description": "Практичност, удобност и лесно паркирање – токму тоа го нудат електричните возила на Urban EV, создадени како идеално решение за секојдневно движење низ градот. Компактни, економични и едноставни за управување, тие одговараат на потребите на современиот урбан живот, особено во средини со густ сообраќај и ограничен простор за паркирање. Возилата се особено погодни за студенти […]",
-      "url": "https://smartportal.mk/novosti/nastani/elektricni-vozila-sovremena-mobilnost-energo-tehnoma-2026/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/energo_saem-1024x662-1-150x150.webp",
-      "date": "Fri, 09 Oct 2026 07:32:56 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Apple го потврди претставувањето на нови уреди за 13 октомври",
-      "description": "Apple денес го најави, а започна и со испраќање на покани за настан на 13 октомври, со што ги потврди неофицијалните информации за неговото одржување. Со тоа слободно може да се очекува дека гласините кои беа објавени се вистинити, па како што е со години стандардно, веќе скоро со сигурност знаеме што да очекуваме да […]",
-      "url": "https://smartportal.mk/novosti/nastani/apple-go-potvrdi-nastanot-za-13-oktomvri/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/apple-welcome-home-13-oct-1-150x150.webp",
-      "date": "Thu, 08 Oct 2026 16:39:23 +0000"
+      "source": "Time.mk - All",
+      "title": "Денеска треба да биде распишана меѓународна потерница за Михаилова, вели Тошковски | еМагазин",
+      "description": "",
+      "url": "https://time.mk/c/586322677b/deneska-treba-da-bide-raspisana-megjunarodna-poternica-za-mihailova-veli-toskovski.html",
+      "image": "https://emagazin.mk/wp-content/uploads/2026/03/pance-toskovski-300x176.jpg",
+      "date": "Tue, 13 Oct 2026 14:54:36 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "БРИСЕЛ ДА ПОБАРА ОД СОФИЈА ДА Ѝ ЈА ПРЕДАДЕ ИВА МИХАЈЛОВА НА МАКЕДОНИЈА Платформата 12.05 бара оставки од тројца министри | +инфо",
+      "title": "Домашни политички реакции за Михаилова, се бара одговорност и истрага за евентуални пропусти | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/83a446951d/brisel-da-pobara-od-sofija-da-i-ja-predade-iva-mihajlova-na-makedonija-platformata-12-05-bara-ostavki-od-trojca-ministri.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2026/09/platforma-12.05-tribina.jpg",
-      "date": "Tue, 13 Oct 2026 07:48:56 +0000"
+      "url": "https://time.mk/c/f9030c959a/domasni-politicki-reakcii-za-mihailova-se-bara-odgovornost-i-istraga-za-eventualni-propusti.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1791897303/pcorzrgdkkedqo1pjeeq.jpg",
+      "date": "Tue, 13 Oct 2026 14:58:43 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Бугарија ќе го повика рускиот амбасадор откако дронови погодија уште неколку бродови | Bloomberg Adria",
+      "title": "Силни истражни центри, повеќе финансиски истраги и кадровско екипирање – кандидатите за нов шеф на ОЈО ГОКК ги претставија своите програми | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/55fd5e1ffe/bugarija-ke-go-povika-ruskiot-ambasador-otkako-dronovi-pogodija-uste-nekolku-brodovi.html",
-      "image": "https://mk.bloombergadria.com/data/images/2026-04-18/106252_454147763_f.jpg?timestamp=1791842400",
-      "date": "Tue, 13 Oct 2026 06:42:40 +0000"
+      "url": "https://time.mk/c/58ef1cd03d/silni-istrazni-centri-poveke-finansiski-istragi-i-kadrovsko-ekipiranje-kandidatite-za-nov-sef-na-ojo-gokk-gi-pretstavija-svoite-programi.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/10/kandidati-za-sef-na-ojo-gokk-kolaz.jpg",
+      "date": "Tue, 13 Oct 2026 14:41:05 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ММФ ја зголеми прогнозата за глобалниот раст на 3,1 процент за 2026 година | Слободен Печат",
+      "title": "Првите дози вакцини за грип стигнаа, нема да доцни имунизацијата | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/a55304849e/mmf-ja-zgolemi-prognozata-za-globalniot-rast-na-3-1-procent-za-2026-godina.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2020/05/mmf-300x200.png",
-      "date": "Tue, 13 Oct 2026 07:30:44 +0000"
+      "url": "https://time.mk/c/f1fa099b0e/prvite-dozi-vakcini-za-grip-stignaa-nema-da-docni-imunizacijata.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1791904473/pd5ubwxhk2khafic9ptg.jpg",
+      "date": "Tue, 13 Oct 2026 15:16:58 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ЛДП за скандалот со Ива Михајлова: А да го укинеме судството, ионака не добива пари колку треба од Владата, а и министерствата не функционираат? | Макфакс",
+      "title": "Судот не му го врати пасошот на Груби, има и забрана да го напушта Скопје | Фокус",
       "description": "",
-      "url": "https://time.mk/c/5f1c1ecf3d/ldp-za-skandalot-so-iva-mihajlova-a-da-go-ukineme-sudstvoto-ionaka-ne-dobiva-pari-kolku-treba-od-vladata-a-i-ministerstvata-ne-funkcioniraat.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/ldp-iva-mihajlova.webp",
-      "date": "Tue, 13 Oct 2026 07:10:35 +0000"
+      "url": "https://time.mk/c/c31ba74473/sudot-ne-mu-go-vrati-pasosot-na-grubi-ima-i-zabrana-da-go-napusta-skopje.html",
+      "image": "https://fokus.mk/wp-content/uploads/2025/07/krivicen-sud-213761.jpg",
+      "date": "Tue, 13 Oct 2026 13:26:42 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Црна Гора затвори уште три поглавја, Албанија едно, каде е Македонија“, прашува СДСМ | Макфакс",
+      "title": "Ковачев: И кажав на Фон дер Лајен за случајот со Ива Мијаилова | Press24",
       "description": "",
-      "url": "https://time.mk/c/9a9ba4225e/crna-gora-zatvori-uste-tri-poglavja-albanija-edno-kade-e-makedonija-prasuva-sdsm.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2023/02/makedonija-eu.jpg",
-      "date": "Tue, 13 Oct 2026 06:20:58 +0000"
+      "url": "https://time.mk/c/c7c12ba9d5/kovacev-i-kazav-na-fon-der-lajen-za-slucajot-so-iva-mijailova.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/76720.jpg",
+      "date": "Tue, 13 Oct 2026 15:57:00 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Случај 350 илјади евра заѕидани во куќа: Одекнаа и други имиња на судии, но само во одбраната на Ристов | Слободен Печат",
+      "title": "Нафтена пресметка, цените на горивата под притисок | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/7d13678490/slucaj-350-iljadi-evra-zazidani-vo-kuka-odeknaa-i-drugi-iminja-na-sudii-no-samo-vo-odbranata-na-ristov.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/signal-2026-10-06-10-20-05-221_002-300x251.jpg",
-      "date": "Tue, 13 Oct 2026 07:44:47 +0000"
+      "url": "https://time.mk/c/218afebd35/naftena-presmetka-cenite-na-gorivata-pod-pritisok.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1791897193/ofuvwtsir4hroxfqydpx.jpg",
+      "date": "Tue, 13 Oct 2026 14:58:43 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Димитриеска-Кочоска на Есенските средби на ММФ и Светска банка во Бангкок | Макфакс",
+      "title": "Ние ќе имаме просек од 1.000 евра во 2028 година, Црна Гора таков минималец в година | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/8aede63364/dimitrieska-kocoska-na-esenskite-sredbi-na-mmf-i-svetska-banka-vo-bangkok.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2025/07/gordana-dimitrieska-kocoska.jpg",
-      "date": "Tue, 13 Oct 2026 08:05:00 +0000"
+      "url": "https://time.mk/c/3ef364f841/nie-ke-imame-prosek-od-1-000-evra-vo-2028-godina-crna-gora-takov-minimalec-v-godina.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/04/Pazarenje-vo-market-8-300x203.jpg",
+      "date": "Tue, 13 Oct 2026 15:32:54 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Среќни ВЛТ вести: Д.Н. од Скопје освои Супер милионер вреден 6.367.443 денари | Црнобело",
+      "title": "Руте: Разговарав со Радев по новите напади во Црното Море, НАТО ја следи ситуацијата | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/036ff47d98/srekni-vlt-vesti-d-n-od-skopje-osvoi-super-milioner-vreden-6-367-443-denari.html",
-      "image": "https://www.crnobelo.com/images/stories/2026/10/1019/srekjni-vlt-vesti-d-n-od-skopje-osvoi-super-milioner-vreden-6-367-443-denari-povekje.jpg",
-      "date": "Tue, 13 Oct 2026 08:00:59 +0000"
+      "url": "https://time.mk/c/a46a1e478e/rute-razgovarav-so-radev-po-novite-napadi-vo-crnoto-more-nato-ja-sledi-situacijata.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/rute-nato-video-opsta.jpg",
+      "date": "Tue, 13 Oct 2026 12:34:40 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Александар Вучиќ ја „позајмил“ идејата за предизборниот спот од Бенјамин Нетанјаху | Независен",
+      "title": "Детали за авионот над Нирнберг: емитувал сигнал за киднапирање, бил пресретнат од хрватски и германски ловци | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/4f38f18209/aleksandar-vucik-ja-pozajmil-idejata-za-predizborniot-spot-od-benjamin-netanjahu.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2023/03/Aleksandar-Vucic-dijalog-Belgrad-Pristina-vo-Ohrid-4-bg.jpg",
-      "date": "Tue, 13 Oct 2026 07:46:44 +0000"
+      "url": "https://time.mk/c/dc31b3800d/detali-za-avionot-nad-nirnberg-emituval-signal-za-kidnapiranje-bil-presretnat-od-hrvatski-i-germanski-lovci.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/03/profimedia-1082420620-300x200.jpg",
+      "date": "Tue, 13 Oct 2026 15:16:58 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ЕУ предлага децата да отвораат самостојни профили на социјални мрежи од 15 години | Рацин",
+      "title": "„Момчиња во влечки“ поради кои растат цените на горивата: Потценувањето на јеменските хути скапо го чини светот | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/57d9ff71ea/eu-predlaga-decata-da-otvoraat-samostojni-profili-na-socijalni-mrezi-od-15-godini.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/10/soczijalni-mrezhi-673x480.jpg?x99686",
-      "date": "Tue, 13 Oct 2026 06:48:53 +0000"
+      "url": "https://time.mk/c/2415e7c26e/momcinja-vo-vlecki-poradi-koi-rastat-cenite-na-gorivata-potcenuvanjeto-na-jemenskite-huti-skapo-go-cini-svetot.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/1-tekst-huti.jpg",
+      "date": "Tue, 13 Oct 2026 13:53:02 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ЗАТВОРЕН АЕРОДРОМОТ ВО РИЈАД, ИСПРАЗНЕТ ВОЗДУШНИОТ ПРОСТОР НАД САУДИ АРАБИЈА ПО НАПАДИТЕ НА ХУТИТЕ, меѓународните компании ги кратат летовите | Пари",
+      "title": "УНГАРСКИОТ ПАРЛАМЕНТ ГИ УКИНА МЕРКИТЕ ПРОТИВ ЛГБТ-ЗАЕДНИЦАТА ОД ВРЕМЕТО НА ОРБАН | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/8cda8db224/zatvoren-aerodromot-vo-rijad-ispraznet-vozdusniot-prostor-nad-saudi-arabija-po-napadite-na-hutite-megjunarodnite-kompanii-gi-kratat-letovite.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/10/Rijad-airport.jpg",
-      "date": "Tue, 13 Oct 2026 08:06:37 +0000"
+      "url": "https://time.mk/c/c271169c6d/ungarskiot-parlament-gi-ukina-merkite-protiv-lgbt-zaednicata-od-vremeto-na-orban.html",
+      "image": "https://sdk.mk/wp-content/uploads/2021/06/1000-1-1.jpeg",
+      "date": "Tue, 13 Oct 2026 16:08:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Црвен аларм на берзите: ВИ-секторот тоне | Bloomberg Adria",
+      "title": "Пливачката федерација бесплатно ќе ги учи учениците од Карпош да пливаат, а термините за базенот ќе ги распределува сама | Независен",
       "description": "",
-      "url": "https://time.mk/c/368b333d94/crven-alarm-na-berzite-vi-sektorot-tone.html",
-      "image": "https://mk.bloombergadria.com/data/images/2026-04-16/106016_nyse_f.jpg?timestamp=1791842400",
-      "date": "Tue, 13 Oct 2026 07:36:56 +0000"
+      "url": "https://time.mk/c/0cbaea3791/plivackata-federacija-besplatno-ke-gi-uci-ucenicite-od-karpos-da-plivaat-a-terminite-za-bazenot-ke-gi-raspredeluva-sama.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/partizan-2.jpg",
+      "date": "Tue, 13 Oct 2026 11:50:40 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВМРО-ДПМНЕ: Гевгелија со нови паркови, реконструирани улици и инвестиции во образованието | Press24",
+      "title": "Потопла зима не значи зима без снег: Што најавуваат прогнозите за Европа и Западен Балкан? | Градска",
       "description": "",
-      "url": "https://time.mk/c/d7720fcd54/vmro-dpmne-gevgelija-so-novi-parkovi-rekonstruirani-ulici-i-investicii-vo-obrazovanieto.html",
-      "image": "",
-      "date": "Tue, 13 Oct 2026 07:52:52 +0000"
+      "url": "https://time.mk/c/1a2a6bb18e/potopla-zima-ne-znaci-zima-bez-sneg-sto-najavuvaat-prognozite-za-evropa-i-zapaden-balkan.html",
+      "image": "https://gradska.mk/wp-content/uploads/2026/10/snowy-street-beneath-the-misty-hills.png",
+      "date": "Tue, 13 Oct 2026 13:58:51 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Училиштниот базен „Партизан“ денеска се примопредава на Пливачката федерација | Независен",
+      "title": "Распишана меѓународна потерница по Ива Михаилова, по барање на Основниот суд во Кочани | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/2a40ba2485/ucilistniot-bazen-partizan-deneska-se-primopredava-na-plivackata-federacija.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/bazen-karpos-1024x699.jpg",
-      "date": "Tue, 13 Oct 2026 06:48:53 +0000"
+      "url": "https://time.mk/c/359cdf9eaf/raspisana-megjunarodna-poternica-po-iva-mihailova-po-baranje-na-osnovniot-sud-vo-kocani.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/86229/conversions/text-max.jpg",
+      "date": "Tue, 13 Oct 2026 16:01:00 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Кој е 33-годишниот маж кој загина во сообраќајката во која учествуваше Михаилова која избега во Бугарија | еМагазин",
+      "title": "Тетовец и двајца скопјани се уапсени – ги нападнаа сопругите | Фокус",
       "description": "",
-      "url": "https://time.mk/c/48b8824665/koj-e-33-godisniot-maz-koj-zagina-vo-soobrakajkata-vo-koja-ucestvuvase-mihailova-koja-izbega-vo-bugarija.html",
-      "image": "https://emagazin.mk/wp-content/uploads/2025/06/policija2-300x200.jpg",
-      "date": "Tue, 13 Oct 2026 06:00:52 +0000"
+      "url": "https://time.mk/c/cca97bdb8a/tetovec-i-dvajca-skopjani-se-uapseni-gi-napadnaa-soprugite.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/10/apsenje.jpg",
+      "date": "Tue, 13 Oct 2026 11:34:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Таск форс“ во акција: Приведени две лица | Press24",
+      "title": "Од бременоста до првите чекори на бебето: dm и „Матрона“ организираат бесплатна обука за родители во Штип | Црнобело",
       "description": "",
-      "url": "https://time.mk/c/7329e34d86/task-fors-vo-akcija-privedeni-dve-lica.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/76504.png",
-      "date": "Tue, 13 Oct 2026 06:12:56 +0000"
+      "url": "https://time.mk/c/5e1df690c4/od-bremenosta-do-prvite-cekori-na-bebeto-dm-i-matrona-organiziraat-besplatna-obuka-za-roditeli-vo-stip.html",
+      "image": "https://www.crnobelo.com/images/stories/2026/10/62/od-bremenosta-do-prvite-chekori-na-bebeto-dm-i-matrona-organiziraat-besplatna-obuka-za-roditeli-vo-shtip-povekje2.jpg",
+      "date": "Tue, 13 Oct 2026 10:49:00 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Отворање на првиот Едукативно – технолошки центар за развој на пчеларството во Македонија | Агротим",
+      "title": "ДЕЦА ОД ЦЕЛА ЗАПАДНА МАКЕДОНИЈА СЕ НОСАТ ДА ПИТАЧАТ ВО ОХРИД И СТРУГА, ДЕВОЈЧИЊА СЕ ПРОДАВААТ ЗА СЕКС, ПОЛИЦИЈАТА ИСТРАЖУВА ОРГАНИЗИРАНА ШЕМА | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/e276ac9cd7/otvoranje-na-prviot-edukativno-tehnoloski-centar-za-razvoj-na-pcelarstvoto-vo-makedonija.html",
-      "image": "https://agrotim.mk/wp-content/uploads/2026/10/pchelarstvoto-860x484.jpg",
-      "date": "Tue, 13 Oct 2026 07:38:36 +0000"
+      "url": "https://time.mk/c/0f6f956ae1/deca-od-cela-zapadna-makedonija-se-nosat-da-pitacat-vo-ohrid-i-struga-devojcinja-se-prodavaat-za-seks-policijata-istrazuva-organizirana-sema.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/10/pitaci-ohrid-.jpg",
+      "date": "Tue, 13 Oct 2026 07:24:57 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(ФОТО) Со автомобил натоварен со душеци дошле во националниот парт и ги исфрлиле покрај патот | Охрид1",
+      "title": "Емин Алпер до младите филмаџии: Само страста и инсистирањето на своите приказни можат да ве одржат живи! | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/81d09869e1/foto-so-avtomobil-natovaren-so-duseci-dosle-vo-nacionalniot-part-i-gi-isfrlile-pokraj-patot.html",
-      "image": "https://ohrid1.com/wp-content/uploads/2026/10/duseci1-750x460.jpg",
-      "date": "Mon, 12 Oct 2026 17:30:49 +0000"
+      "url": "https://time.mk/c/e19799166c/emin-alper-do-mladite-filmadzii-samo-strasta-i-insistiranjeto-na-svoite-prikazni-mozat-da-ve-odrzat-zivi.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/cela.jpg",
+      "date": "Tue, 13 Oct 2026 12:58:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Видео) Димитар Андоновски со нова песна: „Губам Контрола“ носи летна енергија овој октомври | Макфакс",
+      "title": "11. Отворени денови на Институтот „Крсте Мисирков“ во знакот на неколку јубилеи, над 90 учесници на меѓународната конференција за македонскиот јазик | Независен",
       "description": "",
-      "url": "https://time.mk/c/ab2e2b2669/video-dimitar-andonovski-so-nova-pesna-gubam-kontrola-nosi-letna-energija-ovoj-oktomvri.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/dimitar-andonovski.webp",
-      "date": "Tue, 13 Oct 2026 06:52:57 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "23 години од смртта на Ѓорѓи Колозов, актерот што ги овековечи македонските народни приказни | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/2be7a123d1/23-godini-od-smrtta-na-gjorgji-kolozov-akterot-sto-gi-ovekoveci-makedonskite-narodni-prikazni.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/62077/conversions/gorgi-kolozov-max.jpg",
-      "date": "Tue, 13 Oct 2026 06:30:38 +0000"
+      "url": "https://time.mk/c/19149ce158/11-otvoreni-denovi-na-institutot-krste-misirkov-vo-znakot-na-nekolku-jubilei-nad-90-ucesnici-na-megjunarodnata-konferencija-za-makedonskiot-jazik.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/krste-misirkov.jpg",
+      "date": "Tue, 13 Oct 2026 12:46:44 +0000"
     }
   ],
   "de": [
@@ -339,8 +339,8 @@
     {
       "category": "de",
       "source": "Tarnkappe",
-      "title": "pCloud kurzfristig zum Sonderpreis im Angebot: Was steckt dahinter? (Werbung)",
-      "description": "Bei unserem Werbepartner pCloud läuft gerade eine Aktion, die bald ausläuft. Wir prüfen: Lohnt sich der Kauf zu den Konditionen? Der Artikel pCloud kurzfristig zum Sonderpreis im Angebot: Was steckt dahinter? (Werbung) erschien zuerst auf TARNKAPPE.INFO",
+      "title": "pCloud kurzfristig zum Sonderpreis im Angebot: Was steckt dahinter? (Werbung – Aktion verlängert!)",
+      "description": "Bei unserem Werbepartner pCloud läuft gerade eine Aktion, die bald ausläuft. Wir prüfen: Lohnt sich der Kauf zu den Konditionen? Der Artikel pCloud kurzfristig zum Sonderpreis im Angebot: Was steckt dahinter? (Werbung – Aktion verlängert!) erschien zuerst auf TARNKAPPE.INFO",
       "url": "https://tarnkappe.info/advertorial/pcloud-kurzfristig-zum-sonderpreis-im-angebot-was-steckt-dahinter-334312.html",
       "image": "https://cdn.tarnkappe.info/wp-content/uploads/cloud-router-switch-datencenter-scaled.jpg",
       "date": "Tue, 06 Oct 2026 04:17:40 +0000"
@@ -455,6 +455,33 @@
     }
   ],
   "eng": [
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Apple's First Home Hub Looks Like an Tiny iMac G4",
+      "description": "Here's everything the company announced at its \"Welcome Home\" hardware event.",
+      "url": "https://lifehacker.com/tech/apple-welcome-home-hardware-event?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M4TPY3F8JZ0H0JDR2NCYC2EF/hero-image.jpg",
+      "date": "Tue, 13 Oct 2026 14:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Pocket-Sized DJI Vlogging Camera Bundle Is 21% Off Right Now",
+      "description": "The DJI Osmo Pocket 3 Creator Combo has dropped to a record-low $495.",
+      "url": "https://lifehacker.com/tech/dji-osmo-pocket-3-vlogging-camera-bundle-sale-october-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M4SYCW1Y7224TDYGNWQ5W0PK/hero-image.jpg",
+      "date": "Tue, 13 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Highly Rated 75-Inch TCL Mini-LED TV Is 50% Off Right Now",
+      "description": "The 75-inch TCL QM8L SQD-Mini LED TV is now $1,497.99, down from $2,999.99.",
+      "url": "https://lifehacker.com/tech/tcl-75-inch-mini-led-qled-tv-sale-october-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M2T13PFDC5SS7KMDFGAAW6YM/hero-image.jpg",
+      "date": "Tue, 13 Oct 2026 12:30:00 +0000"
+    },
     {
       "category": "eng",
       "source": "Lifehacker",
@@ -610,120 +637,93 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "10 Shows Like 'Monster: The Lizzie Borden Story' You Should Watch Next",
-      "description": "More true-crime stories about complicated killers to stream now.",
-      "url": "https://lifehacker.com/entertainment/best-shows-like-monster-lizzie-borden?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M4GD0R82CWQ2NX747VW4DB6K/hero-image.jpg",
-      "date": "Fri, 09 Oct 2026 16:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "You Can Use Your iPhone As an ID in These 16 States",
-      "description": "Can I please stop carrying my driver's license everywhere I go?",
-      "url": "https://lifehacker.com/you-can-use-your-iphone-as-an-id-in-these-states?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01HF2HAA4EPN6RTQFW5EHG8HX0/hero-image.png",
-      "date": "Fri, 09 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "Roku's Pro Series OLED TV Is $400 Off Right Now",
-      "description": "This 65-inch TV also comes with a free 90-day subscription to Amazon Music.",
-      "url": "https://lifehacker.com/tech/rokus-pro-series-oled-tv-deal-october-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M4FM4SWJ7KPYNCTWAG3S55SB/hero-image.jpg",
-      "date": "Fri, 09 Oct 2026 13:00:45 +0000"
+      "source": "PCWorld",
+      "title": "Best VPN services: 7 top picks for every VPN need",
+      "description": "A VPN, or virtual private network, is one of the easiest and most effective ways to improve your online privacy and security. Whether you’re protecting yourself on public Wi-Fi, hiding your IP address from trackers, or accessing region-locked content while traveling, a VPN adds an important layer of protection by encrypting your internet traffic. The problem is that there are hundreds of VPNs competing for your attention, and separating the genuinely good services from the mediocre ones can be o",
+      "url": "https://www.pcworld.com/article/406870/best-vpn-services-2.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/406870-0-33536600-1791907226-nordvpn-inspiron-5441.jpg?quality=50&strip=all",
+      "date": "Tue, 13 Oct 2026 16:00:00 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Cancel Acrobat and get this PDF editor for life on sale for $70",
-      "description": "TL;DR : UPDF is a full PDF editor with a lifetime subscription on sale for $69.99 (reg. $149.99). Most good PDF editors charge a monthly fee, even popular ones like Adobe Acrobat. UPDF is a PDF editor for Windows, Mac, iOS, and Android that replaces the constant cost of software subscriptions with a single one-time payment, and it’s on sale now for $69.99 (reg. $149.99). With UPDF, you can change the font, size, and color of text in a PDF. You can also crop, rotate, or replace images on the page",
-      "url": "https://www.pcworld.com/article/3258669/cancel-acrobat-and-get-this-pdf-editor-for-life-on-sale-for-70.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3258669-0-61089200-1791878435-sale_318017_article_image.jpg?quality=50&strip=all",
-      "date": "Tue, 13 Oct 2026 08:00:00 +0000"
+      "title": "Your PC could lose Windows Update access in 2027. Here’s what to do",
+      "description": "This year, Windows users had to deal with Microsoft’s shaky rollout of Secure Boot certificate updates , which were needed to keep PCs protected against rootkits and other threats that could compromise a system at startup. Now, users are facing a different kind of certificate update, and it’s slated to arrive less than a year from now. The next big certificate update concerns Windows Update. Starting May 2027, current Windows Update certificates will expire, which Microsoft explains on this supp",
+      "url": "https://www.pcworld.com/article/3259575/your-pc-could-lose-windows-update-access-in-2027-heres-what-to-do.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3259575-0-03688500-1791906398-WindowsUpdate.jpg?quality=50&strip=all",
+      "date": "Tue, 13 Oct 2026 15:46:09 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "For one week, you can get Windows 11 Pro for just $15",
-      "description": "TL;DR: You can get Windows 11 Pro for life for just $14.99. Windows 10 is over 10 years old, and it really starts to show when you look at some of the security features or just basic usability. Upgrading used to be expensive, but right now, you can get Windows 11 Pro for just $14.99(reg. $199). Windows 11 Pro is Microsoft’s best current operating system. If you’ve been hesitant to upgrade to Windows 11 Home, Pro gives you quite a few good reasons. BitLocker encrypts your whole drive, so nobody c",
-      "url": "https://www.pcworld.com/article/3258692/for-one-week-you-can-get-windows-11-pro-for-just-15.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3258692-0-02969100-1791878421-sale_323895_article_image.jpg?quality=50&strip=all",
-      "date": "Tue, 13 Oct 2026 08:00:00 +0000"
+      "title": "Lisen’s tiny charger doubles as a power bank, and it’s only $33 now",
+      "description": "NOW JUST $33 Lisen 603 Mini All-in-One Portable Charger View Deal You have a fast charger and you have a power bank. But what if you could consolidate both into one tiny device that keeps you charged whether you’re at home or out and about? The Lisen 603 Mini does that, and it’s now on sale for $33 at Amazon —just a few bucks more than its all-time low. The cherry on top? It has a built-in charging cable. The Lisen 603 Mini is an all-in-one charging solution. Plug it into a wall outlet and use i",
+      "url": "https://www.pcworld.com/article/3259513/lisens-tiny-charger-doubles-as-a-power-bank-and-its-only-33-now.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3259513-0-13718200-1791904286-Lisen-mini-3-in-1.jpg?quality=50&strip=all",
+      "date": "Tue, 13 Oct 2026 15:10:27 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Best mini PC deals: Top Intel and AMD picks for performance, gaming, and more",
-      "description": "At a glance Top AMD mini PC deal picks Reatan A8 —$559 (13% off on Amazon with coupon) Kamrui Pinova P2 —$350 (8% off on Amazon) Glorlin AI Mini PC —$629 (10% off on Amazon with coupon) Top Intel mini PC deal picks Kamrui P2 —$569 (39% off on Amazon) Kamrui Hyper H2 Mini —$480 (28% off on Amazon) Acemagic Mini M5 —$581 with coupon (15% off on Amazon) Whether you’re looking for a productivity mini PC, something for gaming, or just a budget-friendly machine with a small footprint, we’ve got you co",
-      "url": "https://www.pcworld.com/article/2999556/best-mini-pc-deals-top-picks-for-performance-gaming-and-more.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/2999556-0-94795200-1791846415-image-2.png",
-      "date": "Mon, 12 Oct 2026 23:06:48 +0000"
+      "title": "Windows 11’s easy local account trick is dead, patched by Microsoft",
+      "description": "Well, it was bound to happen. Last month, someone discovered a simple trick for skipping the mandatory Microsoft account when setting up a new Windows 11 PC or reinstalling the operating system. Now, Microsoft has blocked the trick, making Microsoft accounts truly mandatory once again. The trick was unbelievably easy. During Windows 11 setup, there was a page that prompted you to sign in with your Microsoft account. But if you clicked on “Learn more,” Windows 11 allowed you to create a local acc",
+      "url": "https://www.pcworld.com/article/3259577/windows-11s-easy-local-account-trick-is-dead-patched-by-microsoft.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3259577-0-37001600-1791902260-Microsoft-signin-screen-for-Windows-10.jpg?quality=50&strip=all",
+      "date": "Tue, 13 Oct 2026 14:37:18 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Fastest VPN 2026: Expert picks of the top 5 VPN speed demons",
-      "description": "When choosing a VPN, privacy should always come first—but speed is a close second. After all, even the most secure VPN can become frustrating to use if it slows your connection to a crawl. Faster VPN speeds mean smoother streaming, quicker downloads, lower gaming latency, and less waiting around for websites to load. To find the fastest VPNs available today, I tested dozens of services and ran extensive speed benchmarks across their server networks. The VPNs below stood out for delivering consis",
-      "url": "https://www.pcworld.com/article/616724/fastest-vpn.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/616724-0-86198500-1791826224-why-you-shouldnt-use-vpn-browser-extensions.jpg?quality=50&strip=all",
-      "date": "Mon, 12 Oct 2026 17:30:00 +0000"
+      "title": "Stop using three monitor stands. Use this triple arm (now 20% off)",
+      "description": "NOW 20% OFF Huanuo Triple Monitor Mount View Deal If two monitors aren’t cutting it for productivity, you gotta throw in a third one—but don’t keep them on individual stands. What you want is a triple-arm mount that lets you position and adjust each display to your exact ergonomic needs. Right now, you can grab this one by Huanuo for $120 on Amazon , down from its original $150. That’s only a few bucks more than its all-time lowest price over the last three years. This triple monitor mount attac",
+      "url": "https://www.pcworld.com/article/3258626/stop-using-three-monitor-stands-use-this-triple-arm-now-20-percent-off.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3258626-0-85513300-1791900221-Huanuo-Triple-Monitor-Arm-Mount.jpg?quality=50&strip=all",
+      "date": "Tue, 13 Oct 2026 14:03:29 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Best monitors 2026: Top picks for gaming, 4K, HDR, and more",
-      "description": "Need a new monitor for your PC? I’ve combed through scores of options to find the best monitors on the market right now. These picks are the result of hundreds of hours spent testing the latest models from Acer, Asus, BenQ, Dell, LG, Samsung, and other major brands. While my favorite monitor overall is an awesome choice for most people, I also have alternative options for budget shoppers, gamers, and those seeking the best HDR performance. After all, not everyone needs the same features from a m",
-      "url": "https://www.pcworld.com/article/811315/best-monitors-2.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/811315-0-54583700-1791820816-alienware-aw3423dw-1.jpg?quality=50&strip=all",
-      "date": "Mon, 12 Oct 2026 16:00:00 +0000"
+      "title": "NTI Backup Now Pro 7 review: Very capable, but annoyingly glitchy",
+      "description": "At a glance Expert's Rating Pros File, image, continuous, and cloud backup Straightforward interface Supports network locations and optical disc Reasonably priced (online storage excepted) Cons Numerous glitches Super-pricey online storage Functions limited when PC is accessed remotely Our Verdict NTI Backup Pro 7 offers a lot of backup functionality, including file/folder, image, continuous, and cloud backup; network; and even optical disc support. But I found numerous annoying glitches and the",
+      "url": "https://www.pcworld.com/article/2360616/nti-backup-now-pro-review.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/2360616-0-50381600-1791900029-Screenshot-2024-06-08-at-9.24.47-AM.png",
+      "date": "Tue, 13 Oct 2026 14:00:00 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Your SSD might be lying about its storage capacity. Here’s how to check",
-      "description": "If you buy an external SSD or a USB stick today that’s being offered at a bargain price with astronomical storage capacities, you should be rather skeptical. The reason: The market is currently being flooded with sophisticated counterfeit storage devices. Manipulated controller firmware can trick the operating system into believing the device has more capacity than physically exists. Here’s an example: Imagine you’ve bought a supposed 4TB SSD on a well-known online platform and your Windows Expl",
-      "url": "https://www.pcworld.com/article/3251958/your-ssd-might-be-lying-about-its-storage-capacity-heres-how-to-check.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3251958-0-70814300-1791815430-kingston4.jpg?quality=50&strip=all",
-      "date": "Mon, 12 Oct 2026 14:30:00 +0000"
+      "title": "How much SSD space do you really need? The PC buyer’s guide to storage",
+      "description": "Whether you’re buying a laptop or building your own PC , you’re going to want an SSD as the main storage drive — and you’re also going to want to make sure it’s the right size for your needs. Sure, you might be able to crack open that laptop and swap out the main drive for a bigger one, or even install a second drive alongside it for additional storage. And yes, you can definitely do that with a desktop PC. But if you have zero affinity for computer tinkering, then it’s just way more convenient ",
+      "url": "https://www.pcworld.com/article/2489675/how-much-ssd-space-do-you-really-need-the-pc-buyers-guide-to-storage.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/2489675-0-72748200-1791896416-Man-holding-Samsung-990-PRO-SSD-between-fingers-over-exposed-laptop-hero.jpg?quality=50&strip=all",
+      "date": "Tue, 13 Oct 2026 13:00:00 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "The more I learn about password security, the simpler my passwords get",
-      "description": "The more leaks and hacks in the news, the more I find myself wondering—what’s the ideal password? For years, I’ve based my definition off expert advice. You want long, random, unique. But lately I’ve thought the answer is actually less specific than that. I’d say the ideal password is simple—while still strong, too. And what fits that definition can change depending on the context. Hear me out. Welcome to Safe Mode, your weekly report for pressing security and privacy news—and what steps to take",
-      "url": "https://www.pcworld.com/article/3257557/the-more-i-learn-about-password-security-the-simpler-my-passwords-get.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3257557-0-40878200-1791813323-Screenshot-2025-12-29-033717.png",
-      "date": "Mon, 12 Oct 2026 13:54:58 +0000"
+      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
+      "description": "If you’re looking for an affordable Windows machine under $500 , a blazing fast gaming beast for those intense matches, or a portable 2-in-1 for school or work, you’ve got plenty of great choices right now. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 80 laptops every year. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches",
+      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/550968-0-60076600-1791893224-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
+      "date": "Tue, 13 Oct 2026 12:06:56 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Laptop stands aren’t as stupid as I thought",
-      "description": "When I was reaching out to companies in search of ridiculous standing desk accessories for a recent article I wrote, a laptop stand was on my list of must-gets. I don’t mean the desk converters that give you a standing desk-like experience, but the little ones that just seem to prop the laptop up a bit . As a perennial desktop user they always seemed like a waste of time to me. Just get a desktop, or another monitor, right? Well consider me suitably chastised and with enough humble pie in my sto",
-      "url": "https://www.pcworld.com/article/2956569/laptop-stands-arent-as-stupid-as-i-thought.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/2956569-0-65121800-1791810049-laptopstand00.jpg?quality=50&strip=all",
-      "date": "Mon, 12 Oct 2026 13:00:00 +0000"
+      "title": "Samsung’s new 5K gaming monitor makes me feel so old",
+      "description": "I turned 39 a few weeks ago. And using Samsung’s high-end monitor makes me feel it, right in my eyeballs. Welcome to the Boost Mode newsletter. Every week I share my insights on PC gaming, desktop setups, and hardware optimization. I also track down some of the most interesting PC and nerd news from around the web, plus a PC game pick you might not have seen elsewhere. Want this newsletter to come directly to your inbox? Sign up on our website ! The Samsung Odyssey G80HF is a 27-inch, 5K2K gamin",
+      "url": "https://www.pcworld.com/article/3257367/samsungs-new-gaming-monitor-makes-me-feel-so-old.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3257367-0-80506500-1791892839-image_7697ec.png",
+      "date": "Tue, 13 Oct 2026 12:00:00 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "The GIGABYTE AORUS MASTER 16 Is a Gaming Powerhouse That Manages Itself",
-      "description": "Looking for Serious Gaming Power? Explore GIGABYTE AORUS gaming laptops Shop Gigabyte When it comes to flagship gaming laptops, the GIGABYTE AORUS MASTER 16 ticks about every box we can think of. It has the top-tier hardware options: Ryzen 9 9955HX3D 16 core CPU with 3D V-Cache, GeForce RTX 5090 mobile GPU at max 175W TGP, 2TB of NVMe storage, and 32GB of high-speed DDR5 memory, which is worth more than its weight in gold in 2026. But most powerful gaming laptops have a mix of this kind of high-",
-      "url": "https://www.pcworld.com/article/3212642/the-gigabyte-aorus-master-16-is-a-gaming-powerhouse-that-manages-itself.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3212642-0-95616000-1791806997-AORUS-MASTER-16-6.jpg?quality=50&strip=all",
-      "date": "Mon, 12 Oct 2026 12:09:51 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "This free screenshot app puts Windows 11’s Snipping Tool to shame",
-      "description": "Windows’ built-in screenshot Snipping Tool gets the job done, but if you’re taking screenshots as often as I am, it starts to feel pretty limited. ShareX is a free, open-source tool that provides a more robust set of capture and editing tools without adding a bunch of unnecessary complexity. It covers the basics you’d expect—full-screen captures, a single window, or a custom area—but it also handles scrolling captures, screen recording, and quick GIFs. The real value, though, is in its advanced ",
-      "url": "https://www.pcworld.com/article/3244905/this-free-screenshot-tool-does-way-more-than-snipping-tool.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3244905-0-40073100-1791801016-ShareX.png",
-      "date": "Mon, 12 Oct 2026 10:30:00 +0000"
+      "title": "GMKtec EVO-X3 review: A brutally fast, brutally expensive AI mini PC",
+      "description": "At a glance Expert's Rating Pros Very high CPU and graphics performance 128GB of fast shared memory Two M.2 slots and OCuLink Reliable cooling without significant throttling Robust metal casing Cons Only one USB-C port, none on the front RAM soldered in place High price Our verdict The GMKtec EVO-X3 is an exceptionally fast compact PC for demanding creative work. Its large shared memory offers plenty of space for local AI models. The Radeon 8060S handles many games in Full HD, and in WQHD with a",
+      "url": "https://www.pcworld.com/article/3251954/gmktec-evo-x3-review.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3251954-0-06802500-1791887436-Test-GMKtec-EVO-X3.png",
+      "date": "Tue, 13 Oct 2026 10:30:00 +0000"
     }
   ],
   "starwars": [
