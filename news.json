@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T20:02:35.790596+00:00",
+  "updated": "2026-10-14T23:21:41.040138+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -94,6 +94,15 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
+      "title": "Препорачав лекување на Ива Михаилова во Бугарија оти е државјанка на земјата, не знаев за постапката за сообраќајката – вели доктор Иван Барбов | 360 степени",
+      "description": "",
+      "url": "https://time.mk/c/672101c0fe/preporacav-lekuvanje-na-iva-mihailova-vo-bugarija-oti-e-drzavjanka-na-zemjata-ne-znaev-za-postapkata-za-soobrakajkata-veli-doktor-ivan-barbov.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/10/Ivan-Barbov.png",
+      "date": "Wed, 14 Oct 2026 20:42:36 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
       "title": "Меѓународната потерница без резултат: институциите утврдуваат како Михајлова заминала од земјата | 4NEWS",
       "description": "",
       "url": "https://time.mk/c/ead1e9bfaa/megjunarodnata-poternica-bez-rezultat-instituciite-utvrduvaat-kako-mihajlova-zaminala-od-zemjata.html",
@@ -112,33 +121,6 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Во живо) Д-р Барбов се чувствува злоупотребен од Ива Михаилова: Имаше симптоми, но ги преувеличуваше во јавноста | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/4021be8093/vo-zivo-d-r-barbov-se-cuvstvuva-zloupotreben-od-iva-mihailova-imase-simptomi-no-gi-preuvelicuvase-vo-javnosta.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/86290/conversions/text-max.jpg",
-      "date": "Wed, 14 Oct 2026 19:28:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Опозицијата го блокира советот на Тетово – Касами: Општината е отворена за јавна дебата и предлози | ТВ21",
-      "description": "",
-      "url": "https://time.mk/c/2c76bb83b2/opozicijata-go-blokira-sovetot-na-tetovo-kasami-opstinata-e-otvorena-za-javna-debata-i-predlozi.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2026/10/Screenshot_2-4-1024x529.jpg",
-      "date": "Wed, 14 Oct 2026 18:06:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Митева: Во Клиничката болница Штип е воспоставен мултидисциплинарен кабинет за дојка | Макфакс",
-      "description": "",
-      "url": "https://time.mk/c/9b5f569f4f/miteva-vo-klinickata-bolnica-stip-e-vospostaven-multidisciplinaren-kabinet-za-dojka.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/img_5415.webp",
-      "date": "Wed, 14 Oct 2026 18:52:58 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
       "title": "Адвокатот на Груби им се извини на граѓаните ако се вознемириле поради пречекот со факели и чадни бомб | 24 Вести",
       "description": "",
       "url": "https://time.mk/c/3fa49c263c/advokatot-na-grubi-im-se-izvini-na-gragjanite-ako-se-voznemirile-poradi-precekot-so-fakeli-i-cadni-bomb.html",
@@ -148,56 +130,74 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
+      "title": "СО ТРАНСПАРЕНТИ И СВИРЧИЊА ОПОЗИЦИЈАТА ВО ТЕТОВСКИОТ СОВЕТ СЕ ПРОТИВЕШЕ НА ДОНЕСУВАЊЕТО ФИЗИБИЛИТИ СТУДИЈА ЗА ИЗГРАДБА НА ДЕЛОВНО-АДМИНИСТРАТИВЕН ОБЈЕКТ | Сакам да кажам",
+      "description": "",
+      "url": "https://time.mk/c/00a835685c/so-transparenti-i-svircinja-opozicijata-vo-tetovskiot-sovet-se-protivese-na-donesuvanjeto-fizibiliti-studija-za-izgradba-na-delovno-administrativen-objekt.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/10/Sednica-na-sovet.jpg",
+      "date": "Wed, 14 Oct 2026 16:26:59 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Доизградбата на новата Клиничка болница во Штип се очекува да почне наредната есен | 24 Вести",
+      "description": "",
+      "url": "https://time.mk/c/f3741470cb/doizgradbata-na-novata-klinicka-bolnica-vo-stip-se-ocekuva-da-pocne-narednata-esen.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1791990912/ylkg0a8078bimeqh5mld.jpg",
+      "date": "Wed, 14 Oct 2026 15:18:56 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
       "title": "ММФ за Македонија: Раст на БДП од 3,5%, инфлација од 4% | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/68ddaeaa36/mmf-za-makedonija-rast-na-bdp-od-3-5-inflacija-od-4.html",
+      "url": "https://time.mk/c/0f84087dcd/mmf-za-makedonija-rast-na-bdp-od-3-5-inflacija-od-4.html",
       "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1791991748/ynzapaojpib23aecqq9u.jpg",
       "date": "Wed, 14 Oct 2026 15:32:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Миноски: Јавен долг на праг од 60 проценти за држава како Македонија треба да е сериозен сигнал за загриженост | Журнал",
+      "title": "Недостиг на дизел во Европа | Иновативност",
       "description": "",
-      "url": "https://time.mk/c/95cd031fef/minoski-javen-dolg-na-prag-od-60-procenti-za-drzava-kako-makedonija-treba-da-e-seriozen-signal-za-zagrizenost.html",
-      "image": "",
-      "date": "Wed, 14 Oct 2026 18:38:51 +0000"
+      "url": "https://time.mk/c/1fc370bbf1/nedostig-na-dizel-vo-evropa.html",
+      "image": "https://inovativnost.mk/wp-content/uploads/2026/10/fuel-pexels-engin-akyurt-600x450.jpg",
+      "date": "Wed, 14 Oct 2026 17:10:57 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
       "title": "(Видео) Трагедија на Родос: 62-годишен маж загина во поплавите, Грција втор ден под силно невреме | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/8564669086/video-tragedija-na-rodos-62-godisen-maz-zagina-vo-poplavite-grcija-vtor-den-pod-silno-nevreme.html",
+      "url": "https://time.mk/c/9200c1a141/video-tragedija-na-rodos-62-godisen-maz-zagina-vo-poplavite-grcija-vtor-den-pod-silno-nevreme.html",
       "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/86283/conversions/text-max.jpg",
       "date": "Wed, 14 Oct 2026 17:46:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Србија ѝ испрати протестна нота на Хрватска поради наводно мешање во изборите | Слободен Печат",
+      "title": "Училиштата во Истанбул затворени поради поплави предизвикани од поројните дождови | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/76885e0267/srbija-i-isprati-protestna-nota-na-hrvatska-poradi-navodno-mesanje-vo-izborite.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2023/05/Ð¼Ð¸ÑÐ¸Ð½Ð³-Ð²ÑÑÐ¸Ñ-Ð±ÐµÐ»Ð³ÑÐ°Ð´-300x194.jpg",
-      "date": "Wed, 14 Oct 2026 19:56:58 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Хутите нападнаа седиште на нафтен гигант, брод потона во Ормутскиот теснец | Макфакс",
-      "description": "",
-      "url": "https://time.mk/c/3f59a93892/hutite-napadnaa-sediste-na-naften-gigant-brod-potona-vo-ormutskiot-tesnec.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/14166412.webp",
-      "date": "Wed, 14 Oct 2026 19:56:58 +0000"
+      "url": "https://time.mk/c/b19f3d3595/ucilistata-vo-istanbul-zatvoreni-poradi-poplavi-predizvikani-od-porojnite-dozdovi.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/pexels-sveta-k-75705601-8568720.jpg",
+      "date": "Wed, 14 Oct 2026 20:42:36 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
       "title": "Контејнерски брод потона во близина на Ормуската Теснина откако беше погоден од ракета | Независен",
       "description": "",
-      "url": "https://time.mk/c/2b627c56b0/kontejnerski-brod-potona-vo-blizina-na-ormuskata-tesnina-otkako-bese-pogoden-od-raketa.html",
+      "url": "https://time.mk/c/bf6575c8cd/kontejnerski-brod-potona-vo-blizina-na-ormuskata-tesnina-otkako-bese-pogoden-od-raketa.html",
       "image": "https://nezavisen.mk/wp-content/uploads/2026/04/ormuz-3.jpg",
       "date": "Wed, 14 Oct 2026 16:51:00 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Хутите нападнаа седиште на нафтен гигант, брод потона во Ормутскиот теснец | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/16ed836383/hutite-napadnaa-sediste-na-naften-gigant-brod-potona-vo-ormutskiot-tesnec.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/14166412.webp",
+      "date": "Wed, 14 Oct 2026 19:56:58 +0000"
     },
     {
       "category": "mkd",
@@ -211,29 +211,29 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Ништо од нов лунапарк догодина, Град Скопје уште во август го раскинал договорот | Слободен Печат",
+      "title": "(ВИДЕО+ФОТО) Раскинат е договорот за луна-паркот: Како изгледа локацијата каде беа планирани 16 нови реквизити? | Фокус",
       "description": "",
-      "url": "https://time.mk/c/0e0c5c0e74/nisto-od-nov-lunapark-dogodina-grad-skopje-uste-vo-avgust-go-raskinal-dogovorot.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/07/M79_7762-300x200.jpg",
-      "date": "Wed, 14 Oct 2026 14:42:54 +0000"
+      "url": "https://time.mk/c/f6cd427f8a/video-foto-raskinat-e-dogovorot-za-luna-parkot-kako-izgleda-lokacijata-kade-bea-planirani-16-novi-rekviziti.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/10/luna-park-1-1170x658.jpg",
+      "date": "Wed, 14 Oct 2026 11:36:57 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ФБИ со честитка до МВР за акцијата против ОЛВХ: Платформата ја загрозуваше безбедноста на илјадници американски граѓани | 360 степени",
+      "title": "МВР им поднесе кривична на двете лица во случајот со полициска бруталност – биле цел на акција поради купопродажба на марихуана | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/11de29eda6/fbi-so-cestitka-do-mvr-za-akcijata-protiv-olvh-platformata-ja-zagrozuvase-bezbednosta-na-iljadnici-amerikanski-gragjani.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/10/FB_IMG_1792002972449.jpg",
-      "date": "Wed, 14 Oct 2026 18:50:47 +0000"
+      "url": "https://time.mk/c/816eeeae6d/mvr-im-podnese-krivicna-na-dvete-lica-vo-slucajot-so-policiska-brutalnost-bile-cel-na-akcija-poradi-kupoprodazba-na-marihuana.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/10/mvr-tepanje-saraj-kolaz.jpg",
+      "date": "Wed, 14 Oct 2026 18:21:13 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "МВР со детали за случајот со наводниот напад на млади лица од страна на полицајци | Макфакс",
+      "title": "Жена од Аеродром имала опасна средба со провалник — го затекнала како ѝ оперира во станот | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/1a01bda021/mvr-so-detali-za-slucajot-so-navodniot-napad-na-mladi-lica-od-strana-na-policajci.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2018/10/43879233_734373560232854_5169918577339269120_n.jpg",
-      "date": "Wed, 14 Oct 2026 16:30:57 +0000"
+      "url": "https://time.mk/c/dc528fc312/zena-od-aerodrom-imala-opasna-sredba-so-provalnik-go-zateknala-kako-i-operira-vo-stanot.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/policija-ilustracija-kola.png-300x178.jpg",
+      "date": "Wed, 14 Oct 2026 21:04:55 +0000"
     },
     {
       "category": "mkd",
@@ -247,29 +247,29 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Од срам се црвенее, во Битола се „розовее” | Тера",
+      "title": "Антонио Јолевски нов виш јавен обвинител во Битола, доаѓа на местото на Пецо Везироски, кој е осомничен за мито | еМагазин",
       "description": "",
-      "url": "https://time.mk/c/a11efa32bd/od-sram-se-crvenee-vo-bitola-se-rozovee.html",
-      "image": "https://tera.mk/wp-content/uploads/2026/10/roze-5-150x150.jpg",
-      "date": "Wed, 14 Oct 2026 15:08:49 +0000"
+      "url": "https://time.mk/c/c655400a9b/antonio-jolevski-nov-vis-javen-obvinitel-vo-bitola-doagja-na-mestoto-na-peco-veziroski-koj-e-osomnicen-za-mito.html",
+      "image": "https://emagazin.mk/wp-content/uploads/2026/10/antonio-jolevski-300x169.jpg",
+      "date": "Wed, 14 Oct 2026 14:56:46 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Без дипломатска титула, а со дело на цела институција: Соња Должан ја промовирала Македонија преку 51 писател | Трн",
+      "title": "Која е Соња Должан, годинешна добитничка на меѓународното признание „Блаже Конески“ на Денот на МАНУ? | Независен",
       "description": "",
-      "url": "https://time.mk/c/f7392e163c/bez-diplomatska-titula-a-so-delo-na-cela-institucija-sonja-dolzan-ja-promovirala-makedonija-preku-51-pisatel.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/10/dolzan.jpg",
-      "date": "Wed, 14 Oct 2026 17:34:59 +0000"
+      "url": "https://time.mk/c/1e3273428d/koja-e-sonja-dolzan-godinesna-dobitnicka-na-megjunarodnoto-priznanie-blaze-koneski-na-denot-na-manu.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/dolzan-manu.jpg",
+      "date": "Wed, 14 Oct 2026 13:44:46 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Најпосетуваниот музеј во светот се соочува со можно затворање: Обновата чини една милијарда евра | Скопје1",
+      "title": "Милан Терзиќ посака добри филмови и убави разговори | Вечер",
       "description": "",
-      "url": "https://time.mk/c/0f08f2deda/najposetuvaniot-muzej-vo-svetot-se-soocuva-so-mozno-zatvoranje-obnovata-cini-edna-milijarda-evra.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/72743/conversions/text-max.jpg",
-      "date": "Wed, 14 Oct 2026 18:05:12 +0000"
+      "url": "https://time.mk/c/230ddb6c26/milan-terzik-posaka-dobri-filmovi-i-ubavi-razgovori.html",
+      "image": "https://cmsnebula.eu-central-1.linodeobjects.com/b79723b0-fe00-4f46-ae15-f16613a5853e/$f0d6234b-9e4f-4aec-b952-4e9029cb1d8b/dsc-5446.jpg",
+      "date": "Wed, 14 Oct 2026 21:56:45 +0000"
     }
   ],
   "de": [
@@ -458,6 +458,24 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place",
+      "description": "Keep up with all of the best deals that Lifehacker publishes, including laptops, speakers, TVs, security cameras, and more.",
+      "url": "https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg",
+      "date": "Wed, 14 Oct 2026 21:10:28 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "The Best Sales on Headphones and Earbuds Right Now",
+      "description": "Get great prices on headphones and earbuds from Sony, Beats, Nothing, and more.",
+      "url": "https://lifehacker.com/best-deals-on-earbuds-and-headphones-right-now?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01HF2HFA1NX2ZENNBGHJ79AMPW/hero-image.jpg",
+      "date": "Wed, 14 Oct 2026 21:02:44 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "How to Preorder the 'HomeView' and Apple's Other New Smart Devices",
       "description": "You can save $10 by preordering the HomeView through Amazon today.",
       "url": "https://lifehacker.com/tech/how-to-preorder-the-apple-homeview-and-other-smart-devices?utm_medium=RSS",
@@ -517,15 +535,6 @@
       "url": "https://lifehacker.com/tech/heres-how-gemini-4-argon-compares-to-gpt-6?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01M4XCKHM43W7R1PKWQP96NJMY/hero-image.jpg",
       "date": "Wed, 14 Oct 2026 15:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place",
-      "description": "Keep up with all of the best deals that Lifehacker publishes, including laptops, speakers, TVs, security cameras, and more.",
-      "url": "https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg",
-      "date": "Wed, 14 Oct 2026 14:07:08 +0000"
     },
     {
       "category": "eng",
@@ -625,15 +634,6 @@
       "url": "https://lifehacker.com/entertainment/samsung-odyssey-g9-gaming-monitor-deal-october-2026?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01J3NADFFGBDM74GHCWXZ3D2PQ/hero-image.jpg",
       "date": "Tue, 13 Oct 2026 17:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "Apple's First Home Hub Looks Like a Tiny iMac G4",
-      "description": "Here's everything the company announced at its \"Welcome Home\" hardware event.",
-      "url": "https://lifehacker.com/tech/apple-welcome-home-hardware-event?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M4TPY3F8JZ0H0JDR2NCYC2EF/hero-image.jpg",
-      "date": "Tue, 13 Oct 2026 14:30:00 +0000"
     },
     {
       "category": "eng",
@@ -901,6 +901,15 @@
     {
       "category": "starwars",
       "source": "Jedi News",
+      "title": "Take to the Skies with Flyers in Star Wars: Legion from Atomic Mass Games",
+      "description": "All wings report in as the battle takes to the skies with all-new flyers in Star Wars: Legion, bringing iconic ships like X-wings, TIE fighters, Vulture Droids, V-wings, and Fang Fighters to the tabletop game. The post Take to the Skies with Flyers in Star Wars: Legion from Atomic Mass Games appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/gaming/articles/take-to-the-skies-with-flyers-in-star-wars-legion-from-atomic-mass-games/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/maxresdefault-25-300x169.jpg",
+      "date": "Wed, 14 Oct 2026 18:34:46 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
       "title": "Ben Affleck Confirms He Turned Down Directing Star Wars: The Force Awakens",
       "description": "Speaking on Josh Horowitz’s Happy, Sad, Confused podcast, Ben Affleck has revealed that he was asked if he would consider directing Star Wars: The Force Awakens, sharing that he turned it down saying, \"I don’t think I can do it as well as somebody else\". The post Ben Affleck Confirms He Turned Down Directing Star Wars: The Force Awakens appeared first on Jedi News .",
       "url": "https://www.jedinews.com/film-music-tv/articles/ben-affleck-confirms-he-turned-down-directing-star-wars-the-force-awakens/",
@@ -987,287 +996,7 @@
       "url": "https://www.jedinews.com/podcasts/articles/start-your-engines-technical-manual-26-ut-60d-u-wing-starfighter/",
       "image": "https://www.jedinews.com/wp-content/uploads/2022/04/Fantha-Tracks-Start-Your-Engines-300x201.jpg",
       "date": "Tue, 13 Oct 2026 21:52:47 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Enjoy Stuff: Scaring Your Inner Child",
-      "description": "Jovial Jay and Shua bring you the latest episode of Enjoy Stuff: A TechnoRetro Podcast. The post Enjoy Stuff: Scaring Your Inner Child appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/enjoy-stuff-scaring-your-inner-child/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2021/05/RetroZap-Enjoy-Stuff-Techno-Retro-Featured-Image-300x201.jpg",
-      "date": "Tue, 13 Oct 2026 15:39:31 +0000"
     }
   ],
-  "youtube": [
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Hacker haben Supermarkt Kühltruhen in Frankreich auf 50 Grad aufgeheizt....",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/2eXYRwIPTgE",
-      "image": "https://i.ytimg.com/vi/2eXYRwIPTgE/hqdefault.jpg",
-      "date": "2026-10-14T10:15:06+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Wenn der Compiler deinen Code schwächt.... #informatik #code #programming #lernen #cybersecurity",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/N_muoVTYxQg",
-      "image": "https://i.ytimg.com/vi/N_muoVTYxQg/hqdefault.jpg",
-      "date": "2026-10-13T16:53:58+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Margaret Hamilton, eine der vielen großartigen Frauen in der Informatik ist von uns gegangen.",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/uM6aSJmTCbA",
-      "image": "https://i.ytimg.com/vi/uM6aSJmTCbA/hqdefault.jpg",
-      "date": "2026-10-12T16:00:18+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Was genau macht eigentlich AnyPS5 ?! #informatik #code #playstation #game #programming",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/DzSnqtFYpm4",
-      "image": "https://i.ytimg.com/vi/DzSnqtFYpm4/hqdefault.jpg",
-      "date": "2026-10-11T17:00:25+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Wird CODE jetzt wertlos ?!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=l5SbBoauUNE",
-      "image": "https://i.ytimg.com/vi/l5SbBoauUNE/hqdefault.jpg",
-      "date": "2026-10-11T14:22:29+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Wie funktioniert paralleles editieren in einem Dokument mit mehreren Nutzern ?!",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/wSsIYKE_Zog",
-      "image": "https://i.ytimg.com/vi/wSsIYKE_Zog/hqdefault.jpg",
-      "date": "2026-10-10T16:15:28+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Was genau war eigentlich die chipTAN ?! #informatik #chip #banking #cybersecurity #lernen",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/0Sw0YX75OlM",
-      "image": "https://i.ytimg.com/vi/0Sw0YX75OlM/hqdefault.jpg",
-      "date": "2026-10-09T13:30:13+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Alexa via Laser fernsteuern ?! #informatik #smarthome #alexa #siri #google #cybersecurity",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/9b112G2DG7U",
-      "image": "https://i.ytimg.com/vi/9b112G2DG7U/hqdefault.jpg",
-      "date": "2026-10-08T16:30:33+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Warum Grafikkarten wichtiger für KI sind als CPUs. #informatik #hardware #cpu #gpu #llm",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/NxgExgjdAHo",
-      "image": "https://i.ytimg.com/vi/NxgExgjdAHo/hqdefault.jpg",
-      "date": "2026-10-07T16:00:04+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Eine Kamera, 50k Autos und Software von 2017... Wie sicher ist Flock ?!",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/olowqm52KjI",
-      "image": "https://i.ytimg.com/vi/olowqm52KjI/hqdefault.jpg",
-      "date": "2026-10-06T10:15:18+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Set Off Alarms in Abandoned Paper Mill",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=_2m_nAVaYSg",
-      "image": "https://i.ytimg.com/vi/_2m_nAVaYSg/hqdefault.jpg",
-      "date": "2026-09-30T17:00:15+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Exploring The Last Coal Power Plant in Connecticut Bridgeport Harbor Station",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=CR84XRBKBzs",
-      "image": "https://i.ytimg.com/vi/CR84XRBKBzs/hqdefault.jpg",
-      "date": "2026-08-27T17:00:39+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Rocketdyne Santa Susana Field Laboratory Abandoned America Space Race (1948)",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=0lka-0REQrQ",
-      "image": "https://i.ytimg.com/vi/0lka-0REQrQ/hqdefault.jpg",
-      "date": "2026-04-23T17:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Mall Westfield Promenade Demolition AMC Seats And Screens Left Behind",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=UnG29VothuQ",
-      "image": "https://i.ytimg.com/vi/UnG29VothuQ/hqdefault.jpg",
-      "date": "2026-03-27T21:09:35+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Mall Westfield Promenade Demolition Fly by In And Out",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=fDnOH8ZsfTg",
-      "image": "https://i.ytimg.com/vi/fDnOH8ZsfTg/hqdefault.jpg",
-      "date": "2026-03-27T20:40:08+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "AMC Westfield Promenade Mall Raw Demolition Drone Footage",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/5iA5R3Jq4g0",
-      "image": "https://i.ytimg.com/vi/5iA5R3Jq4g0/hqdefault.jpg",
-      "date": "2026-03-27T18:03:29+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Mall Westfield Promenade Demolition AMC Coming Down First!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=SAxjFGjTiHQ",
-      "image": "https://i.ytimg.com/vi/SAxjFGjTiHQ/hqdefault.jpg",
-      "date": "2026-03-23T17:42:38+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Beautiful Art Deco Theater",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=ccfU0LSmkj8",
-      "image": "https://i.ytimg.com/vi/ccfU0LSmkj8/hqdefault.jpg",
-      "date": "2026-03-11T20:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Decommissioned Power Station #synthwave #synth #retrowave #abandonedplaces",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/mOUbNSMoBJs",
-      "image": "https://i.ytimg.com/vi/mOUbNSMoBJs/hqdefault.jpg",
-      "date": "2025-06-17T17:55:51+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Wheel of Misfortune Three Kids Mine Demolition",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=VXRselqoN-8",
-      "image": "https://i.ytimg.com/vi/VXRselqoN-8/hqdefault.jpg",
-      "date": "2025-06-17T17:45:42+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Backup & Play Xbox 360 Games on a Modded Xbox 360 - Multi-Disc, DLC, XBLA & More!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=KYOZR0zotSc",
-      "image": "https://i.ytimg.com/vi/KYOZR0zotSc/hqdefault.jpg",
-      "date": "2026-10-10T17:00:36+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Softmod the Xbox 360 - Peer Pressure Beginner Setup for Homebrew, Backups, and More!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=G8ceM_xXlO8",
-      "image": "https://i.ytimg.com/vi/G8ceM_xXlO8/hqdefault.jpg",
-      "date": "2026-10-07T19:00:34+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Bad Storage Unauthenticated: Use Any HDD or SSD on Bad Update for Xbox 360!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=svNvWiJAjow",
-      "image": "https://i.ytimg.com/vi/svNvWiJAjow/hqdefault.jpg",
-      "date": "2026-10-03T17:00:02+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Mario's Minute 105 - Wiping Old Drives and XBOX's Disc to Digital Program",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=C0pBgwThC68",
-      "image": "https://i.ytimg.com/vi/C0pBgwThC68/hqdefault.jpg",
-      "date": "2026-09-30T17:00:10+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "AutoDNS: A Useful Network Safety Plugin for Bad Update & ABadAvatar Consoles",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=dgX6KUQy4jk",
-      "image": "https://i.ytimg.com/vi/dgX6KUQy4jk/hqdefault.jpg",
-      "date": "2026-09-26T17:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "PS5 Hypervisor Drama, Xbox 360 Softmod Details Revealed, Switch 2 Game Binary Dumped - ModChat 148",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=eMTjE6NIAAQ",
-      "image": "https://i.ytimg.com/vi/eMTjE6NIAAQ/hqdefault.jpg",
-      "date": "2026-09-23T17:00:08+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "XeUnshackle Max: Auto-Start, Custom Boot Animations, and More for Bad Update or ABadAvatar!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=P2hOdoLzQ38",
-      "image": "https://i.ytimg.com/vi/P2hOdoLzQ38/hqdefault.jpg",
-      "date": "2026-09-19T17:00:35+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Run ABadAvatar from an Internal Drive - ABadAvatar HDD Setup & Transfer",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=seOPwVF3YEM",
-      "image": "https://i.ytimg.com/vi/seOPwVF3YEM/hqdefault.jpg",
-      "date": "2026-09-12T17:00:38+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Enable Aurora's Hidden Splash Screen on a Modded Xbox 360",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/8JwsEdKQLz4",
-      "image": "https://i.ytimg.com/vi/8JwsEdKQLz4/hqdefault.jpg",
-      "date": "2026-09-09T17:00:30+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "ABadAvatar 1.3: Instant Bad Update on Boot for Xbox 360! - Upgrade & Usage Guide",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=nchLv_yS5wI",
-      "image": "https://i.ytimg.com/vi/nchLv_yS5wI/hqdefault.jpg",
-      "date": "2026-09-04T17:00:27+00:00"
-    }
-  ]
+  "youtube": []
 }
