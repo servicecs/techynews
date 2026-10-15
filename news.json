@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T23:21:41.040138+00:00",
+  "updated": "2026-10-15T01:41:38.978548+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -139,18 +139,18 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Доизградбата на новата Клиничка болница во Штип се очекува да почне наредната есен | 24 Вести",
+      "title": "ШТИП ДОБИ КАБИНЕТ ЗА ДОЈКА НА ИНИЦИЈАТИВА НА УНИЈАТА НА ЖЕНИ НА ВМРО-ДПМНЕ Со култура на работа, добрите идеи стануваат јавни политики | +инфо",
       "description": "",
-      "url": "https://time.mk/c/f3741470cb/doizgradbata-na-novata-klinicka-bolnica-vo-stip-se-ocekuva-da-pocne-narednata-esen.html",
-      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1791990912/ylkg0a8078bimeqh5mld.jpg",
-      "date": "Wed, 14 Oct 2026 15:18:56 +0000"
+      "url": "https://time.mk/c/cc2f1acf7b/stip-dobi-kabinet-za-dojka-na-inicijativa-na-unijata-na-zeni-na-vmro-dpmne-so-kultura-na-rabota-dobrite-idei-stanuvaat-javni-politiki.html",
+      "image": "https://plusinfo.mk/wp-content/uploads/2026/10/marija-miteva-e1792014922932.jpg",
+      "date": "Wed, 14 Oct 2026 22:10:35 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
       "title": "ММФ за Македонија: Раст на БДП од 3,5%, инфлација од 4% | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/0f84087dcd/mmf-za-makedonija-rast-na-bdp-od-3-5-inflacija-od-4.html",
+      "url": "https://time.mk/c/f14e34130a/mmf-za-makedonija-rast-na-bdp-od-3-5-inflacija-od-4.html",
       "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1791991748/ynzapaojpib23aecqq9u.jpg",
       "date": "Wed, 14 Oct 2026 15:32:49 +0000"
     },
@@ -166,11 +166,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Видео) Трагедија на Родос: 62-годишен маж загина во поплавите, Грција втор ден под силно невреме | Скопје1",
+      "title": "Хаос во Грција поради силните олуи: Запрен сообраќај, издадено највисоко ниво на предупредување | 4NEWS",
       "description": "",
-      "url": "https://time.mk/c/9200c1a141/video-tragedija-na-rodos-62-godisen-maz-zagina-vo-poplavite-grcija-vtor-den-pod-silno-nevreme.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/86283/conversions/text-max.jpg",
-      "date": "Wed, 14 Oct 2026 17:46:47 +0000"
+      "url": "https://time.mk/c/63d88bdc1e/haos-vo-grcija-poradi-silnite-olui-zapren-soobrakaj-izdadeno-najvisoko-nivo-na-predupreduvanje.html",
+      "image": "https://4news.mk/wp-content/uploads/2026/10/screenshot_14.avif",
+      "date": "Wed, 14 Oct 2026 21:14:43 +0000"
     },
     {
       "category": "mkd",
@@ -184,20 +184,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Контејнерски брод потона во близина на Ормуската Теснина откако беше погоден од ракета | Независен",
-      "description": "",
-      "url": "https://time.mk/c/bf6575c8cd/kontejnerski-brod-potona-vo-blizina-na-ormuskata-tesnina-otkako-bese-pogoden-od-raketa.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/04/ormuz-3.jpg",
-      "date": "Wed, 14 Oct 2026 16:51:00 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
       "title": "Хутите нападнаа седиште на нафтен гигант, брод потона во Ормутскиот теснец | Макфакс",
       "description": "",
       "url": "https://time.mk/c/16ed836383/hutite-napadnaa-sediste-na-naften-gigant-brod-potona-vo-ormutskiot-tesnec.html",
       "image": "https://makfax.com.mk/wp-content/uploads/2026/10/14166412.webp",
       "date": "Wed, 14 Oct 2026 19:56:58 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Контејнерски брод потона во близина на Ормуската Теснина откако беше погоден од ракета | Независен",
+      "description": "",
+      "url": "https://time.mk/c/bf6575c8cd/kontejnerski-brod-potona-vo-blizina-na-ormuskata-tesnina-otkako-bese-pogoden-od-raketa.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/04/ormuz-3.jpg",
+      "date": "Wed, 14 Oct 2026 16:51:00 +0000"
     },
     {
       "category": "mkd",
@@ -901,15 +901,6 @@
     {
       "category": "starwars",
       "source": "Jedi News",
-      "title": "Take to the Skies with Flyers in Star Wars: Legion from Atomic Mass Games",
-      "description": "All wings report in as the battle takes to the skies with all-new flyers in Star Wars: Legion, bringing iconic ships like X-wings, TIE fighters, Vulture Droids, V-wings, and Fang Fighters to the tabletop game. The post Take to the Skies with Flyers in Star Wars: Legion from Atomic Mass Games appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/gaming/articles/take-to-the-skies-with-flyers-in-star-wars-legion-from-atomic-mass-games/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/maxresdefault-25-300x169.jpg",
-      "date": "Wed, 14 Oct 2026 18:34:46 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
       "title": "Ben Affleck Confirms He Turned Down Directing Star Wars: The Force Awakens",
       "description": "Speaking on Josh Horowitz’s Happy, Sad, Confused podcast, Ben Affleck has revealed that he was asked if he would consider directing Star Wars: The Force Awakens, sharing that he turned it down saying, \"I don’t think I can do it as well as somebody else\". The post Ben Affleck Confirms He Turned Down Directing Star Wars: The Force Awakens appeared first on Jedi News .",
       "url": "https://www.jedinews.com/film-music-tv/articles/ben-affleck-confirms-he-turned-down-directing-star-wars-the-force-awakens/",
@@ -996,6 +987,15 @@
       "url": "https://www.jedinews.com/podcasts/articles/start-your-engines-technical-manual-26-ut-60d-u-wing-starfighter/",
       "image": "https://www.jedinews.com/wp-content/uploads/2022/04/Fantha-Tracks-Start-Your-Engines-300x201.jpg",
       "date": "Tue, 13 Oct 2026 21:52:47 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Enjoy Stuff: Scaring Your Inner Child",
+      "description": "Jovial Jay and Shua bring you the latest episode of Enjoy Stuff: A TechnoRetro Podcast. The post Enjoy Stuff: Scaring Your Inner Child appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/enjoy-stuff-scaring-your-inner-child/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2021/05/RetroZap-Enjoy-Stuff-Techno-Retro-Featured-Image-300x201.jpg",
+      "date": "Tue, 13 Oct 2026 15:39:31 +0000"
     }
   ],
   "youtube": []
