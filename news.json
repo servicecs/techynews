@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-15T07:07:06.579619+00:00",
+  "updated": "2026-10-15T12:46:47.062976+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Колку го користиме потенцијалот на е-трговијата и вештачката интелигенција ?",
+      "description": "И покрај напредокот во дигиталната поврзаност, Западен Балкан сè уште заостанува во искористувањето на можностите на е-трговијата. Дигиталните вештини, навиките за плаќање и подготвеноста на компаниите за дигитална трансформација се меѓу клучните предизвици што ќе бидат во фокусот на деветтата Регионална конференција за е-трговија, на 3 ноември во Скопје. Земјите од Западен Балкан бележат значителен […]",
+      "url": "https://smartportal.mk/novosti/nastani/kolku-go-koristime-potencijalot-na-e-trgovijata-i-vi/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/reg-konf-e-trgovija-2025-1-150x150.webp",
+      "date": "Thu, 15 Oct 2026 12:26:15 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Startup Weekend Skopje се враќа по 14-ти пат: 54 часа за создавање на следната голема стартап идеја",
+      "description": "Од 6 до 8 ноември 2026 година, Скопје повторно ќе биде центар на иновациите, претприемништвото и новите технологии. По 14-ти пат, Techstars Startup Weekend Skopje ќе ги обедини идните претприемачи, креативци, програмери, дизајнери и сите оние кои сакаат својата идеја да ја претворат во реален бизнис. Овогодинешното издание ќе биде посветено на Artificial Intelligence (AI), […]",
+      "url": "https://smartportal.mk/novosti/nastani/startup-weekend-skopje-se-vrakja-po-14ti-pat/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/IMG_2670-150x150.webp",
+      "date": "Thu, 15 Oct 2026 12:11:52 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Кога талентот има поддршка, успесите немаат граници: Четири години заедничка приказна со Македон Димитровски",
+      "description": "За знаењето и талентот не постојат граници, ниту пак години. Македон Димитровски, момчето чие име веќе години наназад е синоним за вонсериски математички ум и гордост на нашата земја, продолжува да реди успеси и да го потврдува својот исклучителен потенцијал на домашната и меѓународната сцена. Зад секој негов резултат стојат огромна посветеност, љубопитност и желба […]",
+      "url": "https://smartportal.mk/novosti/licnosti/cetiri-godini-zaednicka-prikazna-so-makedon/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/slika-makedon-3-150x150.webp",
+      "date": "Thu, 15 Oct 2026 11:51:42 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "LineageOS 24 носи Android 17 на постари телефони и нов начин на инсталација преку прелистувач",
+      "description": "Тимот на LineageOS, една од најпознатите алтернативни верзии на Android со отворен код, ја објави LineageOS 24 верзијата, која работи врз Android 17. Google ја пушти финалната верзија на Android 17 во јуни, а тимот вели дека овој пат ги пренел своите промени побрзо од очекуваното, па новата верзија стигнува порано од вообичаено. Најголемата новост за […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/lineageos-24/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/lineageos-24-hero-150x150.webp",
+      "date": "Thu, 15 Oct 2026 07:35:46 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -57,219 +93,183 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Facebook го воведува „Your algorithm“ каде корисниците со свои зборови кажуваат што сакаат да им биде прикажувано",
-      "description": "Meta го претстави „Your algorithm“ за Facebook, посебен дел каде корисниците можат сами да додаваат и да уредуваат теми што сакаат да ги гледаат во новостите („Feed“) и во Reels. До алатката се стигнува преку менито со три точки, кое според компанијата е ажурирано кај секоја објава за полесен пристап до новите опции. Дополнително, по притискање […]",
-      "url": "https://smartportal.mk/novosti/socijalni-mrezi/facebook-your-algorithm/",
-      "image": "https://about.fb.com/wp-content/uploads/2026/10/01_Your-Algo_01.mp4",
-      "date": "Wed, 14 Oct 2026 10:21:37 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Mozilla го претстави Firefox Enterprise за компании и институции со управување од сопствени сервери",
-      "description": "Mozilla го претстави Firefox Enterprise, верзија на нивниот прелистувач наменета за организации со строги барања за безбедност, управување и усогласеност со прописите. Тој го комбинира прелистувачот со конзола за управување што организациите можат да ја стартуваат на сопствената инфраструктура. Преку конзолата IT тимовите централно ги управуваат правилата и пристапот во прелистувачот, контролираат како податоците се движат […]",
-      "url": "https://smartportal.mk/novosti/softver-prog/mozilla-firefox-enterprise/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Enterprise-Distilled-Thumbnail1-1.png-150x150.webp",
-      "date": "Wed, 14 Oct 2026 09:44:03 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Google Play почна да овозможува инсталирање лични апликации направени со вештачка интелигенција без програмерска сметка",
-      "description": "Google вчера објави повеќе новини за Google Play, а најинтересната е за оние кои не се програмери, а сега „можат да бидат“. Продавницата сега може да ги стартува и апликациите што корисниците сами ќе си ги направат со вештачка интелигенција. Апликацијата се прави во Google AI Studio, каде што со зборови се опишува што треба да […]",
-      "url": "https://smartportal.mk/novosti/softver-prog/google-play-licni-vi-aplikacii/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/personal-app-google-play-f-150x150.webp",
-      "date": "Wed, 14 Oct 2026 09:02:14 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Кои средношколци ќе го освојат милионот? Започна натпреварот за најдобра бизнис идеја",
-      "description": "Патот до милионот е следен: од сите пријавени бизнис идеи на средношколците од Македонија, на 10 ноември ќе бидат објавени 120-те најдобри, по што започнува јавното онлајн гласање кое ќе трае до 25 ноември. Во истиот период ќе бидат организирани и седум менторски работилници, на кои учесниците ќе добијат практични совети за развојот на своите […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/zapocna-natprevarot-za-najdobra-biznis-ideja/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/SLIKA-NASLOVNA-150x150.webp",
-      "date": "Wed, 14 Oct 2026 08:45:31 +0000"
+      "source": "Time.mk - All",
+      "title": "Слепите лица бараат повеќе права: Полесен пристап и самостоен живот | ТВ21",
+      "description": "",
+      "url": "https://time.mk/c/b247605efb/slepite-lica-baraat-poveke-prava-polesen-pristap-i-samostoen-zivot.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2026/10/sobranie-den-na-beliot-stap-1024x683.jpg",
+      "date": "Thu, 15 Oct 2026 12:12:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Скопје џез фестивал по 45. пат – рекорден број изведувачи од 13 земји, вечерва 3 концерти | Умно",
+      "title": "Мицкоски за бегството на Михаилова: Кога тогаш ќе одговара | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/05b748cb17/skopje-dzez-festival-po-45-pat-rekorden-broj-izveduvaci-od-13-zemji-vecerva-3-koncerti.html",
-      "image": "https://umno.mk/wp-content/uploads/2026/10/oktom1.jpeg",
-      "date": "Thu, 15 Oct 2026 06:11:22 +0000"
+      "url": "https://time.mk/c/17222177fe/mickoski-za-begstvoto-na-mihailova-koga-togas-ke-odgovara.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1792066437/c8h2srpfuhsd2gxwceyn.jpg",
+      "date": "Thu, 15 Oct 2026 12:17:00 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВИДЕО | Тирана се тресе: демонстранти напаѓаат згради, банки, продавници — има повредени, реагира и ЕУ | Слободен Печат",
+      "title": "НФФ: Мерката 115 – „Поддршка за активен женски член во земјоделското домаќинство“ е можност за економско јакнење на жените земјоделки, потребни се и системски решенија за нивна социјална сигурност | Економија и Бизнис",
       "description": "",
-      "url": "https://time.mk/c/4ea6dccb4c/video-tirana-se-trese-demonstranti-napagjaat-zgradi-banki-prodavnici-ima-povredeni-reagira-i-eu.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/tirana-300x172.png",
-      "date": "Thu, 15 Oct 2026 06:44:57 +0000"
+      "url": "https://time.mk/c/ad3dbd9cb5/nff-merkata-115-poddrska-za-aktiven-zenski-clen-vo-zemjodelskoto-domakinstvo-e-moznost-za-ekonomsko-jaknenje-na-zenite-zemjodelki-potrebni-se-i-sistemski-resenija-za-nivna-socijalna-sigurnost.html",
+      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/10/art-24-1024x682.jpg",
+      "date": "Thu, 15 Oct 2026 12:32:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Со почит“, изложба на Владимир Муратовски Диво во Скопје | Макфакс",
+      "title": "Прворангираната кандидатка за член на Судскиот совет доби сто поени од пратеник од власта, а само десет од претставник на граѓанскиот сектор | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/fdbce9392b/so-pocit-izlozba-na-vladimir-muratovski-divo-vo-skopje.html",
+      "url": "https://time.mk/c/ac03da4d51/prvorangiranata-kandidatka-za-clen-na-sudskiot-sovet-dobi-sto-poeni-od-pratenik-od-vlasta-a-samo-deset-od-pretstavnik-na-gragjanskiot-sektor.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/10/Emilija-Aleksovska.jpg",
+      "date": "Thu, 15 Oct 2026 11:58:39 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "За првпат во историјата на Македонија: Онколошката грижа на маса на највисоко ниво | Скопје инфо",
+      "description": "",
+      "url": "https://time.mk/c/7eef68d694/za-prvpat-vo-istorijata-na-makedonija-onkoloskata-griza-na-masa-na-najvisoko-nivo.html",
+      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/oktomvri/image-262410.jpg?itok=y4AJYqdz",
+      "date": "Thu, 15 Oct 2026 11:44:57 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Во изминатата недела нема нови случаи на западнонилска треска, почина жена од Росоман | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/024296aa17/vo-izminatata-nedela-nema-novi-slucai-na-zapadnonilska-treska-pocina-zena-od-rosoman.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2021/01/141579094_251446289686548_7210717615527246155_n-1.jpg",
+      "date": "Thu, 15 Oct 2026 09:20:58 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Кризата со дизел ја враќа во живот скопската Рафинерија? | Независен",
+      "description": "",
+      "url": "https://time.mk/c/bda30c44cb/krizata-so-dizel-ja-vraka-vo-zivot-skopskata-rafinerija.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/okta-laboratorija.jpeg",
+      "date": "Thu, 15 Oct 2026 11:10:43 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "ДЗР: Неправилности и неусогласености во работењето на Општина Кичево | Колегиум",
+      "description": "",
+      "url": "https://time.mk/c/9cdf06e426/dzr-nepravilnosti-i-neusoglasenosti-vo-rabotenjeto-na-opstina-kicevo.html",
+      "image": "https://kolegium.mk/wp-content/uploads/2026/10/Kicevo-300x169.jpg",
+      "date": "Thu, 15 Oct 2026 11:26:41 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Рама не поднесува оставка, по барањето на демонстрантите да го стори тоа | Колегиум",
+      "description": "",
+      "url": "https://time.mk/c/0c16084edc/rama-ne-podnesuva-ostavka-po-baranjeto-na-demonstrantite-da-go-stori-toa.html",
+      "image": "https://kolegium.mk/wp-content/uploads/2026/03/edi-rama-foto-vlada-na-rsm--300x200.jpg",
+      "date": "Thu, 15 Oct 2026 10:54:41 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Пленковиќ за протестната нота на Србија: „Не знам ни до кого е упатена, нека се справат со своите граѓани“ | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/26cc653604/plenkovik-za-protestnata-nota-na-srbija-ne-znam-ni-do-kogo-e-upatena-neka-se-spravat-so-svoite-gragjani.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2024/01/Ð°Ð½Ð´ÑÐµÑ-Ð¿Ð»ÐµÐ½ÐºÐ¾Ð²Ð¸Ñ-e1736790480249-300x185.jpg",
+      "date": "Thu, 15 Oct 2026 10:58:43 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "САД испраќаат 600 војници во Латинска Америка, се подготвуваат операции против наркокартелите | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/9915930969/sad-isprakaat-600-vojnici-vo-latinska-amerika-se-podgotvuvaat-operacii-protiv-narkokartelite.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/79356/conversions/text-max.jpg",
+      "date": "Thu, 15 Oct 2026 12:18:40 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Панична распродажба на технолошки акции: берзата во Јужна Кореја падна 7,6%, тргувањето беше прекинато | Трн",
+      "description": "",
+      "url": "https://time.mk/c/942c3d343f/panicna-rasprodazba-na-tehnoloski-akcii-berzata-vo-juzna-koreja-padna-7-6-trguvanjeto-bese-prekinato.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/10/kospi-trn-16x9-1.jpg",
+      "date": "Thu, 15 Oct 2026 10:20:55 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Луна-паркот недостижен како Месечината | Независен",
+      "description": "",
+      "url": "https://time.mk/c/d7caf701be/luna-parkot-nedostizen-kako-mesecinata.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2021/01/aneta-stojkovska-300x200.jpg",
+      "date": "Thu, 15 Oct 2026 11:26:41 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Какви првични забелешки имале Град Скопје и „Водовод“ за „Барутана“, кои подоцна сепак дале позитивно мислење за спорниот ДУП?! | Фокус",
+      "description": "",
+      "url": "https://time.mk/c/6bb23994b2/kakvi-prvicni-zabeleski-imale-grad-skopje-i-vodovod-za-barutana-koi-podocna-sepak-dale-pozitivno-mislenje-za-sporniot-dup.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/10/barutana.png",
+      "date": "Thu, 15 Oct 2026 11:10:43 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Две возила изгореле во пожар во Ѓорче Петров | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/bcfb530f98/dve-vozila-izgorele-vo-pozar-vo-gjorce-petrov.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/81942/conversions/text-max.jpg",
+      "date": "Thu, 15 Oct 2026 12:26:41 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Дал 2.000 евра за документи за престој и работа во странство, па останал и без пари и без работа | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/95de9ec87d/dal-2-000-evra-za-dokumenti-za-prestoj-i-rabota-vo-stranstvo-pa-ostanal-i-bez-pari-i-bez-rabota.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/80785/conversions/text-max.jpg",
+      "date": "Thu, 15 Oct 2026 12:26:41 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Јовановски презентираше десетмесечен отчет за Кичево: Реконструирани патишта, нови паркови и домашќинско управување со буџетот | Press24",
+      "description": "",
+      "url": "https://time.mk/c/efd2a1118a/jovanovski-prezentirase-desetmesecen-otcet-za-kicevo-rekonstruirani-patista-novi-parkovi-i-domaskinsko-upravuvanje-so-budzetot.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/77254.jpg",
+      "date": "Thu, 15 Oct 2026 10:30:58 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Димитровски: Битола работи на зелени решенија и искористување на обновливите извори | Булевар",
+      "description": "",
+      "url": "https://time.mk/c/ac48d280f4/dimitrovski-bitola-raboti-na-zeleni-resenija-i-iskoristuvanje-na-obnovlivite-izvori.html",
+      "image": "https://bulevar.mk/wp-content/uploads/2026/10/img_1140-1024x682.jpeg",
+      "date": "Thu, 15 Oct 2026 08:22:55 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Мастерклас на Мирослав Терзиќ и Бранислав Трифуновиќ на Киненова: Раскажувајте приказни и никогаш и по никоја цена не се откажувајте од своите идеи | Независен",
+      "description": "",
+      "url": "https://time.mk/c/e71816c116/masterklas-na-miroslav-terzik-i-branislav-trifunovik-na-kinenova-raskazuvajte-prikazni-i-nikogas-i-po-nikoja-cena-ne-se-otkazuvajte-od-svoite-idei.html",
       "image": "",
-      "date": "Thu, 15 Oct 2026 06:41:10 +0000"
+      "date": "Thu, 15 Oct 2026 11:02:37 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Работилница „Чекор по чекор – библиотека за сите“ по повод Меѓународниот ден на белиот стап | Независен",
+      "title": "Фестивал на улична уметност French Connection на 16 и 17 октомври – прв проект на Француски институт и Фондацијата „„Скопје ЕПК 2028“ | Независен",
       "description": "",
-      "url": "https://time.mk/c/e7445fc384/rabotilnica-cekor-po-cekor-biblioteka-za-site-po-povod-megjunarodniot-den-na-beliot-stap.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/bel-stap.jpg",
-      "date": "Thu, 15 Oct 2026 05:35:19 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Хоџа: Министерството за животна средина не е надлежно за отпадот во Куманово | Скопје инфо",
-      "description": "",
-      "url": "https://time.mk/c/17ea210690/hodza-ministerstvoto-za-zivotna-sredina-ne-e-nadlezno-za-otpadot-vo-kumanovo.html",
-      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/oktomvri/image-262374.png?itok=a_VYwHwn",
-      "date": "Thu, 15 Oct 2026 06:34:56 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Ива Михајлова во Бугарија, Македонија заглавена во институционални лавиринти | Проверено",
-      "description": "",
-      "url": "https://time.mk/c/2f1c29d435/iva-mihajlova-vo-bugarija-makedonija-zaglavena-vo-institucionalni-lavirinti.html",
-      "image": "https://provereno.mk/wp-content/uploads/2026/10/849694694_1098250336515154_2510052633375168837_n-300x120.jpg",
-      "date": "Thu, 15 Oct 2026 05:11:20 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Работат на нивите, но не заработуваат: Невидливиот труд на руралните жените | Трн",
-      "description": "",
-      "url": "https://time.mk/c/7fd6deca0c/rabotat-na-nivite-no-ne-zarabotuvaat-nevidliviot-trud-na-ruralnite-zenite.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/10/pexels-cottonbro-5561527.jpg",
-      "date": "Thu, 15 Oct 2026 07:02:53 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Студентски живот за 28.700 денари месечно | Трн",
-      "description": "",
-      "url": "https://time.mk/c/6590f03703/studentski-zivot-za-28-700-denari-mesecno.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/02/whatsapp-image-2026-02-09-at-12.43.06-1024x627-1.jpeg",
-      "date": "Thu, 15 Oct 2026 06:31:18 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Танкер во романски територијални води погоден од дрон? | Макфакс",
-      "description": "",
-      "url": "https://time.mk/c/c9fc0c8837/tanker-vo-romanski-teritorijalni-vodi-pogoden-od-dron.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/tanker-depositphotos_19488325_xl.webp",
-      "date": "Thu, 15 Oct 2026 06:42:58 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Две жртви во поплавите во Истанбул, меѓу загинатите и 14-годишно момче | Рацин",
-      "description": "",
-      "url": "https://time.mk/c/2f3bcb9407/dve-zrtvi-vo-poplavite-vo-istanbul-megju-zaginatite-i-14-godisno-momce.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/10/poplavi-istanbul-848x290.jpg?x98754",
-      "date": "Thu, 15 Oct 2026 05:27:20 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Паднаа акциите на Волстрит | Слободен Печат",
-      "description": "",
-      "url": "https://time.mk/c/76b02273aa/padnaa-akciite-na-volstrit.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2020/06/berza-2-300x173.jpg",
-      "date": "Thu, 15 Oct 2026 06:19:22 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Мадуро денеска ќе се појави пред суд во САД по нови обвиненија за тортура | Независен",
-      "description": "",
-      "url": "https://time.mk/c/fb9e483a64/maduro-deneska-ke-se-pojavi-pred-sud-vo-sad-po-novi-obvinenija-za-tortura.html",
-      "image": "",
-      "date": "Thu, 15 Oct 2026 06:36:36 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Неколку скопски улици без вода за пиење | Економија и Бизнис",
-      "description": "",
-      "url": "https://time.mk/c/be7296a926/nekolku-skopski-ulici-bez-voda-za-pienje.html",
-      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/06/voda-1024x564.jpg",
-      "date": "Thu, 15 Oct 2026 06:39:00 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Во Скопје почнува четвртиот Меѓународен конгрес на студенти по медицина и биомедицински науки | Бизнис Вести",
-      "description": "",
-      "url": "https://time.mk/c/998e4d44eb/vo-skopje-pocnuva-cetvrtiot-megjunaroden-kongres-na-studenti-po-medicina-i-biomedicinski-nauki.html",
-      "image": "https://biznisvesti.mk/wp-content/uploads/2026/10/20261014171105_big_730x400_44-300x141.webp",
-      "date": "Thu, 15 Oct 2026 05:21:22 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Драма за жена од Македонија – И упаднал дома и се заканувал пред родителите | Press24",
-      "description": "",
-      "url": "https://time.mk/c/29cac5abbe/drama-za-zena-od-makedonija-i-upadnal-doma-i-se-zakanuval-pred-roditelite.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/77122.png",
-      "date": "Thu, 15 Oct 2026 06:31:18 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Пронајдена граната од Првата светска војна во битолско | Press24",
-      "description": "",
-      "url": "https://time.mk/c/c769a1ded2/pronajdena-granata-od-prvata-svetska-vojna-vo-bitolsko.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/77124.jpg",
-      "date": "Thu, 15 Oct 2026 06:32:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Каков имот пријавил Антонио Јолевски, кој е назначен за нов виш јавен обвинител во Битола | еМагазин",
-      "description": "",
-      "url": "https://time.mk/c/c6499d72cc/kakov-imot-prijavil-antonio-jolevski-koj-e-naznacen-za-nov-vis-javen-obvinitel-vo-bitola.html",
-      "image": "https://emagazin.mk/wp-content/uploads/2026/10/antonio-jolevski-300x169.jpg",
-      "date": "Thu, 15 Oct 2026 05:07:20 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Над 180 учесници и гости од регионот, меѓу кои студенти и млади научници, ќе учествуваат на седмиот Конгрес на еколозите на Македонија | Бизнис Вести",
-      "description": "",
-      "url": "https://time.mk/c/b0f188ea27/nad-180-ucesnici-i-gosti-od-regionot-megju-koi-studenti-i-mladi-naucnici-ke-ucestvuvaat-na-sedmiot-kongres-na-ekolozite-na-makedonija.html",
-      "image": "https://biznisvesti.mk/wp-content/uploads/2026/10/20261014170527_big_730x400_39-300x300.webp",
-      "date": "Thu, 15 Oct 2026 05:19:16 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ВО ОХРИД СУМ НАЈСПОКОЕН, ВЕЛИ ЧЕТКАР ЗА НОВАТА ПЕСНА ПОСВЕТЕНА НА РОДНИОТ ГРАД | Сакам да кажам",
-      "description": "",
-      "url": "https://time.mk/c/af5c69ceb2/vo-ohrid-sum-najspokoen-veli-cetkar-za-novata-pesna-posvetena-na-rodniot-grad.html",
-      "image": "https://smart.sdk.mk/wp-content/uploads/2026/10/cetkar-ohrid-958x575.jpg",
-      "date": "Thu, 15 Oct 2026 06:54:54 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Нинослав Спировски е најдобар македонски џез музичар за 2026 | Умно",
-      "description": "",
-      "url": "https://time.mk/r/NONE/50d3ad9acf/ninoslav-spirovski-e-najdobar-makedonski-dzez-muzicar-za-2026.html",
-      "image": "https://time.mk/r/NONE/50d3ad9acf/images/thumb/34f83833e0.jpg",
-      "date": "Thu, 15 Oct 2026 06:50:57 +0000"
+      "url": "https://time.mk/c/cac0c15905/festival-na-ulicna-umetnost-french-connection-na-16-i-17-oktomvri-prv-proekt-na-francuski-institut-i-fondacijata-skopje-epk-2028.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/Plakat_festival_arts_rue.png",
+      "date": "Thu, 15 Oct 2026 12:04:59 +0000"
     }
   ],
   "de": [
@@ -458,6 +458,15 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "This Exceptionally Fast Asus OLED Gaming Monitor Is $210 Off Right Now",
+      "description": "The Asus ROG Strix OLED is now $549, down from $759.",
+      "url": "https://lifehacker.com/tech/asus-rog-strix-oled-xg27acdng-monitor-sale-october-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01KT1AMKQANK7AS4RE8PDMN3N3/hero-image.jpg",
+      "date": "Thu, 15 Oct 2026 12:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place",
       "description": "Keep up with all of the best deals that Lifehacker publishes, including laptops, speakers, TVs, security cameras, and more.",
       "url": "https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS",
@@ -628,12 +637,39 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "One of the Best Entry-Level Ultrawide Gaming Monitors Is $500 Off Right Now",
-      "description": "This 49-inch behemoth of a gaming monitor is at its lowest price of the year.",
-      "url": "https://lifehacker.com/entertainment/samsung-odyssey-g9-gaming-monitor-deal-october-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01J3NADFFGBDM74GHCWXZ3D2PQ/hero-image.jpg",
-      "date": "Tue, 13 Oct 2026 17:00:00 +0000"
+      "source": "PCWorld",
+      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
+      "description": "If you’re looking for an affordable Windows machine under $500 , a blazing fast gaming beast for those intense matches, or a portable 2-in-1 for school or work, you’ve got plenty of great choices right now. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 80 laptops every year. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches",
+      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/550968-0-42678600-1792066249-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
+      "date": "Thu, 15 Oct 2026 12:10:32 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Google’s new Googlebook has clever AI tricks. I’d still pick a Windows laptop",
+      "description": "Googlebooks are here, promising productivity aplenty within the Google ecosystem. But how do Google’s new productivity features compare versus the more familiar Windows 11? That’s the goal for Smart Mode this week: examining how you (and I) can use Googlebooks as productivity devices, specifically looking at several of the features both offer. Unfortunately, two of the most novel platforms the PC has seen in years — the Googlebook and the Nvidia RTX Spark platform — have landed on the PC within ",
+      "url": "https://www.pcworld.com/article/3258718/googles-new-googlebook-has-clever-ai-tricks-id-still-pick-a-windows-laptop.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3258718-0-31244600-1792065635-Googlebook-vs-Windows-PC.jpg?quality=50&strip=all",
+      "date": "Thu, 15 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "NBA 2026-2027 streaming guide: Making sense of total chaos",
+      "description": "2026 is an especially weird year for watching the NBA. With the demise of regional FanDuel Sports Networks, and the league’s long-planned national streaming service at least a year away , many teams were suddenly in need of temporary plans for this season. The result is a patchwork of standalone streaming services, free over-the-air broadcasts, and traditional TV options that vary based on where you live. You might think the NBA would try to help, perhaps with a single page that helps fans sort ",
+      "url": "https://www.pcworld.com/article/3260994/nba-2026-2027-streaming-guide-making-sense-of-total-chaos.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3260994-0-67539300-1792062018-markus-spiske-BfphcCvhl6E-unsplash-1536x1002-1.jpg?quality=50&strip=all",
+      "date": "Thu, 15 Oct 2026 11:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Today only! Ad-free browsing is $15 for life",
+      "description": "TL;DR: Block ads, trackers, and malware on up to nine devices with an AdGuard Family Plan lifetime subscription , just $14.97 (MSRP $169.99) until 11:59 p.m. PT. Pop-ups, autoplay video ads, and trackers show up on every device in a household, from the family PC to a kid’s phone. AdGuard blocks them on up to nine devices, and an AdGuard Family Plan lifetime subscription is just $14.97 (MSRP $169.99) for a very limited time: our Deal Days Extended sale ends at midnight tonight (October 15). AdGua",
+      "url": "https://www.pcworld.com/article/3260941/today-only-ad-free-browsing-is-15-for-life.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3260941-0-46784300-1792051229-sale_25093_article_image.jpg?quality=50&strip=all",
+      "date": "Thu, 15 Oct 2026 08:00:00 +0000"
     },
     {
       "category": "eng",
@@ -688,42 +724,6 @@
       "url": "https://www.pcworld.com/article/3229547/your-4tb-ssd-probably-has-the-wrong-cluster-size-for-large-files.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3229547-0-93051100-1791988228-kingston65.jpg?quality=50&strip=all",
       "date": "Wed, 14 Oct 2026 14:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Microsoft breaks record, fixing 1,416 security flaws. Update Windows now",
-      "description": "Yesterday was October Patch Tuesday, and Microsoft’s security updates addressed 1,416 new vulnerabilities. Not only is that another record broken, but it’s also the first time over 1,000 flaws were fixed in a single month. Indeed, October 2026 saw more security vulnerabilities fixed in the month than were fixed in any previous year . Alongside flaws fixed in Windows and Office, we also saw a bunch of fixes in Exchange Server, SQL Server, Hyper-V, Skype for Business, Microsft Defender, .NET Frame",
-      "url": "https://www.pcworld.com/article/3260668/microsoft-breaks-record-fixing-1416-security-flaws-update-windows-now.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3260668-0-65803000-1791987917-WindowsUpdate.jpg?quality=50&strip=all",
-      "date": "Wed, 14 Oct 2026 14:25:06 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Alienware’s $350 OLED monitor is the PC upgrade gamers need in 2026",
-      "description": "At a glance Expert's Rating Pros Stunning QD-OLED picture quality with perfect blacks and vibrant colors Silky-smooth 240Hz refresh rate and near-instant response times Excellent value at just $350 Sharp 1440p resolution hits the sweet spot for PC gaming Cons Underwhelming SDR and HDR brightness Noticeable, mild text fringing during desktop use HDMI limited to 120Hz No USB connectivity or built-in speakers Our Verdict Alienware’s AW2726DM delivers the OLED gaming experience that once cost a fort",
-      "url": "https://www.pcworld.com/article/3259818/alienware-aw2726dm-oled-review.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3259818-0-65327800-1791982821-alienware-350-oled-pic.jpg?quality=50&strip=all",
-      "date": "Wed, 14 Oct 2026 13:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Carbon fiber, magnesium, ceraluminum: Why your next laptop will feel different",
-      "description": "Laptops feel different this year. I mean, literally. Advances in laptop materials are changing the game. Forget plastic versus metal. PC makers are now competing on physical feel—and there’s a whole new world of different metals and alloys to choose from. Laptop chassis materials are something else these days. I recently wrote about how plastic laptops are underrated —plastic isn’t a bad material for laptops these days, with well-made plastic laptops sporting a comfortable rubbery touch that doe",
-      "url": "https://www.pcworld.com/article/3038742/carbon-fiber-magnesium-ceraluminum-why-your-next-laptop-will-feel-different.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3038742-0-20117100-1791979234-Asus-Zenbook-A16-at-CES-2026.jpg?quality=50&strip=all",
-      "date": "Wed, 14 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
-      "description": "If you’re looking for an affordable Windows machine under $500 , a blazing fast gaming beast for those intense matches, or a portable 2-in-1 for school or work, you’ve got plenty of great choices right now. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 80 laptops every year. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches",
-      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/550968-0-67234700-1791977814-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
-      "date": "Wed, 14 Oct 2026 11:36:45 +0000"
     }
   ],
   "starwars": [
@@ -811,6 +811,15 @@
     {
       "category": "starwars",
       "source": "Star Wars Union",
+      "title": "Wie das Star-Wars-Universum seine Form fand",
+      "description": "Wir blicken zurück auf die Entstehung der ersten Karten der weit, weit entfernten Galaxis.",
+      "url": "https://starwars-union.de/wie-das-star-wars-universum-seine-form-fand/",
+      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/10/Karte-der-Galaxis.jpg",
+      "date": "Thu, 15 Oct 2026 12:10:48 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars Union",
       "title": "Vorverkauf gestartet: Noris Force in Space",
       "description": "Die Planetariums-Show im Januar in Nürnberg.",
       "url": "https://starwars-union.de/vorverkauf-gestartet-noris-force-in-space/",
@@ -891,12 +900,39 @@
     },
     {
       "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "Jon Watts soll bei Kinbergs erstem Film Regie führen",
-      "description": "Noch ist nichts offiziell, doch deuten diverse Quellen aus der Industrie auf den Spider-Man-Regisseur hin ...",
-      "url": "https://starwars-union.de/jon-watts-soll-bei-kinbergs-erstem-film-regie-fuehren/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2025/01/Jon-Watts-fuehrt-Regie-bei-Skeleton-Crew.jpg",
-      "date": "Sun, 27 Sep 2026 08:28:08 +0000"
+      "source": "Jedi News",
+      "title": "Full Of Sith Episode DCLII: Robert Charrette",
+      "description": "It's time to join the team for episode DCLII of Full of Sith. The post Full Of Sith Episode DCLII: Robert Charrette appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/full-of-sith-episode-dclii-robert-charrette/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2018/04/full-of-sith-network-300x201.jpg",
+      "date": "Thu, 15 Oct 2026 04:52:49 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Who Can Resist Grogu’s Adorable Face? | LEGO Star Wars: The Mandalorian | ‪Star Wars Kids‬",
+      "description": "When Mando returns to The Client with Grogu as promised, he finds himself unable to give the cute little guy up. The Mandalorian escapes with Grogu, beginning their new chapter adventuring around the galaxy together! Stream LEGO Star Wars: The Mandalorian on Disney+ now. The post Who Can Resist Grogu’s Adorable Face? | LEGO Star Wars: The Mandalorian | ‪Star Wars Kids‬ appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/who-can-resist-grogus-adorable-face-lego-star-wars-the-mandalorian-star-wars-kids/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/maxresdefault-26-300x169.jpg",
+      "date": "Wed, 14 Oct 2026 23:15:31 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Prince Arluu vs. The Bounty Hunter | Star Wars: Visions | Official Clip",
+      "description": "Prince Arluu, a smuggler, and a mysterious woman save a village from the Empire's control. Stream Star Wars: Visions on Disney+. The post Prince Arluu vs. The Bounty Hunter | Star Wars: Visions | Official Clip appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/prince-arluu-vs-the-bounty-hunter-star-wars-visions-official-clip/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/maxresdefault-21-300x169.jpg",
+      "date": "Wed, 14 Oct 2026 22:42:25 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Take to the Skies with Flyers in Star Wars: Legion from Atomic Mass Games",
+      "description": "All wings report in as the battle takes to the skies with all-new flyers in Star Wars: Legion, bringing iconic ships like X-wings, TIE fighters, Vulture Droids, V-wings, and Fang Fighters to the tabletop game. The post Take to the Skies with Flyers in Star Wars: Legion from Atomic Mass Games appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/gaming/articles/take-to-the-skies-with-flyers-in-star-wars-legion-from-atomic-mass-games/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/maxresdefault-25-300x169.jpg",
+      "date": "Wed, 14 Oct 2026 18:34:46 +0000"
     },
     {
       "category": "starwars",
@@ -960,45 +996,18 @@
       "url": "https://www.jedinews.com/events/articles/ilm-and-lucasfilm-finalists-at-the-2026-concept-art-awards/",
       "image": "https://www.jedinews.com/wp-content/uploads/2026/10/mandalorian-grogu-star-wars-brett-northcutt-ilm-concept-art-awards-featured-Oct26-300x201.jpg",
       "date": "Wed, 14 Oct 2026 08:09:31 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Tarkin’s Top Shelf #468: Lucasfilm Publishing Announcements NYCC!",
-      "description": "Time to revisit Tarkin's Top Shelf with episode 468 discussing all things Star Wars. The post Tarkin’s Top Shelf #468: Lucasfilm Publishing Announcements NYCC! appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/tarkins-top-shelf-468-lucasfilm-publishing-announcements-nycc/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2018/04/tarkins-top-shelf-300x201.jpg",
-      "date": "Wed, 14 Oct 2026 05:48:25 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Dave Filoni Talks the Rebirth of Darth Maul | Star Wars: The Clone Wars Commentary",
-      "description": "Lucasfilm President and CCO Dave Filoni breaks down two iconic Darth Maul scenes from Star Wars: The Clone Wars, discussing how the team infused horror elements into Star Wars and how Maul's durability and subsequent survival stems from his hatred. The post Dave Filoni Talks the Rebirth of Darth Maul | Star Wars: The Clone Wars Commentary appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/dave-filoni-talks-the-rebirth-of-darth-maul-star-wars-the-clone-wars-commentary/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/maxresdefault-20-300x169.jpg",
-      "date": "Tue, 13 Oct 2026 23:14:16 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Start Your Engines Technical Manual 26: UT-60D U-wing starfighter",
-      "description": "Fantha Tracks Radio presents Start Your Engines Technical Manual 26: UT-60D U-wing starfighter The post Start Your Engines Technical Manual 26: UT-60D U-wing starfighter appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/start-your-engines-technical-manual-26-ut-60d-u-wing-starfighter/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2022/04/Fantha-Tracks-Start-Your-Engines-300x201.jpg",
-      "date": "Tue, 13 Oct 2026 21:52:47 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Enjoy Stuff: Scaring Your Inner Child",
-      "description": "Jovial Jay and Shua bring you the latest episode of Enjoy Stuff: A TechnoRetro Podcast. The post Enjoy Stuff: Scaring Your Inner Child appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/enjoy-stuff-scaring-your-inner-child/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2021/05/RetroZap-Enjoy-Stuff-Techno-Retro-Featured-Image-300x201.jpg",
-      "date": "Tue, 13 Oct 2026 15:39:31 +0000"
     }
   ],
   "youtube": [
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Ingenieur von OpenAI versteckt eine Wanze im Meetingraum der Chefs ?!",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/hY3sOk30uH0",
+      "image": "https://i.ytimg.com/vi/hY3sOk30uH0/hqdefault.jpg",
+      "date": "2026-10-15T10:00:24+00:00"
+    },
     {
       "category": "youtube",
       "source": "Hood Informatik",
@@ -1079,15 +1088,6 @@
       "url": "https://www.youtube.com/shorts/NxgExgjdAHo",
       "image": "https://i.ytimg.com/vi/NxgExgjdAHo/hqdefault.jpg",
       "date": "2026-10-07T16:00:04+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Eine Kamera, 50k Autos und Software von 2017... Wie sicher ist Flock ?!",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/olowqm52KjI",
-      "image": "https://i.ytimg.com/vi/olowqm52KjI/hqdefault.jpg",
-      "date": "2026-10-06T10:15:18+00:00"
     },
     {
       "category": "youtube",
