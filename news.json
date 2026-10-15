@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T21:03:28.440725+00:00",
+  "updated": "2026-10-15T23:45:26.110647+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -103,20 +103,101 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
+      "title": "Слепите лица во Тетово без инфраструктура – се бараат посебни патеки | ТВ21",
+      "description": "",
+      "url": "https://time.mk/c/e0217fc532/slepite-lica-vo-tetovo-bez-infrastruktura-se-baraat-posebni-pateki.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2025/01/tetovo-1-1024x573.jpg",
+      "date": "Thu, 15 Oct 2026 15:21:03 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Мицкоски: ОКТА е клучна за енергетската стабилност, со реактивирање на рафинеријата ќе се зголеми домашното производство | Независен",
+      "description": "",
+      "url": "https://time.mk/c/50caeae09a/mickoski-okta-e-klucna-za-energetskata-stabilnost-so-reaktiviranje-na-rafinerijata-ke-se-zgolemi-domasnoto-proizvodstvo.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/02/produktovod.jpg",
+      "date": "Thu, 15 Oct 2026 21:52:59 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
       "title": "Мицкоски: Можно е решение со Софија, но нема да влезам во процес без јасен крај, Владата ќе продолжи со реформите | Либертас",
       "description": "",
-      "url": "https://time.mk/c/c32251c148/mickoski-mozno-e-resenie-so-sofija-no-nema-da-vlezam-vo-proces-bez-jasen-kraj-vladata-ke-prodolzi-so-reformite.html",
+      "url": "https://time.mk/c/6f3d65241d/mickoski-mozno-e-resenie-so-sofija-no-nema-da-vlezam-vo-proces-bez-jasen-kraj-vladata-ke-prodolzi-so-reformite.html",
       "image": "https://libertas.mk/wp-content/uploads/2026/10/20261015223527_big_730x400_87.webp",
       "date": "Thu, 15 Oct 2026 21:00:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Слепите лица во Тетово без инфраструктура – се бараат посебни патеки | ТВ21",
+      "title": "Мицкоски: Се градат шест автопати, два гасовода и 1.230 проекти се градат во моментот | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/e0217fc532/slepite-lica-vo-tetovo-bez-infrastruktura-se-baraat-posebni-pateki.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2025/01/tetovo-1-1024x573.jpg",
-      "date": "Thu, 15 Oct 2026 15:21:03 +0000"
+      "url": "https://time.mk/c/4af6054664/mickoski-se-gradat-sest-avtopati-dva-gasovoda-i-1-230-proekti-se-gradat-vo-momentot.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2026/10/Screenshot_7-6-1024x569.jpg",
+      "date": "Thu, 15 Oct 2026 21:30:50 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Мицкоски го фалат или со ВМРО-ДПМНЕ слават — кои се кандидатите за нов член на Судскиот совет? | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/4f41ee2983/mickoski-go-falat-ili-so-vmro-dpmne-slavat-koi-se-kandidatite-za-nov-clen-na-sudskiot-sovet.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/kandidati-za-clen-na-sudski-sovet-300x157.jpg",
+      "date": "Thu, 15 Oct 2026 13:37:00 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "НФФ: Мерката 115 – „Поддршка за активен женски член во земјоделското домаќинство“ е можност за економско јакнење на жените земјоделки, потребни се и системски решенија за нивна социјална сигурност | Економија и Бизнис",
+      "description": "",
+      "url": "https://time.mk/c/bf2aeccf94/nff-merkata-115-poddrska-za-aktiven-zenski-clen-vo-zemjodelskoto-domakinstvo-e-moznost-za-ekonomsko-jaknenje-na-zenite-zemjodelki-potrebni-se-i-sistemski-resenija-za-nivna-socijalna-sigurnost.html",
+      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/10/art-24-1024x682.jpg",
+      "date": "Thu, 15 Oct 2026 12:32:47 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Башибозук во Кичево: Месечно за одржување на јавни светилки се даваат по 34.000 евра, се плаќа за запуштен парк, нема евиденција за 100 телефонски броја | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/15b34ba761/basibozuk-vo-kicevo-mesecno-za-odrzuvanje-na-javni-svetilki-se-davaat-po-34-000-evra-se-plaka-za-zapusten-park-nema-evidencija-za-100-telefonski-broja.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2020/05/kichevo-300x169.jpg",
+      "date": "Thu, 15 Oct 2026 09:17:07 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Бериша повика на бојкот на наставата и ги повика средношколците да им се приклучат на студентите на протестите | Либертас",
+      "description": "",
+      "url": "https://time.mk/c/94f927f0e9/berisa-povika-na-bojkot-na-nastavata-i-gi-povika-srednoskolcite-da-im-se-priklucat-na-studentite-na-protestite.html",
+      "image": "https://libertas.mk/wp-content/uploads/2026/10/20261015194245_big_730x400_7.webp",
+      "date": "Thu, 15 Oct 2026 17:50:39 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Седуммина исчезнати по напад врз танкер кај Романија, две членки на НАТО разгледуваат вонредни мерки | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/8608b49915/sedummina-isceznati-po-napad-vrz-tanker-kaj-romanija-dve-clenki-na-nato-razgleduvaat-vonredni-merki.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/86333/conversions/text-max.jpg",
+      "date": "Thu, 15 Oct 2026 16:56:54 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Хутите ја гаѓаа претседателската палата во Аден: Премиерот е на сигурно, загинаа двајца од неговото обезбедување | Вечер Прес",
+      "description": "",
+      "url": "https://time.mk/c/8b5b1928eb/hutite-ja-gagjaa-pretsedatelskata-palata-vo-aden-premierot-e-na-sigurno-zaginaa-dvajca-od-negovoto-obezbeduvanje.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/eksplozi-a-5.jpg",
+      "date": "Thu, 15 Oct 2026 17:34:54 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Калас: Проширувањето на ЕУ не смее да се билатерализира, а буџетските спорови ја зголемуваат неизвесноста | 4NEWS",
+      "description": "",
+      "url": "https://time.mk/c/1e7f9a2f3b/kalas-prosiruvanjeto-na-eu-ne-smee-da-se-bilateralizira-a-budzetskite-sporovi-ja-zgolemuvaat-neizvesnosta.html",
+      "image": "https://4news.mk/wp-content/uploads/2025/05/kaja-kalas-1024x578.jpg",
+      "date": "Thu, 15 Oct 2026 17:42:46 +0000"
     },
     {
       "category": "mkd",
@@ -130,101 +211,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Кој обвинител ќе го води ОЈО ГОКК? Мицкоски со свој коментар! | ТВ21",
+      "title": "Луна-паркот недостижен како Месечината | Независен",
       "description": "",
-      "url": "https://time.mk/c/ff1d70cd33/koj-obvinitel-ke-go-vodi-ojo-gokk-mickoski-so-svoj-komentar.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2026/10/Screenshot_9-3-1024x564.jpg",
-      "date": "Thu, 15 Oct 2026 20:44:57 +0000"
+      "url": "https://time.mk/c/10e2612749/luna-parkot-nedostizen-kako-mesecinata.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2021/12/Biljana-Bogdanovska-kolumna.jpg",
+      "date": "Thu, 15 Oct 2026 11:26:41 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Пренџов: Не нè блокираше ЕУ, туку Влада што го испрати Османи да потпише протоколи во Софија | Press24",
+      "title": "Уапсен 43-годишник на Долно Блаце, баран со две меѓународни потерници | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/e6589daea4/prendzov-ne-ne-blokirase-eu-tuku-vlada-sto-go-isprati-osmani-da-potpise-protokoli-vo-sofija.html",
-      "image": "",
-      "date": "Thu, 15 Oct 2026 19:50:38 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Кризата со дизел го отвори прашањето за враќање на домашната преработка во Окта | Трн",
-      "description": "",
-      "url": "https://time.mk/c/5fcf4f6937/krizata-so-dizel-go-otvori-prasanjeto-za-vrakanje-na-domasnata-prerabotka-vo-okta.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/10/pumpa-goriva-benzin-dizel.jpeg",
-      "date": "Thu, 15 Oct 2026 18:40:59 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Николоски: Изградбата на автопатите насекаде се одвива со силна динамика | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/9ae6db2cca/nikoloski-izgradbata-na-avtopatite-nasekade-se-odviva-so-silna-dinamika.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/81902/conversions/text-max.jpg",
-      "date": "Thu, 15 Oct 2026 18:28:58 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "“Нема да си заминеме додека Рама не поднесе оставка“: Демонстрантите во Тирана не се повлекуваат и покрај солзавецот | Трн",
-      "description": "",
-      "url": "https://time.mk/c/5974ea3af2/nema-da-si-zamineme-dodeka-rama-ne-podnese-ostavka-demonstrantite-vo-tirana-ne-se-povlekuvaat-i-pokraj-solzavecot.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/10/albanija.webp",
-      "date": "Thu, 15 Oct 2026 18:08:54 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Демонстранти се собраа во центарот на Софија барајќи оставка од претседателката Илијана Јотова и премиерот Румен Радев | Либертас",
-      "description": "",
-      "url": "https://time.mk/c/038ac34047/demonstranti-se-sobraa-vo-centarot-na-sofija-barajki-ostavka-od-pretsedatelkata-ilijana-jotova-i-premierot-rumen-radev.html",
-      "image": "https://libertas.mk/wp-content/uploads/2026/10/20261015205704_big_730x400_76.webp",
-      "date": "Thu, 15 Oct 2026 19:12:52 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Шест експлозии во близина на палатата на Владата во Јемен | ТВ21",
-      "description": "",
-      "url": "https://time.mk/c/d8c8dffda6/sest-eksplozii-vo-blizina-na-palatata-na-vladata-vo-jemen.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2025/08/sana-jemen-1024x534.jpg",
-      "date": "Thu, 15 Oct 2026 18:28:58 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Макрон ја предупредува ЕУ дека мора да постигне договор за буџетот за 2028-2034 година до крајот на годината | Либертас",
-      "description": "",
-      "url": "https://time.mk/c/ad3157657e/makron-ja-predupreduva-eu-deka-mora-da-postigne-dogovor-za-budzetot-za-2028-2034-godina-do-krajot-na-godinata.html",
-      "image": "https://libertas.mk/wp-content/uploads/2026/10/20261015213912_big_730x400_64.webp",
-      "date": "Thu, 15 Oct 2026 19:42:50 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ПУРПУРНО НЕБО НАД СКОПЈЕ | Економија и Бизнис",
-      "description": "",
-      "url": "https://time.mk/c/090fa5129a/purpurno-nebo-nad-skopje.html",
-      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/10/purpurnonebo.webp",
-      "date": "Thu, 15 Oct 2026 19:36:57 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "📷 ОТВОРЕН ТРГОВСКИОТ КОМПЛЕКС „ФЕШН ПАРК ТРИАНГЛА“ ВО ГАЗИ БАБА Мицкоски посака успех на локалната инвестиција | +инфо",
-      "description": "",
-      "url": "https://time.mk/c/9f2a86e0db/otvoren-trgovskiot-kompleks-fesn-park-triangla-vo-gazi-baba-mickoski-posaka-uspeh-na-lokalnata-investicija.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2026/10/mickoski-4-e1792087723266.jpg",
-      "date": "Thu, 15 Oct 2026 18:16:55 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "(Видео) Мобилни екипи ловат брзо возење: уапсен 27-годишник од Тетово кој возел мотор со 188 км/ч | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/e021b65786/video-mobilni-ekipi-lovat-brzo-vozenje-uapsen-27-godisnik-od-tetovo-koj-vozel-motor-so-188-km-c.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/86341/conversions/text-max.jpg",
-      "date": "Thu, 15 Oct 2026 20:44:57 +0000"
+      "url": "https://time.mk/c/adc030ce42/uapsen-43-godisnik-na-dolno-blace-baran-so-dve-megjunarodni-poternici.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2025/12/policija2-1024x503.jpg",
+      "date": "Thu, 15 Oct 2026 13:32:55 +0000"
     },
     {
       "category": "mkd",
@@ -458,6 +458,51 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "How to Enable Global Privacy Control in Every Browser (and Why You Should)",
+      "description": "Notify every website of your privacy preferences with a single setting",
+      "url": "https://lifehacker.com/tech/how-to-enable-global-privacy-control-in-every-browser-and-why-you-should?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M4XMP47JRQZFD6G1VJW692QN/hero-image.jpg",
+      "date": "Thu, 15 Oct 2026 22:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place",
+      "description": "Keep up with all of the best deals that Lifehacker publishes, including laptops, speakers, TVs, security cameras, and more.",
+      "url": "https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg",
+      "date": "Thu, 15 Oct 2026 21:45:47 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "One of the Best QLED TVs of 2026 Is Over $1,200 Off Right Now",
+      "description": "The “Zero Border” bezel design gives it a modern, minimalist look.",
+      "url": "https://lifehacker.com/tech/65-inch-tcl-qm8l-qled-tv-deal-october-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01KYT89MWG13K1QC3EC02NNZD5/hero-image.jpg",
+      "date": "Thu, 15 Oct 2026 21:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "10 Hacks Every Goodreads User Should Know",
+      "description": "This website can do more than help you manage your TBR.",
+      "url": "https://lifehacker.com/tech/10-hacks-every-goodreads-user-should-know?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M4TXQSN5N6QHQEHMWX393JBH/hero-image.jpg",
+      "date": "Thu, 15 Oct 2026 21:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "I Tried a Smart Band That Measures Body Temperature During Workouts, and I'm on the Fence About It",
+      "description": "The temperature feature is intriguing, but the band left me disappointed overall.",
+      "url": "https://lifehacker.com/health/i-tried-the-speediance-strap-and-i-am-on-the-fence-about-it?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M50M3XENR4G9G1ZHTYR7E5CV/hero-image.jpg",
+      "date": "Thu, 15 Oct 2026 20:56:51 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "Google Just Removed This Major Perk From Its AI Plus Subscription",
       "description": "Paying subscribers are losing access to a significant feature.",
       "url": "https://lifehacker.com/tech/google-just-removed-this-major-perk-from-its-ai-plus-subscription?utm_medium=RSS",
@@ -517,15 +562,6 @@
       "url": "https://lifehacker.com/tech/asus-rog-strix-oled-xg27acdng-monitor-sale-october-2026?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01KT1AMKQANK7AS4RE8PDMN3N3/hero-image.jpg",
       "date": "Thu, 15 Oct 2026 12:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place",
-      "description": "Keep up with all of the best deals that Lifehacker publishes, including laptops, speakers, TVs, security cameras, and more.",
-      "url": "https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg",
-      "date": "Wed, 14 Oct 2026 21:10:28 +0000"
     },
     {
       "category": "eng",
@@ -598,42 +634,6 @@
       "url": "https://lifehacker.com/tech/heres-how-gemini-4-argon-compares-to-gpt-6?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01M4XCKHM43W7R1PKWQP96NJMY/hero-image.jpg",
       "date": "Wed, 14 Oct 2026 15:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "10 Hacks Every YouTube TV User Should Know",
-      "description": "Optimize your live TV viewing with these tricks.",
-      "url": "https://lifehacker.com/tech/10-hacks-every-youtube-tv-user-should-know?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M4RQHYW5EETNA8RMVXBHZN38/hero-image.jpg",
-      "date": "Wed, 14 Oct 2026 14:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "The AirPods Max 2 Are $120 Off Right Now",
-      "description": "Apple's flagship over-ear headphones are $429 at Amazon, down from $549.99.",
-      "url": "https://lifehacker.com/tech/apple-airpods-max-2-sale-october-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M4W4GS5GZYX26QCSRR358TT1/hero-image.jpg",
-      "date": "Wed, 14 Oct 2026 12:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "Four Ways the Fitbit Edge Is Better Than the Charge 6, and Two Ways It Isn’t",
-      "description": "The new device adds some features, but also takes a few away.",
-      "url": "https://lifehacker.com/health/fitbit-edge-vs-charge-6?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M4VENM929QDR255FWTEBC7NT/hero-image.jpg",
-      "date": "Tue, 13 Oct 2026 21:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "This Ultra-Slim Robot Vacuum and Mop Is $700 Off Right Now",
-      "description": "It's more than 40% off.",
-      "url": "https://lifehacker.com/tech/roborock-robot-vacuum-and-mop-deal-october-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M4V7XKPPRSFM69WR74BXXS5Y/hero-image.jpg",
-      "date": "Tue, 13 Oct 2026 20:45:52 +0000"
     },
     {
       "category": "eng",
@@ -901,6 +901,51 @@
     {
       "category": "starwars",
       "source": "Jedi News",
+      "title": "Star Wars Zero Company 1.2 Patch Notes",
+      "description": "Star Wars Zero Company 1.2 went live today, October 15th, with a new Campaign Modifiers feature, further feature updates, and bug fixes. The post Star Wars Zero Company 1.2 Patch Notes appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/gaming/articles/star-wars-zero-company-1-2-patch-notes/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/Zero-Company-Reviews-Oct26-300x200.jpg",
+      "date": "Thu, 15 Oct 2026 19:54:55 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Jake Lloyd and Daniel Logan Take to Instagram to Thank Star Wars Fans for Support",
+      "description": "Jake Lloyd (Anakin Skywalker) and Daniel Logan (Boba Fett) have taken to Instagram together to thank Star Wars fans for their continued support. The post Jake Lloyd and Daniel Logan Take to Instagram to Thank Star Wars Fans for Support appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/jake-lloyd-and-daniel-logan-take-to-instagram-to-thank-star-wars-fans-for-support/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/Daniel-Logan-and-Jake-Lloyd-Oct26-300x201.jpg",
+      "date": "Thu, 15 Oct 2026 19:20:44 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Echo Base Live – Look Sir, Droids! Raises £3605 for Cancer Research UK",
+      "description": "The team behind last weekend's Echo Base Live weekend has shared they raised £3,604.85 for Cancer Research UK. The post Echo Base Live – Look Sir, Droids! Raises £3605 for Cancer Research UK appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/events/articles/echo-base-live-look-sir-droids-raises-3605-for-cancer-research-uk/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/Echo-Base-Live-Total-Raised-Oct26-300x201.jpg",
+      "date": "Thu, 15 Oct 2026 18:48:39 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Skytalkers: The Clone Wars Rewatch: “Massacre” and “Bounty” (Ventress Arc)",
+      "description": "Skytalkers - join Charlotte Errity and Caitlin Plesher as they talk about pressing and existing topics in the Star Wars universe. The post Skytalkers: The Clone Wars Rewatch: “Massacre” and “Bounty” (Ventress Arc) appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/skytalkers-the-clone-wars-rewatch-massacre-and-bounty-ventress-arc/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2018/06/Skytalkers-300x201.jpg",
+      "date": "Thu, 15 Oct 2026 14:15:14 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "LEGO Icons Venetian Neighbourhood and Venetian Water Taxi GWP Revealed, Available November 1st",
+      "description": "Celebrate Italy’s rich cultural and architectural heritage with the 5,682-piece LEGO Icons Venetian Neighbourhood (11388) available from November 1st, with a 322-piece LEGO Icons Venetian Water Taxi (40898) Gift with Purchase available whilst stocks last. The post LEGO Icons Venetian Neighbourhood and Venetian Water Taxi GWP Revealed, Available November 1st appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/lego/articles/lego-icons-venetian-neighbourhood-and-venetian-water-taxi-gwp-revealed-available-november-1st/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/11388_01_PRI_ZKxU5XsfSeMZ-300x201.jpg",
+      "date": "Thu, 15 Oct 2026 13:00:44 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
       "title": "Full Of Sith Episode DCLII: Robert Charrette",
       "description": "It's time to join the team for episode DCLII of Full of Sith. The post Full Of Sith Episode DCLII: Robert Charrette appeared first on Jedi News .",
       "url": "https://www.jedinews.com/podcasts/articles/full-of-sith-episode-dclii-robert-charrette/",
@@ -951,51 +996,6 @@
       "url": "https://www.jedinews.com/podcasts/third-party-network/articles/star-wars-beyond-the-films-287-rogue-squadron-blood-and-honor/",
       "image": "https://www.jedinews.com/wp-content/uploads/2018/06/Beyond-The-Films-300x201.jpg",
       "date": "Wed, 14 Oct 2026 17:27:03 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Star Wars: Unlimited – Homeworlds Release Trailer",
-      "description": "Hold your ground! Jump into epic battles and fight your way through invading enemy forces in Homeworlds, the epic ninth set of Star Wars: Unlimited! Star Wars: Unlimited - Homeworlds is available now -- happy hunting! The post Star Wars: Unlimited – Homeworlds Release Trailer appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/collecting/articles/star-wars-unlimited-homeworlds-release-trailer/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/maxresdefault-24-300x169.jpg",
-      "date": "Wed, 14 Oct 2026 16:47:58 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Double Points for LEGO Insiders and Restaurants of the World: Italy Set Through October 19th",
-      "description": "LEGO Insiders can earn double points on all purchases at LEGO.com and in-store through to Monday, October 19th, plus get Restaurants of the World: Italy, the final set in the series, with spends in excess of £160 | $180 | €180 while stocks last. The post Double Points for LEGO Insiders and Restaurants of the World: Italy Set Through October 19th appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/collecting/articles/double-points-for-lego-insiders-and-restaurants-of-the-world-italy-set-through-october-19th/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/LEGO-Double-Points-Oct26-300x201.jpg",
-      "date": "Wed, 14 Oct 2026 16:15:19 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Billie Lourd Says Her Kids Are Obsessed With Star Wars",
-      "description": "Billie Lourd has revealed how her two children, son Kingston aged 6, and daughter Jackson aged 3, are obsessed with Star Wars, and seeing their late grandmother Carrie Fisher on screen as Princess Leia. The post Billie Lourd Says Her Kids Are Obsessed With Star Wars appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/billie-lourd-says-her-kids-are-obsessed-with-star-wars/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/billie-lourd-children-carrie-star-wars-Oct26-300x201.jpg",
-      "date": "Wed, 14 Oct 2026 12:26:35 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "John Boyega Reveals He Got Married Two Years Ago And They Are Expecting A Son",
-      "description": "In a new interview with The Guardian focusing on his old school friend Damilola Taylor, who was tragically killed in November 2000, John Boyega talks about how his murder shaped him, and reveals that he got married almost two years ago and they are expecting a son. The post John Boyega Reveals He Got Married Two Years Ago And They Are Expecting A Son appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/john-boyega-reveals-he-got-married-two-years-ago-and-they-are-expecting-a-son/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2025/08/John-Boyega-Finn-with-lightsaber-Aug25-300x201.jpg",
-      "date": "Wed, 14 Oct 2026 11:55:55 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "ILM and Lucasfilm Finalists at the 2026 Concept Art Awards",
-      "description": "Members of the ILM Art Department join their colleagues from the Lucasfilm Art Department and Lucasfilm Animation as finalists at this year's Concept Art Awards, with artwork from The Mandalorian and Grogu and Star Wars: Maul - Shadow Lord. The post ILM and Lucasfilm Finalists at the 2026 Concept Art Awards appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/events/articles/ilm-and-lucasfilm-finalists-at-the-2026-concept-art-awards/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/mandalorian-grogu-star-wars-brett-northcutt-ilm-concept-art-awards-featured-Oct26-300x201.jpg",
-      "date": "Wed, 14 Oct 2026 08:09:31 +0000"
     }
   ],
   "youtube": [
