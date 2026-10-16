@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-16T03:41:09.827361+00:00",
+  "updated": "2026-10-16T08:49:43.854057+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Tesla го претстави новиот Roadster со потисници од SpaceX, а производството е најавено за 2028",
+      "description": "Tesla конечно го претстави новиот Roadster, речиси девет години откако го прикажа на крајот од настанот за Tesla Semi во 2017 година. Презентацијата се одржа во четвртокот вечерта по американско време на полигонот на SpaceX во Мекгрегор, Тексас. Тоа беше две недели подоцна од планираното, откако Tesla го одложи настанот поради лошото време. Како што беше најавувано во август, главна атракција […]",
+      "url": "https://smartportal.mk/novosti/avtomobili/tesla-go-pretstavi-noviot-roadster/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Roadster-08-End-Desktop-150x150.webp",
+      "date": "Fri, 16 Oct 2026 08:04:56 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -84,192 +93,183 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Homebrew доби официјална апликација за macOS со која апликациите се инсталираат без командна линија",
-      "description": "Homebrew, популарниот менаџер на пакети со отворен код за macOS и Linux, доби своја официјална апликација со графички интерфејс. Се вика BrewUI, а програмерите на Homebrew велат дека треба да го направи управувањето со пакетите поприфатливо за корисниците кои не сакаат да работат во Terminal. Апликацијата беше најавена уште во јуни, со Homebrew 6.0.0, кога програмерите […]",
-      "url": "https://smartportal.mk/novosti/softver-prog/homebrew-oficijalna-aplikacija-macos/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/homebrew-7.0.0-brewui-150x150.webp",
-      "date": "Wed, 14 Oct 2026 11:23:03 +0000"
+      "source": "Time.mk - All",
+      "title": "Димитриеска-Кочоска на Пленарната сесија од Годишните средби на ММФ и Светска банка: Во услови на глобална неизвесност фискалната дисциплина и структурните реформи се клучни за одржлив раст | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/6cf995b045/dimitrieska-kocoska-na-plenarnata-sesija-od-godisnite-sredbi-na-mmf-i-svetska-banka-vo-uslovi-na-globalna-neizvesnost-fiskalnata-disciplina-i-strukturnite-reformi-se-klucni-za-odrzliv-rast.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/gordana-kocoska-mmf-1.webp",
+      "date": "Fri, 16 Oct 2026 08:13:03 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Николоски: Бугарија со случајот со Ива Михаилова си го руши сопствениот имиџ | 360 степени",
+      "title": "АНТРОПИК ТВРДИ ДЕКА НЕГОВАТА ВЕШТАЧКА ИНТЕЛИГЕНЦИЈА МОЖЕ ДА БИДЕ СВЕСНА Дали човештвото е во опасност? | +инфо",
       "description": "",
-      "url": "https://time.mk/c/82cae87887/nikoloski-bugarija-so-slucajot-so-iva-mihailova-si-go-rusi-sopstveniot-imidz.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/10/Aleksandar-Nikoloski.png",
-      "date": "Thu, 15 Oct 2026 20:26:35 +0000"
+      "url": "https://time.mk/c/c0afa18093/antropik-tvrdi-deka-negovata-vestacka-inteligencija-moze-da-bide-svesna-dali-covestvoto-e-vo-opasnost.html",
+      "image": "https://plusinfo.mk/wp-content/uploads/2024/05/aaa-2.jpg",
+      "date": "Fri, 16 Oct 2026 08:01:01 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Слепите лица во Тетово без инфраструктура – се бараат посебни патеки | ТВ21",
+      "title": "Индустриското производство во минус и во Македонија и во ЕУ – автомобилскиот сектор под притисок | Пари",
       "description": "",
-      "url": "https://time.mk/c/e0217fc532/slepite-lica-vo-tetovo-bez-infrastruktura-se-baraat-posebni-pateki.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2025/01/tetovo-1-1024x573.jpg",
-      "date": "Thu, 15 Oct 2026 15:21:03 +0000"
+      "url": "https://time.mk/c/80663b1ac9/industriskoto-proizvodstvo-vo-minus-i-vo-makedonija-i-vo-eu-avtomobilskiot-sektor-pod-pritisok.html",
+      "image": "http://pari.com.mk/wp-content/uploads/2026/10/Automotive-Assembly-Line-in-Action.png",
+      "date": "Fri, 16 Oct 2026 07:42:37 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Мицкоски: ОКТА е клучна за енергетската стабилност, со реактивирање на рафинеријата ќе се зголеми домашното производство | Независен",
+      "title": "Сите сме на интернет, но само половина од македонските граѓани користат онлајн банкарство | Трн",
       "description": "",
-      "url": "https://time.mk/c/50caeae09a/mickoski-okta-e-klucna-za-energetskata-stabilnost-so-reaktiviranje-na-rafinerijata-ke-se-zgolemi-domasnoto-proizvodstvo.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/02/produktovod.jpg",
-      "date": "Thu, 15 Oct 2026 21:52:59 +0000"
+      "url": "https://time.mk/c/a5346af9df/site-sme-na-internet-no-samo-polovina-od-makedonskite-gragjani-koristat-onlajn-bankarstvo.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/09/telefoni-socijalni-mrezi-e1791913402324.jpg",
+      "date": "Fri, 16 Oct 2026 08:09:03 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Мицкоски: Можно е решение со Софија, но нема да влезам во процес без јасен крај, Владата ќе продолжи со реформите | Либертас",
+      "title": "(Фото) Уште една Анхоч локација поблиску до купувачите – нов салон во Џевахир Мол | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/6f3d65241d/mickoski-mozno-e-resenie-so-sofija-no-nema-da-vlezam-vo-proces-bez-jasen-kraj-vladata-ke-prodolzi-so-reformite.html",
-      "image": "https://libertas.mk/wp-content/uploads/2026/10/20261015223527_big_730x400_87.webp",
-      "date": "Thu, 15 Oct 2026 21:00:56 +0000"
+      "url": "https://time.mk/c/89e6baa030/foto-uste-edna-anhoc-lokacija-poblisku-do-kupuvacite-nov-salon-vo-dzevahir-mol.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/anhoch-dzevahir-otvoranje-6.webp",
+      "date": "Fri, 16 Oct 2026 08:06:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Мицкоски: Се градат шест автопати, два гасовода и 1.230 проекти се градат во моментот | ТВ21",
+      "title": "Брвеница на предвремени избори: Шест кандидати во трка за градоначалничката функција | CivilMedia",
       "description": "",
-      "url": "https://time.mk/c/4af6054664/mickoski-se-gradat-sest-avtopati-dva-gasovoda-i-1-230-proekti-se-gradat-vo-momentot.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2026/10/Screenshot_7-6-1024x569.jpg",
-      "date": "Thu, 15 Oct 2026 21:30:50 +0000"
+      "url": "https://time.mk/c/ba3d5bb9a3/brvenica-na-predvremeni-izbori-sest-kandidati-vo-trka-za-gradonacalnickata-funkcija.html",
+      "image": "https://civilmedia.b-cdn.net/wp-content/uploads/lokalni-izbori-AI-750x375.png",
+      "date": "Fri, 16 Oct 2026 08:44:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Кој обвинител ќе го води ОЈО ГОКК? Мицкоски со свој коментар! | ТВ21",
+      "title": "ПРУГАТА ВЕЛЕС – БИТОЛА СЕ ОСЛОБОДУВА ОД ДИЗЕЛОТ Следува електрификација и обнова со европски средства | +инфо",
       "description": "",
-      "url": "https://time.mk/c/ff1d70cd33/koj-obvinitel-ke-go-vodi-ojo-gokk-mickoski-so-svoj-komentar.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2026/10/Screenshot_9-3-1024x564.jpg",
-      "date": "Thu, 15 Oct 2026 20:44:57 +0000"
+      "url": "https://time.mk/c/c57165c086/prugata-veles-bitola-se-osloboduva-od-dizelot-sleduva-elektrifikacija-i-obnova-so-evropski-sredstva.html",
+      "image": "https://plusinfo.mk/wp-content/uploads/2025/01/pruga-beljakovce-kumanovo-vlada-4.jpg",
+      "date": "Fri, 16 Oct 2026 06:42:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "НФФ: Мерката 115 – „Поддршка за активен женски член во земјоделското домаќинство“ е можност за економско јакнење на жените земјоделки, потребни се и системски решенија за нивна социјална сигурност | Економија и Бизнис",
+      "title": "СДСМ: Мицкоски и Николовски бараат алиби за предвремени избори | Press24",
       "description": "",
-      "url": "https://time.mk/c/bf2aeccf94/nff-merkata-115-poddrska-za-aktiven-zenski-clen-vo-zemjodelskoto-domakinstvo-e-moznost-za-ekonomsko-jaknenje-na-zenite-zemjodelki-potrebni-se-i-sistemski-resenija-za-nivna-socijalna-sigurnost.html",
-      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/10/art-24-1024x682.jpg",
-      "date": "Thu, 15 Oct 2026 12:32:47 +0000"
+      "url": "https://time.mk/c/ff94d5f230/sdsm-mickoski-i-nikolovski-baraat-alibi-za-predvremeni-izbori.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/77515.jpeg",
+      "date": "Fri, 16 Oct 2026 08:26:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Николоски: Изградбата на автопатите насекаде се одвива со силна динамика | Скопје1",
+      "title": "Рама обвинува за „туѓа рака“ во протестите: Ова нема врска со проблемите на студентите! | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/9ae6db2cca/nikoloski-izgradbata-na-avtopatite-nasekade-se-odviva-so-silna-dinamika.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/81902/conversions/text-max.jpg",
-      "date": "Thu, 15 Oct 2026 18:28:58 +0000"
+      "url": "https://time.mk/c/2b6d4fb290/rama-obvinuva-za-tugja-raka-vo-protestite-ova-nema-vrska-so-problemite-na-studentite.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2025/05/rama.png",
+      "date": "Fri, 16 Oct 2026 08:13:04 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Бериша повика на бојкот на наставата и ги повика средношколците да им се приклучат на студентите на протестите | Либертас",
+      "title": "ХРВАТСКА Ѝ ПОСТАВИ УСЛОВИ НА ЦРНА ГОРА ЗА ЧЛЕНСТВО ВО ЕУ, ПЛЕНКОВИЌ ВЕЛИ ДЕКА ТОА НЕ Е ИСТО КАКО ШТО НЕКОИ 21 ГОДИНА ЈА БЛОКИРААТ МАКЕДОНИЈА | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/94f927f0e9/berisa-povika-na-bojkot-na-nastavata-i-gi-povika-srednoskolcite-da-im-se-priklucat-na-studentite-na-protestite.html",
-      "image": "https://libertas.mk/wp-content/uploads/2026/10/20261015194245_big_730x400_7.webp",
-      "date": "Thu, 15 Oct 2026 17:50:39 +0000"
+      "url": "https://time.mk/c/2f41bd40b3/hrvatska-i-postavi-uslovi-na-crna-gora-za-clenstvo-vo-eu-plenkovik-veli-deka-toa-ne-e-isto-kako-sto-nekoi-21-godina-ja-blokiraat-makedonija.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/10/Screenshot-2026-10-15-214145.jpg",
+      "date": "Fri, 16 Oct 2026 05:24:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Седуммина исчезнати по напад врз танкер кај Романија, две членки на НАТО разгледуваат вонредни мерки | Скопје1",
+      "title": "Зеленски не отстапува од нападите врз руските рафинерии, Трамп го губи трпението | Нова Македонија",
       "description": "",
-      "url": "https://time.mk/c/8608b49915/sedummina-isceznati-po-napad-vrz-tanker-kaj-romanija-dve-clenki-na-nato-razgleduvaat-vonredni-merki.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/86333/conversions/text-max.jpg",
-      "date": "Thu, 15 Oct 2026 16:56:54 +0000"
+      "url": "https://time.mk/c/57e8a8b024/zelenski-ne-otstapuva-od-napadite-vrz-ruskite-rafinerii-tramp-go-gubi-trpenieto.html",
+      "image": "https://novamakedonija.com.mk/wp-content/uploads/2026/10/ilustracija-foto-epa-150x150.jpg",
+      "date": "Fri, 16 Oct 2026 08:34:44 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Хутите ја гаѓаа претседателската палата во Аден: Премиерот е на сигурно, загинаа двајца од неговото обезбедување | Вечер Прес",
+      "title": "Белата куќа наредила блокада на Старлинк додека Киев трпи удари | Трн",
       "description": "",
-      "url": "https://time.mk/c/8b5b1928eb/hutite-ja-gagjaa-pretsedatelskata-palata-vo-aden-premierot-e-na-sigurno-zaginaa-dvajca-od-negovoto-obezbeduvanje.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/10/eksplozi-a-5.jpg",
-      "date": "Thu, 15 Oct 2026 17:34:54 +0000"
+      "url": "https://time.mk/c/c556eeabfd/belata-kuka-naredila-blokada-na-starlink-dodeka-kiev-trpi-udari.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/10/starlink-ukraina-e1791996188450.jpg",
+      "date": "Fri, 16 Oct 2026 08:21:02 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Макрон ја предупредува ЕУ дека мора да постигне договор за буџетот за 2028-2034 година до крајот на годината | Либертас",
+      "title": "(Фото) Отворен Триангла Fashion Park во Гази Баба | еМагазин",
       "description": "",
-      "url": "https://time.mk/c/ad3157657e/makron-ja-predupreduva-eu-deka-mora-da-postigne-dogovor-za-budzetot-za-2028-2034-godina-do-krajot-na-godinata.html",
-      "image": "https://libertas.mk/wp-content/uploads/2026/10/20261015213912_big_730x400_64.webp",
-      "date": "Thu, 15 Oct 2026 19:42:50 +0000"
+      "url": "https://time.mk/c/1b272be9ef/foto-otvoren-triangla-fashion-park-vo-gazi-baba.html",
+      "image": "https://emagazin.mk/wp-content/uploads/2026/10/849552210_872590249210293_5994342046302530558_n-300x200.jpg",
+      "date": "Fri, 16 Oct 2026 07:28:58 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "БРЗАТА ПРУГА ЌЕ СЕ ГРАДИ ОД ПРОЛЕТ, ВО ЈАНУАРИ ЌЕ ПРИСТИГНАТ ПРВИТЕ ЕЛЕКТРИЧНИ АВТОБУСИ Се разгледува алтернативна делница за автопатот Струга-Ќафасан | +инфо",
+      "title": "Целосно реконструирани големиот и малиот паркинг на улицата Костурска во Скопје Север | Скопје инфо",
       "description": "",
-      "url": "https://time.mk/c/fb282fa3a8/brzata-pruga-ke-se-gradi-od-prolet-vo-januari-ke-pristignat-prvite-elektricni-avtobusi-se-razgleduva-alternativna-delnica-za-avtopatot-struga-kafasan.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2026/04/pruga.jpg",
-      "date": "Thu, 15 Oct 2026 20:56:56 +0000"
+      "url": "https://time.mk/c/c01d3239bd/celosno-rekonstruirani-golemiot-i-maliot-parking-na-ulicata-kosturska-vo-skopje-sever.html",
+      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/oktomvri/image-262452.jpg?itok=RP8xmBH7",
+      "date": "Fri, 16 Oct 2026 06:53:04 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Луна-паркот недостижен како Месечината | Независен",
+      "title": "ГАЛЕРИЈА: Тешка сообраќајка утрово во Скопје – Едно возило искршено, друго извртено на улица | Press24",
       "description": "",
-      "url": "https://time.mk/c/10e2612749/luna-parkot-nedostizen-kako-mesecinata.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2021/12/Biljana-Bogdanovska-kolumna.jpg",
-      "date": "Thu, 15 Oct 2026 11:26:41 +0000"
+      "url": "https://time.mk/c/5370122695/galerija-teska-soobrakajka-utrovo-vo-skopje-edno-vozilo-iskrseno-drugo-izvrteno-na-ulica.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/77482.jpg",
+      "date": "Fri, 16 Oct 2026 08:04:57 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Уапсен 43-годишник на Долно Блаце, баран со две меѓународни потерници | ТВ21",
+      "title": "Драматична ноќ во Скопје: Изгореа четири автомобили | Press24",
       "description": "",
-      "url": "https://time.mk/c/adc030ce42/uapsen-43-godisnik-na-dolno-blace-baran-so-dve-megjunarodni-poternici.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2025/12/policija2-1024x503.jpg",
-      "date": "Thu, 15 Oct 2026 13:32:55 +0000"
+      "url": "https://time.mk/c/a63f291b03/dramaticna-nok-vo-skopje-izgorea-cetiri-avtomobili.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/77449.png",
+      "date": "Fri, 16 Oct 2026 06:58:36 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Сајбер криминалец од тетовско откриен со помош на ФБИ | Колегиум",
+      "title": "ВМРО-ДПМНЕ: Над 470 милиони денари за нови капитални инвестиции во Кичево | Press24",
       "description": "",
-      "url": "https://time.mk/c/13eb3f7724/sajber-kriminalec-od-tetovsko-otkrien-so-pomos-na-fbi.html",
-      "image": "https://kolegium.mk/wp-content/uploads/2026/10/towfiqu-barbhuiya-em5w9_xj3uU-unsplash-300x200.jpg",
-      "date": "Thu, 15 Oct 2026 17:02:39 +0000"
+      "url": "https://time.mk/c/1459cd2875/vmro-dpmne-nad-470-milioni-denari-za-novi-kapitalni-investicii-vo-kicevo.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/77475.jpg",
+      "date": "Fri, 16 Oct 2026 07:48:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Блага зима или арктички студ? Ел Нињо ги усложнува прогнозите за зимата во Македонија | Вечер Прес",
+      "title": "Општина Битола: Заедно со граѓаните го креираме буџетот за 2027 година | Булевар",
       "description": "",
-      "url": "https://time.mk/c/16aeef4c38/blaga-zima-ili-arkticki-stud-el-ninjo-gi-usloznuva-prognozite-za-zimata-vo-makedonija.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/10/snegulka-2.jpeg",
-      "date": "Thu, 15 Oct 2026 20:28:55 +0000"
+      "url": "https://time.mk/c/abaf907e53/opstina-bitola-zaedno-so-gragjanite-go-kreirame-budzetot-za-2027-godina.html",
+      "image": "https://bulevar.mk/wp-content/uploads/2026/10/img_1206-1024x538.jpeg",
+      "date": "Fri, 16 Oct 2026 08:13:04 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Штип добива нов паркинг во центарот на градот: Започна изградбата кај Трговскиот центар | ТВ21",
+      "title": "ТРИ КОНЦЕРТИ СО СКАНДИНАВСКИ МУЗИЧАРИ НА ВТОРАТА ВЕЧЕР НА 45. СКОПСКИ ЏЕЗ ФЕСТИВАЛ | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/8d8fe5740c/stip-dobiva-nov-parking-vo-centarot-na-gradot-zapocna-izgradbata-kaj-trgovskiot-centar.html",
+      "url": "https://time.mk/c/bcc8a90ed5/tri-koncerti-so-skandinavski-muzicari-na-vtorata-vecer-na-45-skopski-dzez-festival.html",
+      "image": "https://smart.sdk.mk/wp-content/uploads/2026/10/details_image_01-1.png",
+      "date": "Fri, 16 Oct 2026 08:28:57 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Второ издание на Фестивалот на калинката во Валандово | Независен",
+      "description": "",
+      "url": "https://time.mk/c/1cc18c997c/vtoro-izdanie-na-festivalot-na-kalinkata-vo-valandovo.html",
       "image": "",
-      "date": "Thu, 15 Oct 2026 17:16:52 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ВИДЕОИНТЕРВЈУ | Петар Георгиевски – Камиказа за концертот на 23 октомври: „Нека се подготват сите, нека вежбаат скокање“ | Слободен Печат",
-      "description": "",
-      "url": "https://time.mk/c/6825b7ef2f/videointervju-petar-georgievski-kamikaza-za-koncertot-na-23-oktomvri-neka-se-podgotvat-site-neka-vezbaat-skokanje.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/M79_3098-300x200.jpg",
-      "date": "Thu, 15 Oct 2026 18:02:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Во ритамот на светската џез сцена: Со музика во одбрана на слободата отворен 45. Скопје џез фестивал | Вечер Прес",
-      "description": "",
-      "url": "https://time.mk/c/6998d476e0/vo-ritamot-na-svetskata-dzez-scena-so-muzika-vo-odbrana-na-slobodata-otvoren-45-skopje-dzez-festival.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/10/1c460be6-6870-4658-925a-abcbdf0573e1.jpg",
-      "date": "Thu, 15 Oct 2026 20:00:54 +0000"
+      "date": "Fri, 16 Oct 2026 07:22:41 +0000"
     }
   ],
   "de": [
@@ -638,6 +638,15 @@
     {
       "category": "eng",
       "source": "PCWorld",
+      "title": "Own Visual Studio Pro 2026 and learn to code for $33",
+      "description": "TL;DR: Get a lifetime license to Visual Studio Professional 2026 plus 15 coding courses for $32.97 (MSRP $1,999.99). Learning to program usually means paying for courses in one place and a professional IDE in another. This bundle pairs a lifetime license to Microsoft Visual Studio Professional 2026 with 15 coding courses, and it’s on sale for $32.97 (MSRP $1,999.99) through October 20. Python lessons start at the beginner level and work up to building Flask websites, scraping data, and automatin",
+      "url": "https://www.pcworld.com/article/3260966/own-visual-studio-pro-2026-and-learn-to-code-for-33.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3260966-0-52042300-1792137651-sale_329338_article_image.jpg?quality=50&strip=all",
+      "date": "Fri, 16 Oct 2026 08:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
       "title": "Best laptops 2026: Premium, budget, gaming, 2-in-1, and more",
       "description": "PCWorld has been testing and writing about PCs since 1983. That’s a long time! Today, we put more than 70 laptops through our review process every year, covering everything from affordable everyday laptops to powerful gaming machines . That kind of hands-on experience matters when you’re trying to buy a laptop. What begins as a simple Google search can quickly spiral into a maze of complicated processor names, graphic cards, and other specs that can be difficult to make sense of. That’s where we",
       "url": "https://www.pcworld.com/article/436674/best-pc-laptops.html",
@@ -715,15 +724,6 @@
       "url": "https://www.pcworld.com/article/3260941/today-only-ad-free-browsing-is-15-for-life.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3260941-0-46784300-1792051229-sale_25093_article_image.jpg?quality=50&strip=all",
       "date": "Thu, 15 Oct 2026 08:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "We guessed late 2027 for GTA 6 on PC. Industry insiders say Q1 2027",
-      "description": "We’ve known since February that Grand Theft Auto VI is coming out this year on November 19th, but only for Xbox and PlayStation. In August, Rockstar released an exclusive sneak peek on Netflix with gameplay footage and narrative cutscenes. People are hyped, to say the least. But what about the PC version? Last month, we ran a quick analysis and estimated a proper PC release for GTA 6 sometime in late 2027 or early 2028. Well, it seems we were off the mark by a tad. According to GamesBeat , the P",
-      "url": "https://www.pcworld.com/article/3260660/we-guessed-late-2027-for-gta-6-on-pc-a-report-says-q1-2027.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3260660-0-66886800-1791998218-GTAVI.jpg?quality=50&strip=all",
-      "date": "Wed, 14 Oct 2026 17:15:05 +0000"
     }
   ],
   "starwars": [
@@ -901,6 +901,51 @@
     {
       "category": "starwars",
       "source": "Jedi News",
+      "title": "Star Wars Zero Company 1.2 Patch Notes",
+      "description": "Star Wars Zero Company 1.2 went live today, October 15th, with a new Campaign Modifiers feature, further feature updates, and bug fixes. The post Star Wars Zero Company 1.2 Patch Notes appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/gaming/articles/star-wars-zero-company-1-2-patch-notes/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/Zero-Company-Reviews-Oct26-300x200.jpg",
+      "date": "Thu, 15 Oct 2026 19:54:55 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Jake Lloyd and Daniel Logan Take to Instagram to Thank Star Wars Fans for Support",
+      "description": "Jake Lloyd (Anakin Skywalker) and Daniel Logan (Boba Fett) have taken to Instagram together to thank Star Wars fans for their continued support. The post Jake Lloyd and Daniel Logan Take to Instagram to Thank Star Wars Fans for Support appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/jake-lloyd-and-daniel-logan-take-to-instagram-to-thank-star-wars-fans-for-support/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/Daniel-Logan-and-Jake-Lloyd-Oct26-300x201.jpg",
+      "date": "Thu, 15 Oct 2026 19:20:44 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Echo Base Live – Look Sir, Droids! Raises £3605 for Cancer Research UK",
+      "description": "The team behind last weekend's Echo Base Live weekend has shared they raised £3,604.85 for Cancer Research UK. The post Echo Base Live – Look Sir, Droids! Raises £3605 for Cancer Research UK appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/events/articles/echo-base-live-look-sir-droids-raises-3605-for-cancer-research-uk/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/Echo-Base-Live-Total-Raised-Oct26-300x201.jpg",
+      "date": "Thu, 15 Oct 2026 18:48:39 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Skytalkers: The Clone Wars Rewatch: “Massacre” and “Bounty” (Ventress Arc)",
+      "description": "Skytalkers - join Charlotte Errity and Caitlin Plesher as they talk about pressing and existing topics in the Star Wars universe. The post Skytalkers: The Clone Wars Rewatch: “Massacre” and “Bounty” (Ventress Arc) appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/skytalkers-the-clone-wars-rewatch-massacre-and-bounty-ventress-arc/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2018/06/Skytalkers-300x201.jpg",
+      "date": "Thu, 15 Oct 2026 14:15:14 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "LEGO Icons Venetian Neighbourhood and Venetian Water Taxi GWP Revealed, Available November 1st",
+      "description": "Celebrate Italy’s rich cultural and architectural heritage with the 5,682-piece LEGO Icons Venetian Neighbourhood (11388) available from November 1st, with a 322-piece LEGO Icons Venetian Water Taxi (40898) Gift with Purchase available whilst stocks last. The post LEGO Icons Venetian Neighbourhood and Venetian Water Taxi GWP Revealed, Available November 1st appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/lego/articles/lego-icons-venetian-neighbourhood-and-venetian-water-taxi-gwp-revealed-available-november-1st/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/11388_01_PRI_ZKxU5XsfSeMZ-300x201.jpg",
+      "date": "Thu, 15 Oct 2026 13:00:44 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
       "title": "Full Of Sith Episode DCLII: Robert Charrette",
       "description": "It's time to join the team for episode DCLII of Full of Sith. The post Full Of Sith Episode DCLII: Robert Charrette appeared first on Jedi News .",
       "url": "https://www.jedinews.com/podcasts/articles/full-of-sith-episode-dclii-robert-charrette/",
@@ -951,52 +996,278 @@
       "url": "https://www.jedinews.com/podcasts/third-party-network/articles/star-wars-beyond-the-films-287-rogue-squadron-blood-and-honor/",
       "image": "https://www.jedinews.com/wp-content/uploads/2018/06/Beyond-The-Films-300x201.jpg",
       "date": "Wed, 14 Oct 2026 17:27:03 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Star Wars: Unlimited – Homeworlds Release Trailer",
-      "description": "Hold your ground! Jump into epic battles and fight your way through invading enemy forces in Homeworlds, the epic ninth set of Star Wars: Unlimited! Star Wars: Unlimited - Homeworlds is available now -- happy hunting! The post Star Wars: Unlimited – Homeworlds Release Trailer appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/collecting/articles/star-wars-unlimited-homeworlds-release-trailer/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/maxresdefault-24-300x169.jpg",
-      "date": "Wed, 14 Oct 2026 16:47:58 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Double Points for LEGO Insiders and Restaurants of the World: Italy Set Through October 19th",
-      "description": "LEGO Insiders can earn double points on all purchases at LEGO.com and in-store through to Monday, October 19th, plus get Restaurants of the World: Italy, the final set in the series, with spends in excess of £160 | $180 | €180 while stocks last. The post Double Points for LEGO Insiders and Restaurants of the World: Italy Set Through October 19th appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/collecting/articles/double-points-for-lego-insiders-and-restaurants-of-the-world-italy-set-through-october-19th/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/LEGO-Double-Points-Oct26-300x201.jpg",
-      "date": "Wed, 14 Oct 2026 16:15:19 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Billie Lourd Says Her Kids Are Obsessed With Star Wars",
-      "description": "Billie Lourd has revealed how her two children, son Kingston aged 6, and daughter Jackson aged 3, are obsessed with Star Wars, and seeing their late grandmother Carrie Fisher on screen as Princess Leia. The post Billie Lourd Says Her Kids Are Obsessed With Star Wars appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/billie-lourd-says-her-kids-are-obsessed-with-star-wars/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/billie-lourd-children-carrie-star-wars-Oct26-300x201.jpg",
-      "date": "Wed, 14 Oct 2026 12:26:35 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "John Boyega Reveals He Got Married Two Years Ago And They Are Expecting A Son",
-      "description": "In a new interview with The Guardian focusing on his old school friend Damilola Taylor, who was tragically killed in November 2000, John Boyega talks about how his murder shaped him, and reveals that he got married almost two years ago and they are expecting a son. The post John Boyega Reveals He Got Married Two Years Ago And They Are Expecting A Son appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/john-boyega-reveals-he-got-married-two-years-ago-and-they-are-expecting-a-son/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2025/08/John-Boyega-Finn-with-lightsaber-Aug25-300x201.jpg",
-      "date": "Wed, 14 Oct 2026 11:55:55 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "ILM and Lucasfilm Finalists at the 2026 Concept Art Awards",
-      "description": "Members of the ILM Art Department join their colleagues from the Lucasfilm Art Department and Lucasfilm Animation as finalists at this year's Concept Art Awards, with artwork from The Mandalorian and Grogu and Star Wars: Maul - Shadow Lord. The post ILM and Lucasfilm Finalists at the 2026 Concept Art Awards appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/events/articles/ilm-and-lucasfilm-finalists-at-the-2026-concept-art-awards/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/mandalorian-grogu-star-wars-brett-northcutt-ilm-concept-art-awards-featured-Oct26-300x201.jpg",
-      "date": "Wed, 14 Oct 2026 08:09:31 +0000"
     }
   ],
-  "youtube": []
+  "youtube": [
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Ingenieur von OpenAI versteckt eine Wanze im Meetingraum der Chefs ?!",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/hY3sOk30uH0",
+      "image": "https://i.ytimg.com/vi/hY3sOk30uH0/hqdefault.jpg",
+      "date": "2026-10-15T10:00:24+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Hacker haben Supermarkt Kühltruhen in Frankreich auf 50 Grad aufgeheizt....",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/2eXYRwIPTgE",
+      "image": "https://i.ytimg.com/vi/2eXYRwIPTgE/hqdefault.jpg",
+      "date": "2026-10-14T10:15:06+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Wenn der Compiler deinen Code schwächt.... #informatik #code #programming #lernen #cybersecurity",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/N_muoVTYxQg",
+      "image": "https://i.ytimg.com/vi/N_muoVTYxQg/hqdefault.jpg",
+      "date": "2026-10-13T16:53:58+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Margaret Hamilton, eine der vielen großartigen Frauen in der Informatik ist von uns gegangen.",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/uM6aSJmTCbA",
+      "image": "https://i.ytimg.com/vi/uM6aSJmTCbA/hqdefault.jpg",
+      "date": "2026-10-12T16:00:18+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Was genau macht eigentlich AnyPS5 ?! #informatik #code #playstation #game #programming",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/DzSnqtFYpm4",
+      "image": "https://i.ytimg.com/vi/DzSnqtFYpm4/hqdefault.jpg",
+      "date": "2026-10-11T17:00:25+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Wird CODE jetzt wertlos ?!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=l5SbBoauUNE",
+      "image": "https://i.ytimg.com/vi/l5SbBoauUNE/hqdefault.jpg",
+      "date": "2026-10-11T14:22:29+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Wie funktioniert paralleles editieren in einem Dokument mit mehreren Nutzern ?!",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/wSsIYKE_Zog",
+      "image": "https://i.ytimg.com/vi/wSsIYKE_Zog/hqdefault.jpg",
+      "date": "2026-10-10T16:15:28+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Was genau war eigentlich die chipTAN ?! #informatik #chip #banking #cybersecurity #lernen",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/0Sw0YX75OlM",
+      "image": "https://i.ytimg.com/vi/0Sw0YX75OlM/hqdefault.jpg",
+      "date": "2026-10-09T13:30:13+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Alexa via Laser fernsteuern ?! #informatik #smarthome #alexa #siri #google #cybersecurity",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/9b112G2DG7U",
+      "image": "https://i.ytimg.com/vi/9b112G2DG7U/hqdefault.jpg",
+      "date": "2026-10-08T16:30:33+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Warum Grafikkarten wichtiger für KI sind als CPUs. #informatik #hardware #cpu #gpu #llm",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/NxgExgjdAHo",
+      "image": "https://i.ytimg.com/vi/NxgExgjdAHo/hqdefault.jpg",
+      "date": "2026-10-07T16:00:04+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Set Off Alarms in Abandoned Paper Mill",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=_2m_nAVaYSg",
+      "image": "https://i.ytimg.com/vi/_2m_nAVaYSg/hqdefault.jpg",
+      "date": "2026-09-30T17:00:15+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Exploring The Last Coal Power Plant in Connecticut Bridgeport Harbor Station",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=CR84XRBKBzs",
+      "image": "https://i.ytimg.com/vi/CR84XRBKBzs/hqdefault.jpg",
+      "date": "2026-08-27T17:00:39+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Rocketdyne Santa Susana Field Laboratory Abandoned America Space Race (1948)",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=0lka-0REQrQ",
+      "image": "https://i.ytimg.com/vi/0lka-0REQrQ/hqdefault.jpg",
+      "date": "2026-04-23T17:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition AMC Seats And Screens Left Behind",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=UnG29VothuQ",
+      "image": "https://i.ytimg.com/vi/UnG29VothuQ/hqdefault.jpg",
+      "date": "2026-03-27T21:09:35+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition Fly by In And Out",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=fDnOH8ZsfTg",
+      "image": "https://i.ytimg.com/vi/fDnOH8ZsfTg/hqdefault.jpg",
+      "date": "2026-03-27T20:40:08+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "AMC Westfield Promenade Mall Raw Demolition Drone Footage",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/5iA5R3Jq4g0",
+      "image": "https://i.ytimg.com/vi/5iA5R3Jq4g0/hqdefault.jpg",
+      "date": "2026-03-27T18:03:29+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition AMC Coming Down First!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=SAxjFGjTiHQ",
+      "image": "https://i.ytimg.com/vi/SAxjFGjTiHQ/hqdefault.jpg",
+      "date": "2026-03-23T17:42:38+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Beautiful Art Deco Theater",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=ccfU0LSmkj8",
+      "image": "https://i.ytimg.com/vi/ccfU0LSmkj8/hqdefault.jpg",
+      "date": "2026-03-11T20:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Decommissioned Power Station #synthwave #synth #retrowave #abandonedplaces",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/mOUbNSMoBJs",
+      "image": "https://i.ytimg.com/vi/mOUbNSMoBJs/hqdefault.jpg",
+      "date": "2025-06-17T17:55:51+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Wheel of Misfortune Three Kids Mine Demolition",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=VXRselqoN-8",
+      "image": "https://i.ytimg.com/vi/VXRselqoN-8/hqdefault.jpg",
+      "date": "2025-06-17T17:45:42+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Backup & Play Xbox 360 Games on a Modded Xbox 360 - Multi-Disc, DLC, XBLA & More!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=KYOZR0zotSc",
+      "image": "https://i.ytimg.com/vi/KYOZR0zotSc/hqdefault.jpg",
+      "date": "2026-10-10T17:00:36+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Softmod the Xbox 360 - Peer Pressure Beginner Setup for Homebrew, Backups, and More!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=G8ceM_xXlO8",
+      "image": "https://i.ytimg.com/vi/G8ceM_xXlO8/hqdefault.jpg",
+      "date": "2026-10-07T19:00:34+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Bad Storage Unauthenticated: Use Any HDD or SSD on Bad Update for Xbox 360!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=svNvWiJAjow",
+      "image": "https://i.ytimg.com/vi/svNvWiJAjow/hqdefault.jpg",
+      "date": "2026-10-03T17:00:02+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Mario's Minute 105 - Wiping Old Drives and XBOX's Disc to Digital Program",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=C0pBgwThC68",
+      "image": "https://i.ytimg.com/vi/C0pBgwThC68/hqdefault.jpg",
+      "date": "2026-09-30T17:00:10+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "AutoDNS: A Useful Network Safety Plugin for Bad Update & ABadAvatar Consoles",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=dgX6KUQy4jk",
+      "image": "https://i.ytimg.com/vi/dgX6KUQy4jk/hqdefault.jpg",
+      "date": "2026-09-26T17:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "PS5 Hypervisor Drama, Xbox 360 Softmod Details Revealed, Switch 2 Game Binary Dumped - ModChat 148",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=eMTjE6NIAAQ",
+      "image": "https://i.ytimg.com/vi/eMTjE6NIAAQ/hqdefault.jpg",
+      "date": "2026-09-23T17:00:08+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "XeUnshackle Max: Auto-Start, Custom Boot Animations, and More for Bad Update or ABadAvatar!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=P2hOdoLzQ38",
+      "image": "https://i.ytimg.com/vi/P2hOdoLzQ38/hqdefault.jpg",
+      "date": "2026-09-19T17:00:35+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Run ABadAvatar from an Internal Drive - ABadAvatar HDD Setup & Transfer",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=seOPwVF3YEM",
+      "image": "https://i.ytimg.com/vi/seOPwVF3YEM/hqdefault.jpg",
+      "date": "2026-09-12T17:00:38+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Enable Aurora's Hidden Splash Screen on a Modded Xbox 360",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/8JwsEdKQLz4",
+      "image": "https://i.ytimg.com/vi/8JwsEdKQLz4/hqdefault.jpg",
+      "date": "2026-09-09T17:00:30+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "ABadAvatar 1.3: Instant Bad Update on Boot for Xbox 360! - Upgrade & Usage Guide",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=nchLv_yS5wI",
+      "image": "https://i.ytimg.com/vi/nchLv_yS5wI/hqdefault.jpg",
+      "date": "2026-09-04T17:00:27+00:00"
+    }
+  ]
 }
