@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-16T08:49:43.854057+00:00",
+  "updated": "2026-10-16T13:48:02.494514+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Anker најави паметен полнач за лаптоп со екран, кој треба да ја штити батеријата",
+      "description": "Anker најави нов полнач за лаптоп со вграден екран, кој во објавата на X го нарекува Anker Laptop Smart Display Charger, а на својата страница Anker Laptop Charger Pro. Компанијата тврди дека ова е „првиот паметен полнач за лаптоп направен да ја заштити батеријата“, а официјалното лансирање е закажано за 22 октомври. Полначот нуди два режими […]",
+      "url": "https://smartportal.mk/novosti/uredi/anker-pameten-polnac-za-laptop/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Frame_2147239236_9_3840x-150x150.png",
+      "date": "Fri, 16 Oct 2026 10:42:08 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Amazon ги претстави Bee Frontier и Bee Eclipse, лични ВИ уреди што ги слушаат и сумираат разговорите",
+      "description": "Amazon ги претстави Bee Frontier и Bee Eclipse, два нови уреди за „лична вештачка интелигенција“. Тие ги слушаат разговорите на корисникот и од нив прават кратки резимеа, сознанија и предлози за обврски. Bee е стартап од Сан Франциско што Amazon го купи во јули 2025 година. Нивниот прв уред, нараквицата Bee Pioneer, чинеше 49,99 долари и го слушаше сето […]",
+      "url": "https://smartportal.mk/novosti/uredi/amazon-gi-pretstavi-bee-frontier-i-bee-eclipse/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/bee-frontier-eclipse-hero-amazonnews-ck101426-150x150.webp",
+      "date": "Fri, 16 Oct 2026 09:46:22 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Microsoft ги собра подобрувањата на Windows 11 во објава што повикува на купување нов компјутер",
+      "description": "Microsoft вчера објави преглед на новостите во Windows 11, насловен како „секојдневни искуства, повторно замислени“. Објавата завршува со повик за нов компјутер, бидејќи причината за надградба „не е само една функција“ и упатува на празничниот блог со понудата на уреди. Голем дел од наведеното веќе го знаеме. Поместувањето на долната лента, помалку прекини од Windows Update […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/microsoft-gi-sobra-podobruvanjata-na-windows-11/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/daniel-romero-MBm5AtVdiVY-unsplash-f-150x150.webp",
+      "date": "Fri, 16 Oct 2026 09:19:53 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Microsoft го освежи изгледот на VS Code и по забелешките од корисниците додаде покомпактен распоред",
+      "description": "Тимот на Microsoft што го развива Visual Studio Code го претстави модернизираниот изглед на уредувачот на код, кој засега е во пробна верзија („preview“). Според нив, по повеќе од една деценија додавање функции, интерфејсот станал визуелно сложен и неусогласен, па целта не е да го измислат одново, туку да ја направат хиерархијата појасна и да ги намалат […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/microsoft-go-osvezi-izgledot-na-vs-code/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/classic-to-modern-150x150.webp",
+      "date": "Fri, 16 Oct 2026 08:51:35 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -57,219 +93,183 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "LineageOS 24 носи Android 17 на постари телефони и нов начин на инсталација преку прелистувач",
-      "description": "Тимот на LineageOS, една од најпознатите алтернативни верзии на Android со отворен код, ја објави LineageOS 24 верзијата, која работи врз Android 17. Google ја пушти финалната верзија на Android 17 во јуни, а тимот вели дека овој пат ги пренел своите промени побрзо од очекуваното, па новата верзија стигнува порано од вообичаено. Најголемата новост за […]",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/lineageos-24/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/lineageos-24-hero-150x150.webp",
-      "date": "Thu, 15 Oct 2026 07:35:46 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Групацијата 4iG ги поврзува телекомуникациите и вселенските технологии за нов бран иновации на Западен Балкан",
-      "description": "Групацијата 4iG има за цел да стане првата компанија на Западен Балкан која ќе овозможи директно сателитско поврзување со мобилните уреди. Ова го истакна Пал Заранди, претседател на Одборот на директори на „Оне Македонија“ и директор на стратегии во Групацијата 4iG, за време на осмиот Дигитален самит за Западен Балкан, одржан во Херцег Нови. Договорот […]",
-      "url": "https://smartportal.mk/novosti/tehnologii/4ig-gi-povrzuva-telekomunikaciite-i-vselenskite-tehnologii/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/4ig-Naslovna-fotografija-150x150.webp",
-      "date": "Wed, 14 Oct 2026 17:38:06 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Најнапредните хуманоидни роботи во светот доаѓаат во Скопје на ЕНЕРГО ТЕХНОМА 2026",
-      "description": "Некои од најнапредните хуманоидни роботи во светот доаѓаат на ЕНЕРГО ТЕХНОМА 2026 во Скопје, заедно со словенечката технолошка компанија Hiproject. Посетителите ќе имаат ретка можност да видат модели што се меѓу првите од ваков вид во Европа, а воедно и да дознаат како Hiproject веќе развива и воведува хуманоидни роботи во реални работни средини — […]",
-      "url": "https://smartportal.mk/novosti/nastani/najnapredni-humanoidni-roboti-energo-tehnoma-2026/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/UBTECH_MAX-2-2-150x150.webp",
-      "date": "Wed, 14 Oct 2026 12:39:52 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Linux Mint преминува на една верзија годишно, а бројот на верзијата ќе ја означува годината",
-      "description": "Тимот на Linux Mint, една од најпопуларните Linux дистрибуции за десктоп, го менува начинот на кој ги означува верзиите. Во месечните новости за септември, објавени вчера, водачот на проектот Клемент Лефевр напиша дека следната верзија ќе се вика Linux Mint 27 „Adrien“ и дека е планирана за крајот на декември, за Божиќ. Бројот ја претставува […]",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/linux-mint-preminuva-na-edna-verzija-godisno/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/linux-mint-1-150x150.webp",
-      "date": "Wed, 14 Oct 2026 12:32:08 +0000"
+      "source": "Time.mk - All",
+      "title": "Речиси 70 тони храна завршиле во отпад, над 143 тони биле запрени на граница – што открија инспекторите? | Пари",
+      "description": "",
+      "url": "https://time.mk/c/056d686f2d/recisi-70-toni-hrana-zavrsile-vo-otpad-nad-143-toni-bile-zapreni-na-granica-sto-otkrija-inspektorite.html",
+      "image": "http://pari.com.mk/wp-content/uploads/2026/10/Inspecting-a-Food-Waste-Landfill.png",
+      "date": "Fri, 16 Oct 2026 13:38:43 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Димитриеска-Кочоска на Пленарната сесија од Годишните средби на ММФ и Светска банка: Во услови на глобална неизвесност фискалната дисциплина и структурните реформи се клучни за одржлив раст | Макфакс",
+      "title": "19 години од заминувањето на Тоше Проески: Глас што никогаш нема да се заборави | Убавина и Здравје",
       "description": "",
-      "url": "https://time.mk/c/6cf995b045/dimitrieska-kocoska-na-plenarnata-sesija-od-godisnite-sredbi-na-mmf-i-svetska-banka-vo-uslovi-na-globalna-neizvesnost-fiskalnata-disciplina-i-strukturnite-reformi-se-klucni-za-odrzliv-rast.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/gordana-kocoska-mmf-1.webp",
-      "date": "Fri, 16 Oct 2026 08:13:03 +0000"
+      "url": "https://time.mk/c/c604b8322b/19-godini-od-zaminuvanjeto-na-tose-proeski-glas-sto-nikogas-nema-da-se-zaboravi.html",
+      "image": "https://www.ubavinaizdravje.mk/wp-content/uploads/2018/10/Tose-Proeski-1.jpg",
+      "date": "Fri, 16 Oct 2026 12:38:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "АНТРОПИК ТВРДИ ДЕКА НЕГОВАТА ВЕШТАЧКА ИНТЕЛИГЕНЦИЈА МОЖЕ ДА БИДЕ СВЕСНА Дали човештвото е во опасност? | +инфо",
+      "title": "Клековски очекува в среда да почне вакцинацијата против сезонски грип | Независен",
       "description": "",
-      "url": "https://time.mk/c/c0afa18093/antropik-tvrdi-deka-negovata-vestacka-inteligencija-moze-da-bide-svesna-dali-covestvoto-e-vo-opasnost.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2024/05/aaa-2.jpg",
-      "date": "Fri, 16 Oct 2026 08:01:01 +0000"
+      "url": "https://time.mk/c/4f566eaf7f/klekovski-ocekuva-v-sreda-da-pocne-vakcinacijata-protiv-sezonski-grip.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/07/Saso-Klekovski-1024x1024.jpg",
+      "date": "Fri, 16 Oct 2026 13:45:02 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Индустриското производство во минус и во Македонија и во ЕУ – автомобилскиот сектор под притисок | Пари",
+      "title": "Ќе се жали ли Мицкоски за Груевски во НАТО? Владата вели да прашаме во СДСМ | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/80663b1ac9/industriskoto-proizvodstvo-vo-minus-i-vo-makedonija-i-vo-eu-avtomobilskiot-sektor-pod-pritisok.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/10/Automotive-Assembly-Line-in-Action.png",
-      "date": "Fri, 16 Oct 2026 07:42:37 +0000"
+      "url": "https://time.mk/c/435b758ef1/ke-se-zali-li-mickoski-za-gruevski-vo-nato-vladata-veli-da-prasame-vo-sdsm.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2019/07/Screenshot_10-2-300x213.jpg",
+      "date": "Fri, 16 Oct 2026 11:24:57 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Сите сме на интернет, но само половина од македонските граѓани користат онлајн банкарство | Трн",
+      "title": "Сиљановска-Давкова: Командата за операции е еден од столбовите на армискиот одбранбен систем | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/a5346af9df/site-sme-na-internet-no-samo-polovina-od-makedonskite-gragjani-koristat-onlajn-bankarstvo.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/09/telefoni-socijalni-mrezi-e1791913402324.jpg",
-      "date": "Fri, 16 Oct 2026 08:09:03 +0000"
+      "url": "https://time.mk/c/3e1e1c52e6/siljanovska-davkova-komandata-za-operacii-e-eden-od-stolbovite-na-armiskiot-odbranben-sistem.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/davkova-misajlovski-16-10-26-foto-2-5.webp",
+      "date": "Fri, 16 Oct 2026 12:16:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Фото) Уште една Анхоч локација поблиску до купувачите – нов салон во Џевахир Мол | Макфакс",
+      "title": "Стојко Рамов е избран за претседател на СОНК: Ќе се залагам за враќање на достоинството на просветните работници! | Фокус",
       "description": "",
-      "url": "https://time.mk/c/89e6baa030/foto-uste-edna-anhoc-lokacija-poblisku-do-kupuvacite-nov-salon-vo-dzevahir-mol.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/anhoch-dzevahir-otvoranje-6.webp",
-      "date": "Fri, 16 Oct 2026 08:06:38 +0000"
+      "url": "https://time.mk/c/ce655a671b/stojko-ramov-e-izbran-za-pretsedatel-na-sonk-ke-se-zalagam-za-vrakanje-na-dostoinstvoto-na-prosvetnite-rabotnici.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/10/stojko-ramov-960x532-1.jpg",
+      "date": "Fri, 16 Oct 2026 11:28:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Брвеница на предвремени избори: Шест кандидати во трка за градоначалничката функција | CivilMedia",
+      "title": "Mожност за конверзија на термоелектраните од јаглен на гас | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/ba3d5bb9a3/brvenica-na-predvremeni-izbori-sest-kandidati-vo-trka-za-gradonacalnickata-funkcija.html",
-      "image": "https://civilmedia.b-cdn.net/wp-content/uploads/lokalni-izbori-AI-750x375.png",
-      "date": "Fri, 16 Oct 2026 08:44:56 +0000"
+      "url": "https://time.mk/c/2c4a4a1a1d/moznost-za-konverzija-na-termoelektranite-od-jaglen-na-gas.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/gasovod.jpg",
+      "date": "Fri, 16 Oct 2026 12:56:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ПРУГАТА ВЕЛЕС – БИТОЛА СЕ ОСЛОБОДУВА ОД ДИЗЕЛОТ Следува електрификација и обнова со европски средства | +инфо",
+      "title": "Помладите со поризични вложувања во фондовите ќе се борат за повисоки пензии – предложени се законски измени | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/c57165c086/prugata-veles-bitola-se-osloboduva-od-dizelot-sleduva-elektrifikacija-i-obnova-so-evropski-sredstva.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2025/01/pruga-beljakovce-kumanovo-vlada-4.jpg",
-      "date": "Fri, 16 Oct 2026 06:42:38 +0000"
+      "url": "https://time.mk/c/215043fc8b/pomladite-so-porizicni-vlozuvanja-vo-fondovite-ke-se-borat-za-povisoki-penzii-predlozeni-se-zakonski-izmeni.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/03/gradezni-rabotnici-300x200.jpg",
+      "date": "Fri, 16 Oct 2026 10:40:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "СДСМ: Мицкоски и Николовски бараат алиби за предвремени избори | Press24",
+      "title": "Четврти ден протести во Албанија: Немирите од Тирана се проширија низ земјата, има повредени | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/ff94d5f230/sdsm-mickoski-i-nikolovski-baraat-alibi-za-predvremeni-izbori.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/77515.jpeg",
-      "date": "Fri, 16 Oct 2026 08:26:47 +0000"
+      "url": "https://time.mk/c/6a3baddbde/cetvrti-den-protesti-vo-albanija-nemirite-od-tirana-se-prosirija-niz-zemjata-ima-povredeni.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/86342/conversions/text-max.jpg",
+      "date": "Fri, 16 Oct 2026 13:37:02 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Рама обвинува за „туѓа рака“ во протестите: Ова нема врска со проблемите на студентите! | ТВ21",
+      "title": "Хрватска бара исполнување на осум услови од Црна Гора, ЕУ ја изостави временската цел за преговорите | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/2b6d4fb290/rama-obvinuva-za-tugja-raka-vo-protestite-ova-nema-vrska-so-problemite-na-studentite.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2025/05/rama.png",
-      "date": "Fri, 16 Oct 2026 08:13:04 +0000"
+      "url": "https://time.mk/c/82da0f314f/hrvatska-bara-ispolnuvanje-na-osum-uslovi-od-crna-gora-eu-ja-izostavi-vremenskata-cel-za-pregovorite.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/46475/conversions/crna-gora-eu-1-750x430-1-max.jpg",
+      "date": "Fri, 16 Oct 2026 11:18:43 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ХРВАТСКА Ѝ ПОСТАВИ УСЛОВИ НА ЦРНА ГОРА ЗА ЧЛЕНСТВО ВО ЕУ, ПЛЕНКОВИЌ ВЕЛИ ДЕКА ТОА НЕ Е ИСТО КАКО ШТО НЕКОИ 21 ГОДИНА ЈА БЛОКИРААТ МАКЕДОНИЈА | Сакам да кажам",
+      "title": "Зеленски: Повеќе не сме приоритет за американските ракети, најголемиот дел оди на Блискиот Исток | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/2f41bd40b3/hrvatska-i-postavi-uslovi-na-crna-gora-za-clenstvo-vo-eu-plenkovik-veli-deka-toa-ne-e-isto-kako-sto-nekoi-21-godina-ja-blokiraat-makedonija.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/10/Screenshot-2026-10-15-214145.jpg",
-      "date": "Fri, 16 Oct 2026 05:24:56 +0000"
+      "url": "https://time.mk/c/ee9041dc72/zelenski-poveke-ne-sme-prioritet-za-amerikanskite-raketi-najgolemiot-del-odi-na-bliskiot-istok.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/01/Depositphotos_756919190_XL.jpg",
+      "date": "Fri, 16 Oct 2026 13:37:02 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Зеленски не отстапува од нападите врз руските рафинерии, Трамп го губи трпението | Нова Македонија",
+      "title": "Членките на НАТО стравуваат дека Путин ја тестира Алијансата | Кајгана",
       "description": "",
-      "url": "https://time.mk/c/57e8a8b024/zelenski-ne-otstapuva-od-napadite-vrz-ruskite-rafinerii-tramp-go-gubi-trpenieto.html",
-      "image": "https://novamakedonija.com.mk/wp-content/uploads/2026/10/ilustracija-foto-epa-150x150.jpg",
-      "date": "Fri, 16 Oct 2026 08:34:44 +0000"
+      "url": "https://time.mk/c/8c1c0a403c/clenkite-na-nato-stravuvaat-deka-putin-ja-testira-alijansata.html",
+      "image": "https://kajgana.com/sites/default/files/styles/article_image_xxl/public/2026-10/Screenshot 2026-10-16 152146.png?itok=MXwYjUep",
+      "date": "Fri, 16 Oct 2026 13:22:51 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Белата куќа наредила блокада на Старлинк додека Киев трпи удари | Трн",
+      "title": "Дали храната и суплементите што се рекламираат на интернет се безбедни? Дискусија во Кисела Вода | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/c556eeabfd/belata-kuka-naredila-blokada-na-starlink-dodeka-kiev-trpi-udari.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/10/starlink-ukraina-e1791996188450.jpg",
-      "date": "Fri, 16 Oct 2026 08:21:02 +0000"
+      "url": "https://time.mk/c/c2f5e505fa/dali-hranata-i-suplementite-sto-se-reklamiraat-na-internet-se-bezbedni-diskusija-vo-kisela-voda.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/kisela-voda-biljana-belichanev-16-10-26-4a.webp",
+      "date": "Fri, 16 Oct 2026 11:57:01 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Фото) Отворен Триангла Fashion Park во Гази Баба | еМагазин",
+      "title": "(Фото) Пуштено е во употреба реновираното основно училиште „Крсте Петков Мисирков“ во Ченто | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/1b272be9ef/foto-otvoren-triangla-fashion-park-vo-gazi-baba.html",
-      "image": "https://emagazin.mk/wp-content/uploads/2026/10/849552210_872590249210293_5994342046302530558_n-300x200.jpg",
-      "date": "Fri, 16 Oct 2026 07:28:58 +0000"
+      "url": "https://time.mk/c/6c235f2d33/foto-pusteno-e-vo-upotreba-renoviranoto-osnovno-uciliste-krste-petkov-misirkov-vo-cento.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/1dfa60f1-1870-b035-ae22-13e7778c8a26.webp",
+      "date": "Fri, 16 Oct 2026 09:46:36 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Целосно реконструирани големиот и малиот паркинг на улицата Костурска во Скопје Север | Скопје инфо",
+      "title": "Кривична за директорот и вработени во УХМР за спорни набавки на услуги и промотивни материјали вредни над 487.000 евра | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/c01d3239bd/celosno-rekonstruirani-golemiot-i-maliot-parking-na-ulicata-kosturska-vo-skopje-sever.html",
-      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/oktomvri/image-262452.jpg?itok=RP8xmBH7",
-      "date": "Fri, 16 Oct 2026 06:53:04 +0000"
+      "url": "https://time.mk/c/d0763dd9bd/krivicna-za-direktorot-i-vraboteni-vo-uhmr-za-sporni-nabavki-na-uslugi-i-promotivni-materijali-vredni-nad-487-000-evra.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/81778/conversions/text-max.jpg",
+      "date": "Fri, 16 Oct 2026 10:04:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ГАЛЕРИЈА: Тешка сообраќајка утрово во Скопје – Едно возило искршено, друго извртено на улица | Press24",
+      "title": "Легализирал дивоградба и овозможил отуѓување државно земјиште, кривична пријава против поранешниот градоначалник на Струмица | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/5370122695/galerija-teska-soobrakajka-utrovo-vo-skopje-edno-vozilo-iskrseno-drugo-izvrteno-na-ulica.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/77482.jpg",
-      "date": "Fri, 16 Oct 2026 08:04:57 +0000"
+      "url": "https://time.mk/c/447ba332a8/legaliziral-divogradba-i-ovozmozil-otugjuvanje-drzavno-zemjiste-krivicna-prijava-protiv-poranesniot-gradonacalnik-na-strumica.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/81742/conversions/text-max.jpg",
+      "date": "Fri, 16 Oct 2026 11:04:57 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Драматична ноќ во Скопје: Изгореа четири автомобили | Press24",
+      "title": "Европа ја чека непредвидлива зима: Балканот меѓу регионите со најмалку снег, но поларниот вртлог може да донесе пресврт! | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/a63f291b03/dramaticna-nok-vo-skopje-izgorea-cetiri-avtomobili.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/77449.png",
-      "date": "Fri, 16 Oct 2026 06:58:36 +0000"
+      "url": "https://time.mk/c/bce958202d/evropa-ja-ceka-nepredvidliva-zima-balkanot-megju-regionite-so-najmalku-sneg-no-polarniot-vrtlog-moze-da-donese-presvrt.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/sneg-sapka-moja-opsta.jpg",
+      "date": "Fri, 16 Oct 2026 12:37:04 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВМРО-ДПМНЕ: Над 470 милиони денари за нови капитални инвестиции во Кичево | Press24",
+      "title": "Со европски пари ќе се рекултивира старото хидројаловиште во Пробиштип | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/1459cd2875/vmro-dpmne-nad-470-milioni-denari-za-novi-kapitalni-investicii-vo-kicevo.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/77475.jpg",
-      "date": "Fri, 16 Oct 2026 07:48:56 +0000"
+      "url": "https://time.mk/c/4a6c2e9e74/so-evropski-pari-ke-se-rekultivira-staroto-hidrojaloviste-vo-probistip.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/probistip.jpg",
+      "date": "Fri, 16 Oct 2026 12:29:02 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Општина Битола: Заедно со граѓаните го креираме буџетот за 2027 година | Булевар",
+      "title": "КЛАСИЧНАТА МУЗИКА НЕ Е НЕШТО НА КОЕ НЕ СМЕЕМЕ НИ ДА МРДАМЕ НИ ДА ДИШЕМЕ, РЕЧЕ СИМОН ТРПЧЕСКИ ПРЕД КОНЦЕРТИТЕ ВО СКОПЈЕ | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/abaf907e53/opstina-bitola-zaedno-so-gragjanite-go-kreirame-budzetot-za-2027-godina.html",
-      "image": "https://bulevar.mk/wp-content/uploads/2026/10/img_1206-1024x538.jpeg",
-      "date": "Fri, 16 Oct 2026 08:13:04 +0000"
+      "url": "https://time.mk/c/4718e2d766/klasicnata-muzika-ne-e-nesto-na-koe-ne-smeeme-ni-da-mrdame-ni-da-diseme-rece-simon-trpceski-pred-koncertite-vo-skopje.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/10/simon-trpcheski-.jpg",
+      "date": "Fri, 16 Oct 2026 12:38:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ТРИ КОНЦЕРТИ СО СКАНДИНАВСКИ МУЗИЧАРИ НА ВТОРАТА ВЕЧЕР НА 45. СКОПСКИ ЏЕЗ ФЕСТИВАЛ | Сакам да кажам",
+      "title": "„Меморија“ со приказни од минатото и музички изненадувања на концертот во „Јане Сандански“ | Фактор",
       "description": "",
-      "url": "https://time.mk/c/bcc8a90ed5/tri-koncerti-so-skandinavski-muzicari-na-vtorata-vecer-na-45-skopski-dzez-festival.html",
-      "image": "https://smart.sdk.mk/wp-content/uploads/2026/10/details_image_01-1.png",
-      "date": "Fri, 16 Oct 2026 08:28:57 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Второ издание на Фестивалот на калинката во Валандово | Независен",
-      "description": "",
-      "url": "https://time.mk/c/1cc18c997c/vtoro-izdanie-na-festivalot-na-kalinkata-vo-valandovo.html",
-      "image": "",
-      "date": "Fri, 16 Oct 2026 07:22:41 +0000"
+      "url": "https://time.mk/c/7a0da06615/memorija-so-prikazni-od-minatoto-i-muzicki-iznenaduvanja-na-koncertot-vo-jane-sandanski.html",
+      "image": "https://zenskimagazin.mk/media/main/2026/10/20261016134258.jpg",
+      "date": "Fri, 16 Oct 2026 13:45:02 +0000"
     }
   ],
   "de": [
@@ -458,6 +458,33 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "The Difference Between Suunto's Race, Run, and Vertical Series Smartwatches",
+      "description": "This week’s launch of the Suunto Race 3S is a good reason to sort it all out.",
+      "url": "https://lifehacker.com/health/differences-between-suunto-race-run-vertical-smartwatches?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M50M0EJBQFDHXJYSS3NTY2V9/hero-image.jpg",
+      "date": "Fri, 16 Oct 2026 13:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Apple Watch Series 10 Is $120 Off Right Now",
+      "description": "The 46mm Apple Watch Series 10 (GPS + Cellular) in titanium is down to $679 on Amazon.",
+      "url": "https://lifehacker.com/tech/apple-watch-series-10-sale-october-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M51B025MM3KC8ACMJWX6H0RV/hero-image.jpg",
+      "date": "Fri, 16 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This LG Ultragear OLED Gaming Monitor Is $400 Off Right Now",
+      "description": "This 27-inch LG gaming monitor has a 240Hz refresh rate and is down to $499.99.",
+      "url": "https://lifehacker.com/tech/lg-ultragear-oled-gaming-monitor-sale-october-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M51AM74GXXAEHXSN7KHDSJX7/hero-image.jpg",
+      "date": "Fri, 16 Oct 2026 12:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "How to Enable Global Privacy Control in Every Browser (and Why You Should)",
       "description": "Notify every website of your privacy preferences with a single setting",
       "url": "https://lifehacker.com/tech/how-to-enable-global-privacy-control-in-every-browser-and-why-you-should?utm_medium=RSS",
@@ -610,30 +637,48 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "Your PC Has Over 1,400 (Known) Security Flaws—Here's How to Fix Them",
-      "description": "Microsoft's latest Patch Tuesday sets a new record for security fixes.",
-      "url": "https://lifehacker.com/tech/your-pc-has-over-1400-known-security-flaws-heres-how-to-fix-them?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M4XDP3Z5RQ0AW55GEDW3JR5B/hero-image.jpg",
-      "date": "Wed, 14 Oct 2026 16:30:00 +0000"
+      "source": "PCWorld",
+      "title": "Alienware’s $699 monitor finally fixes the thing I hate about OLEDs",
+      "description": "At a glance Expert's Rating Pros Gorgeous 32-inch 4K Tandem OLED panel that stuns for work and play alike Crisp text with virtually no color fringing Stunning contrast, colors, and blacks Excellent for both work and gaming Fantastic value at $699 Three-year warranty covers OLED burn-in Cons 165Hz is slower than competing gaming OLEDs DisplayPort 1.4 instead of 2.1 Limited USB-C docking options No built-in speakers Not ideal for hardcore competitive gamers Our Verdict Alienware’s $699 AW3226Q fin",
+      "url": "https://www.pcworld.com/article/3261900/alienware-aw3226q-review.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3261900-0-24716600-1792155639-Alienware-AW3226Q-16.jpg?quality=50&strip=all",
+      "date": "Fri, 16 Oct 2026 13:00:00 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "Samsung's Dolby Atmos Soundbar (With a Wireless Subwoofer) Is $110 Off Right Now",
-      "description": "The Samsung HW-Q600F soundbar is down to $389.99 from $499.99.",
-      "url": "https://lifehacker.com/tech/samsungs-dolby-atmos-soundbar-with-wireless-subwoofer-deal-october-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M4W5BYAC7YCAZV4ESBV4AQNN/hero-image.jpg",
-      "date": "Wed, 14 Oct 2026 16:00:34 +0000"
+      "source": "PCWorld",
+      "title": "Microsoft Surface Laptop Ultra review: A monster AI laptop with a monster price",
+      "description": "At a glance Expert's Rating Pros Excellent multicore, graphics performance Rock-solid construction Power-efficient Great display Cons Even the base model is extremely expensive Surprisingly average webcam Slow single-core performance may slow down UI Initial bugginess which went away Heavier than you’d expect Our Verdict Microsoft’s Surface Laptop Ultra is a new class of device, combining efficient productivity, powerful graphics, plus AI capabilities, all for a price that seems totally unrealis",
+      "url": "https://www.pcworld.com/article/3258665/microsoft-surface-laptop-ultra-review.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3258665-0-10110200-1792152058-Microsoft-Surface-Laptop-Ultra-primary-1.jpg?quality=50&strip=all",
+      "date": "Fri, 16 Oct 2026 12:00:00 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "I Tried Google's New Gemini 4 Argon Model, and Here's How It Measures up to GPT-6",
-      "description": "In my tests, each model performs better in different areas.",
-      "url": "https://lifehacker.com/tech/heres-how-gemini-4-argon-compares-to-gpt-6?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M4XCKHM43W7R1PKWQP96NJMY/hero-image.jpg",
-      "date": "Wed, 14 Oct 2026 15:00:00 +0000"
+      "source": "PCWorld",
+      "title": "Nvidia is no longer a PC gaming company. Get used to it",
+      "description": "I’ve been buying Nvidia graphics cards exclusively for nearly 30 years, and I may well continue—if Nvidia will let me. But even I’ve had to make peace with the fact that Nvidia is no longer in the business of supporting PC gaming. I’m not sure it ever will be again. I was thinking about this while listening to the latest episode of The Full Nerd, in which Adam and his fellow cohosts discuss what it means that Nvidia may soon stop selling the RTX 5090 entirely. The news comes courtesy of a Twitte",
+      "url": "https://www.pcworld.com/article/3260897/nvidia-is-no-longer-a-pc-gaming-company-get-used-to-it.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3260897-0-42315300-1792152026-Satya-Nadella-Microsoft-Nvidia-Jensen-Huang-RTX-Spark-laptops.jpg?quality=50&strip=all",
+      "date": "Fri, 16 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "The better I get at AI, the less I trust it",
+      "description": "The better I get at using AI, the less I trust it. I know, I know — that sounds backwards. We’re being sold a future where increasingly capable AI assistants take more and more work off our plates. But after spending a frankly embarrassing amount of time building an elaborate AI-powered NFL betting project over the last few months — and especially after suffering through an infuriating $1,500 catastrophe this week — I’ve come to the opposite conclusion. AI works best when you treat it like an id",
+      "url": "https://www.pcworld.com/article/3261985/the-better-i-get-at-ai-the-less-i-trust-it.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3261985-0-72454700-1792149318-Delete-Trash-button-on-a-white-keyboard-close-up.jpg?quality=50&strip=all",
+      "date": "Fri, 16 Oct 2026 11:15:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Explore Reddit like never before with this interactive map",
+      "description": "Just when I think I’ve seen everything Reddit has to offer, some obscure subreddit pops up and proves me wrong. There are seemingly endless numbers of them, so realistically you don’t have enough time to browse your way to the bizarre, underappreciated stuff. But with a site like Map of Reddit , you might be able to find those niche subreddits a bit easier. It’s a free, interactive site that plots more than 116,000 subreddits as dots in one giant galaxy. Each dot represents a community and the c",
+      "url": "https://www.pcworld.com/article/3256653/explore-reddit-like-never-before-with-this-interactive-map.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3256653-0-53592400-1792146637-Map-of-Reddit.png",
+      "date": "Fri, 16 Oct 2026 10:30:00 +0000"
     },
     {
       "category": "eng",
@@ -679,51 +724,6 @@
       "url": "https://www.pcworld.com/article/3253724/this-shortcut-fixes-windows-display-glitches-no-restart-needed.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3253724-0-95648500-1792074620-Finger-pressing-Windows-key-on-a-blue-laptop-keyboard.jpg?quality=50&strip=all",
       "date": "Thu, 15 Oct 2026 14:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Gamers don’t need a $5,000 RTX 5090 anyway. DLSS got good enough",
-      "description": "The GeForce RTX 5090 is an absolute monster. It’s also becoming increasingly difficult to justify for gaming — and ironically, Nvidia’s own DLSS technology is a big reason why. When the RTX 5090 launched almost two years ago, Nvidia slapped a staggering $1,999 price tag on its new flagship. I called it “ the most brutally fast graphics card ever ,” because it was (and still is). The RTX 5090 delivered a massive leap in raw performance, paired with a mammoth 32GB of cutting-edge GDDR7 memory and ",
-      "url": "https://www.pcworld.com/article/3260901/gamers-dont-need-a-5000-rtx-5090-anyways-dlss-got-good-enough.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3260901-0-21687900-1792069233-nvidia-geforce-rtx-5090-founders-edition-11.jpg?quality=50&strip=all",
-      "date": "Thu, 15 Oct 2026 13:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
-      "description": "If you’re looking for an affordable Windows machine under $500 , a blazing fast gaming beast for those intense matches, or a portable 2-in-1 for school or work, you’ve got plenty of great choices right now. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 80 laptops every year. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches",
-      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/550968-0-42678600-1792066249-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
-      "date": "Thu, 15 Oct 2026 12:10:32 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Google’s new Googlebook has clever AI tricks. I’d still pick a Windows laptop",
-      "description": "Googlebooks are here, promising productivity aplenty within the Google ecosystem. But how do Google’s new productivity features compare versus the more familiar Windows 11? That’s the goal for Smart Mode this week: examining how you (and I) can use Googlebooks as productivity devices, specifically looking at several of the features both offer. Unfortunately, two of the most novel platforms the PC has seen in years — the Googlebook and the Nvidia RTX Spark platform — have landed on the PC within ",
-      "url": "https://www.pcworld.com/article/3258718/googles-new-googlebook-has-clever-ai-tricks-id-still-pick-a-windows-laptop.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3258718-0-31244600-1792065635-Googlebook-vs-Windows-PC.jpg?quality=50&strip=all",
-      "date": "Thu, 15 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "NBA 2026-2027 streaming guide: Making sense of total chaos",
-      "description": "2026 is an especially weird year for watching the NBA. With the demise of regional FanDuel Sports Networks, and the league’s long-planned national streaming service at least a year away , many teams were suddenly in need of temporary plans for this season. The result is a patchwork of standalone streaming services, free over-the-air broadcasts, and traditional TV options that vary based on where you live. You might think the NBA would try to help, perhaps with a single page that helps fans sort ",
-      "url": "https://www.pcworld.com/article/3260994/nba-2026-2027-streaming-guide-making-sense-of-total-chaos.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3260994-0-89370600-1792081055-markus-spiske-BfphcCvhl6E-unsplash-1536x1002-1.jpg?quality=50&strip=all",
-      "date": "Thu, 15 Oct 2026 11:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Today only! Ad-free browsing is $15 for life",
-      "description": "TL;DR: Block ads, trackers, and malware on up to nine devices with an AdGuard Family Plan lifetime subscription , just $14.97 (MSRP $169.99) until 11:59 p.m. PT. Pop-ups, autoplay video ads, and trackers show up on every device in a household, from the family PC to a kid’s phone. AdGuard blocks them on up to nine devices, and an AdGuard Family Plan lifetime subscription is just $14.97 (MSRP $169.99) for a very limited time: our Deal Days Extended sale ends at midnight tonight (October 15). AdGua",
-      "url": "https://www.pcworld.com/article/3260941/today-only-ad-free-browsing-is-15-for-life.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3260941-0-46784300-1792051229-sale_25093_article_image.jpg?quality=50&strip=all",
-      "date": "Thu, 15 Oct 2026 08:00:00 +0000"
     }
   ],
   "starwars": [
@@ -1002,6 +1002,15 @@
     {
       "category": "youtube",
       "source": "Hood Informatik",
+      "title": "Ein LTE Modul in einem Hardware Wallet ?! Was ist dieses Jahr eigentlich nicht passiert....",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/mDAHUbhpcFQ",
+      "image": "https://i.ytimg.com/vi/mDAHUbhpcFQ/hqdefault.jpg",
+      "date": "2026-10-16T10:15:25+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
       "title": "Ingenieur von OpenAI versteckt eine Wanze im Meetingraum der Chefs ?!",
       "description": "",
       "url": "https://www.youtube.com/shorts/hY3sOk30uH0",
@@ -1079,15 +1088,6 @@
       "url": "https://www.youtube.com/shorts/9b112G2DG7U",
       "image": "https://i.ytimg.com/vi/9b112G2DG7U/hqdefault.jpg",
       "date": "2026-10-08T16:30:33+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Warum Grafikkarten wichtiger für KI sind als CPUs. #informatik #hardware #cpu #gpu #llm",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/NxgExgjdAHo",
-      "image": "https://i.ytimg.com/vi/NxgExgjdAHo/hqdefault.jpg",
-      "date": "2026-10-07T16:00:04+00:00"
     },
     {
       "category": "youtube",
