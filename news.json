@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-16T17:50:45.621227+00:00",
+  "updated": "2026-10-16T20:38:59.600136+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Publicis Groupе на конференцијата „Бизнис Лидер“ избрана за најдобра маркетинг агенција во Македонија",
+      "description": "На церемонијата на доделување на наградите „Бизнис Лидер“, Publicis Groupe Македонија е прогласена за најдобра маркетинг агенција во Македонија, признание што ја истакнува континуираната посветеност на агенцијата, силата и експертизата на нејзиниот тим и креативниот пристап во создавањето ефективни комуникациски решенија. Признанието доаѓа во година кога агенцијата слави 30 годишен јубилеј, период во кој оствари […]",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/publicis-group%d0%b5-biznis-lider-najdobra-marketing-agencija/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/slika-biznis-lider-150x150.webp",
+      "date": "Fri, 16 Oct 2026 20:37:18 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -84,12 +93,30 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Кога талентот има поддршка, успесите немаат граници: Четири години заедничка приказна со Македон Димитровски",
-      "description": "За знаењето и талентот не постојат граници, ниту пак години. Македон Димитровски, момчето чие име веќе години наназад е синоним за вонсериски математички ум и гордост на нашата земја, продолжува да реди успеси и да го потврдува својот исклучителен потенцијал на домашната и меѓународната сцена. Зад секој негов резултат стојат огромна посветеност, љубопитност и желба […]",
-      "url": "https://smartportal.mk/novosti/licnosti/cetiri-godini-zaednicka-prikazna-so-makedon/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/slika-makedon-3-150x150.webp",
-      "date": "Thu, 15 Oct 2026 11:51:42 +0000"
+      "source": "Time.mk - All",
+      "title": "Власта негира договор за бегството на Михајлова, опозицијата бара оставка од Тошковски | 4NEWS",
+      "description": "",
+      "url": "https://time.mk/c/3f5177227d/vlasta-negira-dogovor-za-begstvoto-na-mihajlova-opozicijata-bara-ostavka-od-toskovski.html",
+      "image": "https://4news.mk/wp-content/uploads/2026/10/iva-mihajlova-1024x576.avif",
+      "date": "Fri, 16 Oct 2026 19:42:36 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Да не дозволиме повторно да ни се случи СДСМ – порача Мицкоски од завршниот митинг во Брвеница | 360 степени",
+      "description": "",
+      "url": "https://time.mk/c/81c2110819/da-ne-dozvolime-povtorno-da-ni-se-sluci-sdsm-poraca-mickoski-od-zavrsniot-miting-vo-brvenica.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/10/29.jpg",
+      "date": "Fri, 16 Oct 2026 18:46:43 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Герасимовски: Како партија се уште не сме консолидирани целосно | Фокус",
+      "description": "",
+      "url": "https://time.mk/c/9580bddad6/gerasimovski-kako-partija-se-uste-ne-sme-konsolidirani-celosno.html",
+      "image": "https://fokus.mk/wp-content/uploads/2025/04/gerasimovski-2.jpeg",
+      "date": "Fri, 16 Oct 2026 20:18:37 +0000"
     },
     {
       "category": "mkd",
@@ -103,47 +130,29 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
+      "title": "На Онкологија повторно недостига Золадекс, дел од пациентите останале без терапија | 4NEWS",
+      "description": "",
+      "url": "https://time.mk/c/4007243650/na-onkologija-povtorno-nedostiga-zoladeks-del-od-pacientite-ostanale-bez-terapija.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2024/01/DSC_7376-300x200.jpg",
+      "date": "Fri, 16 Oct 2026 20:02:38 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Се огласи Костадинов преку објава на социјалните мрежи: Еве што порача | Бизнис Вести",
+      "description": "",
+      "url": "https://time.mk/c/a5127f23aa/se-oglasi-kostadinov-preku-objava-na-socijalnite-mrezi-eve-sto-poraca.html",
+      "image": "https://biznisvesti.mk/wp-content/uploads/2026/10/kostadinov-300x164.jpg",
+      "date": "Fri, 16 Oct 2026 19:54:38 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
       "title": "Речиси 70 тони храна завршиле во отпад, над 143 тони биле запрени на граница – што открија инспекторите? | Пари",
       "description": "",
       "url": "https://time.mk/c/6eec0a0bab/recisi-70-toni-hrana-zavrsile-vo-otpad-nad-143-toni-bile-zapreni-na-granica-sto-otkrija-inspektorite.html",
       "image": "http://pari.com.mk/wp-content/uploads/2026/10/Inspecting-a-Food-Waste-Landfill.png",
       "date": "Fri, 16 Oct 2026 13:38:43 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Случајот Михаилова стигнува до НАТО и ЕУ - Мицкоски најави механизми и разговори со меѓународните партнери | 24 Вести",
-      "description": "",
-      "url": "https://time.mk/c/f6b96cf742/slucajot-mihailova-stignuva-do-nato-i-eu-mickoski-najavi-mehanizmi-i-razgovori-so-megjunarodnite-partneri.html",
-      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1792160165/nx93vfzyulc5y2noly7k.jpg",
-      "date": "Fri, 16 Oct 2026 14:56:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Пленковиќ издејствува измени во планот за пристапување на Црна Гора кон ЕУ: Отстранети роковите за затворање на преговарачките поглавја | Вечер Прес",
-      "description": "",
-      "url": "https://time.mk/c/9767cf52a6/plenkovik-izdejstvuva-izmeni-vo-planot-za-pristapuvanje-na-crna-gora-kon-eu-otstraneti-rokovite-za-zatvoranje-na-pregovarackite-poglavja.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/10/plenkovic-nasa-696x496-1.jpg",
-      "date": "Fri, 16 Oct 2026 16:16:52 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Мицкоски: Изборите во Брвеница се порака за тоа каква држава сакаме | Макфакс",
-      "description": "",
-      "url": "https://time.mk/c/aaa6afeb46/mickoski-izborite-vo-brvenica-se-poraka-za-toa-kakva-drzava-sakame.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/13-1.webp",
-      "date": "Fri, 16 Oct 2026 17:44:59 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Радичевски: Со јасна визија и конкретни проекти ја развиваме Брвеница | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/7e3aefa773/radicevski-so-jasna-vizija-i-konkretni-proekti-ja-razvivame-brvenica.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/86381/conversions/text-max.jpg",
-      "date": "Fri, 16 Oct 2026 17:38:45 +0000"
     },
     {
       "category": "mkd",
@@ -157,47 +166,47 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Мицкоски слави туристички бум, но каде се милионите од туризмот? | Рацин",
+      "title": "Десет познати новинари на Н1 дадоа откази по големиот притисок | Независен",
       "description": "",
-      "url": "https://time.mk/c/744dcdabbc/mickoski-slavi-turisticki-bum-no-kade-se-milionite-od-turizmot.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/10/mickoski_turizam_1600x800-848x424.jpg?x70913",
-      "date": "Fri, 16 Oct 2026 16:01:02 +0000"
+      "url": "https://time.mk/c/e053dd7f07/deset-poznati-novinari-na-n1-dadoa-otkazi-po-golemiot-pritisok.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/N1.jpg",
+      "date": "Fri, 16 Oct 2026 18:16:53 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Работеле 25 дена без дневна светлина во фабрика за цигари во Словенија | Трн",
+      "title": "Пленковиќ издејствува измени во планот за пристапување на Црна Гора кон ЕУ: Отстранети роковите за затворање на преговарачките поглавја | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/4bde0c043d/rabotele-25-dena-bez-dnevna-svetlina-vo-fabrika-za-cigari-vo-slovenija.html",
-      "image": "https://trn.mk/wp-content/uploads/2023/05/jsm-dimitar-cigari.mp4.00_01_38_04.still006-e1792167302165.jpg",
-      "date": "Fri, 16 Oct 2026 16:20:58 +0000"
+      "url": "https://time.mk/c/c219176288/plenkovik-izdejstvuva-izmeni-vo-planot-za-pristapuvanje-na-crna-gora-kon-eu-otstraneti-rokovite-za-zatvoranje-na-pregovarackite-poglavja.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/plenkovic-nasa-696x496-1.jpg",
+      "date": "Fri, 16 Oct 2026 16:16:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ПО НАПАДИТЕ ВРЗ ЦИВИЛНИ БРОДОВИ, Романија предлага заедничка НАТО-воена команда на Црното море | Пари",
+      "title": "Путин: Самопрогласената Луганска Народна Република е целосно под контрола на руските сили | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/a7999ceef3/po-napadite-vrz-civilni-brodovi-romanija-predlaga-zaednicka-nato-voena-komanda-na-crnoto-more.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/10/Tanker-pogoden-vo-Crno-More.jpeg",
-      "date": "Fri, 16 Oct 2026 12:10:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "„АКО ПАДНЕМЕ, 20 МИЛИОНИ УКРАИНЦИ ЌЕ ДОЈДАТ ВО ЕВРОПА“ Зеленски бара пари, ракети и алтернатива за „Старлинк“ | +инфо",
-      "description": "",
-      "url": "https://time.mk/c/ce9a1a5b73/ako-padneme-20-milioni-ukrainci-ke-dojdat-vo-evropa-zelenski-bara-pari-raketi-i-alternativa-za-starlink.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2026/10/zelenski-e1792163608831.jpg",
-      "date": "Fri, 16 Oct 2026 15:20:55 +0000"
+      "url": "https://time.mk/c/f0b1bac645/putin-samoproglasenata-luganska-narodna-republika-e-celosno-pod-kontrola-na-ruskite-sili.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/putin-izvrsen-komandnat-10-26.jpg",
+      "date": "Fri, 16 Oct 2026 20:28:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
       "title": "Драматично предупредување на Зеленски среде Брисел: „Ако паднеме, 20 милиони луѓе ќе тргнат кон Европа“ | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/e72fe528c5/dramaticno-predupreduvanje-na-zelenski-srede-brisel-ako-padneme-20-milioni-lugje-ke-trgnat-kon-evropa.html",
+      "url": "https://time.mk/c/5558dc871e/dramaticno-predupreduvanje-na-zelenski-srede-brisel-ako-padneme-20-milioni-lugje-ke-trgnat-kon-evropa.html",
       "image": "https://www.vecer.press/wp-content/uploads/2026/10/llajen-zelenski-okt26-epa.jpg",
       "date": "Fri, 16 Oct 2026 17:10:53 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Мицкоски во Ченто: Градиме над 1.200 проекти со општините, децата добија современо училиште | Press24",
+      "description": "",
+      "url": "https://time.mk/c/aad6f4134f/mickoski-vo-cento-gradime-nad-1-200-proekti-so-opstinite-decata-dobija-sovremeno-uciliste.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/77574.jpg",
+      "date": "Fri, 16 Oct 2026 10:16:57 +0000"
     },
     {
       "category": "mkd",
@@ -211,29 +220,29 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Фото) Пуштено е во употреба реновираното основно училиште „Крсте Петков Мисирков“ во Ченто | Макфакс",
+      "title": "Малолетници нападнати од други малолетници или возрасни лица | Независен",
       "description": "",
-      "url": "https://time.mk/c/6c235f2d33/foto-pusteno-e-vo-upotreba-renoviranoto-osnovno-uciliste-krste-petkov-misirkov-vo-cento.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/1dfa60f1-1870-b035-ae22-13e7778c8a26.webp",
-      "date": "Fri, 16 Oct 2026 09:46:36 +0000"
+      "url": "https://time.mk/c/d047ccbefa/maloletnici-napadnati-od-drugi-maloletnici-ili-vozrasni-lica.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2022/12/buling-1024x603.jpg",
+      "date": "Fri, 16 Oct 2026 10:54:39 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Костадинов: Подготвен сум да одговорам за секоја своја одлука | Press24",
+      "title": "(Видео) Полицијата ги најде жените кои се пресметаа среде улица во Скопје: Ќе има соодветна пријава | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/35eee6d3f1/kostadinov-podgotven-sum-da-odgovoram-za-sekoja-svoja-odluka.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/77673.webp",
-      "date": "Fri, 16 Oct 2026 16:54:39 +0000"
+      "url": "https://time.mk/c/f68f7620fd/video-policijata-gi-najde-zenite-koi-se-presmetaa-srede-ulica-vo-skopje-ke-ima-soodvetna-prijava.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/86388/conversions/text-max.jpg",
+      "date": "Fri, 16 Oct 2026 18:48:57 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Кривична за директорот и вработени во УХМР за спорни набавки на услуги и промотивни материјали вредни над 487.000 евра | Скопје1",
+      "title": "Дали Европа ја очекува зима со повеќе или помалку снег? Објавена е голема прогноза | Независен",
       "description": "",
-      "url": "https://time.mk/c/d0763dd9bd/krivicna-za-direktorot-i-vraboteni-vo-uhmr-za-sporni-nabavki-na-uslugi-i-promotivni-materijali-vredni-nad-487-000-evra.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/81778/conversions/text-max.jpg",
-      "date": "Fri, 16 Oct 2026 10:04:59 +0000"
+      "url": "https://time.mk/c/651e76512a/dali-evropa-ja-ocekuva-zima-so-poveke-ili-pomalku-sneg-objavena-e-golema-prognoza.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2025/01/Spomenik-na-ASNOM-na-sneg-1-bg.jpg",
+      "date": "Fri, 16 Oct 2026 18:32:58 +0000"
     },
     {
       "category": "mkd",
@@ -247,29 +256,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Европа ја чека непредвидлива зима: Балканот меѓу регионите со најмалку снег, но поларниот вртлог може да донесе пресврт! | Вечер Прес",
+      "title": "Песни, пораки и градина на Детската улица во чест на Тоше | Независен",
       "description": "",
-      "url": "https://time.mk/c/bce958202d/evropa-ja-ceka-nepredvidliva-zima-balkanot-megju-regionite-so-najmalku-sneg-no-polarniot-vrtlog-moze-da-donese-presvrt.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/10/sneg-sapka-moja-opsta.jpg",
-      "date": "Fri, 16 Oct 2026 12:37:04 +0000"
+      "url": "https://time.mk/c/4f0beb44d6/pesni-poraki-i-gradina-na-detskata-ulica-vo-cest-na-tose.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/tose-1024x600.jpg",
+      "date": "Fri, 16 Oct 2026 20:01:03 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "КЛАСИЧНАТА МУЗИКА НЕ Е НЕШТО НА КОЕ НЕ СМЕЕМЕ НИ ДА МРДАМЕ НИ ДА ДИШЕМЕ, РЕЧЕ СИМОН ТРПЧЕСКИ ПРЕД КОНЦЕРТИТЕ ВО СКОПЈЕ | Сакам да кажам",
+      "title": "U2 го објавија епскиот нов сингл „The Greatest Show On Earth“ и ги открија првите датуми од светската турнеја во 2027 година | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/4718e2d766/klasicnata-muzika-ne-e-nesto-na-koe-ne-smeeme-ni-da-mrdame-ni-da-diseme-rece-simon-trpceski-pred-koncertite-vo-skopje.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/10/simon-trpcheski-.jpg",
-      "date": "Fri, 16 Oct 2026 12:38:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Трибина „ВИ или автентична филмска креација“ и мастерклас на Емин Алпер на Киненова: Никогаш не одам неподготвен на снимање | Независен",
-      "description": "",
-      "url": "https://time.mk/c/ff7c8dcde9/tribina-vi-ili-avtenticna-filmska-kreacija-i-masterklas-na-emin-alper-na-kinenova-nikogas-ne-odam-nepodgotven-na-snimanje.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/alper-masterklas-kinenova.jpg",
-      "date": "Fri, 16 Oct 2026 10:46:39 +0000"
+      "url": "https://time.mk/c/336c6dfeea/u2-go-objavija-epskiot-nov-singl-the-greatest-show-on-earth-i-gi-otkrija-prvite-datumi-od-svetskata-turneja-vo-2027-godina.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2026/09/u2-50-godini.png",
+      "date": "Fri, 16 Oct 2026 19:28:58 +0000"
     }
   ],
   "de": [
@@ -458,6 +458,15 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "The Adventure-Ready Samsung Galaxy Watch Is Over $175 Off Right Now",
+      "description": "The 2025 Galaxy Watch Ultra LTE model keeps dropping in price after being succeeded by the second generation.",
+      "url": "https://lifehacker.com/tech/samsung-galaxy-watch-ultra-sale-october-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01JMMKAXWR7K76QZ9XRTZCEG0H/hero-image.png",
+      "date": "Fri, 16 Oct 2026 19:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "Whatever Happened to Daylight Saving Time Going Away?",
       "description": "Congress voted to abolish the time change, so why are we still doing it?",
       "url": "https://lifehacker.com/what-happened-to-ending-daylight-saving-time?utm_medium=RSS",
@@ -628,15 +637,6 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "The Best OLED TV for Most People Is $400 Off Right Now",
-      "description": "The 65-inch Samsung S90H Series TV is down to its lowest price ever.",
-      "url": "https://lifehacker.com/tech/samsung-s90h-oled-tv-sale-october-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M4XSXBHARYXTD4AR9R7KC435/hero-image.jpg",
-      "date": "Wed, 14 Oct 2026 18:30:00 +0000"
-    },
-    {
-      "category": "eng",
       "source": "PCWorld",
       "title": "Best laptops under $500: Affordable picks that will satisfy your needs",
       "description": "You don’t have to drop $1,000 to get a laptop that can handle everyday computing, you know. That said, spending $500 wisely matters here. At this price, some laptops make reasonable compromises while others cut way too many corners. For most folks, I’d recommend opting for a laptop with a 1080p display and at least 8GB of RAM (16GB is always better if you can swing it). While you shouldn’t expect premium features at this price point, there are plenty of laptops that offer excellent day-to-day pe",
@@ -693,9 +693,9 @@
       "category": "eng",
       "source": "PCWorld",
       "title": "Microsoft Surface Laptop Ultra review: A monster AI laptop with a monster price",
-      "description": "At a glance Expert's Rating Pros Excellent multicore, graphics performance Rock-solid construction Power-efficient Great display Cons Even the base model is extremely expensive Surprisingly average webcam Slow single-core performance may slow down UI Initial bugginess which went away Heavier than you’d expect Our Verdict Microsoft’s Surface Laptop Ultra is a new class of device, combining efficient productivity, powerful graphics, plus AI capabilities, all for a price that seems totally unrealis",
+      "description": "At a glance Expert's Rating Pros Excellent multicore, RTX Spark graphics performance Rock-solid construction Power-efficient Great display Cons Even the base model is extremely expensive Surprisingly average webcam Slow single-core performance may slow down UI Initial bugginess which went away Heavier than you’d expect Our Verdict Microsoft’s Surface Laptop Ultra is a new class of device, combining efficient productivity, powerful RTX Spark graphics, plus AI capabilities, all for a price that se",
       "url": "https://www.pcworld.com/article/3258665/microsoft-surface-laptop-ultra-review.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3258665-0-10110200-1792152058-Microsoft-Surface-Laptop-Ultra-primary-1.jpg?quality=50&strip=all",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3258665-0-34946400-1792175846-Microsoft-Surface-Laptop-Ultra-primary-1.jpg?quality=50&strip=all",
       "date": "Fri, 16 Oct 2026 12:00:00 +0000"
     },
     {
@@ -727,6 +727,15 @@
     }
   ],
   "starwars": [
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "Biddy Blas Actor Talks Bring ‘Star Wars: Galactic Racer’ Character To Life And Becoming An Internet Sensation",
+      "description": "Here’s a name for you, amateur — Richard Summers-Calvert. Write it down. Tattoo it on your arm, and one day your The post Biddy Blas Actor Talks Bring ‘Star Wars: Galactic Racer’ Character To Life And Becoming An Internet Sensation appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/10/biddy-blas-actor-talks-bring-star-wars-galactic-racer-character-to-life-and-becoming-an-internet-sensation.html",
+      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/10/biddy-blas.jpeg",
+      "date": "Fri, 16 Oct 2026 20:17:56 +0000"
+    },
     {
       "category": "starwars",
       "source": "Star Wars News Net",
@@ -798,15 +807,6 @@
       "url": "https://www.starwarsnewsnet.com/2026/10/star-wars-marvel-crossover-series-extended-to-six-issues-will-be-canon-to-the-marvel-comics-universe.html",
       "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/10/Screenshot-2026-10-10-202027-e1791681784487.png",
       "date": "Sun, 11 Oct 2026 01:29:47 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars News Net",
-      "title": "Savi’s Workshop Galaxy’s Edge Lightsabers Receive Upgrades Adding New Effects",
-      "description": "Bright Suns! Savi’s Workshop, the experience that allows visitors to Galaxy’s Edge at Disneyland and Walt Disney World to build The post Savi’s Workshop Galaxy’s Edge Lightsabers Receive Upgrades Adding New Effects appeared first on Star Wars News Net .",
-      "url": "https://www.starwarsnewsnet.com/2026/10/savis-workshop-galaxys-edge-lightsabers-receive-upgrades-adding-new-effects.html",
-      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/10/Savis-Workshop-1024x576.png",
-      "date": "Sat, 10 Oct 2026 20:34:28 +0000"
     },
     {
       "category": "starwars",
@@ -901,6 +901,15 @@
     {
       "category": "starwars",
       "source": "Jedi News",
+      "title": "Skywalking Through Neverland #579: Luke Skywalker – PARIAH! Classic Marvel Star Wars Comic #62",
+      "description": "Join Skywalking Through Neverland duo Sarah and Richard for their latest episode (#579) discussing all the latest Star Wars and Disney news. The post Skywalking Through Neverland #579: Luke Skywalker – PARIAH! Classic Marvel Star Wars Comic #62 appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/skywalking-through-neverland-579-luke-skywalker-pariah-classic-marvel-star-wars-comic-62/",
+      "image": "",
+      "date": "Fri, 16 Oct 2026 16:59:52 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
       "title": "Comic Review: Rogue One – Chirrut & Baze #1 (One-Shot)",
       "description": "We review Rogue One - Chirrut & Baze #1 (One-Shot) from Marvel Comics. The post Comic Review: Rogue One – Chirrut & Baze #1 (One-Shot) appeared first on Jedi News .",
       "url": "https://www.jedinews.com/literature/literature-reviews/articles/comic-review-rogue-one-chirrut-baze-1-one-shot/",
@@ -987,15 +996,6 @@
       "url": "https://www.jedinews.com/podcasts/articles/full-of-sith-episode-dclii-robert-charrette/",
       "image": "https://www.jedinews.com/wp-content/uploads/2018/04/full-of-sith-network-300x201.jpg",
       "date": "Thu, 15 Oct 2026 04:52:49 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Who Can Resist Grogu’s Adorable Face? | LEGO Star Wars: The Mandalorian | ‪Star Wars Kids‬",
-      "description": "When Mando returns to The Client with Grogu as promised, he finds himself unable to give the cute little guy up. The Mandalorian escapes with Grogu, beginning their new chapter adventuring around the galaxy together! Stream LEGO Star Wars: The Mandalorian on Disney+ now. The post Who Can Resist Grogu’s Adorable Face? | LEGO Star Wars: The Mandalorian | ‪Star Wars Kids‬ appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/who-can-resist-grogus-adorable-face-lego-star-wars-the-mandalorian-star-wars-kids/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/maxresdefault-26-300x169.jpg",
-      "date": "Wed, 14 Oct 2026 23:15:31 +0000"
     }
   ],
   "youtube": [
