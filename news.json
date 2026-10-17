@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T17:26:51.879991+00:00",
+  "updated": "2026-10-17T19:38:44.097181+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -94,11 +94,56 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Фото+видео) Хаос во Тирана: полицијата употреби гумени куршуми врз демонстрантите, уапсени над 1.000 лица | Макфакс",
+      "title": "Гумени куршуми, солзавец и водени топови: Ескалираа протестите во Тирана, повреден шефот на полицијата | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/aee1a0a4e4/foto-video-haos-vo-tirana-policijata-upotrebi-gumeni-kursumi-vrz-demonstrantite-uapseni-nad-1-000-lica.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/screenshot-2026-10-17-185731.webp",
-      "date": "Sat, 17 Oct 2026 17:04:58 +0000"
+      "url": "https://time.mk/c/30e8fccd6f/gumeni-kursumi-solzavec-i-vodeni-topovi-eskaliraa-protestite-vo-tirana-povreden-sefot-na-policijata.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/protesti-tirana-printskrin-okt-26-2.png",
+      "date": "Sat, 17 Oct 2026 19:26:53 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - Sport",
+      "title": "Спектаклот меѓу Бетис и Барселона заврши со убедлива победа на шампионот (Видео) | Спортманија",
+      "description": "",
+      "url": "https://time.mk/c/f3dc5780cf/spektaklot-megju-betis-i-barselona-zavrsi-so-ubedliva-pobeda-na-sampionot-video.html",
+      "image": "https://sportmanija.mk/wp-content/uploads/2026/10/barselona-betis-696x464.jpeg",
+      "date": "Sat, 17 Oct 2026 19:01:01 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - Sport",
+      "title": "Митев: Одиме во Виена со мирни глави, исто како да е реми | SportSport",
+      "description": "",
+      "url": "https://time.mk/c/98c5d2d01c/mitev-odime-vo-viena-so-mirni-glavi-isto-kako-da-e-remi.html",
+      "image": "https://sportsport.mk/wp-content/uploads/2026/10/Marko-Mitev-2-150x150.jpg",
+      "date": "Sat, 17 Oct 2026 19:08:57 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - Sport",
+      "title": "Шкендија Арачиново „удри“ и по првиот човек на ФФМ: Претседателот на Федерацијата нè чекаше на излезот за да се пресмета со нашата управа | Спортманија",
+      "description": "",
+      "url": "https://time.mk/c/1bb8605f6e/skendija-aracinovo-udri-i-po-prviot-covek-na-ffm-pretsedatelot-na-federacijata-ne-cekase-na-izlezot-za-da-se-presmeta-so-nasata-uprava.html",
+      "image": "https://sportmanija.mk/wp-content/uploads/2026/05/skendija-aracinovo-696x376.png",
+      "date": "Sat, 17 Oct 2026 17:46:39 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Маричиќ: Сè е подготвено за изборите во Брвеница, решен е проблемот со фингерпринт-апаратите | Рацин",
+      "description": "",
+      "url": "https://time.mk/c/36fa9d1ecf/maricik-se-e-podgotveno-za-izborite-vo-brvenica-resen-e-problemot-so-fingerprint-aparatite.html",
+      "image": "https://racin.mk/wp-content/uploads/2026/10/bojan-maricic-1-848x473.jpg?x66582",
+      "date": "Sat, 17 Oct 2026 17:28:57 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Во Брвеница гласаа 85 болни и немоќни лица | 360 степени",
+      "description": "",
+      "url": "https://time.mk/c/dee248f27b/vo-brvenica-glasaa-85-bolni-i-nemokni-lica.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2024/04/12178540.jpg",
+      "date": "Sat, 17 Oct 2026 18:42:36 +0000"
     },
     {
       "category": "mkd",
@@ -120,57 +165,12 @@
     },
     {
       "category": "mkd",
-      "source": "Time.mk - Sport",
-      "title": "Скандалозно ново соопштение на Шкендија Арачиново: „Непочитувана федерацијо, нема да наведнеме глава…“ | МакФудбал",
-      "description": "",
-      "url": "https://time.mk/c/2bef7491f6/skandalozno-novo-soopstenie-na-skendija-aracinovo-nepocituvana-federacijo-nema-da-navedneme-glava.html",
-      "image": "https://makfudbal.mk/wp-content/uploads/2026/10/skendija-aracinovo-naredeni-300x197.jpg",
-      "date": "Sat, 17 Oct 2026 17:22:40 +0000"
-    },
-    {
-      "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Во Брвеница гласале 85 од 88 болни и немоќни лица, како и седум од девет затвореници и притвореници, соопшти ДИК | Макфакс",
+      "title": "Романија загрижена поради нападите со дронови врз трговски бродови во Црното Море | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/0e7f1f2f81/vo-brvenica-glasale-85-od-88-bolni-i-nemokni-lica-kako-i-sedum-od-devet-zatvorenici-i-pritvorenici-soopsti-dik.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2017/09/381180-dik-kje-gi-razgleduva-podnesenite-listi-na-kandidati-za-pratenici-89527.jpg",
-      "date": "Sat, 17 Oct 2026 15:58:36 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Зошто Мицкоски не бара екстрадиција на Груевски како што бара враќање на Ива Михаилова, праша СДСМ | 360 степени",
-      "description": "",
-      "url": "https://time.mk/c/98316adf32/zosto-mickoski-ne-bara-ekstradicija-na-gruevski-kako-sto-bara-vrakanje-na-iva-mihailova-prasa-sdsm.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/10/Bogdanka-Kuzeska.jpeg",
-      "date": "Sat, 17 Oct 2026 10:29:05 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "„Луд е, а многу е моќен“: Зошто некои мислат дека Илон Маск е можеби најопасниот човек во светот? | Црнобело",
-      "description": "",
-      "url": "https://time.mk/c/cd12950c3f/lud-e-a-mnogu-e-moken-zosto-nekoi-mislat-deka-ilon-mask-e-mozebi-najopasniot-covek-vo-svetot.html",
-      "image": "",
-      "date": "Sat, 17 Oct 2026 06:48:57 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Треновски: Пензионерите трошат значителен дел од пензијата за лекови – повисоки примања не значат секогаш подобар живот | 4NEWS",
-      "description": "",
-      "url": "https://time.mk/c/242423acbf/trenovski-penzionerite-trosat-znacitelen-del-od-penzijata-za-lekovi-povisoki-primanja-ne-znacat-sekogas-podobar-zivot.html",
-      "image": "https://4news.mk/wp-content/uploads/2026/10/borce-trenoski-3--1024x678.avif",
-      "date": "Sat, 17 Oct 2026 10:02:36 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Младите и во Белгија излегоа на улица: Високото образование станува луксуз за студентите | Трн",
-      "description": "",
-      "url": "https://time.mk/c/8db464661c/mladite-i-vo-belgija-izlegoa-na-ulica-visokoto-obrazovanie-stanuva-luksuz-za-studentite.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/10/protest-brisel.jpg",
-      "date": "Sat, 17 Oct 2026 15:52:58 +0000"
+      "url": "https://time.mk/c/681f37c4a2/romanija-zagrizena-poradi-napadite-so-dronovi-vrz-trgovski-brodovi-vo-crnoto-more.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2023/07/73b7455a-93aa-4493-9d8e-003180e0d756.jpg",
+      "date": "Sat, 17 Oct 2026 19:01:01 +0000"
     },
     {
       "category": "mkd",
@@ -184,20 +184,29 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Видео) Марсеј во пламен и судири: Демонстранти упаднаа во градското собрание, ограбени продавници и нападната полицијата | Скопје1",
+      "title": "Нереди во Франција: Судири со полицијата, над 160 уапсени – демонстрантите запалија зграда и упаднаа во градското собрание/ВИДЕО | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/da45ac4867/video-marsej-vo-plamen-i-sudiri-demonstranti-upadnaa-vo-gradskoto-sobranie-ograbeni-prodavnici-i-napadnata-policijata.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/86430/conversions/text-max.jpg",
-      "date": "Sat, 17 Oct 2026 17:22:40 +0000"
+      "url": "https://time.mk/c/c7c85c6066/neredi-vo-francija-sudiri-so-policijata-nad-160-uapseni-demonstrantite-zapalija-zgrada-i-upadnaa-vo-gradskoto-sobranie-video.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/neredi-u-francuskoj-sukobi-s-policijom-u-lyonu-gori-zgrada-france_6ad37c52e5e12.jpg",
+      "date": "Sat, 17 Oct 2026 18:54:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Зеленски ја осуди одлуката на Трамп за пауза на санкциите против Русија | Скопје1",
+      "title": "Нетрпеливоста се прелева на улиците и плоштадите: Младите во Европа го менуваат системот | Трн",
       "description": "",
-      "url": "https://time.mk/c/a0b085311b/zelenski-ja-osudi-odlukata-na-tramp-za-pauza-na-sankciite-protiv-rusija.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/75912/conversions/text-max.jpg",
-      "date": "Sat, 17 Oct 2026 16:27:01 +0000"
+      "url": "https://time.mk/c/408a537dc4/netrpelivosta-se-preleva-na-ulicite-i-plostadite-mladite-vo-evropa-go-menuvaat-sistemot.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/10/14371196.jpg",
+      "date": "Sat, 17 Oct 2026 19:32:55 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Во понеделник без струја делови од две скопски општини | Скопје инфо",
+      "description": "",
+      "url": "https://time.mk/c/f7b287d361/vo-ponedelnik-bez-struja-delovi-od-dve-skopski-opstini.html",
+      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/oktomvri/image-262603.jpg?itok=T01kqKMc",
+      "date": "Sat, 17 Oct 2026 18:42:36 +0000"
     },
     {
       "category": "mkd",
@@ -207,15 +216,6 @@
       "url": "https://time.mk/c/4538551c3e/starite-rekviziti-za-noviot-luna-park-so-godini-zaglavija-vo-magacin-no-i-vo-sudski-lavirint-koj-go-dobil-sporot.html",
       "image": "https://fokus.mk/wp-content/uploads/2026/10/luna-park-8-1170x658.jpg",
       "date": "Sat, 17 Oct 2026 15:42:37 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Ѓорѓиевски: За моите сограѓани секогаш има време – и оваа сабота со отворени врати и искрен разговор | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/b06e6559b6/gjorgjievski-za-moite-sogragjani-sekogas-ima-vreme-i-ovaa-sabota-so-otvoreni-vrati-i-iskren-razgovor.html",
-      "image": "",
-      "date": "Sat, 17 Oct 2026 15:10:39 +0000"
     },
     {
       "category": "mkd",
@@ -238,20 +238,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
+      "title": "(ВИДЕО) Проданоски: Се рехабилитира патот низ Мажучиште што ги поврзува Прилеп и Долнени | Репортер",
+      "description": "",
+      "url": "https://time.mk/c/3e48b0f0bd/video-prodanoski-se-rehabilitira-patot-niz-mazuciste-sto-gi-povrzuva-prilep-i-dolneni.html",
+      "image": "https://reporter.mk/wp-content/uploads/2026/10/final_100kb-300x159.jpeg",
+      "date": "Sat, 17 Oct 2026 18:18:37 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
       "title": "ГИ УЧЕВ СТУДЕНТИТЕ ДА СОЗДАВААТ, НЕ САМО ДА ПРЕСМЕТУВААТ, ВЕЛИ СОТИР ПАНОВСКИ, ПРВИОТ ПРОФЕСОР ВРАБОТЕН НА ТЕХНИЧКИОТ ФАКУЛТЕТ ВО БИТОЛА | Сакам да кажам",
       "description": "",
       "url": "https://time.mk/c/1677710d12/gi-ucev-studentite-da-sozdavaat-ne-samo-da-presmetuvaat-veli-sotir-panovski-prviot-profesor-vraboten-na-tehnickiot-fakultet-vo-bitola.html",
       "image": "https://sdk.mk/wp-content/uploads/2026/10/prof.d-r-Sotir-Panovski.jpg",
       "date": "Sat, 17 Oct 2026 09:46:37 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Тоневски: Се реконструира дел од улицата „Никола Карев“ во Пробиштип, следната недела се очекува асфалтирање | Булевар",
-      "description": "",
-      "url": "https://time.mk/c/1f4e23c707/tonevski-se-rekonstruira-del-od-ulicata-nikola-karev-vo-probistip-slednata-nedela-se-ocekuva-asfaltiranje.html",
-      "image": "https://bulevar.mk/wp-content/uploads/2026/10/img_1257-1024x651.jpeg",
-      "date": "Sat, 17 Oct 2026 11:24:56 +0000"
     },
     {
       "category": "mkd",
@@ -265,11 +265,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Ана Пејчинова ја доби наградата „Драги“ за најдобар книжевен превод на македонски јазик | Радио МОФ",
+      "title": "„Копачка“ – македонското оро под заштита на УНЕСКО, младите во Делчево повикани да ја продолжат традицијата | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/186739033d/ana-pejcinova-ja-dobi-nagradata-dragi-za-najdobar-knizeven-prevod-na-makedonski-jazik.html",
-      "image": "https://www.radiomof.mk/wp-content/uploads/2026/10/att.hVfzFDWBGzJW6QLcroFCYno7LPwzg2dpPeV00rlJnuE-702x336.webp",
-      "date": "Sat, 17 Oct 2026 16:40:58 +0000"
+      "url": "https://time.mk/c/0374509011/kopacka-makedonskoto-oro-pod-zastita-na-unesko-mladite-vo-delcevo-povikani-da-ja-prodolzat-tradicijata.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2026/10/Screenshot_8-5-1024x716.jpg",
+      "date": "Sat, 17 Oct 2026 15:18:37 +0000"
     }
   ],
   "de": [
@@ -901,6 +901,42 @@
     {
       "category": "starwars",
       "source": "Jedi News",
+      "title": "Rebel Force Radio: Star Wars: Starfighter at NYCC | Scrib Doon!",
+      "description": "Join Jimmy and Jason on Rebel Force Radio as they discuss the latest Star Wars news. The post Rebel Force Radio: Star Wars: Starfighter at NYCC | Scrib Doon! appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/rebel-force-radio-star-wars-starfighter-at-nycc-scrib-doon/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2018/04/rebel-force-radio-300x201.jpg",
+      "date": "Sat, 17 Oct 2026 14:25:19 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Star Wars Comic Previews: October 21, 2026",
+      "description": "An early look inside the pages of the Marvel Comics and Dark Horse Comics Star Wars titles for release on October 21, 2026. The post Star Wars Comic Previews: October 21, 2026 appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/literature/articles/star-wars-comic-previews-october-21-2026/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/THRAP6-FI-300x201.jpg",
+      "date": "Sat, 17 Oct 2026 09:01:55 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Planet Leia Episode 30: I did miss you",
+      "description": "Get to know the Fantha Trackers from Planet Leia, here's episode 30 of their podcast. The post Planet Leia Episode 30: I did miss you appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/planet-leia-episode-30-i-did-miss-you/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2019/07/Planet-Leia-FT-300x201.jpg",
+      "date": "Sat, 17 Oct 2026 08:30:02 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Obi-Wan & Anakin vs. Grievous & Ventress | Lightsaber Legends Ep. 8 | Star Wars Kids",
+      "description": "Four warriors. Two battles. And one mission to take control of The Clone Wars! Watch this intense battle unfold as Obi-Wan Kenobi and Anakin Skywalker aim to stop Asajj Ventress and General Grievous from stealing valuable information from the Republic. The post Obi-Wan & Anakin vs. Grievous & Ventress | Lightsaber Legends Ep. 8 | Star Wars Kids appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/obi-wan-anakin-vs-grievous-ventress-lightsaber-legends-ep-8-star-wars-kids/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/maxresdefault-28-300x169.jpg",
+      "date": "Fri, 16 Oct 2026 23:17:42 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
       "title": "Skywalking Through Neverland #579: Luke Skywalker – PARIAH! Classic Marvel Star Wars Comic #62",
       "description": "Join Skywalking Through Neverland duo Sarah and Richard for their latest episode (#579) discussing all the latest Star Wars and Disney news. The post Skywalking Through Neverland #579: Luke Skywalker – PARIAH! Classic Marvel Star Wars Comic #62 appeared first on Jedi News .",
       "url": "https://www.jedinews.com/podcasts/articles/skywalking-through-neverland-579-luke-skywalker-pariah-classic-marvel-star-wars-comic-62/",
@@ -960,42 +996,6 @@
       "url": "https://www.jedinews.com/film-music-tv/articles/jake-lloyd-and-daniel-logan-take-to-instagram-to-thank-star-wars-fans-for-support/",
       "image": "https://www.jedinews.com/wp-content/uploads/2026/10/Daniel-Logan-and-Jake-Lloyd-Oct26-300x201.jpg",
       "date": "Thu, 15 Oct 2026 19:20:44 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Echo Base Live – Look Sir, Droids! Raises £3605 for Cancer Research UK",
-      "description": "The team behind last weekend's Echo Base Live weekend has shared they raised £3,604.85 for Cancer Research UK. The post Echo Base Live – Look Sir, Droids! Raises £3605 for Cancer Research UK appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/events/articles/echo-base-live-look-sir-droids-raises-3605-for-cancer-research-uk/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/Echo-Base-Live-Total-Raised-Oct26-300x201.jpg",
-      "date": "Thu, 15 Oct 2026 18:48:39 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Skytalkers: The Clone Wars Rewatch: “Massacre” and “Bounty” (Ventress Arc)",
-      "description": "Skytalkers - join Charlotte Errity and Caitlin Plesher as they talk about pressing and existing topics in the Star Wars universe. The post Skytalkers: The Clone Wars Rewatch: “Massacre” and “Bounty” (Ventress Arc) appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/skytalkers-the-clone-wars-rewatch-massacre-and-bounty-ventress-arc/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2018/06/Skytalkers-300x201.jpg",
-      "date": "Thu, 15 Oct 2026 14:15:14 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "LEGO Icons Venetian Neighbourhood and Venetian Water Taxi GWP Revealed, Available November 1st",
-      "description": "Celebrate Italy’s rich cultural and architectural heritage with the 5,682-piece LEGO Icons Venetian Neighbourhood (11388) available from November 1st, with a 322-piece LEGO Icons Venetian Water Taxi (40898) Gift with Purchase available whilst stocks last. The post LEGO Icons Venetian Neighbourhood and Venetian Water Taxi GWP Revealed, Available November 1st appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/lego/articles/lego-icons-venetian-neighbourhood-and-venetian-water-taxi-gwp-revealed-available-november-1st/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/11388_01_PRI_ZKxU5XsfSeMZ-300x201.jpg",
-      "date": "Thu, 15 Oct 2026 13:00:44 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Full Of Sith Episode DCLII: Robert Charrette",
-      "description": "It's time to join the team for episode DCLII of Full of Sith. The post Full Of Sith Episode DCLII: Robert Charrette appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/full-of-sith-episode-dclii-robert-charrette/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2018/04/full-of-sith-network-300x201.jpg",
-      "date": "Thu, 15 Oct 2026 04:52:49 +0000"
     }
   ],
   "youtube": [
