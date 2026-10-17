@@ -1,68 +1,149 @@
 {
-  "updated": "2026-10-17T14:05:58.230015+00:00",
+  "updated": "2026-10-17T17:26:51.879991+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Publicis Groupе на конференцијата „Бизнис Лидер“ избрана за најдобра маркетинг агенција во Македонија",
+      "description": "На церемонијата на доделување на наградите „Бизнис Лидер“, Publicis Groupe Македонија е прогласена за најдобра маркетинг агенција во Македонија, признание што ја истакнува континуираната посветеност на агенцијата, силата и експертизата на нејзиниот тим и креативниот пристап во создавањето ефективни комуникациски решенија. Признанието доаѓа во година кога агенцијата слави 30 годишен јубилеј, период во кој оствари […]",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/publicis-group%d0%b5-biznis-lider-najdobra-marketing-agencija/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/slika-biznis-lider-150x150.webp",
+      "date": "Fri, 16 Oct 2026 20:37:18 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Anker најави паметен полнач за лаптоп со екран, кој треба да ја штити батеријата",
+      "description": "Anker најави нов полнач за лаптоп со вграден екран, кој во објавата на X го нарекува Anker Laptop Smart Display Charger, а на својата страница Anker Laptop Charger Pro. Компанијата тврди дека ова е „првиот паметен полнач за лаптоп направен да ја заштити батеријата“, а официјалното лансирање е закажано за 22 октомври. Полначот нуди два режими […]",
+      "url": "https://smartportal.mk/novosti/uredi/anker-pameten-polnac-za-laptop/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Frame_2147239236_9_3840x-150x150.png",
+      "date": "Fri, 16 Oct 2026 10:42:08 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Amazon ги претстави Bee Frontier и Bee Eclipse, лични ВИ уреди што ги слушаат и сумираат разговорите",
+      "description": "Amazon ги претстави Bee Frontier и Bee Eclipse, два нови уреди за „лична вештачка интелигенција“. Тие ги слушаат разговорите на корисникот и од нив прават кратки резимеа, сознанија и предлози за обврски. Bee е стартап од Сан Франциско што Amazon го купи во јули 2025 година. Нивниот прв уред, нараквицата Bee Pioneer, чинеше 49,99 долари и го слушаше сето […]",
+      "url": "https://smartportal.mk/novosti/uredi/amazon-gi-pretstavi-bee-frontier-i-bee-eclipse/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/bee-frontier-eclipse-hero-amazonnews-ck101426-150x150.webp",
+      "date": "Fri, 16 Oct 2026 09:46:22 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Microsoft ги собра подобрувањата на Windows 11 во објава што повикува на купување нов компјутер",
+      "description": "Microsoft вчера објави преглед на новостите во Windows 11, насловен како „секојдневни искуства, повторно замислени“. Објавата завршува со повик за нов компјутер, бидејќи причината за надградба „не е само една функција“ и упатува на празничниот блог со понудата на уреди. Голем дел од наведеното веќе го знаеме. Поместувањето на долната лента, помалку прекини од Windows Update […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/microsoft-gi-sobra-podobruvanjata-na-windows-11/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/daniel-romero-MBm5AtVdiVY-unsplash-f-150x150.webp",
+      "date": "Fri, 16 Oct 2026 09:19:53 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Microsoft го освежи изгледот на VS Code и по забелешките од корисниците додаде покомпактен распоред",
+      "description": "Тимот на Microsoft што го развива Visual Studio Code го претстави модернизираниот изглед на уредувачот на код, кој засега е во пробна верзија („preview“). Според нив, по повеќе од една деценија додавање функции, интерфејсот станал визуелно сложен и неусогласен, па целта не е да го измислат одново, туку да ја направат хиерархијата појасна и да ги намалат […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/microsoft-go-osvezi-izgledot-na-vs-code/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/classic-to-modern-150x150.webp",
+      "date": "Fri, 16 Oct 2026 08:51:35 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Tesla го претстави новиот Roadster со потисници од SpaceX, а производството е најавено за 2028",
+      "description": "Tesla конечно го претстави новиот Roadster, речиси девет години откако го прикажа на крајот од настанот за Tesla Semi во 2017 година. Презентацијата се одржа во четвртокот вечерта по американско време на полигонот на SpaceX во Мекгрегор, Тексас. Тоа беше две недели подоцна од планираното, откако Tesla го одложи настанот поради лошото време. Како што беше најавувано во август, главна атракција […]",
+      "url": "https://smartportal.mk/novosti/avtomobili/tesla-go-pretstavi-noviot-roadster/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Roadster-08-End-Desktop-150x150.webp",
+      "date": "Fri, 16 Oct 2026 08:04:56 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Ubuntu 26.10 стигнува со рана верзија на локално диктирање и подобрена заштита на системот",
+      "description": "Canonical денес ја објави Ubuntu 26.10 верзијата, кодно именувана „Stonking Stingray“. Станува збор за таканаречена „меѓуверзија“ која, според белешките за истата, ќе добива поддршка девет месеци, до јули 2027 година, за разлика од Ubuntu 26.04 LTS која излезе во април со пет години поддршка. Најинтересната новост е Myna, алатка за претворање на говор во текст што работи со локални јазични модели. […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/ubuntu-26-10-stonking-stingray/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Screenshot-from-2026-10-14-17-35-16-150x150.webp",
+      "date": "Thu, 15 Oct 2026 17:04:31 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Microsoft го донесе Defender на Linux десктоп компјутерите, засега во пробна верзија и само за компании",
+      "description": "Microsoft ја објави поддршката за Linux десктоп и лаптоп компјутерите во Microsoft Defender for Endpoint, нивната безбедносна платформа за компании. Станува збор за јавна пробна верзија („public preview“), која според листата на новитети е додадена во септември. Компанијата објаснува дека сè повеќе програмери користат Linux на своите компјутери, а тие станале примамлива цел за напаѓачите. Според Microsoft, ваквите машини […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/microsoft-go-donese-defender-na-linux-desktop-kompjuterite/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/clipboard_image-1-1791909279385-150x150.webp",
+      "date": "Thu, 15 Oct 2026 12:48:18 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Колку го користиме потенцијалот на е-трговијата и вештачката интелигенција ?",
+      "description": "И покрај напредокот во дигиталната поврзаност, Западен Балкан сè уште заостанува во искористувањето на можностите на е-трговијата. Дигиталните вештини, навиките за плаќање и подготвеноста на компаниите за дигитална трансформација се меѓу клучните предизвици што ќе бидат во фокусот на деветтата Регионална конференција за е-трговија, на 3 ноември во Скопје. Земјите од Западен Балкан бележат значителен […]",
+      "url": "https://smartportal.mk/novosti/nastani/kolku-go-koristime-potencijalot-na-e-trgovijata-i-vi/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/reg-konf-e-trgovija-2025-1-150x150.webp",
+      "date": "Thu, 15 Oct 2026 12:26:15 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Startup Weekend Skopje се враќа по 14-ти пат: 54 часа за создавање на следната голема стартап идеја",
+      "description": "Од 6 до 8 ноември 2026 година, Скопје повторно ќе биде центар на иновациите, претприемништвото и новите технологии. По 14-ти пат, Techstars Startup Weekend Skopje ќе ги обедини идните претприемачи, креативци, програмери, дизајнери и сите оние кои сакаат својата идеја да ја претворат во реален бизнис. Овогодинешното издание ќе биде посветено на Artificial Intelligence (AI), […]",
+      "url": "https://smartportal.mk/novosti/nastani/startup-weekend-skopje-se-vrakja-po-14ti-pat/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/IMG_2670-150x150.webp",
+      "date": "Thu, 15 Oct 2026 12:11:52 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "(Фото+видео) Хаос во Тирана: полицијата употреби гумени куршуми врз демонстрантите, уапсени над 1.000 лица | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/aee1a0a4e4/foto-video-haos-vo-tirana-policijata-upotrebi-gumeni-kursumi-vrz-demonstrantite-uapseni-nad-1-000-lica.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/screenshot-2026-10-17-185731.webp",
+      "date": "Sat, 17 Oct 2026 17:04:58 +0000"
+    },
     {
       "category": "mkd",
       "source": "Time.mk - All",
       "title": "Меѓународен ден за искоренување на сиромаштијата: Светот бара достоинствен живот за сите | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/58743b7dce/megjunaroden-den-za-iskorenuvanje-na-siromastijata-svetot-bara-dostoinstven-zivot-za-site.html",
+      "url": "https://time.mk/c/930a374e6a/megjunaroden-den-za-iskorenuvanje-na-siromastijata-svetot-bara-dostoinstven-zivot-za-site.html",
       "image": "https://mk.tv21.tv/wp-content/uploads/2026/10/svetski-den-siromashtija-1024x662.png",
       "date": "Sat, 17 Oct 2026 10:09:04 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Зошто Мицкоски не бара екстрадиција на Груевски како што бара враќање на Ива Михаилова, праша СДСМ | 360 степени",
+      "title": "Кој го освои туристичкото лето на Балканот? | Економија и Бизнис",
       "description": "",
-      "url": "https://time.mk/c/ba3192580b/zosto-mickoski-ne-bara-ekstradicija-na-gruevski-kako-sto-bara-vrakanje-na-iva-mihailova-prasa-sdsm.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/10/Bogdanka-Kuzeska.jpeg",
-      "date": "Sat, 17 Oct 2026 10:29:05 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Народен правобранител: За време на одржувањето на предвремените избори за градоначалник на Брвеница отворена подрачната канцеларија во Тетово | 24 Вести",
-      "description": "",
-      "url": "https://time.mk/c/3fc110dbdf/naroden-pravobranitel-za-vreme-na-odrzuvanjeto-na-predvremenite-izbori-za-gradonacalnik-na-brvenica-otvorena-podracnata-kancelarija-vo-tetovo.html",
-      "image": "",
-      "date": "Sat, 17 Oct 2026 14:04:58 +0000"
+      "url": "https://time.mk/c/291289b575/koj-go-osvoi-turistickoto-leto-na-balkanot.html",
+      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/10/dejan_azeski_15septemvri2026-1024x592.jpg",
+      "date": "Sat, 17 Oct 2026 15:56:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - Sport",
-      "title": "Вардар со 1:0 ја победи Брегалница, стрелецот на голот не се радуваше | Спортманија",
+      "title": "Скандалозно ново соопштение на Шкендија Арачиново: „Непочитувана федерацијо, нема да наведнеме глава…“ | МакФудбал",
       "description": "",
-      "url": "https://time.mk/c/b58c3c1128/vardar-so-1-0-ja-pobedi-bregalnica-strelecot-na-golot-ne-se-raduvase.html",
-      "image": "https://sportmanija.mk/wp-content/uploads/2026/10/vardar-bregalnica-696x376.jpeg",
-      "date": "Sat, 17 Oct 2026 14:00:59 +0000"
+      "url": "https://time.mk/c/2bef7491f6/skandalozno-novo-soopstenie-na-skendija-aracinovo-nepocituvana-federacijo-nema-da-navedneme-glava.html",
+      "image": "https://makfudbal.mk/wp-content/uploads/2026/10/skendija-aracinovo-naredeni-300x197.jpg",
+      "date": "Sat, 17 Oct 2026 17:22:40 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Семејното насилство остава сè поголем белег: За само седум месеци 101 лице побарало психијатриска помош | Скопје1",
+      "title": "Во Брвеница гласале 85 од 88 болни и немоќни лица, како и седум од девет затвореници и притвореници, соопшти ДИК | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/65bf7a4ca1/semejnoto-nasilstvo-ostava-se-pogolem-beleg-za-samo-sedum-meseci-101-lice-pobaralo-psihijatriska-pomos.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/79427/conversions/text-max.jpg",
-      "date": "Sat, 17 Oct 2026 12:18:34 +0000"
+      "url": "https://time.mk/c/0e7f1f2f81/vo-brvenica-glasale-85-od-88-bolni-i-nemokni-lica-kako-i-sedum-od-devet-zatvorenici-i-pritvorenici-soopsti-dik.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2017/09/381180-dik-kje-gi-razgleduva-podnesenite-listi-na-kandidati-za-pratenici-89527.jpg",
+      "date": "Sat, 17 Oct 2026 15:58:36 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Видео) Земам 90.000 денари плата, но сметам дека е мала, вели обвинителката Раичевиќ која сака да биде шефица | Скопје1",
+      "title": "Зошто Мицкоски не бара екстрадиција на Груевски како што бара враќање на Ива Михаилова, праша СДСМ | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/21f87038ca/video-zemam-90-000-denari-plata-no-smetam-deka-e-mala-veli-obvinitelkata-raicevik-koja-saka-da-bide-sefica.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/86398/conversions/text-max.jpg",
-      "date": "Sat, 17 Oct 2026 13:47:12 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Над 244.000 туристи во август: Туризмот продолжува да ја поддржува домашната економија | Банкарство.мк",
-      "description": "",
-      "url": "https://time.mk/c/0a5f3ebdb9/nad-244-000-turisti-vo-avgust-turizmot-prodolzuva-da-ja-poddrzuva-domasnata-ekonomija.html",
-      "image": "https://bankarstvo.mk/wp-content/uploads/2026/10/Ohrid-Tourism-Surges-in-August-300x169.png",
-      "date": "Sat, 17 Oct 2026 13:26:37 +0000"
+      "url": "https://time.mk/c/98316adf32/zosto-mickoski-ne-bara-ekstradicija-na-gruevski-kako-sto-bara-vrakanje-na-iva-mihailova-prasa-sdsm.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/10/Bogdanka-Kuzeska.jpeg",
+      "date": "Sat, 17 Oct 2026 10:29:05 +0000"
     },
     {
       "category": "mkd",
@@ -76,6 +157,24 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
+      "title": "Треновски: Пензионерите трошат значителен дел од пензијата за лекови – повисоки примања не значат секогаш подобар живот | 4NEWS",
+      "description": "",
+      "url": "https://time.mk/c/242423acbf/trenovski-penzionerite-trosat-znacitelen-del-od-penzijata-za-lekovi-povisoki-primanja-ne-znacat-sekogas-podobar-zivot.html",
+      "image": "https://4news.mk/wp-content/uploads/2026/10/borce-trenoski-3--1024x678.avif",
+      "date": "Sat, 17 Oct 2026 10:02:36 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Младите и во Белгија излегоа на улица: Високото образование станува луксуз за студентите | Трн",
+      "description": "",
+      "url": "https://time.mk/c/8db464661c/mladite-i-vo-belgija-izlegoa-na-ulica-visokoto-obrazovanie-stanuva-luksuz-za-studentite.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/10/protest-brisel.jpg",
+      "date": "Sat, 17 Oct 2026 15:52:58 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
       "title": "Избори во Србија: Највалканата кампања во историјата | Deutsche Welle",
       "description": "",
       "url": "https://time.mk/c/2c6b4a60f2/izbori-vo-srbija-najvalkanata-kampanja-vo-istorijata.html",
@@ -85,65 +184,56 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Илјадници млади на улиците во Италија и Албанија: Солзавец, запалени контејнери и жестоки судири со полицијата | Слободен Печат",
+      "title": "(Видео) Марсеј во пламен и судири: Демонстранти упаднаа во градското собрание, ограбени продавници и нападната полицијата | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/c350133af0/iljadnici-mladi-na-ulicite-vo-italija-i-albanija-solzavec-zapaleni-kontejneri-i-zestoki-sudiri-so-policijata.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/sgergergegerg-300x163.jpg",
-      "date": "Sat, 17 Oct 2026 06:46:38 +0000"
+      "url": "https://time.mk/c/da45ac4867/video-marsej-vo-plamen-i-sudiri-demonstranti-upadnaa-vo-gradskoto-sobranie-ograbeni-prodavnici-i-napadnata-policijata.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/86430/conversions/text-max.jpg",
+      "date": "Sat, 17 Oct 2026 17:22:40 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Протестите во Париз, Лион и Стразбур ескалираа во судири со полицијата, уапсени 166 лица | Независен",
+      "title": "Зеленски ја осуди одлуката на Трамп за пауза на санкциите против Русија | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/f5fff8cb53/protestite-vo-pariz-lion-i-strazbur-eskaliraa-vo-sudiri-so-policijata-uapseni-166-lica.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/pariz-protesti.jpg",
-      "date": "Sat, 17 Oct 2026 13:44:44 +0000"
+      "url": "https://time.mk/c/a0b085311b/zelenski-ja-osudi-odlukata-na-tramp-za-pauza-na-sankciite-protiv-rusija.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/75912/conversions/text-max.jpg",
+      "date": "Sat, 17 Oct 2026 16:27:01 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Ормускиот Теснец е затворен, вели Иранската Револуционерна гарда | Макфакс",
+      "title": "Старите реквизити за новиот луна-парк со години „заглавија“ во магацин, но и во судски лавиринт: Кој го добил спорот? | Фокус",
       "description": "",
-      "url": "https://time.mk/c/6edeea8fdd/ormuskiot-tesnec-e-zatvoren-veli-iranskata-revolucionerna-garda.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/04/depositphotos_820297174_s.webp",
-      "date": "Sat, 17 Oct 2026 13:36:59 +0000"
+      "url": "https://time.mk/c/4538551c3e/starite-rekviziti-za-noviot-luna-park-so-godini-zaglavija-vo-magacin-no-i-vo-sudski-lavirint-koj-go-dobil-sporot.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/10/luna-park-8-1170x658.jpg",
+      "date": "Sat, 17 Oct 2026 15:42:37 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Поделени над 400 оброци на скопјани на кои им е потреба помош - Ѓорѓиевски: Никој не смее да биде сам кога му е најтешко! | Скопје инфо",
+      "title": "Ѓорѓиевски: За моите сограѓани секогаш има време – и оваа сабота со отворени врати и искрен разговор | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/a2c07c846c/podeleni-nad-400-obroci-na-skopjani-na-koi-im-e-potreba-pomos-gjorgjievski-nikoj-ne-smee-da-bide-sam-koga-mu-e-najtesko.html",
-      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/oktomvri/image-262587.jpg?itok=EgDmZ1y4",
-      "date": "Sat, 17 Oct 2026 12:38:36 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Меџити: Мастер-планот за Чаир се реализира – увид во улиците и проширувањето на „Цветан Димов“ | Репортер",
-      "description": "",
-      "url": "https://time.mk/c/5c52f61e6c/medziti-master-planot-za-cair-se-realizira-uvid-vo-ulicite-i-prosiruvanjeto-na-cvetan-dimov.html",
-      "image": "https://reporter.mk/wp-content/uploads/2026/10/mexhiti-bajramin-300x200.jpg",
-      "date": "Sat, 17 Oct 2026 13:26:37 +0000"
+      "url": "https://time.mk/c/b06e6559b6/gjorgjievski-za-moite-sogragjani-sekogas-ima-vreme-i-ovaa-sabota-so-otvoreni-vrati-i-iskren-razgovor.html",
+      "image": "",
+      "date": "Sat, 17 Oct 2026 15:10:39 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
       "title": "Серија апсења низ Македонија | Press24",
       "description": "",
-      "url": "https://time.mk/c/b0aa209b3e/serija-apsenja-niz-makedonija.html",
+      "url": "https://time.mk/c/586369197a/serija-apsenja-niz-makedonija.html",
       "image": "http://press24.mk/wp-content/uploads/ndb-featured/77803.jpg",
       "date": "Sat, 17 Oct 2026 11:56:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "СОПРУГАТА ГО ПРИЈАВИЛА ЗА НАСИЛСТВО, МУ НАШЛЕ МУНИЦИЈА Во Групчин приведен 45-годишник | +инфо",
+      "title": "Телма сторија: Сведочење на жената која на правдина беше уапсена како убиец на докторот Ацо Трповски | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/e04ec79da3/soprugata-go-prijavila-za-nasilstvo-mu-nasle-municija-vo-grupcin-priveden-45-godisnik.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2026/05/nasilstvo.jpg",
-      "date": "Sat, 17 Oct 2026 11:44:34 +0000"
+      "url": "https://time.mk/c/ccfd6b9d05/telma-storija-svedocenje-na-zenata-koja-na-pravdina-bese-uapsena-kako-ubiec-na-doktorot-aco-trpovski.html",
+      "image": "",
+      "date": "Sat, 17 Oct 2026 16:48:54 +0000"
     },
     {
       "category": "mkd",
@@ -166,113 +256,32 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(ВИДЕО) „Animals“ на Нетфликс – На интернет се исмева сцената од новиот трилер на Афлек: „Изгледа како преценет филм од 90-тите“ | Екран",
+      "title": "„Матица македонска“ го објави бестселерот „Маски на стравот“ | Радио МОФ",
       "description": "",
-      "url": "https://time.mk/c/0e5b7c8081/video-animals-na-netfliks-na-internet-se-ismeva-scenata-od-noviot-triler-na-aflek-izgleda-kako-precenet-film-od-90-tite.html",
+      "url": "https://time.mk/c/901c3a3493/matica-makedonska-go-objavi-bestselerot-maski-na-stravot.html",
       "image": "",
-      "date": "Sat, 17 Oct 2026 14:03:07 +0000"
+      "date": "Sat, 17 Oct 2026 16:40:58 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Од македонската авангарда до африканската духовност: Три музички светови на третата вечер на Скопскиот џез-фестивал | Frontline",
+      "title": "Ана Пејчинова ја доби наградата „Драги“ за најдобар книжевен превод на македонски јазик | Радио МОФ",
       "description": "",
-      "url": "https://time.mk/c/3562824adb/od-makedonskata-avangarda-do-afrikanskata-duhovnost-tri-muzicki-svetovi-na-tretata-vecer-na-skopskiot-dzez-festival.html",
-      "image": "https://frontlinemk.b-cdn.net/wp-content/uploads/2026/10/skopje-jazz-festival-2026-poster-750x375.png",
-      "date": "Sat, 17 Oct 2026 12:30:41 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Кога Билјана пронашла претепан старец на улица, не можела само да помине покрај него: Во болницата открила кому му го спасила животот и тајна стара 25 години",
-      "description": "Дождливата октомвриска вечер во Белград за младата медицинска сестра Билјана требаше да биде само уште еден обичен крај на напорната смена. Брзајќи кон дома, во темниот премин зад зградите забележа силуета на човек кој неподвижно лежеше на влажниот асфалт. Повеќето минувачи само свртуваа глава, претпоставувајќи дека станува збор за бездомник или пијаница. Но нејзиниот професионален ...",
-      "url": "https://motika.mk/koga-biljana-pronasla-pretepan-starec-na-ulica-ne-mozela-samo-da-pomine-pokraj-nego-vo-bolnicata-otkrila-komu-mu-go-spasila-zivotot-i-tajna-stara-25-godini/",
-      "image": "https://motika.io/media/2026/10/17/img-0f42a840-ba9f-4b70-9238-e6aba360ac31-1.jpg",
-      "date": "Sat, 17 Oct 2026 10:21:55 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Го има секое домаќинство, а не сите знаат дека оцетот има 7 неочекувани примени во домот",
-      "description": "Овој пристапен и евтин производ се наоѓа во речиси секој дом, но повеќето луѓе го користат само за маринади и преливи за салата. Употребата на оцетот е далеку поширока: може да реши секојдневни проблеми и да ги извршува задачите речиси исто толку добро како специјализираните хемиски средства за домаќинството. Од сузбивање плевел во градината до ...",
-      "url": "https://motika.mk/go-ima-sekoe-domakinstvo-a-ne-site-znaat-deka-ocetot-ima-7-neocekuvani-primeni-vo-domot/",
-      "image": "https://motika.io/media/2026/10/17/img-a5d25a79-8686-471c-8ef3-6614dee36e7d-3.jpg",
-      "date": "Sat, 17 Oct 2026 10:19:18 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Зошто домаќинките ставаат грст ориз во машината за алишта? Трикот нема никаква врска со перењето алишта",
-      "description": "Машината за алишта со години работи во тишина, но кога од неа ќе почне да излегува мирис на влага, проблемот брзо се префрла на облеката. И по завршено перење, непријатната миризба може да остане на ткаенината, а омекнувачите и скапите средства најчесто само ја прикриваат, без да ја отстранат причината. Содржина: Обичен ориз од кујната ...",
-      "url": "https://motika.mk/zosto-domakinkite-stavaat-grst-oriz-vo-masinata-za-alista-trikot-nema-nikakva-vrska-so-pereneto-alista/",
-      "image": "https://motika.io/media/2026/10/17/img-346c4636-fbe0-4377-99cb-00bb7b2041ca-1.jpg",
-      "date": "Sat, 17 Oct 2026 10:13:02 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Мајка ми со тестамент ми го остави станот, а снаата Јелена збесна и ме тужеше: Она што ми го откри гатачката за брат ми ме остави без зборови",
-      "description": "Девет дена по смртта на мајка си, Милена седеше во инвалидска количка во станот во Земун, опкружена со луѓе кои дојдоа да ѝ оддадат последна почит на жената што ја чувала семејната тишина со години. Не насетуваше дека истиот ден жалоста ќе се претвори во борба за наследство. Нејзиниот роден брат Марко и снаата Јелена ...",
-      "url": "https://motika.mk/majka-mi-so-testament-mi-go-ostavi-stanot-a-snaata-jelena-zbesna-i-me-tuzese-ona-sto-mi-go-otkri-gatackata-za-brat-mi-me-ostavi-bez-zborovi/",
-      "image": "https://motika.io/media/2026/10/17/img-543bf7d0-490b-4cca-94a9-548173276aef-1.jpg",
-      "date": "Sat, 17 Oct 2026 10:11:32 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Иранскиот „гостин“ на ТВ емисијата одлета во сред програма",
-      "description": "Необичен момент на иранската државна телевизија стана хит на социјалните мрежи, откако картонски портрет на Моџтаба Хамнеи, поставен за време на интервју со министерот за надворешни работи Абас Арагчи, одлета поради струењето на воздухот од вентилаторот. Снимката брзо се прошири на интернет и предизвика лавина шеги и мемиња. Засега не е независно потврдено зошто во ...",
-      "url": "https://motika.mk/iranskiot-gostin-na-tv-emisijata-odleta-vo-sred-programa/",
-      "image": "https://motika.mk/wp-content/uploads/2026/10/17/odelata.jpg",
-      "date": "Sat, 17 Oct 2026 09:54:32 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Да се потсетиме на бруталната искреност на Ведрана Рудан: „Жената е к*рва кога не раѓа, к*рва е и кога раѓа, а кога ќе умре…“",
-      "description": "Хрватската писателка и колумнистка Ведрана Рудан, која почина на 18 август 2026 година, по тешка борба со рак на жолчните канали, остана запаметена по својот остар јазик, црниот хумор и бруталната искреност. Без влакна на јазикот, таа со години зборуваше за општествените неправди, лицемерието и положбата на жените, не плашејќи се да предизвика бурни реакции. ...",
-      "url": "https://motika.mk/da-se-potsetime-na-brutalnata-iskrenost-na-vedrana-rudan-zenata-e-krva-koga-ne-raga-krva-e-i-koga-raga-a-koga-ke-umre/",
-      "image": "https://motika.mk/wp-content/uploads/2026/10/17/f8d72ed0701848a6b7e9613625edc4e7.jpg",
-      "date": "Sat, 17 Oct 2026 09:43:34 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Во нашите црева се крие неочекуван сојузник против ракот: Научниците открија како бактериите му помагаат на имунитетот",
-      "description": "Човечкиот гастроинтестинален тракт е неверојатно жив простор, населен со микроби што секодневно работат во наша корист. Тие учествуваат во ферментацијата на растителните влакна, влијаат врз чувството на ситост и, како што покажуваат новите истражувања, нивното дество не завршува во дигестивниот систем. Цревната микрофлора, во која спаѓаат бактерии и квасци, веќе се поврзува со дијабетес, депресија ...",
-      "url": "https://motika.mk/vo-nasite-creva-se-krie-neocekuvan-sojuznik-protiv-rakot-naucnicite-otkrija-kako-bakteriite-mu-pomagaat-na-imunitetot/",
-      "image": "https://motika.io/media/2026/10/17/img-66404266-cf71-49aa-96cc-0e91f6c8b31b-1.jpg",
-      "date": "Sat, 17 Oct 2026 09:38:06 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Се омажив за имотен Арап и се преселив во Дубаи, она што ми го приреди свекрвата го нема ни на филм, а кога родив син луксузот ми излезе низ нос",
-      "description": "Луксузен стан, скапи автомобили, патувања на егзотични дестинации и партнер кој на прв поглед изгледа внимателен, образован и подготвен на својата избраничка да ѝ пружи сè што ќе посака — за многу жени тоа звучи како остварен сон. Но кога љубовта ќе спои луѓе од различни култури, романтичната бајка понекогаш се претвора во секојдневие исполнето ...",
-      "url": "https://motika.mk/se-omaziv-za-imoten-arap-i-se-preseliv-vo-dubai-ona-sto-mi-go-priredi-svekrvata-go-nema-ni-na-film-a-koga-rodiv-sin-luksuzot-mi-izleze-niz-nos/",
-      "image": "https://motika.io/media/2026/10/17/img-99f48125-3200-42f6-b0a7-b73458c21eae-1.jpg",
-      "date": "Sat, 17 Oct 2026 09:35:20 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "„Никогаш не е доцна“ или опасна лага? Вистината за мајчинството на прагот на 50-тата година",
-      "description": "Насловите за познати жени во четириесеттите или педесеттите години кои раѓаат не престануваат да ги преплавуваат медиумите. Само оваа недела беше објавено дека Хилари Свонк го очекува своето трето дете на 52 години, а Кејли Квоко го дочека своето второ дете на 40 години. Тие ги следат чекорите на Обри Плаза, која стана мајка за ...",
-      "url": "https://motika.mk/nikogas-ne-e-docna-ili-opasna-laga-vistinata-za-majcinstvoto-na-pragot-na-50-tata-godina/",
-      "image": "https://motika.io/media/2026/10/17/img-0e890458-3d92-4406-8c6e-420db0932e87-1.jpg",
-      "date": "Sat, 17 Oct 2026 09:32:20 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Духовен водач лабаво ужива во климатизирана стаклена кабина, додека илјадници „обични смртници“ чекаат во ред за да му ги допрат стапалата",
-      "description": "Снимки од индискиот духовен водач Сант Рампал ги запалија социјалните мрежи. Додека тој седи во климатизирана стаклена кабина, илјадници верници чекаат во ред за да му ги допрат стапалата. Неговите следбеници го слават како светец и живо божество, но за дел од јавноста тој е опасен водач на култ, чија приватна армија во 2014 година ...",
-      "url": "https://motika.mk/duhoven-vodac-labavo-uziva-vo-klimatizirana-staklena-kabina-dodeka-iljadnici-obicni-smrtnici-cekaat-vo-red-za-da-mu-gi-doprat-stapalata/",
-      "image": "https://motika.mk/wp-content/uploads/2026/10/17/0a97e6a15eca4fedabba4c829b0c7366.jpg",
-      "date": "Sat, 17 Oct 2026 09:28:15 +0000"
+      "url": "https://time.mk/c/186739033d/ana-pejcinova-ja-dobi-nagradata-dragi-za-najdobar-knizeven-prevod-na-makedonski-jazik.html",
+      "image": "https://www.radiomof.mk/wp-content/uploads/2026/10/att.hVfzFDWBGzJW6QLcroFCYno7LPwzg2dpPeV00rlJnuE-702x336.webp",
+      "date": "Sat, 17 Oct 2026 16:40:58 +0000"
     }
   ],
   "de": [
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "PS5-Jailbreak oder PSN? Sony erzwingt Update",
+      "description": "Sony verlangt Firmware 14.10 für den Online-Zugang. Homebrew-Freiheit oder Online-Zocken – PS5-Nutzer stehen vor der Wahl. Der Artikel PS5-Jailbreak oder PSN? Sony erzwingt Update erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/gaming/ps5-jailbreak-psn-update-14-10-334522.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/ps5-jailbreak-psn-update-14-10",
+      "date": "Sat, 17 Oct 2026 14:38:19 +0000"
+    },
     {
       "category": "de",
       "source": "Tarnkappe",
@@ -443,15 +452,6 @@
       "url": "https://tarnkappe.info/artikel/iptv/pay-tv-pirat-zwei-jahre-vier-monate-haft-kunden-im-visier-334070.html",
       "image": "https://cdn.tarnkappe.info/wpimg/pay-tv-pirat-zwei-jahre-vier-monate-haft-kunden-im-visier",
       "date": "Wed, 30 Sep 2026 14:55:36 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Schutzmaßnahmen durchbrochen: Wurde Claude zur Zero-Day-Schmiede? Anthropic schweigt sich aus",
-      "description": "Bypass bei Claude Code: Eine KI als Zero-Day-Schmiede? Anthropic ignoriert die Warnung eines Sicherheitsforschers bis heute. Der Artikel Schutzmaßnahmen durchbrochen: Wurde Claude zur Zero-Day-Schmiede? Anthropic schweigt sich aus erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/kuenstliche-intelligenz/schutzmassnahmen-durchbrochen-wurde-claude-zur-zero-day-schmiede-anthropic-schweigt-sich-aus-334020.html",
-      "image": "https://cdn.tarnkappe.info/wp-content/uploads/Claude-Code-Vibe-Coding-scaled.jpg",
-      "date": "Wed, 30 Sep 2026 00:24:27 +0000"
     }
   ],
   "eng": [
