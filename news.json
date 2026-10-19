@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-19T10:10:24.169787+00:00",
+  "updated": "2026-10-19T17:05:41.297103+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Елон Маск ветува по една SpaceX акција за секое дете во САД следната година",
+      "description": "Елон Маск објави дека следната година ќе подари по една акција од SpaceX на секое дете во САД. SpaceX по преземањето на xAI е и компанија за вештачка интелигенција, па Anthropic им е директен конкурент, иако двете компании имаат договор за компјутерски капацитети. „Следната година ќе дадам по една од моите SpaceX акции на секое дете во Америка. […]",
+      "url": "https://smartportal.mk/novosti/licnosti/musk-ke-podati-po-edna-spacex-akcija-na-sekoe-dete-vo-sad/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Depositphotos_714528152_XL-150x150.webp",
+      "date": "Mon, 19 Oct 2026 12:41:26 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "АЕТМ: Над 530 милиони евра онлајн трансакции во првата половина од 2026 година – раст од 14,1%",
+      "description": "Вредност на реализирани трансакции Асоцијацијата за е-трговија ги анализираше најновите објавени податоци за трансакции на места на продажба за е-трговија на Народната банка на Република Македонија, согласно кои може да се забележи дека во првата половина од 2026 година вредноста на вкупните трансакции направени кон е-продажни места од Македонци дома и во странство, како и […]",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/aetm-nad-530-milioni-evra-onlajn-transakcii-vo-prvata-polovina-od-2026/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/aetm-phone-1-150x150.webp",
+      "date": "Mon, 19 Oct 2026 10:56:31 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Microsoft во Microsoft Store тестира апликација што личи на Settings во Windows 11",
+      "description": "Microsoft во Microsoft Store тестира апликација со кодно име „Project Odeon“, која ја користи иконата на „Settings“ во Windows 11 и изгледа речиси исто како Settings. Апликацијата ја пронајдоа од Windows Latest, кои ја инсталирале на виртуелна машина со Insider верзија на Windows 11. Според Windows Latest, објавувач во Store е Microsoft Corporation, а апликацијата е […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/microsoft-project-odeon/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/windows-11-settings-1-150x150.webp",
+      "date": "Mon, 19 Oct 2026 10:35:32 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -66,210 +93,183 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Microsoft го освежи изгледот на VS Code и по забелешките од корисниците додаде покомпактен распоред",
-      "description": "Тимот на Microsoft што го развива Visual Studio Code го претстави модернизираниот изглед на уредувачот на код, кој засега е во пробна верзија („preview“). Според нив, по повеќе од една деценија додавање функции, интерфејсот станал визуелно сложен и неусогласен, па целта не е да го измислат одново, туку да ја направат хиерархијата појасна и да ги намалат […]",
-      "url": "https://smartportal.mk/novosti/softver-prog/microsoft-go-osvezi-izgledot-na-vs-code/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/classic-to-modern-150x150.webp",
-      "date": "Fri, 16 Oct 2026 08:51:35 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Tesla го претстави новиот Roadster со потисници од SpaceX, а производството е најавено за 2028",
-      "description": "Tesla конечно го претстави новиот Roadster, речиси девет години откако го прикажа на крајот од настанот за Tesla Semi во 2017 година. Презентацијата се одржа во четвртокот вечерта по американско време на полигонот на SpaceX во Мекгрегор, Тексас. Тоа беше две недели подоцна од планираното, откако Tesla го одложи настанот поради лошото време. Како што беше најавувано во август, главна атракција […]",
-      "url": "https://smartportal.mk/novosti/avtomobili/tesla-go-pretstavi-noviot-roadster/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Roadster-08-End-Desktop-150x150.webp",
-      "date": "Fri, 16 Oct 2026 08:04:56 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Ubuntu 26.10 стигнува со рана верзија на локално диктирање и подобрена заштита на системот",
-      "description": "Canonical денес ја објави Ubuntu 26.10 верзијата, кодно именувана „Stonking Stingray“. Станува збор за таканаречена „меѓуверзија“ која, според белешките за истата, ќе добива поддршка девет месеци, до јули 2027 година, за разлика од Ubuntu 26.04 LTS која излезе во април со пет години поддршка. Најинтересната новост е Myna, алатка за претворање на говор во текст што работи со локални јазични модели. […]",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/ubuntu-26-10-stonking-stingray/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Screenshot-from-2026-10-14-17-35-16-150x150.webp",
-      "date": "Thu, 15 Oct 2026 17:04:31 +0000"
+      "source": "Time.mk - All",
+      "title": "Шасивари за полагањето на правосудниот испит на албански: Законските решенија ќе се разгледуваат со студентите и правните факултети | 360 степени",
+      "description": "",
+      "url": "https://time.mk/c/703225a7a0/sasivari-za-polaganjeto-na-pravosudniot-ispit-na-albanski-zakonskite-resenija-ke-se-razgleduvaat-so-studentite-i-pravnite-fakulteti.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2025/08/pravda-3.jpg",
+      "date": "Mon, 19 Oct 2026 14:50:53 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Видео) Ковачки: На 1 ноември очекуваме убедлива победа во Брвеница | Макфакс",
+      "title": "Што ќе се случи ако административецот две години по ред добие оценка „1“? | Фактор",
       "description": "",
-      "url": "https://time.mk/c/7ce18d77d2/video-kovacki-na-1-noemvri-ocekuvame-ubedliva-pobeda-vo-brvenica.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/img_5595.webp",
-      "date": "Mon, 19 Oct 2026 09:25:02 +0000"
+      "url": "https://time.mk/c/70e6ce254c/sto-ke-se-sluci-ako-administrativecot-dve-godini-po-red-dobie-ocenka-1.html",
+      "image": "https://faktor.mk/media/main/2026/10/20261019172525.png",
+      "date": "Mon, 19 Oct 2026 15:26:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(ВИДЕО) Млада кафеава мечка ослободена од нелегална примка и вратена во природата | 360 степени",
+      "title": "Рама: Бидете трпеливи со младите, а одлучни кон оние што предизвикуваат пожари | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/434494ab23/video-mlada-kafeava-mecka-oslobodena-od-nelegalna-primka-i-vratena-vo-prirodata.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/10/mece.jpg",
-      "date": "Mon, 19 Oct 2026 10:05:12 +0000"
+      "url": "https://time.mk/c/889a3711a5/rama-bidete-trpelivi-so-mladite-a-odlucni-kon-onie-sto-predizvikuvaat-pozari.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/edi-rama-epa-26.jpg",
+      "date": "Mon, 19 Oct 2026 16:16:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "АНТРОПИК ФОРМИРА ФОНД ЗА ЈАВНA КОРИСТ СО КАПИТАЛ ОД 48 МИЛИЈАРДИ ДОЛАРИ Ќе ги ублажува и последиците од ВИ врз работните места | +инфо",
+      "title": "ОТКАКО ГРАЃАНИТЕ СИ ГО КАЖАА СВОЕТО ВО ПРВИОТ КРУГ НА ГЛАСАЊЕТО ЗА ИЗБОР НА ГРАДОНАЧАЛНИК: Вреди ќе покаже за кого најмногу вределе изборите во Брвеница? | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/4c4761a33b/antropik-formira-fond-za-javna-korist-so-kapital-od-48-milijardi-dolari-ke-gi-ublazuva-i-posledicite-od-vi-vrz-rabotnite-mesta.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2026/09/antropik-lekovi.jpg",
-      "date": "Mon, 19 Oct 2026 09:12:55 +0000"
+      "url": "https://time.mk/c/e7a4d34586/otkako-gragjanite-si-go-kazaa-svoeto-vo-prviot-krug-na-glasanjeto-za-izbor-na-gradonacalnik-vredi-ke-pokaze-za-kogo-najmnogu-vredele-izborite-vo-brvenica.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/dsc_1964-scaled-e1792418803147.jpg",
+      "date": "Mon, 19 Oct 2026 14:10:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "КРИЗНАТА СОСТОЈБА СО НАФТАТА СЕ ПРОДОЛЖУВА ДО АПРИЛ | Економија и Бизнис",
+      "title": "За една година 12.000 деца во Македонија биле жртви на сексуална злоупотреба преку интернет | Рацин",
       "description": "",
-      "url": "https://time.mk/c/b635d09644/kriznata-sostojba-so-naftata-se-prodolzuva-do-april.html",
-      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/10/sobranienikolakarevsoznameto-1024x675.jpg",
-      "date": "Mon, 19 Oct 2026 09:57:16 +0000"
+      "url": "https://time.mk/c/e17a6924db/za-edna-godina-12-000-deca-vo-makedonija-bile-zrtvi-na-seksualna-zloupotreba-preku-internet.html",
+      "image": "https://racin.mk/wp-content/uploads/2025/08/deca-vo-stres-720x480.jpg?x24624",
+      "date": "Mon, 19 Oct 2026 17:01:04 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Истовремено соопштение на ВМРО-ОКГ и на Платформата – ЗНАМ 2.0, ист ракопис, иста порака, велат од СДСМ | Макфакс",
+      "title": "Лекот за мускулна дистрофија кој ја забавува болеста е спас за пациентите, но сè уште го нема во државата | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/b7b0193bf1/istovremeno-soopstenie-na-vmro-okg-i-na-platformata-znam-2-0-ist-rakopis-ista-poraka-velat-od-sdsm.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2024/03/sdsm4.jpg",
-      "date": "Mon, 19 Oct 2026 08:44:56 +0000"
+      "url": "https://time.mk/c/46070c2d7a/lekot-za-muskulna-distrofija-koj-ja-zabavuva-bolesta-e-spas-za-pacientite-no-se-uste-go-nema-vo-drzavata.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/107-scaled.jpg",
+      "date": "Mon, 19 Oct 2026 13:30:40 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Видео) Кузеска: ВМРО – ОКГ ги објави резултатите од болните во Брвеница пред да се отворат кутиите | Макфакс",
+      "title": "Што откриваат запленетите пет тони овошје и зеленчук во Скопје? | Рацин",
       "description": "",
-      "url": "https://time.mk/c/b10bbf8dd7/video-kuzeska-vmro-okg-gi-objavi-rezultatite-od-bolnite-vo-brvenica-pred-da-se-otvorat-kutiite.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/bogdanka-kuzeska-sdsm.webp",
-      "date": "Mon, 19 Oct 2026 09:50:55 +0000"
+      "url": "https://time.mk/c/9927f7f8ed/sto-otkrivaat-zaplenetite-pet-toni-ovosje-i-zelencuk-vo-skopje.html",
+      "image": "https://racin.mk/wp-content/uploads/2026/10/pazar-848x424.jpg?x24624",
+      "date": "Mon, 19 Oct 2026 16:33:05 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Од пазар до трпеза: Што откриваат контролите на АХВ за храната што ја јадеме? | Deutsche Welle",
+      "title": "Бензините поевтинуваат, дизелот поскапува – се најавуваат уште 2 денари попуст | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/f205d76faf/od-pazar-do-trpeza-sto-otkrivaat-kontrolite-na-ahv-za-hranata-sto-ja-jademe.html",
-      "image": "https://static.dw.com/image/50561992_302.jpg",
-      "date": "Mon, 19 Oct 2026 10:05:11 +0000"
+      "url": "https://time.mk/c/e947239431/benzinite-poevtinuvaat-dizelot-poskapuva-se-najavuvaat-uste-2-denari-popust.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/goriva-383736-1.jpg",
+      "date": "Mon, 19 Oct 2026 12:44:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "На граѓаните лани им биле вратени околу 56,4 милиони евра | Вечер Прес",
+      "title": "13-годишно момче нападна наставник и ученик со нож во училиште во Романија | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/e280193c00/na-gragjanite-lani-im-bile-vrateni-okolu-56-4-milioni-evra.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/10/moj-ddv.jpg",
-      "date": "Mon, 19 Oct 2026 09:50:55 +0000"
+      "url": "https://time.mk/c/f13e757e37/13-godisno-momce-napadna-nastavnik-i-ucenik-so-noz-vo-uciliste-vo-romanija.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2026/10/Screenshot_5-10-1024x501.jpg",
+      "date": "Mon, 19 Oct 2026 16:18:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Во Тирана на улица, во Белград на избори, македонските млади на аеродром | Трн",
+      "title": "Вкупно 23 навивачи на Хајдук обвинети за јавно поттикнување насилство и омраза | Либертас",
       "description": "",
-      "url": "https://time.mk/c/b9e60cb71c/vo-tirana-na-ulica-vo-belgrad-na-izbori-makedonskite-mladi-na-aerodrom.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/10/kufer-selenje.jpeg",
-      "date": "Mon, 19 Oct 2026 09:41:15 +0000"
+      "url": "https://time.mk/c/f7e7680973/vkupno-23-navivaci-na-hajduk-obvineti-za-javno-pottiknuvanje-nasilstvo-i-omraza.html",
+      "image": "https://libertas.mk/wp-content/uploads/2026/10/s-6.webp",
+      "date": "Mon, 19 Oct 2026 16:18:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Шест мигранти, меѓу кои и едно бебе, загинаа во судир на глисер и грчката крајбрежна стража | Скопје1",
+      "title": "ФРАНЦУСКАТА ВЛАДА ДОЗВОЛИ ЛОКАЛИЗИРАН ПОЛИЦИСКИ ЧАС ПО НАСИЛНИТЕ ПРОТЕСТИ ВИКЕНДОВ | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/3463191dbf/sest-migranti-megju-koi-i-edno-bebe-zaginaa-vo-sudir-na-gliser-i-grckata-krajbrezna-straza.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/70696/conversions/n-missingisland-a-20181104-870x572-max.jpg",
-      "date": "Mon, 19 Oct 2026 06:24:53 +0000"
+      "url": "https://time.mk/c/8ff4f13a50/francuskata-vlada-dozvoli-lokaliziran-policiski-cas-po-nasilnite-protesti-vikendov.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/10/download-6-.webp",
+      "date": "Mon, 19 Oct 2026 15:52:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Немирите во Франција ги потресоа и берзите: Трговците бараат заштита, акциите паѓаат | Слободен Печат",
+      "title": "Поплави во Шпанија, има загинати | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/4c4cdbed1f/nemirite-vo-francija-gi-potresoa-i-berzite-trgovcite-baraat-zastita-akciite-pagjaat.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2020/09/berza-1-300x169.jpg",
-      "date": "Mon, 19 Oct 2026 09:41:15 +0000"
+      "url": "https://time.mk/c/6317525d56/poplavi-vo-spanija-ima-zaginati.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2026/10/Screenshot_7-8.jpg",
+      "date": "Mon, 19 Oct 2026 16:54:39 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Видео) „Врие“ и во Португалија?; Илјадници луѓе на улиците поради криза со домувањето | Макфакс",
+      "title": "Мајка и дете нападнати од улични кучиња, за влакно избегната трагедија! | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/c9579e6738/video-vrie-i-vo-portugalija-iljadnici-lugje-na-ulicite-poradi-kriza-so-domuvanjeto.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/screenshot-2026-10-19-114614.webp",
-      "date": "Mon, 19 Oct 2026 09:49:13 +0000"
+      "url": "https://time.mk/c/04cf77a289/majka-i-dete-napadnati-od-ulicni-kucinja-za-vlakno-izbegnata-tragedija.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/napad-od-kucinja.jpg",
+      "date": "Mon, 19 Oct 2026 12:38:41 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Улицата „Тодор Чангов“ во Лисиче без вода поради дефект | Независен",
+      "title": "„Чекаме по еден час, автобусите се преполни или ги нема!“: Нов сообраќаен кошмар за скопјани | 4NEWS",
       "description": "",
-      "url": "https://time.mk/c/d648a913ad/ulicata-todor-cangov-vo-lisice-bez-voda-poradi-defekt.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2025/01/Voda-cesma-slavina-kapki-2-bg.jpg",
-      "date": "Mon, 19 Oct 2026 08:48:51 +0000"
+      "url": "https://time.mk/c/dad8850031/cekame-po-eden-cas-avtobusite-se-prepolni-ili-gi-nema-nov-soobrakaen-kosmar-za-skopjani.html",
+      "image": "https://4news.mk/wp-content/uploads/2022/12/privatni-prevoznici-avtobus-strajk-protest9.jpg",
+      "date": "Mon, 19 Oct 2026 16:30:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Мајка тврди дека со 7-годишната ќерка била нападната од три кучиња кај Цементара: „За влакно избегнавме трагедија“ | Скопје инфо",
+      "title": "(Видео) „Го подавале како топка, го држеле до дрво додека го удирале со боксирач“ - потресно сведоштво на мајката чие дете е натепано во Влае | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/53a878fe33/majka-tvrdi-deka-so-7-godisnata-kerka-bila-napadnata-od-tri-kucinja-kaj-cementara-za-vlakno-izbegnavme-tragedija.html",
-      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/oktomvri/image-262658.jpg?itok=U6_iIgEO",
-      "date": "Mon, 19 Oct 2026 08:06:39 +0000"
+      "url": "https://time.mk/c/3605995093/video-go-podavale-kako-topka-go-drzele-do-drvo-dodeka-go-udirale-so-boksirac-potresno-svedostvo-na-majkata-cie-dete-e-natepano-vo-vlae.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/86495/conversions/text-max.jpg",
+      "date": "Mon, 19 Oct 2026 14:37:01 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Малолетник во Штип возел мотоцикл на едно тркало без право на управување | Фактор",
+      "title": "Разбојник ограбил обложувалница во Гостиварско, полицијата го фати на бензинска | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/b4ecaa79bd/maloletnik-vo-stip-vozel-motocikl-na-edno-trkalo-bez-pravo-na-upravuvanje.html",
-      "image": "https://faktor.mk/media/main/2026/10/20261019114502.jpg",
-      "date": "Mon, 19 Oct 2026 09:46:50 +0000"
+      "url": "https://time.mk/c/47e9d972f4/razbojnik-ograbil-oblozuvalnica-vo-gostivarsko-policijata-go-fati-na-benzinska.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/kladilnicza-300x180.jpg",
+      "date": "Mon, 19 Oct 2026 13:37:08 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "21-годишен пешак тешко повреден откако бил удрен од автомобил во Гостивар | Скопје1",
+      "title": "НУ Завод и Музеј Битола домаќин на меѓународна студентска конференција посветена на Преспанскиот регион Битола, 19 октомври 2026 | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/df25a79658/21-godisen-pesak-tesko-povreden-otkako-bil-udren-od-avtomobil-vo-gostivar.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/81769/conversions/text-max.jpg",
-      "date": "Mon, 19 Oct 2026 09:33:15 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ФОТО | До 15 часот гласале над 5.000 граѓани во Брвеница | Слободен Печат",
-      "description": "",
-      "url": "https://time.mk/c/c265bb9312/foto-do-15-casot-glasale-nad-5-000-gragjani-vo-brvenica.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/Naslovna-4-300x169.jpg",
-      "date": "Sun, 18 Oct 2026 15:01:06 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Проданоски: Над 1.100 учесници на „ЧЕ ТРЧАМЕ“, Прилеп покажа големо спортско срце | Булевар",
-      "description": "",
-      "url": "https://time.mk/c/7b590da45d/prodanoski-nad-1-100-ucesnici-na-ce-trcame-prilep-pokaza-golemo-sportsko-srce.html",
-      "image": "https://bulevar.mk/wp-content/uploads/2026/10/spojeni_trcame_horiz_100kb.jpeg",
-      "date": "Sun, 18 Oct 2026 16:40:52 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Писателката Ане Бјорн од Данска доаѓа во Скопје со четири работилници за деца | Независен",
-      "description": "",
-      "url": "https://time.mk/c/f5206e42f9/pisatelkata-ane-bjorn-od-danska-doagja-vo-skopje-so-cetiri-rabotilnici-za-deca.html",
+      "url": "https://time.mk/c/2028a31b85/nu-zavod-i-muzej-bitola-domakin-na-megjunarodna-studentska-konferencija-posvetena-na-prespanskiot-region-bitola-19-oktomvri-2026.html",
       "image": "",
-      "date": "Mon, 19 Oct 2026 09:49:13 +0000"
+      "date": "Mon, 19 Oct 2026 13:37:08 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ФМУ – Скопје со концерт на Катедрата за популарни жанрови одбележува 60 години постоење | Независен",
+      "title": "Пешачка патека до манастирот на Тиквешкото Езеро | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/5691525335/fmu-skopje-so-koncert-na-katedrata-za-popularni-zanrovi-odbelezuva-60-godini-postoenje.html",
-      "image": "https://provereno.mk/wp-content/uploads/2026/10/IMG-ae8d4ad292f2893ad3212492bfceee3a-V-212x300.jpg",
-      "date": "Mon, 19 Oct 2026 09:10:55 +0000"
+      "url": "https://time.mk/c/531e7c591e/pesacka-pateka-do-manastirot-na-tikveskoto-ezero.html",
+      "image": "",
+      "date": "Mon, 19 Oct 2026 11:42:58 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "„Вонземјани“ утревечер во МНТ, комедија што низ хумор отвора сериозни општествени прашања | 24 Вести",
+      "description": "",
+      "url": "https://time.mk/c/21d8c09907/vonzemjani-utrevecer-vo-mnt-komedija-sto-niz-humor-otvora-seriozni-opstestveni-prasanja.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1792415831/kaanvimoimsfhxk5pjlq.webp",
+      "date": "Mon, 19 Oct 2026 13:18:37 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "ЛИТЕРА ОТВОРА НОВО ПОГЛАВЈЕ: „ГРАДОВИ ПОЛНИ ПРИКАЗНИ“ И НОВ ЦЕНТАР ЗА ДЕТСКА КРЕАТИВНОСТ | Економија и Бизнис",
+      "description": "",
+      "url": "https://time.mk/c/ef19a0978d/litera-otvora-novo-poglavje-gradovi-polni-prikazni-i-nov-centar-za-detska-kreativnost.html",
+      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/10/litera-1024x512.jpg",
+      "date": "Mon, 19 Oct 2026 11:24:57 +0000"
     }
   ],
   "de": [
@@ -458,6 +458,60 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "This Powerful Lenovo Laptop Is Down to $629 at Walmart",
+      "description": "The lightweight Lenovo pairs a powerful 10-core Intel processor with 16GB of RAM and a spacious 1TB SSD.",
+      "url": "https://lifehacker.com/tech/lenovo-v14-g5-laptop-sale-october-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M5AB12DHZZRYKK4VGT8YF7CY/hero-image.jpg",
+      "date": "Mon, 19 Oct 2026 16:03:37 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "10 Hacks Every AllTrails User Should Know",
+      "description": "These are the best tricks and tips for planning and navigating your routes.",
+      "url": "https://lifehacker.com/tech/hacks-every-alltrails-user-should-know?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M4XG4NJ1XKQ8NQR4AYECYXS0/hero-image.jpg",
+      "date": "Mon, 19 Oct 2026 15:30:57 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "I Tried the 'Normatec Go' Compression Boots, and My Calves Have Never Felt Better",
+      "description": "I can't imagine my recovery routine without them now.",
+      "url": "https://lifehacker.com/health/i-tried-the-normatec-go-compression-boots-and-my-calves-feel-great?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M5AA2SEW7XBF2J0DW20TQ266/hero-image.jpg",
+      "date": "Mon, 19 Oct 2026 15:00:55 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Out-of-Touch Adults' Guide to Kid Culture: What Is 'Loser Core'?",
+      "description": "\"Loser Core,\" the moody music and anti-fashion subculture taking over TikTok, and more.",
+      "url": "https://lifehacker.com/entertainment/out-of-touch-adults-guide-to-kid-culture-what-is-loser-core?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M53K9KDVTHZY6NNWC61A1N6Q/hero-image.jpg",
+      "date": "Mon, 19 Oct 2026 13:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Dialogue-Enhancing Samsung Dolby Atmos Soundbar Is $400 Off Right Now",
+      "description": "This soundbar gives you clearer dialogue, fuller bass, and immersive Dolby Atmos audio for just under $700.",
+      "url": "https://lifehacker.com/tech/samsung-2026-hw-q800h-dolby-atmos-soundbar-sale-october-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M596WVMTBZJ9ZX0YPPMB82WR/hero-image.jpg",
+      "date": "Mon, 19 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Joy-Con Replacement for the Nintendo Switch Is 56% Off Right Now",
+      "description": "This Switch dock replaces Joy-Cons with full-sized sticks, better grips, and customizable back buttons.",
+      "url": "https://lifehacker.com/tech/crkd-nitro-deck-for-nintendo-switch-sale-october-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01KPNE61BN28J9SM0MMCXW5YQ1/hero-image.jpg",
+      "date": "Mon, 19 Oct 2026 12:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week",
       "description": "Find great deals on Amazon products, the Apple Watch 10, Samsung soundbars, the best sleep earbuds, QLED TVs, and more.",
       "url": "https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS",
@@ -583,57 +637,75 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "My Favorite Earbuds for Sleep Are $60 Off Right Now",
-      "description": "Soundcore Sleep A30 earbuds now come with ANC and 10-hour battery life.",
-      "url": "https://lifehacker.com/tech/soundcore-sleep-a30-earbuds-deal-october-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01K86BAKHX97TF4RK3FTKDRF49/hero-image.png",
-      "date": "Thu, 15 Oct 2026 17:00:00 +0000"
+      "source": "PCWorld",
+      "title": "Best USB-C monitors 2026: 3 displays that excel at connectivity",
+      "description": "USB-C is the one connection to rule them all. Its popularity has made USB-C a common sight on new monitors. A USB-C monitor can act as USB hub, giving you additional ports for connecting various USB devices, but the monitor’s USB-C port can also serve as a video-input alternative to HDMI or DisplayPort; and some USB-C monitors can even charge a connected device while in use. The details of USB-C can be confusing, however, and pricing for USB-C monitors is often higher than that for monitors that",
+      "url": "https://www.pcworld.com/article/1377172/best-usb-c-monitors.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/1377172-0-06635800-1792425628-dell-ultrasharp-u3223qe-5.jpg?quality=50&strip=all",
+      "date": "Mon, 19 Oct 2026 16:00:00 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "10 Shows Like 'Crystal Lake' You Should Watch Next",
-      "description": "More killer horror adaptations to stream for spooky season.",
-      "url": "https://lifehacker.com/entertainment/best-shows-like-crystal-lake?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M4XEZ6AM6VJH5D2B0Y0BJDG8/hero-image.jpg",
-      "date": "Thu, 15 Oct 2026 16:30:00 +0000"
+      "source": "PCWorld",
+      "title": "Check your Windows Secure Boot status now. Later could be too late",
+      "description": "Modern PCs support the Windows Secure Boot feature via their UEFI firmware. This ensures that the computer blocks malware, such as rootkits, even before the operating system starts. The Secure Boot function uses keys, certificates, and signature databases to ensure the integrity of the boot components. The certificates used to date date back to 2011 and were due to expire in June 2026. The new certificates have been rolling out since 2023, and the update is applied automatically either via a fir",
+      "url": "https://www.pcworld.com/article/3256049/check-your-windows-secure-boot-status-now-later-could-be-too-late.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3256049-0-33885000-1792420224-windows-11_3.jpg?quality=50&strip=all",
+      "date": "Mon, 19 Oct 2026 14:30:00 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "You Can Now Join a WhatsApp Call Without an Account",
-      "description": "Anyone can now join a call link.",
-      "url": "https://lifehacker.com/tech/you-can-now-join-a-whatsapp-call-without-an-account?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M501KMWDJV6CJD21KJJDZ89A/hero-image.webp",
-      "date": "Thu, 15 Oct 2026 15:30:11 +0000"
+      "source": "PCWorld",
+      "title": "Windows 11’s October update blocks Smart App Control. Here’s the fix",
+      "description": "After installing update KB5127648 , which was released on October 13th for Windows 11 versions 24H2, 25H2, and 26H2, fixes certain bugs like mouse glitches while gaming and black screens after logging on , but it also introduces another problem involving the “Smart App Control” feature. Smart App Control is a Windows security feature designed to prevent potentially harmful programs from running on your computer . It works by screening applications through Microsoft’s cloud service to detect and ",
+      "url": "https://www.pcworld.com/article/3263770/windows-11s-october-update-blocks-smart-app-control-heres-the-fix.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3263770-0-11342700-1792417825-Windows-Security-selection-with-mouse-cursor-hovering-over.jpg?quality=50&strip=all",
+      "date": "Mon, 19 Oct 2026 13:48:59 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "This Top-Rated 65-Inch LG OLED TV Is $200 Off Right Now",
-      "description": "PCMag calls the Evo C6 the best value OLED you can buy, and it's down to $1,500.",
-      "url": "https://lifehacker.com/tech/lg-65-inch-evo-c6-oled-tv-sale-october-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M4YRWR8ZNZKCBHHNZB4JCTQ4/hero-image.jpg",
-      "date": "Thu, 15 Oct 2026 13:00:00 +0000"
+      "source": "PCWorld",
+      "title": "This $3,200 RTX Spark laptop still wants me to pay for ad-free Solitaire",
+      "description": "There’s a new class of Windows laptops out there. Powered by impressive Arm CPUs from Nvidia, packed with generous amounts of RAM and premium materials. And they damn well better be since they start at approximately double the price of a “nice” laptop and go up to $7,000 dollars . But if you actually buy one, you’ll be getting an experience that is familiar in most ways. They boot up into Windows 11 and force you to log in, and try to upsell you on a bunch of services. They default to tons of cl",
+      "url": "https://www.pcworld.com/article/3262684/this-3200-rtx-spark-laptop-still-wants-me-to-pay-for-ad-free-solitaire.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3262684-0-07234600-1792414825-image_fad97f.png",
+      "date": "Mon, 19 Oct 2026 13:00:00 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "This Exceptionally Fast Asus OLED Gaming Monitor Is $210 Off Right Now",
-      "description": "The Asus ROG Strix OLED is now $549, down from $759.",
-      "url": "https://lifehacker.com/tech/asus-rog-strix-oled-xg27acdng-monitor-sale-october-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01KT1AMKQANK7AS4RE8PDMN3N3/hero-image.jpg",
-      "date": "Thu, 15 Oct 2026 12:30:00 +0000"
+      "source": "PCWorld",
+      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
+      "description": "If you’re looking for an affordable Windows machine under $500 , a blazing fast gaming beast for those intense matches, or a portable 2-in-1 for school or work, you’ve got plenty of great choices right now. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 80 laptops every year. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches",
+      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/550968-0-46289100-1792411703-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
+      "date": "Mon, 19 Oct 2026 12:08:07 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "The Best Sales on Headphones and Earbuds Right Now",
-      "description": "Get great prices on headphones and earbuds from Sony, Beats, Nothing, and more.",
-      "url": "https://lifehacker.com/best-deals-on-earbuds-and-headphones-right-now?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01HF2HFA1NX2ZENNBGHJ79AMPW/hero-image.jpg",
-      "date": "Wed, 14 Oct 2026 21:02:44 +0000"
+      "source": "PCWorld",
+      "title": "Anthropic says AI malware is coming for your smart oven… eventually",
+      "description": "You probably don’t give much thought to the smart functionality of ovens, washers, TV boxes. But Anthropic has—and it believes such IoT devices are ripe for AI exploitation. How? Self-replicating “AI worms.” Welcome to Safe Mode, your weekly report for pressing security and privacy news—and what steps to take next. Want this newsletter to come directly to your inbox? Sign up on our website ! Last week, Anthropic released a report detailing a series of experiments—tasking AI with spreading itself",
+      "url": "https://www.pcworld.com/article/3263046/anthropic-says-ai-malware-is-coming-for-your-smart-oven-eventually.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3263046-0-30819900-1792409433-pexels-artbovich-6969989.jpg?quality=50&strip=all",
+      "date": "Mon, 19 Oct 2026 11:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "HP Googlebook 14 review: Gorgeous hardware, Google-sized headaches",
+      "description": "At a glance Expert's Rating Pros Premium build quality Excellent OLED display and audio Portable Cons Expensive Limited ports Our Verdict The HP Googlebook 14 is a stylish, lightweight laptop with a great screen, but its high price is hard to justify. Price When Reviewed This value will show the geolocated pricing text for product undefined Best Pricing Today Price When Reviewed $1,199.99 Best Prices Today: HP Googlebook 14 Retailer Price $1199.99 View Deal $1299 View Deal Price comparison from ",
+      "url": "https://www.pcworld.com/article/3262772/hp-googlebook-14-review.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3262772-0-97955500-1792407636-IMG_9100.jpeg?quality=50&strip=all",
+      "date": "Mon, 19 Oct 2026 11:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "How good are your AI-detection skills? Test yourself with these games",
+      "description": "I remember when AI images were easy to spot thanks to dead giveaways like freakishly mutated hands, warped faces, and Escher-like architecture. That was way back in 2023. Since then, things have progressed fast. AI image generators now are so good that it’s genuinely hard to tell what’s real and what isn’t. But that doesn’t stop us humans from thinking we still have an eye for what’s real and what’s fake. So if you still think you’ve got it, then go ahead and give it a try with Slop Sense . It’s",
+      "url": "https://www.pcworld.com/article/3259867/how-good-are-your-ai-detection-skills-test-yourself-with-these-games.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3259867-0-84514500-1792405831-Slop-Sense.png",
+      "date": "Mon, 19 Oct 2026 10:30:00 +0000"
     },
     {
       "category": "eng",
@@ -652,81 +724,36 @@
       "url": "https://www.pcworld.com/article/3262817/one-ai-subscription-to-replace-them-all-is-99-99-for-life.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3262817-0-34414700-1792310423-1minAI.jpg?quality=50&strip=all",
       "date": "Sun, 18 Oct 2026 08:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Cover 10 devices with AdGuard VPN for five years at $34.97",
-      "description": "TL;DR: Get five years of AdGuard VPN on up to 10 devices for $34.97 (MSRP $359.40) through October 25. A VPN usually means one more subscription that renews every year. AdGuard VPN encrypts your internet traffic on up to 10 devices at once, and a 5-year subscription is on sale for $34.97 (MSRP $359.40). That price comes to about $7 a year. One account connects up to 10 devices at the same time, enough for a gaming PC, a laptop, phones, and tablets around the house. With servers in more than 70 l",
-      "url": "https://www.pcworld.com/article/3262840/cover-10-devices-with-adguard-vpn-for-five-years-at-34-97.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3262840-0-52354000-1792310452-AdGuard-VPN.jpg?quality=50&strip=all",
-      "date": "Sun, 18 Oct 2026 08:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Stop paying for MSO 365 — Office Pro drops to $28 for a lifetime license",
-      "description": "TL;DR: Microsoft Office Professional 2021 for Windows is $27.97 (reg. $219.99) through October 20, with no subscription. Microsoft 365 charges you every year just to keep opening your own spreadsheets. If you’d rather pay once, a Microsoft Office Professional 2021 lifetime license is on sale for $27.97 (reg. $219.99). You get Word, Excel, PowerPoint, Outlook, OneNote, Publisher, Access, and the free version of Teams. Everything installs on one Windows 10 or 11 PC for home or work use. Your licen",
-      "url": "https://www.pcworld.com/article/3262089/stop-paying-for-mso-365-office-pro-drops-to-28-for-a-lifetime-license.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3262089-0-20040400-1792224047-mso-pro-2021-win-1.jpg?quality=50&strip=all",
-      "date": "Sat, 17 Oct 2026 08:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Dell’s business laptop drops from $1,099 to $265",
-      "description": "TL;DR: A grade A refurbished Dell Latitude 5420 with an 11th Gen i5, 8GB RAM, 256GB SSD, and Windows 11 Pro is $264.99 (MSRP $1,099). Limited inventory available. A brand-new business laptop with Windows 11 Pro, Thunderbolt 4, and an 11th Gen Intel processor usually costs north of $800. But if you don’t mind a refurbished model, this near-mint Dell Latitude 5420 brings all of that down to $264.99 (MSRP $1,099). The only “catch” is that inventory is limited, so order ASAP. An 11th Gen Core i5-113",
-      "url": "https://www.pcworld.com/article/3262781/dells-business-laptop-drops-from-1099-to-265.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3262781-0-72062800-1792224018-Dell-Latitude.jpg?quality=50&strip=all",
-      "date": "Sat, 17 Oct 2026 08:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Best laptops under $500: Affordable picks that will satisfy your needs",
-      "description": "You don’t have to drop $1,000 to get a laptop that can handle everyday computing, you know. That said, spending $500 wisely matters here. At this price, some laptops make reasonable compromises while others cut way too many corners. For most folks, I’d recommend opting for a laptop with a 1080p display and at least 8GB of RAM (16GB is always better if you can swing it). While you shouldn’t expect premium features at this price point, there are plenty of laptops that offer excellent day-to-day pe",
-      "url": "https://www.pcworld.com/article/699203/best-laptops-under-500.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/699203-0-27533700-1792171842-Acer_Aspire3.jpg?quality=50&strip=all",
-      "date": "Fri, 16 Oct 2026 17:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Microsoft fixes the Windows 11 black screen bug that hits after sign-in",
-      "description": "Microsoft has fixed an issue in Windows 11 that could result in a black screen after the user logs into their computer. You’ll find the fix in update KB5127648 , available now for Windows 11 24H2, 25H2, and 26H2. In the update release notes, the bug fix is addressed as: [Windows Explorer (Known issue)] Fixed: This update fixes an issue that affects Windows Explorer in multi-user environments, such as Azure Virtual Desktop and FSLogix. After sign-in, Explorer.exe might fail to start or repeatedly",
-      "url": "https://www.pcworld.com/article/3262698/microsoft-fixes-the-windows-11-black-screen-bug-that-hits-after-sign-in.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3262698-0-61486100-1792166520-Windows-11-logo-skewed-captured-from-laptop-screen.jpg?quality=50&strip=all",
-      "date": "Fri, 16 Oct 2026 16:01:48 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Microsoft claims Windows 11 is up to 20% faster. Here’s what changed",
-      "description": "Microsoft is doing its best to improve Windows 11’s performance. According to a recent Windows Blog post , the company’s operating system has become up to 20 percent more responsive thanks to optimizations made and released over the course of this year. Improved features include the Start menu, File Explorer, Search, and the Edge browser. One key change is that Windows now uses the computer’s RAM more efficiently, so it can run more smoothly on systems with 8GB RAM . According to Microsoft, Wind",
-      "url": "https://www.pcworld.com/article/3262696/microsoft-claims-windows-11-is-up-to-20-percent-faster-heres-what-changed.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3262696-0-13459700-1792165974-Windows-11-PC-Devices.jpg?quality=50&strip=all",
-      "date": "Fri, 16 Oct 2026 15:51:51 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Best ultrawide monitors 2026: Picks for gaming, budget, 5K, and more",
-      "description": "Do you want a large expanse of usable display space, but without the hassle of setting up dual monitors? An ultrawide monitor is the ticket. Ultrawide monitors have a wider display panel that provides an immersive experience and far more screen real-estate than your average widescreen. I’ve tested a bunch of ultrawide monitors in order to name the best picks in various categories ranging from those optimized for gaming to those suited for professional use. Below you’ll find a curated list of my ",
-      "url": "https://www.pcworld.com/article/1470449/best-ultrawide-monitors.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/1470449-0-39241700-1792183225-alienware-aw3423dwf-4-1.jpg?quality=50&strip=all",
-      "date": "Fri, 16 Oct 2026 15:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Your laptop lacks an SD slot? This $10 Anker USB-C reader fixes that",
-      "description": "NOW 44% OFF Anker 2-in-1 USB-C SD Card Reader View Deal Unless you have a business or creator model, your laptop probably doesn’t have SD or microSD slots. But no worries, because you can rectify that with a single versatile accessory. Anker’s USB-C SD/microSD card reader is on sale for $9.99 at Amazon, down from its original $17.99. That’s only a buck higher than its all-time lowest price, so you know it’s a real deal. This card reader is as utilitarian as they come. It’s about the size of a ty",
-      "url": "https://www.pcworld.com/article/3262571/your-laptop-lacks-an-sd-slot-this-10-anker-usb-c-reader-fixes-that.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3262571-0-47198100-1792161166-anker-microsd-plug.jpg?quality=50&strip=all",
-      "date": "Fri, 16 Oct 2026 14:31:44 +0000"
     }
   ],
   "starwars": [
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "‘Star Wars: Galactic Racer’ Developers Hint Post-Launch Content is in Development",
+      "description": "Now that the engines are running for Star Wars: Galactic Racer, it’s been strongly indicated that the developers at Fuse The post ‘Star Wars: Galactic Racer’ Developers Hint Post-Launch Content is in Development appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/10/star-wars-galactic-racer-developers-hint-post-launch-content-is-in-development.html",
+      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/02/Star-Wars_-Galactic-Racer_Shift_KestarBool.png",
+      "date": "Mon, 19 Oct 2026 14:00:08 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "Review: ‘The Book Of Boba Fett’ #3 Packs A Wookiee Punch",
+      "description": "The Book of Boba Fett continues to be a solid adaptation of the Disney Plus series spin-off from The Mandalorian, capturing The post Review: ‘The Book Of Boba Fett’ #3 Packs A Wookiee Punch appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/10/review-the-book-of-boba-fett-3-packs-a-wookiee-punch.html",
+      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/10/BOBF_3_header-scaled.jpg",
+      "date": "Mon, 19 Oct 2026 12:37:28 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "Daniel Logan and Jake Lloyd Record a Message Thanking ‘Star Wars’ Fans",
+      "description": "Daniel Logan, who played a young Boba Fett in Attack of the Clones and in The Clone Wars animated series, The post Daniel Logan and Jake Lloyd Record a Message Thanking ‘Star Wars’ Fans appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/10/daniel-logan-and-jake-lloyd-record-a-message-thanking-star-wars-fans.html",
+      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/10/Young-Boba-Fett-Anakin-Skywalker.png",
+      "date": "Mon, 19 Oct 2026 12:00:27 +0000"
+    },
     {
       "category": "starwars",
       "source": "Star Wars News Net",
@@ -780,33 +807,6 @@
       "url": "https://www.starwarsnewsnet.com/2026/10/biddy-blas-actor-talks-bring-star-wars-galactic-racer-character-to-life-and-becoming-an-internet-sensation.html",
       "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/10/biddy-blas.jpeg",
       "date": "Fri, 16 Oct 2026 20:17:56 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars News Net",
-      "title": "Sebulba – ‘Star Wars’ Character Spotlight",
-      "description": "This Star Wars Character Spotlight is looking at Sebulba, the villainous Dug podracer from The Phantom Menace who raced against The post Sebulba – ‘Star Wars’ Character Spotlight appeared first on Star Wars News Net .",
-      "url": "https://www.starwarsnewsnet.com/2026/10/sebulba-star-wars-character-spotlight.html",
-      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/10/Sebulba-grinning-in-front-of-Anakins-podracer.jpeg",
-      "date": "Fri, 16 Oct 2026 15:00:36 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars News Net",
-      "title": "‘Ahsoka’ Season 2 – Dave Filoni Talks Nightsisters and Exploring “Weird” Force Mythology",
-      "description": "Dave Filoni gave an interview to Empire Magazine about Ahsoka Season 2. We covered the earlier released snippet about the The post ‘Ahsoka’ Season 2 – Dave Filoni Talks Nightsisters and Exploring “Weird” Force Mythology appeared first on Star Wars News Net .",
-      "url": "https://www.starwarsnewsnet.com/2026/10/ahsoka-season-2-dave-filoni-talks-nightsisters-and-exploring-weird-force-mythology.html",
-      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/08/Ahsoka-Anakin-fight-man-double-blade-lightsaber-scaled.png",
-      "date": "Thu, 15 Oct 2026 18:39:03 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars News Net",
-      "title": "Review – ‘Rogue One: Chirrut & Baze’ is Fun But Overly Simplistic",
-      "description": "Rogue One: Chirrut & Baze is the latest of the Rogue One one-shot comics celebrating the film’s 10th anniversary, but The post Review – ‘Rogue One: Chirrut & Baze’ is Fun But Overly Simplistic appeared first on Star Wars News Net .",
-      "url": "https://www.starwarsnewsnet.com/2026/10/review-rogue-one-chirrut-baze-is-fun-but-overly-simplistic.html",
-      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/10/Rogue-One-Chirrut-and-Baze-cover-cropped-scaled-e1792002498305.webp",
-      "date": "Wed, 14 Oct 2026 19:00:29 +0000"
     },
     {
       "category": "starwars",
@@ -1002,6 +1002,15 @@
     {
       "category": "youtube",
       "source": "Hood Informatik",
+      "title": "Jeder will, dass du KI entweder liebst oder fürchtest. Warum eigentlich?",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/Wb1GocgvZA0",
+      "image": "https://i.ytimg.com/vi/Wb1GocgvZA0/hqdefault.jpg",
+      "date": "2026-10-19T17:00:03+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
       "title": "Eine Werbeanzeige als Zero Click Exploit ?! #informatik #spy #cybersecurity #news #spyware",
       "description": "",
       "url": "https://www.youtube.com/shorts/pCVwu6ydZkQ",
@@ -1079,15 +1088,6 @@
       "url": "https://www.youtube.com/watch?v=l5SbBoauUNE",
       "image": "https://i.ytimg.com/vi/l5SbBoauUNE/hqdefault.jpg",
       "date": "2026-10-11T14:22:29+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Wie funktioniert paralleles editieren in einem Dokument mit mehreren Nutzern ?!",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/wSsIYKE_Zog",
-      "image": "https://i.ytimg.com/vi/wSsIYKE_Zog/hqdefault.jpg",
-      "date": "2026-10-10T16:15:28+00:00"
     },
     {
       "category": "youtube",
