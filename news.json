@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-19T04:26:20.448644+00:00",
+  "updated": "2026-10-19T10:10:24.169787+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Google ги преименува функциите во Gemini, Gems стануваат skills, а Spark сега се вика Task",
+      "description": "Google во изминатите недели смени имиња на неколку функции во апликацијата Gemini. Најголемата промена е кај Gems, прилагодените верзии на Gemini со сопствени инструкции, кои ги заменуваат „skills“. Skills беа претставени на 30 септември како зачувани инструкции за задачи што се повторуваат. За разлика од Gems, тие се користат директно во тековниот разговор, без менување „таб“ и […]",
+      "url": "https://smartportal.mk/novosti/ai/google-preimenuva-funkcii-vo-gemini/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/04/Gemini_for_MacOS_01_Hero_16x9.width-1200.format-webp-150x150.webp",
+      "date": "Mon, 19 Oct 2026 09:27:43 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Apple ги кани новинарите на 28 октомври за MacBook со екран на допир, пишува Гурман",
+      "description": "Apple почнале да праќаат покани до дел од новинарите за целодневно „искуство“ посветено на нови производи, кое ќе се одржи на 28 октомври во Лос Анџелес, објави Марк Гурман од Bloomberg на X. Според него, станува збор за MacBook уредите со екран на допир, новиот iPad mini и Mac компјутерите со M6 чипот. Тоа е еден ден […]",
+      "url": "https://smartportal.mk/novosti/kompjuteri/apple-gi-kani-novinarite-na-28-oktomvri-za-macbook-so-ekran-na-dopir/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/wes-hicks-ptXljygBu-0-unsplash-f-150x150.webp",
+      "date": "Mon, 19 Oct 2026 08:48:28 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Кои се омилените брендови на македонските потрошувачи? Почна јавното гласање за Superbrands Macedonia 2026/2027",
+      "description": "Секојдневно избираме производи и услуги на кои им веруваме, се враќаме на брендовите со кои имаме добро искуство и ги препорачуваме оние што ги исполнуваат нашите очекувања. Токму овие искуства и перцепции се важен дел од приказната за секој успешен бренд, а од вчера, 18 октомври, потрошувачите имаат можност и директно да го искажат своето […]",
+      "url": "https://smartportal.mk/novosti/nastani/pocna-javnoto-glasanje-za-superbrands-macedonia-2026-2027/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/pocna-javno-glasanje-Superbrands-Macedonia-2026-2027-150x150.webp",
+      "date": "Mon, 19 Oct 2026 08:07:01 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -66,174 +93,156 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Microsoft го донесе Defender на Linux десктоп компјутерите, засега во пробна верзија и само за компании",
-      "description": "Microsoft ја објави поддршката за Linux десктоп и лаптоп компјутерите во Microsoft Defender for Endpoint, нивната безбедносна платформа за компании. Станува збор за јавна пробна верзија („public preview“), која според листата на новитети е додадена во септември. Компанијата објаснува дека сè повеќе програмери користат Linux на своите компјутери, а тие станале примамлива цел за напаѓачите. Според Microsoft, ваквите машини […]",
-      "url": "https://smartportal.mk/novosti/softver-prog/microsoft-go-donese-defender-na-linux-desktop-kompjuterite/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/clipboard_image-1-1791909279385-150x150.webp",
-      "date": "Thu, 15 Oct 2026 12:48:18 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Колку го користиме потенцијалот на е-трговијата и вештачката интелигенција ?",
-      "description": "И покрај напредокот во дигиталната поврзаност, Западен Балкан сè уште заостанува во искористувањето на можностите на е-трговијата. Дигиталните вештини, навиките за плаќање и подготвеноста на компаниите за дигитална трансформација се меѓу клучните предизвици што ќе бидат во фокусот на деветтата Регионална конференција за е-трговија, на 3 ноември во Скопје. Земјите од Западен Балкан бележат значителен […]",
-      "url": "https://smartportal.mk/novosti/nastani/kolku-go-koristime-potencijalot-na-e-trgovijata-i-vi/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/reg-konf-e-trgovija-2025-1-150x150.webp",
-      "date": "Thu, 15 Oct 2026 12:26:15 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Startup Weekend Skopje се враќа по 14-ти пат: 54 часа за создавање на следната голема стартап идеја",
-      "description": "Од 6 до 8 ноември 2026 година, Скопје повторно ќе биде центар на иновациите, претприемништвото и новите технологии. По 14-ти пат, Techstars Startup Weekend Skopje ќе ги обедини идните претприемачи, креативци, програмери, дизајнери и сите оние кои сакаат својата идеја да ја претворат во реален бизнис. Овогодинешното издание ќе биде посветено на Artificial Intelligence (AI), […]",
-      "url": "https://smartportal.mk/novosti/nastani/startup-weekend-skopje-se-vrakja-po-14ti-pat/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/IMG_2670-150x150.webp",
-      "date": "Thu, 15 Oct 2026 12:11:52 +0000"
+      "source": "Time.mk - All",
+      "title": "(Видео) Ковачки: На 1 ноември очекуваме убедлива победа во Брвеница | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/7ce18d77d2/video-kovacki-na-1-noemvri-ocekuvame-ubedliva-pobeda-vo-brvenica.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/img_5595.webp",
+      "date": "Mon, 19 Oct 2026 09:25:02 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(ВИДЕО) Кандидатот на Влен отиде лично да му честита на ривалот од ДУИ за влезот во вториот круг во Брвеница | 360 степени",
+      "title": "(ВИДЕО) Млада кафеава мечка ослободена од нелегална примка и вратена во природата | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/9097e74040/video-kandidatot-na-vlen-otide-licno-da-mu-cestita-na-rivalot-od-dui-za-vlezot-vo-vtoriot-krug-vo-brvenica.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/10/Kandidatite-na-DUI-i-Vlen.jpg",
-      "date": "Sun, 18 Oct 2026 21:28:55 +0000"
+      "url": "https://time.mk/c/434494ab23/video-mlada-kafeava-mecka-oslobodena-od-nelegalna-primka-i-vratena-vo-prirodata.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/10/mece.jpg",
+      "date": "Mon, 19 Oct 2026 10:05:12 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Денеска без струја делови од општините Гази Баба, Ѓорче Петров и Чаир | Макфакс",
+      "title": "АНТРОПИК ФОРМИРА ФОНД ЗА ЈАВНA КОРИСТ СО КАПИТАЛ ОД 48 МИЛИЈАРДИ ДОЛАРИ Ќе ги ублажува и последиците од ВИ врз работните места | +инфо",
       "description": "",
-      "url": "https://time.mk/c/e144dff50d/deneska-bez-struja-delovi-od-opstinite-gazi-baba-gjorce-petrov-i-cair.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/01/struja-ashinjpg-dicJXIhP-rE-unsplash.jpg",
-      "date": "Mon, 19 Oct 2026 04:12:50 +0000"
+      "url": "https://time.mk/c/4c4761a33b/antropik-formira-fond-za-javna-korist-so-kapital-od-48-milijardi-dolari-ke-gi-ublazuva-i-posledicite-od-vi-vrz-rabotnite-mesta.html",
+      "image": "https://plusinfo.mk/wp-content/uploads/2026/09/antropik-lekovi.jpg",
+      "date": "Mon, 19 Oct 2026 09:12:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Спектакуларен пораст на гласовите за ДУИ на изборите во Брвеница. Тие се двојно зголемени | Независен",
+      "title": "КРИЗНАТА СОСТОЈБА СО НАФТАТА СЕ ПРОДОЛЖУВА ДО АПРИЛ | Економија и Бизнис",
       "description": "",
-      "url": "https://time.mk/c/72aafc326b/spektakularen-porast-na-glasovite-za-dui-na-izborite-vo-brvenica-tie-se-dvojno-zgolemeni.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/Arkin-Jahiji.jpg",
-      "date": "Sun, 18 Oct 2026 20:28:58 +0000"
+      "url": "https://time.mk/c/b635d09644/kriznata-sostojba-so-naftata-se-prodolzuva-do-april.html",
+      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/10/sobranienikolakarevsoznameto-1024x675.jpg",
+      "date": "Mon, 19 Oct 2026 09:57:16 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Мицкоски прогласи победа во Брвеница: „СДС е декласиран, разликата е поголема од 4 спрема 1“ | Скопје1",
+      "title": "Истовремено соопштение на ВМРО-ОКГ и на Платформата – ЗНАМ 2.0, ист ракопис, иста порака, велат од СДСМ | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/76d281f400/mickoski-proglasi-pobeda-vo-brvenica-sds-e-deklasiran-razlikata-e-pogolema-od-4-sprema-1.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/86474/conversions/text-max.jpg",
-      "date": "Sun, 18 Oct 2026 19:41:06 +0000"
+      "url": "https://time.mk/c/b7b0193bf1/istovremeno-soopstenie-na-vmro-okg-i-na-platformata-znam-2-0-ist-rakopis-ista-poraka-velat-od-sdsm.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2024/03/sdsm4.jpg",
+      "date": "Mon, 19 Oct 2026 08:44:56 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "(Видео) Кузеска: ВМРО – ОКГ ги објави резултатите од болните во Брвеница пред да се отворат кутиите | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/b10bbf8dd7/video-kuzeska-vmro-okg-gi-objavi-rezultatite-od-bolnite-vo-brvenica-pred-da-se-otvorat-kutiite.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/bogdanka-kuzeska-sdsm.webp",
+      "date": "Mon, 19 Oct 2026 09:50:55 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Од пазар до трпеза: Што откриваат контролите на АХВ за храната што ја јадеме? | Deutsche Welle",
+      "description": "",
+      "url": "https://time.mk/c/f205d76faf/od-pazar-do-trpeza-sto-otkrivaat-kontrolite-na-ahv-za-hranata-sto-ja-jademe.html",
+      "image": "https://static.dw.com/image/50561992_302.jpg",
+      "date": "Mon, 19 Oct 2026 10:05:11 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "На граѓаните лани им биле вратени околу 56,4 милиони евра | Вечер Прес",
+      "description": "",
+      "url": "https://time.mk/c/e280193c00/na-gragjanite-lani-im-bile-vrateni-okolu-56-4-milioni-evra.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/moj-ddv.jpg",
+      "date": "Mon, 19 Oct 2026 09:50:55 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Во Тирана на улица, во Белград на избори, македонските млади на аеродром | Трн",
+      "description": "",
+      "url": "https://time.mk/c/b9e60cb71c/vo-tirana-na-ulica-vo-belgrad-na-izbori-makedonskite-mladi-na-aerodrom.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/10/kufer-selenje.jpeg",
+      "date": "Mon, 19 Oct 2026 09:41:15 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Шест мигранти, меѓу кои и едно бебе, загинаа во судир на глисер и грчката крајбрежна стража | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/3463191dbf/sest-migranti-megju-koi-i-edno-bebe-zaginaa-vo-sudir-na-gliser-i-grckata-krajbrezna-straza.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/70696/conversions/n-missingisland-a-20181104-870x572-max.jpg",
+      "date": "Mon, 19 Oct 2026 06:24:53 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Немирите во Франција ги потресоа и берзите: Трговците бараат заштита, акциите паѓаат | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/4c4cdbed1f/nemirite-vo-francija-gi-potresoa-i-berzite-trgovcite-baraat-zastita-akciite-pagjaat.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2020/09/berza-1-300x169.jpg",
+      "date": "Mon, 19 Oct 2026 09:41:15 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "(Видео) „Врие“ и во Португалија?; Илјадници луѓе на улиците поради криза со домувањето | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/c9579e6738/video-vrie-i-vo-portugalija-iljadnici-lugje-na-ulicite-poradi-kriza-so-domuvanjeto.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/screenshot-2026-10-19-114614.webp",
+      "date": "Mon, 19 Oct 2026 09:49:13 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Улицата „Тодор Чангов“ во Лисиче без вода поради дефект | Независен",
+      "description": "",
+      "url": "https://time.mk/c/d648a913ad/ulicata-todor-cangov-vo-lisice-bez-voda-poradi-defekt.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2025/01/Voda-cesma-slavina-kapki-2-bg.jpg",
+      "date": "Mon, 19 Oct 2026 08:48:51 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Мајка тврди дека со 7-годишната ќерка била нападната од три кучиња кај Цементара: „За влакно избегнавме трагедија“ | Скопје инфо",
+      "description": "",
+      "url": "https://time.mk/c/53a878fe33/majka-tvrdi-deka-so-7-godisnata-kerka-bila-napadnata-od-tri-kucinja-kaj-cementara-za-vlakno-izbegnavme-tragedija.html",
+      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/oktomvri/image-262658.jpg?itok=U6_iIgEO",
+      "date": "Mon, 19 Oct 2026 08:06:39 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Малолетник во Штип возел мотоцикл на едно тркало без право на управување | Фактор",
+      "description": "",
+      "url": "https://time.mk/c/b4ecaa79bd/maloletnik-vo-stip-vozel-motocikl-na-edno-trkalo-bez-pravo-na-upravuvanje.html",
+      "image": "https://faktor.mk/media/main/2026/10/20261019114502.jpg",
+      "date": "Mon, 19 Oct 2026 09:46:50 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "21-годишен пешак тешко повреден откако бил удрен од автомобил во Гостивар | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/df25a79658/21-godisen-pesak-tesko-povreden-otkako-bil-udren-od-avtomobil-vo-gostivar.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/81769/conversions/text-max.jpg",
+      "date": "Mon, 19 Oct 2026 09:33:15 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
       "title": "ФОТО | До 15 часот гласале над 5.000 граѓани во Брвеница | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/8a8085e0c9/foto-do-15-casot-glasale-nad-5-000-gragjani-vo-brvenica.html",
+      "url": "https://time.mk/c/c265bb9312/foto-do-15-casot-glasale-nad-5-000-gragjani-vo-brvenica.html",
       "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/Naslovna-4-300x169.jpg",
       "date": "Sun, 18 Oct 2026 15:01:06 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ЗА ВТОР КРУГ ЌЕ ОДЛУЧИ ПРЕТСЕДАТЕЛСТВОТО НА ВЛЕН: Никогаш не сме правеле разлика кој ја менџира општината | Вечер",
-      "description": "",
-      "url": "https://time.mk/c/2a97eaa473/za-vtor-krug-ke-odluci-pretsedatelstvoto-na-vlen-nikogas-ne-sme-pravele-razlika-koj-ja-mendzira-opstinata.html",
-      "image": "",
-      "date": "Sun, 18 Oct 2026 19:42:38 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Вештачката интелигенција може да ја зголеми американската економија за речиси 50%, но цената може да ја почувствува пазарот на труд | Паноптикум",
-      "description": "",
-      "url": "https://time.mk/c/645c7fefb7/vestackata-inteligencija-moze-da-ja-zgolemi-amerikanskata-ekonomija-za-recisi-50-no-cenata-moze-da-ja-pocuvstvuva-pazarot-na-trud.html",
-      "image": "https://panoptikum.mk/wp-content/uploads/mladite-bogatstvoto-i-vi.webp",
-      "date": "Mon, 19 Oct 2026 01:05:06 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Инфлацијата е 2,7%, но семејната кошничка расте: каде се собира новиот ценовен притисок | Паноптикум",
-      "description": "",
-      "url": "https://time.mk/c/f651f57ecc/inflacijata-e-2-7-no-semejnata-kosnicka-raste-kade-se-sobira-noviot-cenoven-pritisok.html",
-      "image": "https://panoptikum.mk/wp-content/uploads/inflacija-vo-evropa.webp",
-      "date": "Mon, 19 Oct 2026 00:04:57 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Нападнато седиштето на Социјалистичката партија во Тирана – повредени 16 полицајци на шестиот ден од насилните протести | Вечер Прес",
-      "description": "",
-      "url": "https://time.mk/c/85255ba548/napadnato-sedisteto-na-socijalistickata-partija-vo-tirana-povredeni-16-policajci-na-sestiot-den-od-nasilnite-protesti.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/10/14368941.jpg",
-      "date": "Sun, 18 Oct 2026 20:22:37 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Авион од Тел Авив принудно слета во Софија поради дојава за бомба | Вечер Прес",
-      "description": "",
-      "url": "https://time.mk/c/563534e9f3/avion-od-tel-aviv-prinudno-sleta-vo-sofija-poradi-dojava-za-bomba.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/10/avion-okt26-pexels-drinu-cutajar-347725497-37748845-1.jpg",
-      "date": "Sun, 18 Oct 2026 20:18:50 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Макрон за војната на улиците во Франција: Оние што сакаа да ја срушат Републиката ќе платат | Рацин",
-      "description": "",
-      "url": "https://time.mk/c/2508b967f5/makron-za-vojnata-na-ulicite-vo-francija-onie-sto-sakaa-da-ja-srusat-republikata-ke-platat.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/10/makron-1600-848x475.jpg?x67987",
-      "date": "Mon, 19 Oct 2026 04:24:56 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Над 200 уапсени во немирите во Милано: Мелони свика состанок на владата за во понеделник | Вечер Прес",
-      "description": "",
-      "url": "https://time.mk/c/491574c818/nad-200-uapseni-vo-nemirite-vo-milano-meloni-svika-sostanok-na-vladata-za-vo-ponedelnik.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/09/meloni-09-26.jpg",
-      "date": "Sun, 18 Oct 2026 21:26:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Дел од Железара без вода | Проверено",
-      "description": "",
-      "url": "https://time.mk/c/4d9c95faec/del-od-zelezara-bez-voda.html",
-      "image": "https://provereno.mk/wp-content/uploads/2026/07/voda-300x169.webp",
-      "date": "Mon, 19 Oct 2026 04:16:56 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Еразмус крос во Градскиот парк, фокус на спортот и европските вредности | Либертас",
-      "description": "",
-      "url": "https://time.mk/c/f73e807fc4/erazmus-kros-vo-gradskiot-park-fokus-na-sportot-i-evropskite-vrednosti.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/erazmus-kros.jpg",
-      "date": "Sun, 18 Oct 2026 07:08:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Трагична сообраќајна несреќа во гостиварско: Патничко возило излетало од патот и удрило во метална конструкција – животот го загуби 59-годишен Гостиварец, сопатничката е тешко повредена | Вечер Прес",
-      "description": "",
-      "url": "https://time.mk/c/58c9240d5b/tragicna-soobrakajna-nesreka-vo-gostivarsko-patnicko-vozilo-izletalo-od-patot-i-udrilo-vo-metalna-konstrukcija-zivotot-go-zagubi-59-godisen-gostivarec-sopatnickata-e-tesko-povredena.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/10/lenta-stop-policija-6666-696x465-1.jpg",
-      "date": "Sun, 18 Oct 2026 18:10:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Три обиди за кражба во три тетовски џамии, уапсен 35-годишен маж | ТВ21",
-      "description": "",
-      "url": "https://time.mk/c/bf6514ef01/tri-obidi-za-krazba-vo-tri-tetovski-dzamii-uapsen-35-godisen-maz.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2026/10/dzamija-tetovo.png",
-      "date": "Sun, 18 Oct 2026 10:32:49 +0000"
     },
     {
       "category": "mkd",
@@ -247,32 +256,32 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(ВИДЕО) Проданоски: Се рехабилитира патот низ Мажучиште што ги поврзува Прилеп и Долнени | Репортер",
+      "title": "Писателката Ане Бјорн од Данска доаѓа во Скопје со четири работилници за деца | Независен",
       "description": "",
-      "url": "https://time.mk/c/3e48b0f0bd/video-prodanoski-se-rehabilitira-patot-niz-mazuciste-sto-gi-povrzuva-prilep-i-dolneni.html",
-      "image": "https://reporter.mk/wp-content/uploads/2026/10/final_100kb-300x159.jpeg",
-      "date": "Sat, 17 Oct 2026 18:18:37 +0000"
+      "url": "https://time.mk/c/f5206e42f9/pisatelkata-ane-bjorn-od-danska-doagja-vo-skopje-so-cetiri-rabotilnici-za-deca.html",
+      "image": "",
+      "date": "Mon, 19 Oct 2026 09:49:13 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Денес сите зборуваат само за неа и нејзината облека: Бојата, кројот и начинот на кој изгледа Теџани Тејлор, сè е врвно. | Попара",
+      "title": "ФМУ – Скопје со концерт на Катедрата за популарни жанрови одбележува 60 години постоење | Независен",
       "description": "",
-      "url": "https://time.mk/c/e921c1e278/denes-site-zboruvaat-samo-za-nea-i-nejzinata-obleka-bojata-krojot-i-nacinot-na-koj-izgleda-tedzani-tejlor-se-e-vrvno.html",
-      "image": "https://popara.mk/wp-content/uploads/2026/10/13833904.webp",
-      "date": "Sun, 18 Oct 2026 22:16:55 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Храброста да се крене гласот: Златко Каучич и Скопје за слободна Палестина на СЈФ 2026 | Окно",
-      "description": "",
-      "url": "https://time.mk/c/1053b50ff6/hrabrosta-da-se-krene-glasot-zlatko-kaucic-i-skopje-za-slobodna-palestina-na-sjf-2026.html",
-      "image": "https://okno.mk/sites/default/files/images/okno 2026-10-15 20.26.22.00_00_56_46.thumbnail.jpg",
-      "date": "Sun, 18 Oct 2026 19:53:01 +0000"
+      "url": "https://time.mk/c/5691525335/fmu-skopje-so-koncert-na-katedrata-za-popularni-zanrovi-odbelezuva-60-godini-postoenje.html",
+      "image": "https://provereno.mk/wp-content/uploads/2026/10/IMG-ae8d4ad292f2893ad3212492bfceee3a-V-212x300.jpg",
+      "date": "Mon, 19 Oct 2026 09:10:55 +0000"
     }
   ],
   "de": [
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Anzeige: Die Ukraine als Frühindikator: Warum Berichte über Cyberbedrohungen den ukrainischen Kontext brauchen",
+      "description": "Cyberbedrohungen 2026: Warum der ukrainische Kontext für europäische IT-Sicherheit entscheidend ist. Erfahren Sie mehr über Vorfallreaktion & SOC-Schutz. Der Artikel Anzeige: Die Ukraine als Frühindikator: Warum Berichte über Cyberbedrohungen den ukrainischen Kontext brauchen erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/advertorial/anzeige-die-ukraine-als-fruehindikator-warum-berichte-ueber-cyberbedrohungen-den-ukrainischen-kontext-brauchen-334510.html",
+      "image": "https://cdn.tarnkappe.info/wp-content/uploads/CyberLab-computer-forensics-laboratory.jpg",
+      "date": "Mon, 19 Oct 2026 06:59:31 +0000"
+    },
     {
       "category": "de",
       "source": "Tarnkappe",
@@ -443,15 +452,6 @@
       "url": "https://tarnkappe.info/artikel/it-sicherheit/github-leak-543699-zugangsdaten-334237.html",
       "image": "https://cdn.tarnkappe.info/wpimg/github-leak-543699-zugangsdaten",
       "date": "Thu, 01 Oct 2026 13:32:19 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "LaLiga will große VPN-Anbieter auf EU-Piraterie-Watchlist setzen",
-      "description": "Wegen der Affiliate-Werbung will LaLiga NordVPN, ProtonVPN, ExpressVPN und Surfshark auf die EU-Piraterie-Watchlist setzen. Der Artikel LaLiga will große VPN-Anbieter auf EU-Piraterie-Watchlist setzen erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/iptv/laliga-will-grosse-vpn-anbieter-auf-eu-piraterie-watchlist-setzen-334075.html",
-      "image": "https://cdn.tarnkappe.info/wp-content/uploads/barcelona-fussballer-laliga.jpg",
-      "date": "Thu, 01 Oct 2026 09:00:48 +0000"
     }
   ],
   "eng": [
@@ -638,6 +638,15 @@
     {
       "category": "eng",
       "source": "PCWorld",
+      "title": "Lifetime access to Microsoft Word, Excel, PowerPoint, and more is now just $49.97",
+      "description": "TL;DR : Get Word, Excel, PowerPoint, and more for life with a Microsoft Office Lifetime License , only $49.97 through November 1. Five years of Microsoft 365 Personal at $99.99 per year comes to about $500, and the subscription still ends the day you stop paying. Microsoft Office 2024 Pro Plus for Windows is a one-time purchase, and it’s on sale right now. A lifetime license is just $49.97 (reg. $249.99), about half the price of a single year of Microsoft 365. Word, Excel, PowerPoint, Outlook, O",
+      "url": "https://www.pcworld.com/article/3262892/lifetime-access-to-microsoft-word-excel-powerpoint-and-more-is-now-just-49-97.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3262892-0-02360000-1792396813-mso-2024-Pro-Plus-1.jpg?quality=50&strip=all",
+      "date": "Mon, 19 Oct 2026 08:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
       "title": "One AI subscription to replace them all is $99.99 for life",
       "description": "TL;DR: 1min.AI puts GPT-5.5 Pro, Claude 4.6 Sonnet, Gemini 3.1 Pro, and several other major AI models behind a single lifetime license for $99.99 (MSRP $540). Paying for ChatGPT, Claude, and Gemini separately costs well over $60 per month. 1min.AI bundles all three flagships and several more into one platform with a lifetime license for $99.99 (MSRP $540). Access the ideal AI model instantly for any workflow. Claude 4.6 Sonnet refines your written drafts, GPT-5.5 Pro handles extensive research q",
       "url": "https://www.pcworld.com/article/3262817/one-ai-subscription-to-replace-them-all-is-99-99-for-life.html",
@@ -715,15 +724,6 @@
       "url": "https://www.pcworld.com/article/3262571/your-laptop-lacks-an-sd-slot-this-10-anker-usb-c-reader-fixes-that.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3262571-0-47198100-1792161166-anker-microsd-plug.jpg?quality=50&strip=all",
       "date": "Fri, 16 Oct 2026 14:31:44 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Alienware’s $699 monitor finally fixes the thing I hate about OLEDs",
-      "description": "At a glance Expert's Rating Pros Gorgeous 32-inch 4K Tandem OLED panel that stuns for work and play alike Crisp text with virtually no color fringing Stunning contrast, colors, and blacks Excellent for both work and gaming Fantastic value at $699 Three-year warranty covers OLED burn-in Cons 165Hz is slower than competing gaming OLEDs DisplayPort 1.4 instead of 2.1 Limited USB-C docking options No built-in speakers Not ideal for hardcore competitive gamers Our Verdict Alienware’s $699 AW3226Q fin",
-      "url": "https://www.pcworld.com/article/3261900/alienware-aw3226q-review.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3261900-0-24716600-1792155639-Alienware-AW3226Q-16.jpg?quality=50&strip=all",
-      "date": "Fri, 16 Oct 2026 13:00:00 +0000"
     }
   ],
   "starwars": [
@@ -811,6 +811,24 @@
     {
       "category": "starwars",
       "source": "Star Wars Union",
+      "title": "Eiszeit für Taika Waititis Star-Wars-Film",
+      "description": "Aus dem bereits 2020 angekündigten Film wird erstmal nichts.",
+      "url": "https://starwars-union.de/eiszeit-fuer-taika-waititis-star-wars-film/",
+      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/01/Taika-Waititi.jpg",
+      "date": "Mon, 19 Oct 2026 07:34:23 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars Union",
+      "title": "Technik-Emmy für Industrial Light & Magic",
+      "description": "Diesmal steht die Benutzeroberfläche des Volumes im Zentrum der Aufmerksamkeit.",
+      "url": "https://starwars-union.de/technik-emmy-fuer-industrial-light-magic/",
+      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2025/03/20190717-emmys-2019-some.jpg",
+      "date": "Mon, 19 Oct 2026 07:22:44 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars Union",
       "title": "Wie das Star-Wars-Universum seine Form fand",
       "description": "Wir blicken zurück auf die Entstehung der ersten Karten der weit, weit entfernten Galaxis.",
       "url": "https://starwars-union.de/wie-das-star-wars-universum-seine-form-fand/",
@@ -882,21 +900,39 @@
     },
     {
       "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "John Knoll fachsimpelt über seine Karriere",
-      "description": "und schwärmt von Modellen als Goldstandard in digitalen Zeiten",
-      "url": "https://starwars-union.de/john-knoll-fachsimpelt-ueber-seine-karriere/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/07/John-Knoll-ILM-Effekte-The-Mandalorian-and-Grogu.jpg",
-      "date": "Tue, 29 Sep 2026 09:55:36 +0000"
+      "source": "Jedi News",
+      "title": "Taika Waititi Confirms His Star Wars Film Is On Ice Indefinitely",
+      "description": "While promoting his latest film “Klara and the Sun”, Taika Waititi has confirmed his Star Wars film, in development since 2020, is officially on ice, with at least four other movies in line for development by the filmmaker first. The post Taika Waititi Confirms His Star Wars Film Is On Ice Indefinitely appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/taika-waititi-confirms-his-star-wars-film-on-ice-indefinitely/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/01/Taika-Waititi-Sundance-Variety-Jan26-300x183.jpg",
+      "date": "Mon, 19 Oct 2026 09:10:07 +0000"
     },
     {
       "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "Gewinnspiel: 2×2 Wochenendtickets für die HiroCon",
-      "description": "Update: Die Gewinner stehen fest",
-      "url": "https://starwars-union.de/gewinnspiel-2x2-wochenendtickets-fuer-die-hirocon/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/09/HiroCon-Gewinnspiel.jpg",
-      "date": "Sun, 27 Sep 2026 14:43:31 +0000"
+      "source": "Jedi News",
+      "title": "Fangirls Going Rogue: Lucas Museum of Narrative Art",
+      "description": "Fangirls Going Rogue are back with their latest episode. The post Fangirls Going Rogue: Lucas Museum of Narrative Art appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/fangirls-going-rogue-lucas-museum-of-narrative-art/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2017/04/fggr_network_templatebanner_3-300x201.jpg",
+      "date": "Mon, 19 Oct 2026 06:57:06 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "This Weeks Publications – 19th October 2026",
+      "description": "Welcome to week 42 of 2026 and our list detailing what new publications to expect from a galaxy far, far away. The post This Weeks Publications – 19th October 2026 appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/literature/articles/this-weeks-publications-19th-october-2026/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/TFoKR3-FI-300x201.jpg",
+      "date": "Mon, 19 Oct 2026 04:01:19 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "The White Witch | Star Wars Vintage: Droids S1 E1 | Full Episode | Star Wars Kids",
+      "description": "After being jettisoned and abandoned on the corrosive salt flats of planet Ingo by a nefarious former owner, R2-D2 and C-3PO are rescued by new masters: good-natured speeder racers Jord Dusat & Thall Joben. Stream Star Wars Vintage: Droids on Disney+. The post The White Witch | Star Wars Vintage: Droids S1 E1 | Full Episode | Star Wars Kids appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/the-white-witch-star-wars-vintage-droids-s1-e1-full-episode-star-wars-kids/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/maxresdefault-30-300x169.jpg",
+      "date": "Sun, 18 Oct 2026 23:19:27 +0000"
     },
     {
       "category": "starwars",
@@ -960,43 +996,278 @@
       "url": "https://www.jedinews.com/podcasts/articles/rebel-force-radio-star-wars-starfighter-at-nycc-scrib-doon/",
       "image": "https://www.jedinews.com/wp-content/uploads/2018/04/rebel-force-radio-300x201.jpg",
       "date": "Sat, 17 Oct 2026 14:25:19 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Star Wars Comic Previews: October 21, 2026",
-      "description": "An early look inside the pages of the Marvel Comics and Dark Horse Comics Star Wars titles for release on October 21, 2026. The post Star Wars Comic Previews: October 21, 2026 appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/literature/articles/star-wars-comic-previews-october-21-2026/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/THRAP6-FI-300x201.jpg",
-      "date": "Sat, 17 Oct 2026 09:01:55 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Planet Leia Episode 30: I did miss you",
-      "description": "Get to know the Fantha Trackers from Planet Leia, here's episode 30 of their podcast. The post Planet Leia Episode 30: I did miss you appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/planet-leia-episode-30-i-did-miss-you/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2019/07/Planet-Leia-FT-300x201.jpg",
-      "date": "Sat, 17 Oct 2026 08:30:02 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Obi-Wan & Anakin vs. Grievous & Ventress | Lightsaber Legends Ep. 8 | Star Wars Kids",
-      "description": "Four warriors. Two battles. And one mission to take control of The Clone Wars! Watch this intense battle unfold as Obi-Wan Kenobi and Anakin Skywalker aim to stop Asajj Ventress and General Grievous from stealing valuable information from the Republic. The post Obi-Wan & Anakin vs. Grievous & Ventress | Lightsaber Legends Ep. 8 | Star Wars Kids appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/obi-wan-anakin-vs-grievous-ventress-lightsaber-legends-ep-8-star-wars-kids/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/maxresdefault-28-300x169.jpg",
-      "date": "Fri, 16 Oct 2026 23:17:42 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Skywalking Through Neverland #579: Luke Skywalker – PARIAH! Classic Marvel Star Wars Comic #62",
-      "description": "Join Skywalking Through Neverland duo Sarah and Richard for their latest episode (#579) discussing all the latest Star Wars and Disney news. The post Skywalking Through Neverland #579: Luke Skywalker – PARIAH! Classic Marvel Star Wars Comic #62 appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/skywalking-through-neverland-579-luke-skywalker-pariah-classic-marvel-star-wars-comic-62/",
-      "image": "",
-      "date": "Fri, 16 Oct 2026 16:59:52 +0000"
     }
   ],
-  "youtube": []
+  "youtube": [
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Eine Werbeanzeige als Zero Click Exploit ?! #informatik #spy #cybersecurity #news #spyware",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/pCVwu6ydZkQ",
+      "image": "https://i.ytimg.com/vi/pCVwu6ydZkQ/hqdefault.jpg",
+      "date": "2026-10-18T16:15:32+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Spannende Zeiten für alle iOS Bastler ^^ #informatik #cybersecurity #ios #iphone #news",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/2H_WBnTsrRw",
+      "image": "https://i.ytimg.com/vi/2H_WBnTsrRw/hqdefault.jpg",
+      "date": "2026-10-17T10:30:02+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Ein LTE Modul in einem Hardware Wallet ?! Was ist dieses Jahr eigentlich nicht passiert....",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/mDAHUbhpcFQ",
+      "image": "https://i.ytimg.com/vi/mDAHUbhpcFQ/hqdefault.jpg",
+      "date": "2026-10-16T10:15:25+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Ingenieur von OpenAI versteckt eine Wanze im Meetingraum der Chefs ?!",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/hY3sOk30uH0",
+      "image": "https://i.ytimg.com/vi/hY3sOk30uH0/hqdefault.jpg",
+      "date": "2026-10-15T10:00:24+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Hacker haben Supermarkt Kühltruhen in Frankreich auf 50 Grad aufgeheizt....",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/2eXYRwIPTgE",
+      "image": "https://i.ytimg.com/vi/2eXYRwIPTgE/hqdefault.jpg",
+      "date": "2026-10-14T10:15:06+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Wenn der Compiler deinen Code schwächt.... #informatik #code #programming #lernen #cybersecurity",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/N_muoVTYxQg",
+      "image": "https://i.ytimg.com/vi/N_muoVTYxQg/hqdefault.jpg",
+      "date": "2026-10-13T16:53:58+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Margaret Hamilton, eine der vielen großartigen Frauen in der Informatik ist von uns gegangen.",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/uM6aSJmTCbA",
+      "image": "https://i.ytimg.com/vi/uM6aSJmTCbA/hqdefault.jpg",
+      "date": "2026-10-12T16:00:18+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Was genau macht eigentlich AnyPS5 ?! #informatik #code #playstation #game #programming",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/DzSnqtFYpm4",
+      "image": "https://i.ytimg.com/vi/DzSnqtFYpm4/hqdefault.jpg",
+      "date": "2026-10-11T17:00:25+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Wird CODE jetzt wertlos ?!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=l5SbBoauUNE",
+      "image": "https://i.ytimg.com/vi/l5SbBoauUNE/hqdefault.jpg",
+      "date": "2026-10-11T14:22:29+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Wie funktioniert paralleles editieren in einem Dokument mit mehreren Nutzern ?!",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/wSsIYKE_Zog",
+      "image": "https://i.ytimg.com/vi/wSsIYKE_Zog/hqdefault.jpg",
+      "date": "2026-10-10T16:15:28+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Set Off Alarms in Abandoned Paper Mill",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=_2m_nAVaYSg",
+      "image": "https://i.ytimg.com/vi/_2m_nAVaYSg/hqdefault.jpg",
+      "date": "2026-09-30T17:00:15+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Exploring The Last Coal Power Plant in Connecticut Bridgeport Harbor Station",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=CR84XRBKBzs",
+      "image": "https://i.ytimg.com/vi/CR84XRBKBzs/hqdefault.jpg",
+      "date": "2026-08-27T17:00:39+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Rocketdyne Santa Susana Field Laboratory Abandoned America Space Race (1948)",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=0lka-0REQrQ",
+      "image": "https://i.ytimg.com/vi/0lka-0REQrQ/hqdefault.jpg",
+      "date": "2026-04-23T17:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition AMC Seats And Screens Left Behind",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=UnG29VothuQ",
+      "image": "https://i.ytimg.com/vi/UnG29VothuQ/hqdefault.jpg",
+      "date": "2026-03-27T21:09:35+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition Fly by In And Out",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=fDnOH8ZsfTg",
+      "image": "https://i.ytimg.com/vi/fDnOH8ZsfTg/hqdefault.jpg",
+      "date": "2026-03-27T20:40:08+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "AMC Westfield Promenade Mall Raw Demolition Drone Footage",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/5iA5R3Jq4g0",
+      "image": "https://i.ytimg.com/vi/5iA5R3Jq4g0/hqdefault.jpg",
+      "date": "2026-03-27T18:03:29+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition AMC Coming Down First!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=SAxjFGjTiHQ",
+      "image": "https://i.ytimg.com/vi/SAxjFGjTiHQ/hqdefault.jpg",
+      "date": "2026-03-23T17:42:38+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Beautiful Art Deco Theater",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=ccfU0LSmkj8",
+      "image": "https://i.ytimg.com/vi/ccfU0LSmkj8/hqdefault.jpg",
+      "date": "2026-03-11T20:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Decommissioned Power Station #synthwave #synth #retrowave #abandonedplaces",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/mOUbNSMoBJs",
+      "image": "https://i.ytimg.com/vi/mOUbNSMoBJs/hqdefault.jpg",
+      "date": "2025-06-17T17:55:51+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Wheel of Misfortune Three Kids Mine Demolition",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=VXRselqoN-8",
+      "image": "https://i.ytimg.com/vi/VXRselqoN-8/hqdefault.jpg",
+      "date": "2025-06-17T17:45:42+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Backup & Play Xbox 360 Games on a Modded Xbox 360 - Multi-Disc, DLC, XBLA & More!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=KYOZR0zotSc",
+      "image": "https://i.ytimg.com/vi/KYOZR0zotSc/hqdefault.jpg",
+      "date": "2026-10-10T17:00:36+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Softmod the Xbox 360 - Peer Pressure Beginner Setup for Homebrew, Backups, and More!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=G8ceM_xXlO8",
+      "image": "https://i.ytimg.com/vi/G8ceM_xXlO8/hqdefault.jpg",
+      "date": "2026-10-07T19:00:34+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Bad Storage Unauthenticated: Use Any HDD or SSD on Bad Update for Xbox 360!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=svNvWiJAjow",
+      "image": "https://i.ytimg.com/vi/svNvWiJAjow/hqdefault.jpg",
+      "date": "2026-10-03T17:00:02+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Mario's Minute 105 - Wiping Old Drives and XBOX's Disc to Digital Program",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=C0pBgwThC68",
+      "image": "https://i.ytimg.com/vi/C0pBgwThC68/hqdefault.jpg",
+      "date": "2026-09-30T17:00:10+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "AutoDNS: A Useful Network Safety Plugin for Bad Update & ABadAvatar Consoles",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=dgX6KUQy4jk",
+      "image": "https://i.ytimg.com/vi/dgX6KUQy4jk/hqdefault.jpg",
+      "date": "2026-09-26T17:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "PS5 Hypervisor Drama, Xbox 360 Softmod Details Revealed, Switch 2 Game Binary Dumped - ModChat 148",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=eMTjE6NIAAQ",
+      "image": "https://i.ytimg.com/vi/eMTjE6NIAAQ/hqdefault.jpg",
+      "date": "2026-09-23T17:00:08+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "XeUnshackle Max: Auto-Start, Custom Boot Animations, and More for Bad Update or ABadAvatar!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=P2hOdoLzQ38",
+      "image": "https://i.ytimg.com/vi/P2hOdoLzQ38/hqdefault.jpg",
+      "date": "2026-09-19T17:00:35+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Run ABadAvatar from an Internal Drive - ABadAvatar HDD Setup & Transfer",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=seOPwVF3YEM",
+      "image": "https://i.ytimg.com/vi/seOPwVF3YEM/hqdefault.jpg",
+      "date": "2026-09-12T17:00:38+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Enable Aurora's Hidden Splash Screen on a Modded Xbox 360",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/8JwsEdKQLz4",
+      "image": "https://i.ytimg.com/vi/8JwsEdKQLz4/hqdefault.jpg",
+      "date": "2026-09-09T17:00:30+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "ABadAvatar 1.3: Instant Bad Update on Boot for Xbox 360! - Upgrade & Usage Guide",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=nchLv_yS5wI",
+      "image": "https://i.ytimg.com/vi/nchLv_yS5wI/hqdefault.jpg",
+      "date": "2026-09-04T17:00:27+00:00"
+    }
+  ]
 }
