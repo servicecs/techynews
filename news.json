@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-21T12:16:51.715444+00:00",
+  "updated": "2026-10-21T17:33:59.147815+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "30 години од првото мобилно АЛО: Технологијата се менува, потребата да бидеме поврзани останува иста",
+      "description": "Се сеќавате ли на времето без мобилен телефон? Кога за одење во кино се договаравме однапред, кога не знаевме како ќе излеземе на фотографија, омилените песни ги чекавме на радио, а телефонските броеви ги запишувавме на лист хартија. 30 години од првото мобилно АЛО во Македонија. Во изминатите 30 години, начинот на кој комуницираме се […]",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/30-godini-od-prvoto-alo/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Vid_SCRN_1-150x150.webp",
+      "date": "Wed, 21 Oct 2026 16:58:21 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Настан на Global Macedonians на тема Startup Life: From Headaches to Headlines",
+      "description": "Global Macedonians ве кани на настанот „Startup Life: From Headaches to Headlines“, кој ќе се одржи на 30ти октомври со почеток во 18:00 часот во канцелариите на Сорсикс. Настанот ќе отвори искрен разговор за тоа што навистина е потребно за да се изгради, развие, финансира и успешно продаде стартап, низ искуствата на основачи и инвеститори. […]",
+      "url": "https://smartportal.mk/novosti/nastani/nastan-global-macedonians-na-tema-startup-life-from-headaches-to-headlines/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Startup-Life-event-cover-150x150.webp",
+      "date": "Wed, 21 Oct 2026 16:51:15 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -75,75 +93,66 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "„Учам – Полагам – Возам“ – РСБСП со едукативна кампања за идните млади возачи",
-      "description": "Во Република Македонија и покрај континуираните активности за унапредување на безбедноста на патиштата, сообраќајните незгоди и понатаму претставуваат сериозен општествен предизвик. Според податоците со кои располага РСБСП, во 2025 година на патиштата во државата животот го загубиле 132 лица. Во 2024 година, бројот на загинати изнесува 142 лица. Посебно внимание заслужува категоријата млади и возачи […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/ucam-polagam-vozam-rsbsp-kampanja/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Image-1-150x150.webp",
-      "date": "Tue, 20 Oct 2026 10:21:41 +0000"
+      "source": "Time.mk - All",
+      "title": "Предлог-закон за јавната администрација: Ќе се бара двотретинско мнозинство | 4NEWS",
+      "description": "",
+      "url": "https://time.mk/c/039cef434e/predlog-zakon-za-javnata-administracija-ke-se-bara-dvotretinsko-mnozinstvo.html",
+      "image": "https://4news.mk/wp-content/uploads/2025/01/administracija-1024x495.jpg",
+      "date": "Wed, 21 Oct 2026 16:40:40 +0000"
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Корисниците со Claude Code ги исклучуваат рекламите и непотребните апликации на своите Android телевизори",
-      "description": "Изминатите денови на X и GitHub се шират примери како корисниците со помош на агенти за програмирање, најчесто Claude Code, ги исклучуваат рекламите, следењето и однапред инсталираните апликации на своите паметни телевизори. Сè почна на 16 октомври, кога Рајан Дојл објави дека Claude Code му го „исчистил“ телевизорот, а потоа и колку побрзо работи. Ден подоцна програмерот Гатин […]",
-      "url": "https://smartportal.mk/novosti/softver-prog/korisnicite-so-claude-code-gi-isklucuvaat-reklamite-i-aplikaciite-od-android-tv/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Depositphotos_697763590_XL-150x150.webp",
-      "date": "Tue, 20 Oct 2026 09:57:36 +0000"
+      "source": "Time.mk - All",
+      "title": "СДСМ со реакција по одлуката на Уставниот суд: Александар Николовски најави 50.000 нови „економски работници“ годишно. Мицкоски ја дуплираше бројката, рече над 100.000 | Либертас",
+      "description": "",
+      "url": "https://time.mk/c/b7d108b939/sdsm-so-reakcija-po-odlukata-na-ustavniot-sud-aleksandar-nikolovski-najavi-50-000-novi-ekonomski-rabotnici-godisno-mickoski-ja-duplirase-brojkata-rece-nad-100-000.html",
+      "image": "https://libertas.mk/wp-content/uploads/2026/09/sdsm-1-960x540-1-585x329-1.jpg",
+      "date": "Wed, 21 Oct 2026 14:26:39 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Управниот одбор на „Лотарија“ не донел одлука за набавка на ВЛТ-терминалите, тврди сведок на Обвинителството | 24 Вести",
+      "description": "",
+      "url": "https://time.mk/c/fab528cb60/upravniot-odbor-na-lotarija-ne-donel-odluka-za-nabavka-na-vlt-terminalite-tvrdi-svedok-na-obvinitelstvoto.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1792591644/xvorlqffgwtvujhrxx6j.webp",
+      "date": "Wed, 21 Oct 2026 15:05:01 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
       "title": "СДСМ ги објаснува врските на Гренел, Мицкоски и лобистичката група „Валкур“ | Независен",
       "description": "",
-      "url": "https://time.mk/c/7fe62987e8/sdsm-gi-objasnuva-vrskite-na-grenel-mickoski-i-lobistickata-grupa-valkur.html",
+      "url": "https://time.mk/c/f129a4e8ad/sdsm-gi-objasnuva-vrskite-na-grenel-mickoski-i-lobistickata-grupa-valkur.html",
       "image": "https://nezavisen.mk/wp-content/uploads/2025/01/mickoski-grenel-2.jpg",
       "date": "Wed, 21 Oct 2026 11:20:57 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Минчев: ЗОРОДУ е чекор кон појасна и пофункционална државна управа | Кајгана",
+      "title": "Годинава се случува нешто невидено 11 години со поместувањето на часовникот – добиваме час повеќе за спиење, но последиците по здравјето се опасни! | Glamur",
       "description": "",
-      "url": "https://time.mk/c/835c112a63/mincev-zorodu-e-cekor-kon-pojasna-i-pofunkcionalna-drzavna-uprava.html",
-      "image": "https://kajgana.com/sites/default/files/styles/article_image_xxl/public/2026-10/ÐÐ¾ÑÐ°Ð½-ÐÐ¸Ð½ÑÐµÐ²-56ÑÑ456.jpg?itok=aiaDO1Ba",
-      "date": "Wed, 21 Oct 2026 11:58:50 +0000"
+      "url": "https://time.mk/c/a17fc8a85b/godinava-se-slucuva-nesto-nevideno-11-godini-so-pomestuvanjeto-na-casovnikot-dobivame-cas-poveke-za-spienje-no-posledicite-po-zdravjeto-se-opasni.html",
+      "image": "https://glamur.mk/wp-content/uploads/2025/06/budilnik-780x470.jpg",
+      "date": "Wed, 21 Oct 2026 16:52:42 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Најмладиот милионер има четири години, добил дивиденда од банка, најстариот 97 години, пензионер | Независен",
+      "title": "Родителите од „Пулс“: Обвинителството откри сериозни противречности во исказот на вештакот Русевски | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/145770e29d/najmladiot-milioner-ima-cetiri-godini-dobil-dividenda-od-banka-najstariot-97-godini-penzioner.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/elena-petrova-ujp.jpg",
-      "date": "Wed, 21 Oct 2026 12:12:54 +0000"
+      "url": "https://time.mk/c/b0d14794f3/roditelite-od-puls-obvinitelstvoto-otkri-seriozni-protivrecnosti-vo-iskazot-na-vestakot-rusevski.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1792591587/gzff3xpbt8zmhsnikcvw.jpg",
+      "date": "Wed, 21 Oct 2026 15:05:01 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Blic: Апсења во Србија - планирале немири, поседуваат хрватски пасоши | Кајгана",
+      "title": "Граѓаните и компаниите заглавени во кредити тешки речиси 10 милијарди евра | Колегиум",
       "description": "",
-      "url": "https://time.mk/c/c567086c3a/blic-apsenja-vo-srbija-planirale-nemiri-poseduvaat-hrvatski-pasosi.html",
-      "image": "https://kajgana.com/sites/default/files/styles/article_image_xxl/public/2026-10/Screenshot 2026-10-21 135902.png?itok=EpgK4fnS",
-      "date": "Wed, 21 Oct 2026 12:14:44 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Клековски: Се вакцинирав против сезонски грип – вакцинацијата е најдобра мерка за превенција на ова заболување | 24Инфо",
-      "description": "",
-      "url": "https://time.mk/c/86f4773e20/klekovski-se-vakcinirav-protiv-sezonski-grip-vakcinacijata-e-najdobra-merka-za-prevencija-na-ova-zaboluvanje.html",
-      "image": "https://24info.mk/wp-content/uploads/2026/10/izjf-1024x683.jpeg",
-      "date": "Wed, 21 Oct 2026 11:48:58 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Борбата со депониите без крај: чадот и натаму го загадува воздухот | Deutsche Welle",
-      "description": "",
-      "url": "https://time.mk/c/cd25fb7faf/borbata-so-deponiite-bez-kraj-cadot-i-natamu-go-zagaduva-vozduhot.html",
-      "image": "https://static.dw.com/image/73999411_301.jpg",
-      "date": "Wed, 21 Oct 2026 10:27:22 +0000"
+      "url": "https://time.mk/c/f59d44704d/gragjanite-i-kompaniite-zaglaveni-vo-krediti-teski-recisi-10-milijardi-evra.html",
+      "image": "https://kolegium.mk/wp-content/uploads/2026/03/denari-denar-pari-foto-sdsm-300x225.jpg",
+      "date": "Wed, 21 Oct 2026 16:52:42 +0000"
     },
     {
       "category": "mkd",
@@ -157,55 +166,46 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ЕЦБ ПРЕДУПРЕДУВА ЗА ЗГОЛЕМЕН РИЗИК НА ИНФЛАЦИЈА кај цените на храната | Пари",
+      "title": "Србија: Приведени пет лица под сомнение дека планирале насилство во Белград на изборниот ден | Либертас",
       "description": "",
-      "url": "https://time.mk/c/d51ec10b22/ecb-predupreduva-za-zgolemen-rizik-na-inflacija-kaj-cenite-na-hranata.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/10/Food.jpg",
-      "date": "Wed, 21 Oct 2026 08:08:39 +0000"
+      "url": "https://time.mk/c/ef4c8136f5/srbija-privedeni-pet-lica-pod-somnenie-deka-planirale-nasilstvo-vo-belgrad-na-izborniot-den.html",
+      "image": "https://libertas.mk/wp-content/uploads/2026/10/20261021163420_big_730x400_86.webp",
+      "date": "Wed, 21 Oct 2026 14:42:40 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВИДЕО: Новите столчиња за дијалог што ги постави албанскиот премиер Еди Рама, повторно беа искршени | ТВ21",
+      "title": "Рама: Оркестрираното насилство има поддршка од странски сили чија цел е да ја дестабилизираат Албанија и Европа | Либертас",
       "description": "",
-      "url": "https://time.mk/c/0308a2058d/video-novite-stolcinja-za-dijalog-sto-gi-postavi-albanskiot-premier-edi-rama-povtorno-bea-iskrseni.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2026/10/rama-stolcinja-novi-1024x689.jpg",
-      "date": "Wed, 21 Oct 2026 10:44:59 +0000"
+      "url": "https://time.mk/c/4207fa8c06/rama-orkestriranoto-nasilstvo-ima-poddrska-od-stranski-sili-cija-cel-e-da-ja-destabiliziraat-albanija-i-evropa.html",
+      "image": "https://libertas.mk/wp-content/uploads/2026/10/20261021163102_big_730x400_20.webp",
+      "date": "Wed, 21 Oct 2026 14:46:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Полицијци упаѓаат во станови на активисти, но не се повлекуваме пред режимот што заминува, велат од „Белград останува“ | Слободен Печат",
+      "title": "Русија ги отфрли предлозите на Украина и Европа за крај на војната, но е подготвена за нови разговори со САД и Киев | Deutsche Welle",
       "description": "",
-      "url": "https://time.mk/c/12901c5e75/policijci-upagjaat-vo-stanovi-na-aktivisti-no-ne-se-povlekuvame-pred-rezimot-sto-zaminuva-velat-od-belgrad-ostanuva.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/Foto-Beograd-ostaje--e1792583071231-300x195.jpg",
-      "date": "Wed, 21 Oct 2026 11:43:01 +0000"
+      "url": "https://time.mk/c/74f9c3a4b9/rusija-gi-otfrli-predlozite-na-ukraina-i-evropa-za-kraj-na-vojnata-no-e-podgotvena-za-novi-razgovori-so-sad-i-kiev.html",
+      "image": "https://static.dw.com/image/79722995_302.jpg",
+      "date": "Wed, 21 Oct 2026 14:44:58 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВИТКОФ ГО ЗАМОЛИ ПУТИН ДА РАЗМИСЛИ ЗА ПРОДОЛЖУВАЊЕ НА ПРЕГОВОРИТЕ СО УКРАИНА, ТОЈ СЕ ПОНУДИ ДА МУ ПОМОГНЕ НА ТРАМП ОКОЛУ ИРАН | Сакам да кажам",
+      "title": "Марио Драги за студентските протести во Европа: Младите имаат чувство дека никој не ги слуша | Независен",
       "description": "",
-      "url": "https://time.mk/c/f6886ff91b/vitkof-go-zamoli-putin-da-razmisli-za-prodolzuvanje-na-pregovorite-so-ukraina-toj-se-ponudi-da-mu-pomogne-na-tramp-okolu-iran.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/10/vitkof-putin-dpa2.jpeg",
-      "date": "Wed, 21 Oct 2026 11:54:44 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Нов корупциски скандал ја тресе Украина: Истражители извршија упад во Народната банка – гувернерот е главен осомничен | Вечер Прес",
-      "description": "",
-      "url": "https://time.mk/c/c63b82a776/nov-korupciski-skandal-ja-trese-ukraina-istraziteli-izvrsija-upad-vo-narodnata-banka-guvernerot-e-glaven-osomnicen.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/10/banka-na-ukraina-video.png",
-      "date": "Wed, 21 Oct 2026 12:06:39 +0000"
+      "url": "https://time.mk/c/739052416b/mario-dragi-za-studentskite-protesti-vo-evropa-mladite-imaat-cuvstvo-deka-nikoj-ne-gi-slusa.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/Tirana-protesti-6-bg.jpg",
+      "date": "Wed, 21 Oct 2026 16:40:40 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
       "title": "Се воспоставува платформа преку која на едно место ќе се следат сите проекти наменети за младите | Независен",
       "description": "",
-      "url": "https://time.mk/c/5afa7c9b40/se-vospostavuva-platforma-preku-koja-na-edno-mesto-ke-se-sledat-site-proekti-nameneti-za-mladite.html",
-      "image": "https://biznisvesti.mk/wp-content/uploads/2026/10/2-300x200.jpeg",
+      "url": "https://time.mk/c/3b5309a2f2/se-vospostavuva-platforma-preku-koja-na-edno-mesto-ke-se-sledat-site-proekti-nameneti-za-mladite.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/mladi.jpg",
       "date": "Wed, 21 Oct 2026 10:42:57 +0000"
     },
     {
@@ -213,66 +213,75 @@
       "source": "Time.mk - All",
       "title": "ЌЕ СЕ ПРОШИРУВА „ЛАЈКА“, ГРАДОТ БАРА НОВА ЛОКАЦИЈА Првичниот објект бил изграден на диво | +инфо",
       "description": "",
-      "url": "https://time.mk/c/c1b9900282/ke-se-prosiruva-lajka-gradot-bara-nova-lokacija-prvicniot-objekt-bil-izgraden-na-divo.html",
+      "url": "https://time.mk/c/d9b319b416/ke-se-prosiruva-lajka-gradot-bara-nova-lokacija-prvicniot-objekt-bil-izgraden-na-divo.html",
       "image": "https://plusinfo.mk/wp-content/uploads/2026/10/lajka.jpg",
       "date": "Wed, 21 Oct 2026 11:04:58 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Запленет лек за рак што бил шверцуван во автобус на граничниот премин Богородица | Мета",
+      "title": "Црвен аларм за меѓуврсничко насилство | Журнал",
       "description": "",
-      "url": "https://time.mk/c/8b171c300f/zaplenet-lek-za-rak-sto-bil-svercuvan-vo-avtobus-na-granicniot-premin-bogorodica.html",
-      "image": "https://meta.mk/wp-content/uploads/2014/12/carina.jpg",
-      "date": "Wed, 21 Oct 2026 11:36:55 +0000"
+      "url": "https://time.mk/c/24a49d51b4/crven-alarm-za-megjuvrsnicko-nasilstvo.html",
+      "image": "https://zurnal.mk/wp-content/uploads/2026/10/nasilstvo-1068x562.png",
+      "date": "Wed, 21 Oct 2026 17:16:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "13-годишно дете тешко повредено во Скопје: Со велосипед излетало од коловозот | Скопје инфо",
+      "title": "Куп насилства: Нападнати жени на автобуски постојки, 19-годишник натепан кај Градски парк, а жена во семејниот дом | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/045d3d1a97/13-godisno-dete-tesko-povredeno-vo-skopje-so-velosiped-izletalo-od-kolovozot.html",
-      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/oktomvri/image-262864.jpg?itok=jH0BlMUc",
-      "date": "Wed, 21 Oct 2026 11:30:42 +0000"
+      "url": "https://time.mk/c/825940f5d3/kup-nasilstva-napadnati-zeni-na-avtobuski-postojki-19-godisnik-natepan-kaj-gradski-park-a-zena-vo-semejniot-dom.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/86454/conversions/text-max.jpg",
+      "date": "Wed, 21 Oct 2026 11:08:57 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Манчев даде отчет за првата година од вториот мандат: Се реализираат проекти за канализација, водовод и патна инфраструктура во Општина Босилово | Press24",
+      "title": "Јапонија плати да се реновира покривот на битолско основно училиште | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/7314cabcae/mancev-dade-otcet-za-prvata-godina-od-vtoriot-mandat-se-realiziraat-proekti-za-kanalizacija-vodovod-i-patna-infrastruktura-vo-opstina-bosilovo.html",
-      "image": "",
-      "date": "Wed, 21 Oct 2026 09:50:59 +0000"
+      "url": "https://time.mk/c/6df4e55cf0/japonija-plati-da-se-renovira-pokrivot-na-bitolsko-osnovno-uciliste.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/bitola-donacija-japonija-300x173.jpg",
+      "date": "Wed, 21 Oct 2026 15:37:07 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Нови камери и заштитни огради на депонијата Краста – Димитриевски најави дополнителни мерки | Фактор",
+      "title": "Кој ќе ја добие наградата „4 Ноември“? | Тера",
       "description": "",
-      "url": "https://time.mk/c/103c17210a/novi-kameri-i-zastitni-ogradi-na-deponijata-krasta-dimitrievski-najavi-dopolnitelni-merki.html",
-      "image": "https://faktor.mk/media/main/2026/10/20261021124048.jpg",
-      "date": "Wed, 21 Oct 2026 10:42:57 +0000"
+      "url": "https://time.mk/c/b96fd5f18b/koj-ke-ja-dobie-nagradata-4-noemvri.html",
+      "image": "https://tera.mk/wp-content/uploads/2026/10/4-noemvri-150x150.jpg",
+      "date": "Wed, 21 Oct 2026 15:02:41 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "НЕЛА ВИТОШЕВИЌ НАГРАДЕНА ЗА НАЈДОБРА РЕЖИЈА ЗА СЛОВЕНЕЧКАТА ПРЕТСТАВА „ЗМЕЈ“ НА ФЕСТИВАЛ ВО НИШ | Сакам да кажам",
+      "title": "Страста и љубовта кон животот се носечките вредности во драмскиот текст „Три сестри во Москва“ | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/437a75fb78/nela-vitosevik-nagradena-za-najdobra-rezija-za-sloveneckata-pretstava-zmej-na-festival-vo-nis.html",
-      "image": "https://smart.sdk.mk/wp-content/uploads/2026/10/vitosevic-zmej-958x575.jpg",
-      "date": "Wed, 21 Oct 2026 11:17:00 +0000"
+      "url": "https://time.mk/c/d1b5312ab2/strasta-i-ljubovta-kon-zivotot-se-noseckite-vrednosti-vo-dramskiot-tekst-tri-sestri-vo-moskva.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/DT-Tri-sestri-Bojadzi-2026-Proba-01-web-300x169.jpg",
+      "date": "Wed, 21 Oct 2026 16:56:43 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Вечер на виолина и пијано на „Златна лира“ со Куфојанакис и Ангелова Христов | Трн",
+      "title": "САМАРЏИЕВ, ВРЧАК, ЈОВАНОВ, ТОНИ ЗЕН И ЛОБА ДЕЛ ОД ПЕЈАЧИТЕ НА МАКФЕСТ ВО ШТИП | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/ca8b0f98e6/vecer-na-violina-i-pijano-na-zlatna-lira-so-kufojanakis-i-angelova-hristov.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/10/zlatna-lira1.jpg",
-      "date": "Wed, 21 Oct 2026 09:26:58 +0000"
+      "url": "https://time.mk/c/3732d84d52/samardziev-vrcak-jovanov-toni-zen-i-loba-del-od-pejacite-na-makfest-vo-stip.html",
+      "image": "https://smart.sdk.mk/wp-content/uploads/2026/10/makfest-shtop-958x575.jpg",
+      "date": "Wed, 21 Oct 2026 15:44:51 +0000"
     }
   ],
   "de": [
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Denuvo gegen Voices38: Gericht genehmigt Vorladungen, Cracker legt nach",
+      "description": "Denuvo gegen Voices38: Gericht genehmigt neun statt 46 Datenanfragen. Der Cracker legt mit neuen Releases nach. Der Artikel Denuvo gegen Voices38: Gericht genehmigt Vorladungen, Cracker legt nach erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/gaming/denuvo-voices38-vorladungen-cracks-334569.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/denuvo-voices38-vorladungen-cracks",
+      "date": "Wed, 21 Oct 2026 16:19:57 +0000"
+    },
     {
       "category": "de",
       "source": "Tarnkappe",
@@ -443,18 +452,81 @@
       "url": "https://tarnkappe.info/artikel/rechtssachen/nca-ermittler-stiehlt-50-bitcoin-18-millionen-pfund-334258.html",
       "image": "https://cdn.tarnkappe.info/wpimg/nca-ermittler-stiehlt-50-bitcoin-18-millionen-pfund",
       "date": "Sun, 04 Oct 2026 15:23:34 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Gaming-Bann geerbt: Gebrauchte CPU sperrt neuen Besitzer aus",
-      "description": "Gaming-Bann geerbt: Ein Käufer erwirbt einen gebrauchten Ryzen 7 5800X3D und wird wegen einer Hardware-Sperre von Riot Games ausgesperrt. Der Artikel Gaming-Bann geerbt: Gebrauchte CPU sperrt neuen Besitzer aus erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/gaming/gaming-bann-geerbt-gebrauchte-cpu-riot-games-334249.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/gaming-bann-geerbt-gebrauchte-cpu-riot-games",
-      "date": "Sat, 03 Oct 2026 15:07:58 +0000"
     }
   ],
   "eng": [
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "The Best Apple Watch for Most People Is Over $100 Off",
+      "description": "The titanium Apple Watch Series 10 has dropped to its lowest price (after the most recent price hikes).",
+      "url": "https://lifehacker.com/tech/apple-watch-series-10-deal-october-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01JSCCEQAXDEY2SKGT5VJHH23D/hero-image.png",
+      "date": "Wed, 21 Oct 2026 17:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Everything You Should See Along With ‘You Can See Everything’",
+      "description": "A spoiler-free guide to getting the most out of this one-of-a-kind cinematic experience.",
+      "url": "https://lifehacker.com/entertainment/what-to-see-along-with-you-can-see-everything?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M5FKJHRP4ECF74TV866KYKY6/hero-image.jpg",
+      "date": "Wed, 21 Oct 2026 16:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "10 Hacks Ever Siri AI User Should Know",
+      "description": "Apple's revamped Siri is here, and some of its most useful features are easy to miss.",
+      "url": "https://lifehacker.com/tech/best-siri-ai-hacks?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M4WPDFHMSS5PXHPMA4AKRMCY/hero-image.jpg",
+      "date": "Wed, 21 Oct 2026 15:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Why Your Smartwatch Size Really Does Matter",
+      "description": "It's about accuracy, not just looks.",
+      "url": "https://lifehacker.com/health/why-your-smartwatch-size-matters?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M5DCW8B8P8HJ5JBPQJ4KFVS1/hero-image.jpg",
+      "date": "Wed, 21 Oct 2026 14:30:17 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Beware of These iPhone Duo Preorder Scams",
+      "description": "Scammers are capitalizing on the rush to obtain Apple's new foldable phone.",
+      "url": "https://lifehacker.com/money/iphone-duo-preorder-scams?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M5E83WPWYQGGBFWTQ9VR0YK5/hero-image.png",
+      "date": "Wed, 21 Oct 2026 14:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Take This Step Now to Avoid Being Locked Out of Your Spotify Family Account",
+      "description": "Spotify users with shared plans are being prompted to confirm their location via QR code scan.",
+      "url": "https://lifehacker.com/tech/you-may-have-to-verify-your-spotify-family-account?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M5DBSC8XJDDX9CMDQ0Z6BC63/hero-image.jpg",
+      "date": "Wed, 21 Oct 2026 13:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Amazon Basics Power Bank Is 67% Off Right Now",
+      "description": "The Amazon Basics 20,000mAh portable charger is $12.99 at Woot, down from $38.99.",
+      "url": "https://lifehacker.com/tech/amazon-basics-20000mah-power-bank-sale-october-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M5E9YN4HNM7XD1TXJ2J1JV4F/hero-image.jpg",
+      "date": "Wed, 21 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "The Amazon Fire HD 10 Tablet Is 53% Off Right Now",
+      "description": "Get a 10.1-inch display, 4GB RAM, and solid battery life for less than $75.",
+      "url": "https://lifehacker.com/tech/amazon-fire-hd-10-tablet-sale-october-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M289W2SFHM2SX1NFKPY1B59W/hero-image.jpg",
+      "date": "Wed, 21 Oct 2026 12:30:00 +0000"
+    },
     {
       "category": "eng",
       "source": "Lifehacker",
@@ -565,75 +637,75 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "These Sennheiser Wireless Headphones Are 32% Off Right Now",
-      "description": "The Sennheiser Momentum 4 are still great headphones, especially when they're nearly $100 off.",
-      "url": "https://lifehacker.com/tech/sennheiser-momentum-4-headphones-sale-october-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M5AQ6RDBTN0W9PKPWYNTTN0W/hero-image.png",
-      "date": "Mon, 19 Oct 2026 19:30:00 +0000"
+      "source": "PCWorld",
+      "title": "MSI’s RTX 5060 gaming laptop with 16GB DDR5 is down to $1,249",
+      "description": "NOW $250 OFF MSI Cyborg A15 Gaming Laptop View Deal Free time is limited, budgets are tight, so when you manage to carve out a bit of time for gaming, you should do it right. That can be tough if your gaming machine sucks, and upgrading has been hard this past year what with the massive price spikes on hardware. Right now, B&H is selling an MSI Cyborg A15 gaming laptop for $1,249 , which is $250 off its MSRP—maybe not the most dramatic discount we’ve ever seen, but that’s a solid drop at a time ",
+      "url": "https://www.pcworld.com/article/3266232/msi-rtx-5060-gaming-laptop-with-16gb-ddr5-is-down-to-1249.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3266232-0-11341500-1792601415-image.jpeg?quality=50&strip=all",
+      "date": "Wed, 21 Oct 2026 16:36:26 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "How to Prepare Now so the End of Daylight Saving Time Is Less Jarring",
-      "description": "Ready to \"fall back\" soon? Neither am I, but these tips will help.",
-      "url": "https://lifehacker.com/how-to-prepare-now-for-time-change?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01HF2GNWBPE1YBJXFJJJT533GZ/hero-image.jpg",
-      "date": "Mon, 19 Oct 2026 18:30:00 +0000"
+      "source": "PCWorld",
+      "title": "Nvidia and Microsoft want to kill PC gaming’s shader-stutter nightmare",
+      "description": "PC gaming’s shader-stutter nightmare might finally be heading to the grave. Nvidia’s new GeForce 621.01 driver adds support for Microsoft’s Advanced Shader Delivery technology, starting with Call of Duty: Modern Warfare 4 and Gears of War: E-Day . That might just sound like a bullet point buried in another Game Ready driver release—and it was, funnily enough—but it could wind up mattering a whole lot more than the usual day-one optimizations and DLSS updates. Nvidia says Advanced Shader Delivery",
+      "url": "https://www.pcworld.com/article/3266248/nvidia-and-microsoft-want-to-kill-pc-gamings-shader-stutter-nightmare.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3266248-0-40879200-1792599591-RTX-Spark-1-1.png",
+      "date": "Wed, 21 Oct 2026 16:19:41 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "How I'm Using the Time Change to Kickstart My Morning Exercise Routine",
-      "description": "Once a year, you can become a morning person without the extra effort.",
-      "url": "https://lifehacker.com/use-the-time-change-to-kickstart-a-morning-exercise-routine?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01HF2GV1ZQ2ZS9KFY29NP7VRS6/hero-image.jpg",
-      "date": "Mon, 19 Oct 2026 18:00:00 +0000"
+      "source": "PCWorld",
+      "title": "Best laptops 2026: Premium, budget, gaming, 2-in-1, and more",
+      "description": "PCWorld has been testing and writing about PCs since 1983. That’s a long time! Today, we put more than 70 laptops through our review process every year, covering everything from affordable everyday laptops to powerful gaming machines . That kind of hands-on experience matters when you’re trying to buy a laptop. What begins as a simple Google search can quickly spiral into a maze of complicated processor names, graphic cards, and other specs that can be difficult to make sense of. That’s where we",
+      "url": "https://www.pcworld.com/article/436674/best-pc-laptops.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/436674-0-93454900-1792598442-best-budget-laptops.jpg?quality=50&strip=all",
+      "date": "Wed, 21 Oct 2026 16:00:00 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "This Powerful Lenovo Laptop Is Down to $629 at Walmart",
-      "description": "The lightweight Lenovo pairs a powerful 10-core Intel processor with 16GB of RAM and a spacious 1TB SSD.",
-      "url": "https://lifehacker.com/tech/lenovo-v14-g5-laptop-sale-october-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M5AB12DHZZRYKK4VGT8YF7CY/hero-image.jpg",
-      "date": "Mon, 19 Oct 2026 16:03:37 +0000"
+      "source": "PCWorld",
+      "title": "Don’t use Gemini Nano in Chrome? Delete this file, reclaim up to 4GB",
+      "description": "You may have come across the “weights.bin” file while scanning your system with a disk space analyzer like WizTree . That file can be up to 4GB in size, located at this path: C:\\Users\\[username]\\AppData\\Local\\Google\\Chrome\\User Data\\OptGuideOnDeviceModel\\[version number] That [version number] might look like 2025.8.8.1141 , and it refers to the version number of Google’s Gemini Nano AI model—it may be different on your system. This AI model is a local model, so it runs on local hardware and does",
+      "url": "https://www.pcworld.com/article/3266103/dont-use-gemini-nano-in-chrome-delete-this-file-reclaim-up-to-4gb.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3266103-0-42230900-1792598280-Chrome_Hero.width-1200.format-webp.jpg?quality=50&strip=all",
+      "date": "Wed, 21 Oct 2026 15:56:51 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "10 Hacks Every AllTrails User Should Know",
-      "description": "These are the best tricks and tips for planning and navigating your routes.",
-      "url": "https://lifehacker.com/tech/hacks-every-alltrails-user-should-know?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M4XG4NJ1XKQ8NQR4AYECYXS0/hero-image.jpg",
-      "date": "Mon, 19 Oct 2026 15:30:57 +0000"
+      "source": "PCWorld",
+      "title": "AMD just gave your old Radeon GPU a new lease on life",
+      "description": "AMD’s FSR 4 upscaling technology was a revelation when it debuted last year, delivering the sort of crisp, clean visuals that finally let Radeon go toe-to-toe with Nvidia’s vaunted DLSS. The problem? It only worked on shiny new Radeon RX 9000-series graphics cards, and those are expensive in this RAM-crunched day and age. Say goodbye to that limitation. On Tuesday, AMD announced that FSR Upscaling 4.1 is spreading far and wide , adding support for everything from Ryzen laptops and gaming handhel",
+      "url": "https://www.pcworld.com/article/3266158/amd-just-gave-your-old-radeon-gpu-a-new-lease-on-life.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3266158-0-59140500-1792594635-radeon-6900.jpg?quality=50&strip=all",
+      "date": "Wed, 21 Oct 2026 14:57:03 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "I Tried the 'Normatec Go' Compression Boots, and My Calves Have Never Felt Better",
-      "description": "I can't imagine my recovery routine without them now.",
-      "url": "https://lifehacker.com/health/i-tried-the-normatec-go-compression-boots-and-my-calves-feel-great?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M5AA2SEW7XBF2J0DW20TQ266/hero-image.jpg",
-      "date": "Mon, 19 Oct 2026 15:00:55 +0000"
+      "source": "PCWorld",
+      "title": "Chrome 156 lets you ask Gemini about videos you’re watching",
+      "description": "In the most recent Chrome releases—version 156.0.8078.47/48 for Windows and macOS, and 156.0.8078.47 for Linux—Google has fixed over 350 security vulnerabilities, some of which are critical. Fortunately, none of them are being exploited in the wild. With Chrome 156, we also get “AI”-driven media understanding, though not a lot else. Chrome 157 is scheduled for release in two weeks. What’s new in Chrome 156? The only new feature in Chrome 156, according to the “What’s New” page, is something call",
+      "url": "https://www.pcworld.com/article/3266107/chrome-156-lets-you-ask-gemini-about-videos-youre-watching.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3266107-0-98939400-1792594027-Chrome-logo-on-pixelized-Chrome-logo.jpg?quality=50&strip=all",
+      "date": "Wed, 21 Oct 2026 14:46:55 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "Out-of-Touch Adults' Guide to Kid Culture: What Is 'Loser Core'?",
-      "description": "\"Loser Core,\" the moody music and anti-fashion subculture taking over TikTok, and more.",
-      "url": "https://lifehacker.com/entertainment/out-of-touch-adults-guide-to-kid-culture-what-is-loser-core?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M53K9KDVTHZY6NNWC61A1N6Q/hero-image.jpg",
-      "date": "Mon, 19 Oct 2026 13:30:00 +0000"
+      "source": "PCWorld",
+      "title": "Handy Backup Professional review: Robust backup with cloud support (and kinks)",
+      "description": "At a glance Expert's Rating Pros File backup and sync, disk imaging, disaster recovery Clean, attractive interface Excellent performance Online storage support as source and destination Cons Wouldn’t connect to Google Drive online User must invoke admin privileges for some tasks Imaging can’t skip empty sectors Our Verdict Handy Backup might’ve garnered an extra star had it been entirely glitch-free and a bit easier to learn. I still say “take a look” as the file backup and sync are top-notch. P",
+      "url": "https://www.pcworld.com/article/2581551/handy-backup-professional-review.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/2581551-0-13223700-1792593034-Handy-Backup-8.5-screen-hero.jpg?quality=50&strip=all",
+      "date": "Wed, 21 Oct 2026 14:30:00 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "This Dialogue-Enhancing Samsung Dolby Atmos Soundbar Is $400 Off Right Now",
-      "description": "This soundbar gives you clearer dialogue, fuller bass, and immersive Dolby Atmos audio for just under $700.",
-      "url": "https://lifehacker.com/tech/samsung-2026-hw-q800h-dolby-atmos-soundbar-sale-october-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M596WVMTBZJ9ZX0YPPMB82WR/hero-image.jpg",
-      "date": "Mon, 19 Oct 2026 13:00:00 +0000"
+      "source": "PCWorld",
+      "title": "AI vibe check: Searching for human signals at a San Francisco tech conference",
+      "description": "As I was developing my reporting plan for TechCrunch Disrupt last week, one key question loomed large in my head: Would I find any AI startups at this annual summit for fledgling tech companies? The conference is in San Francisco, after all, so finding AI tech might prove difficult. But I wanted to at least try. The preceding paragraph is, of course, insane. Sorry, but I had to go full ad absurdum to match the craziness of our cultural moment. Everything seems to be about AI right now. And San F",
+      "url": "https://www.pcworld.com/article/3264827/ai-vibe-check-searching-for-human-signals-at-a-san-francisco-tech-conference.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3264827-0-38279200-1792587628-Anastasiia-Romanova-Mosqitter-by-Kimberly-White-for-TechCrunch.jpg?quality=50&strip=all",
+      "date": "Wed, 21 Oct 2026 13:00:00 +0000"
     },
     {
       "category": "eng",
@@ -652,78 +724,6 @@
       "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/10/550968-0-21600500-1792582409-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
       "date": "Wed, 21 Oct 2026 11:33:19 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "MSI Stealth 16 AI+ review: A powerful gaming laptop in disguise",
-      "description": "At a glance Expert's Rating Pros High performance Excellent OLED screen Slim yet sturdy Good fan control Cons The fiddly MSI Center The speakers lack finesse Can be expensive Our Verdict The Stealth 16 AI+ is a gaming laptop that doubles as a discreet machine for creative work. Its superb OLED screen raises the bar for both entertainment and productivity. Price When Reviewed This value will show the geolocated pricing text for product undefined Best Pricing Today Best Prices Today: MSI Stealth 1",
-      "url": "https://www.pcworld.com/article/3262694/msi-stealth-16-ai-review.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3262694-0-49824000-1792580474-PXL_20261011_195952231.jpg?quality=50&strip=all",
-      "date": "Wed, 21 Oct 2026 11:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Remember the sounds of old tech? These delightful sites are keeping them alive",
-      "description": "You might not remember it, but the world used to be full of the sounds of technology. These days, consumer electronics are praised for their noiselessness. There’s something nostalgic about those old mechanical sounds—the screeching noise of your dial-up modem connecting to the internet or the satisfying clunk of a VHS tape inserted into a VCR. As these old technologies have disappeared, so have the noises that came with them. Fortunately, a few websites have made it their mission to keep these ",
-      "url": "https://www.pcworld.com/article/3257848/remember-the-sounds-of-old-tech-these-delightful-sites-are-keeping-them-alive.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3257848-0-50035900-1792578623-Lost-Sounds.jpg?quality=50&strip=all",
-      "date": "Wed, 21 Oct 2026 10:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "For $35, you can now get Microsoft Office and Windows 11 Pro for life",
-      "description": "TL;DR: Replace Windows 10 and your Microsoft 365 subscription with lifetime licenses to Windows 11 Pro and Office Professional 2021 , now $34.97 (reg. $418.99). Windows 10 first came out in 2015, and Microsoft 365 Personal still costs $99.99 a year just for basic apps like Word and Excel. This bundle replaces both with a lifetime license for Windows 11 Pro and a lifetime license for Microsoft Office Professional 2021, together for $34.97 (reg. $418.99). Windows 11 Pro moves your computer onto Mi",
-      "url": "https://www.pcworld.com/article/3264130/for-35-you-can-now-get-microsoft-office-and-windows-11-pro-for-life.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3264130-0-57833700-1792569645-ultimate-mso-x-win-1.jpg?quality=50&strip=all",
-      "date": "Wed, 21 Oct 2026 08:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Get ChatGPT, Claude, Gemini, and DeepSeek in one window for $59.97 for life",
-      "description": "TL;DR: A lifetime subscription to the ChatPlayground AI Unlimited Plan is $59.97 (reg. $619) through Oct. 25. Send one prompt to 20+ AI models, including ChatGPT, Claude, Gemini, and DeepSeek, and compare the answers. DeepSeek, ChatGPT, and Gemini each win some comparisons and lose others. The only way to know which one fits a task is to try them all. ChatPlayground AI puts more than 20 models in one browser window, and until Oct. 25 at 11:59 p.m. PT, you can get a lifetime Unlimited Plan for $5",
-      "url": "https://www.pcworld.com/article/3265115/get-chatgpt-claude-gemini-and-deepseek-in-one-window-for-59-97-for-life.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3265115-0-55137600-1792569672-ChatPlayground_f726db.jpg?quality=50&strip=all",
-      "date": "Wed, 21 Oct 2026 08:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Best PC computer deals: Top picks from desktops to all-in-ones",
-      "description": "At a glance Top gaming desktop computer deals ABS Cyclone Aqua —$849 (29% off on Walmart) CyberPowerPC Gamer Xtreme —$1,440 (10% off at Best Buy) Skytech Tempest —$2,430 (8% off at Walmart) Top mini PC deals Bosgame P6 —$530 (12% off on Amazon) Kamrui Pinova P2 —$350 (8% off on Amazon) Kamrui P2 —$569 (39% off on Amazon) Top all-in-one desktop computer deals Lenovo IdeaCentre 24 AiO —$800 (38% off on Amazon) HP OmniStudio 24 —$700 (36% off on Amazon) Lenovo Yoga AIO 32i —$1,470 (35% off on Lenov",
-      "url": "https://www.pcworld.com/article/813362/best-pc-computer-deals.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/813362-0-21683800-1792543679-pcw-desktoppc-prime-1.jpg?quality=50&strip=all",
-      "date": "Wed, 21 Oct 2026 00:47:50 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Hackers are hijacking Plex servers to mine crypto. Update ASAP",
-      "description": "Security researchers have discovered that hackers are actively exploiting four vulnerabilities in Plex Media Server, the popular app that’s used to stream films, TV shows, music, and other digital content from your own PC, server, or NAS device. Roll your own Netflix, in a sense. These security vulnerabilities have been collectively named Plex2Shell and can be combined to remotely execute malicious code on unpatched Plex servers, all without the attacker even needing to log in. According to Neow",
-      "url": "https://www.pcworld.com/article/3265049/hackers-are-hijacking-plex-servers-to-mine-crypto-update-asap.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3265049-0-38759800-1792567620-Plex.jpg?quality=50&strip=all",
-      "date": "Tue, 20 Oct 2026 17:07:17 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Anker’s new 10-in-1 laptop dock drops to $80 for the first time",
-      "description": "LOWEST PRICE EVER Anker 10-in-1 Docking Station View Deal If your laptop lacks a lot of ports, the most impactful upgrade you can make is a good docking station. Right now, this Anker 10-in-1 Docking Station is on sale for just $79.99, the first time it’s been discounted since it released back in September. This is its all-time lowest price and a good deal for the number of ports and power you’re getting with it. This docking station has a built-in cable that plugs right into your laptop’s USB-C",
-      "url": "https://www.pcworld.com/article/3265086/ankers-new-10-in-1-laptop-dock-drops-to-80-for-the-first-time.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3265086-0-49048800-1792513831-Anker-10-in-1.jpg?quality=50&strip=all",
-      "date": "Tue, 20 Oct 2026 16:30:18 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Windows 11’s audio bug that’s crashing games and apps is now fixed",
-      "description": "Back in September, Microsoft released optional preview update KB5124010, which caused issues with Windows 11’s built-in decoding of Dolby Digital AC-3 audio . The bug caused some games and apps to crash when changing volume or using certain audio functions. In some cases, apps and games even failed to launch. Most programs weren’t affected as long as they relied on their own audio decoding components. But for any that relied on the built-in offerings in Windows 11, a fix was desperately needed f",
-      "url": "https://www.pcworld.com/article/3265051/windows-11s-audio-bug-thats-crashing-games-and-apps-is-now-fixed.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3265051-0-65292200-1792511502-4_835d55.png",
-      "date": "Tue, 20 Oct 2026 15:48:53 +0000"
     }
   ],
   "starwars": [
@@ -807,96 +807,6 @@
       "url": "https://www.starwarsnewsnet.com/2026/10/daniel-logan-and-jake-lloyd-record-a-message-thanking-star-wars-fans.html",
       "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/10/Young-Boba-Fett-Anakin-Skywalker.png",
       "date": "Mon, 19 Oct 2026 12:00:27 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "Erste Schritte in eine größere Welt: Wie Marvel 1977 begann, eigene Star-Wars-Geschichten zu erzählen",
-      "description": "Aller Anfang ist schwer? Nicht für Marvel. Dort war man 1977 nach dem Erfolg der Comicadaption des Kinofilms davon überzeugt, dass die weit, weit entfernte Galaxis unendliche Möglichkeiten bot.",
-      "url": "https://starwars-union.de/erste-schritte-in-eine-groessere-welt-wie-marvel-1977-begann-eigene-star-wars-geschichten-zu-erzaehlen/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/10/Die-Acht-fuer-Aduba-3.jpg",
-      "date": "Wed, 21 Oct 2026 08:09:49 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "Gaming-Gerüchteküche: Mehr Racing-Content und ein neues Battlefront?",
-      "description": "Ein paar Insider-Vermutungen und etwaige Zitate aus den Chef-Ebenen lassen einstweilen aufhorchen ...",
-      "url": "https://starwars-union.de/gaming-geruechtekueche-mehr-racing-content-und-ein-neues-battlefront/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/10/Battlefront-Galactic-Racer-Geruechte.jpg",
-      "date": "Tue, 20 Oct 2026 16:07:07 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "Eiszeit für Taika Waititis Star-Wars-Film",
-      "description": "Aus dem bereits 2020 angekündigten Film wird erstmal nichts.",
-      "url": "https://starwars-union.de/eiszeit-fuer-taika-waititis-star-wars-film/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/01/Taika-Waititi.jpg",
-      "date": "Mon, 19 Oct 2026 07:34:23 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "Technik-Emmy für Industrial Light & Magic",
-      "description": "Diesmal steht die Benutzeroberfläche des Volumes im Zentrum der Aufmerksamkeit.",
-      "url": "https://starwars-union.de/technik-emmy-fuer-industrial-light-magic/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2025/03/20190717-emmys-2019-some.jpg",
-      "date": "Mon, 19 Oct 2026 07:22:44 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "Wie das Star-Wars-Universum seine Form fand",
-      "description": "Wir blicken zurück auf die Entstehung der ersten Karten der weit, weit entfernten Galaxis.",
-      "url": "https://starwars-union.de/wie-das-star-wars-universum-seine-form-fand/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/10/Karte-der-Galaxis.jpg",
-      "date": "Thu, 15 Oct 2026 12:10:48 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "Vorverkauf gestartet: Noris Force in Space",
-      "description": "Die Planetariums-Show im Januar in Nürnberg.",
-      "url": "https://starwars-union.de/vorverkauf-gestartet-noris-force-in-space/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/10/Noris-Force-in-Space-SomE.jpg",
-      "date": "Mon, 12 Oct 2026 10:57:42 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "NYCC 26: Überblick zum Lucasfilm Publishing Panel",
-      "description": "Jede Menge Begleitliteratur zum Starfighter-Kinofilm und 50. Jubiläum vom krieg der Sterne!",
-      "url": "https://starwars-union.de/nycc-26-ueberblick-zum-lucasfilm-publishing-panel/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/10/NYCC-2026-Lucasfilm-Publishing-Panel.jpeg",
-      "date": "Fri, 09 Oct 2026 18:25:25 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "Comic-Miniserie über Ezras Reise zurück in die Galaxis",
-      "description": "Versteckspielen auf der Schimäre in 5 Einzelheften.",
-      "url": "https://starwars-union.de/comic-miniserie-ueber-ezras-reise-zurueck-in-die-galaxis/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/10/Ahsoka-Escape-from-Thrawn-1.jpg",
-      "date": "Thu, 08 Oct 2026 07:41:11 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "Auf die Plätze, fertig… Galactic Racer ist ab sofort am Start",
-      "description": "Macht es besser als Anakin und würgt bloß nicht ab.",
-      "url": "https://starwars-union.de/auf-die-plaetze-fertig-galactic-racer-ist-ab-sofort-am-start/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/04/Galactic-Racer-SoMe-Banner.jpeg",
-      "date": "Tue, 06 Oct 2026 12:23:28 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "Galactic Racer: Noch einmal etwas Promo sowie ein Blick aufs Presse-Echo",
-      "description": "Top-Wertungen für den galaktischen Rennsimulator, mit einem Rekord, den seit über 20 Jahren keine SW-Game überboten hat!",
-      "url": "https://starwars-union.de/galactic-racer-noch-einmal-etwas-promo-sowie-ein-blick-aufs-presse-echo/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/10/Galactic-Racer-Podrenner-SoMe.jpg",
-      "date": "Sun, 04 Oct 2026 09:29:59 +0000"
     },
     {
       "category": "starwars",
@@ -996,6 +906,87 @@
       "url": "https://www.jedinews.com/film-music-tv/articles/guess-the-force-ghost-%f0%9f%91%bb-obi-wan-anakin-or-yoda-lego-star-wars-star-wars-kids/",
       "image": "https://www.jedinews.com/wp-content/uploads/2026/10/maxresdefault-31-300x169.jpg",
       "date": "Mon, 19 Oct 2026 23:20:49 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Din Djarin Meets Cobb Vanth | The Mandalorian | Official Clip",
+      "description": "Tensions escalate as Din Djarin finds Cobb Vanth, \"The Marshal\" of Mos Pelgo, on Tatooine. Stream The Mandalorian now on Disney+. The post Din Djarin Meets Cobb Vanth | The Mandalorian | Official Clip appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/din-djarin-meets-cobb-vanth-the-mandalorian-official-clip/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/maxresdefault-33-300x169.jpg",
+      "date": "Mon, 19 Oct 2026 21:55:24 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Enjoy Stuff: Fly vs Fly",
+      "description": "Jovial Jay and Shua bring you the latest episode of Enjoy Stuff: A TechnoRetro Podcast. The post Enjoy Stuff: Fly vs Fly appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/enjoy-stuff-fly-vs-fly/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2021/05/RetroZap-Enjoy-Stuff-Techno-Retro-Featured-Image-300x201.jpg",
+      "date": "Mon, 19 Oct 2026 21:22:56 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Event Review: Thank the Maker",
+      "description": "Thank the Maker was held on Saturday 17th October 2026 at St. Swithun's School, Winchester, UK. Mark Alders went along and gives us his thoughts on this event. The post Event Review: Thank the Maker appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/events/articles/event-review-thank-the-maker/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/06/Thank-the-Maker-Date-Reveal-Jun26-300x201.jpg",
+      "date": "Mon, 19 Oct 2026 19:01:00 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "The Secret Technique Behind Classic Star Wars Ships with Lorne Peterson | Adam Savage’s Tested",
+      "description": "Adam Savage sits down with legendary ILM model maker Lorne Peterson for a deep dive into the earliest days of Star Wars and Industrial Light & Magic; Lorne shared firsthand stories of cinematic model-making history. The post The Secret Technique Behind Classic Star Wars Ships with Lorne Peterson | Adam Savage’s Tested appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/the-secret-technique-behind-classic-star-wars-ships-with-lorne-peterson-adam-savages-tested/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/maxresdefault-32-300x169.jpg",
+      "date": "Mon, 19 Oct 2026 18:27:11 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Star Wars Fan Fun Day 2027: Andor’s Malcolm Sinclair Attending",
+      "description": "Andor's Malcolm Sinclair, Wullf Yularen in the Disney+ series, is the second guest announced as attending Star Wars Fan Fun Day on Bank Holiday Monday, May 3rd, 2027, at Blackburn Rovers Football Club, Premier Suite, Ewood Park, Nuttall Street, BB2 4JF. The post Star Wars Fan Fun Day 2027: Andor’s Malcolm Sinclair Attending appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/events/articles/star-wars-fan-fun-day-2027-andors-malcolm-sinclair-attending/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/Star-Wars-Fan-Fun-Day-Malcolm-Sinclair-Oct26-300x201.jpg",
+      "date": "Mon, 19 Oct 2026 10:19:02 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Starting Out with Star Wars: Unlimited Icons, Available November 20th",
+      "description": "Fantasy Flight Games takes a closer look at Icons 2027, the first Icons set for the Star Wars: Unlimited trading card game, providing a a fantastic entry point for new players with a slightly smaller set focusing on fan-favorite characters and straightforward mechanics. The post Starting Out with Star Wars: Unlimited Icons, Available November 20th appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/gaming/articles/starting-out-with-star-wars-unlimited-icons-available-november-20th/",
+      "image": "",
+      "date": "Mon, 19 Oct 2026 09:42:34 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Taika Waititi Confirms His Star Wars Film Is On Ice Indefinitely",
+      "description": "While promoting his latest film “Klara and the Sun”, Taika Waititi has confirmed his Star Wars film, in development since 2020, is officially on ice, with at least four other movies in line for development by the filmmaker first. The post Taika Waititi Confirms His Star Wars Film Is On Ice Indefinitely appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/taika-waititi-confirms-his-star-wars-film-on-ice-indefinitely/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/01/Taika-Waititi-Sundance-Variety-Jan26-300x183.jpg",
+      "date": "Mon, 19 Oct 2026 09:10:07 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Fangirls Going Rogue: Lucas Museum of Narrative Art",
+      "description": "Fangirls Going Rogue are back with their latest episode. The post Fangirls Going Rogue: Lucas Museum of Narrative Art appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/fangirls-going-rogue-lucas-museum-of-narrative-art/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2017/04/fggr_network_templatebanner_3-300x201.jpg",
+      "date": "Mon, 19 Oct 2026 06:57:06 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "This Weeks Publications – 19th October 2026",
+      "description": "Welcome to week 42 of 2026 and our list detailing what new publications to expect from a galaxy far, far away. The post This Weeks Publications – 19th October 2026 appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/literature/articles/this-weeks-publications-19th-october-2026/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/TFoKR3-FI-300x201.jpg",
+      "date": "Mon, 19 Oct 2026 04:01:19 +0000"
     }
   ],
   "youtube": [
@@ -1182,6 +1173,15 @@
     {
       "category": "youtube",
       "source": "MrMario2011",
+      "title": "PS5 13.60 Jailbreak & Hypervisor Exploit, Xbox 360 Softmod, Halo Ported to EVERYTHING - ModChat 149",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=-PXtg_eDYBY",
+      "image": "https://i.ytimg.com/vi/-PXtg_eDYBY/hqdefault.jpg",
+      "date": "2026-10-21T17:00:30+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
       "title": "How to Backup & Play Xbox 360 Games on a Modded Xbox 360 - Multi-Disc, DLC, XBLA & More!",
       "description": "",
       "url": "https://www.youtube.com/watch?v=KYOZR0zotSc",
@@ -1259,15 +1259,6 @@
       "url": "https://www.youtube.com/shorts/8JwsEdKQLz4",
       "image": "https://i.ytimg.com/vi/8JwsEdKQLz4/hqdefault.jpg",
       "date": "2026-09-09T17:00:30+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "ABadAvatar 1.3: Instant Bad Update on Boot for Xbox 360! - Upgrade & Usage Guide",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=nchLv_yS5wI",
-      "image": "https://i.ytimg.com/vi/nchLv_yS5wI/hqdefault.jpg",
-      "date": "2026-09-04T17:00:27+00:00"
     }
   ]
 }
