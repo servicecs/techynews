@@ -1,140 +1,50 @@
 {
-  "updated": "2026-10-22T00:07:40.420311+00:00",
+  "updated": "2026-10-22T05:13:32.542968+00:00",
   "mkd": [
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "30 години од првото мобилно АЛО: Технологијата се менува, потребата да бидеме поврзани останува иста",
-      "description": "Се сеќавате ли на времето без мобилен телефон? Кога за одење во кино се договаравме однапред, кога не знаевме како ќе излеземе на фотографија, омилените песни ги чекавме на радио, а телефонските броеви ги запишувавме на лист хартија. 30 години од првото мобилно АЛО во Македонија. Во изминатите 30 години, начинот на кој комуницираме се […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/30-godini-od-prvoto-alo/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Vid_SCRN_1-150x150.webp",
-      "date": "Wed, 21 Oct 2026 16:58:21 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Настан на Global Macedonians на тема Startup Life: From Headaches to Headlines",
-      "description": "Global Macedonians ве кани на настанот „Startup Life: From Headaches to Headlines“, кој ќе се одржи на 30ти октомври со почеток во 18:00 часот во канцелариите на Сорсикс. Настанот ќе отвори искрен разговор за тоа што навистина е потребно за да се изгради, развие, финансира и успешно продаде стартап, низ искуствата на основачи и инвеститори. […]",
-      "url": "https://smartportal.mk/novosti/nastani/nastan-global-macedonians-na-tema-startup-life-from-headaches-to-headlines/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Startup-Life-event-cover-150x150.webp",
-      "date": "Wed, 21 Oct 2026 16:51:15 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Нова теорија сугерира дека „заборавено тешко неутрино“ можело да влијае на победата на материјата над антиматеријата",
-      "description": "Според теоријата за Големата експлозија, на почетокот на универзумот требало да настанат еднакви количества материја и антиматерија, кои меѓусебно би се поништиле. Сепак, материјата преовладала, а како точно се случило тоа е едно од најголемите отворени прашања во физиката. Двајца физичари, Ришав Рошан од Универзитетот во Саутхемптон и Судипта Шоу од Индискиот технолошки институт во […]",
-      "url": "https://smartportal.mk/novosti/nauka-istrazuvanja/nova-teorija-za-pocetokot-na-univerzumot/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Depositphotos_104070202_XL-150x150.webp",
-      "date": "Wed, 21 Oct 2026 10:10:38 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Microsoft од јануари ќе ги блокира надворешните дискови форматирани со ReFS во Windows",
-      "description": "Microsoft објави дека со безбедносната надградба во јануари 2027 година Windows во основните поставки ќе ги блокира ReFS дисковите на преносливи и надворешно приклучени уреди, како „USB“ мемориите. Промената е опишана во документ за поддршка објавен на 13 октомври и важи за Windows 10, Windows 11 и Windows Server. ReFS (Resilient File System) е систем за датотеки […]",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/microsoft-od-januari-ke-gi-blokira-nadvoresnite-refs-disksovi/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Depositphotos_442583766_XL-150x150.webp",
-      "date": "Wed, 21 Oct 2026 09:43:24 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "OpenAI постепено воведува „заклучени разговори“ во ChatGPT што се отвораат со PIN или Face ID",
-      "description": "OpenAI во вторник почна постепено да ја воведува функцијата Locked Chats во ChatGPT, со која чувствителните разговори се кријат од „туѓите погледи“. Заклучениот разговор се преместува од вообичаената историја, закачените разговори и пребарувањето во посебен заштитен простор, кој се наоѓа во делот „Projects“ под името „Locked chats“. Според OpenAI, на интернет и во десктоп апликациите […]",
-      "url": "https://smartportal.mk/novosti/ai/openai-zakluceni-razgovori-chaatgpt/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/06/Depositphotos_692579234_XL-150x150.webp",
-      "date": "Wed, 21 Oct 2026 09:14:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Поранешен истражувач на OpenAI тврди дека AI моделите се многу поразбирливи отколку што се мислеше",
-      "description": "AI моделите долго се опишуваат како „црна кутија“, бидејќи ни нивните творци не можат точно да објаснат што прави секој нивен дел. Ник Камарата, истражувач во стартапот Goodfire кој претходно работел во OpenAI, во есејот „Neural Networks Are Already Clean“ објавен на 15 октомври тврди дека ситуацијата е многу подобра отколку што се мислело. Есејот се занимава […]",
-      "url": "https://smartportal.mk/novosti/ai/poranesen-istrazuvac-openai-tvrdi-deka-llm-se-porazbirlivi/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Depositphotos_648147082_XL-150x150.webp",
-      "date": "Wed, 21 Oct 2026 08:43:51 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Galaxy Z Flip8 како мал компјутер: Напредни Good Lock рутини, приспособени виџети и FlexWindow трикови",
-      "description": "Носењето преклоплив телефон одамна не е само прашање на стил или носталгија за „flip“ ерата – за секој вистински tech ентузијаст, тоа е целосно нов начин на интеракција со технологијата. Најголемиот потенцијал кај новиот Galaxy Z Flip8 лежи во неговиот проширен FlexWindow екран. Наместо само да служи за проверка на час и нотификации, со вистинските […]",
-      "url": "https://smartportal.mk/novosti/smartfoni/galaxy-z-flip8-kako-mal-kompjuter/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/215-lifestyle-product-galaxy-zfold8-zfold8-ultra-zflip8-1-3-150x150.webp",
-      "date": "Wed, 21 Oct 2026 08:05:08 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Се појавија името и спецификациите на телефонот на преклоп од Motorola, конкурент на iPhone Duo и Galaxy Z Fold8",
-      "description": "Motorola го подготвува својот прв широк телефон на преклоп, кој треба да им конкурира на iPhone Duo и Galaxy Z Fold8. Компанијата го покажа само како силуета во видео на X објавено за време на септемврискиот настан на Apple, а сега неофицијално се појавија името и речиси сите спецификации. Според неименувани извори на Android Headlines, телефонот внатрешно се вика razr flex, […]",
-      "url": "https://smartportal.mk/novosti/uredi/ime-i-specifikacii-motorola-na-preklop-kako-iphone-duo/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/motorola-rezr-flex-1-150x150.webp",
-      "date": "Tue, 20 Oct 2026 13:58:38 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Privacy Badger, бесплатниот додаток против следење од EFF, конечно стигна и на Safari на macOS",
-      "description": "Непрофитната организација за дигитални права Electronic Frontier Foundation (EFF) го објави Privacy Badger за Safari на macOS. Станува збор за бесплатен додаток што ги блокира скриените „тракери“ на веб страниците, а според EFF го користат повеќе од 4 милиони луѓе. Додатокот бара Safari 26.5 или понова верзија и се инсталира преку App Store. Таму е бесплатен […]",
-      "url": "https://smartportal.mk/novosti/softver-prog/privacy-badger-stigna-na-safari-na-macos/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/badger-safari-3-150x150.webp",
-      "date": "Tue, 20 Oct 2026 12:40:37 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Тројца научници ја добија Нобеловата награда за медицина за контрола на нервните клетки со светлина",
-      "description": "Нобеловото собрание при институтот Каролинска на 5 октомври ги прогласи Карл Дајсерот од Универзитетот Стенфорд, Петер Хегеман од Хумболтовиот универзитет во Берлин и Георг Нагел од Универзитетот во Вирцбург за добитници на Нобеловата награда за физиологија или медицина за 2026 година. Наградата е за откритијата поврзани со јонските канали што се отвораат на светлина и за оптогенетиката, […]",
-      "url": "https://smartportal.mk/novosti/nauka-istrazuvanja/trojca-naucnici-nobelova-nagrada-kontrola-nervni-kletki-svetlina/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Depositphotos_378611516_XL-150x150.webp",
-      "date": "Tue, 20 Oct 2026 12:19:57 +0000"
+      "source": "Time.mk - All",
+      "title": "Против компанијата „Мета“ поднесена колективна тужба пред Федералниот суд на Австралија | Бизнис Вести",
+      "description": "",
+      "url": "https://time.mk/c/ef8915a16b/protiv-kompanijata-meta-podnesena-kolektivna-tuzba-pred-federalniot-sud-na-avstralija.html",
+      "image": "https://biznisvesti.mk/wp-content/uploads/2026/05/Meta-lockup-positive-primary-RGB-300x129.webp",
+      "date": "Thu, 22 Oct 2026 05:12:39 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Опасен безбедносен пропуст „исклучи“ бројни владини веб-сајтови во Европа | Слободен Печат",
+      "title": "Доста од реклами на паметниот телевизор: Бесплатна алатка го менува интерфејсот без „рутирање“ | Трн",
       "description": "",
-      "url": "https://time.mk/c/4346ae4b74/opasen-bezbednosen-propust-iskluci-brojni-vladini-veb-sajtovi-vo-evropa.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2021/11/zanimlivost-internet-testatura-zakon-profimedia-300x210.jpg",
-      "date": "Wed, 21 Oct 2026 20:33:02 +0000"
+      "url": "https://time.mk/c/fca275178b/dosta-od-reklami-na-pametniot-televizor-besplatna-alatka-go-menuva-interfejsot-bez-rutiranje.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/10/pexels-karola-g-5202925.jpg",
+      "date": "Thu, 22 Oct 2026 04:43:08 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - Magazin",
+      "title": "Забрзува растот на продажбата на автомобили во Европа, кинеските марки освојуваат пазарен удел | Bloomberg Adria",
+      "description": "",
+      "url": "https://time.mk/c/d379890067/zabrzuva-rastot-na-prodazbata-na-avtomobili-vo-evropa-kineskite-marki-osvojuvaat-pazaren-udel.html",
+      "image": "https://mk.bloombergadria.com/data/images/2026-10-22/118972_471935786_f.jpg?timestamp=1792620000",
+      "date": "Thu, 22 Oct 2026 05:00:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Предлог-закон за јавната администрација: Ќе се бара двотретинско мнозинство | 4NEWS",
+      "title": "ОпенАИ откри дека негови АИ-агенти го исклучувале безбедносниот надзор | Трн",
       "description": "",
-      "url": "https://time.mk/c/ad3a980b84/predlog-zakon-za-javnata-administracija-ke-se-bara-dvotretinsko-mnozinstvo.html",
-      "image": "https://4news.mk/wp-content/uploads/2025/01/administracija-1024x495.jpg",
-      "date": "Wed, 21 Oct 2026 16:40:40 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - Sport",
-      "title": "ВИДЕО | Баерн и Арсенал одиграа „шаховска партија“ во Минхен, Реал со четири гола го реши Лајпциг | Слободен Печат",
-      "description": "",
-      "url": "https://time.mk/c/758f526988/video-baern-i-arsenal-odigraa-sahovska-partija-vo-minhen-real-so-cetiri-gola-go-resi-lajpcig.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/photo-collage.png-9-300x225.png",
-      "date": "Wed, 21 Oct 2026 21:55:11 +0000"
+      "url": "https://time.mk/c/18360f29b5/openai-otkri-deka-negovi-ai-agenti-go-isklucuvale-bezbednosniot-nadzor.html",
+      "image": "https://trn.mk/wp-content/uploads/2025/02/openai.webp",
+      "date": "Thu, 22 Oct 2026 04:23:14 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Молотови коктели и камења кон Владата на деветтиот ден од протестите во Тирана | Колегиум",
+      "title": "Силно невреме со пороен дожд и грмежи ја зафаќа Македонија – од недела нов бран врнежи и заладување | 4NEWS",
       "description": "",
-      "url": "https://time.mk/c/b4c71a7e0a/molotovi-kokteli-i-kamenja-kon-vladata-na-devettiot-den-od-protestite-vo-tirana.html",
-      "image": "https://kolegium.mk/wp-content/uploads/2026/10/tirana-protest-2-foto-printskrin-Tirana-tajms-300x201.jpg",
-      "date": "Wed, 21 Oct 2026 21:43:07 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Уставeн ја отфрли иницијативата на СДСМ – Резолуцијата на ВМРО-ДПМНЕ против нелегалната миграција е политичка | Слободен Печат",
-      "description": "",
-      "url": "https://time.mk/c/584d7331b5/ustaven-ja-otfrli-inicijativata-na-sdsm-rezolucijata-na-vmro-dpmne-protiv-nelegalnata-migracija-e-politicka.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2024/09/ustaven-sud-1-300x185.jpg",
-      "date": "Wed, 21 Oct 2026 11:44:57 +0000"
+      "url": "https://time.mk/c/3a71d1b256/silno-nevreme-so-poroen-dozd-i-grmezi-ja-zafaka-makedonija-od-nedela-nov-bran-vrnezi-i-zaladuvanje.html",
+      "image": "https://4news.mk/wp-content/uploads/2026/07/dozd-1--1024x768.avif",
+      "date": "Thu, 22 Oct 2026 05:04:47 +0000"
     },
     {
       "category": "mkd",
@@ -148,65 +58,56 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Граѓаните и компаниите заглавени во кредити тешки речиси 10 милијарди евра | Колегиум",
+      "title": "Почнува амандманската расправа за Предлогот за изменување и дополнување на Буџетот | Бизнис Вести",
       "description": "",
-      "url": "https://time.mk/c/9b2b3c9137/gragjanite-i-kompaniite-zaglaveni-vo-krediti-teski-recisi-10-milijardi-evra.html",
-      "image": "https://kolegium.mk/wp-content/uploads/2026/03/denari-denar-pari-foto-sdsm-300x225.jpg",
-      "date": "Wed, 21 Oct 2026 16:52:42 +0000"
+      "url": "https://time.mk/c/2b8f21bbaa/pocnuva-amandmanskata-rasprava-za-predlogot-za-izmenuvanje-i-dopolnuvanje-na-budzetot.html",
+      "image": "https://biznisvesti.mk/wp-content/uploads/2026/02/alexas_fotos-money-1508454_640-300x200.jpg",
+      "date": "Thu, 22 Oct 2026 05:02:57 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Ќе плаќаме повисоки сметки за парно и струја?! | Вечер Прес",
+      "title": "Дваесет години автопатски ветувања: од „готово до 2018“ до новите рокови во 2027 и 2029 година | Рацин",
       "description": "",
-      "url": "https://time.mk/c/3c9bfa6d2a/ke-plakame-povisoki-smetki-za-parno-i-struja.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/10/1-9.jpg",
-      "date": "Wed, 21 Oct 2026 10:18:58 +0000"
+      "url": "https://time.mk/c/032ec9a47a/dvaeset-godini-avtopatski-vetuvanja-od-gotovo-do-2018-do-novite-rokovi-vo-2027-i-2029-godina.html",
+      "image": "https://racin.mk/wp-content/uploads/2025/05/koridor-8.webp?x54397",
+      "date": "Thu, 22 Oct 2026 04:43:08 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Режимот во Србија апси активисти пред изборите во недела, поради наводен планиран хаос | Трн",
+      "title": "Грција се крена на нозе, ген З велат доста е | Рацин",
       "description": "",
-      "url": "https://time.mk/c/cd86ec770e/rezimot-vo-srbija-apsi-aktivisti-pred-izborite-vo-nedela-poradi-navoden-planiran-haos.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/09/studenti-srbija.jpg",
-      "date": "Wed, 21 Oct 2026 19:02:59 +0000"
+      "url": "https://time.mk/c/ce76fc468a/grcija-se-krena-na-noze-gen-z-velat-dosta-e.html",
+      "image": "https://racin.mk/wp-content/uploads/2026/10/whatsapp-image-2026-10-21-at-21.26.44-848x441.jpeg?x54397",
+      "date": "Thu, 22 Oct 2026 04:27:20 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "По Франција и Албанија, 10.000 млади на протест и во Атина | Трн",
+      "title": "Молотови коктели и камења кон Владата на деветтиот ден од протестите во Тирана | Колегиум",
       "description": "",
-      "url": "https://time.mk/c/c14b91e7be/po-francija-i-albanija-10-000-mladi-na-protest-i-vo-atina.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/10/grczija.jpg",
-      "date": "Wed, 21 Oct 2026 17:42:48 +0000"
+      "url": "https://time.mk/c/b4c71a7e0a/molotovi-kokteli-i-kamenja-kon-vladata-na-devettiot-den-od-protestite-vo-tirana.html",
+      "image": "https://kolegium.mk/wp-content/uploads/2026/10/tirana-protest-2-foto-printskrin-Tirana-tajms-300x201.jpg",
+      "date": "Wed, 21 Oct 2026 21:43:07 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Русија е подготвена да ги продолжи разговорите со САД и Украина за прекин на конфликтот | 360 степени",
+      "title": "Путин прифати продолжување на трилатералните разговори со Украина и САД во ноември | Паноптикум",
       "description": "",
-      "url": "https://time.mk/c/289685553b/rusija-e-podgotvena-da-gi-prodolzi-razgovorite-so-sad-i-ukraina-za-prekin-na-konfliktot.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/10/14379437.jpg",
-      "date": "Wed, 21 Oct 2026 21:18:42 +0000"
+      "url": "https://time.mk/c/02d8969a0b/putin-prifati-prodolzuvanje-na-trilateralnite-razgovori-so-ukraina-i-sad-vo-noemvri.html",
+      "image": "https://panoptikum.mk/wp-content/uploads/mozhni-pregovori-rusija-ukraina-sad.webp",
+      "date": "Thu, 22 Oct 2026 04:07:19 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Макрон ќе ги употреби „сите средства“ за да се спречат инциденти на протестите во сабота | Независен",
+      "title": "АфД сака радикално реструктуирање на ЕУ | Проверено",
       "description": "",
-      "url": "https://time.mk/c/7b5431e346/makron-ke-gi-upotrebi-site-sredstva-za-da-se-sprecat-incidenti-na-protestite-vo-sabota.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/04/Emanuel-makron1.jpg",
-      "date": "Wed, 21 Oct 2026 14:48:56 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Се воспоставува платформа преку која на едно место ќе се следат сите проекти наменети за младите | Независен",
-      "description": "",
-      "url": "https://time.mk/c/3b5309a2f2/se-vospostavuva-platforma-preku-koja-na-edno-mesto-ke-se-sledat-site-proekti-nameneti-za-mladite.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/mladi.jpg",
-      "date": "Wed, 21 Oct 2026 10:42:57 +0000"
+      "url": "https://time.mk/c/c49857d75c/afd-saka-radikalno-restruktuiranje-na-eu.html",
+      "image": "https://provereno.mk/wp-content/uploads/2026/09/ÐÐµÑÐ¼Ð°Ð½Ð¸ÑÐ°-ÐÐ¤Ð-Ð¤Ð-300x203.jpg",
+      "date": "Thu, 22 Oct 2026 05:10:58 +0000"
     },
     {
       "category": "mkd",
@@ -216,6 +117,15 @@
       "url": "https://time.mk/c/7312944da8/gradonacalnikot-na-aerodrom-ja-objavi-kako-primer-za-neodgovornost-taa-mu-vrati-vo-komentar-ocekuvam-izvinuvanje-plateno-mi-e.html",
       "image": "https://4news.mk/wp-content/uploads/2026/10/screenshot_5-7.avif",
       "date": "Wed, 21 Oct 2026 20:04:37 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Се воспоставува платформа преку која на едно место ќе се следат сите проекти наменети за младите | Независен",
+      "description": "",
+      "url": "https://time.mk/c/3b5309a2f2/se-vospostavuva-platforma-preku-koja-na-edno-mesto-ke-se-sledat-site-proekti-nameneti-za-mladite.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/mladi.jpg",
+      "date": "Wed, 21 Oct 2026 10:42:57 +0000"
     },
     {
       "category": "mkd",
@@ -238,20 +148,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Кој ќе ја добие наградата „4 Ноември“? | Тера",
-      "description": "",
-      "url": "https://time.mk/c/b96fd5f18b/koj-ke-ja-dobie-nagradata-4-noemvri.html",
-      "image": "https://tera.mk/wp-content/uploads/2026/10/4-noemvri-150x150.jpg",
-      "date": "Wed, 21 Oct 2026 15:02:41 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
       "title": "Јапонија плати да се реновира покривот на битолско основно училиште | Слободен Печат",
       "description": "",
       "url": "https://time.mk/c/6df4e55cf0/japonija-plati-da-se-renovira-pokrivot-na-bitolsko-osnovno-uciliste.html",
       "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/bitola-donacija-japonija-300x173.jpg",
       "date": "Wed, 21 Oct 2026 15:37:07 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "УКЛО и пријателите со Отворен ден на Факултетот за биотехнички науки – Битола (фотогалерија) | Битола Њуз",
+      "description": "",
+      "url": "https://time.mk/c/fbf960ca56/uklo-i-prijatelite-so-otvoren-den-na-fakultetot-za-biotehnicki-nauki-bitola-fotogalerija.html",
+      "image": "",
+      "date": "Wed, 21 Oct 2026 16:22:58 +0000"
     },
     {
       "category": "mkd",
@@ -265,11 +175,101 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "НЕЛА ВИТОШЕВИЌ НАГРАДЕНА ЗА НАЈДОБРА РЕЖИЈА ЗА СЛОВЕНЕЧКАТА ПРЕТСТАВА „ЗМЕЈ“ НА ФЕСТИВАЛ ВО НИШ | Сакам да кажам",
+      "title": "САМАРЏИЕВ, ВРЧАК, ЈОВАНОВ, ТОНИ ЗЕН И ЛОБА ДЕЛ ОД ПЕЈАЧИТЕ НА МАКФЕСТ ВО ШТИП | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/437a75fb78/nela-vitosevik-nagradena-za-najdobra-rezija-za-sloveneckata-pretstava-zmej-na-festival-vo-nis.html",
-      "image": "https://smart.sdk.mk/wp-content/uploads/2026/10/vitosevic-zmej-958x575.jpg",
-      "date": "Wed, 21 Oct 2026 11:17:00 +0000"
+      "url": "https://time.mk/c/3732d84d52/samardziev-vrcak-jovanov-toni-zen-i-loba-del-od-pejacite-na-makfest-vo-stip.html",
+      "image": "https://smart.sdk.mk/wp-content/uploads/2026/10/makfest-shtop-958x575.jpg",
+      "date": "Wed, 21 Oct 2026 15:44:51 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "5 пати го гледам видеово и не ми е јасно што е ова: Естрадна уметност? Сценски спектакл?",
+      "description": "Не ми е јасно дали ова некому му е привлечно? Дали кокаинот навлезе длабоко во кафанската „култура“? Што мислите вие, што е работата?",
+      "url": "https://motika.mk/5-pati-go-gledam-videovo-i-ne-mi-e-jasno-sto-e-ova-estradna-umetnost-scenski-spektakl/",
+      "image": "https://motika.mk/wp-content/uploads/2026/10/21/eb50439683854d049dc2b530095674b1.jpg",
+      "date": "Wed, 21 Oct 2026 13:06:24 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Зошто пејачот на ромска свадба носи селотејп? Па за да му ЛЕПАТ пари",
+      "description": "И навистина му лепат и тоа многу.",
+      "url": "https://motika.mk/zosto-pejacot-na-romska-svadba-nosi-selotejp-pa-za-da-mu-lepat-pari/",
+      "image": "https://motika.mk/wp-content/uploads/2026/10/21/846fe14c0cb746babe24f7af6a63b594.jpg",
+      "date": "Wed, 21 Oct 2026 13:03:09 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Остатокот од светот не може да сфати зошто балканските жени се толку изнадотерани, а нивните мажи по трењерки",
+      "description": "Само ние си го разбираме овој феномен и сосема ни е нормално мажот да не внимава многу на својот изглед.",
+      "url": "https://motika.mk/ostatokot-od-svetot-ne-moze-da-sfati-zosto-balkanskite-zeni-se-tolku-iznadoterani-a-nivnite-mazi-po-trenerki/",
+      "image": "https://motika.mk/wp-content/uploads/2026/10/21/236f4f99a8514b138935517712b81265.jpg",
+      "date": "Wed, 21 Oct 2026 13:01:30 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Латино продавачката знае како да си ја изрекламира робата",
+      "description": "Погледни како стојат бикините, па тогаш кажи дали се добри или не. Жената гледа а мажот зјапа.",
+      "url": "https://motika.mk/latino-prodavackata-znae-kako-da-si-ja-izreklamira-robata/",
+      "image": "https://motika.mk/wp-content/uploads/2026/10/21/cac318470fd64cf7be1aa7b860f4c7f4.jpg",
+      "date": "Wed, 21 Oct 2026 12:58:45 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Need For Speed (Македонска верзија)",
+      "description": "Ние нема потреба да ја купуваме играта, ние ја живееме.",
+      "url": "https://motika.mk/need-for-speed-makedonska-verzija/",
+      "image": "https://motika.mk/wp-content/uploads/2026/10/21/1a8afaff8fdf42db8be72e0a9f1f2684.jpg",
+      "date": "Wed, 21 Oct 2026 12:55:49 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Црна фолк музика: „Костури излазе из гробишта“",
+      "description": "Толку забегана комбинација одамна немавме слушнато. А и пејачот е прилично мрачен тип, песната му одговара, се гледа дека сам си ја напишал.",
+      "url": "https://motika.mk/crna-folk-muzika-kosturi-izlaze-iz-grobista/",
+      "image": "https://motika.mk/wp-content/uploads/2026/10/21/821e8cafb224433f96554a5358a28bcf.jpg",
+      "date": "Wed, 21 Oct 2026 12:54:09 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Српски турбо фолк и бугарски ќебап",
+      "description": "Пејачката не може да се откаже ни од едното ни од другото.",
+      "url": "https://motika.mk/srpski-turbo-folk-i-bugarski-kebap/",
+      "image": "https://motika.mk/wp-content/uploads/2026/10/21/08d62bab6c7d494a997adf5b22fec945.jpg",
+      "date": "Wed, 21 Oct 2026 12:50:36 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "36,6 степени повеќе не се смета за единствена нормална телесна температура: Еве колку може да покаже топломерот, а сепак да сте здрави",
+      "description": "Една бројка со генерации се пренесуваше како непишано медицинско правило. Ако топломерот покаже 36,6 степени, се сметаше дека телото е во совршена рамнотежа. Но современата медицина се повеќе покажува дека здравјето не се чита толку едноставно. Нормалната телесна температура зависи од човекот, од времето на мерење, од активноста, возраста и од начинот на кој е ...",
+      "url": "https://motika.mk/366-stepeni-poveke-ne-se-smeta-za-edinstvena-normalna-telesna-temperatura-eve-kolku-moze-da-pokaze-toplomerot-a-sepak-da-ste-zdravi/",
+      "image": "https://motika.io/media/2026/10/21/img-a5340586-2016-42c8-9f07-3fc3514d30d5-1.jpeg",
+      "date": "Wed, 21 Oct 2026 12:47:17 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "„Мамо, јас сам ќе отидам“ – Шест знаци дека детето е подготвено само да излезе на улица",
+      "description": "Оваа реченица порано или подоцна одекнува во секое семејство. Најпрво детето бара самото да отиде до соседниот дуќан. Потоа сака да си игра во маалскиот двор без присуство на возрасни. Набрзо потоа следува самостојното одење до училиште, спортски тренинг или кај другарчињата. Кај возрасните во тој преломен момент обично се јавуваат две големи дилеми. Првата ...",
+      "url": "https://motika.mk/mamo-jas-sam-ke-otidam-sest-znaci-deka-deteto-e-podgotveno-samo-da-izleze-na-ulica/",
+      "image": "https://motika.io/media/2026/10/21/img-9f148a97-d675-4e15-a978-9143c832395f-1.jpg",
+      "date": "Wed, 21 Oct 2026 12:36:27 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Motika",
+      "title": "Проклетството на семејството Кенеди однесе уште еден млад живот, а семејството молчеше цел месец",
+      "description": "Семејството Кенеди со децении го следат незапаметени трагедии и прерани заминувања на неговите членови. Две тажни вести, во распон од само неколку месеци, повторно ја вратија во прв план приказната за наводното „проклетство“ на еден од најпознатите американски кланови. Откако во декември минатата година, на 35-годишна возраст почина Татјана Шлосберг, внука на Џон и Жаклин ...",
+      "url": "https://motika.mk/prokletstvoto-na-semejstvoto-kenedi-odnese-uste-eden-mlad-zivot-a-semejstvoto-molcese-cel-mesec/",
+      "image": "https://motika.io/media/2026/10/21/img-166e9c8a-e843-4e49-b60e-613f4c0193fd-1.jpg",
+      "date": "Wed, 21 Oct 2026 12:29:22 +0000"
     }
   ],
   "de": [
@@ -638,10 +638,10 @@
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Why is everyone talking about PHP’s ‘critical’ security flaws?",
+      "title": "AI helped uncover a security nightmare in the web’s backbone. Should you be worried?",
       "description": "If you’re of a certain age, “PHP” may invoke memories of early web development in the 1990s. In the decades since, the scripting language has hummed along in the background, used by popular platforms like WordPress. But just this week, it suddenly got an enormous spotlight as the internet lit up with alarm over two high-risk vulnerabilities. If you’re not a server administrator, you may be wondering what the danger really is. In fact, if the admins for the websites you use or run were quick enou",
-      "url": "https://www.pcworld.com/article/3266558/why-is-everyone-talking-about-php.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3266558-0-70838100-1792625293-ben-griffiths-4wxWBy8Jo1I-unsplash.jpg?quality=50&strip=all",
+      "url": "https://www.pcworld.com/article/3266558/ai-helped-uncover-a-security-nightmare-in-the-webs-backbone-should-you-be-worried.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3266558-0-42468200-1792629071-ben-griffiths-4wxWBy8Jo1I-unsplash.jpg?quality=50&strip=all",
       "date": "Wed, 21 Oct 2026 23:04:30 +0000"
     },
     {
@@ -811,6 +811,24 @@
     {
       "category": "starwars",
       "source": "Jedi News",
+      "title": "Daisy Ridley to Star in New Take on ‘Voyage to the Bottom of the Sea’ for Paramount+",
+      "description": "Daisy Ridley is about to set sail on another epic journey in “Voyage to the Bottom of the Sea” for Paramount+, a new eight-episode series which she will star in and executive produce. The post Daisy Ridley to Star in New Take on ‘Voyage to the Bottom of the Sea’ for Paramount+ appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/daisy-ridley-to-star-in-new-take-on-voyage-to-the-bottom-of-the-sea-for-paramount/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/Daisy-Ridley-Paramount-Oct26-300x201.jpg",
+      "date": "Wed, 21 Oct 2026 19:43:58 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Games Studio Bioware is Shutting Down",
+      "description": "After EA decided to pull the plug on the development of a new Mass Effect project, they are closing games studio BioWare, the developers of Star Wars: The Old Republic, along with their offices in Edmonton, and bringing to a close over three decades of adventures. The post Games Studio Bioware is Shutting Down appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/gaming/articles/games-studio-bioware-is-shutting-down/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/Bioware-Oct26-300x201.jpg",
+      "date": "Wed, 21 Oct 2026 19:08:52 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
       "title": "Full Of Sith Episode DCLIII: Working for Star Wars",
       "description": "It's time to join the team for episode DCLIII of Full of Sith. The post Full Of Sith Episode DCLIII: Working for Star Wars appeared first on Jedi News .",
       "url": "https://www.jedinews.com/podcasts/articles/full-of-sith-episode-dcliii-working-for-star-wars/",
@@ -969,24 +987,6 @@
       "url": "https://www.jedinews.com/events/articles/event-review-thank-the-maker/",
       "image": "https://www.jedinews.com/wp-content/uploads/2026/06/Thank-the-Maker-Date-Reveal-Jun26-300x201.jpg",
       "date": "Mon, 19 Oct 2026 19:01:00 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "The Secret Technique Behind Classic Star Wars Ships with Lorne Peterson | Adam Savage’s Tested",
-      "description": "Adam Savage sits down with legendary ILM model maker Lorne Peterson for a deep dive into the earliest days of Star Wars and Industrial Light & Magic; Lorne shared firsthand stories of cinematic model-making history. The post The Secret Technique Behind Classic Star Wars Ships with Lorne Peterson | Adam Savage’s Tested appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/the-secret-technique-behind-classic-star-wars-ships-with-lorne-peterson-adam-savages-tested/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/maxresdefault-32-300x169.jpg",
-      "date": "Mon, 19 Oct 2026 18:27:11 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Star Wars Fan Fun Day 2027: Andor’s Malcolm Sinclair Attending",
-      "description": "Andor's Malcolm Sinclair, Wullf Yularen in the Disney+ series, is the second guest announced as attending Star Wars Fan Fun Day on Bank Holiday Monday, May 3rd, 2027, at Blackburn Rovers Football Club, Premier Suite, Ewood Park, Nuttall Street, BB2 4JF. The post Star Wars Fan Fun Day 2027: Andor’s Malcolm Sinclair Attending appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/events/articles/star-wars-fan-fun-day-2027-andors-malcolm-sinclair-attending/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/Star-Wars-Fan-Fun-Day-Malcolm-Sinclair-Oct26-300x201.jpg",
-      "date": "Mon, 19 Oct 2026 10:19:02 +0000"
     }
   ],
   "youtube": []
