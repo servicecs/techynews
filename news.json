@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T21:23:41.891099+00:00",
+  "updated": "2026-10-22T00:07:40.420311+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -102,21 +102,39 @@
     },
     {
       "category": "mkd",
-      "source": "Time.mk - Sport",
-      "title": "Реал Мадрид продолжува со максимален ефект, Интер конечно се радуваше (ВИДЕО) | МакФудбал",
+      "source": "Time.mk - All",
+      "title": "Предлог-закон за јавната администрација: Ќе се бара двотретинско мнозинство | 4NEWS",
       "description": "",
-      "url": "https://time.mk/c/e54593c8c1/real-madrid-prodolzuva-so-maksimalen-efekt-inter-konecno-se-raduvase-video.html",
-      "image": "https://makfudbal.mk/wp-content/uploads/2026/10/real-so-lajpcig-300x184.jpg",
-      "date": "Wed, 21 Oct 2026 21:08:53 +0000"
+      "url": "https://time.mk/c/ad3a980b84/predlog-zakon-za-javnata-administracija-ke-se-bara-dvotretinsko-mnozinstvo.html",
+      "image": "https://4news.mk/wp-content/uploads/2025/01/administracija-1024x495.jpg",
+      "date": "Wed, 21 Oct 2026 16:40:40 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - Sport",
-      "title": "За уживање: Доминацијата на Вардар спакувана во три минути (ВИДЕО) | SportSport",
+      "title": "ВИДЕО | Баерн и Арсенал одиграа „шаховска партија“ во Минхен, Реал со четири гола го реши Лајпциг | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/4a72f72b5c/za-uzivanje-dominacijata-na-vardar-spakuvana-vo-tri-minuti-video.html",
-      "image": "https://sportsport.mk/wp-content/uploads/2026/10/vardar-nant-video-150x150.jpg",
-      "date": "Wed, 21 Oct 2026 21:02:56 +0000"
+      "url": "https://time.mk/c/758f526988/video-baern-i-arsenal-odigraa-sahovska-partija-vo-minhen-real-so-cetiri-gola-go-resi-lajpcig.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/photo-collage.png-9-300x225.png",
+      "date": "Wed, 21 Oct 2026 21:55:11 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Молотови коктели и камења кон Владата на деветтиот ден од протестите во Тирана | Колегиум",
+      "description": "",
+      "url": "https://time.mk/c/b4c71a7e0a/molotovi-kokteli-i-kamenja-kon-vladata-na-devettiot-den-od-protestite-vo-tirana.html",
+      "image": "https://kolegium.mk/wp-content/uploads/2026/10/tirana-protest-2-foto-printskrin-Tirana-tajms-300x201.jpg",
+      "date": "Wed, 21 Oct 2026 21:43:07 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Уставeн ја отфрли иницијативата на СДСМ – Резолуцијата на ВМРО-ДПМНЕ против нелегалната миграција е политичка | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/584d7331b5/ustaven-ja-otfrli-inicijativata-na-sdsm-rezolucijata-na-vmro-dpmne-protiv-nelegalnata-migracija-e-politicka.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2024/09/ustaven-sud-1-300x185.jpg",
+      "date": "Wed, 21 Oct 2026 11:44:57 +0000"
     },
     {
       "category": "mkd",
@@ -130,24 +148,6 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Предлог-закон за јавната администрација: Ќе се бара двотретинско мнозинство | 4NEWS",
-      "description": "",
-      "url": "https://time.mk/c/ad3a980b84/predlog-zakon-za-javnata-administracija-ke-se-bara-dvotretinsko-mnozinstvo.html",
-      "image": "https://4news.mk/wp-content/uploads/2025/01/administracija-1024x495.jpg",
-      "date": "Wed, 21 Oct 2026 16:40:40 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "(Видео) Голем пожар на дива депонија меѓу Дабиле и Петралинци, струмичките пожарникари на терен | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/5500336268/video-golem-pozar-na-diva-deponija-megju-dabile-i-petralinci-strumickite-pozarnikari-na-teren.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/86565/conversions/text-max.jpg",
-      "date": "Wed, 21 Oct 2026 20:15:01 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
       "title": "Граѓаните и компаниите заглавени во кредити тешки речиси 10 милијарди евра | Колегиум",
       "description": "",
       "url": "https://time.mk/c/9b2b3c9137/gragjanite-i-kompaniite-zaglaveni-vo-krediti-teski-recisi-10-milijardi-evra.html",
@@ -157,20 +157,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Министерството за енергетика и Kfw ја продолжуваат соработката за поддршка на стратешките енергетски проекти | Независен",
+      "title": "Ќе плаќаме повисоки сметки за парно и струја?! | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/f3f3dce833/ministerstvoto-za-energetika-i-kfw-ja-prodolzuvaat-sorabotkata-za-poddrska-na-strateskite-energetski-proekti.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/Sanja-Bozinovska-so-KfW.jpg",
-      "date": "Wed, 21 Oct 2026 13:25:03 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Рама: Оркестрираното насилство има поддршка од странски сили чија цел е да ја дестабилизираат Албанија и Европа | Либертас",
-      "description": "",
-      "url": "https://time.mk/c/37e4deeffb/rama-orkestriranoto-nasilstvo-ima-poddrska-od-stranski-sili-cija-cel-e-da-ja-destabiliziraat-albanija-i-evropa.html",
-      "image": "https://libertas.mk/wp-content/uploads/2026/10/20261021163102_big_730x400_20.webp",
-      "date": "Wed, 21 Oct 2026 14:46:49 +0000"
+      "url": "https://time.mk/c/3c9bfa6d2a/ke-plakame-povisoki-smetki-za-parno-i-struja.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/1-9.jpg",
+      "date": "Wed, 21 Oct 2026 10:18:58 +0000"
     },
     {
       "category": "mkd",
@@ -184,6 +175,15 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
+      "title": "По Франција и Албанија, 10.000 млади на протест и во Атина | Трн",
+      "description": "",
+      "url": "https://time.mk/c/c14b91e7be/po-francija-i-albanija-10-000-mladi-na-protest-i-vo-atina.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/10/grczija.jpg",
+      "date": "Wed, 21 Oct 2026 17:42:48 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
       "title": "Русија е подготвена да ги продолжи разговорите со САД и Украина за прекин на конфликтот | 360 степени",
       "description": "",
       "url": "https://time.mk/c/289685553b/rusija-e-podgotvena-da-gi-prodolzi-razgovorite-so-sad-i-ukraina-za-prekin-na-konfliktot.html",
@@ -193,20 +193,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Во Словенија задолжителен божиќен бонус од најмалку 741 евро – во Хрватска исплатите се од 200 до 500 евра | ТВ21",
+      "title": "Макрон ќе ги употреби „сите средства“ за да се спречат инциденти на протестите во сабота | Независен",
       "description": "",
-      "url": "https://time.mk/c/5f43e6d1c3/vo-slovenija-zadolzitelen-boziken-bonus-od-najmalku-741-evro-vo-hrvatska-isplatite-se-od-200-do-500-evra.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2022/07/dolari-evra-1024x683.jpg",
-      "date": "Wed, 21 Oct 2026 20:33:02 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Градоначалникот на Аеродром ја објави како пример за неодговорност – таа му врати во коментар: Очекувам извинување, платено ми е | 4NEWS",
-      "description": "",
-      "url": "https://time.mk/c/7312944da8/gradonacalnikot-na-aerodrom-ja-objavi-kako-primer-za-neodgovornost-taa-mu-vrati-vo-komentar-ocekuvam-izvinuvanje-plateno-mi-e.html",
-      "image": "https://4news.mk/wp-content/uploads/2026/10/screenshot_5-7.avif",
-      "date": "Wed, 21 Oct 2026 20:04:37 +0000"
+      "url": "https://time.mk/c/7b5431e346/makron-ke-gi-upotrebi-site-sredstva-za-da-se-sprecat-incidenti-na-protestite-vo-sabota.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/04/Emanuel-makron1.jpg",
+      "date": "Wed, 21 Oct 2026 14:48:56 +0000"
     },
     {
       "category": "mkd",
@@ -220,6 +211,15 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
+      "title": "Градоначалникот на Аеродром ја објави како пример за неодговорност – таа му врати во коментар: Очекувам извинување, платено ми е | 4NEWS",
+      "description": "",
+      "url": "https://time.mk/c/7312944da8/gradonacalnikot-na-aerodrom-ja-objavi-kako-primer-za-neodgovornost-taa-mu-vrati-vo-komentar-ocekuvam-izvinuvanje-plateno-mi-e.html",
+      "image": "https://4news.mk/wp-content/uploads/2026/10/screenshot_5-7.avif",
+      "date": "Wed, 21 Oct 2026 20:04:37 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
       "title": "Родителите од „Пулс“: Обвинителството откри сериозни противречности во исказот на вештакот Русевски | 24 Вести",
       "description": "",
       "url": "https://time.mk/c/b0d14794f3/roditelite-od-puls-obvinitelstvoto-otkri-seriozni-protivrecnosti-vo-iskazot-na-vestakot-rusevski.html",
@@ -229,20 +229,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "32-годишна жена натепана од вонбрачниот сопруг и золвата кај Бит Пазар | Скопје инфо",
+      "title": "Куп насилства: Нападнати жени на автобуски постојки, 19-годишник натепан кај Градски парк, а жена во семејниот дом | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/0e64ac46d0/32-godisna-zena-natepana-od-vonbracniot-soprug-i-zolvata-kaj-bit-pazar.html",
-      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/oktomvri/image-262883.jpg?itok=DopK-e0s",
-      "date": "Wed, 21 Oct 2026 13:32:59 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Јапонија плати да се реновира покривот на битолско основно училиште | Слободен Печат",
-      "description": "",
-      "url": "https://time.mk/c/6df4e55cf0/japonija-plati-da-se-renovira-pokrivot-na-bitolsko-osnovno-uciliste.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/bitola-donacija-japonija-300x173.jpg",
-      "date": "Wed, 21 Oct 2026 15:37:07 +0000"
+      "url": "https://time.mk/c/7882ebb26e/kup-nasilstva-napadnati-zeni-na-avtobuski-postojki-19-godisnik-natepan-kaj-gradski-park-a-zena-vo-semejniot-dom.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/86454/conversions/text-max.jpg",
+      "date": "Wed, 21 Oct 2026 11:08:57 +0000"
     },
     {
       "category": "mkd",
@@ -256,6 +247,15 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
+      "title": "Јапонија плати да се реновира покривот на битолско основно училиште | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/6df4e55cf0/japonija-plati-da-se-renovira-pokrivot-na-bitolsko-osnovno-uciliste.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/bitola-donacija-japonija-300x173.jpg",
+      "date": "Wed, 21 Oct 2026 15:37:07 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
       "title": "ПО ЗАТВОРСКАТА КАЗНА, ТЕКСТ НА ОСУДЕНИОТ БИТОЛСКИ ГРАДОНАЧАЛНИК ТАЛЕСКИ СЕ ПОСТАВУВА ВО ДРАМСКИОТ ТЕАТАР ВО СКОПЈЕ | Сакам да кажам",
       "description": "",
       "url": "https://time.mk/c/36a51e67d8/po-zatvorskata-kazna-tekst-na-osudeniot-bitolski-gradonacalnik-taleski-se-postavuva-vo-dramskiot-teatar-vo-skopje.html",
@@ -265,11 +265,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "САМАРЏИЕВ, ВРЧАК, ЈОВАНОВ, ТОНИ ЗЕН И ЛОБА ДЕЛ ОД ПЕЈАЧИТЕ НА МАКФЕСТ ВО ШТИП | Сакам да кажам",
+      "title": "НЕЛА ВИТОШЕВИЌ НАГРАДЕНА ЗА НАЈДОБРА РЕЖИЈА ЗА СЛОВЕНЕЧКАТА ПРЕТСТАВА „ЗМЕЈ“ НА ФЕСТИВАЛ ВО НИШ | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/3732d84d52/samardziev-vrcak-jovanov-toni-zen-i-loba-del-od-pejacite-na-makfest-vo-stip.html",
-      "image": "https://smart.sdk.mk/wp-content/uploads/2026/10/makfest-shtop-958x575.jpg",
-      "date": "Wed, 21 Oct 2026 15:44:51 +0000"
+      "url": "https://time.mk/c/437a75fb78/nela-vitosevik-nagradena-za-najdobra-rezija-za-sloveneckata-pretstava-zmej-na-festival-vo-nis.html",
+      "image": "https://smart.sdk.mk/wp-content/uploads/2026/10/vitosevic-zmej-958x575.jpg",
+      "date": "Wed, 21 Oct 2026 11:17:00 +0000"
     }
   ],
   "de": [
@@ -638,6 +638,24 @@
     {
       "category": "eng",
       "source": "PCWorld",
+      "title": "Why is everyone talking about PHP’s ‘critical’ security flaws?",
+      "description": "If you’re of a certain age, “PHP” may invoke memories of early web development in the 1990s. In the decades since, the scripting language has hummed along in the background, used by popular platforms like WordPress. But just this week, it suddenly got an enormous spotlight as the internet lit up with alarm over two high-risk vulnerabilities. If you’re not a server administrator, you may be wondering what the danger really is. In fact, if the admins for the websites you use or run were quick enou",
+      "url": "https://www.pcworld.com/article/3266558/why-is-everyone-talking-about-php.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3266558-0-70838100-1792625293-ben-griffiths-4wxWBy8Jo1I-unsplash.jpg?quality=50&strip=all",
+      "date": "Wed, 21 Oct 2026 23:04:30 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Best VPN deals: Protect your privacy for the lowest prices",
+      "description": "Whether you’re looking for something that will give you the privacy you need or access to location-restricted streaming content, we’ve got you covered with the very best VPN deals currently available. But not all deals are worth it, so we only highlight those offered by reputable providers that we’ve personally reviewed and recommend. We’ve also included some helpful answers to common questions about VPN shopping at the bottom of this article. Before you decide on a new VPN, be sure to check out",
+      "url": "https://www.pcworld.com/article/2548950/best-vpn-deals.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/2548950-0-22805400-1792621094-nordvpn-inspiron-5441.jpg?quality=50&strip=all",
+      "date": "Wed, 21 Oct 2026 22:18:05 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
       "title": "MSI’s RTX 5060 gaming laptop with 16GB DDR5 is down to $1,249",
       "description": "NOW $250 OFF MSI Cyborg A15 Gaming Laptop View Deal Free time is limited, budgets are tight, so when you manage to carve out a bit of time for gaming, you should do it right. That can be tough if your gaming machine sucks, and upgrading has been hard this past year what with the massive price spikes on hardware. Right now, B&H is selling an MSI Cyborg A15 gaming laptop for $1,249 , which is $250 off its MSRP—maybe not the most dramatic discount we’ve ever seen, but that’s a solid drop at a time ",
       "url": "https://www.pcworld.com/article/3266232/msi-rtx-5060-gaming-laptop-with-16gb-ddr5-is-down-to-1249.html",
@@ -706,24 +724,6 @@
       "url": "https://www.pcworld.com/article/3264827/ai-vibe-check-searching-for-human-signals-at-a-san-francisco-tech-conference.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3264827-0-87413400-1792606798-Anastasiia-Romanova-Mosqitter-by-Kimberly-White-for-TechCrunch.jpg?quality=50&strip=all",
       "date": "Wed, 21 Oct 2026 13:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "I built an AI agent to protect my data. Then it found a hole in its guardrails",
-      "description": "I thought I was so clever. Wary of the privacy and security dangers posed by OpenClaw and other personal AI assistants, I decided to build my own AI agent on a Raspberry Pi, isolated in its own container and complete with rules and safeguards designed to keep my hardware and personal data safe. I called it BenBot, and over the course of roughly eight months, more than 200 “feature” branches, and nearly 1,000 tracked code changes, it’s been dutifully checking my Gmail, giving me morning weather r",
-      "url": "https://www.pcworld.com/article/3264126/i-built-an-ai-agent-to-protect-my-data-then-it-found-a-hole-in-its-guardrails.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3264126-0-64010600-1792584038-BenBot-AI-agent.jpg?quality=50&strip=all",
-      "date": "Wed, 21 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
-      "description": "If you’re looking for an affordable Windows machine under $500 , a blazing fast gaming beast for those intense matches, or a portable 2-in-1 for school or work, you’ve got plenty of great choices right now. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 80 laptops every year. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches",
-      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/550968-0-21600500-1792582409-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
-      "date": "Wed, 21 Oct 2026 11:33:19 +0000"
     }
   ],
   "starwars": [
@@ -807,24 +807,6 @@
       "url": "https://www.starwarsnewsnet.com/2026/10/can-starfighter-outearn-the-mandalorian-and-grogu-at-the-box-office.html",
       "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/09/Star-Wars-Starfighter-IMAX-Banner-scaled-e1788888717502.jpeg",
       "date": "Tue, 20 Oct 2026 16:30:36 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Daisy Ridley to Star in New Take on ‘Voyage to the Bottom of the Sea’ for Paramount+",
-      "description": "Daisy Ridley is about to set sail on another epic journey in “Voyage to the Bottom of the Sea” for Paramount+, a new eight-episode series which she will star in and executive produce. The post Daisy Ridley to Star in New Take on ‘Voyage to the Bottom of the Sea’ for Paramount+ appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/daisy-ridley-to-star-in-new-take-on-voyage-to-the-bottom-of-the-sea-for-paramount/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/Daisy-Ridley-Paramount-Oct26-300x201.jpg",
-      "date": "Wed, 21 Oct 2026 19:43:58 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Games Studio Bioware is Shutting Down",
-      "description": "After EA decided to pull the plug on the development of a new Mass Effect project, they are closing games studio BioWare, the developers of Star Wars: The Old Republic, along with their offices in Edmonton, and bringing to a close over three decades of adventures. The post Games Studio Bioware is Shutting Down appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/gaming/articles/games-studio-bioware-is-shutting-down/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/Bioware-Oct26-300x201.jpg",
-      "date": "Wed, 21 Oct 2026 19:08:52 +0000"
     },
     {
       "category": "starwars",
@@ -987,278 +969,25 @@
       "url": "https://www.jedinews.com/events/articles/event-review-thank-the-maker/",
       "image": "https://www.jedinews.com/wp-content/uploads/2026/06/Thank-the-Maker-Date-Reveal-Jun26-300x201.jpg",
       "date": "Mon, 19 Oct 2026 19:01:00 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "The Secret Technique Behind Classic Star Wars Ships with Lorne Peterson | Adam Savage’s Tested",
+      "description": "Adam Savage sits down with legendary ILM model maker Lorne Peterson for a deep dive into the earliest days of Star Wars and Industrial Light & Magic; Lorne shared firsthand stories of cinematic model-making history. The post The Secret Technique Behind Classic Star Wars Ships with Lorne Peterson | Adam Savage’s Tested appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/the-secret-technique-behind-classic-star-wars-ships-with-lorne-peterson-adam-savages-tested/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/maxresdefault-32-300x169.jpg",
+      "date": "Mon, 19 Oct 2026 18:27:11 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Star Wars Fan Fun Day 2027: Andor’s Malcolm Sinclair Attending",
+      "description": "Andor's Malcolm Sinclair, Wullf Yularen in the Disney+ series, is the second guest announced as attending Star Wars Fan Fun Day on Bank Holiday Monday, May 3rd, 2027, at Blackburn Rovers Football Club, Premier Suite, Ewood Park, Nuttall Street, BB2 4JF. The post Star Wars Fan Fun Day 2027: Andor’s Malcolm Sinclair Attending appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/events/articles/star-wars-fan-fun-day-2027-andors-malcolm-sinclair-attending/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/Star-Wars-Fan-Fun-Day-Malcolm-Sinclair-Oct26-300x201.jpg",
+      "date": "Mon, 19 Oct 2026 10:19:02 +0000"
     }
   ],
-  "youtube": [
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "AfD Leak, PHP Lücke und Revolut-Ausfall wegen Google Cloud... Security Bingo kann losgehen",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/MYkQLmiLPTA",
-      "image": "https://i.ytimg.com/vi/MYkQLmiLPTA/hqdefault.jpg",
-      "date": "2026-10-21T18:41:31+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Die AfD Leaks Teil 1 - seit dem Erstellen des Videos hat sich aber auch einiges getan ^^",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/5sQQA6K8W_k",
-      "image": "https://i.ytimg.com/vi/5sQQA6K8W_k/hqdefault.jpg",
-      "date": "2026-10-20T20:15:40+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Jeder will, dass du KI entweder liebst oder fürchtest. Warum eigentlich?",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/Wb1GocgvZA0",
-      "image": "https://i.ytimg.com/vi/Wb1GocgvZA0/hqdefault.jpg",
-      "date": "2026-10-19T17:00:03+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Eine Werbeanzeige als Zero Click Exploit ?! #informatik #spy #cybersecurity #news #spyware",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/pCVwu6ydZkQ",
-      "image": "https://i.ytimg.com/vi/pCVwu6ydZkQ/hqdefault.jpg",
-      "date": "2026-10-18T16:15:32+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Spannende Zeiten für alle iOS Bastler ^^ #informatik #cybersecurity #ios #iphone #news",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/2H_WBnTsrRw",
-      "image": "https://i.ytimg.com/vi/2H_WBnTsrRw/hqdefault.jpg",
-      "date": "2026-10-17T10:30:02+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Ein LTE Modul in einem Hardware Wallet ?! Was ist dieses Jahr eigentlich nicht passiert....",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/mDAHUbhpcFQ",
-      "image": "https://i.ytimg.com/vi/mDAHUbhpcFQ/hqdefault.jpg",
-      "date": "2026-10-16T10:15:25+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Ingenieur von OpenAI versteckt eine Wanze im Meetingraum der Chefs ?!",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/hY3sOk30uH0",
-      "image": "https://i.ytimg.com/vi/hY3sOk30uH0/hqdefault.jpg",
-      "date": "2026-10-15T10:00:24+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Hacker haben Supermarkt Kühltruhen in Frankreich auf 50 Grad aufgeheizt....",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/2eXYRwIPTgE",
-      "image": "https://i.ytimg.com/vi/2eXYRwIPTgE/hqdefault.jpg",
-      "date": "2026-10-14T10:15:06+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Wenn der Compiler deinen Code schwächt.... #informatik #code #programming #lernen #cybersecurity",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/N_muoVTYxQg",
-      "image": "https://i.ytimg.com/vi/N_muoVTYxQg/hqdefault.jpg",
-      "date": "2026-10-13T16:53:58+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Margaret Hamilton, eine der vielen großartigen Frauen in der Informatik ist von uns gegangen.",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/uM6aSJmTCbA",
-      "image": "https://i.ytimg.com/vi/uM6aSJmTCbA/hqdefault.jpg",
-      "date": "2026-10-12T16:00:18+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Set Off Alarms in Abandoned Paper Mill",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=_2m_nAVaYSg",
-      "image": "https://i.ytimg.com/vi/_2m_nAVaYSg/hqdefault.jpg",
-      "date": "2026-09-30T17:00:15+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Exploring The Last Coal Power Plant in Connecticut Bridgeport Harbor Station",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=CR84XRBKBzs",
-      "image": "https://i.ytimg.com/vi/CR84XRBKBzs/hqdefault.jpg",
-      "date": "2026-08-27T17:00:39+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Rocketdyne Santa Susana Field Laboratory Abandoned America Space Race (1948)",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=0lka-0REQrQ",
-      "image": "https://i.ytimg.com/vi/0lka-0REQrQ/hqdefault.jpg",
-      "date": "2026-04-23T17:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Mall Westfield Promenade Demolition AMC Seats And Screens Left Behind",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=UnG29VothuQ",
-      "image": "https://i.ytimg.com/vi/UnG29VothuQ/hqdefault.jpg",
-      "date": "2026-03-27T21:09:35+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Mall Westfield Promenade Demolition Fly by In And Out",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=fDnOH8ZsfTg",
-      "image": "https://i.ytimg.com/vi/fDnOH8ZsfTg/hqdefault.jpg",
-      "date": "2026-03-27T20:40:08+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "AMC Westfield Promenade Mall Raw Demolition Drone Footage",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/5iA5R3Jq4g0",
-      "image": "https://i.ytimg.com/vi/5iA5R3Jq4g0/hqdefault.jpg",
-      "date": "2026-03-27T18:03:29+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Mall Westfield Promenade Demolition AMC Coming Down First!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=SAxjFGjTiHQ",
-      "image": "https://i.ytimg.com/vi/SAxjFGjTiHQ/hqdefault.jpg",
-      "date": "2026-03-23T17:42:38+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Beautiful Art Deco Theater",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=ccfU0LSmkj8",
-      "image": "https://i.ytimg.com/vi/ccfU0LSmkj8/hqdefault.jpg",
-      "date": "2026-03-11T20:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Decommissioned Power Station #synthwave #synth #retrowave #abandonedplaces",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/mOUbNSMoBJs",
-      "image": "https://i.ytimg.com/vi/mOUbNSMoBJs/hqdefault.jpg",
-      "date": "2025-06-17T17:55:51+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Wheel of Misfortune Three Kids Mine Demolition",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=VXRselqoN-8",
-      "image": "https://i.ytimg.com/vi/VXRselqoN-8/hqdefault.jpg",
-      "date": "2025-06-17T17:45:42+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "PS5 13.60 Jailbreak & Hypervisor Exploit, Xbox 360 Softmod, Halo Ported to EVERYTHING - ModChat 149",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=-PXtg_eDYBY",
-      "image": "https://i.ytimg.com/vi/-PXtg_eDYBY/hqdefault.jpg",
-      "date": "2026-10-21T17:00:30+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Backup & Play Xbox 360 Games on a Modded Xbox 360 - Multi-Disc, DLC, XBLA & More!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=KYOZR0zotSc",
-      "image": "https://i.ytimg.com/vi/KYOZR0zotSc/hqdefault.jpg",
-      "date": "2026-10-10T17:00:36+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Softmod the Xbox 360 - Peer Pressure Beginner Setup for Homebrew, Backups, and More!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=G8ceM_xXlO8",
-      "image": "https://i.ytimg.com/vi/G8ceM_xXlO8/hqdefault.jpg",
-      "date": "2026-10-07T19:00:34+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Bad Storage Unauthenticated: Use Any HDD or SSD on Bad Update for Xbox 360!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=svNvWiJAjow",
-      "image": "https://i.ytimg.com/vi/svNvWiJAjow/hqdefault.jpg",
-      "date": "2026-10-03T17:00:02+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Mario's Minute 105 - Wiping Old Drives and XBOX's Disc to Digital Program",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=C0pBgwThC68",
-      "image": "https://i.ytimg.com/vi/C0pBgwThC68/hqdefault.jpg",
-      "date": "2026-09-30T17:00:10+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "AutoDNS: A Useful Network Safety Plugin for Bad Update & ABadAvatar Consoles",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=dgX6KUQy4jk",
-      "image": "https://i.ytimg.com/vi/dgX6KUQy4jk/hqdefault.jpg",
-      "date": "2026-09-26T17:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "PS5 Hypervisor Drama, Xbox 360 Softmod Details Revealed, Switch 2 Game Binary Dumped - ModChat 148",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=eMTjE6NIAAQ",
-      "image": "https://i.ytimg.com/vi/eMTjE6NIAAQ/hqdefault.jpg",
-      "date": "2026-09-23T17:00:08+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "XeUnshackle Max: Auto-Start, Custom Boot Animations, and More for Bad Update or ABadAvatar!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=P2hOdoLzQ38",
-      "image": "https://i.ytimg.com/vi/P2hOdoLzQ38/hqdefault.jpg",
-      "date": "2026-09-19T17:00:35+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Run ABadAvatar from an Internal Drive - ABadAvatar HDD Setup & Transfer",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=seOPwVF3YEM",
-      "image": "https://i.ytimg.com/vi/seOPwVF3YEM/hqdefault.jpg",
-      "date": "2026-09-12T17:00:38+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Enable Aurora's Hidden Splash Screen on a Modded Xbox 360",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/8JwsEdKQLz4",
-      "image": "https://i.ytimg.com/vi/8JwsEdKQLz4/hqdefault.jpg",
-      "date": "2026-09-09T17:00:30+00:00"
-    }
-  ]
+  "youtube": []
 }
