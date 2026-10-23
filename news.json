@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-23T07:08:57.059057+00:00",
+  "updated": "2026-10-23T12:45:55.236146+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Два критични пропусти во PHP овозможуваат далечинско преземање на сервери, па надградбата е итна",
+      "description": "PHP, програмскиот јазик на кој работат WordPress, Drupal, Joomla и MediaWiki, доби итни безбедносни надградби. На 21 октомври излегоа верзиите 8.5.12, 8.4.27, 8.3.36 и 8.2.35, кои поправаат два критични пропусти што му овозможуваат на напаѓач без најава да изврши свој код на серверот. Пропустите се означени како CVE-2026-109618 и CVE-2026-109619, со оценка 9,2 според CVSS 4.0, […]",
+      "url": "https://smartportal.mk/novosti/veb-i-bezbednost/php2shell/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/ben-griffiths-4wxWBy8Jo1I-unsplash-150x150.webp",
+      "date": "Fri, 23 Oct 2026 10:15:31 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -84,192 +93,183 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "РСБСП со апел за почитување на сообраќајните правила за време на претстојниот празник 23 октомври",
-      "description": "По повод претстојниот празник 23 Октомври – Денот на македонската револуционерна борба и продолжениот викенд, се очекува зголемена раздвиженост во сообраќајот, особено на патните правци надвор од населените места. Поради тоа, Републичкиот совет за безбедност на сообраќајот на патиштата апелира до сите учесници во сообраќајот доследно да ги почитуваат сообраќајните правила и прописи. РСБСП укажува: […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/rsbsp-apel-23-oktomvri/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/IMG_0592-1-150x150.webp",
-      "date": "Thu, 22 Oct 2026 08:31:09 +0000"
+      "source": "Time.mk - All",
+      "title": "„Не трчам на 100 метри, туку маратон“ – Мицкоски за преговорите, притисоците и Бугарија | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/055c2c10ab/ne-trcam-na-100-metri-tuku-maraton-mickoski-za-pregovorite-pritisocite-i-bugarija.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/86637/conversions/text-max.jpg",
+      "date": "Fri, 23 Oct 2026 11:50:43 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Сиљановска-Давкова за 23 Октомври: Пред историски испит сме да го продолжиме стремежот за просперитетна држава | Макфакс",
+      "title": "Ѓорге Иванов: Секоја генерација има своја борба, нашата е за подостоинствен живот во Македонија | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/1ea4c9ff1c/siljanovska-davkova-za-23-oktomvri-pred-istoriski-ispit-sme-da-go-prodolzime-stremezot-za-prosperitetna-drzava.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/04/siljanovska-davkova23.webp",
-      "date": "Fri, 23 Oct 2026 07:02:41 +0000"
+      "url": "https://time.mk/c/74b1b66aec/gjorge-ivanov-sekoja-generacija-ima-svoja-borba-nasata-e-za-podostoinstven-zivot-vo-makedonija.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/67844/conversions/Gjorge-Ivanov1-max.jpg",
+      "date": "Fri, 23 Oct 2026 09:06:37 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Србија влезе во изборен молк, откако околу 150.000 луѓе присуствуваа на завршниот митинг на Студентската листа во Белград | Deutsche Welle",
+      "title": "Беким Сали на средба со еврокомесарката Марта Кос: Постепената интеграција треба да донесе конкретни придобивки за граѓаните | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/7853e1d3cf/srbija-vleze-vo-izboren-molk-otkako-okolu-150-000-lugje-prisustvuvaa-na-zavrsniot-miting-na-studentskata-lista-vo-belgrad.html",
-      "image": "https://static.dw.com/image/79738178_302.jpg",
-      "date": "Fri, 23 Oct 2026 06:30:46 +0000"
+      "url": "https://time.mk/c/ff403d628f/bekim-sali-na-sredba-so-evrokomesarkata-marta-kos-postepenata-integracija-treba-da-donese-konkretni-pridobivki-za-gragjanite.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/sali-kos-whatsapp-image-2026-10-23-at-13.37.11.webp",
+      "date": "Fri, 23 Oct 2026 12:08:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "НАФТАТА СО НОВ ЦЕНОВЕН РЕКОРД, златото повторно добива на вредност | Економија и Бизнис",
+      "title": "Нов економски притисок врз Европа: Растат цените на енергијата, компаниите го губат оптимизмот | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/d855c15635/naftata-so-nov-cenoven-rekord-zlatoto-povtorno-dobiva-na-vrednost.html",
-      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/03/pumpalukoil-1.jpg",
-      "date": "Fri, 23 Oct 2026 07:00:59 +0000"
+      "url": "https://time.mk/c/a0607ae2a9/nov-ekonomski-pritisok-vrz-evropa-rastat-cenite-na-energijata-kompaniite-go-gubat-optimizmot.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/67975/conversions/nafta-max.jpg",
+      "date": "Fri, 23 Oct 2026 10:34:35 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Илиас Пападопоулос повторно именуван за генерален директор за оперативни работи во Стопанска банка | Бизнис Вести",
+      "title": "Колони возила на Блаце, граѓаните заминаа за Косово за продолжениот викенд | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/b175c305fe/ilias-papadopoulos-povtorno-imenuvan-za-generalen-direktor-za-operativni-raboti-vo-stopanska-banka.html",
-      "image": "https://biznisvesti.mk/wp-content/uploads/2026/05/stopanska-200x300.jpg",
-      "date": "Fri, 23 Oct 2026 06:44:59 +0000"
+      "url": "https://time.mk/c/96d7294a37/koloni-vozila-na-blace-gragjanite-zaminaa-za-kosovo-za-prodolzeniot-vikend.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2026/10/sasasasas.png",
+      "date": "Fri, 23 Oct 2026 11:10:42 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Петровска: СДСМ ја губи поддршката на незадоволните од власта – тие гласови не доаѓаат кај нас | 4NEWS",
+      "title": "Ферати и романската амбасадорка разговараа за правата на заедниците и влашкиот јазик | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/ff668a96ff/petrovska-sdsm-ja-gubi-poddrskata-na-nezadovolnite-od-vlasta-tie-glasovi-ne-doagjaat-kaj-nas.html",
-      "image": "https://4news.mk/wp-content/uploads/2026/10/screenshot_13-1024x614.avif",
-      "date": "Fri, 23 Oct 2026 07:02:41 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "АЛАРМАНТНА Е СОСТОЈБАТА СО НЕДОСТИГОТ НА СУДИИ, СУДСТВОТО Е НА РАБ НА ОПСТАНОК, ПРЕДУПРЕДУВА НИВНОТО ЗДРУЖЕНИЕ, А ОВАА ВЛАСТ ТРИ ГОДИНИ НЕ РАСПИШУВА ОГЛАС ВО АКАДЕМИЈАТА ЗА НОВИ СУДИИ | Сакам да кажам",
-      "description": "",
-      "url": "https://time.mk/c/f798560ec2/alarmantna-e-sostojbata-so-nedostigot-na-sudii-sudstvoto-e-na-rab-na-opstanok-predupreduva-nivnoto-zdruzenie-a-ovaa-vlast-tri-godini-ne-raspisuva-oglas-vo-akademijata-za-novi-sudii.html",
-      "image": "https://sdk.mk/wp-content/uploads/2020/07/diplomi-akademija-sudii-obviniteli-843894398.jpg",
-      "date": "Thu, 22 Oct 2026 19:01:07 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Тетовски Интерпромет со намалена загуба во првите девет месеци | еМагазин",
-      "description": "",
-      "url": "https://time.mk/c/0b1e003fdc/tetovski-interpromet-so-namalena-zaguba-vo-prvite-devet-meseci.html",
-      "image": "https://emagazin.mk/wp-content/uploads/2025/05/berza-300x200.jpg",
-      "date": "Fri, 23 Oct 2026 06:30:46 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Платите растат на хартија, но просекот од 48.733 денари не покрива ни основни трошоци | Трн",
-      "description": "",
-      "url": "https://time.mk/c/5d5a9cc0a7/platite-rastat-na-hartija-no-prosekot-od-48-733-denari-ne-pokriva-ni-osnovni-trosoci.html",
-      "image": "https://trn.mk/wp-content/uploads/2024/09/denari-pari.jpg",
-      "date": "Fri, 23 Oct 2026 05:00:57 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Мерц од Црна Гора: Западен Балкан не смее да стане полигон за големите сили | Трн",
-      "description": "",
-      "url": "https://time.mk/c/5d6a999efb/merc-od-crna-gora-zapaden-balkan-ne-smee-da-stane-poligon-za-golemite-sili.html",
-      "image": "https://trn.mk/wp-content/uploads/2025/10/ff70a6b2-bdf2-4ca9-a251-253d5467306d.avif",
-      "date": "Fri, 23 Oct 2026 05:33:00 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Вознемирувачко видео: Бодигард во владата на Румен Радев брутално удри новинарка | Рацин",
-      "description": "",
-      "url": "https://time.mk/c/8e4cc25455/voznemiruvacko-video-bodigard-vo-vladata-na-rumen-radev-brutalno-udri-novinarka.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/10/sonja-koltuklieva-848x477.jpg?x92637",
-      "date": "Fri, 23 Oct 2026 06:40:55 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Путин: Преговорите за Украина мора да ја вклучат безбедноста на цела Европа | Независен",
-      "description": "",
-      "url": "https://time.mk/c/59c48a09ed/putin-pregovorite-za-ukraina-mora-da-ja-vklucat-bezbednosta-na-cela-evropa.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2022/12/putin-2.jpg.webp",
-      "date": "Fri, 23 Oct 2026 06:28:57 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ТРАМП ТВРДИ ДЕКА МАСК ЈА ВОЗОБНОВИЛ МРЕЖАТА СТАРЛИНК ЗА УКРАИНА, ЗЕЛЕНСКИ ВЕЛИ ДЕКА СЀ УШТЕ ИМА ПРОБЛЕМИ СО БРЗИНАТА | Сакам да кажам",
-      "description": "",
-      "url": "https://time.mk/c/bbd72fcc71/tramp-tvrdi-deka-mask-ja-vozobnovil-mrezata-starlink-za-ukraina-zelenski-veli-deka-sѐ-uste-ima-problemi-so-brzinata.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/10/ilon-mask-dpa-328923.jpg",
-      "date": "Fri, 23 Oct 2026 06:50:50 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Загадениот воздух го напаѓа и мозокот, Скопје со години на врвот на листите | Рацин",
-      "description": "",
-      "url": "https://time.mk/c/5c52e55bcc/zagadeniot-vozduh-go-napagja-i-mozokot-skopje-so-godini-na-vrvot-na-listite.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/10/zagadeno-skopje-726x480.jpg?x92637",
-      "date": "Fri, 23 Oct 2026 05:33:00 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Комерцијална банка нема да работи на 23 октомври – во сабота дел од експозитурите ќе бидат отворени | Пари",
-      "description": "",
-      "url": "https://time.mk/c/d96761a88b/komercijalna-banka-nema-da-raboti-na-23-oktomvri-vo-sabota-del-od-ekspoziturite-ke-bidat-otvoreni.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/10/NerabotniDenovi_23oktomvri-2026.jpg",
-      "date": "Fri, 23 Oct 2026 05:18:41 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "„Полицијата молчи, сите знаат и со страв ги пуштаат децата на улица“ – родители бараат итна реакција по нападите врз деца во Тетово | Скопје инфо",
-      "description": "",
-      "url": "https://time.mk/c/c7aabb280f/policijata-molci-site-znaat-i-so-strav-gi-pustaat-decata-na-ulica-roditeli-baraat-itna-reakcija-po-napadite-vrz-deca-vo-tetovo.html",
-      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/oktomvri/image-262966.jpg?itok=pLiSsr1p",
-      "date": "Fri, 23 Oct 2026 05:34:56 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "„Неколку месеци водиме постапка жими мајка“ – адвокатот на судијата Ристов го нападна обвинението | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/7cd4d73b87/nekolku-meseci-vodime-postapka-zimi-majka-advokatot-na-sudijata-ristov-go-napadna-obvinenieto.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/86590/conversions/text-max.jpg",
-      "date": "Thu, 22 Oct 2026 12:04:45 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Денеска се празнува Преподобен Теофил Струмички – светителот од околината на Струмица кој ги бранел светите икони | Екран",
-      "description": "",
-      "url": "https://time.mk/c/72c4f1f004/deneska-se-praznuva-prepodoben-teofil-strumicki-svetitelot-od-okolinata-na-strumica-koj-gi-branel-svetite-ikoni.html",
-      "image": "https://ekran.mk/wp-content/uploads/2026/10/teofil-300x272.jpg",
-      "date": "Fri, 23 Oct 2026 04:02:45 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "„Пијанечки денови на сливата 2026“ село Град | Вечер Прес",
-      "description": "",
-      "url": "https://time.mk/c/02cd9a1636/pijanecki-denovi-na-slivata-2026-selo-grad.html",
+      "url": "https://time.mk/c/ae46742c9c/ferati-i-romanskata-ambasadorka-razgovaraa-za-pravata-na-zaednicite-i-vlaskiot-jazik.html",
       "image": "",
-      "date": "Thu, 22 Oct 2026 13:58:58 +0000"
+      "date": "Fri, 23 Oct 2026 12:42:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Во Собранието ќе биде доделена државната награда „23 Октомври“ | Независен",
+      "title": "(ВИДЕО) Зошто на Македонија ѝ требаат 52 години да дојде до нивото на благосостојба на ЕУ | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/a9d04bde6d/vo-sobranieto-ke-bide-dodelena-drzavnata-nagrada-23-oktomvri.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/Sobranie-luge-vo-soobrakaj-vreme-esen-1-bg.jpg",
-      "date": "Fri, 23 Oct 2026 06:22:39 +0000"
+      "url": "https://time.mk/c/11b5e53ffb/video-zosto-na-makedonija-i-trebaat-52-godini-da-dojde-do-nivoto-na-blagosostojba-na-eu.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/10/North-Macedonias-slow-road-to-EU-wellbeing.png",
+      "date": "Fri, 23 Oct 2026 07:48:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "МУРАЛОТ „БИТОЛА БАБАМ БИТОЛА“, ПОСЛЕДНОТО МОНУМЕНТАЛНО ДЕЛО НА БОРКО ЛАЗЕСКИ ОД 1991, ИМА 90 ЛИКОВИ И АВТОПОРТРЕТ | Сакам да кажам",
+      "title": "Тренески и Пападопоулос реименувани за членови на УО на Стопанска банка | еМагазин",
       "description": "",
-      "url": "https://time.mk/c/35aec554f9/muralot-bitola-babam-bitola-poslednoto-monumentalno-delo-na-borko-lazeski-od-1991-ima-90-likovi-i-avtoportret.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/10/MURALOT.jpg",
-      "date": "Fri, 23 Oct 2026 06:58:37 +0000"
+      "url": "https://time.mk/c/d36ca0746c/treneski-i-papadopoulos-reimenuvani-za-clenovi-na-uo-na-stopanska-banka.html",
+      "image": "https://emagazin.mk/wp-content/uploads/2026/05/stb-1_1-200x300.jpg",
+      "date": "Fri, 23 Oct 2026 05:28:59 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Србија во изборен молк, 18 листи во трка за 250 пратенички места | 360 степени",
+      "description": "",
+      "url": "https://time.mk/c/6dcd214295/srbija-vo-izboren-molk-18-listi-vo-trka-za-250-pratenicki-mesta.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/10/Screenshot-2026-10-23-at-10-56-52-Vo-Srbija-v-nedela-ke-se-odrzhat-vonredni-parlamentarni-izbori.png",
+      "date": "Fri, 23 Oct 2026 09:08:58 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Јотова ќе бара оставка од шефот на Националната служба за обезбедување по инцидентот со турнатата новинарка | 360 степени",
+      "description": "",
+      "url": "https://time.mk/c/fc62b97e5a/jotova-ke-bara-ostavka-od-sefot-na-nacionalnata-sluzba-za-obezbeduvanje-po-incidentot-so-turnatata-novinarka.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/10/Jotova-Bugarska-novinarka-turnata-scaled.jpg",
+      "date": "Fri, 23 Oct 2026 08:42:46 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Франција ги забрани протестите во Марсеј и Лион, во Париз продолжен полицискиот час | Мета",
+      "description": "",
+      "url": "https://time.mk/c/02fc1cc563/francija-gi-zabrani-protestite-vo-marsej-i-lion-vo-pariz-prodolzen-policiskiot-cas.html",
+      "image": "https://meta.mk/wp-content/uploads/2025/09/pro-palestine_protest_in_paris_april_6_2025_â_08.jpg.webp",
+      "date": "Fri, 23 Oct 2026 11:44:57 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Нетанјаху сега ќе го затвора и Западниот Брег | Независен",
+      "description": "",
+      "url": "https://time.mk/c/e5e6b314e4/netanjahu-sega-ke-go-zatvora-i-zapadniot-breg.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/04/Benjamin-Netanjahu.jpg",
+      "date": "Fri, 23 Oct 2026 09:08:57 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Скопје истрча помасовно од Белград, Софија и Загреб: Маратонот го заокружи рекордното издание со благодарност до партнерите | Трн",
+      "description": "",
+      "url": "https://time.mk/c/85ec0ade31/skopje-istrca-pomasovno-od-belgrad-sofija-i-zagreb-maratonot-go-zaokruzi-rekordnoto-izdanie-so-blagodarnost-do-partnerite.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/10/skopski-maraton.jpeg",
+      "date": "Fri, 23 Oct 2026 09:08:58 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Се наѕира првиот снег во Скопје: Долгорочната прогноза најавува снег во средината на ноември | Скопје инфо",
+      "description": "",
+      "url": "https://time.mk/c/05286f058f/se-nazira-prviot-sneg-vo-skopje-dolgorocnata-prognoza-najavuva-sneg-vo-sredinata-na-noemvri.html",
+      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/oktomvri/image-262982.jpeg?itok=FetWbKBy",
+      "date": "Fri, 23 Oct 2026 08:10:44 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "СМРТ ПОД СОМНИТЕЛНИ ОКОЛНОСТИ: Маж пронајден мртов во Скопје – можно е да станува збор за убиство | Либертас",
+      "description": "",
+      "url": "https://time.mk/c/caad4f07d9/smrt-pod-somnitelni-okolnosti-maz-pronajden-mrtov-vo-skopje-mozno-e-da-stanuva-zbor-za-ubistvo.html",
+      "image": "https://libertas.mk/wp-content/uploads/2026/09/lenta-policija.jpg",
+      "date": "Fri, 23 Oct 2026 12:12:57 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Полицијата им пронашла кокаин и марихуана: Изминатото деноноќие уапсени 14 лица поради дрога | Скопје инфо",
+      "description": "",
+      "url": "https://time.mk/c/e4bf3d5919/policijata-im-pronasla-kokain-i-marihuana-izminatoto-denonokie-uapseni-14-lica-poradi-droga.html",
+      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/oktomvri/image-263005.jpg?itok=0VDujlRt",
+      "date": "Fri, 23 Oct 2026 12:32:59 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Во Прилеп одбележан празникот 23-ти Октомври | Нова Македонија",
+      "description": "",
+      "url": "https://time.mk/c/b1019e624e/vo-prilep-odbelezan-praznikot-23-ti-oktomvri.html",
+      "image": "https://novamakedonija.com.mk/wp-content/uploads/2026/10/46295-150x150.jpg",
+      "date": "Fri, 23 Oct 2026 10:26:52 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Коњановски: Борбата на македонските револуционери е пример и обврска да создаваме подобра иднина | Булевар",
+      "description": "",
+      "url": "https://time.mk/c/0cca985854/konjanovski-borbata-na-makedonskite-revolucioneri-e-primer-i-obvrska-da-sozdavame-podobra-idnina.html",
+      "image": "https://bulevar.mk/wp-content/uploads/2026/10/img_1709-1024x683.jpeg",
+      "date": "Fri, 23 Oct 2026 10:20:58 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "(ФОТО) ПОЧИНАЛ ПОЗНАТ АКТЕР: Стана познат по своите улоги во филмовите „Топ Ган“ и „Осми Патник“ – тажната вест ја објави семејството | Екран",
+      "description": "",
+      "url": "https://time.mk/c/dec0296363/foto-pocinal-poznat-akter-stana-poznat-po-svoite-ulogi-vo-filmovite-top-gan-i-osmi-patnik-taznata-vest-ja-objavi-semejstvoto.html",
+      "image": "https://ekran.mk/wp-content/uploads/2026/10/tom-skerit-300x204.jpg",
+      "date": "Fri, 23 Oct 2026 12:30:49 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Откриено кои се гостите на концертот на Влатко Стефановски во Македонската филхармонија | Независен",
+      "description": "",
+      "url": "https://time.mk/c/8a7f5414ea/otkrieno-koi-se-gostite-na-koncertot-na-vlatko-stefanovski-vo-makedonskata-filharmonija.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/35-god-Nezavisnost-koncert-Kareras-so-makedonski-zvezdi-Vlatko-Stefanovski-2-bg.jpg",
+      "date": "Fri, 23 Oct 2026 11:50:43 +0000"
     }
   ],
   "de": [
@@ -458,6 +458,15 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "These TP-Link Travel Routers Are up to 25% Off Right Now",
+      "description": "These portable Wi-Fi 6 routers create a private network from hotel or public wifi.",
+      "url": "https://lifehacker.com/tech/tp-link-roam-6-router-sale-october-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01KTV04H33B1PES9H3ZM2NSP7M/hero-image.jpg",
+      "date": "Fri, 23 Oct 2026 12:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place",
       "description": "Keep up with all of the best deals that Lifehacker publishes, including laptops, speakers, TVs, security cameras, and more.",
       "url": "https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS",
@@ -628,12 +637,48 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "This Amazon Basics Power Bank Is 67% Off Right Now",
-      "description": "The Amazon Basics 20,000mAh portable charger is $12.99 at Woot, down from $38.99.",
-      "url": "https://lifehacker.com/tech/amazon-basics-20000mah-power-bank-sale-october-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M5E9YN4HNM7XD1TXJ2J1JV4F/hero-image.jpg",
-      "date": "Wed, 21 Oct 2026 13:00:00 +0000"
+      "source": "PCWorld",
+      "title": "Meta just reminded us that sharing AI chats is a terrible idea",
+      "description": "It seems innocuous enough: a “share” button that invites a friend or colleague to take a peek at your current AI chat session, perfect for chewing over the model’s replies or reviewing the slideshow decks, graphs, or other artifacts it created. Time and again, though, we’ve seen shared AI chats leak over the internet. It’s happened to ChatGPT users and Claude subscribers, and Meta’s Muse is now the latest AI service to spill secrets on the web. This isn’t an issue of rogue AI agents getting chat",
+      "url": "https://www.pcworld.com/article/3267268/meta-just-reminded-us-that-sharing-ai-chats-is-a-terrible-idea.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3267268-0-88806900-1792756822-Claude-chat-share.jpeg?quality=50&strip=all",
+      "date": "Fri, 23 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
+      "description": "If you’re looking for an affordable Windows machine under $500 , a blazing fast gaming beast for those intense matches, or a portable 2-in-1 for school or work, you’ve got plenty of great choices right now. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 80 laptops every year. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches",
+      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/550968-0-52093500-1792756244-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
+      "date": "Fri, 23 Oct 2026 11:50:31 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Congress has a radical idea: Let people own the games they buy",
+      "description": "U.S. Representative Ritchie Torres (NY-15) is making headlines this month for proposing a bill of legislation that aims to give you ownership of the games you buy, rather than the current commonplace practice of selling you a license to play that game which can be revoked at any time. Rep. Torres announced the bill (branded the “Power To The Players Act”) is intended to “direct the Federal Trade Commission to establish regulations protecting consumers’ ability to own and play the video games the",
+      "url": "https://www.pcworld.com/article/3266241/congress-has-a-radical-idea-let-people-own-the-games-they-buy.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3266241-0-51084300-1792753247-uscapitolbuilding2.jpg?quality=50&strip=all",
+      "date": "Fri, 23 Oct 2026 11:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "From Alaskan bears to baby bats, these lives cams are a treat",
+      "description": "Ever wanted to watch bears catch salmon in Alaska or elephants gather around a watering hole in Africa? You might not get the chance to see these events in person, but thanks to a cool website called Explore.org Live Cams , you can watch them from your computer. The free website features more than 200 live cameras set up in wildlife locations around the world. You can watch brown bears fishing at Brooks Falls in Alaska, check out the infamous Trempealeau Eagles in their nest, or get spooked by t",
+      "url": "https://www.pcworld.com/article/3263311/take-a-break-from-work-and-watch-these-free-wildlife-cams.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3263311-0-03436700-1792751426-Explore-live-cams.png",
+      "date": "Fri, 23 Oct 2026 10:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Turn old, shaky footage into 4K with VideoProc Converter AI, now $59.95 for life",
+      "description": "TL;DR: VideoProc Converter AI Lifetime Family License for Windows is $59.95 (reg. $119.90). It does AI upscaling to 4K, has 420+ output formats, and installs on five PCs. Most video converters change a file’s format and stop there, but VideoProc Converter also uses AI to upscale low-res video to 1080p, 2K, or 4 K resolution. Right now, a lifetime family license for Windows is $59.95 (reg. $119.90). Digiarty makes VideoProc. The company has been building video software for 20 years and has more t",
+      "url": "https://www.pcworld.com/article/3265270/turn-old-shaky-footage-into-4k-with-videoproc-converter-ai-now-59-95-for-life.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3265270-0-91124600-1792742460-VideoProc-2.jpg?quality=50&strip=all",
+      "date": "Fri, 23 Oct 2026 08:00:00 +0000"
     },
     {
       "category": "eng",
@@ -679,51 +724,6 @@
       "url": "https://www.pcworld.com/article/3267144/a-hidden-windows-11-menu-could-make-moving-the-taskbar-so-much-easier.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3267144-0-76962700-1792678587-Finger-touching-Windows-11-logo-on-screen-in-dark-room.jpg?quality=50&strip=all",
       "date": "Thu, 22 Oct 2026 14:15:10 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Hear me out: Xbox’s new Cloud Playtime streaming charges are reasonable",
-      "description": "“I want to play video games, but I don’t have the expensive hardware to play them.” That’s the problem that services like Game Pass and GeForce Now solve, albeit with yet another subscription that many of us are tired of paying. Microsoft’s solution to the solution is now out in an Xbox Insider preview. It’s called “Cloud Playtime,” allowing you to pay a flat fee for set streaming hours outside of Game Pass. This could be a little confusing, so let me lay it out for you. You might want to pay fo",
-      "url": "https://www.pcworld.com/article/3267045/hear-me-out-xboxs-cloud-playtime-streaming-charges-are-reasonable.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3267045-0-24409300-1792678347-image_12d6e8.png",
-      "date": "Thu, 22 Oct 2026 14:12:13 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "I needed 20+ years of address history. Gemini found it for me in minutes",
-      "description": "Filing out all the paperwork for a new apartment or home mortgage can be tough enough, but there’s one gotcha that can be particularly annoying: detailing the past addresses where you’ve lived over the past five, 10, or even 20 years, including dates for when you moved in and out. That tripped me up last year as I was completing a co-op application, leaving me to dig through my files for leases dating back a decade or longer. When did I move into that Brooklyn apartment on Henry Street, and what",
-      "url": "https://www.pcworld.com/article/3266244/i-needed-20-years-of-address-history-gemini-found-it-for-me-in-minutes.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3266244-0-40041300-1792677636-Google-Gemini-mobile-icon.jpeg?quality=50&strip=all",
-      "date": "Thu, 22 Oct 2026 14:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "1Password opens the door to AI agents — without handing over your passwords",
-      "description": "It’s no longer enough for AI agents to browse the web and check your email; now, they want to sign into your accounts too, and one of the most popular password managers is ready to help out. 1Password has just announced a new feature that allows AI agents like ChatGPT Dots, the just-unveiled Claude Duet, Grok Bot, Meta Muse, and more to tap into your vault of stored usernames and passwords, but without actually seeing them. Available now for 1Password individual and family accounts, the 1Passwor",
-      "url": "https://www.pcworld.com/article/3267020/1password-opens-the-door-to-ai-agents-without-handing-over-your-passwords.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3267020-0-03782400-1792676295-1Password-for-Agents.jpg?quality=50&strip=all",
-      "date": "Thu, 22 Oct 2026 13:37:53 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Please don’t use AI hacks to debloat your TV",
-      "description": "Fed up with your smart TV’s bloated interface and aggressive data collection? The AI bros are on it. Over the past week, several developers claim to have “hacked” their TVs with AI, making them faster and less privacy-invasive using tools like Claude Code. On sites like X and YouTube, they’ve been posting about their exploits and racking up millions of views in the process. TechCrunch’s Sarah Perez spotted the trend , which has since been covered by numerous other media outlets . Temping as thes",
-      "url": "https://www.pcworld.com/article/3266473/please-dont-use-ai-hacks-to-debloat-your-tv.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3266473-0-30353000-1792674020-cleanyourtv_e4aba3.jpg?quality=50&strip=all",
-      "date": "Thu, 22 Oct 2026 13:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
-      "description": "If you’re looking for an affordable Windows machine under $500 , a blazing fast gaming beast for those intense matches, or a portable 2-in-1 for school or work, you’ve got plenty of great choices right now. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 80 laptops every year. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches",
-      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/550968-0-35544000-1792671188-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
-      "date": "Thu, 22 Oct 2026 12:12:53 +0000"
     }
   ],
   "starwars": [
@@ -901,6 +901,33 @@
     {
       "category": "starwars",
       "source": "Jedi News",
+      "title": "Tarkin’s Top Shelf #469: VADER, Books, and Comics!",
+      "description": "Time to revisit Tarkin's Top Shelf with episode 469 discussing all things Star Wars. The post Tarkin’s Top Shelf #469: VADER, Books, and Comics! appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/tarkins-top-shelf-469-vader-books-and-comics/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2018/04/tarkins-top-shelf-300x201.jpg",
+      "date": "Thu, 22 Oct 2026 22:49:33 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Billie Lourd on Her Momby’s 70th Birthday",
+      "description": "Yesterday, October 21st, would've been Carrie Fisher's 70th birthday and her daughter Billie Lourd took to Instagram to share her feelings of anger, sadness, frustration, joy, numbness and warmth. The post Billie Lourd on Her Momby’s 70th Birthday appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/billie-lourd-on-her-mombys-70th-birthday/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/Carrie-Fisher-Birthday-Oct26-300x201.jpg",
+      "date": "Thu, 22 Oct 2026 16:00:24 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Star Wars Splash Page #525: Hey Hey, My My (Into the Black)",
+      "description": "Issue 525 of Star Wars Splash Page podcast hits the shelves. The post Star Wars Splash Page #525: Hey Hey, My My (Into the Black) appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/star-wars-splash-page-525-hey-hey-my-my-into-the-black/",
+      "image": "",
+      "date": "Thu, 22 Oct 2026 14:25:31 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
       "title": "Richard Summers-Calvert, Voice of Biddy Blas in Star Wars: Galactic Racer, at MCM Comic Con London",
       "description": "Richard Summers-Calvert, the voice of Biddy Blas in Star Wars: Galactic Racer, will be attending MCM Comic Con London at London's ExCeL this Friday, 23rd October. The post Richard Summers-Calvert, Voice of Biddy Blas in Star Wars: Galactic Racer, at MCM Comic Con London appeared first on Jedi News .",
       "url": "https://www.jedinews.com/events/articles/richard-summers-calvert-voice-of-biddy-blas-in-star-wars-galactic-racer-at-mcm-comic-con-london/",
@@ -969,33 +996,6 @@
       "url": "https://www.jedinews.com/film-music-tv/articles/daisy-ridley-to-star-in-new-take-on-voyage-to-the-bottom-of-the-sea-for-paramount/",
       "image": "https://www.jedinews.com/wp-content/uploads/2026/10/Daisy-Ridley-Paramount-Oct26-300x201.jpg",
       "date": "Wed, 21 Oct 2026 19:43:58 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Games Studio Bioware is Shutting Down",
-      "description": "After EA decided to pull the plug on the development of a new Mass Effect project, they are closing games studio BioWare, the developers of Star Wars: The Old Republic, along with their offices in Edmonton, and bringing to a close over three decades of adventures. The post Games Studio Bioware is Shutting Down appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/gaming/articles/games-studio-bioware-is-shutting-down/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/Bioware-Oct26-300x201.jpg",
-      "date": "Wed, 21 Oct 2026 19:08:52 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Full Of Sith Episode DCLIII: Working for Star Wars",
-      "description": "It's time to join the team for episode DCLIII of Full of Sith. The post Full Of Sith Episode DCLIII: Working for Star Wars appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/full-of-sith-episode-dcliii-working-for-star-wars/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2018/04/full-of-sith-network-300x201.jpg",
-      "date": "Wed, 21 Oct 2026 16:53:36 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Build the Millennium Falcon: Part 97",
-      "description": "Another delivery from Fanhome has landed on the Alders doorstep. Mark his daughter Ember, continue their journey to build their very own version of the iconic YT-1300 freighter. This week they take on part 97. The post Build the Millennium Falcon: Part 97 appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/collecting/articles/build-the-millennium-falcon-part-97/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2024/01/Build-the-Millennium-Falcon-FI-300x201.jpg",
-      "date": "Wed, 21 Oct 2026 16:01:40 +0000"
     }
   ],
   "youtube": [
