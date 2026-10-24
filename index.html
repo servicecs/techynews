@@ -1,1641 +1,233 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-
 <meta charset="UTF-8">
-
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 <title>Yane's Aggregator</title>
+<meta name="description" content="Yane's Aggregator - MKD, DE, ENG and Star Wars News">
 
-<meta
-    name="description"
-    content="Yane's Aggregator - MKD, DE, ENG and Star Wars News"
->
-
-
-<!-- =====================================================
-     GOOGLE ANALYTICS
-===================================================== -->
-
+<!-- GOOGLE ANALYTICS -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5RPGXB9L5W"></script>
-
 <script>
-
 window.dataLayer = window.dataLayer || [];
-
-function gtag() {
-    dataLayer.push(arguments);
-}
-
+function gtag() { dataLayer.push(arguments); }
 gtag('js', new Date());
-
 gtag('config', 'G-5RPGXB9L5W');
-
 </script>
 
-
 <style>
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:Arial,Helvetica,sans-serif;background:#f1f3f5;color:#222}
+header{background:linear-gradient(135deg,#111827,#263244);color:#fff;text-align:center;padding:28px 20px}
+header h1{font-size:30px}
+header p{margin-top:7px;color:#cbd5e1;font-size:14px}
+.section-nav{display:flex;justify-content:center;align-items:center;gap:9px;flex-wrap:wrap;padding:10px 15px;background:#fff;border-bottom:1px solid #ddd;position:sticky;top:0;z-index:1000;box-shadow:0 2px 8px rgba(0,0,0,.06)}
+.section-nav a{text-decoration:none;color:#222;background:#f3f4f6;border:1px solid #d1d5db;padding:7px 13px;border-radius:20px;font-size:13px;font-weight:bold;transition:.2s}
+.section-nav a:hover{background:#111827;color:#fff}
+main{width:94%;max-width:1400px;margin:22px auto}
+.banner-title{text-align:center;font-size:18px;font-weight:bold;margin-bottom:12px}
+.web-banners{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;width:100%;max-width:1150px;margin:0 auto 24px auto}
+.youtube-banners{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;width:100%;max-width:950px;margin:0 auto 35px auto}
+.banner{min-height:60px;display:flex;align-items:center;justify-content:center;text-align:center;padding:10px;background:#fff;border:1px solid #ddd;border-radius:10px;color:#222;text-decoration:none;font-weight:bold;font-size:14px;box-shadow:0 2px 7px rgba(0,0,0,.07);transition:transform .2s,box-shadow .2s}
+.banner:hover{transform:translateY(-3px);box-shadow:0 7px 16px rgba(0,0,0,.14)}
+.web-banner{border-top:4px solid #374151}
+.youtube-banner{border-top:4px solid #f00}
+.rumble-banner{border-top:4px solid #85c441}
+.banner-icon{font-size:20px;margin-right:7px}
+.section{margin-bottom:55px;scroll-margin-top:70px}
+.section-title{margin-bottom:16px;padding-bottom:8px;border-bottom:3px solid #222}
+.section-title h2{font-size:24px}
+.news-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:15px}
+.card{background:#fff;border:1px solid #ddd;border-radius:10px;overflow:hidden;box-shadow:0 2px 7px rgba(0,0,0,.06);transition:transform .2s,box-shadow .2s}
+.card:hover{transform:translateY(-3px);box-shadow:0 8px 18px rgba(0,0,0,.13)}
+.card a{display:block;color:inherit;text-decoration:none}
+.image-wrapper{width:100%;height:150px;background:#e5e7eb;overflow:hidden}
+.card-image{width:100%;height:100%;object-fit:cover;display:block;transition:transform .3s}
+.card:hover .card-image{transform:scale(1.04)}
+.card-content{padding:11px}
+.card-title{font-size:15px;font-weight:bold;line-height:1.35;margin-bottom:7px}
+.card-source{font-size:12px;font-weight:bold;color:#6b7280;margin-bottom:3px}
+.card-date{font-size:11px;color:#9ca3af}
+.loading{grid-column:1/-1;text-align:center;padding:35px;color:#777}
+.error{grid-column:1/-1;padding:18px;background:#fee2e2;color:#991b1b;border-radius:10px;text-align:center}
+.back-to-top{display:block;width:fit-content;margin:5px auto 30px auto;padding:10px 20px;background:#111827;color:#fff;text-decoration:none;border-radius:22px;font-size:13px;font-weight:bold;transition:background .2s,transform .2s}
+.back-to-top:hover{background:#374151;transform:translateY(-2px)}
+footer{padding:28px 20px;background:#111827;color:#9ca3af;text-align:center;font-size:12px}
 
-/* =====================================================
-   RESET
-===================================================== */
+/* Ad at the top of the page */
+#aadsTop{position:relative;text-align:center;font-size:0;background:#fff;z-index:1001}
+#aadsTop iframe{border:0;padding:0;width:70%;min-height:90px;overflow:hidden;margin:auto;display:block}
+#aadsClose{position:absolute;top:4px;right:24px;border-radius:4px;background:rgba(248,248,249,.85);padding:4px;z-index:1002;cursor:pointer;line-height:0}
+#aadsstickymvm4sra6{display:none}
+#aadsstickymvm4sra6:checked + #aadsTop{display:none}
 
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+@media (max-width:1000px){
+ .web-banners{grid-template-columns:repeat(2,1fr)}
+ .youtube-banners{grid-template-columns:repeat(3,1fr)}
+ .news-grid{grid-template-columns:repeat(3,1fr)}
 }
-
-html {
-    scroll-behavior: smooth;
+@media (max-width:700px){
+ header h1{font-size:25px}
+ main{width:92%}
+ .section-nav{gap:6px}
+ .section-nav a{padding:6px 10px;font-size:12px}
+ .web-banners,.youtube-banners{grid-template-columns:1fr 1fr;gap:8px}
+ .banner{min-height:56px;font-size:11px;padding:7px}
+ .banner-icon{font-size:17px;margin-right:4px}
+ .news-grid{grid-template-columns:1fr 1fr;gap:10px}
+ .image-wrapper{height:125px}
+ .card-content{padding:9px}
+ .card-title{font-size:14px}
+ #aadsTop iframe{width:100%}
 }
-
-body {
-
-    font-family:
-        Arial,
-        Helvetica,
-        sans-serif;
-
-    background: #f1f3f5;
-
-    color: #222;
-
+@media (max-width:430px){
+ .news-grid{grid-template-columns:1fr}
+ .image-wrapper{height:190px}
 }
-
-
-/* =====================================================
-   HEADER
-===================================================== */
-
-header {
-
-    background:
-        linear-gradient(
-            135deg,
-            #111827,
-            #263244
-        );
-
-    color: white;
-
-    text-align: center;
-
-    padding: 28px 20px;
-
-}
-
-header h1 {
-
-    font-size: 30px;
-
-}
-
-header p {
-
-    margin-top: 7px;
-
-    color: #cbd5e1;
-
-    font-size: 14px;
-
-}
-
-
-/* =====================================================
-   NAVIGATION
-===================================================== */
-
-.section-nav {
-
-    display: flex;
-
-    justify-content: center;
-
-    align-items: center;
-
-    gap: 9px;
-
-    flex-wrap: wrap;
-
-    padding: 10px 15px;
-
-    background: white;
-
-    border-bottom:
-        1px solid #ddd;
-
-    position: sticky;
-
-    top: 0;
-
-    z-index: 1000;
-
-    box-shadow:
-        0 2px 8px
-        rgba(0,0,0,0.06);
-
-}
-
-.section-nav a {
-
-    text-decoration: none;
-
-    color: #222;
-
-    background: #f3f4f6;
-
-    border:
-        1px solid #d1d5db;
-
-    padding:
-        7px 13px;
-
-    border-radius: 20px;
-
-    font-size: 13px;
-
-    font-weight: bold;
-
-    transition: 0.2s;
-
-}
-
-.section-nav a:hover {
-
-    background: #111827;
-
-    color: white;
-
-}
-
-
-/* =====================================================
-   MAIN
-===================================================== */
-
-main {
-
-    width: 94%;
-
-    max-width: 1400px;
-
-    margin:
-        22px auto;
-
-}
-
-
-/* =====================================================
-   BANNER TITLES
-===================================================== */
-
-.banner-title {
-
-    text-align: center;
-
-    font-size: 18px;
-
-    font-weight: bold;
-
-    margin-bottom: 12px;
-
-}
-
-
-/* =====================================================
-   WEB BANNERS
-===================================================== */
-
-.web-banners {
-
-    display: grid;
-
-    grid-template-columns:
-        repeat(4, 1fr);
-
-    gap: 10px;
-
-    width: 100%;
-
-    max-width: 1150px;
-
-    margin:
-        0 auto 24px auto;
-
-}
-
-
-/* =====================================================
-   YOUTUBE BANNERS
-===================================================== */
-
-.youtube-banners {
-
-    display: grid;
-
-    grid-template-columns:
-        repeat(3, 1fr);
-
-    gap: 10px;
-
-    width: 100%;
-
-    max-width: 950px;
-
-    margin:
-        0 auto 35px auto;
-
-}
-
-
-/* =====================================================
-   BANNERS
-===================================================== */
-
-.banner {
-
-    min-height: 60px;
-
-    display: flex;
-
-    align-items: center;
-
-    justify-content: center;
-
-    text-align: center;
-
-    padding: 10px;
-
-    background: white;
-
-    border:
-        1px solid #ddd;
-
-    border-radius: 10px;
-
-    color: #222;
-
-    text-decoration: none;
-
-    font-weight: bold;
-
-    font-size: 14px;
-
-    box-shadow:
-        0 2px 7px
-        rgba(0,0,0,0.07);
-
-    transition:
-        transform 0.2s,
-        box-shadow 0.2s;
-
-}
-
-.banner:hover {
-
-    transform:
-        translateY(-3px);
-
-    box-shadow:
-        0 7px 16px
-        rgba(0,0,0,0.14);
-
-}
-
-.web-banner {
-
-    border-top:
-        4px solid #374151;
-
-}
-
-.youtube-banner {
-
-    border-top:
-        4px solid #ff0000;
-
-}
-
-.banner-icon {
-
-    font-size: 20px;
-
-    margin-right: 7px;
-
-}
-
-
-/* =====================================================
-   SECTIONS
-===================================================== */
-
-.section {
-
-    margin-bottom: 55px;
-
-    scroll-margin-top: 70px;
-
-}
-
-.section-title {
-
-    margin-bottom: 16px;
-
-    padding-bottom: 8px;
-
-    border-bottom:
-        3px solid #222;
-
-}
-
-.section-title h2 {
-
-    font-size: 24px;
-
-}
-
-
-/* =====================================================
-   NEWS GRID
-===================================================== */
-
-.news-grid {
-
-    display: grid;
-
-    grid-template-columns:
-        repeat(
-            auto-fill,
-            minmax(
-                220px,
-                1fr
-            )
-        );
-
-    gap: 15px;
-
-}
-
-
-/* =====================================================
-   NEWS CARD
-===================================================== */
-
-.card {
-
-    background: white;
-
-    border:
-        1px solid #ddd;
-
-    border-radius: 10px;
-
-    overflow: hidden;
-
-    box-shadow:
-        0 2px 7px
-        rgba(0,0,0,0.06);
-
-    transition:
-        transform 0.2s,
-        box-shadow 0.2s;
-
-}
-
-.card:hover {
-
-    transform:
-        translateY(-3px);
-
-    box-shadow:
-        0 8px 18px
-        rgba(0,0,0,0.13);
-
-}
-
-.card a {
-
-    display: block;
-
-    color: inherit;
-
-    text-decoration: none;
-
-}
-
-
-/* =====================================================
-   IMAGE
-===================================================== */
-
-.image-wrapper {
-
-    width: 100%;
-
-    height: 150px;
-
-    background: #e5e7eb;
-
-    overflow: hidden;
-
-}
-
-.card-image {
-
-    width: 100%;
-
-    height: 100%;
-
-    object-fit: cover;
-
-    display: block;
-
-    transition:
-        transform 0.3s;
-
-}
-
-.card:hover .card-image {
-
-    transform:
-        scale(1.04);
-
-}
-
-
-/* =====================================================
-   CARD CONTENT
-===================================================== */
-
-.card-content {
-
-    padding: 11px;
-
-}
-
-.card-title {
-
-    font-size: 15px;
-
-    font-weight: bold;
-
-    line-height: 1.35;
-
-    margin-bottom: 7px;
-
-}
-
-.card-source {
-
-    font-size: 12px;
-
-    font-weight: bold;
-
-    color: #6b7280;
-
-    margin-bottom: 3px;
-
-}
-
-.card-date {
-
-    font-size: 11px;
-
-    color: #9ca3af;
-
-}
-
-
-/* =====================================================
-   LOADING
-===================================================== */
-
-.loading {
-
-    grid-column:
-        1 / -1;
-
-    text-align: center;
-
-    padding: 35px;
-
-    color: #777;
-
-}
-
-
-/* =====================================================
-   ERROR
-===================================================== */
-
-.error {
-
-    grid-column:
-        1 / -1;
-
-    padding: 18px;
-
-    background: #fee2e2;
-
-    color: #991b1b;
-
-    border-radius: 10px;
-
-    text-align: center;
-
-}
-
-
-/* =====================================================
-   BACK TO TOP
-===================================================== */
-
-.back-to-top {
-
-    display: block;
-
-    width: fit-content;
-
-    margin:
-        5px auto 30px auto;
-
-    padding:
-        10px 20px;
-
-    background: #111827;
-
-    color: white;
-
-    text-decoration: none;
-
-    border-radius: 22px;
-
-    font-size: 13px;
-
-    font-weight: bold;
-
-    transition:
-        background 0.2s,
-        transform 0.2s;
-
-}
-
-.back-to-top:hover {
-
-    background: #374151;
-
-    transform:
-        translateY(-2px);
-
-}
-
-
-/* =====================================================
-   FOOTER
-===================================================== */
-
-footer {
-
-    padding:
-        28px 20px;
-
-    background: #111827;
-
-    color: #9ca3af;
-
-    text-align: center;
-
-    font-size: 12px;
-
-}
-
-
-/* =====================================================
-   TABLET
-===================================================== */
-
-@media (max-width: 1000px) {
-
-    .web-banners {
-
-        grid-template-columns:
-            repeat(2, 1fr);
-
-    }
-
-    .youtube-banners {
-
-        grid-template-columns:
-            repeat(3, 1fr);
-
-    }
-
-    .news-grid {
-
-        grid-template-columns:
-            repeat(
-                3,
-                1fr
-            );
-
-    }
-
-}
-
-
-/* =====================================================
-   MOBILE
-===================================================== */
-
-@media (max-width: 700px) {
-
-    header h1 {
-
-        font-size: 25px;
-
-    }
-
-    main {
-
-        width: 92%;
-
-    }
-
-    .section-nav {
-
-        gap: 6px;
-
-    }
-
-    .section-nav a {
-
-        padding:
-            6px 10px;
-
-        font-size: 12px;
-
-    }
-
-    .web-banners {
-
-        grid-template-columns:
-            1fr 1fr;
-
-        gap: 8px;
-
-    }
-
-    .youtube-banners {
-
-        grid-template-columns:
-            1fr 1fr;
-
-        gap: 8px;
-
-    }
-
-    .banner {
-
-        min-height: 56px;
-
-        font-size: 11px;
-
-        padding: 7px;
-
-    }
-
-    .banner-icon {
-
-        font-size: 17px;
-
-        margin-right: 4px;
-
-    }
-
-    .news-grid {
-
-        grid-template-columns:
-            1fr 1fr;
-
-        gap: 10px;
-
-    }
-
-    .image-wrapper {
-
-        height: 125px;
-
-    }
-
-    .card-content {
-
-        padding: 9px;
-
-    }
-
-    .card-title {
-
-        font-size: 14px;
-
-    }
-
-}
-
-
-/* =====================================================
-   SMALL MOBILE
-===================================================== */
-
-@media (max-width: 430px) {
-
-    .news-grid {
-
-        grid-template-columns:
-            1fr;
-
-    }
-
-    .image-wrapper {
-
-        height: 190px;
-
-    }
-
-}
-
 </style>
-
 </head>
-
 
 <body id="top">
 
-
-<!-- =====================================================
-     HEADER
-===================================================== -->
+<!-- BEGIN AADS AD UNIT 2459707 (top) -->
+<input autocomplete="off" type="checkbox" id="aadsstickymvm4sra6" hidden>
+<div id="aadsTop">
+<label for="aadsstickymvm4sra6" id="aadsClose" title="Close ad">
+<svg fill="#000000" height="16" width="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 490"><polygon points="456.851,0 245,212.564 33.149,0 0.708,32.337 212.669,245.004 0.708,457.678 33.149,490 245,277.443 456.851,490 489.292,457.678 277.331,245.004 489.292,32.337"/></svg>
+</label>
+<iframe data-aa="2459707" src="https://acceptable.a-ads.com/2459707/?size=Adaptive" title="Advertisement"></iframe>
+</div>
+<!-- END AADS AD UNIT 2459707 -->
 
 <header>
-
-<h1>
-Yane's Aggregator
-</h1>
-
-<p>
-MKD • DE • ENG • Star Wars News
-</p>
-
+<h1>Yane's Aggregator</h1>
+<p>MKD • DE • ENG • Star Wars News</p>
 </header>
 
-
-<!-- =====================================================
-     NAVIGATION
-===================================================== -->
-
 <nav class="section-nav">
-
-<a href="#mkd-section">
-🇲🇰 MKD
-</a>
-
-<a href="#de-section">
-🇩🇪 DE
-</a>
-
-<a href="#eng-section">
-🇬🇧 ENG
-</a>
-
-<a href="#starwars-section">
-⭐ Star Wars
-</a>
-
+<a href="#mkd-section">🇲🇰 MKD</a>
+<a href="#de-section">🇩🇪 DE</a>
+<a href="#eng-section">🇬🇧 ENG</a>
+<a href="#starwars-section">⭐ Star Wars</a>
 </nav>
-
 
 <main>
 
-
-<!-- =====================================================
-     WEB BANNERS
-===================================================== -->
-
-<div class="banner-title">
-Web Sites
-</div>
-
-
+<div class="banner-title">Web Sites</div>
 <div class="web-banners">
-
-
-<a
-    class="banner web-banner"
-    href="https://bloxgamesev7-prog.github.io/openzip/"
-    target="_blank"
-    rel="noopener noreferrer"
->
-
-<span class="banner-icon">
-🌐
-</span>
-
-OpenZIP
-
-</a>
-
-
-<a
-    class="banner web-banner"
-    href="https://tendzi.blogspot.com/?m=1"
-    target="_blank"
-    rel="noopener noreferrer"
->
-
-<span class="banner-icon">
-📝
-</span>
-
-Tendzi Blog
-
-</a>
-
-
-<a
-    class="banner web-banner"
-    href="https://forfun81.github.io/#top"
-    target="_blank"
-    rel="noopener noreferrer"
->
-
-<span class="banner-icon">
-💻
-</span>
-
-ForFun81
-
-</a>
-
-
-<a
-    class="banner web-banner"
-    href="https://techy.techygithub.workers.dev/"
-    target="_blank"
-    rel="noopener noreferrer"
->
-
-<span class="banner-icon">
-⚡
-</span>
-
-Techy
-
-</a>
-
-
+<a class="banner web-banner" href="https://bloxgamesev7-prog.github.io/openzip/" target="_blank" rel="noopener noreferrer"><span class="banner-icon">🌐</span>OpenZIP</a>
+<a class="banner web-banner" href="https://tendzi.blogspot.com/?m=1" target="_blank" rel="noopener noreferrer"><span class="banner-icon">📝</span>Tendzi Blog</a>
+<a class="banner web-banner" href="https://forfun81.github.io/#top" target="_blank" rel="noopener noreferrer"><span class="banner-icon">💻</span>ForFun81</a>
+<a class="banner web-banner" href="https://techy.techygithub.workers.dev/" target="_blank" rel="noopener noreferrer"><span class="banner-icon">⚡</span>Techy</a>
 </div>
 
-
-<!-- =====================================================
-     YOUTUBE BANNERS
-===================================================== -->
-
-<div class="banner-title">
-YouTube Channels
-</div>
-
-
+<div class="banner-title">Video Channels</div>
 <div class="youtube-banners">
-
-
-<a
-    class="banner youtube-banner"
-    href="https://youtube.com/@draganlaboski?si=fpSIyfXdXkzOUL8b"
-    target="_blank"
-    rel="noopener noreferrer"
->
-
-<span class="banner-icon">
-▶️
-</span>
-
-Dragan Laboski
-
-</a>
-
-
-<a
-    class="banner youtube-banner"
-    href="https://youtube.com/@ev7bloxgame?si=dju3qdtfn_03FHO6"
-    target="_blank"
-    rel="noopener noreferrer"
->
-
-<span class="banner-icon">
-▶️
-</span>
-
-EV7 BloxGame
-
-</a>
-
-
-<a
-    class="banner youtube-banner"
-    href="https://youtube.com/@25hightech"
-    target="_blank"
-    rel="noopener noreferrer"
->
-
-<span class="banner-icon">
-▶️
-</span>
-
-25HighTech
-
-</a>
-
-
-<a
-    class="banner youtube-banner"
-    href="https://youtube.com/@hoodinformatik"
-    target="_blank"
-    rel="noopener noreferrer"
->
-
-<span class="banner-icon">
-▶️
-</span>
-
-Hood Informatik
-
-</a>
-
-
-<a
-    class="banner youtube-banner"
-    href="https://youtube.com/@moddedwarfare"
-    target="_blank"
-    rel="noopener noreferrer"
->
-
-<span class="banner-icon">
-▶️
-</span>
-
-Modded Warfare
-
-</a>
-
-
-<a
-    class="banner youtube-banner"
-    href="https://youtube.com/@mrmario2011"
-    target="_blank"
-    rel="noopener noreferrer"
->
-
-<span class="banner-icon">
-▶️
-</span>
-
-MrMario2011
-
-</a>
-
-
-<!-- NEW YOUTUBE BANNER -->
-
-<a
-    class="banner youtube-banner"
-    href="https://www.youtube.com/@StefanMacke"
-    target="_blank"
-    rel="noopener noreferrer"
->
-
-<span class="banner-icon">
-▶️
-</span>
-
-Stefan Macke
-
-</a>
-
-
+<a class="banner youtube-banner" href="https://youtube.com/@draganlaboski?si=fpSIyfXdXkzOUL8b" target="_blank" rel="noopener noreferrer"><span class="banner-icon">▶️</span>Dragan Laboski</a>
+<a class="banner youtube-banner" href="https://youtube.com/@ev7bloxgame?si=dju3qdtfn_03FHO6" target="_blank" rel="noopener noreferrer"><span class="banner-icon">▶️</span>EV7 BloxGame</a>
+<a class="banner youtube-banner" href="https://youtube.com/@25hightech" target="_blank" rel="noopener noreferrer"><span class="banner-icon">▶️</span>25HighTech</a>
+<a class="banner youtube-banner" href="https://youtube.com/@hoodinformatik" target="_blank" rel="noopener noreferrer"><span class="banner-icon">▶️</span>Hood Informatik</a>
+<a class="banner youtube-banner" href="https://youtube.com/@moddedwarfare" target="_blank" rel="noopener noreferrer"><span class="banner-icon">▶️</span>Modded Warfare</a>
+<a class="banner youtube-banner" href="https://youtube.com/@mrmario2011" target="_blank" rel="noopener noreferrer"><span class="banner-icon">▶️</span>MrMario2011</a>
+<a class="banner youtube-banner" href="https://www.youtube.com/@StefanMacke" target="_blank" rel="noopener noreferrer"><span class="banner-icon">▶️</span>Stefan Macke</a>
+<a class="banner rumble-banner" href="https://rumble.com/user/LaboskiYane" target="_blank" rel="noopener noreferrer"><span class="banner-icon">🎮</span>Rumble - LaboskiYane</a>
 </div>
 
-
-<!-- =====================================================
-     MKD
-===================================================== -->
-
-<section
-    class="section"
-    id="mkd-section"
->
-
-<div class="section-title">
-
-<h2>
-🇲🇰 MKD
-</h2>
-
-</div>
-
-
-<div
-    id="mkd"
-    class="news-grid"
->
-
-<div class="loading">
-Loading MKD news...
-</div>
-
-</div>
-
+<section class="section" id="mkd-section">
+<div class="section-title"><h2>🇲🇰 MKD</h2></div>
+<div id="mkd" class="news-grid"><div class="loading">Loading MKD news...</div></div>
+</section>
+<section class="section" id="de-section">
+<div class="section-title"><h2>🇩🇪 DE</h2></div>
+<div id="de" class="news-grid"><div class="loading">Loading DE news...</div></div>
+</section>
+<section class="section" id="eng-section">
+<div class="section-title"><h2>🇬🇧 ENG</h2></div>
+<div id="eng" class="news-grid"><div class="loading">Loading ENG news...</div></div>
+</section>
+<section class="section" id="starwars-section">
+<div class="section-title"><h2>⭐ Star Wars News</h2></div>
+<div id="starwars" class="news-grid"><div class="loading">Loading Star Wars news...</div></div>
 </section>
 
-
-<!-- =====================================================
-     DE
-===================================================== -->
-
-<section
-    class="section"
-    id="de-section"
->
-
-<div class="section-title">
-
-<h2>
-🇩🇪 DE
-</h2>
-
-</div>
-
-
-<div
-    id="de"
-    class="news-grid"
->
-
-<div class="loading">
-Loading DE news...
-</div>
-
-</div>
-
-</section>
-
-
-<!-- =====================================================
-     ENG
-===================================================== -->
-
-<section
-    class="section"
-    id="eng-section"
->
-
-<div class="section-title">
-
-<h2>
-🇬🇧 ENG
-</h2>
-
-</div>
-
-
-<div
-    id="eng"
-    class="news-grid"
->
-
-<div class="loading">
-Loading ENG news...
-</div>
-
-</div>
-
-</section>
-
-
-<!-- =====================================================
-     STAR WARS
-===================================================== -->
-
-<section
-    class="section"
-    id="starwars-section"
->
-
-<div class="section-title">
-
-<h2>
-⭐ Star Wars News
-</h2>
-
-</div>
-
-
-<div
-    id="starwars"
-    class="news-grid"
->
-
-<div class="loading">
-Loading Star Wars news...
-</div>
-
-</div>
-
-</section>
-
-
-<!-- =====================================================
-     BACK TO TOP
-===================================================== -->
-
-<a
-    class="back-to-top"
-    href="#top"
->
-⬆ Back to Top
-</a>
-
+<a class="back-to-top" href="#top">⬆ Back to Top</a>
 
 </main>
 
-
-<!-- =====================================================
-     FOOTER
-===================================================== -->
-
-<footer>
-
-© 2026 Yane's Aggregator
-
-</footer>
-
+<footer>© 2026 Yane's Aggregator</footer>
 
 <script>
-
-/* =====================================================
-   CONFIGURATION
-===================================================== */
-
 const NEWS_FILE = "news.json";
-
 const MAX_NEWS_PER_SECTION = 20;
 
-
-/* =====================================================
-   FALLBACK IMAGES
-===================================================== */
-
 const DEFAULT_IMAGES = {
-
-    mkd:
-        "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
-
-    de:
-        "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
-
-    eng:
-        "https://upload.wikimedia.org/wikipedia/commons/4/4a/English_language.svg",
-
-    starwars:
-        "https://upload.wikimedia.org/wikipedia/commons/6/6c/Star_Wars_Logo.svg"
-
+  mkd: "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
+  de: "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+  eng: "https://upload.wikimedia.org/wikipedia/commons/4/4a/English_language.svg",
+  starwars: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Star_Wars_Logo.svg"
 };
 
-
-/* =====================================================
-   ESCAPE HTML
-===================================================== */
-
 function escapeHTML(text) {
-
-    if (!text) {
-        return "";
-    }
-
-    return String(text)
-
-        .replace(/&/g, "&amp;")
-
-        .replace(/</g, "&lt;")
-
-        .replace(/>/g, "&gt;")
-
-        .replace(/"/g, "&quot;")
-
-        .replace(/'/g, "&#039;");
-
+  if (!text) return "";
+  return String(text).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#039;");
 }
-
-
-/* =====================================================
-   FORMAT DATE
-===================================================== */
 
 function formatDate(value) {
-
-    if (!value) {
-        return "";
-    }
-
-
-    const date =
-        new Date(value);
-
-
-    if (
-        isNaN(
-            date.getTime()
-        )
-    ) {
-
-        return escapeHTML(
-            value
-        );
-
-    }
-
-
-    return date.toLocaleString(
-        "en-GB",
-        {
-            dateStyle: "short",
-            timeStyle: "short"
-        }
-    );
-
+  if (!value) return "";
+  const date = new Date(value);
+  if (isNaN(date.getTime())) return escapeHTML(value);
+  return date.toLocaleString("en-GB", { dateStyle: "short", timeStyle: "short" });
 }
 
-
-/* =====================================================
-   CREATE IMAGE
-===================================================== */
-
-function createImage(
-    item,
-    sectionType,
-    title
-) {
-
-    const fallback =
-        DEFAULT_IMAGES[
-            sectionType
-        ];
-
-
-    let image =
-        item.image &&
-        String(item.image).trim()
-            ? item.image
-            : fallback;
-
-
-    return `
-
-        <div class="image-wrapper">
-
-            <img
-                class="card-image"
-                src="${escapeHTML(image)}"
-                alt="${escapeHTML(title)}"
-                loading="lazy"
-                referrerpolicy="no-referrer"
-
-                onerror="
-                    this.onerror = null;
-                    this.src = '${fallback}';
-                "
-            >
-
-        </div>
-
-    `;
-
+function createImage(item, sectionType, title) {
+  const fallback = DEFAULT_IMAGES[sectionType];
+  const image = item.image && String(item.image).trim() ? item.image : fallback;
+  return `<div class="image-wrapper"><img class="card-image" src="${escapeHTML(image)}" alt="${escapeHTML(title)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='${fallback}';"></div>`;
 }
 
+function safeUrl(u) { return /^https?:\/\//i.test(u || "") ? u : "#"; }
 
-/* =====================================================
-   CREATE NEWS CARD
-===================================================== */
-
-function createCard(
-    item,
-    sectionType
-) {
-
-    const title =
-        escapeHTML(
-            item.title ||
-            "Untitled"
-        );
-
-
-    const source =
-        escapeHTML(
-            item.source ||
-            ""
-        );
-
-
-    const url =
-        item.url ||
-        "#";
-
-
-    const date =
-        formatDate(
-            item.date
-        );
-
-
-    const image =
-        createImage(
-            item,
-            sectionType,
-            title
-        );
-
-
-    return `
-
-        <article class="card">
-
-            <a
-                href="${escapeHTML(url)}"
-                target="_blank"
-                rel="noopener noreferrer"
-            >
-
-                ${image}
-
-                <div class="card-content">
-
-                    <div class="card-title">
-
-                        ${title}
-
-                    </div>
-
-
-                    <div class="card-source">
-
-                        ${source}
-
-                    </div>
-
-
-                    ${
-                        date
-                        ?
-                        `
-                        <div class="card-date">
-
-                            ${date}
-
-                        </div>
-                        `
-                        :
-                        ""
-                    }
-
-                </div>
-
-            </a>
-
-        </article>
-
-    `;
-
+function createCard(item, sectionType) {
+  const title = escapeHTML(item.title || "Untitled");
+  const source = escapeHTML(item.source || "");
+  const url = safeUrl(item.url);
+  const date = formatDate(item.date);
+  const image = createImage(item, sectionType, title);
+  return `<article class="card"><a href="${escapeHTML(url)}" target="_blank" rel="noopener noreferrer">${image}<div class="card-content"><div class="card-title">${title}</div><div class="card-source">${source}</div>${date ? `<div class="card-date">${date}</div>` : ""}</div></a></article>`;
 }
 
-
-/* =====================================================
-   SHOW ERROR
-===================================================== */
-
-function showError(
-    elementId,
-    message
-) {
-
-    const container =
-        document.getElementById(
-            elementId
-        );
-
-
-    container.innerHTML = `
-
-        <div class="error">
-
-            ${escapeHTML(message)}
-
-        </div>
-
-    `;
-
+function showError(elementId, message) {
+  document.getElementById(elementId).innerHTML = `<div class="error">${escapeHTML(message)}</div>`;
 }
 
-
-/* =====================================================
-   RENDER SECTION
-===================================================== */
-
-function renderSection(
-    elementId,
-    sectionType,
-    items
-) {
-
-    const container =
-        document.getElementById(
-            elementId
-        );
-
-
-    if (
-        !Array.isArray(items)
-        ||
-        items.length === 0
-    ) {
-
-        container.innerHTML = `
-
-            <div class="error">
-
-                No news available.
-
-            </div>
-
-        `;
-
-        return;
-
-    }
-
-
-    const news =
-        items.slice(
-            0,
-            MAX_NEWS_PER_SECTION
-        );
-
-
-    container.innerHTML =
-        news
-            .map(
-                item =>
-                    createCard(
-                        item,
-                        sectionType
-                    )
-            )
-            .join("");
-
+function renderSection(elementId, sectionType, items) {
+  const container = document.getElementById(elementId);
+  if (!Array.isArray(items) || items.length === 0) {
+    container.innerHTML = `<div class="error">No news available.</div>`;
+    return;
+  }
+  container.innerHTML = items.slice(0, MAX_NEWS_PER_SECTION).map(item => createCard(item, sectionType)).join("");
 }
-
-
-/* =====================================================
-   LOAD NEWS.JSON
-===================================================== */
 
 async function loadNews() {
-
-    try {
-
-        const response =
-            await fetch(
-                NEWS_FILE +
-                "?v=" +
-                Date.now()
-            );
-
-
-        if (!response.ok) {
-
-            throw new Error(
-                "Could not load news.json. HTTP " +
-                response.status
-            );
-
-        }
-
-
-        const data =
-            await response.json();
-
-
-        /* =============================================
-           MKD
-        ============================================= */
-
-        renderSection(
-            "mkd",
-            "mkd",
-            data.mkd || []
-        );
-
-
-        /* =============================================
-           DE
-        ============================================= */
-
-        renderSection(
-            "de",
-            "de",
-            data.de || []
-        );
-
-
-        /* =============================================
-           ENG
-        ============================================= */
-
-        renderSection(
-            "eng",
-            "eng",
-            data.eng || []
-        );
-
-
-        /* =============================================
-           STAR WARS
-        ============================================= */
-
-        renderSection(
-            "starwars",
-            "starwars",
-            data.starwars || []
-        );
-
-
-        console.log(
-            "News loaded successfully."
-        );
-
-
-        console.log(
-            "Updated:",
-            data.updated || "unknown"
-        );
-
-    }
-
-    catch (error) {
-
-        console.error(
-            "News loading error:",
-            error
-        );
-
-
-        showError(
-            "mkd",
-            "Unable to load news."
-        );
-
-
-        showError(
-            "de",
-            "Unable to load news."
-        );
-
-
-        showError(
-            "eng",
-            "Unable to load news."
-        );
-
-
-        showError(
-            "starwars",
-            "Unable to load news."
-        );
-
-    }
-
+  try {
+    const response = await fetch(NEWS_FILE + "?v=" + Date.now());
+    if (!response.ok) throw new Error("Could not load news.json. HTTP " + response.status);
+    const data = await response.json();
+    renderSection("mkd", "mkd", data.mkd || []);
+    renderSection("de", "de", data.de || []);
+    renderSection("eng", "eng", data.eng || []);
+    renderSection("starwars", "starwars", data.starwars || []);
+    console.log("News loaded successfully. Updated:", data.updated || "unknown");
+  } catch (error) {
+    console.error("News loading error:", error);
+    ["mkd", "de", "eng", "starwars"].forEach(id => showError(id, "Unable to load news."));
+  }
 }
 
-
-/* =====================================================
-   START
-===================================================== */
-
 loadNews();
-
 </script>
 
-
 </body>
-
 </html>
