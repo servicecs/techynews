@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T23:55:28.157119+00:00",
+  "updated": "2026-10-24T03:51:58.159514+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -121,6 +121,15 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
+      "title": "Фискален совет: Со ребалансот се кратат инвестициите, а задолжувањето финансира и тековна потрошувачка | 360 степени",
+      "description": "",
+      "url": "https://time.mk/c/f5b08f2f41/fiskalen-sovet-so-rebalansot-se-kratat-investiciite-a-zadolzuvanjeto-finansira-i-tekovna-potrosuvacka.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/10/35944.jpg",
+      "date": "Fri, 23 Oct 2026 17:36:58 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
       "title": "📽️ ЛИКОТ НА ГОЦЕ ДЕЛЧЕВ И МАКЕДОНСКОТО ЗНАМЕ НА НЕБОТО Честитка од Мицкоски за 23 Октомври | +инфо",
       "description": "",
       "url": "https://time.mk/c/a5f59aea7a/likot-na-goce-delcev-i-makedonskoto-zname-na-neboto-cestitka-od-mickoski-za-23-oktomvri.html",
@@ -139,24 +148,6 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Зајкова: Борбата за отворени листи не е предавство, туку слобода за граѓаните – нема да бидеме декор во вашите партиски пресметки | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/59e65a8a46/zajkova-borbata-za-otvoreni-listi-ne-e-predavstvo-tuku-sloboda-za-gragjanite-nema-da-bideme-dekor-vo-vasite-partiski-presmetki.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/81784/conversions/text-max.jpg",
-      "date": "Fri, 23 Oct 2026 14:58:37 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Фискален совет: Со ребалансот се кратат инвестициите, а задолжувањето финансира и тековна потрошувачка | 360 степени",
-      "description": "",
-      "url": "https://time.mk/c/f5b08f2f41/fiskalen-sovet-so-rebalansot-se-kratat-investiciite-a-zadolzuvanjeto-finansira-i-tekovna-potrosuvacka.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/10/35944.jpg",
-      "date": "Fri, 23 Oct 2026 17:36:58 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
       "title": "Нов економски притисок врз Европа: Растат цените на енергијата, компаниите го губат оптимизмот | Скопје1",
       "description": "",
       "url": "https://time.mk/c/96b9aca486/nov-ekonomski-pritisok-vrz-evropa-rastat-cenite-na-energijata-kompaniite-go-gubat-optimizmot.html",
@@ -166,11 +157,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Протести, судири и обвинувања за „хибридна војна“: Зошто младите Албанци се кренаа против Рама? | Слободен Печат",
+      "title": "Нееднаквост на приходите во ЕУ: Каде е најголема, а каде најмала? | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/61da1e76f7/protesti-sudiri-i-obvinuvanja-za-hibridna-vojna-zosto-mladite-albanci-se-krenaa-protiv-rama.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/07/Protesti-vo-Albanija-foto-X-300x171.jpg",
-      "date": "Fri, 23 Oct 2026 17:04:50 +0000"
+      "url": "https://time.mk/c/fcb243ce67/neednakvost-na-prihodite-vo-eu-kade-e-najgolema-a-kade-najmala.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/86658/conversions/text-max.jpg",
+      "date": "Fri, 23 Oct 2026 18:04:59 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Студент по медицина со просек 10 го обвини Рама дека лажно го претставил како криминалец | Трн",
+      "description": "",
+      "url": "https://time.mk/c/2336570a0b/student-po-medicina-so-prosek-10-go-obvini-rama-deka-lazno-go-pretstavil-kako-kriminalec.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/10/tirana-neredi.jpg",
+      "date": "Fri, 23 Oct 2026 16:36:56 +0000"
     },
     {
       "category": "mkd",
@@ -901,42 +901,6 @@
     {
       "category": "starwars",
       "source": "Jedi News",
-      "title": "How to Build the Razor Crest, From Practical Miniatures to Computer Graphics",
-      "description": "Jason Eaton, writing at ILM.com, takes a deep dive into the creation of Din Djarin’s starship, the Razor Crest, with the artists who built it across physical and digital space for The Mandalorian series and The Mandalorian and Grogu movie. The post How to Build the Razor Crest, From Practical Miniatures to Computer Graphics appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/how-to-build-the-razor-crest-from-practical-miniatures-to-computer-graphics/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/ilm-razor-crest-miniature-star-wars-mandalorian-grogu-1-Oct26-300x201.jpg",
-      "date": "Fri, 23 Oct 2026 17:36:45 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Comic Solicitations: Marvel – January 2027",
-      "description": "Marvel Comics have announced their solicitations for January 2027. The post Comic Solicitations: Marvel – January 2027 appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/literature/articles/comic-solicitations-marvel-january-2027/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/AEFT1-Solicit-FI-300x201.jpg",
-      "date": "Fri, 23 Oct 2026 17:01:31 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Skywalking Through Neverland #580: Star Wars Horror for Halloween! Author Kiersten White on “Hiding From The Dark: A Star Wars Horror Novel”",
-      "description": "Join Skywalking Through Neverland duo Sarah and Richard for their latest episode (#580) discussing all the latest Star Wars and Disney news. The post Skywalking Through Neverland #580: Star Wars Horror for Halloween! Author Kiersten White on “Hiding From The Dark: A Star Wars Horror Novel” appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/skywalking-through-neverland-580-star-wars-horror-for-halloween-author-kiersten-white-on-hiding-from-the-dark-a-star-wars-horror-novel/",
-      "image": "",
-      "date": "Fri, 23 Oct 2026 16:58:53 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Comic Review: The Fall of Kylo Ren #3 (of 5)",
-      "description": "We review The Fall of Kylo Ren #3 (of 5) from Marvel Comics. The post Comic Review: The Fall of Kylo Ren #3 (of 5) appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/literature/literature-reviews/articles/comic-review-the-fall-of-kylo-ren-3-of-5/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/TFoKR3-FI-300x201.jpg",
-      "date": "Fri, 23 Oct 2026 16:01:09 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
       "title": "Star Wars: Starfighter is the Most Expensive Star Wars Film Yet",
       "description": "According to Forbes, Star Wars: Starfighter racked up a bill of $226.5 million by the end of filming, surpassing Star Wars: The Force Awakens at the same point in its production, making it the most expensive Star Wars film to-date. The post Star Wars: Starfighter is the Most Expensive Star Wars Film Yet appeared first on Jedi News .",
       "url": "https://www.jedinews.com/film-music-tv/articles/star-wars-starfighter-is-the-most-expensive-star-wars-film-yet/",
@@ -996,278 +960,43 @@
       "url": "https://www.jedinews.com/events/articles/star-wars-original-trilogy-in-concert-at-royal-albert-hall-april-29th-may-2nd-2027/",
       "image": "https://www.jedinews.com/wp-content/uploads/2026/10/Star-Wars-at-Royal-Albert-Hall-Oct26-300x201.jpg",
       "date": "Thu, 22 Oct 2026 07:55:11 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Disney Droid Factory R2-H26 Holiday Astromech Revealed, Available October 26th",
+      "description": "A new single carded Disney Droid Factory holiday themed astromech has been revealed as R2-H26, featuring a Santa paint scheme and topped with a festive hat, available from October 26th at 8am PT in the USA and expected in Europe on the same day at 8am local time. The post Disney Droid Factory R2-H26 Holiday Astromech Revealed, Available October 26th appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/collecting/articles/disney-droid-factory-r2-h26-holiday-astromech-revealed-available-october-26th/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/R2-H26-Holiday-Droid-Factory-01-Oct26-300x201.jpg",
+      "date": "Thu, 22 Oct 2026 07:23:54 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Now This Is Podracing! How Fuse Games Made Star Wars: Galactic Racer With Passion | BAFTA",
+      "description": "BAFTA goes behind the scenes of Guildford based Fuse Games to see how the team used their incredible racing game experience to craft the high octane, adrenaline fuelled Star Wars: Galactic Racer in collaboration with Lucasfilm Games. The post Now This Is Podracing! How Fuse Games Made Star Wars: Galactic Racer With Passion | BAFTA appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/gaming/articles/now-this-is-podracing-how-fuse-games-made-star-wars-galactic-racer-with-passion-bafta/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/maxresdefault-36-300x169.jpg",
+      "date": "Wed, 21 Oct 2026 23:22:19 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "The Dorky Diva Show: Visiting The Lucas Museum of Narrative Art",
+      "description": "Join Savanna Kiefer for the latest episode of The Dorky Diva Show. The post The Dorky Diva Show: Visiting The Lucas Museum of Narrative Art appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/the-dorky-diva-show-visiting-the-lucas-museum-of-narrative-art/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2018/07/TheDorkyDivaShow-300x201.jpg",
+      "date": "Wed, 21 Oct 2026 22:46:14 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Respawn and DICE Studios Collaborating on Star Wars: Battlefront III",
+      "description": "EA's Cam Weber, president and chief studios officer, and David Tinson, president and COO have announced that Respawn and DICE Studios will collaborate on a future project, with multiple sources confirming this is Star Wars: Battlefront III for Lucasfilm. The post Respawn and DICE Studios Collaborating on Star Wars: Battlefront III appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/gaming/articles/respawn-and-dice-studios-collaborating-on-star-wars-battlefront-iii/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/Star-Wars-Battlefront-III-Oct26-300x201.jpg",
+      "date": "Wed, 21 Oct 2026 20:54:29 +0000"
     }
   ],
-  "youtube": [
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Ein Generalschlüssel für Zertifikate jeder Webseite der Welt....",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/XiCe4cYH_3g",
-      "image": "https://i.ytimg.com/vi/XiCe4cYH_3g/hqdefault.jpg",
-      "date": "2026-10-22T16:46:59+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "PHP2Shell: Wie ein Speicherfehler zur Shell wird",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=qXv8NAIFm9o",
-      "image": "https://i.ytimg.com/vi/qXv8NAIFm9o/hqdefault.jpg",
-      "date": "2026-10-21T21:30:08+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "AfD Leak, PHP Lücke und Revolut-Ausfall wegen Google Cloud... Security Bingo kann losgehen",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/MYkQLmiLPTA",
-      "image": "https://i.ytimg.com/vi/MYkQLmiLPTA/hqdefault.jpg",
-      "date": "2026-10-21T18:41:31+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Die AfD Leaks Teil 1 - seit dem Erstellen des Videos hat sich aber auch einiges getan ^^",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/5sQQA6K8W_k",
-      "image": "https://i.ytimg.com/vi/5sQQA6K8W_k/hqdefault.jpg",
-      "date": "2026-10-20T20:15:40+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Jeder will, dass du KI entweder liebst oder fürchtest. Warum eigentlich?",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/Wb1GocgvZA0",
-      "image": "https://i.ytimg.com/vi/Wb1GocgvZA0/hqdefault.jpg",
-      "date": "2026-10-19T17:00:03+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Eine Werbeanzeige als Zero Click Exploit ?! #informatik #spy #cybersecurity #news #spyware",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/pCVwu6ydZkQ",
-      "image": "https://i.ytimg.com/vi/pCVwu6ydZkQ/hqdefault.jpg",
-      "date": "2026-10-18T16:15:32+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Spannende Zeiten für alle iOS Bastler ^^ #informatik #cybersecurity #ios #iphone #news",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/2H_WBnTsrRw",
-      "image": "https://i.ytimg.com/vi/2H_WBnTsrRw/hqdefault.jpg",
-      "date": "2026-10-17T10:30:02+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Ein LTE Modul in einem Hardware Wallet ?! Was ist dieses Jahr eigentlich nicht passiert....",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/mDAHUbhpcFQ",
-      "image": "https://i.ytimg.com/vi/mDAHUbhpcFQ/hqdefault.jpg",
-      "date": "2026-10-16T10:15:25+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Ingenieur von OpenAI versteckt eine Wanze im Meetingraum der Chefs ?!",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/hY3sOk30uH0",
-      "image": "https://i.ytimg.com/vi/hY3sOk30uH0/hqdefault.jpg",
-      "date": "2026-10-15T10:00:24+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Hacker haben Supermarkt Kühltruhen in Frankreich auf 50 Grad aufgeheizt....",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/2eXYRwIPTgE",
-      "image": "https://i.ytimg.com/vi/2eXYRwIPTgE/hqdefault.jpg",
-      "date": "2026-10-14T10:15:06+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Set Off Alarms in Abandoned Paper Mill",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=_2m_nAVaYSg",
-      "image": "https://i.ytimg.com/vi/_2m_nAVaYSg/hqdefault.jpg",
-      "date": "2026-09-30T17:00:15+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Exploring The Last Coal Power Plant in Connecticut Bridgeport Harbor Station",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=CR84XRBKBzs",
-      "image": "https://i.ytimg.com/vi/CR84XRBKBzs/hqdefault.jpg",
-      "date": "2026-08-27T17:00:39+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Rocketdyne Santa Susana Field Laboratory Abandoned America Space Race (1948)",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=0lka-0REQrQ",
-      "image": "https://i.ytimg.com/vi/0lka-0REQrQ/hqdefault.jpg",
-      "date": "2026-04-23T17:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Mall Westfield Promenade Demolition AMC Seats And Screens Left Behind",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=UnG29VothuQ",
-      "image": "https://i.ytimg.com/vi/UnG29VothuQ/hqdefault.jpg",
-      "date": "2026-03-27T21:09:35+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Mall Westfield Promenade Demolition Fly by In And Out",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=fDnOH8ZsfTg",
-      "image": "https://i.ytimg.com/vi/fDnOH8ZsfTg/hqdefault.jpg",
-      "date": "2026-03-27T20:40:08+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "AMC Westfield Promenade Mall Raw Demolition Drone Footage",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/5iA5R3Jq4g0",
-      "image": "https://i.ytimg.com/vi/5iA5R3Jq4g0/hqdefault.jpg",
-      "date": "2026-03-27T18:03:29+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Mall Westfield Promenade Demolition AMC Coming Down First!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=SAxjFGjTiHQ",
-      "image": "https://i.ytimg.com/vi/SAxjFGjTiHQ/hqdefault.jpg",
-      "date": "2026-03-23T17:42:38+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Beautiful Art Deco Theater",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=ccfU0LSmkj8",
-      "image": "https://i.ytimg.com/vi/ccfU0LSmkj8/hqdefault.jpg",
-      "date": "2026-03-11T20:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Decommissioned Power Station #synthwave #synth #retrowave #abandonedplaces",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/mOUbNSMoBJs",
-      "image": "https://i.ytimg.com/vi/mOUbNSMoBJs/hqdefault.jpg",
-      "date": "2025-06-17T17:55:51+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Wheel of Misfortune Three Kids Mine Demolition",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=VXRselqoN-8",
-      "image": "https://i.ytimg.com/vi/VXRselqoN-8/hqdefault.jpg",
-      "date": "2025-06-17T17:45:42+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "PS5 13.60 Jailbreak & Hypervisor Exploit, Xbox 360 Softmod, Halo Ported to EVERYTHING - ModChat 149",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=-PXtg_eDYBY",
-      "image": "https://i.ytimg.com/vi/-PXtg_eDYBY/hqdefault.jpg",
-      "date": "2026-10-21T17:00:30+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Backup & Play Xbox 360 Games on a Modded Xbox 360 - Multi-Disc, DLC, XBLA & More!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=KYOZR0zotSc",
-      "image": "https://i.ytimg.com/vi/KYOZR0zotSc/hqdefault.jpg",
-      "date": "2026-10-10T17:00:36+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Softmod the Xbox 360 - Peer Pressure Beginner Setup for Homebrew, Backups, and More!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=G8ceM_xXlO8",
-      "image": "https://i.ytimg.com/vi/G8ceM_xXlO8/hqdefault.jpg",
-      "date": "2026-10-07T19:00:34+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Bad Storage Unauthenticated: Use Any HDD or SSD on Bad Update for Xbox 360!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=svNvWiJAjow",
-      "image": "https://i.ytimg.com/vi/svNvWiJAjow/hqdefault.jpg",
-      "date": "2026-10-03T17:00:02+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Mario's Minute 105 - Wiping Old Drives and XBOX's Disc to Digital Program",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=C0pBgwThC68",
-      "image": "https://i.ytimg.com/vi/C0pBgwThC68/hqdefault.jpg",
-      "date": "2026-09-30T17:00:10+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "AutoDNS: A Useful Network Safety Plugin for Bad Update & ABadAvatar Consoles",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=dgX6KUQy4jk",
-      "image": "https://i.ytimg.com/vi/dgX6KUQy4jk/hqdefault.jpg",
-      "date": "2026-09-26T17:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "PS5 Hypervisor Drama, Xbox 360 Softmod Details Revealed, Switch 2 Game Binary Dumped - ModChat 148",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=eMTjE6NIAAQ",
-      "image": "https://i.ytimg.com/vi/eMTjE6NIAAQ/hqdefault.jpg",
-      "date": "2026-09-23T17:00:08+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "XeUnshackle Max: Auto-Start, Custom Boot Animations, and More for Bad Update or ABadAvatar!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=P2hOdoLzQ38",
-      "image": "https://i.ytimg.com/vi/P2hOdoLzQ38/hqdefault.jpg",
-      "date": "2026-09-19T17:00:35+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Run ABadAvatar from an Internal Drive - ABadAvatar HDD Setup & Transfer",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=seOPwVF3YEM",
-      "image": "https://i.ytimg.com/vi/seOPwVF3YEM/hqdefault.jpg",
-      "date": "2026-09-12T17:00:38+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Enable Aurora's Hidden Splash Screen on a Modded Xbox 360",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/8JwsEdKQLz4",
-      "image": "https://i.ytimg.com/vi/8JwsEdKQLz4/hqdefault.jpg",
-      "date": "2026-09-09T17:00:30+00:00"
-    }
-  ]
+  "youtube": []
 }
