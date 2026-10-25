@@ -1,6 +1,96 @@
 {
-  "updated": "2026-10-24T21:46:02.587226+00:00",
+  "updated": "2026-10-25T00:04:26.709003+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Два критични пропусти во PHP овозможуваат далечинско преземање на сервери, па надградбата е итна",
+      "description": "PHP, програмскиот јазик на кој работат WordPress, Drupal, Joomla и MediaWiki, доби итни безбедносни надградби. На 21 октомври излегоа верзиите 8.5.12, 8.4.27, 8.3.36 и 8.2.35, кои поправаат два критични пропусти што му овозможуваат на напаѓач без најава да изврши свој код на серверот. Пропустите се означени како CVE-2026-109618 и CVE-2026-109619, со оценка 9,2 според CVSS 4.0, […]",
+      "url": "https://smartportal.mk/novosti/veb-i-bezbednost/php2shell/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/ben-griffiths-4wxWBy8Jo1I-unsplash-150x150.webp",
+      "date": "Fri, 23 Oct 2026 10:15:31 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "АмЧам: Посилна заштита на интелектуалната сопственост преку активно Национално координативно тело",
+      "description": "Американската стопанска комора во Македонија (АмЧам) вчера во Скопје организираше тркалезна маса посветена на унапредување на заштитата на интелектуалната сопственост. Во фокусот беше улогата на Националното координативно тело и можностите преку неговата работа да се обезбеди поефикасна заштита во оваа област. На настанот учествуваа претставници од институции, деловната заедница и стручната јавност, а поздравни обраќања имаа Барнабас Биркеланд, […]",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/amcham-posilna-zastita-intelektualna-sopstvenost-koordinativno-telo/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/IMG_0787-150x150.webp",
+      "date": "Thu, 22 Oct 2026 12:05:03 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Anthropic ја претстави Claude Duet, апликација преку која Claude работи како проактивен агент и кој ве известува за тоа што го бара вашето внимание",
+      "description": "Anthropic ја претстави Claude Duet, нова апликација во која Claude работи како агент што сам доаѓа кај корисникот со она што бара негово внимание. Компанијата вели дека е наменета за професионалци и сопственици на мали бизниси кои имаат повеќе обврски отколку што можат да следат. Claude Duet е изграден околу Claude Opus 5.5. Секое утро праќа краток […]",
+      "url": "https://smartportal.mk/novosti/ai/anthropic-claude-duet/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/04/Depositphotos_837126366_L-150x150.webp",
+      "date": "Thu, 22 Oct 2026 11:14:35 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Microsoft подготвува поедноставно најавување на Windows 11 со лице, отпечаток и PIN автоматски",
+      "description": "Microsoft подготвува промена на екранот за најавување во Windows 11 што треба да го поедностави користењето на Windows Hello. Според Зек Бауден од Windows Central, во најновите тест верзии на системот постои скриена функција со која полето за PIN, препознавањето на лицето и читачот на отпечатоци работат истовремено. Сега, според Бауден, ако корисникот поставил PIN, […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/microsoft-poednostavno-najavuvanje-na-windows-11/",
+      "image": "https://smartportal.mk/wp-content/uploads/2024/07/shutterstock_2000666501-150x150.jpg",
+      "date": "Thu, 22 Oct 2026 10:55:32 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Samsung продолжува да бележи рекордна продажба на серијата Galaxy Z8 во Европа, при што продажбата на Galaxy Z Fold8 и Fold8 Ultra е зголемена за речиси 50% на годишно ниво",
+      "description": "Скопје, 22 октомври 2026 година– Компанијата Самсунг („Samsung“) денес објави дека е забележан значителен пораст во продажбата на новата серија телефони на преклопување Galaxy Z8 во Европа, поттикнат од исклучителната побарувачка за моделите Galaxy Z Fold8 и Galaxy Z Fold8 Ultra. Во текот на деветте недели по нивното лансирање на 7 август 2026 година, Galaxy […]",
+      "url": "https://smartportal.mk/novosti/uredi/samsung-prodolzuva-da-belezi-rekordna-prodazba-galaxy-z8/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/03_galaxy-zfold8-ultra-family-150x150.webp",
+      "date": "Thu, 22 Oct 2026 10:38:16 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Нов бесплатен десктоп за KDE Plasma носи изглед на macOS со „Liquid Glass“ ефекти",
+      "description": "Liquid Glass, дизајнот што Apple го воведе минатата година во сите свои оперативни системи, сега го следат и проекти за Linux. NextKDE е нова десктоп „верзија“ за KDE Plasma, а во понеделникот ја доби првата официјална верзија, 0.1.0. NextKDE не е посебна дистрибуција. Се инсталира врз постоечка KDE Plasma 6 со Wayland и ги заменува […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/nextkde-desktop/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/desktop-nextkde-1-150x150.webp",
+      "date": "Thu, 22 Oct 2026 10:29:10 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "„Објавени“ заштитни стакла за Galaxy S27 серијата, а предната страна изгледа речиси непроменета",
+      "description": "Samsung сè уште официјално ја нема потврдено Galaxy S27 серијата, но неофицијалните информации за истата стандардно стануваат сè почести, посебно како што се ближи времето за претставување. Последните доаѓаат од страницата SammyGuru, која објави слики од заштитни стакла за Galaxy S27, S27+ и S27 Ultra, наредени едно до друго. На сликите има обични и стакла […]",
+      "url": "https://smartportal.mk/novosti/smartfoni/objaveni-zastitni-stakla-za-galaxy-s27-serijata/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/07/Depositphotos_870814126_XL-f-150x150.webp",
+      "date": "Thu, 22 Oct 2026 10:09:20 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Nvidia објави „драјвер“ за Phantom Blade Zero, кој овозможува и побрзо стартување на Call of Duty",
+      "description": "Nvidia го објави GeForce Game Ready 621.01, новиот „драјвер“ за нивните графички картички, подготвен за неколку игри и ажурирања што пристигнуваат во следните денови. Најмногу внимание добива Phantom Blade Zero, акциската игра на студиото S-GAME, која излегува на 28 октомври, односно поради временската разлика на 29 октомври по наше време. На картичките GeForce RTX играта ќе работи […]",
+      "url": "https://smartportal.mk/novosti/gejming/nvidia-drajver-phantom-blade-zero/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/cod1-150x150.webp",
+      "date": "Thu, 22 Oct 2026 09:59:38 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Xbox тестира пакети за „часови за играње“ преку „облакот“ без Game Pass",
+      "description": "Microsoft почна да ги тестира пакетите „Cloud Playtime“, со кои играчите без Game Pass претплата можат да купат часови за играње преку „облакот“. Засега опцијата е достапна само за учесниците во програмата Xbox Insider, а според Xbox пошироко ќе биде воведена во ноември. Цените се „воведни“, како што ги нарекува Microsoft. Пакетот од 10 часа чини 3,99 […]",
+      "url": "https://smartportal.mk/novosti/gejming/xbox-testira-paketi-za-casovi-za-igranje/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Bootup_Wire-9c068aa206c9a72d2b1f-150x150.webp",
+      "date": "Thu, 22 Oct 2026 09:47:34 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Chrome добива нови предупредувања за сомнителни страни и заштита од измами со копирани команди",
+      "description": "Google објави нови функции во Chrome против „фишинг“ и други измами на интернет. Сите се дел од режимот Enhanced Protection (подобрена заштита) на Safe Browsing, кој компанијата го воведе во 2020 година, а лани соопшти дека го вклучиле повеќе од милијарда корисници. Според Google, корисниците на овој режим се десет пати побезбедни од „фишинг“, социјален инженеринг и други […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/chrome-dobiva-novi-predupreduvanja-za-somnitelni-strani/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Scam_Roundup_BlogHeaders_Option_.width-2200.format-webp-150x150.webp",
+      "date": "Thu, 22 Oct 2026 09:02:25 +0000"
+    },
     {
       "category": "mkd",
       "source": "Time.mk - All",
@@ -31,11 +121,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(ВИДЕО) Демонстранти се обидоа да влезат во Колосеумот во Рим, на протестите се приведени над 200 лица | 360 степени",
+      "title": "Стрелките на часовникот се поместуваат еден час наназад, од утре почнува зимското сметање на времето | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/929910e3d6/video-demonstranti-se-obidoa-da-vlezat-vo-koloseumot-vo-rim-na-protestite-se-privedeni-nad-200-lica.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/10/Screenshot-2026-10-24-at-22-40-03-Rim-sukobi-demonstranata-i-policije-privedeno-vise-od-200.png",
-      "date": "Sat, 24 Oct 2026 21:12:53 +0000"
+      "url": "https://time.mk/c/372f72ce54/strelkite-na-casovnikot-se-pomestuvaat-eden-cas-nanazad-od-utre-pocnuva-zimskoto-smetanje-na-vremeto.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2023/10/strelki-chasovnik-vreme.png",
+      "date": "Sat, 24 Oct 2026 13:26:37 +0000"
     },
     {
       "category": "mkd",
@@ -49,20 +139,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Вечерва часовникот се враќа за еден час наназад | еМагазин",
+      "title": "Арсовски не очекува прелевање на протестите од соседството во Македонија | Журнал",
       "description": "",
-      "url": "https://time.mk/c/beedeab762/vecerva-casovnikot-se-vraka-za-eden-cas-nanazad.html",
-      "image": "https://emagazin.mk/wp-content/uploads/2026/10/esen-300x200.jpg",
-      "date": "Sat, 24 Oct 2026 15:40:51 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ПЕТРЕСКИ: ЗА ДА СЕ ЗАДРЖИ ДЕФИЦИТОТ, СЕ КРАТАТ ИНВЕСТИЦИИТЕ | Пари",
-      "description": "",
-      "url": "https://time.mk/c/939d27829b/petreski-za-da-se-zadrzi-deficitot-se-kratat-investiciite.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/10/KSP_S05E06_1200x630_ZaWeb_1.png",
-      "date": "Sat, 24 Oct 2026 20:50:41 +0000"
+      "url": "https://time.mk/c/1606ee50e1/arsovski-ne-ocekuva-prelevanje-na-protestite-od-sosedstvoto-vo-makedonija.html",
+      "image": "https://zurnal.mk/wp-content/uploads/2026/10/protesti-1068x570.png",
+      "date": "Sat, 24 Oct 2026 17:50:41 +0000"
     },
     {
       "category": "mkd",
@@ -76,11 +157,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Голема гужва на границата со Србија, македонски новинари задржани до два и пол часа пред изборите | Скопје инфо",
+      "title": "ПЕТРЕСКИ: ЗА ДА СЕ ЗАДРЖИ ДЕФИЦИТОТ, СЕ КРАТАТ ИНВЕСТИЦИИТЕ | Пари",
       "description": "",
-      "url": "https://time.mk/c/0f920d1f9c/golema-guzva-na-granicata-so-srbija-makedonski-novinari-zadrzani-do-dva-i-pol-casa-pred-izborite.html",
-      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/oktomvri/image-263058.jpg?itok=waR4sX3K",
-      "date": "Sat, 24 Oct 2026 20:20:57 +0000"
+      "url": "https://time.mk/c/939d27829b/petreski-za-da-se-zadrzi-deficitot-se-kratat-investiciite.html",
+      "image": "http://pari.com.mk/wp-content/uploads/2026/10/KSP_S05E06_1200x630_ZaWeb_1.png",
+      "date": "Sat, 24 Oct 2026 20:50:41 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Нападите со дронови во Црното Море и политиката кон Украина во фокусот на претседателски избори во Бугарија | Deutsche Welle",
+      "description": "",
+      "url": "https://time.mk/c/c10d75a1a9/napadite-so-dronovi-vo-crnoto-more-i-politikata-kon-ukraina-vo-fokusot-na-pretsedatelski-izbori-vo-bugarija.html",
+      "image": "https://static.dw.com/image/79726821_302.jpg",
+      "date": "Sat, 24 Oct 2026 12:10:40 +0000"
     },
     {
       "category": "mkd",
@@ -94,29 +184,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
+      "title": "Врие во Европа: Масовни протести против трошоците за живот, за подобро образование, пензии… | Независен",
+      "description": "",
+      "url": "https://time.mk/c/19e616046b/vrie-vo-evropa-masovni-protesti-protiv-trosocite-za-zivot-za-podobro-obrazovanie-penzii.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/Pariz-protesti-33.png",
+      "date": "Sat, 24 Oct 2026 19:32:56 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
       "title": "Две лица тешко повредени на протестите во Франција, едното со сериозна повреда на раката | Скопје1",
       "description": "",
       "url": "https://time.mk/c/1e0795ce3e/dve-lica-tesko-povredeni-na-protestite-vo-francija-ednoto-so-seriozna-povreda-na-rakata.html",
       "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/86719/conversions/text-max.jpg",
       "date": "Sat, 24 Oct 2026 21:10:39 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Зеленски бара активирање на сателитскиот систем Старлинк и на руска територија | Слободен Печат",
-      "description": "",
-      "url": "https://time.mk/c/77806a88f9/zelenski-bara-aktiviranje-na-satelitskiot-sistem-starlink-i-na-ruska-teritorija.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/05/zelenski-e1770827085949-300x198.jpg",
-      "date": "Sat, 24 Oct 2026 20:10:41 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Скопскиот маратон на 3 октомври 2027, пријавувањето е отворено | Трн",
-      "description": "",
-      "url": "https://time.mk/c/3e111d0ed5/skopskiot-maraton-na-3-oktomvri-2027-prijavuvanjeto-e-otvoreno.html",
-      "image": "https://trn.mk/wp-content/uploads/2025/08/1-posledna-shansa-za-priÑavuvaÑe-na-viz-er-skopski-maraton-2023.jpg",
-      "date": "Sat, 24 Oct 2026 18:49:01 +0000"
     },
     {
       "category": "mkd",
@@ -130,11 +211,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ГО УЗУРПИРАЛЕ ШУМСКИОТ ЧЕКАН СО ПЕЧАТ ЗА КРАДЕЊЕ ДРВА Кривична за референт во шумско стопанство и негов соучесник | +инфо",
+      "title": "Голем интерес на младите за воздухопловните професии на „Скопје ер фер 2026“ | Независен",
       "description": "",
-      "url": "https://time.mk/c/6e977a490d/go-uzurpirale-sumskiot-cekan-so-pecat-za-kradenje-drva-krivicna-za-referent-vo-sumsko-stopanstvo-i-negov-soucesnik.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2026/06/apsenje-drva-kradec.jpg",
-      "date": "Sat, 24 Oct 2026 14:40:58 +0000"
+      "url": "https://time.mk/c/d47c48b483/golem-interes-na-mladite-za-vozduhoplovnite-profesii-na-skopje-er-fer-2026.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/skopje-er-fear.png",
+      "date": "Sat, 24 Oct 2026 10:52:56 +0000"
     },
     {
       "category": "mkd",
@@ -144,6 +225,15 @@
       "url": "https://time.mk/c/971e1d30e6/mlado-mece-ugina-otkako-bilo-udreno-od-avtomobil-na-avtopat-kade-sto-treba-da-ima-zastitna-mreza.html",
       "image": "https://sdk.mk/wp-content/uploads/2026/10/mece-uginato-323282839.jpg",
       "date": "Sat, 24 Oct 2026 13:38:38 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Кривични пријави за вработен во „Галичица“ и превозник од Битола поради незаконски транспорт на дрва | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/a8a463c889/krivicni-prijavi-za-vraboten-vo-galicica-i-prevoznik-od-bitola-poradi-nezakonski-transport-na-drva.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2023/08/ÐÑÐ²Ð°-ÑÐµÑÑÐ±ÑÐº-300x135.jpg",
+      "date": "Sat, 24 Oct 2026 13:31:00 +0000"
     },
     {
       "category": "mkd",
@@ -166,110 +256,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Нашата Ана последна на Јуниор Евросонг во Малта - победник е Ерменија | Црнобело",
-      "description": "",
-      "url": "https://time.mk/c/87dae36bf8/nasata-ana-posledna-na-junior-evrosong-vo-malta-pobednik-e-ermenija.html",
-      "image": "https://www.crnobelo.com/images/stories/2026/10/1035/nashata-ana-voodushevi-na-junior-evrosong-poveke-01.jpg",
-      "date": "Sat, 24 Oct 2026 21:24:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
       "title": "Овации на концертот на „Меморија“ во Скопје - забава со хитовите кои не стареат и ги пеат сите генерации | Црнобело",
       "description": "",
-      "url": "https://time.mk/c/d008eb9f9e/ovacii-na-koncertot-na-memorija-vo-skopje-zabava-so-hitovite-koi-ne-stareat-i-gi-peat-site-generacii.html",
+      "url": "https://time.mk/c/cf63bc1d43/ovacii-na-koncertot-na-memorija-vo-skopje-zabava-so-hitovite-koi-ne-stareat-i-gi-peat-site-generacii.html",
       "image": "https://ekran.mk/wp-content/uploads/2026/10/memorija-naslovna-300x199.jpg",
       "date": "Sat, 24 Oct 2026 07:08:58 +0000"
     },
     {
       "category": "mkd",
-      "source": "Motika",
-      "title": "Научниците создадоа технологија што овозможува движење на материјата низ воздух",
-      "description": "Инженерите конструираа уред кој повеќе наликува на реквизит од научно-фантастичен филм отколку на реален лабораториски инструмент. Станува збор за специјален ултразвучен тракт способен прецизно да преместува цврсти и течни предмети во просторот без ниту еден физички допир или механички држач. Содржина: Шуплива цевка ја води звучната енергија точно до целта Капки лекови, метални честички и ...",
-      "url": "https://motika.mk/naucnicite-sozdadoa-tehnologija-sto-ovozmozuva-dvizene-na-materijata-niz-vozduh/",
-      "image": "https://motika.io/media/2026/10/24/img-307e5edb-bf04-49a0-a062-d2997319f32b-1.jpg",
-      "date": "Sat, 24 Oct 2026 10:39:51 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Најразорните екстремни временски непогоди во изминатата година",
-      "description": "Научниот извештај објавен во угледното списание BioScience предупредува дека основните системи за одржување на животот на Земјата излегуваат од рамките на стабилноста. Климатските промени се одвиваат значително побрзо отколку што човештвото успева да реагира на нив. Истражувачите детално ги анализираа емисиите на стакленички гасови, растот на глобалната температура, засиленото топење на ледот на половите и ...",
-      "url": "https://motika.mk/najrazornite-ekstremni-vremenski-nepogodi-vo-izminatata-godina/",
-      "image": "https://motika.io/media/2026/10/24/img-31d1ce22-8d1b-4dc9-8673-b2644a7af41e-1.webp",
-      "date": "Sat, 24 Oct 2026 10:31:56 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Повторен вандализам и оштетување на храмот „Свети Пророк Илија“ во Миладиновци",
-      "description": "Црковниот одбор на храмот „Свети Пророк Илија“ во населеното место Миладиновци испрати јавно соопштение до верниците и жителите, изразувајќи длабока загриженост и неверување по повод повторниот чин на вандализам и сквернавење на овој православен храм од страна на неодговорни лица. Искршени стакла на стариот црковен објект и на помошните простории При најновиот инцидент е причинета ...",
-      "url": "https://motika.mk/povtoren-vandalizam-i-ostetuvane-na-hramot-sveti-prorok-ilija-vo-miladinovci/",
-      "image": "https://motika.io/media/2026/10/24/img-ec8b031a-ead8-405d-9af0-9db6fd10baef-1.heic",
-      "date": "Sat, 24 Oct 2026 10:28:44 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Медицински пробив: Свински бубрег бил замрзнат повеќе од една година, а по одмрзнувањето успешно трансплантиран кај животно",
-      "description": "Научниците од Универзитетот во Минесота направија чекор што може да го смени начинот на кој се чуваат донорските органи. Свински бубрези биле длабоко замрзнати со месеци, а еден од нив останал во таква состојба подолго од 12 месеци, пред безбедно да биде одмрзнат и функционално пресаден кај животно. Содржина: Шест часа за срце, 36 часа ...",
-      "url": "https://motika.mk/medicinski-probiv-svinski-bubreg-bil-zamrznat-poveke-od-edna-godina-a-po-odmrznuvaneto-uspesno-transplantiran-kaj-zivotno/",
-      "image": "https://motika.io/media/2026/10/24/img-d71a9dfe-2191-4ee0-b2bc-ae0d26db5d84-1.jpg",
-      "date": "Sat, 24 Oct 2026 10:22:31 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Човек кој преживеал три мозочни удари започна нов живот благодарение на уникатна операција",
-      "description": "Кај пациент на возраст од над шеесет години, секој следен ден носел ризик што лекарите го оцениле како критично висок. По третиот мозочен удар, крвотокот кон мозокот бил драстично намален, а кислородниот глад сериозно се заканувал да предизвика трајно изумирање на мозочните клетки. Токму во тој момент неврохирургот Никита Михајлов ја извел интервенцијата што му ...",
-      "url": "https://motika.mk/covek-koj-preziveal-tri-mozocni-udari-zapocna-nov-zivot-blagodarenie-na-unikatna-operacija/",
-      "image": "https://motika.io/media/2026/10/24/img-869c8585-dc39-4756-a33a-385c805a40f1-1.jpg",
-      "date": "Sat, 24 Oct 2026 10:19:58 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Како да го отстраните салото од стомакот со 3 групи намирници",
-      "description": "Зошто стомакот расте дури и кај луѓе кои целосно се откажале од шеќер, леб или вечери по шест часот навечер? Зошто телесната структура останува мека и опуштена и покрај редовните тренинзи? Причината ретко се крие во една единствена грешка или во изолиран дефект во организмот. Обемот на струкот зависи од вкупниот калориски внес, квалитетот на ...",
-      "url": "https://motika.mk/kako-da-go-otstranite-saloto-od-stomakot-so-3-grupi-namirnici/",
-      "image": "https://motika.io/media/2026/10/24/img-4d2d0a6e-036b-425a-bd73-8d498442c4b4-2.jpg",
-      "date": "Sat, 24 Oct 2026 10:13:56 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Човек пуштил 13 зајаци на својот имот, па предизвикал еколошка катастрофа на целиот континент",
-      "description": "Една ловечка желба, донесена од Англија во Австралија, се претворила во проблем што трае повеќе од 160 години. Англискиот земјоделец Томас Остин не можел да претпостави дека животните што ги пуштил на својот имот ќе се размножат до стотици милиони и ќе ја променат природата на цел континент. Денес се проценува дека во Австралија живеат ...",
-      "url": "https://motika.mk/covek-pustil-13-zajaci-na-svojot-imot-pa-predizvikal-ekoloska-katastrofa-na-celiot-kontinent/",
-      "image": "https://motika.io/media/2026/10/24/img-a4a674fb-fc0b-434d-8508-d154f7b42ee8-1.webp",
-      "date": "Sat, 24 Oct 2026 10:09:21 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Може ли човек да ја види сопствената смрт? Необичен медицински случај ги остави лекарите во шок и неверување",
-      "description": "Што се случува со нашата свест кога срцето ќе престане да чука? Можно ли е да продолжиме да го перципираме светот околу нас дури и кога организмот ни е во клиничка смрт? И зошто дел од преживеаните подоцна можат во детали да го опишат сопственото спасување? Овие прашања со децении ги окупираат научниците кои ги ...",
-      "url": "https://motika.mk/moze-li-covek-da-ja-vidi-sopstvenata-smrt-neobicen-medicinski-slucaj-gi-ostavi-lekarite-vo-sok-i-neveruvane/",
-      "image": "https://motika.io/media/2026/10/24/img-dc327a90-e10c-428a-b58b-a0307d9bef76-1.jpg",
-      "date": "Sat, 24 Oct 2026 09:42:43 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Ловец на луѓе: Праисториската мачка што се специјализирала за лов на примати",
-      "description": "Сите се плашат од тираносаурусот, а мегалодонот е вистинска ѕвезда на интернетот. Но обата овие монструми живееле многу пред појавата на луѓето и воопшто не ги интересирале приматите. Ние припаѓаме на сосема друга еколошка ниша и едноставно не сме се вклопувале во нивното мени. Вистинскиот непријател на човекот изгледал многу поскромно. Без осум метри висина ...",
-      "url": "https://motika.mk/lovec-na-luge-praistoriskata-macka-sto-se-specijalizirala-za-lov-na-primati/",
-      "image": "https://motika.io/media/2026/10/24/img-ec7bb127-1f7f-46aa-a690-5df993e87149-1.jpg",
-      "date": "Sat, 24 Oct 2026 09:18:42 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Motika",
-      "title": "Безбедноста на Балканот е поврзана со безбедноста на Италија – Рим најавува радари за надзор, КФОР останува во регионот",
-      "description": "Италија влегува во нов безбедносен чекор кон Западен Балкан. Министерот за одбрана Гвидо Крозето оцени дека стабилноста на регионот не е одвоено прашање, туку дел од заштитата на самата Италија. Во фокусот се можни радари за надзор на воздушниот простор и рано откривање закани. Содржина: Крозето гледа кон небото над Западен Балкан Роберто Вергори ја ...",
-      "url": "https://motika.mk/bezbednosta-na-balkanot-e-povrzana-so-bezbednosta-na-italija-rim-najavuva-radari-za-nadzor-kfor-ostanuva-vo-regionot/",
-      "image": "https://motika.io/media/2026/10/24/img-80b796b2-5963-4687-a6ce-b9f346c13ee3-1.jpg",
-      "date": "Sat, 24 Oct 2026 09:05:15 +0000"
+      "source": "Time.mk - All",
+      "title": "Нашата Ана последна на Јуниор Евросонг во Малта - победник е Ерменија | Црнобело",
+      "description": "",
+      "url": "https://time.mk/c/87dae36bf8/nasata-ana-posledna-na-junior-evrosong-vo-malta-pobednik-e-ermenija.html",
+      "image": "https://www.crnobelo.com/images/stories/2026/10/1035/nashata-ana-voodushevi-na-junior-evrosong-poveke-01.jpg",
+      "date": "Sat, 24 Oct 2026 21:24:48 +0000"
     }
   ],
   "de": [
