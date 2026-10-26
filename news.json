@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T23:03:42.294736+00:00",
+  "updated": "2026-10-26T01:30:35.148815+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -105,7 +105,7 @@
       "source": "Time.mk - All",
       "title": "Избори во Србија: Вучиќ призна пораз, студентското движење ја прекина неговата 14-годишна политичка доминација | Deutsche Welle",
       "description": "",
-      "url": "https://time.mk/c/bbb41b48f3/izbori-vo-srbija-vucik-prizna-poraz-studentskoto-dvizenje-ja-prekina-negovata-14-godisna-politicka-dominacija.html",
+      "url": "https://time.mk/c/2c78a3e593/izbori-vo-srbija-vucik-prizna-poraz-studentskoto-dvizenje-ja-prekina-negovata-14-godisna-politicka-dominacija.html",
       "image": "https://static.dw.com/image/79758032_302.jpg",
       "date": "Sun, 25 Oct 2026 22:10:47 +0000"
     },
@@ -121,11 +121,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Студентите победуваат“ ги предупредија белграѓани: Не се собирајте таму каде што има зголемено присуство на полиција и лица без униформи! | Фокус",
+      "title": "(ВИДЕО) Групи луѓе со качулки се собираат во Пионирскиот парк, студентите повикуваат на претпазливост | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/130465d3b5/studentite-pobeduvaat-gi-predupredija-belgragjani-ne-se-sobirajte-tamu-kade-sto-ima-zgolemeno-prisustvo-na-policija-i-lica-bez-uniformi.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/10/2-138-e1792945625533-1000x560-1-585x328.jpg",
-      "date": "Sun, 25 Oct 2026 19:50:43 +0000"
+      "url": "https://time.mk/c/d0c056a220/video-grupi-lugje-so-kaculki-se-sobiraat-vo-pionirskiot-park-studentite-povikuvaat-na-pretpazlivost.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/10/maskirani-pionirski-park.png",
+      "date": "Sun, 25 Oct 2026 19:58:36 +0000"
     },
     {
       "category": "mkd",
@@ -139,11 +139,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "РИМСКАТА СРЕДБА НА МИТРОПОЛИТОТ ГЕОРГИЈ СО ВСЕЛЕНСКИОТ ПАТРИЈАРХ ВАРТОЛОМЕЈ ОТВОРИ ДИЛЕМИ: Се крши ли мразот меѓу МПЦ-ОА и Вселенската патријаршија? | Вечер Прес",
+      "title": "Андоновски ги повика граѓаните да аплицираат за билети за промоцијата на новата апликација „м.Услуги“ | Нова Македонија",
       "description": "",
-      "url": "https://time.mk/c/afdb868061/rimskata-sredba-na-mitropolitot-georgij-so-vselenskiot-patrijarh-vartolomej-otvori-dilemi-se-krsi-li-mrazot-megju-mpc-oa-i-vselenskata-patrijarsija.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/10/stefan-i-vartolme-1-1024x683-1-e1792940147369.jpg",
-      "date": "Sun, 25 Oct 2026 14:56:54 +0000"
+      "url": "https://time.mk/c/71ed9579cb/andonovski-gi-povika-gragjanite-da-apliciraat-za-bileti-za-promocijata-na-novata-aplikacija-m-uslugi.html",
+      "image": "",
+      "date": "Sun, 25 Oct 2026 20:42:58 +0000"
     },
     {
       "category": "mkd",
@@ -166,11 +166,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Видео) Гори шатор во „Ќациленд“, граѓаните влегоа во паркот по изборниот пораз на Вучиќ | Скопје1",
+      "title": "Граѓаните го урнаа Ќациленд – симболот на Вучиќевата Србија | Независен",
       "description": "",
-      "url": "https://time.mk/c/09aa438c26/video-gori-sator-vo-kacilend-gragjanite-vlegoa-vo-parkot-po-izborniot-poraz-na-vucik.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/86813/conversions/text-max.jpg",
-      "date": "Sun, 25 Oct 2026 22:30:48 +0000"
+      "url": "https://time.mk/c/e12d8472e0/gragjanite-go-urnaa-kacilend-simbolot-na-vucikevata-srbija.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/Cacilend-1-1024x861.jpg",
+      "date": "Sun, 25 Oct 2026 21:44:55 +0000"
     },
     {
       "category": "mkd",
@@ -638,6 +638,15 @@
     {
       "category": "eng",
       "source": "PCWorld",
+      "title": "Best mini PC deals: Top Intel and AMD picks for performance, gaming, and more",
+      "description": "At a glance Top AMD mini PC deal picks Bosgame P6 —$530 (12% off on Amazon) Glorlin AI Mini PC —$629 (10% off on Amazon with coupon) Getorli Mini PC —$475 (19% off on Amazon with coupon) Top Intel mini PC deal picks Kamrui P2 —$569 (39% off on Amazon) GMKtec M2 Pro —$500 (23% off on Amazon) Kamrui Hyper H2 Mini —$470 (22% off on Amazon) Whether you’re looking for a productivity mini PC, something for gaming, or just a budget-friendly machine with a small footprint, we’ve got you covered. The tea",
+      "url": "https://www.pcworld.com/article/2999556/best-mini-pc-deals-top-picks-for-performance-gaming-and-more.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/2999556-0-49170000-1792971118-image-2.png",
+      "date": "Sun, 25 Oct 2026 23:31:51 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
       "title": "Stop data brokers from selling your info with this $95 Surfshark bundle",
       "description": "TL;DR: Get a VPN, antivirus, breach alerts, and Incogni data removal with a one-year Surfshark One+ subscription for $95, on sale for 62% off. AI tools make it easier than ever to pull your name, address, and phone number from data broker sites into one profile, and those sites sell that information to anyone who pays. A one-year Surfshark One+ subscription with Incogni gets your data removed from more than 420 of those sites and alerts you if it shows up in a breach — and it’s on sale for $95 (",
       "url": "https://www.pcworld.com/article/3268659/stop-data-brokers-from-selling-your-info-with-this-95-surfshark-bundle.html",
@@ -656,19 +665,19 @@
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Trade recurring Microsoft 365 fees for a $28 lifetime Office 2021 license on one PC",
-      "description": "TL;DR: Skip recurring Microsoft 365 fees with a lifetime license to Microsoft Office Professional 2021 for Windows, now $27.97 through November 1 (MSRP $219.99). If you’d rather avoid another annual software bill, Microsoft Office Professional 2021 lets you pay once and keep using the apps on your Windows PC. A lifetime license is currently available for $27.97 through November 1, giving you a way to cover everyday productivity needs without another recurring subscription . This version comes wi",
-      "url": "https://www.pcworld.com/article/3268555/trade-recurring-microsoft-365-fees-for-a-28-lifetime-office-2021-license-on-one-pc.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3268555-0-42021800-1792828872-mso-pro-2021-win-2.jpg?quality=50&strip=all",
+      "title": "Microsoft Project Professional 2024 drops to $50 for a lifetime license",
+      "description": "TL;DR: Plan and track projects on your PC with a Microsoft Project Professional 2024 lifetime license, now $49.97 (reg. $1,129) until November 1. Cloud project management tools usually charge per user, per month, and that bill keeps coming for as long as your team needs schedules. Through November 1, a lifetime license to Microsoft Project Professional 2024 for Windows gets you Microsoft’s desktop scheduling software for a one-time $49.97. Building a plan from a blank file takes time, so pre-bui",
+      "url": "https://www.pcworld.com/article/3268625/microsoft-project-professional-2024-drops-to-50-for-a-lifetime-license.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3268625-0-03933300-1792828827-Project-Pro-2024.jpg?quality=50&strip=all",
       "date": "Sat, 24 Oct 2026 08:00:00 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Microsoft Project Professional 2024 drops to $50 for a lifetime license",
-      "description": "TL;DR: Plan and track projects on your PC with a Microsoft Project Professional 2024 lifetime license, now $49.97 (reg. $1,129) until November 1. Cloud project management tools usually charge per user, per month, and that bill keeps coming for as long as your team needs schedules. Through November 1, a lifetime license to Microsoft Project Professional 2024 for Windows gets you Microsoft’s desktop scheduling software for a one-time $49.97. Building a plan from a blank file takes time, so pre-bui",
-      "url": "https://www.pcworld.com/article/3268625/microsoft-project-professional-2024-drops-to-50-for-a-lifetime-license.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3268625-0-03933300-1792828827-Project-Pro-2024.jpg?quality=50&strip=all",
+      "title": "Trade recurring Microsoft 365 fees for a $28 lifetime Office 2021 license on one PC",
+      "description": "TL;DR: Skip recurring Microsoft 365 fees with a lifetime license to Microsoft Office Professional 2021 for Windows, now $27.97 through November 1 (MSRP $219.99). If you’d rather avoid another annual software bill, Microsoft Office Professional 2021 lets you pay once and keep using the apps on your Windows PC. A lifetime license is currently available for $27.97 through November 1, giving you a way to cover everyday productivity needs without another recurring subscription . This version comes wi",
+      "url": "https://www.pcworld.com/article/3268555/trade-recurring-microsoft-365-fees-for-a-28-lifetime-office-2021-license-on-one-pc.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3268555-0-42021800-1792828872-mso-pro-2021-win-2.jpg?quality=50&strip=all",
       "date": "Sat, 24 Oct 2026 08:00:00 +0000"
     },
     {
@@ -715,15 +724,6 @@
       "url": "https://www.pcworld.com/article/3268099/score-ugreens-insanely-thin-45w-nexode-air-charger-for-a-rare-27.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3268099-0-73180400-1792761067-Ugreen-Nexode-Air-45w.jpg?quality=50&strip=all",
       "date": "Fri, 23 Oct 2026 13:10:58 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "This $7,000 Asus RTX Spark laptop feels like Darth Vader’s MacBook Pro",
-      "description": "It takes a lot to live up to a $7,000 price tag . Asus’ ProArt P16 RTX Spark certainly does when it comes to the hardware. With 128GB of memory, a spectacular 16-inch OLED display, and a remarkably thin and rigid all-metal chassis, it feels like a serious Windows challenger to Apple’s premium MacBook Pros despite a couple of annoying quirks. It’s utterly stunning hardware, full stop. I’m working on a full review of this beautiful monster, centered on the reason it exists in the first place: Nvid",
-      "url": "https://www.pcworld.com/article/3267291/this-7000-asus-rtx-spark-laptop-feels-like-darth-vaders-macbook-pro.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3267291-0-14756100-1792760451-Asus-ProArt-16-RTX-Spark-16.jpg?quality=50&strip=all",
-      "date": "Fri, 23 Oct 2026 13:00:00 +0000"
     }
   ],
   "starwars": [
@@ -998,276 +998,5 @@
       "date": "Fri, 23 Oct 2026 16:58:53 +0000"
     }
   ],
-  "youtube": [
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Ein öffentliches CTF für die Php2Shell Lücke ?! #informatik #code #cybersecurity #ctf #news",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/juFpuEj1hU4",
-      "image": "https://i.ytimg.com/vi/juFpuEj1hU4/hqdefault.jpg",
-      "date": "2026-10-25T16:46:55+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Vibe Coding oder Vulnerability as a Service ?! Passt auf eure Keys auf ;)",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/qLXmp7w7hwQ",
-      "image": "https://i.ytimg.com/vi/qLXmp7w7hwQ/hqdefault.jpg",
-      "date": "2026-10-24T08:30:23+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Ein Generalschlüssel für Zertifikate jeder Webseite der Welt....",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/XiCe4cYH_3g",
-      "image": "https://i.ytimg.com/vi/XiCe4cYH_3g/hqdefault.jpg",
-      "date": "2026-10-22T16:46:59+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "PHP2Shell: Wie ein Speicherfehler zur Shell wird",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=qXv8NAIFm9o",
-      "image": "https://i.ytimg.com/vi/qXv8NAIFm9o/hqdefault.jpg",
-      "date": "2026-10-21T21:30:08+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "AfD Leak, PHP Lücke und Revolut-Ausfall wegen Google Cloud... Security Bingo kann losgehen",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/MYkQLmiLPTA",
-      "image": "https://i.ytimg.com/vi/MYkQLmiLPTA/hqdefault.jpg",
-      "date": "2026-10-21T18:41:31+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Die AfD Leaks Teil 1 - seit dem Erstellen des Videos hat sich aber auch einiges getan ^^",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/5sQQA6K8W_k",
-      "image": "https://i.ytimg.com/vi/5sQQA6K8W_k/hqdefault.jpg",
-      "date": "2026-10-20T20:15:40+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Jeder will, dass du KI entweder liebst oder fürchtest. Warum eigentlich?",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/Wb1GocgvZA0",
-      "image": "https://i.ytimg.com/vi/Wb1GocgvZA0/hqdefault.jpg",
-      "date": "2026-10-19T17:00:03+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Eine Werbeanzeige als Zero Click Exploit ?! #informatik #spy #cybersecurity #news #spyware",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/pCVwu6ydZkQ",
-      "image": "https://i.ytimg.com/vi/pCVwu6ydZkQ/hqdefault.jpg",
-      "date": "2026-10-18T16:15:32+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Spannende Zeiten für alle iOS Bastler ^^ #informatik #cybersecurity #ios #iphone #news",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/2H_WBnTsrRw",
-      "image": "https://i.ytimg.com/vi/2H_WBnTsrRw/hqdefault.jpg",
-      "date": "2026-10-17T10:30:02+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Ein LTE Modul in einem Hardware Wallet ?! Was ist dieses Jahr eigentlich nicht passiert....",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/mDAHUbhpcFQ",
-      "image": "https://i.ytimg.com/vi/mDAHUbhpcFQ/hqdefault.jpg",
-      "date": "2026-10-16T10:15:25+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Set Off Alarms in Abandoned Paper Mill",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=_2m_nAVaYSg",
-      "image": "https://i.ytimg.com/vi/_2m_nAVaYSg/hqdefault.jpg",
-      "date": "2026-09-30T17:00:15+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Exploring The Last Coal Power Plant in Connecticut Bridgeport Harbor Station",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=CR84XRBKBzs",
-      "image": "https://i.ytimg.com/vi/CR84XRBKBzs/hqdefault.jpg",
-      "date": "2026-08-27T17:00:39+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Rocketdyne Santa Susana Field Laboratory Abandoned America Space Race (1948)",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=0lka-0REQrQ",
-      "image": "https://i.ytimg.com/vi/0lka-0REQrQ/hqdefault.jpg",
-      "date": "2026-04-23T17:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Mall Westfield Promenade Demolition AMC Seats And Screens Left Behind",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=UnG29VothuQ",
-      "image": "https://i.ytimg.com/vi/UnG29VothuQ/hqdefault.jpg",
-      "date": "2026-03-27T21:09:35+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Mall Westfield Promenade Demolition Fly by In And Out",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=fDnOH8ZsfTg",
-      "image": "https://i.ytimg.com/vi/fDnOH8ZsfTg/hqdefault.jpg",
-      "date": "2026-03-27T20:40:08+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "AMC Westfield Promenade Mall Raw Demolition Drone Footage",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/5iA5R3Jq4g0",
-      "image": "https://i.ytimg.com/vi/5iA5R3Jq4g0/hqdefault.jpg",
-      "date": "2026-03-27T18:03:29+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Mall Westfield Promenade Demolition AMC Coming Down First!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=SAxjFGjTiHQ",
-      "image": "https://i.ytimg.com/vi/SAxjFGjTiHQ/hqdefault.jpg",
-      "date": "2026-03-23T17:42:38+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Beautiful Art Deco Theater",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=ccfU0LSmkj8",
-      "image": "https://i.ytimg.com/vi/ccfU0LSmkj8/hqdefault.jpg",
-      "date": "2026-03-11T20:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Decommissioned Power Station #synthwave #synth #retrowave #abandonedplaces",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/mOUbNSMoBJs",
-      "image": "https://i.ytimg.com/vi/mOUbNSMoBJs/hqdefault.jpg",
-      "date": "2025-06-17T17:55:51+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Wheel of Misfortune Three Kids Mine Demolition",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=VXRselqoN-8",
-      "image": "https://i.ytimg.com/vi/VXRselqoN-8/hqdefault.jpg",
-      "date": "2025-06-17T17:45:42+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Use FTP on a Modded Xbox 360 with Aurora - Network File Transfer Setup",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=xf9HqSbZLsg",
-      "image": "https://i.ytimg.com/vi/xf9HqSbZLsg/hqdefault.jpg",
-      "date": "2026-10-24T17:00:30+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "PS5 13.60 Jailbreak & Hypervisor Exploit, Xbox 360 Softmod, Halo Ported to EVERYTHING - ModChat 149",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=-PXtg_eDYBY",
-      "image": "https://i.ytimg.com/vi/-PXtg_eDYBY/hqdefault.jpg",
-      "date": "2026-10-21T17:00:30+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Backup & Play Xbox 360 Games on a Modded Xbox 360 - Multi-Disc, DLC, XBLA & More!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=KYOZR0zotSc",
-      "image": "https://i.ytimg.com/vi/KYOZR0zotSc/hqdefault.jpg",
-      "date": "2026-10-10T17:00:36+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Softmod the Xbox 360 - Peer Pressure Beginner Setup for Homebrew, Backups, and More!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=G8ceM_xXlO8",
-      "image": "https://i.ytimg.com/vi/G8ceM_xXlO8/hqdefault.jpg",
-      "date": "2026-10-07T19:00:34+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Bad Storage Unauthenticated: Use Any HDD or SSD on Bad Update for Xbox 360!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=svNvWiJAjow",
-      "image": "https://i.ytimg.com/vi/svNvWiJAjow/hqdefault.jpg",
-      "date": "2026-10-03T17:00:02+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Mario's Minute 105 - Wiping Old Drives and XBOX's Disc to Digital Program",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=C0pBgwThC68",
-      "image": "https://i.ytimg.com/vi/C0pBgwThC68/hqdefault.jpg",
-      "date": "2026-09-30T17:00:10+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "AutoDNS: A Useful Network Safety Plugin for Bad Update & ABadAvatar Consoles",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=dgX6KUQy4jk",
-      "image": "https://i.ytimg.com/vi/dgX6KUQy4jk/hqdefault.jpg",
-      "date": "2026-09-26T17:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "PS5 Hypervisor Drama, Xbox 360 Softmod Details Revealed, Switch 2 Game Binary Dumped - ModChat 148",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=eMTjE6NIAAQ",
-      "image": "https://i.ytimg.com/vi/eMTjE6NIAAQ/hqdefault.jpg",
-      "date": "2026-09-23T17:00:08+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "XeUnshackle Max: Auto-Start, Custom Boot Animations, and More for Bad Update or ABadAvatar!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=P2hOdoLzQ38",
-      "image": "https://i.ytimg.com/vi/P2hOdoLzQ38/hqdefault.jpg",
-      "date": "2026-09-19T17:00:35+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Run ABadAvatar from an Internal Drive - ABadAvatar HDD Setup & Transfer",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=seOPwVF3YEM",
-      "image": "https://i.ytimg.com/vi/seOPwVF3YEM/hqdefault.jpg",
-      "date": "2026-09-12T17:00:38+00:00"
-    }
-  ]
+  "youtube": []
 }
