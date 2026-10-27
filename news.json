@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-27T04:51:01.373527+00:00",
+  "updated": "2026-10-27T10:15:20.789843+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Microsoft им нуди доброволно заминување на околу 60.000 вработени, вклучително и на дел од раководителите",
+      "description": "Microsoft им понуди доброволно заминување од компанијата на околу 60.000 вработени во тимовите што учествуваат во програмата во САД, Канада, Велика Британија и Индија. Понудата, наречена „Voluntary Exit Offer“, е објавена во понеделникот во интерна порака до вработените, а бројката компанијата ја потврди за GeekWire. Тоа е околу четвртина од вкупно 223.000 вработени, колку што компанијата […]",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/microsoft-ponuda-dobrovolno-zaminuvanje-60000-vraboteni/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/redmond-usa-june-2023-microsoft-Depositphotos_739037736_XL-150x150.webp",
+      "date": "Tue, 27 Oct 2026 09:41:39 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "OpenAI го претстави GPT-6.1 Terra, модел за управување со компјутерот двојно поевтин од претходникот",
+      "description": "OpenAI го претстави GPT-6.1 Terra, нов среден модел во нивната понуда, сместен меѓу евтиниот GPT-6 Luna и посилните GPT-6.1 Sol и GPT-6 Astra. Компанијата го опишува како брз модел за анализа на слики, прецизно „компјутерско користење“, односно управување со апликациите на екранот и јасно и природно пишување. Според OpenAI, Terra е наменет за секојдневна работа, […]",
+      "url": "https://smartportal.mk/novosti/ai/openai-gpt-6-1-terra/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/06/Depositphotos_692579234_XL-150x150.webp",
+      "date": "Tue, 27 Oct 2026 09:11:35 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Anthropic официјално поднесе барање за излез на берза, а седумте основачи ќе ја задржат контролата",
+      "description": "Anthropic во понеделник го објави поднесокот S-1 до американската Комисија за хартии од вредност (SEC), со што официјално го започна излегувањето на берза, односно почетната јавна понуда (IPO). Компанијата која стои зад Claude моделите доверливо поднела нацрт уште на 1 јуни, а оттогаш го дополнувала пет пати. Anthropic побарале акциите да котираат на берзата Nasdaq под ознаката „ANT“, а […]",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/anthropic-oficijalno-ipo/",
+      "image": "https://smartportal.mk/wp-content/uploads/2025/02/shutterstock_2443144493-150x150.jpg",
+      "date": "Tue, 27 Oct 2026 08:30:04 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -66,210 +93,183 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Два критични пропусти во PHP овозможуваат далечинско преземање на сервери, па надградбата е итна",
-      "description": "PHP, програмскиот јазик на кој работат WordPress, Drupal, Joomla и MediaWiki, доби итни безбедносни надградби. На 21 октомври излегоа верзиите 8.5.12, 8.4.27, 8.3.36 и 8.2.35, кои поправаат два критични пропусти што му овозможуваат на напаѓач без најава да изврши свој код на серверот. Пропустите се означени како CVE-2026-109618 и CVE-2026-109619, со оценка 9,2 според CVSS 4.0, […]",
-      "url": "https://smartportal.mk/novosti/veb-i-bezbednost/php2shell/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/ben-griffiths-4wxWBy8Jo1I-unsplash-150x150.webp",
-      "date": "Fri, 23 Oct 2026 10:15:31 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "АмЧам: Посилна заштита на интелектуалната сопственост преку активно Национално координативно тело",
-      "description": "Американската стопанска комора во Македонија (АмЧам) вчера во Скопје организираше тркалезна маса посветена на унапредување на заштитата на интелектуалната сопственост. Во фокусот беше улогата на Националното координативно тело и можностите преку неговата работа да се обезбеди поефикасна заштита во оваа област. На настанот учествуваа претставници од институции, деловната заедница и стручната јавност, а поздравни обраќања имаа Барнабас Биркеланд, […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/amcham-posilna-zastita-intelektualna-sopstvenost-koordinativno-telo/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/IMG_0787-150x150.webp",
-      "date": "Thu, 22 Oct 2026 12:05:03 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Anthropic ја претстави Claude Duet, апликација преку која Claude работи како проактивен агент и кој ве известува за тоа што го бара вашето внимание",
-      "description": "Anthropic ја претстави Claude Duet, нова апликација во која Claude работи како агент што сам доаѓа кај корисникот со она што бара негово внимание. Компанијата вели дека е наменета за професионалци и сопственици на мали бизниси кои имаат повеќе обврски отколку што можат да следат. Claude Duet е изграден околу Claude Opus 5.5. Секое утро праќа краток […]",
-      "url": "https://smartportal.mk/novosti/ai/anthropic-claude-duet/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/04/Depositphotos_837126366_L-150x150.webp",
-      "date": "Thu, 22 Oct 2026 11:14:35 +0000"
+      "source": "Time.mk - All",
+      "title": "ANTHROPIC ИЗЛЕГУВА НА БЕРЗА: IPO од 100 милијарди долари може да ги раздвижи светските финансиски пазари | Пари",
+      "description": "",
+      "url": "https://time.mk/c/1d44997d9d/anthropic-izleguva-na-berza-ipo-od-100-milijardi-dolari-moze-da-gi-razdvizi-svetskite-finansiski-pazari.html",
+      "image": "http://pari.com.mk/wp-content/uploads/2026/10/Anthropic-in-the-Financial-District.png",
+      "date": "Tue, 27 Oct 2026 09:56:40 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Ден по изборите во Србија: Упад во „Информер“, протести пред „Пинк“ и оро пред РТС | Колегиум",
+      "title": "Крај на изборот само по најниска цена – Собранието ги усвои новите правила за јавните набавки | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/e614fee27e/den-po-izborite-vo-srbija-upad-vo-informer-protesti-pred-pink-i-oro-pred-rts.html",
-      "image": "https://kolegium.mk/wp-content/uploads/2026/10/ÑÐ»Ð¸ÐºÐ°-300x132.jpg",
-      "date": "Mon, 26 Oct 2026 23:16:38 +0000"
+      "url": "https://time.mk/c/0cb5317e9d/kraj-na-izborot-samo-po-najniska-cena-sobranieto-gi-usvoi-novite-pravila-za-javnite-nabavki.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2023/10/Ministerstvo-za-finansii-zgrada-4-300x200.jpg",
+      "date": "Tue, 27 Oct 2026 09:53:10 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Политиката во Србија веќе нема да ја води само еден човек, вели носителот на Студентска листа | 360 степени",
+      "title": "(Фото) Во Брисел одржан првиот парламентарен состанок со Северноатлантскиот совет на НАТО | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/8cfaa6c7ad/politikata-vo-srbija-veke-nema-da-ja-vodi-samo-eden-covek-veli-nositelot-na-studentska-lista.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/10/Ilija-Srdanovikj.png",
-      "date": "Mon, 26 Oct 2026 21:03:05 +0000"
+      "url": "https://time.mk/c/5502eb0710/foto-vo-brisel-odrzan-prviot-parlamentaren-sostanok-so-severnoatlantskiot-sovet-na-nato.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/psnato1.webp",
+      "date": "Tue, 27 Oct 2026 09:23:00 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Интерпелација за министерката Божиновска: За опозицијата во енергетиката не е направено ништо. „Од нула, направив институција“, вели таа | Независен",
+      "title": "„Нов свет, ново лидерство“: Иванов ја отвори Школата за млади лидери | Press24",
       "description": "",
-      "url": "https://time.mk/c/c23fabddb4/interpelacija-za-ministerkata-bozinovska-za-opozicijata-vo-energetikata-ne-e-napraveno-nisto-od-nula-napraviv-institucija-veli-taa.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2024/10/Sobranie-pratenicki-prasanja-Sanja-Bozinovska-1-bg.jpg",
-      "date": "Mon, 26 Oct 2026 14:06:53 +0000"
+      "url": "https://time.mk/c/3b8f932951/nov-svet-novo-liderstvo-ivanov-ja-otvori-skolata-za-mladi-lideri.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/79647.jpg",
+      "date": "Tue, 27 Oct 2026 09:31:02 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Малку пари за оброк, лоши услови во домови и скап превоз — македонските студенти го минуваат месецот „на мускули“ | Слободен Печат",
+      "title": "Мајка му донираше бубрег на своето дете со ретка генетска болест – прва ваква трансплантација во Македонија | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/07d37ec28a/malku-pari-za-obrok-losi-uslovi-vo-domovi-i-skap-prevoz-makedonskite-studenti-go-minuvaat-mesecot-na-muskuli.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/M79_9745-300x200.jpg",
-      "date": "Mon, 26 Oct 2026 17:03:02 +0000"
+      "url": "https://time.mk/c/2eeec2eca2/majka-mu-donirase-bubreg-na-svoeto-dete-so-retka-genetska-bolest-prva-vakva-transplantacija-vo-makedonija.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/86916/conversions/text-max.jpg",
+      "date": "Tue, 27 Oct 2026 08:40:39 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Тешко е да се биде Вучиќ сега во Србија и автократ во Европа | Независен",
+      "title": "Со македонски пасош олеснето може да се патува во 114 држави - еве на кое место е рангиран годинава! | Скопје инфо",
       "description": "",
-      "url": "https://time.mk/c/900bf18236/tesko-e-da-se-bide-vucik-sega-vo-srbija-i-avtokrat-vo-evropa.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/Belgrad-slavje2.jpg",
-      "date": "Mon, 26 Oct 2026 13:41:20 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Мисајловски на средба со Холовнија: Поддршка на Полска за европската интеграција на земјите од Западен Балкан | Press24",
-      "description": "",
-      "url": "https://time.mk/c/83f0e6a557/misajlovski-na-sredba-so-holovnija-poddrska-na-polska-za-evropskata-integracija-na-zemjite-od-zapaden-balkan.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/79512.jpg",
-      "date": "Mon, 26 Oct 2026 16:26:57 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Уште еден неуспешен обид помеѓу власта и синдикатите за пресметка на трошоците за живот | 24 Вести",
-      "description": "",
-      "url": "https://time.mk/c/6b30081752/uste-eden-neuspesen-obid-pomegju-vlasta-i-sindikatite-za-presmetka-na-trosocite-za-zivot.html",
-      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1793027359/ngcog0w4siadu2rd0ktd.jpg",
-      "date": "Mon, 26 Oct 2026 16:10:50 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "БИЗНИСОТ НЕДОВОЛНО ГИ КОРИСТИ ЕЛЕКТРОНСКИТЕ УСЛУГИ ШТО ИМ СЕ НА РАСПОЛАГАЊЕ, ФОРМИРАЊЕ НА КООРДИНАТИВНО ТЕЛО ЗА ЗАБРЗУВАЊЕ НА ДИГИТАЛИЗАЦИЈАТА | Економија и Бизнис",
-      "description": "",
-      "url": "https://time.mk/c/af77bd8596/biznisot-nedovolno-gi-koristi-elektronskite-uslugi-sto-im-se-na-raspolaganje-formiranje-na-koordinativno-telo-za-zabrzuvanje-na-digitalizacijata.html",
-      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/10/komoradigitalizacija-1024x576.jpg",
-      "date": "Mon, 26 Oct 2026 17:23:16 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "(ВИДЕО) Поддржувачите на Студентска листа и вечерва ја славеа изборната победа – дел заиграа оро пред РТС | 360 степени",
-      "description": "",
-      "url": "https://time.mk/c/e140a7bd2c/video-poddrzuvacite-na-studentska-lista-i-vecerva-ja-slavea-izbornata-pobeda-del-zaigraa-oro-pred-rts.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/10/proslava-slavija-2.jpg",
-      "date": "Mon, 26 Oct 2026 22:48:37 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Александар Вучиќ 14 години ги надмудруваше политичките противници во Србија, но неговиот рецепт не успеа против студентите | Deutsche Welle",
-      "description": "",
-      "url": "https://time.mk/c/a8307567ce/aleksandar-vucik-14-godini-gi-nadmudruvase-politickite-protivnici-vo-srbija-no-negoviot-recept-ne-uspea-protiv-studentite.html",
-      "image": "https://static.dw.com/image/79764179_302.jpg",
-      "date": "Mon, 26 Oct 2026 18:00:53 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Драма во Бразил по изборите: На синот на Болсонаро му е побаран пасошот, Трамп тврди дека изборите биле наместени | ТВ21",
-      "description": "",
-      "url": "https://time.mk/c/034ed7d1eb/drama-vo-brazil-po-izborite-na-sinot-na-bolsonaro-mu-e-pobaran-pasosot-tramp-tvrdi-deka-izborite-bile-namesteni.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2020/11/Zair-Bolsonaro.jpg",
-      "date": "Mon, 26 Oct 2026 22:15:13 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Учениците продолжуваат со протестите во Франција и покрај понудата од владата | Вечер Прес",
-      "description": "",
-      "url": "https://time.mk/c/9232fbe2ce/ucenicite-prodolzuvaat-so-protestite-vo-francija-i-pokraj-ponudata-od-vladata.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/10/protest-francija-3.jpg",
-      "date": "Mon, 26 Oct 2026 19:56:53 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Утре без вода во делови од Скопје – проверете дали сте на списокот | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/f2b2e4e40b/utre-bez-voda-vo-delovi-od-skopje-proverete-dali-ste-na-spisokot.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/36513/conversions/bez-voda-max.jpg",
-      "date": "Mon, 26 Oct 2026 17:54:52 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Успешно реализирана симулациска вежба за евакуација во ООУ „Христо Узунов“ – Охрид | Охрид1",
-      "description": "",
-      "url": "https://time.mk/c/3abc11f491/uspesno-realizirana-simulaciska-vezba-za-evakuacija-vo-oou-hristo-uzunov-ohrid.html",
-      "image": "https://ohrid1.com/wp-content/uploads/2026/10/vezba-750x460.jpg",
-      "date": "Mon, 26 Oct 2026 13:08:47 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "(Видео) Тројца повредени по сообраќајката во Чаир, МВР со детали | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/49bd792c27/video-trojca-povredeni-po-soobrakajkata-vo-cair-mvr-so-detali.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/86906/conversions/text-max.jpg",
-      "date": "Mon, 26 Oct 2026 21:40:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Драма во Гостивар: Се скарал со вонбрачната сопруга, па ја нападнал со остар предмет | Скопје инфо",
-      "description": "",
-      "url": "https://time.mk/c/75355e2b10/drama-vo-gostivar-se-skaral-so-vonbracnata-sopruga-pa-ja-napadnal-so-ostar-predmet.html",
-      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/oktomvri/image-263163.jpg?itok=oMB_jT7d",
-      "date": "Mon, 26 Oct 2026 14:08:42 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ВИЦЕПРЕМИЕРОТ СТОИЉКОВИЌ СЕ ПОФАЛИ ДЕКА ВУЧИЌ ПОБЕДИЛ НА ГЛАСАЊЕТО ВО МАКЕДОНИЈА, МИЦКОСКИ СЕ НЕМА ОГЛАСЕНО ЗА ИЗБОРИТЕ ВО СРБИЈА | Сакам да кажам",
-      "description": "",
-      "url": "https://time.mk/c/b32f8148d4/vicepremierot-stoiljkovik-se-pofali-deka-vucik-pobedil-na-glasanjeto-vo-makedonija-mickoski-se-nema-oglaseno-za-izborite-vo-srbija.html",
-      "image": "https://sdk.mk/wp-content/uploads/2025/01/dodik-sveti-sava-3278782378.jpg",
-      "date": "Mon, 26 Oct 2026 12:38:44 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Анакиев: Ништо од ветените проекти на градоначалникот Митев, граѓаните сè уште чекаат решенија | Press24",
-      "description": "",
-      "url": "https://time.mk/c/16193c1f71/anakiev-nisto-od-vetenite-proekti-na-gradonacalnikot-mitev-gragjanite-se-uste-cekaat-resenija.html",
+      "url": "https://time.mk/c/0d69b9c21a/so-makedonski-pasos-olesneto-moze-da-se-patuva-vo-114-drzavi-eve-na-koe-mesto-e-rangiran-godinava.html",
       "image": "",
-      "date": "Mon, 26 Oct 2026 10:50:48 +0000"
+      "date": "Tue, 27 Oct 2026 09:53:10 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "АКТЕРКАТА СОЊА МИХАЈЛОВА, ДОАЈЕНКА НА БИТОЛСКИОТ ТЕАТАР, ЈА ДОБИ НАГРАДАТА „4 НОЕМВРИ“ ЗА ЖИВОТНО ДЕЛО | Сакам да кажам",
+      "title": "Македонија ја претстави 𝟤𝟢-годишната стратегија за минерални суровини во Загреб: Договорена соработка за геотермална енергија | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/362825b59d/akterkata-sonja-mihajlova-doajenka-na-bitolskiot-teatar-ja-dobi-nagradata-4-noemvri-za-zivotno-delo.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/10/sonja-mihajlova-1.jpg",
-      "date": "Mon, 26 Oct 2026 12:32:57 +0000"
+      "url": "https://time.mk/c/908f68abe4/makedonija-ja-pretstavi-𝟤𝟢-godisnata-strategija-za-mineralni-surovini-vo-zagreb-dogovorena-sorabotka-za-geotermalna-energija.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/screenshot-2026-10-27-102710.webp",
+      "date": "Tue, 27 Oct 2026 09:28:41 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Изложбата „Револуција во кадар“ откри ретки и досега необјавени фотографии од македонското револуционерно минато (фотогалерија) | Вечер Прес",
+      "title": "Global Trade & Growth Forum 2026: Поврзување на македонските компании со глобалните пазари | Бизнис Вести",
       "description": "",
-      "url": "https://time.mk/c/864387a977/izlozbata-revolucija-vo-kadar-otkri-retki-i-dosega-neobjaveni-fotografii-od-makedonskoto-revolucionerno-minato-fotogalerija.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/10/slika-naslovna0-e1793049856514.jpg",
-      "date": "Mon, 26 Oct 2026 22:00:53 +0000"
+      "url": "https://time.mk/c/d971cea05f/global-trade-growth-forum-2026-povrzuvanje-na-makedonskite-kompanii-so-globalnite-pazari.html",
+      "image": "https://biznisvesti.mk/wp-content/uploads/2026/10/20261026180237_big_730x400_40-300x169.webp",
+      "date": "Tue, 27 Oct 2026 06:22:57 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Од трагедијата во Нови Сад до изборите: Две години протести и барања за одговорност | 4NEWS",
+      "description": "",
+      "url": "https://time.mk/c/4a3bbb5241/od-tragedijata-vo-novi-sad-do-izborite-dve-godini-protesti-i-baranja-za-odgovornost.html",
+      "image": "https://4news.mk/wp-content/uploads/2026/10/vlcsnap-2026-10-26-23h25m13s371-1024x576.avif",
+      "date": "Tue, 27 Oct 2026 07:32:40 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "(Видео) Лидерот на студентската листа по инцидентите во Белград: „Ве молам, останете смирени“ | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/a756382d4f/video-liderot-na-studentskata-lista-po-incidentite-vo-belgrad-ve-molam-ostanete-smireni.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/specijalci-beograd-police-and-pride-in-belgade-depositphotos_33635735_xl.webp",
+      "date": "Tue, 27 Oct 2026 05:48:57 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Израел: Дали мароканските корени на Ајзенкот би можеле да ја загрозат победата на Нетанјаху? | Deutsche Welle",
+      "description": "",
+      "url": "https://time.mk/c/e0981d26dd/izrael-dali-marokanskite-koreni-na-ajzenkot-bi-mozele-da-ja-zagrozat-pobedata-na-netanjahu.html",
+      "image": "https://static.dw.com/image/79750417_302.jpg",
+      "date": "Tue, 27 Oct 2026 08:50:56 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Мерц: Уривањето на стариот светски поредок ги загрозува интересите на европските сили | Фокус",
+      "description": "",
+      "url": "https://time.mk/c/81d195ce3c/merc-urivanjeto-na-stariot-svetski-poredok-gi-zagrozuva-interesite-na-evropskite-sili.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/10/merc.webp",
+      "date": "Tue, 27 Oct 2026 08:56:47 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Герасимовски: Центар е лидер во локалната енергетска транзиција, до крајот на мандатот сите образовни објекти ќе добијат фотоволтаични централи | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/f6cbdeb07d/gerasimovski-centar-e-lider-vo-lokalnata-energetska-tranzicija-do-krajot-na-mandatot-site-obrazovni-objekti-ke-dobijat-fotovoltaicni-centrali.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/gerasimovski-panel-diskusija-1.webp",
+      "date": "Tue, 27 Oct 2026 08:56:47 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Ќе нема струја со часови – Најавени исклучувања во Скопје | Press24",
+      "description": "",
+      "url": "https://time.mk/c/dd2be29d79/ke-nema-struja-so-casovi-najaveni-isklucuvanja-vo-skopje.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/79575.jpg",
+      "date": "Tue, 27 Oct 2026 07:06:55 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Поднесени обвиненија против даночни инспектори во врска со „Пулс“ – примале мито и заташкувале неправилности од контроли | 360 степени",
+      "description": "",
+      "url": "https://time.mk/c/d91d3de6e6/podneseni-obvinenija-protiv-danocni-inspektori-vo-vrska-so-puls-primale-mito-i-zataskuvale-nepravilnosti-od-kontroli.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2025/12/12899264.jpg",
+      "date": "Tue, 27 Oct 2026 09:48:48 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Охриѓанки се степаа среде улица: едната со тешки повреди пренесена во болница | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/4083ec439a/ohrigjanki-se-stepaa-srede-ulica-ednata-so-teski-povredi-prenesena-vo-bolnica.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2024/02/ohrid-brza-pomos-1.jpg",
+      "date": "Tue, 27 Oct 2026 09:48:48 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Стефковски со честитка за Петковден: „Нека верата ни дава сила во тешките мигови” | Press24",
+      "description": "",
+      "url": "https://time.mk/c/abc4c6c9c5/stefkovski-so-cestitka-za-petkovden-neka-verata-ni-dava-sila-vo-teskite-migovi.html",
+      "image": "",
+      "date": "Tue, 27 Oct 2026 07:27:00 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Ученици од Пустец, Ресен и Лемос ќе учествуваат на вторите училишни игри во општина Преспа | Весник Илинден",
+      "description": "",
+      "url": "https://time.mk/c/03e32b914c/ucenici-od-pustec-resen-i-lemos-ke-ucestvuvaat-na-vtorite-ucilisni-igri-vo-opstina-prespa.html",
+      "image": "http://vesnik-ilinden.com/wp-content/uploads/2026/10/deca-od-prespa-300x141.png",
+      "date": "Tue, 27 Oct 2026 08:32:39 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Жените денеска никако не смеат да направат една работа – Важно народно верување за Петковден | Press24",
+      "description": "",
+      "url": "https://time.mk/c/44659a1a41/zenite-deneska-nikako-ne-smeat-da-napravat-edna-rabota-vazno-narodno-veruvanje-za-petkovden.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/79642.jpg",
+      "date": "Tue, 27 Oct 2026 09:16:49 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "„Македонска крвава свадба“ доби дигитално блу-реј издание | Трн",
+      "description": "",
+      "url": "https://time.mk/c/885805205c/makedonska-krvava-svadba-dobi-digitalno-blu-rej-izdanie.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/10/kinoteka.jpeg",
+      "date": "Tue, 27 Oct 2026 08:03:11 +0000"
     }
   ],
   "de": [
@@ -638,6 +638,15 @@
     {
       "category": "eng",
       "source": "PCWorld",
+      "title": "Visual Studio Professional 2026 drops to $29.97 for a lifetime license",
+      "description": "TL;DR: Get a Microsoft Visual Studio Professional 2026 lifetime license for $29.97 (reg. $499.99). Visual Studio Professional is one of the most widely used IDEs for .NET and C++ development, and Microsoft typically sells it through a subscription. A Microsoft Visual Studio Professional 2026 lifetime license replaces that recurring cost with one payment, and it’s on sale for $29.97 (reg. $499.99). Visual Studio 2026 runs as a 64-bit IDE, so large solutions with many projects stay responsive. You",
+      "url": "https://www.pcworld.com/article/3269917/visual-studio-professional-2026-drops-to-29-97-for-a-lifetime-license.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3269917-0-04845600-1793088052-sale_323970_article_image_c3128d.jpg?quality=50&strip=all",
+      "date": "Tue, 27 Oct 2026 08:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
       "title": "Best PC computer deals: Top picks from desktops to all-in-ones",
       "description": "At a glance Top gaming desktop computer deals ABS Cyclone Aqua —$849 (29% off on Walmart) MSI Codex Z2C —$1,279 (20% off at Walmart) CyberPowerPC Gamer Master —$1,180 (13% off at Best Buy) Top mini PC deals Bosgame P6 —$530 (12% off on Amazon) Glorlin AI Mini PC —$629 (10% off on Amazon with coupon) Kamrui P2 —$649 (30% off on Amazon) Top all-in-one desktop computer deals Lenovo IdeaCentre 24 AiO —$800 (38% off on Amazon) HP OmniStudio 24 —$700 (36% off on Amazon) Lenovo Yoga AIO 27 —$1,400 (29%",
       "url": "https://www.pcworld.com/article/813362/best-pc-computer-deals.html",
@@ -715,15 +724,6 @@
       "url": "https://www.pcworld.com/article/3253752/msi-pro-max-edge-ai-review.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3253752-0-11586600-1793012424-Test-MSI-PRO-MAX-EDGE-AI_optimiert.png",
       "date": "Mon, 26 Oct 2026 11:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Tired of Google’s AI overviews? Here’s how to get rid of them",
-      "description": "Google Search seems to be getting more cluttered with AI-generated content by the day. Sure, some of it can be useful, but sometimes I just want to see a straightforward list of links without having to scroll past an AI summary. Fortunately, you can get rid of much of this clutter with uBlock Origin , one of our favorite free ad-blocker browser extensions here at PCWorld. To start, install uBlock Origin in your browser. I recommend using Firefox since the full version of the extension is no long",
-      "url": "https://www.pcworld.com/article/3264210/tired-of-googles-ai-overviews-heres-how-to-get-rid-of-them.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3264210-0-74035800-1793010620-ublock-origin-chrome-logo.jpg?quality=50&strip=all",
-      "date": "Mon, 26 Oct 2026 10:30:00 +0000"
     }
   ],
   "starwars": [
@@ -901,6 +901,33 @@
     {
       "category": "starwars",
       "source": "Jedi News",
+      "title": "Natalie Portman on How Star Wars Taught Her Failure",
+      "description": "Jonathan Bailey has booked a new film opposite Oscar winning Star Wars actress Natalie Portman for 'Pumping Black', a psychological thriller set in the competitive and cutthroat world of professional cycling. The post Natalie Portman on How Star Wars Taught Her Failure appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/natalie-portman-on-how-star-wars-taught-her-failure/",
+      "image": "",
+      "date": "Tue, 27 Oct 2026 09:18:44 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Kuiil’s Wise Advice | The Mandalorian | Official Compilation",
+      "description": "\"I have spoken.\" Stream Star Wars: The Mandalorian on Disney+. The post Kuiil’s Wise Advice | The Mandalorian | Official Compilation appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/kuiils-wise-advice-the-mandalorian-official-compilation/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/maxresdefault-41-300x169.jpg",
+      "date": "Tue, 27 Oct 2026 00:27:34 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Enjoy Stuff: HP Loves Crafts",
+      "description": "Jovial Jay and Shua bring you the latest episode of Enjoy Stuff: A TechnoRetro Podcast. The post Enjoy Stuff: HP Loves Crafts appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/enjoy-stuff-hp-loves-crafts/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2021/05/RetroZap-Enjoy-Stuff-Techno-Retro-Featured-Image-300x201.jpg",
+      "date": "Mon, 26 Oct 2026 23:50:34 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
       "title": "Disney Store to Open First UK Outlet at Cheshire Oaks",
       "description": "Disney Store’s first-ever UK outlet, “Disney Store Pop Up”, will open at McArthurGlen Designer Outlet Cheshire Oaks this autumn, with products inspired by Disney, Pixar, Marvel and Star Wars with selected products offering savings of up to 40%. The post Disney Store to Open First UK Outlet at Cheshire Oaks appeared first on Jedi News .",
       "url": "https://www.jedinews.com/collecting/articles/disney-store-to-open-first-uk-outlet-at-cheshire-oaks/",
@@ -969,125 +996,278 @@
       "url": "https://www.jedinews.com/film-music-tv/articles/spark-of-rebellion-part-2-star-wars-rebels-s1-e2-full-episode-star-wars-kids/",
       "image": "https://www.jedinews.com/wp-content/uploads/2026/10/maxresdefault-40-300x169.jpg",
       "date": "Mon, 26 Oct 2026 00:26:06 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "The Vintage Rebellion #130: The Dark Side Never Felt So Good",
-      "description": "It's time for episode 130 of The Vintage Rebellion Podcast. The post The Vintage Rebellion #130: The Dark Side Never Felt So Good appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/the-vintage-rebellion-130-the-dark-side-never-felt-so-good/",
-      "image": "",
-      "date": "Sun, 25 Oct 2026 21:30:20 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Rebel Force Radio: Todd Stashwick – VisionQuest’s Paladin: The Boba Fett of the MCU",
-      "description": "Join Jimmy and Jason on Rebel Force Radio as they discuss the latest Star Wars news. The post Rebel Force Radio: Todd Stashwick – VisionQuest’s Paladin: The Boba Fett of the MCU appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/rebel-force-radio-todd-stashwick-visionquests-paladin-the-boba-fett-of-the-mcu/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2018/04/rebel-force-radio-300x201.jpg",
-      "date": "Sun, 25 Oct 2026 08:08:39 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Poe and Kaz Ambushed by Monkey-Lizards?! | Star Wars Resistance | Star Wars Kids",
-      "description": "Poe Dameron and Kazuda Xiono explore a mysterious cargo freighter looking for a humanoid life form that BB-8 has detected, only to be ambushed by a swarm of Kowakian monkey-lizards! Stream Star Wars Resistance on Disney+. The post Poe and Kaz Ambushed by Monkey-Lizards?! | Star Wars Resistance | Star Wars Kids appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/poe-and-kaz-ambushed-by-monkey-lizards-star-wars-resistance-star-wars-kids/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/maxresdefault-39-300x169.jpg",
-      "date": "Sat, 24 Oct 2026 23:25:48 +0000"
     }
   ],
   "youtube": [
     {
       "category": "youtube",
-      "source": "Dragan Laboski",
-      "title": "F#ck",
+      "source": "Hood Informatik",
+      "title": "Das Dining Cryptographers Problem #informatik #cybersecurity #kryptografie #itsecurity",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=PJVdOJS9C2g",
-      "image": "https://i.ytimg.com/vi/PJVdOJS9C2g/hqdefault.jpg",
-      "date": "2026-06-18T16:00:10+00:00"
+      "url": "https://www.youtube.com/shorts/eNbsdiwAqpw",
+      "image": "https://i.ytimg.com/vi/eNbsdiwAqpw/hqdefault.jpg",
+      "date": "2026-10-26T11:00:24+00:00"
     },
     {
       "category": "youtube",
-      "source": "Dragan Laboski",
-      "title": "New Year and meme reset musik",
+      "source": "Hood Informatik",
+      "title": "Ein öffentliches CTF für die Php2Shell Lücke ?! #informatik #code #cybersecurity #ctf #news",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=A8_U-REIoRg",
-      "image": "https://i.ytimg.com/vi/A8_U-REIoRg/hqdefault.jpg",
-      "date": "2026-01-04T22:18:06+00:00"
+      "url": "https://www.youtube.com/shorts/juFpuEj1hU4",
+      "image": "https://i.ytimg.com/vi/juFpuEj1hU4/hqdefault.jpg",
+      "date": "2026-10-25T16:46:55+00:00"
     },
     {
       "category": "youtube",
-      "source": "Dragan Laboski",
-      "title": "Alle Musik dj",
+      "source": "Hood Informatik",
+      "title": "Vibe Coding oder Vulnerability as a Service ?! Passt auf eure Keys auf ;)",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=wCCCCTO3Yuo",
-      "image": "https://i.ytimg.com/vi/wCCCCTO3Yuo/hqdefault.jpg",
-      "date": "2025-10-04T17:16:07+00:00"
+      "url": "https://www.youtube.com/shorts/qLXmp7w7hwQ",
+      "image": "https://i.ytimg.com/vi/qLXmp7w7hwQ/hqdefault.jpg",
+      "date": "2026-10-24T08:30:23+00:00"
     },
     {
       "category": "youtube",
-      "source": "Dragan Laboski",
-      "title": "Halloween Party 🎃 musik",
+      "source": "Hood Informatik",
+      "title": "Ein Generalschlüssel für Zertifikate jeder Webseite der Welt....",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=3xbFtf6xISI",
-      "image": "https://i.ytimg.com/vi/3xbFtf6xISI/hqdefault.jpg",
-      "date": "2025-10-04T12:51:19+00:00"
+      "url": "https://www.youtube.com/shorts/XiCe4cYH_3g",
+      "image": "https://i.ytimg.com/vi/XiCe4cYH_3g/hqdefault.jpg",
+      "date": "2026-10-22T16:46:59+00:00"
     },
     {
       "category": "youtube",
-      "source": "Dragan Laboski",
-      "title": "Rise Of The Hero musik",
+      "source": "Hood Informatik",
+      "title": "PHP2Shell: Wie ein Speicherfehler zur Shell wird",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=-unyF8xDrKM",
-      "image": "https://i.ytimg.com/vi/-unyF8xDrKM/hqdefault.jpg",
-      "date": "2025-09-29T17:38:50+00:00"
+      "url": "https://www.youtube.com/watch?v=qXv8NAIFm9o",
+      "image": "https://i.ytimg.com/vi/qXv8NAIFm9o/hqdefault.jpg",
+      "date": "2026-10-21T21:30:08+00:00"
     },
     {
       "category": "youtube",
-      "source": "Dragan Laboski",
-      "title": "Musik Dj",
+      "source": "Hood Informatik",
+      "title": "AfD Leak, PHP Lücke und Revolut-Ausfall wegen Google Cloud... Security Bingo kann losgehen",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=J4C1Ctuw_EE",
-      "image": "https://i.ytimg.com/vi/J4C1Ctuw_EE/hqdefault.jpg",
-      "date": "2025-09-29T17:36:13+00:00"
+      "url": "https://www.youtube.com/shorts/MYkQLmiLPTA",
+      "image": "https://i.ytimg.com/vi/MYkQLmiLPTA/hqdefault.jpg",
+      "date": "2026-10-21T18:41:31+00:00"
     },
     {
       "category": "youtube",
-      "source": "Dragan Laboski",
-      "title": "Electric Dreams musik dj",
+      "source": "Hood Informatik",
+      "title": "Die AfD Leaks Teil 1 - seit dem Erstellen des Videos hat sich aber auch einiges getan ^^",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=3Cevc329qHU",
-      "image": "https://i.ytimg.com/vi/3Cevc329qHU/hqdefault.jpg",
-      "date": "2025-09-28T15:59:24+00:00"
+      "url": "https://www.youtube.com/shorts/5sQQA6K8W_k",
+      "image": "https://i.ytimg.com/vi/5sQQA6K8W_k/hqdefault.jpg",
+      "date": "2026-10-20T20:15:40+00:00"
     },
     {
       "category": "youtube",
-      "source": "Dragan Laboski",
-      "title": "Dj bro 67",
+      "source": "Hood Informatik",
+      "title": "Jeder will, dass du KI entweder liebst oder fürchtest. Warum eigentlich?",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=-sPrpun4zN0",
-      "image": "https://i.ytimg.com/vi/-sPrpun4zN0/hqdefault.jpg",
-      "date": "2025-09-27T17:50:06+00:00"
+      "url": "https://www.youtube.com/shorts/Wb1GocgvZA0",
+      "image": "https://i.ytimg.com/vi/Wb1GocgvZA0/hqdefault.jpg",
+      "date": "2026-10-19T17:00:03+00:00"
     },
     {
       "category": "youtube",
-      "source": "Dragan Laboski",
-      "title": "Musik 67",
+      "source": "Hood Informatik",
+      "title": "Eine Werbeanzeige als Zero Click Exploit ?! #informatik #spy #cybersecurity #news #spyware",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=FKwESvuoKew",
-      "image": "https://i.ytimg.com/vi/FKwESvuoKew/hqdefault.jpg",
-      "date": "2025-09-27T16:43:30+00:00"
+      "url": "https://www.youtube.com/shorts/pCVwu6ydZkQ",
+      "image": "https://i.ytimg.com/vi/pCVwu6ydZkQ/hqdefault.jpg",
+      "date": "2026-10-18T16:15:32+00:00"
     },
     {
       "category": "youtube",
-      "source": "Dragan Laboski",
-      "title": "sleeping music",
+      "source": "Hood Informatik",
+      "title": "Spannende Zeiten für alle iOS Bastler ^^ #informatik #cybersecurity #ios #iphone #news",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=p2JSaP9ndMY",
-      "image": "https://i.ytimg.com/vi/p2JSaP9ndMY/hqdefault.jpg",
-      "date": "2025-07-22T09:58:52+00:00"
+      "url": "https://www.youtube.com/shorts/2H_WBnTsrRw",
+      "image": "https://i.ytimg.com/vi/2H_WBnTsrRw/hqdefault.jpg",
+      "date": "2026-10-17T10:30:02+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Set Off Alarms in Abandoned Paper Mill",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=_2m_nAVaYSg",
+      "image": "https://i.ytimg.com/vi/_2m_nAVaYSg/hqdefault.jpg",
+      "date": "2026-09-30T17:00:15+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Exploring The Last Coal Power Plant in Connecticut Bridgeport Harbor Station",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=CR84XRBKBzs",
+      "image": "https://i.ytimg.com/vi/CR84XRBKBzs/hqdefault.jpg",
+      "date": "2026-08-27T17:00:39+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Rocketdyne Santa Susana Field Laboratory Abandoned America Space Race (1948)",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=0lka-0REQrQ",
+      "image": "https://i.ytimg.com/vi/0lka-0REQrQ/hqdefault.jpg",
+      "date": "2026-04-23T17:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition AMC Seats And Screens Left Behind",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=UnG29VothuQ",
+      "image": "https://i.ytimg.com/vi/UnG29VothuQ/hqdefault.jpg",
+      "date": "2026-03-27T21:09:35+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition Fly by In And Out",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=fDnOH8ZsfTg",
+      "image": "https://i.ytimg.com/vi/fDnOH8ZsfTg/hqdefault.jpg",
+      "date": "2026-03-27T20:40:08+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "AMC Westfield Promenade Mall Raw Demolition Drone Footage",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/5iA5R3Jq4g0",
+      "image": "https://i.ytimg.com/vi/5iA5R3Jq4g0/hqdefault.jpg",
+      "date": "2026-03-27T18:03:29+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition AMC Coming Down First!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=SAxjFGjTiHQ",
+      "image": "https://i.ytimg.com/vi/SAxjFGjTiHQ/hqdefault.jpg",
+      "date": "2026-03-23T17:42:38+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Beautiful Art Deco Theater",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=ccfU0LSmkj8",
+      "image": "https://i.ytimg.com/vi/ccfU0LSmkj8/hqdefault.jpg",
+      "date": "2026-03-11T20:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Decommissioned Power Station #synthwave #synth #retrowave #abandonedplaces",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/mOUbNSMoBJs",
+      "image": "https://i.ytimg.com/vi/mOUbNSMoBJs/hqdefault.jpg",
+      "date": "2025-06-17T17:55:51+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Wheel of Misfortune Three Kids Mine Demolition",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=VXRselqoN-8",
+      "image": "https://i.ytimg.com/vi/VXRselqoN-8/hqdefault.jpg",
+      "date": "2025-06-17T17:45:42+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Use FTP on a Modded Xbox 360 with Aurora - Network File Transfer Setup",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=xf9HqSbZLsg",
+      "image": "https://i.ytimg.com/vi/xf9HqSbZLsg/hqdefault.jpg",
+      "date": "2026-10-24T17:00:30+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "PS5 13.60 Jailbreak & Hypervisor Exploit, Xbox 360 Softmod, Halo Ported to EVERYTHING - ModChat 149",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=-PXtg_eDYBY",
+      "image": "https://i.ytimg.com/vi/-PXtg_eDYBY/hqdefault.jpg",
+      "date": "2026-10-21T17:00:30+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Backup & Play Xbox 360 Games on a Modded Xbox 360 - Multi-Disc, DLC, XBLA & More!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=KYOZR0zotSc",
+      "image": "https://i.ytimg.com/vi/KYOZR0zotSc/hqdefault.jpg",
+      "date": "2026-10-10T17:00:36+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Softmod the Xbox 360 - Peer Pressure Beginner Setup for Homebrew, Backups, and More!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=G8ceM_xXlO8",
+      "image": "https://i.ytimg.com/vi/G8ceM_xXlO8/hqdefault.jpg",
+      "date": "2026-10-07T19:00:34+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Bad Storage Unauthenticated: Use Any HDD or SSD on Bad Update for Xbox 360!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=svNvWiJAjow",
+      "image": "https://i.ytimg.com/vi/svNvWiJAjow/hqdefault.jpg",
+      "date": "2026-10-03T17:00:02+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Mario's Minute 105 - Wiping Old Drives and XBOX's Disc to Digital Program",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=C0pBgwThC68",
+      "image": "https://i.ytimg.com/vi/C0pBgwThC68/hqdefault.jpg",
+      "date": "2026-09-30T17:00:10+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "AutoDNS: A Useful Network Safety Plugin for Bad Update & ABadAvatar Consoles",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=dgX6KUQy4jk",
+      "image": "https://i.ytimg.com/vi/dgX6KUQy4jk/hqdefault.jpg",
+      "date": "2026-09-26T17:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "PS5 Hypervisor Drama, Xbox 360 Softmod Details Revealed, Switch 2 Game Binary Dumped - ModChat 148",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=eMTjE6NIAAQ",
+      "image": "https://i.ytimg.com/vi/eMTjE6NIAAQ/hqdefault.jpg",
+      "date": "2026-09-23T17:00:08+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "XeUnshackle Max: Auto-Start, Custom Boot Animations, and More for Bad Update or ABadAvatar!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=P2hOdoLzQ38",
+      "image": "https://i.ytimg.com/vi/P2hOdoLzQ38/hqdefault.jpg",
+      "date": "2026-09-19T17:00:35+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Run ABadAvatar from an Internal Drive - ABadAvatar HDD Setup & Transfer",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=seOPwVF3YEM",
+      "image": "https://i.ytimg.com/vi/seOPwVF3YEM/hqdefault.jpg",
+      "date": "2026-09-12T17:00:38+00:00"
     }
   ]
 }
