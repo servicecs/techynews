@@ -1,6 +1,60 @@
 {
-  "updated": "2026-10-27T10:15:20.789843+00:00",
+  "updated": "2026-10-27T15:58:00.812879+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Рецензија на REDMI Note 17 Pro 5G: Батеријата е неговиот најсилен аргумент",
+      "description": "REDMI Note серијата одамна има јасна задача, а тоа е да понуди што е можно повеќе во средната класа, без цената да се приближи премногу до „flagship“ сегментот. Кај новиот REDMI Note 17 Pro 5G, Xiaomi повторно оди по тој рецепт, но овојпат најголемиот акцент не е на камерата или на рекордни „benchmark“ резултати. Главната […]",
+      "url": "https://smartportal.mk/novosti/smartfoni/recenzija-redmi-note-17-pro-5g/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/redmi-note-17-pro-11111-150x150.webp",
+      "date": "Tue, 27 Oct 2026 15:07:26 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Започнуваат ЕНЕРГО ТЕХНОМА 2026 и САЕМОТ ЗА НЕДВИЖНОСТИ 2026 од 29 до 31 октомври",
+      "description": "Скопје, 27 октомври 2026 година – За два дена, на 29 октомври, во Т Арена С.Ц. Борис Трајковски во Скопје започнуваат меѓународните саеми ЕНЕРГО ТЕХНОМА 2026 и Саемот за недвижности РЕАЛ ЕКСПО 2026. Под мотото „Вклучи одржливи навики“, двата настана до 31 октомври ќе обединат компании, институции, експерти, инвеститори и млади иноватори, со програма посветена […]",
+      "url": "https://smartportal.mk/novosti/nastani/zapocnuvaat-energo-tehnoma-i-saemot-za-nedviznosti/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Foto2-150x150.webp",
+      "date": "Tue, 27 Oct 2026 14:07:04 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Новиот MacBook Pro од 14 инчи доби M6 чип со повеќе јадра и побрза графика",
+      "description": "Apple денеска го претставија новиот MacBook Pro од 14 инчи со M6 чипот, една година по моделот со M5. Истиот чип денеска стигна и во новиот iMac, а лаптопот надворешно не се менува и повторно доаѓа во сребрена и црна („space black“) боја. M6 има 12-јадрен „CPU“ и 12-јадрен графички процесор, по две јадра повеќе од M5, како и двоен […]",
+      "url": "https://smartportal.mk/novosti/kompjuteri/noviot-macbook-pro-14-dobi-m6-chip/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero-261027-150x150.webp",
+      "date": "Tue, 27 Oct 2026 13:59:56 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Apple го претстави новиот iMac со M6 чипот, кој го задржува дизајнот, а носи побрзи перформанси",
+      "description": "Apple денеска го претставија новиот iMac со M6 чипот, кој во август прво стигна во новиот Mac mini. Како што пишуваше Марк Гурман, надворешно нема промени, па iMac го задржува екранот од 24 инчи со 4.5K резолуција, 12MP камерата и седумте бои од моделот со M4. Основната верзија има 10-јадрен „CPU“ и 10-јадрен графички процесор, а поскапата 12-јадрен „CPU“ и […]",
+      "url": "https://smartportal.mk/novosti/kompjuteri/apple-imac-m6/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Apple-iMac-with-M6-hero-261027-150x150.webp",
+      "date": "Tue, 27 Oct 2026 13:39:53 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Македонија меѓу шесте земји домаќини на европскиот CASSINI Space Camp 2027",
+      "description": "Македонија е избрана за една од шесте земји во кои ќе се одржат CASSINI Space Camps во 2027 година, иницијатива на Европската комисија преку Генералниот директорат за одбранбена индустрија и вселена (DG DEFIS). Локален организатор е NewMan’s Business Accelerator, кој од 10 до 18 јануари 2027 година ќе го реализира деветдневниот резиденцијален камп „Mission Macedonia […]",
+      "url": "https://smartportal.mk/novosti/nastani/makedonija-sest-zemji-domakjini-cassini-space-camp-2027/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/1_CASSINI_GlavenBaner_Lokacii-150x150.webp",
+      "date": "Tue, 27 Oct 2026 13:22:58 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Победник на BIZBendovi 2026 е бендот The Cards на CaSys",
+      "description": "Вечер исполнета со музика, енергија и одлична атмосфера го одбележа првото издание на BIZBendovi, одржано во Скопје. Станува збор за уникатен натпревар на корпоративни бендови, кој веќе со години се одржува во Белград и од година во година докажува дека зад корпоративните титули се кријат луѓе со талент, страст и голема љубов кон музиката. По […]",
+      "url": "https://smartportal.mk/novosti/nastani/pobednik-bizbendovi-2026-the-cards-casys/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/DV1_5760-150x150.webp",
+      "date": "Tue, 27 Oct 2026 12:29:52 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -39,237 +93,183 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Данското министерство за дигитализација тивко го откажа обидот да го замени Microsoft Office со Collabora",
-      "description": "Данското министерство за дигитализација го прекинало пилот-проектот во кој дел од вработените наместо Microsoft Office го користеа Collabora, канцелариски пакет со отворен код базиран на LibreOffice. Прв пишуваше данскиот Version2, а потоа и Computerworld и двата наведуваат дека проектот бил прекинат тивко. Проектот почна на 19 јуни 2025 година, кога 38 вработени во централниот дел на министерството добија […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/danska-se-otkaza-od-zamena-na-microsoft-office-so-collabora/",
-      "image": "https://smartportal.mk/wp-content/uploads/2025/02/shutterstock_2424839285-150x150.jpg",
-      "date": "Mon, 26 Oct 2026 13:37:27 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Речиси сите „AI“ модели во еден тест го дадоа истиот „контроверзен“ став за луѓето",
-      "description": "Сајтот ModelCompare, кој нуди споредување на одговорите од повеќе „AI“ модели на едно место, објави експеримент во кој 13 јазични модели ги прашале кој е нивниот најконтроверзен став за луѓето. Секој модел одговорил по три пати, без системски инструкции и без повторни обиди, а прашањето барало искрен „личен став“, без оградување. Според ModelCompare, 32 од 38 […]",
-      "url": "https://smartportal.mk/novosti/ai/recisi-site-ai-modeli-ist-kontroverzen-stav-za-lugjeto/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Depositphotos_648147082_XL-2-150x150.webp",
-      "date": "Mon, 26 Oct 2026 13:18:27 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Процесорот на Samsung за Galaxy S27 во интерни тестови бил 20% побрз од најмоќниот Snapdragon",
-      "description": "Exynos процесорите на Samsung со години заостануваат зад Snapdragon, а новите информации за Exynos 2700 повторно звучат амбициозно. Според агенцијата Yonhap, која се повикува на неименувани извори од индустријата, а подоцна и според Chosun Biz и други корејски медиуми, чипот во интерното тестирање на Samsung добил повисоки резултати од најмоќниот процесор на Qualcomm. Exynos 2700 наводно постигнал околу 13.000 поени […]",
-      "url": "https://smartportal.mk/novosti/smartfoni/samsung-exynos-2700-pobrz-od-najmokjniot-snapdragon/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/viersen-germany-march-2024-closeup-Depositphotos_706414438_XL-150x150.webp",
-      "date": "Mon, 26 Oct 2026 12:36:25 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Licasa е нова бесплатна апликација за слики на Linux што потсетува на старата Picasa",
-      "description": "Google ја прекина Linux верзијата на Picasa уште во 2012 година, а и таа всушност беше Windows програмата што работеше преку „Wine“. Четири години подоцна компанијата се откажа од Picasa и сè насочи кон развојот на Google Photos. Сега Licasa, нова апликација со отворен код, се обидува да го врати тоа искуство на Linux. Авторот вели дека апликацијата е инспирирана […]",
-      "url": "https://smartportal.mk/novosti/softver-prog/licasa-aplikacija-sliki-picasa/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/licasa-150x150.webp",
-      "date": "Mon, 26 Oct 2026 11:18:19 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Instagram без најава претстави апликација за Apple TV со Reels, подолги видеа и емисии во живо",
-      "description": "Instagram доби посебна апликација за Apple TV, која на телевизорите носи Reels, подолги видеа и емисии во живо. Meta не објави соопштение, а апликацијата, според MacRumors, се појавила на 23 октомври, кога станува и достапна верзијата 66.0 за Apple TV. Во описот во App Store, Instagram нагласува и гледање заедно со пријателите и семејството. Може да се […]",
-      "url": "https://smartportal.mk/novosti/softver-prog/instagram-apple-tv-aplikacija/",
-      "image": "https://smartportal.mk/wp-content/uploads/2025/06/shutterstock_2522337651-150x150.jpg",
-      "date": "Mon, 26 Oct 2026 09:17:59 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "LibreOffice има 9,4 милиони преземања за осум недели, а годинава веќе ја надмина цела 2025",
-      "description": "The Document Foundation, непрофитната организација зад бесплатниот канцелариски пакет апликации LibreOffice, објави дека пакетот бил преземен 9,4 милиони пати во осумте недели од 24 август до 18 октомври. Тоа е повеќе од милион преземања неделно, а растот започнал со најавата на верзијата 26.8 на 26 август, која засега нема вградена вештачка интелигенција. Пред тоа преземањата биле под милион […]",
-      "url": "https://smartportal.mk/novosti/softver-prog/libreoffice-9-4-milioni-prezemanja-za-osum-nedeli/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/prague-czechia-2025-laptop-surface-Depositphotos_806750118_XL-150x150.webp",
-      "date": "Mon, 26 Oct 2026 08:57:59 +0000"
+      "source": "Time.mk - All",
+      "title": "Објекти заведени со вредност од 1 денар, набавки без тендер и празни работни места – нотира Државниот ревизор во извештај за МДТ за 2024 година | 360 степени",
+      "description": "",
+      "url": "https://time.mk/c/e1061b05d4/objekti-zavedeni-so-vrednost-od-1-denar-nabavki-bez-tender-i-prazni-rabotni-mesta-notira-drzavniot-revizor-vo-izvestaj-za-mdt-za-2024-godina.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/10/drz-kolaz.jpg",
+      "date": "Tue, 27 Oct 2026 13:46:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ANTHROPIC ИЗЛЕГУВА НА БЕРЗА: IPO од 100 милијарди долари може да ги раздвижи светските финансиски пазари | Пари",
+      "title": "Масовна “акција” за трансформацијата на хонорарните вработувања | Тера",
       "description": "",
-      "url": "https://time.mk/c/1d44997d9d/anthropic-izleguva-na-berza-ipo-od-100-milijardi-dolari-moze-da-gi-razdvizi-svetskite-finansiski-pazari.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/10/Anthropic-in-the-Financial-District.png",
-      "date": "Tue, 27 Oct 2026 09:56:40 +0000"
+      "url": "https://time.mk/c/19a8a26025/masovna-akcija-za-transformacijata-na-honorarnite-vrabotuvanja.html",
+      "image": "https://tera.mk/wp-content/uploads/2026/10/1.PREDLOG-ZAKON-150x150.jpg",
+      "date": "Tue, 27 Oct 2026 15:04:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Крај на изборот само по најниска цена – Собранието ги усвои новите правила за јавните набавки | Слободен Печат",
+      "title": "AI гигантот Anthropic поднесе барање за потенцијално најголемото ИПО во историјата | Иновативност",
       "description": "",
-      "url": "https://time.mk/c/0cb5317e9d/kraj-na-izborot-samo-po-najniska-cena-sobranieto-gi-usvoi-novite-pravila-za-javnite-nabavki.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2023/10/Ministerstvo-za-finansii-zgrada-4-300x200.jpg",
-      "date": "Tue, 27 Oct 2026 09:53:10 +0000"
+      "url": "https://time.mk/c/6dda1e6820/ai-gigantot-anthropic-podnese-baranje-za-potencijalno-najgolemoto-ipo-vo-istorijata.html",
+      "image": "https://inovativnost.mk/wp-content/uploads/2026/10/stock-market-pexels-stockradars-co-600x338.jpg",
+      "date": "Tue, 27 Oct 2026 15:53:11 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Фото) Во Брисел одржан првиот парламентарен состанок со Северноатлантскиот совет на НАТО | Макфакс",
+      "title": "ДА ОДГОВАРААТ ГРАДОНАЧАЛНИЦИТЕ И СОВЕТИТЕ НА ОПШТИНИТЕ КОИ НЕ ФОРМИРАЛЕ ФУНКЦИОНАЛНИ ТЕЛА ЗА СПРЕЧУВАЊЕ ДЕТСКО НАСИЛСТВО, БАРА ДРЖАВНИОТ СОВЕТ ЗА ПРЕВЕНЦИЈА | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/5502eb0710/foto-vo-brisel-odrzan-prviot-parlamentaren-sostanok-so-severnoatlantskiot-sovet-na-nato.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/psnato1.webp",
-      "date": "Tue, 27 Oct 2026 09:23:00 +0000"
+      "url": "https://time.mk/c/6b637b0d4f/da-odgovaraat-gradonacalnicite-i-sovetite-na-opstinite-koi-ne-formirale-funkcionalni-tela-za-sprecuvanje-detsko-nasilstvo-bara-drzavniot-sovet-za-prevencija.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/10/Drzhavniot-sovet-za-preventsija-na-detsko-prestapnishtvo-i-pravda-za-detsa1.jpg",
+      "date": "Tue, 27 Oct 2026 14:40:53 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Нов свет, ново лидерство“: Иванов ја отвори Школата за млади лидери | Press24",
+      "title": "НАПАДИТЕ ВРЗ НОВИНАРИТЕ ПОД ЛУПА НА ИНСТИТУЦИИТЕ Владата најавува национален план до 15 декември | +инфо",
       "description": "",
-      "url": "https://time.mk/c/3b8f932951/nov-svet-novo-liderstvo-ivanov-ja-otvori-skolata-za-mladi-lideri.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/79647.jpg",
-      "date": "Tue, 27 Oct 2026 09:31:02 +0000"
+      "url": "https://time.mk/c/f0bf2590e2/napadite-vrz-novinarite-pod-lupa-na-instituciite-vladata-najavuva-nacionalen-plan-do-15-dekemvri.html",
+      "image": "https://plusinfo.mk/wp-content/uploads/2026/01/mediumi-novinari.jpg",
+      "date": "Tue, 27 Oct 2026 15:16:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Мајка му донираше бубрег на своето дете со ретка генетска болест – прва ваква трансплантација во Македонија | Скопје1",
+      "title": "Нема студенти на листата е новиот наратив на српските пари во Македонија | Рацин",
       "description": "",
-      "url": "https://time.mk/c/2eeec2eca2/majka-mu-donirase-bubreg-na-svoeto-dete-so-retka-genetska-bolest-prva-vakva-transplantacija-vo-makedonija.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/86916/conversions/text-max.jpg",
-      "date": "Tue, 27 Oct 2026 08:40:39 +0000"
+      "url": "https://time.mk/c/87e40182fa/nema-studenti-na-listata-e-noviot-narativ-na-srpskite-pari-vo-makedonija.html",
+      "image": "https://racin.mk/wp-content/uploads/2026/10/leon-bakraceski-820x480.jpg?x67789",
+      "date": "Tue, 27 Oct 2026 15:08:00 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Со македонски пасош олеснето може да се патува во 114 држави - еве на кое место е рангиран годинава! | Скопје инфо",
+      "title": "Крај на трката по најниска цена? Вештачка интелигенција ќе ги следи јавните набавки | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/0d69b9c21a/so-makedonski-pasos-olesneto-moze-da-se-patuva-vo-114-drzavi-eve-na-koe-mesto-e-rangiran-godinava.html",
-      "image": "",
-      "date": "Tue, 27 Oct 2026 09:53:10 +0000"
+      "url": "https://time.mk/c/f3c9af749e/kraj-na-trkata-po-najniska-cena-vestacka-inteligencija-ke-gi-sledi-javnite-nabavki.html",
+      "image": "https://panoptikum.mk/wp-content/uploads/zakon-za-javni-nabavki.webp",
+      "date": "Tue, 27 Oct 2026 10:51:06 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Македонија ја претстави 𝟤𝟢-годишната стратегија за минерални суровини во Загреб: Договорена соработка за геотермална енергија | Макфакс",
+      "title": "Петрушевски: Со ребалансот ги усогласуваме буџетските средства со реалната динамика на проектите | Press24",
       "description": "",
-      "url": "https://time.mk/c/908f68abe4/makedonija-ja-pretstavi-𝟤𝟢-godisnata-strategija-za-mineralni-surovini-vo-zagreb-dogovorena-sorabotka-za-geotermalna-energija.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/screenshot-2026-10-27-102710.webp",
-      "date": "Tue, 27 Oct 2026 09:28:41 +0000"
+      "url": "https://time.mk/c/bdfbddb769/petrusevski-so-rebalansot-gi-usoglasuvame-budzetskite-sredstva-so-realnata-dinamika-na-proektite.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/79741.jpg",
+      "date": "Tue, 27 Oct 2026 13:52:43 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Global Trade & Growth Forum 2026: Поврзување на македонските компании со глобалните пазари | Бизнис Вести",
+      "title": "Вучиќ ги обвини студентите дека спроведувале „револуционерен терор“ | Независен",
       "description": "",
-      "url": "https://time.mk/c/d971cea05f/global-trade-growth-forum-2026-povrzuvanje-na-makedonskite-kompanii-so-globalnite-pazari.html",
-      "image": "https://biznisvesti.mk/wp-content/uploads/2026/10/20261026180237_big_730x400_40-300x169.webp",
-      "date": "Tue, 27 Oct 2026 06:22:57 +0000"
+      "url": "https://time.mk/c/d0bf18a62d/vucik-gi-obvini-studentite-deka-sproveduvale-revolucioneren-teror.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/SNS.jpg",
+      "date": "Tue, 27 Oct 2026 15:11:04 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Од трагедијата во Нови Сад до изборите: Две години протести и барања за одговорност | 4NEWS",
+      "title": "Србија по изборите: Напади, оградувања, чекори | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/4a3bbb5241/od-tragedijata-vo-novi-sad-do-izborite-dve-godini-protesti-i-baranja-za-odgovornost.html",
-      "image": "https://4news.mk/wp-content/uploads/2026/10/vlcsnap-2026-10-26-23h25m13s371-1024x576.avif",
-      "date": "Tue, 27 Oct 2026 07:32:40 +0000"
+      "url": "https://time.mk/c/cc30e6ed06/srbija-po-izborite-napadi-ograduvanja-cekori.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1793116559/mosrkweociy3wu9f58hh.jpg",
+      "date": "Tue, 27 Oct 2026 15:57:00 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Видео) Лидерот на студентската листа по инцидентите во Белград: „Ве молам, останете смирени“ | Макфакс",
+      "title": "Иранците се подготвуваат за нова општа војна, од Израел и од САД сигнали дека може да се случи наскоро | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/a756382d4f/video-liderot-na-studentskata-lista-po-incidentite-vo-belgrad-ve-molam-ostanete-smireni.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/specijalci-beograd-police-and-pride-in-belgade-depositphotos_33635735_xl.webp",
-      "date": "Tue, 27 Oct 2026 05:48:57 +0000"
+      "url": "https://time.mk/c/3ebb4b1902/irancite-se-podgotvuvaat-za-nova-opsta-vojna-od-izrael-i-od-sad-signali-deka-moze-da-se-sluci-naskoro.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/2-tekst-vojna.jpg",
+      "date": "Tue, 27 Oct 2026 14:56:44 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Израел: Дали мароканските корени на Ајзенкот би можеле да ја загрозат победата на Нетанјаху? | Deutsche Welle",
+      "title": "Финска и Норвешка влегуваат во дипломатска игра со Путин | Bloomberg Adria",
       "description": "",
-      "url": "https://time.mk/c/e0981d26dd/izrael-dali-marokanskite-koreni-na-ajzenkot-bi-mozele-da-ja-zagrozat-pobedata-na-netanjahu.html",
-      "image": "https://static.dw.com/image/79750417_302.jpg",
-      "date": "Tue, 27 Oct 2026 08:50:56 +0000"
+      "url": "https://time.mk/c/a780a83b32/finska-i-norveska-vleguvaat-vo-diplomatska-igra-so-putin.html",
+      "image": "https://mk.bloombergadria.com/data/images/2026-06-06/109439_vladimir-putin-bloomberg-adria_f.jpg?timestamp=1793055600",
+      "date": "Tue, 27 Oct 2026 11:48:57 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Мерц: Уривањето на стариот светски поредок ги загрозува интересите на европските сили | Фокус",
+      "title": "Пробно пропрска подната фонтана, Ѓорѓиевски тврди дека таа никогаш повеќе нема да биде премин за автомобили | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/81d195ce3c/merc-urivanjeto-na-stariot-svetski-poredok-gi-zagrozuva-interesite-na-evropskite-sili.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/10/merc.webp",
-      "date": "Tue, 27 Oct 2026 08:56:47 +0000"
+      "url": "https://time.mk/c/8ecc22998c/probno-proprska-podnata-fontana-gjorgjievski-tvrdi-deka-taa-nikogas-poveke-nema-da-bide-premin-za-avtomobili.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/podna-fontana-e1793112565825-300x232.jpg",
+      "date": "Tue, 27 Oct 2026 14:52:39 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Герасимовски: Центар е лидер во локалната енергетска транзиција, до крајот на мандатот сите образовни објекти ќе добијат фотоволтаични централи | Макфакс",
+      "title": "ПО 20 ГОДИНИ СТАВЕНА НОВА БИСТА НА СТИВ НАУМОВ ПРЕД СТУДЕНТСКИОТ ДОМ Внукот на херојот најде слух кај власта за обнова на споменикот | +инфо",
       "description": "",
-      "url": "https://time.mk/c/f6cbdeb07d/gerasimovski-centar-e-lider-vo-lokalnata-energetska-tranzicija-do-krajot-na-mandatot-site-obrazovni-objekti-ke-dobijat-fotovoltaicni-centrali.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/gerasimovski-panel-diskusija-1.webp",
-      "date": "Tue, 27 Oct 2026 08:56:47 +0000"
+      "url": "https://time.mk/c/cab081f676/po-20-godini-stavena-nova-bista-na-stiv-naumov-pred-studentskiot-dom-vnukot-na-herojot-najde-sluh-kaj-vlasta-za-obnova-na-spomenikot.html",
+      "image": "https://plusinfo.mk/wp-content/uploads/2026/10/bista-stiv-naumov.jpg",
+      "date": "Tue, 27 Oct 2026 12:26:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Ќе нема струја со часови – Најавени исклучувања во Скопје | Press24",
+      "title": "Уапсен е осомничен за двете убиства во Ѓорче Петров | Фокус",
       "description": "",
-      "url": "https://time.mk/c/dd2be29d79/ke-nema-struja-so-casovi-najaveni-isklucuvanja-vo-skopje.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/79575.jpg",
-      "date": "Tue, 27 Oct 2026 07:06:55 +0000"
+      "url": "https://time.mk/c/f4440fae1d/uapsen-e-osomnicen-za-dvete-ubistva-vo-gjorce-petrov.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/10/uapsen-585x390.jpg",
+      "date": "Tue, 27 Oct 2026 13:46:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Поднесени обвиненија против даночни инспектори во врска со „Пулс“ – примале мито и заташкувале неправилности од контроли | 360 степени",
+      "title": "За да се открие поврзаност помеѓу двата смртни случаи во Ѓорче, треба прво да се открие сторител, вели Обвинителството | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/d91d3de6e6/podneseni-obvinenija-protiv-danocni-inspektori-vo-vrska-so-puls-primale-mito-i-zataskuvale-nepravilnosti-od-kontroli.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2025/12/12899264.jpg",
-      "date": "Tue, 27 Oct 2026 09:48:48 +0000"
+      "url": "https://time.mk/c/fb7eaa7f17/za-da-se-otkrie-povrzanost-pomegju-dvata-smrtni-slucai-vo-gjorce-treba-prvo-da-se-otkrie-storitel-veli-obvinitelstvoto.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/84933/conversions/text-max.jpg",
+      "date": "Tue, 27 Oct 2026 12:31:07 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Охриѓанки се степаа среде улица: едната со тешки повреди пренесена во болница | Макфакс",
+      "title": "Претставнички на Германската стопанска комора ја посетија фабриката на „Кромберг и Шуберт“ во Битола | Булевар",
       "description": "",
-      "url": "https://time.mk/c/4083ec439a/ohrigjanki-se-stepaa-srede-ulica-ednata-so-teski-povredi-prenesena-vo-bolnica.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2024/02/ohrid-brza-pomos-1.jpg",
-      "date": "Tue, 27 Oct 2026 09:48:48 +0000"
+      "url": "https://time.mk/c/e9d6e52b0c/pretstavnicki-na-germanskata-stopanska-komora-ja-posetija-fabrikata-na-kromberg-i-subert-vo-bitola.html",
+      "image": "https://bulevar.mk/wp-content/uploads/2026/10/img_1938-1024x421.jpeg",
+      "date": "Tue, 27 Oct 2026 15:13:13 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Стефковски со честитка за Петковден: „Нека верата ни дава сила во тешките мигови” | Press24",
+      "title": "Штип добива нова можност за текстилот: Акција за собирање текстил на 31 октомври во општина Штип | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/abc4c6c9c5/stefkovski-so-cestitka-za-petkovden-neka-verata-ni-dava-sila-vo-teskite-migovi.html",
-      "image": "",
-      "date": "Tue, 27 Oct 2026 07:27:00 +0000"
+      "url": "https://time.mk/c/ffb8adc809/stip-dobiva-nova-moznost-za-tekstilot-akcija-za-sobiranje-tekstil-na-31-oktomvri-vo-opstina-stip.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/variety-of-clothes-hanging-on-depositphotos_56438511_s.webp",
+      "date": "Tue, 27 Oct 2026 10:28:40 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Ученици од Пустец, Ресен и Лемос ќе учествуваат на вторите училишни игри во општина Преспа | Весник Илинден",
+      "title": "Изложбите „Менче Спировска – визуелни фасцинации со Загреб“ и „Арсовски – фотографи“ гостуваат во Скопје | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/03e32b914c/ucenici-od-pustec-resen-i-lemos-ke-ucestvuvaat-na-vtorite-ucilisni-igri-vo-opstina-prespa.html",
-      "image": "http://vesnik-ilinden.com/wp-content/uploads/2026/10/deca-od-prespa-300x141.png",
-      "date": "Tue, 27 Oct 2026 08:32:39 +0000"
+      "url": "https://time.mk/c/b5011451e7/izlozbite-mence-spirovska-vizuelni-fascinacii-so-zagreb-i-arsovski-fotografi-gostuvaat-vo-skopje.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/MGS-Arsovski-29102026-01-web-300x169.jpg",
+      "date": "Tue, 27 Oct 2026 15:54:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Жените денеска никако не смеат да направат една работа – Важно народно верување за Петковден | Press24",
+      "title": "Драмски театар со „Парови“ настапува на Генералната асемблеја на Еуродрам | Независен",
       "description": "",
-      "url": "https://time.mk/c/44659a1a41/zenite-deneska-nikako-ne-smeat-da-napravat-edna-rabota-vazno-narodno-veruvanje-za-petkovden.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/79642.jpg",
-      "date": "Tue, 27 Oct 2026 09:16:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "„Македонска крвава свадба“ доби дигитално блу-реј издание | Трн",
-      "description": "",
-      "url": "https://time.mk/c/885805205c/makedonska-krvava-svadba-dobi-digitalno-blu-rej-izdanie.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/10/kinoteka.jpeg",
-      "date": "Tue, 27 Oct 2026 08:03:11 +0000"
+      "url": "https://time.mk/c/03649e3fbb/dramski-teatar-so-parovi-nastapuva-na-generalnata-asembleja-na-eurodram.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/dramski-teatar-parovi-Angelov-i-Nina.jpg",
+      "date": "Tue, 27 Oct 2026 14:35:05 +0000"
     }
   ],
   "de": [
@@ -458,6 +458,78 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "10 Shows Like 'VisionQuest' You Should Watch Next",
+      "description": "Stream these sci-fi shows about artificial people and virtual worlds.",
+      "url": "https://lifehacker.com/entertainment/best-shows-like-visionquest?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M5T0FT42D7HE80VHAD3AV7JX/hero-image.jpg",
+      "date": "Tue, 27 Oct 2026 15:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "10 Hacks Every Google Messages User Should Know",
+      "description": "Communicate better and more safely.",
+      "url": "https://lifehacker.com/tech/best-google-messages-hacks?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M5N46QK4CXSWXQVMHRTTRPE1/hero-image.jpg",
+      "date": "Tue, 27 Oct 2026 15:00:05 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "These Retro-Chic Nothing Headphones Are $100 Off Right Now",
+      "description": "These distinctive noise-canceling headphones with a retro cassette tape housing, customizable sound, and up to 80 hours of battery life are down to $199.",
+      "url": "https://lifehacker.com/tech/nothing-headphones-1-sale-october-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M5X2SWE81DDF2G6GXFBYZ9D1/hero-image.jpg",
+      "date": "Tue, 27 Oct 2026 14:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "How to Export Your Arc Data to a New Browser",
+      "description": "Arc will officially sunset on December 22, 2026, giving users two months to transition their data to an alternative.",
+      "url": "https://lifehacker.com/tech/how-to-export-arc-data-to-new-browser?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M5WZWMBKPBPF8NPFNMQ2MY91/hero-image.png",
+      "date": "Tue, 27 Oct 2026 14:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Blink Outdoor 2K Camera and Doorbell Bundle Is 74% Off Right Now",
+      "description": "This Blink camera with wired doorbell is currently $38.99, down from $149.98, saving you over $100.",
+      "url": "https://lifehacker.com/tech/blink-outdoor-2k-camera-bundle-sale-october-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01KZZPCC834R27S8KQSJK9XB4T/hero-image.jpg",
+      "date": "Tue, 27 Oct 2026 13:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Roborock Vacuum and Mop Is 28% Off Right Now",
+      "description": "The Roborock Qrevo 2 Pro robot vacuum and mop is down to $649.98 from $899.99 at Amazon.",
+      "url": "https://lifehacker.com/tech/roborock-qrevo-2-pro-sale-october-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M5Y2WDFW3CV10GHN6N6GAVDB/hero-image.jpg",
+      "date": "Tue, 27 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Google Is Using Data From Gmail and Drive to Target Ads, but You Can Stop It",
+      "description": "\"Personal Intelligence\" may be opening more of your data up to advertisers.",
+      "url": "https://lifehacker.com/tech/google-may-use-data-from-gmail-in-personal-intelligence-opt-out?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M5WHVDEK4J18D19FCDN683KH/hero-image.png",
+      "date": "Tue, 27 Oct 2026 12:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "These Are Lifehacker's 2026 'Gift of the Year' Award Winners",
+      "description": "We've got picks for the best smartphone, e-reader, gaming equipment, fitness tracker, and more.",
+      "url": "https://lifehacker.com/tech/lifehacker-award-winners-gift-of-the-year-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M4ZZYMWR84B7MQBXNW0TWEDN/hero-image.jpg",
+      "date": "Tue, 27 Oct 2026 11:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place",
       "description": "Keep up with all of the best deals that Lifehacker publishes, including laptops, speakers, TVs, security cameras, and more.",
       "url": "https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS",
@@ -565,75 +637,57 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "This Is the Robot Vacuum I Use Every Day, and It's 50% Off Right Now",
-      "description": "The Qrevo CurvX can vacuum and mop a variety of surfaces and has a self-lifting chassis for rugs.",
-      "url": "https://lifehacker.com/home/roborock-qrevo-curvx-deal-october-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01KYQP24DE4BS3YF9E89GH9MDZ/hero-image.png",
-      "date": "Fri, 23 Oct 2026 19:00:33 +0000"
+      "source": "PCWorld",
+      "title": "Anker’s 100W USB-C cable is just $4.50 each right now",
+      "description": "NOW JUST $10 Anker 100W USB-C Cables (2-pack) View Deal A good USB-C cable is one of the best investments you can make for day-to-day value. You charge your phone every night, right? Not to mention all your other devices, like tablets, earbuds, and peripherals. A slow USB-C cable will charge slowly and rob you of time you can’t get back, while upgrading to a faster one gets you that time back for just a few bucks. Right now, Amazon is selling this 2-pack of Anker fast-charging USB-C cables for j",
+      "url": "https://www.pcworld.com/article/3270484/ankers-100w-usb-c-cable-is-just-4-50-each-right-now.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3270484-0-02356000-1793113197-Anker-60W-USB-C-charging-cables.jpg?quality=50&strip=all",
+      "date": "Tue, 27 Oct 2026 14:59:48 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "This New Garmin Feature Is Draining Battery Life, but There's a Quick Fix",
-      "description": "One hands-free voice feature isn't worth losing half your watch's battery life.",
-      "url": "https://lifehacker.com/health/a-new-garmin-feature-is-draining-battery-life?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M5MZD7JVTAF13YWWYPQAP8F3/hero-image.jpg",
-      "date": "Fri, 23 Oct 2026 18:30:00 +0000"
+      "source": "PCWorld",
+      "title": "JOPDF review: An impressive free alternative for everyday PDF editing",
+      "description": "At a glance Expert's Rating Pros Genuinely free, with no account, subscription, or watermark Strong everyday editing, annotation, and page-management tools Useful OCR, conversion, batch processing, and password protection Clean, intuitive desktop interface Cons OCR and conversion can stumble on more complex documents No dedicated redaction, PDF/A, certificate signing, Bates numbering, or advanced accessibility tools Image placement is limited; no inline positioning or text wrapping Our Verdict J",
+      "url": "https://www.pcworld.com/article/3261850/jopdf-review.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3261850-0-51553300-1793111440-IMG_3080.jpeg?quality=50&strip=all",
+      "date": "Tue, 27 Oct 2026 14:30:00 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "I Tested ChatGPT's New 'Slides' Tool, and Here's How It Compares to Gemini",
-      "description": "ChatGPT is taking on Google Slides with its own presentation builder.",
-      "url": "https://lifehacker.com/tech/chatgpt-slides-versus-google-slides-gemini?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M5MDEG0XSF280TC4Y9ZQEC7J/hero-image.jpg",
-      "date": "Fri, 23 Oct 2026 16:30:05 +0000"
+      "source": "PCWorld",
+      "title": "Laptop makers, I’m begging you to put USB-C ports on both sides",
+      "description": "The Asus Zenbook A14 is a really cool, lightweight laptop with battery life for days, literally. But as much as I like it, there’s one thing about its design that drives me nuts. It’s a problem I see all too often on otherwise excellent laptops: The USB-C ports are only on one side. This sucks. Allow me to use several hundred words to explain why. There are a lot of great things about USB-C . Access to incredibly fast data transfers. Video capabilities on a (somewhat) universal standard. But the",
+      "url": "https://www.pcworld.com/article/2595107/laptop-makers-im-begging-you-to-add-another-usb-c-port.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/2595107-0-48995400-1793106030-thinkpad-USB-C-charging-port.jpg?quality=50&strip=all",
+      "date": "Tue, 27 Oct 2026 13:00:00 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "Why the Holidays Are Actually the Best Time of Year to Start Working Out",
-      "description": "You'll have the gym to yourself all December.",
-      "url": "https://lifehacker.com/start-working-out-during-the-holidays?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01HF2H2ZZQWHG8CQFPS0X3KRQZ/hero-image.jpg",
-      "date": "Fri, 23 Oct 2026 15:30:00 +0000"
+      "source": "PCWorld",
+      "title": "Samsung turned my trade-in into an $1,100 nightmare",
+      "description": "Happy Halloween, fellow nerds. This year I’m not feeling especially afraid, since the consumer electronics market has already made me shake in my boots for all of 2026. But I’ve got a spine-tingling tale that’ll chill you, at least if you’ve ever had a large chunk of money at the mercy of an unfeeling and uncaring corporation. Welcome to the Boost Mode newsletter. Every week I share my insights on PC gaming, desktop setups, and hardware optimization. I also track down some of the most interestin",
+      "url": "https://www.pcworld.com/article/3269559/my-trade-in-nightmare-makes-me-hesitate-to-save-money-on-new-gear.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3269559-0-44978000-1793102459-image_59c143.png",
+      "date": "Tue, 27 Oct 2026 12:00:00 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "This Top-Rated Tapo Wireless Outdoor Camera Is 33% Off Right Now",
-      "description": "The Tapo MagCam 2K+ records 2K video with a wide 150-degree field of view—and it’s $59.99 right now.",
-      "url": "https://lifehacker.com/tech/tapo-magcam-2k-plus-sale-october-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01KG7J355X9Z5YXEY1AE38HZP6/hero-image.jpg",
-      "date": "Fri, 23 Oct 2026 13:00:00 +0000"
+      "source": "PCWorld",
+      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
+      "description": "If you’re looking for an affordable Windows machine under $500 , a blazing fast gaming beast for those intense matches, or a portable 2-in-1 for school or work, you’ve got plenty of great choices right now. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 80 laptops every year. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches",
+      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/550968-0-59346000-1793102280-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
+      "date": "Tue, 27 Oct 2026 11:57:43 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "These TP-Link Travel Routers Are up to 25% Off Right Now",
-      "description": "These portable Wi-Fi 6 routers create a private network from hotel or public wifi.",
-      "url": "https://lifehacker.com/tech/tp-link-roam-6-router-sale-october-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01KTV04H33B1PES9H3ZM2NSP7M/hero-image.jpg",
-      "date": "Fri, 23 Oct 2026 12:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "These Sony Over-Ear Headphones Are Just $88 Right Now",
-      "description": "The Sony WH-CH720N offer great ANC and, after a 51% discount, are the best budget headphones you can get right now.",
-      "url": "https://lifehacker.com/tech/sony-wh-ch720n-headphones-deal-october-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01KGQNJB2FF20NPPHSQTT4D72D/hero-image.jpg",
-      "date": "Thu, 22 Oct 2026 20:30:21 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "You Should Update Your Garmin Watch's Heart Rate Zones",
-      "description": "If you train with a Garmin watch, here’s how (and why) you should reset your heart rate zones.",
-      "url": "https://lifehacker.com/health/update-garmin-watch-heart-rate-zones?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M5JACZ4CVE0QV1JNZPQP22GK/hero-image.jpg",
-      "date": "Thu, 22 Oct 2026 18:30:00 +0000"
+      "source": "PCWorld",
+      "title": "Roomba Max 715 Vac review: Powerful vacuuming, with a few snags (literally)",
+      "description": "At a glance Expert's Rating Pros Strong cleaning performance, especially on carpets Compact, self-emptying dock Intuitive app with smart cleaning options Relatively affordable for a premium robot vacuum Cons Unreliable obstacle avoidance Requires stronger suction settings for effective hard-floor cleaning Loud auto-emptying cycle Our Verdict The Roomba Max 715 Vac delivers capable, largely hands-off cleaning at a reasonable price. It’s a solid choice for households that don’t need mopping, provi",
+      "url": "https://www.pcworld.com/article/3265229/roomba-max-715-vac-review.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3265229-0-00312400-1793098860-Roomba-Max-715-Vac.jpg?quality=50&strip=all",
+      "date": "Tue, 27 Oct 2026 11:00:00 +0000"
     },
     {
       "category": "eng",
@@ -670,63 +724,27 @@
       "url": "https://www.pcworld.com/article/829122/best-laptops-for-engineering-students.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/10/829122-0-69675800-1793030435-asus-zenbook-14-oled-2024-6.jpg?quality=50&strip=all",
       "date": "Mon, 26 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "This Ugreen charger packs 160W of power and is $55 off right now",
-      "description": "Ugreen Nexode Pro 160W View Deal Instead of worrying about that big laptop brick and needing a gazillion more chargers for all your other tech, you’re better off getting this Ugreen Nexode Pro charger while it’s still on sale. You can grab one for $94.99 right now, which is $55 off its MSRP. I know what you’re thinking: $95 for a charger? Are you insane? But hear me out, because this thing is well worth the money for what it offers. First of all, it comes with a built-in retractable USB-C cable ",
-      "url": "https://www.pcworld.com/article/3269732/this-160w-ugreen-gan-charger-with-a-built-in-cable-is-worth-every-penny-at-55-off.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3269732-0-20943000-1793030012-Ugreen-Nexode-Pro-160w.jpg?quality=50&strip=all",
-      "date": "Mon, 26 Oct 2026 15:53:22 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Windows 11 will lock the file system on some USB sticks and SD cards in 2027",
-      "description": "As of January 2027, Microsoft intends to prevent Windows 11 from opening certain USB sticks, SD cards, and other portable storage devices. This will only affect storage devices formatted with the ReFS file system (which stands for Resilient File System). This is still a popular file system, used, for example, on backup servers. However, it has nothing to do with booting Windows 11 from a USB stick ( we explain the benefits of this here ). For most users, this is unlikely to change anything: Many",
-      "url": "https://www.pcworld.com/article/3267230/microsoft-locks-the-file-system-on-usb-sticks-and-sd-cards-heres-why.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3267230-0-05305900-1793025049-Windows-11-logo-skewed-captured-from-laptop-screen.jpg?quality=50&strip=all",
-      "date": "Mon, 26 Oct 2026 14:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
-      "description": "If you’re looking for an affordable Windows machine under $500 , a blazing fast gaming beast for those intense matches, or a portable 2-in-1 for school or work, you’ve got plenty of great choices right now. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 80 laptops every year. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches",
-      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/550968-0-54439900-1793019639-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
-      "date": "Mon, 26 Oct 2026 13:00:25 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Nvidia built the gaming laptop of the future. But don’t buy RTX Spark for games",
-      "description": "Right now you can buy a new laptop powered by an Nvidia processor . That would have been a wild statement a few years ago. But what’s even wilder is that these RTX Spark laptops aren’t for PC gamers, and PC gamers shouldn’t buy them. That’s not to say they’re bad. The RTX Spark platform is impressive, even if it’s currently going through a bit of a teething phase. It’s phenomenally powerful, a true Windows alternative to Apple’s Arm chips. And of course it’s great at just about anything having t",
-      "url": "https://www.pcworld.com/article/3268177/nvidia-built-the-gaming-laptop-of-the-future-but-dont-buy-rtx-spark-for-games.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3268177-0-50457900-1793019655-image_beff84.png",
-      "date": "Mon, 26 Oct 2026 13:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Identity thieves don’t care how old you are. Here’s how to fight back",
-      "description": "What a week for cybersecurity nerds—they’ve had to deal with several red-alert situations, including one that affected over half the internet. (Never heard of PHP before in your life? You probably have now.) But buried under articles about compromises and hijinks was news directly affecting consumers. Here in my home state of California, word finally spread widely about a student data leak , stolen from a server owned by the state’s testing division. Welcome to Safe Mode, your weekly report for ",
-      "url": "https://www.pcworld.com/article/3268632/identity-thieves-dont-care-how-old-you-are-heres-how-to-fight-back.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3268632-0-05814600-1793016031-shutterstock_680075014.jpg?quality=50&strip=all",
-      "date": "Mon, 26 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "MSI Pro Max Edge AI+ review: This powerful AI mini PC will cost you",
-      "description": "At a glance Pros Very high CPU and graphics performance 128GB of fast shared memory Plenty of ports, including two USB4 ports and a UHS-II card reader No thermal throttling observed during the benchmark run Integrated 300-watt power supply Cons High price RAM soldered in place No OCuLink and no 10Gbit port Our Verdict The MSI Pro Max Edge AI+ is a powerful compact workstation for local AI and large-scale media projects. 128 GB of unified memory and two USB4 ports are well-suited to memory-intens",
-      "url": "https://www.pcworld.com/article/3253752/msi-pro-max-edge-ai-review.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3253752-0-11586600-1793012424-Test-MSI-PRO-MAX-EDGE-AI_optimiert.png",
-      "date": "Mon, 26 Oct 2026 11:00:00 +0000"
     }
   ],
   "starwars": [
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "Prolific Voice Actor Eric Bauza Passes Away at 46; Portrayed EB-3 on ‘Young Jedi Adventures’",
+      "description": "It is with great sadness that we report that a beloved icon of the voice acting community is no longer The post Prolific Voice Actor Eric Bauza Passes Away at 46; Portrayed EB-3 on ‘Young Jedi Adventures’ appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/10/prolific-voice-actor-eric-bauza-passes-away-at-46-portrayed-eb-3-on-young-jedi-adventures.html",
+      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/10/Eric-Bauza-Star-Wars-Young-Jedi-Adventures.png",
+      "date": "Tue, 27 Oct 2026 14:00:32 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "Review – Timothy Zahn’s ‘Thrawn’ Deluxe Edition Is a Collector’s Piece the Grand Admiral Would Be Proud Of",
+      "description": "Grand Admiral Thrawn is back with the deluxe edition rerelease of Timothy Zahn’s 2017 novel, simply titled Thrawn. Available now, The post Review – Timothy Zahn’s ‘Thrawn’ Deluxe Edition Is a Collector’s Piece the Grand Admiral Would Be Proud Of appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/10/review-timothy-zahns-thrawn-deluxe-edition-is-a-collectors-piece-the-grand-admiral-would-be-proud-of.html",
+      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/06/Screenshot-2026-06-04-8.45.52-AM.png",
+      "date": "Tue, 27 Oct 2026 13:00:48 +0000"
+    },
     {
       "category": "starwars",
       "source": "Star Wars News Net",
@@ -789,24 +807,6 @@
       "url": "https://www.starwarsnewsnet.com/2026/10/the-outer-rim-rebellion-how-the-jedi-can-challenge-the-empire.html",
       "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/04/Star-Wars-Maul-Shadow-Lord-Star-Destroyer-scaled.jpg",
       "date": "Mon, 26 Oct 2026 17:00:15 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars News Net",
-      "title": "‘Star Wars: Starfighter’ Budget Surpasses ‘The Force Awakens’ Before Tax Credits",
-      "description": "A new report on the budget for Star Wars: Starfighter suggests that the film will surpass a record previously established by The post ‘Star Wars: Starfighter’ Budget Surpasses ‘The Force Awakens’ Before Tax Credits appeared first on Star Wars News Net .",
-      "url": "https://www.starwarsnewsnet.com/2026/10/star-wars-starfighter-budget-surpasses-the-force-awakens-before-tax-credits.html",
-      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/08/Starfighter_Logo-scaled-e1787939259499.jpg",
-      "date": "Fri, 23 Oct 2026 00:08:50 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars News Net",
-      "title": "Review: ‘The Fall of Kylo Ren’ #3 Takes a Break for a Knights of Ren Flashback",
-      "description": "The Fall of Kylo Ren paused momentum in its third issue to explain everything about the mysterious droid that appeared The post Review: ‘The Fall of Kylo Ren’ #3 Takes a Break for a Knights of Ren Flashback appeared first on Star Wars News Net .",
-      "url": "https://www.starwarsnewsnet.com/2026/10/review-the-fall-of-kylo-ren-3-takes-a-break-for-a-knights-of-ren-flashback.html",
-      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/10/Fall-of-Kylo-Ren-3-cover-cropped-scaled-e1792583083186.webp",
-      "date": "Thu, 22 Oct 2026 16:25:44 +0000"
     },
     {
       "category": "starwars",
@@ -901,10 +901,55 @@
     {
       "category": "starwars",
       "source": "Jedi News",
+      "title": "How the Dykstraflex Changed VFX | Star Wars: A New Hope | befores & afters",
+      "description": "befores & afters look at the importance of Industrial Light & Magic's ​Dykstraflex to the making of Star Wars: A New Hope, and to filmmaking. The post How the Dykstraflex Changed VFX | Star Wars: A New Hope | befores & afters appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/how-the-dykstraflex-changed-vfx-star-wars-a-new-hope-befores-afters/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/maxresdefault-42-300x169.jpg",
+      "date": "Tue, 27 Oct 2026 12:06:42 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "LEGO Nikolas Nurdblok and the Lost Brick by Jeffrey Brown Available Now",
+      "description": "Bestselling cartoonist Jeffrey Brown, author of a number of Star Wars titles, has released his latest book, Nikolas Nurdblok and the Lost Brick, an awesome new adventure for comic fiction fans ages 7+ as Nikolas goes in search of the lost LEGO brick. The post LEGO Nikolas Nurdblok and the Lost Brick by Jeffrey Brown Available Now appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/literature/articles/lego-nikolas-nurdblok-and-the-lost-brick-by-jeffrey-brown-available-now/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/LEGONikolasNurdblokandtheLostBrick_Oct26-300x201.jpg",
+      "date": "Tue, 27 Oct 2026 11:33:43 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Podcast Stardust #1,100: The Clone Wars – “The General” 0408",
+      "description": "First-generation Star Wars fans, Dennis Keithly and Jay Krebs, host episode 1,100 of Podcast Stardust. The post Podcast Stardust #1,100: The Clone Wars – “The General” 0408 appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/podcast-stardust-1100-the-clone-wars-the-general-0408/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2020/05/Podcast-Stardust-300x201.jpg",
+      "date": "Tue, 27 Oct 2026 11:00:54 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "The Simpsons Parodies Star Wars: Galactic Starcruiser in ‘The Kosmic Kruiser’",
+      "description": "In a new episode of The Simpsons airing on Sunday, November 8th, Bart and Lisa break into Krustyland's most notorious failed attraction, The Kosmic Kruiser, a parody of the failed Star Wars: Galactic Starcruiser. The post The Simpsons Parodies Star Wars: Galactic Starcruiser in ‘The Kosmic Kruiser’ appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/the-simpsons-parodies-star-wars-galactic-starcruiser-in-the-kosmic-kruiser/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/simpsons-kosmic-kruiser-starcruiser-official-Oct26-300x201.jpg",
+      "date": "Tue, 27 Oct 2026 10:20:19 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "ILM’s Janet Lewin Receives VIEW Visionary Award at VIEW Conference in Turin, Italy",
+      "description": "Congratulations to Janet Lewin, senior vice president, general manager and head of ILM, who was honoured during the VIEW Conference in Turin, Italy, with the VIEW Visionary Award. The post ILM’s Janet Lewin Receives VIEW Visionary Award at VIEW Conference in Turin, Italy appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/events/articles/ilms-janet-lewin-receives-view-visionary-award-at-view-conference-in-turin-italy/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/DSC_8685-Janet-Lewin-Oct26-300x201.jpg",
+      "date": "Tue, 27 Oct 2026 09:49:48 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
       "title": "Natalie Portman on How Star Wars Taught Her Failure",
-      "description": "Jonathan Bailey has booked a new film opposite Oscar winning Star Wars actress Natalie Portman for 'Pumping Black', a psychological thriller set in the competitive and cutthroat world of professional cycling. The post Natalie Portman on How Star Wars Taught Her Failure appeared first on Jedi News .",
+      "description": "In a new interview with Harpers Bazaar, Natalie Portman has shared how she had \"lucky early experiences of failure\" with her first film, The Professional, and then Star Wars, and how that spurred her on, \"I’m going to make another one. I’m going to show them\". The post Natalie Portman on How Star Wars Taught Her Failure appeared first on Jedi News .",
       "url": "https://www.jedinews.com/film-music-tv/articles/natalie-portman-on-how-star-wars-taught-her-failure/",
-      "image": "",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/star-wars-phantom-menace-natalie-portman-padme-amidala-Oct26-300x201.jpg",
       "date": "Tue, 27 Oct 2026 09:18:44 +0000"
     },
     {
@@ -951,51 +996,6 @@
       "url": "https://www.jedinews.com/lego/articles/lego-build-paint-and-play-gift-with-purchase-available-from-october-28th/",
       "image": "https://www.jedinews.com/wp-content/uploads/2026/10/40889_01_cUXAU7sTRbvv-300x201.jpg",
       "date": "Mon, 26 Oct 2026 17:00:24 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Harrison Ford and Calista Flockhart to Receive First Joint Award",
-      "description": "Harrison Ford and Calista Flockhart will share the spotlight at the Women's Guild Cedars-Sinai's Stardust Ball at the Beverly Wilshire on November 18th, marking the couple’s first joint award for their “extraordinary careers and longstanding commitment to philanthropy”. The post Harrison Ford and Calista Flockhart to Receive First Joint Award appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/events/articles/harrison-ford-and-calista-flockhart-to-receive-first-joint-award/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/GettyImages-2176815925-Harrison-Ford-And-Calista-Flockhart-Oct26-300x201.jpg",
-      "date": "Mon, 26 Oct 2026 14:48:26 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Rancho Obi-Wan: The Book That Started It All",
-      "description": "The Rancho Obi-Wan website looks back to October 1992, when Steve Sansweet published the groundbreaking Star Wars: From Concept to Screen to Collectible through Chronicle Books, exploring the toys, memorabilia, and behind-the-scenes history of Star Wars. The post Rancho Obi-Wan: The Book That Started It All appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/collecting/articles/rancho-obi-wan-the-book-that-started-it-all/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/From-Concept-to-Screen-Book-Started-It-All-Oct26-300x201.jpg",
-      "date": "Mon, 26 Oct 2026 14:14:06 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Sideshow Shares First Look at Hot Toys Deluxe The Mandalorian and Grogu Set",
-      "description": "Just ahead of the worldwide release, Sideshow unboxes the Hot Toys The Mandalorian and Grogu 1/6 Scale Deluxe Collectible Set based on their appearance in The Mandalorian and Grogu movie. The post Sideshow Shares First Look at Hot Toys Deluxe The Mandalorian and Grogu Set appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/collecting/articles/sideshow-shares-first-look-at-hot-toys-deluxe-the-mandalorian-and-grogu-set/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/The-Mandalorian-and-Grogu-Deluxe-01-Oct26-300x201.jpg",
-      "date": "Mon, 26 Oct 2026 10:10:51 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "This Weeks Publications – 26th October 2026",
-      "description": "Welcome to week 43 of 2026 and our list detailing what new publications to expect from a galaxy far, far away. The post This Weeks Publications – 26th October 2026 appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/literature/articles/this-weeks-publications-26th-october-2026/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/R1DV1-FI-300x201.jpg",
-      "date": "Mon, 26 Oct 2026 05:01:27 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Spark of Rebellion: Part 2 | Star Wars Rebels S1 E2 | Full Episode | Star Wars Kids",
-      "description": "After being caught up in a mission by a group of rebels, a teenage street orphan helps the group on a rescue attempt of some Imperial slaves. Stream Star Wars Rebels on Disney+. The post Spark of Rebellion: Part 2 | Star Wars Rebels S1 E2 | Full Episode | Star Wars Kids appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/spark-of-rebellion-part-2-star-wars-rebels-s1-e2-full-episode-star-wars-kids/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/maxresdefault-40-300x169.jpg",
-      "date": "Mon, 26 Oct 2026 00:26:06 +0000"
     }
   ],
   "youtube": [
