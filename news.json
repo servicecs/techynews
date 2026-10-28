@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-28T13:22:51.558603+00:00",
+  "updated": "2026-10-28T18:59:40.560707+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Mozilla работи на мал лебдечки прозорец, читање на глас и режим без интернет за Firefox",
+      "description": "Mozilla во нова објава на блогот ги издвои функциите на кои работи за Firefox, од јавниот план за развој што го објави во јуни. Објавата доаѓа месец откако Firefox го доби новиот изглед со вратениот компактен режим. Најинтересна новина е Mini Window, со која цел „таб“ или само дел од страница ќе може да се „извади“ во мал прозорец што лебди […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/mozilla-patokaz-kraj-2026/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Blog_Option_Nova-1.png-f-150x150.webp",
+      "date": "Wed, 28 Oct 2026 18:32:15 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Apple го претстави првиот MacBook Pro со OLED екран на допир и полесен дизајн",
+      "description": "Apple денес го претставија новиот MacBook Pro со PROLED XDR екран, во верзии од 14 и 16 инчи. Ова е првиот Mac со екран на допир, а го носи и Dynamic Island, делот од екранот што корисниците го познаваат од iPhone. Станува збор за уредот за кој пишуваше Марк Гурман и кој беше главната причина за денешниот настан во Лос […]",
+      "url": "https://smartportal.mk/novosti/kompjuteri/apple-go-pretstavi-prviot-macbook-pro-so-oled-ekran-na-dopir/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/macbook-pro-oled-touch-f-1-150x150.webp",
+      "date": "Wed, 28 Oct 2026 17:30:50 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Телеком ја пушти во употреба првата 5G+ мрежа во Македонија",
+      "description": "Македонски Телеком официјално ја пушти во употреба првата самостојна 5G+ мрежа во Македонија – 5G Standalone, со што започнува нова ера во развојот на мобилните услуги. Станува збор за една од најголемите технолошки промени во мобилните мрежи во последната деценија, која создава основа за поперсонализирано, пофлексибилно и посигурно поврзување. Со овој технолошки исчекор, Македонски Телеком продолжува […]",
+      "url": "https://smartportal.mk/novosti/tehnologii/telekom-ja-pusti-prvata-5g-plus-mreza-vo-mk/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/14-11-of-32-150x150.webp",
+      "date": "Wed, 28 Oct 2026 14:29:33 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "THE FUNDING ROOM: PITCH EDITION – простор каде добрата идеја станува подобар „pitch“",
+      "description": "На 5 ноември 2026 година, од 14:00 до 16:00 часот, во INNOFEIT EDIH во Скопје ќе се одржи THE FUNDING ROOM: PITCH EDITION – практичен настан наменет за стартапи, мали и средни бизнис и и претприемачи кои сакаат подобро да ја претстават својата бизнис-идеја пред потенцијални инвеститори, партнери и извори на финансирање. Добрата бизнис-идеја е […]",
+      "url": "https://smartportal.mk/novosti/nastani/the-funding-room-pitch-edition/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/THE-FUNDING-ROOM_-Pitch-edition_Covers-2-150x150.webp",
+      "date": "Wed, 28 Oct 2026 14:06:32 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -57,147 +93,111 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Започнуваат ЕНЕРГО ТЕХНОМА 2026 и САЕМОТ ЗА НЕДВИЖНОСТИ 2026 од 29 до 31 октомври",
-      "description": "Скопје, 27 октомври 2026 година – За два дена, на 29 октомври, во Т Арена С.Ц. Борис Трајковски во Скопје започнуваат меѓународните саеми ЕНЕРГО ТЕХНОМА 2026 и Саемот за недвижности РЕАЛ ЕКСПО 2026. Под мотото „Вклучи одржливи навики“, двата настана до 31 октомври ќе обединат компании, институции, експерти, инвеститори и млади иноватори, со програма посветена […]",
-      "url": "https://smartportal.mk/novosti/nastani/zapocnuvaat-energo-tehnoma-i-saemot-za-nedviznosti/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Foto2-150x150.webp",
-      "date": "Tue, 27 Oct 2026 14:07:04 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Новиот MacBook Pro од 14 инчи доби M6 чип со повеќе јадра и побрза графика",
-      "description": "Apple денеска го претставија новиот MacBook Pro од 14 инчи со M6 чипот, една година по моделот со M5. Истиот чип денеска стигна и во новиот iMac, а лаптопот надворешно не се менува и повторно доаѓа во сребрена и црна („space black“) боја. M6 има 12-јадрен „CPU“ и 12-јадрен графички процесор, по две јадра повеќе од M5, како и двоен […]",
-      "url": "https://smartportal.mk/novosti/kompjuteri/noviot-macbook-pro-14-dobi-m6-chip/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero-261027-150x150.webp",
-      "date": "Tue, 27 Oct 2026 13:59:56 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Apple го претстави новиот iMac со M6 чипот, кој го задржува дизајнот, а носи побрзи перформанси",
-      "description": "Apple денеска го претставија новиот iMac со M6 чипот, кој во август прво стигна во новиот Mac mini. Како што пишуваше Марк Гурман, надворешно нема промени, па iMac го задржува екранот од 24 инчи со 4.5K резолуција, 12MP камерата и седумте бои од моделот со M4. Основната верзија има 10-јадрен „CPU“ и 10-јадрен графички процесор, а поскапата 12-јадрен „CPU“ и […]",
-      "url": "https://smartportal.mk/novosti/kompjuteri/apple-imac-m6/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Apple-iMac-with-M6-hero-261027-150x150.webp",
-      "date": "Tue, 27 Oct 2026 13:39:53 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Македонија меѓу шесте земји домаќини на европскиот CASSINI Space Camp 2027",
-      "description": "Македонија е избрана за една од шесте земји во кои ќе се одржат CASSINI Space Camps во 2027 година, иницијатива на Европската комисија преку Генералниот директорат за одбранбена индустрија и вселена (DG DEFIS). Локален организатор е NewMan’s Business Accelerator, кој од 10 до 18 јануари 2027 година ќе го реализира деветдневниот резиденцијален камп „Mission Macedonia […]",
-      "url": "https://smartportal.mk/novosti/nastani/makedonija-sest-zemji-domakjini-cassini-space-camp-2027/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/1_CASSINI_GlavenBaner_Lokacii-150x150.webp",
-      "date": "Tue, 27 Oct 2026 13:22:58 +0000"
+      "source": "Time.mk - All",
+      "title": "ИСКРА ХАЏИ ВАСИЛЕВА, КОЈА НА СУДИЈАТА ЃОКО РИСТОВ МУ ГИ НАЈДЕ ЗАКОПАНИТЕ ВО ЅИД 350.000 ЕВРА, ИЗБРАНА ЗА ЈАВНА ОБВИНИТЕЛКА ЗА ГОНЕЊЕ ОРГАНИЗИРАН КРИМИНАЛ И КОРУПЦИЈА | Сакам да кажам",
+      "description": "",
+      "url": "https://time.mk/c/d7b350bd14/iskra-hadzi-vasileva-koja-na-sudijata-gjoko-ristov-mu-gi-najde-zakopanite-vo-zid-350-000-evra-izbrana-za-javna-obvinitelka-za-gonenje-organiziran-kriminal-i-korupcija.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/10/iskra-hadzivasileva-32898932.jpg",
+      "date": "Wed, 28 Oct 2026 17:34:58 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Помалку шалтери, документи и побрзи услуги за граѓаните со м.Услуги, најави Мицкоски на промоцијата на апликацијата | Скопје1",
+      "title": "Николоски најави изградба на два нови големи експресни патишта | Охрид1",
       "description": "",
-      "url": "https://time.mk/c/fd5af7112f/pomalku-salteri-dokumenti-i-pobrzi-uslugi-za-gragjanite-so-m-uslugi-najavi-mickoski-na-promocijata-na-aplikacijata.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/86989/conversions/text-max.jpg",
-      "date": "Wed, 28 Oct 2026 12:19:05 +0000"
+      "url": "https://time.mk/c/5c1f7a41b5/nikoloski-najavi-izgradba-na-dva-novi-golemi-ekspresni-patista.html",
+      "image": "https://ohrid1.com/wp-content/uploads/2026/10/nikoloski25-750x460.jpg",
+      "date": "Wed, 28 Oct 2026 18:04:43 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Савески: Сите кандидати за нов шеф на ОЈО ГОКК се докажани професионалци | Независен",
+      "title": "Владата понуди ваучерски систем за студентскиот оброк | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/399d125df8/saveski-site-kandidati-za-nov-sef-na-ojo-gokk-se-dokazani-profesionalci.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/ÑÐ°Ð²ÐµÑÐºÐ¸.webp",
-      "date": "Wed, 28 Oct 2026 12:56:42 +0000"
+      "url": "https://time.mk/c/b21c21b162/vladata-ponudi-vaucerski-sistem-za-studentskiot-obrok.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1793202930/tkcdvm8p6m46nbsadquc.jpg",
+      "date": "Wed, 28 Oct 2026 16:18:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Јаневска: Неопходно е да им покажеме на младите дека корупцијата не се исплати | Независен",
+      "title": "Приведените за двете убиства во Ѓорче Петров признале во полиција – жртвите биле врзувани и претепувани | Press24",
       "description": "",
-      "url": "https://time.mk/c/872b39111b/janevska-neophodno-e-da-im-pokazeme-na-mladite-deka-korupcijata-ne-se-isplati.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/stop-korupcija-vo-obrazovanie.jpg",
-      "date": "Wed, 28 Oct 2026 11:56:41 +0000"
+      "url": "https://time.mk/c/285eeb82e5/privedenite-za-dvete-ubistva-vo-gjorce-petrov-priznale-vo-policija-zrtvite-bile-vrzuvani-i-pretepuvani.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/80043.jpg",
+      "date": "Wed, 28 Oct 2026 15:56:44 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Расчистени двете смртоносни разбојништва што го вознемирија Скопје | Трн",
+      "title": "До документ со неколку клика на мобилен – нема веќе губење денови по шалтери | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/1de9319521/rascisteni-dvete-smrtonosni-razbojnistva-sto-go-voznemirija-skopje.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/10/apsenje-lisici.jpg",
-      "date": "Wed, 28 Oct 2026 13:15:01 +0000"
+      "url": "https://time.mk/c/00c18972da/do-dokument-so-nekolku-klika-na-mobilen-nema-veke-gubenje-denovi-po-salteri.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/867730793_1531902152081177_5718760429055436109_n.jpg",
+      "date": "Wed, 28 Oct 2026 14:18:58 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Јаневска за студентскиот оброк: Понудивме ваучерски систем | Press24",
+      "title": "ВЛАСТА И ОПОЗИЦИЈАТА ВО ВЕРБАЛНА ВОЈНА ОКОЛУ НОВОТО ГЛАСАЊЕ: Фрлените ракавици за предвремени избори никако да се прифатат | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/8d4c1a2e8f/janevska-za-studentskiot-obrok-ponudivme-vaucerski-sistem.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/79984.jpg",
-      "date": "Wed, 28 Oct 2026 12:11:01 +0000"
+      "url": "https://time.mk/c/7e4ac8817a/vlasta-i-opozicijata-vo-verbalna-vojna-okolu-novoto-glasanje-frlenite-rakavici-za-predvremeni-izbori-nikako-da-se-prifatat.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/dsc_2145-scaled-e1793199266650.jpg",
+      "date": "Wed, 28 Oct 2026 14:58:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Мицкоски до граѓаните на Брвеница: Не гласајте по етничка припадност, туку за оној што ќе донесе подобри времиња за вас | ТВ21",
+      "title": "Работа до исцрпеност, понекогаш и до смрт – кој ги штити работниците? | Рацин",
       "description": "",
-      "url": "https://time.mk/c/6ae35e1a94/mickoski-do-gragjanite-na-brvenica-ne-glasajte-po-etnicka-pripadnost-tuku-za-onoj-sto-ke-donese-podobri-vreminja-za-vas.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2026/10/Mickoski-euslugi.png",
-      "date": "Wed, 28 Oct 2026 12:58:58 +0000"
+      "url": "https://time.mk/c/3d11eb1faf/rabota-do-iscrpenost-ponekogas-i-do-smrt-koj-gi-stiti-rabotnicite.html",
+      "image": "https://racin.mk/wp-content/uploads/2026/08/rabotnici-od-azija-720x480.jpg?x80574",
+      "date": "Wed, 28 Oct 2026 18:03:01 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Митева: Позитивни економски сигнали од Светската банка – Македонија бележи највисок економски раст во регионот | Макфакс",
+      "title": "Светска банка: Раст на БДП за 3,2%, потреба од структурни реформи | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/b6046011ed/miteva-pozitivni-ekonomski-signali-od-svetskata-banka-makedonija-belezi-najvisok-ekonomski-rast-vo-regionot.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/screenshot-2026-10-28-135426.webp",
-      "date": "Wed, 28 Oct 2026 12:56:42 +0000"
+      "url": "https://time.mk/c/3a18748d4f/svetska-banka-rast-na-bdp-za-3-2-potreba-od-strukturni-reformi.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1793202320/yozx8p4dbxjnilvrdvlw.jpg",
+      "date": "Wed, 28 Oct 2026 16:12:44 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Николоски и пред германските компании во земјава го предочи проблемот на транспортерите, побара да лобираат кај нивните власти | Независен",
+      "title": "Вучиќ до противниците: Да ви кажам нешто бедни луѓе, подобро е да се биде во затвор, отколку да се седи до вас | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/aa6f44d578/nikoloski-i-pred-germanskite-kompanii-vo-zemjava-go-predoci-problemot-na-transporterite-pobara-da-lobiraat-kaj-nivnite-vlasti.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/08/Protest-na-kamiondzii-pred-EU-delegacoja-vo-Skopje-6-bg.jpg",
-      "date": "Wed, 28 Oct 2026 11:36:44 +0000"
+      "url": "https://time.mk/c/ed211b2c49/vucik-do-protivnicite-da-vi-kazam-nesto-bedni-lugje-podobro-e-da-se-bide-vo-zatvor-otkolku-da-se-sedi-do-vas.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2025/12/Depositphotos_359211086_XL.jpg",
+      "date": "Wed, 28 Oct 2026 18:44:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Семејството пријавило дека исчезнал! Познат идентитетот на осомничениот за нападот врз израелската амбасада? | Вечер Прес",
+      "title": "Амбасадорката на Израел по нападот во Белград: „Шокирани сме, ова е закана за сите нас“ | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/9d8ffdaebb/semejstvoto-prijavilo-deka-isceznal-poznat-identitetot-na-osomniceniot-za-napadot-vrz-izraelskata-ambasada.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/10/mup-srb-amb-izrael-foto-1.jpg",
-      "date": "Wed, 28 Oct 2026 12:52:44 +0000"
+      "url": "https://time.mk/c/ae3264cee6/ambasadorkata-na-izrael-po-napadot-vo-belgrad-sokirani-sme-ova-e-zakana-za-site-nas.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/82590/conversions/text-max.jpg",
+      "date": "Wed, 28 Oct 2026 13:48:57 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Дронови нападнаа брод кај Бугарија, морнарите за влакно се спасиле | Слободен Печат",
+      "title": "Излегол само да ги истегне нозете, а потоа неговиот вагон се запалил: Неверојатна приказна од Шпанија | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/f53bd848f8/dronovi-napadnaa-brod-kaj-bugarija-mornarite-za-vlakno-se-spasile.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2025/06/tovaren-brod-pozar-300x138.png",
-      "date": "Wed, 28 Oct 2026 12:27:00 +0000"
+      "url": "https://time.mk/c/8f127bc9ab/izlegol-samo-da-gi-istegne-nozete-a-potoa-negoviot-vagon-se-zapalil-neverojatna-prikazna-od-spanija.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/87013/conversions/text-max.jpg",
+      "date": "Wed, 28 Oct 2026 18:24:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Бремена жена го преживеала судирот на возовите во Шпанија: „Видов целосно изгорен вагон“ | Макфакс",
+      "title": "Партијата на Нетанјаху ги обвини арапските политички формации дека ги „украле изборите“ | Либертас",
       "description": "",
-      "url": "https://time.mk/c/fc12d40048/bremena-zena-go-preziveala-sudirot-na-vozovite-vo-spanija-vidov-celosno-izgoren-vagon.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/vozovi-shpanija-screenshot-2026-10-28-123159.webp",
-      "date": "Wed, 28 Oct 2026 12:15:02 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Арапските партии во Израел подготвени да помогнат во соборувањето на Нетанјаху | Независен",
-      "description": "",
-      "url": "https://time.mk/c/63762385bf/arapskite-partii-vo-izrael-podgotveni-da-pomognat-vo-soboruvanjeto-na-netanjahu.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/Ð°ÑÐ°Ð¿ÑÐºÐ¸-Ð¿Ð°ÑÑÐ¸Ð¸.webp",
-      "date": "Wed, 28 Oct 2026 12:27:00 +0000"
+      "url": "https://time.mk/c/e47eccd277/partijata-na-netanjahu-gi-obvini-arapskite-politicki-formacii-deka-gi-ukrale-izborite.html",
+      "image": "https://libertas.mk/wp-content/uploads/2026/10/20261028190714_big_730x400_76.webp",
+      "date": "Wed, 28 Oct 2026 18:13:03 +0000"
     },
     {
       "category": "mkd",
@@ -211,68 +211,77 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Искористени средствата за еднократната помош за пензионерите во социјален ризик од Општина Центар | Макфакс",
+      "title": "ФОТО | Еден автобус на ЈСП се расипа, друг почна да чади неколку часа подоцна | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/1e7150fc66/iskoristeni-sredstvata-za-ednokratnata-pomos-za-penzionerite-vo-socijalen-rizik-od-opstina-centar.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/centar-socijalen-rizik-screenshot-2026-10-28-141208.webp",
-      "date": "Wed, 28 Oct 2026 13:15:01 +0000"
+      "url": "https://time.mk/c/b54ba213d9/foto-eden-avtobus-na-jsp-se-rasipa-drug-pocna-da-cadi-nekolku-casa-podocna.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/jsp-300x174.jpg",
+      "date": "Wed, 28 Oct 2026 14:24:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
       "title": "Стојна Димитровска од Куклица, пак е приведена за закана кон туристи | Независен",
       "description": "",
-      "url": "https://time.mk/c/3697bbe92e/stojna-dimitrovska-od-kuklica-pak-e-privedena-za-zakana-kon-turisti.html",
+      "url": "https://time.mk/c/e87975301b/stojna-dimitrovska-od-kuklica-pak-e-privedena-za-zakana-kon-turisti.html",
       "image": "https://nezavisen.mk/wp-content/uploads/2026/08/kuklica-1024x754.png",
       "date": "Wed, 28 Oct 2026 13:15:01 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Уапсени четири лица за двата смртни случаи во Ѓорче, МВР откри дека станува збор за разбојништва | Макфакс",
+      "title": "(ВИДЕО) Казнет е возачот кој со автомобил се движеше по велосипедска патека во Скопје | Фокус",
       "description": "",
-      "url": "https://time.mk/c/b6d7adadc1/uapseni-cetiri-lica-za-dvata-smrtni-slucai-vo-gjorce-mvr-otkri-deka-stanuva-zbor-za-razbojnistva.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/01/policija-foto-mvr-3.jpg",
-      "date": "Wed, 28 Oct 2026 12:35:08 +0000"
+      "url": "https://time.mk/c/0b0a486fad/video-kaznet-e-vozacot-koj-so-avtomobil-se-dvizese-po-velosipedska-pateka-vo-skopje.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/10/po-objaveno-video-na-socijalnite-mrezi-sankcioniran-vozac-koj-upravuval-vozilo-po-velosipedska-pateka-vo-skopje-image.jpg",
+      "date": "Wed, 28 Oct 2026 16:38:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "СВЕТ ИБИС, АФРИКАНСКА МАЧКА, БУВ, РАКУН И БЕРБЕРСКА ОВЦА Нови животни во битолската Зоолошка градина | +инфо",
+      "title": "НА ДВА МЕСЕЦA ПРЕД ИСТЕКОТ НА ГОДИНАТА ОПШТИНА ТЕТОВО ПРАВИ РЕБАЛАНС НА БУЏЕТОТ ОТИ УСПЕШНО ГИ НАПЛАТИЛА ТАКСИТЕ И ДАНОЦИТЕ | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/45e2489468/svet-ibis-afrikanska-macka-buv-rakun-i-berberska-ovca-novi-zivotni-vo-bitolskata-zooloska-gradina.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2026/10/zoo-bitola-scaled-e1793189349818.jpg",
-      "date": "Wed, 28 Oct 2026 12:15:03 +0000"
+      "url": "https://time.mk/c/7dd242e786/na-dva-meseca-pred-istekot-na-godinata-opstina-tetovo-pravi-rebalans-na-budzetot-oti-uspesno-gi-naplatila-taksite-i-danocite.html",
+      "image": "",
+      "date": "Wed, 28 Oct 2026 14:35:00 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Ги празнуваме Светите четириесет битолски преподобномаченици – Кои се народните верувања и обичаи? | Press24",
+      "title": "Во Битола на 28 октомври 2012 година 40-те битолски преподобни маченици прогласени за светци (фотогалерија) | Битола Њуз",
       "description": "",
-      "url": "https://time.mk/c/83adfe84b2/gi-praznuvame-svetite-cetirieset-bitolski-prepodobnomacenici-koi-se-narodnite-veruvanja-i-obicai.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/79850.jpg",
-      "date": "Wed, 28 Oct 2026 07:30:49 +0000"
+      "url": "https://time.mk/c/abcad1f527/vo-bitola-na-28-oktomvri-2012-godina-40-te-bitolski-prepodobni-macenici-proglaseni-za-svetci-fotogalerija.html",
+      "image": "https://bitolanews.mk/wp-content/uploads/2026/10/press-999-150x150.jpg",
+      "date": "Wed, 28 Oct 2026 18:49:00 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(ВИДЕО) „Некст тајм“ го најави концертот за 27 ноември: Ќе има и’ изненадувања но и македонски врвни уметници | Екран",
+      "title": "Македонската култура ја освои Будимпешта: Музика, вкусови и уметност пред преполни сали | Трн",
       "description": "",
-      "url": "https://time.mk/c/816b72bbc6/video-nekst-tajm-go-najavi-koncertot-za-27-noemvri-ke-ima-i-iznenaduvanja-no-i-makedonski-vrvni-umetnici.html",
-      "image": "https://ekran.mk/wp-content/uploads/2026/10/nekst-tajm-pres-300x216.jpg",
-      "date": "Wed, 28 Oct 2026 11:56:41 +0000"
+      "url": "https://time.mk/c/54f9fcc706/makedonskata-kultura-ja-osvoi-budimpesta-muzika-vkusovi-i-umetnost-pred-prepolni-sali.html",
+      "image": "",
+      "date": "Wed, 28 Oct 2026 18:03:00 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Тамара Котевска го освои „Зелениот Оскар“ за најдобра режија и продукција за „Приказната за Силјан“ | Макфакс",
+      "title": "Книгата „Зад мене белина“ од Мартин Кушеј се занимава со „живеењето во мигот“ | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/c1e14bfddb/tamara-kotevska-go-osvoi-zeleniot-oskar-za-najdobra-rezija-i-produkcija-za-prikaznata-za-siljan.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2025/11/siljan.jpg",
-      "date": "Wed, 28 Oct 2026 12:08:44 +0000"
+      "url": "https://time.mk/c/07f4f84701/knigata-zad-mene-belina-od-martin-kusej-se-zanimava-so-ziveenjeto-vo-migot.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/Eurodram-27102026-Promocija-Martin-Kushej-02-web-300x200.jpg",
+      "date": "Wed, 28 Oct 2026 15:06:58 +0000"
     }
   ],
   "de": [
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "PS5-Jailbreak: Sonys 50.000-Dollar-Prämie sorgt für Empörung",
+      "description": "PS5-Jailbreak: Sonys 50.000-Dollar-Prämie für einen Hypervisor-Bug sorgt für Empörung. TheFloW gab zudem sein Linux-Projekt auf. Der Artikel PS5-Jailbreak: Sonys 50.000-Dollar-Prämie sorgt für Empörung erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/jailbreaks/ps5-jailbreak-sonys-50000-dollar-praemie-empoerung-334684.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/ps5-jailbreak-sonys-50000-dollar-praemie-empoerung",
+      "date": "Wed, 28 Oct 2026 18:57:15 +0000"
+    },
     {
       "category": "de",
       "source": "Tarnkappe",
@@ -443,18 +452,81 @@
       "url": "https://tarnkappe.info/artikel/rechtssachen/voices38-denuvo-klage-neue-cracks-334421.html",
       "image": "https://cdn.tarnkappe.info/wpimg/voices38-denuvo-klage-neue-cracks",
       "date": "Thu, 08 Oct 2026 14:54:56 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "CTONE AM23: Kompakter Mini-PC mit AMD- und Intel-Plattform für lokale KI und anspruchsvolle Anwendungen (Pressemitteilung)",
-      "description": "Der CTONE AM23 Mini-PC bietet Top-Performance für lokale KI mit AMD & Intel. Inklusive OCuLink & bis zu 128 GB RAM. Jetzt sichern! Der Artikel CTONE AM23: Kompakter Mini-PC mit AMD- und Intel-Plattform für lokale KI und anspruchsvolle Anwendungen (Pressemitteilung) erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/advertorial/ctone-am23-kompakter-mini-pc-mit-amd-und-intel-plattform-fuer-lokale-ki-und-anspruchsvolle-anwendungen-pressemitteilung-334415.html",
-      "image": "https://cdn.tarnkappe.info/wp-content/uploads/CTONE-Messestand-1.jpg",
-      "date": "Thu, 08 Oct 2026 12:27:49 +0000"
     }
   ],
   "eng": [
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "If You Loved 'East of Eden,' There's One Movie You Need to Watch Next",
+      "description": "If you loved the epic swirl and intense performances of Netflix’s take on a Steinbeck classic, check out this movie next.",
+      "url": "https://lifehacker.com/entertainment/movies-like-east-of-eden?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M61PGGEH9P529NTWT0C8AZXY/hero-image.jpg",
+      "date": "Wed, 28 Oct 2026 18:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Your Discord Messages Will Soon Be Discoverable on Google Search, but You Can Opt Out",
+      "description": "Public servers are getting discoverable web pages.",
+      "url": "https://lifehacker.com/tech/your-discord-messages-will-be-discoverable-on-google-search-but-you-can?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M61H0CR9C6FP5NZ3T8PXN4N7/hero-image.png",
+      "date": "Wed, 28 Oct 2026 17:30:40 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "You Can Preorder XReal's First Wired XR Glasses",
+      "description": "Full virtual and augmented reality in a pair of sunglasses instead of a helmet.",
+      "url": "https://lifehacker.com/tech/how-to-preorder-xreal-aura-xr-glasses?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M5ZY4T73AGD51T1NHNT7JQR1/hero-image.jpg",
+      "date": "Wed, 28 Oct 2026 17:00:16 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Five Hacks Every Wordle Player Should Know",
+      "description": "Including how to get a perfect win percentage, even if you've lost a few games.",
+      "url": "https://lifehacker.com/entertainment/best-wordle-hacks?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M61KH0E0GT54S2FE7AMTKP6D/hero-image.jpg",
+      "date": "Wed, 28 Oct 2026 16:30:05 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "The Newest Kindle Paperwhite Signature Edition Is Finally Worth the Extra Money",
+      "description": "You get quite a bit for the extra $50.",
+      "url": "https://lifehacker.com/tech/kindle-paperwhite-signature-edition-review?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M61DXQSFEG8E3HYK0T0SQ62P/hero-image.png",
+      "date": "Wed, 28 Oct 2026 15:32:30 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "These Are the Best Arc Browser Alternatives, Now That It's Shutting Down",
+      "description": "Arc may be dead, but you don't have to crawl back to Chrome.",
+      "url": "https://lifehacker.com/tech/best-arc-browser-alternatives?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M619S6VG20JXY66C81C857NA/hero-image.jpg",
+      "date": "Wed, 28 Oct 2026 14:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Pricey New Accessory Gives Your Kindle a Feature That Used to Be Standard",
+      "description": "How much are physical buttons worth to you?",
+      "url": "https://lifehacker.com/tech/the-kindle-page-turn-cover-turns-your-paperwhite-into-an-oasis?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M5ZEKWQEG8Y4Q7V0VY0TWX8T/hero-image.png",
+      "date": "Wed, 28 Oct 2026 14:00:10 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Autonomous Camera Robot Is My New Best Friend",
+      "description": "Beni will follow you everywhere.",
+      "url": "https://lifehacker.com/tech/upgrade-of-the-week-beni-camera-robot?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M5ZE76691V955TKMJZ42MFTC/hero-image.png",
+      "date": "Wed, 28 Oct 2026 13:30:00 +0000"
+    },
     {
       "category": "eng",
       "source": "Lifehacker",
@@ -565,75 +637,48 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "This Blink Outdoor 2K Camera and Doorbell Bundle Is 74% Off Right Now",
-      "description": "This Blink camera with wired doorbell is currently $38.99, down from $149.98, saving you over $100.",
-      "url": "https://lifehacker.com/tech/blink-outdoor-2k-camera-bundle-sale-october-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01KZZPCC834R27S8KQSJK9XB4T/hero-image.jpg",
-      "date": "Tue, 27 Oct 2026 13:30:00 +0000"
+      "source": "PCWorld",
+      "title": "Vicseed’s popular MagSafe car phone mount drops to new low price: $33",
+      "description": "NEW LOWEST PRICE Vicseed MagSafe Car Phone Holder View Deal Newer cars may have built-in smartphone holders now, but unless you’ve traded up in recent years, you still need to supply your own. With modern reliance on GPS navigation, hands-free calling, and phones as media hubs for music, audiobooks, and podcasts, a smartphone holder is essential . The Vicseed MagSafe Car Phone Holder is currently on sale at Amazon, down to $32.98 from its original $42.99 price. That may only be a 23% discount, b",
+      "url": "https://www.pcworld.com/article/3271388/vicseeds-popular-magsafe-car-phone-mount-drops-to-new-low-33.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3271388-0-01004900-1793206025-Handyhalterung-Auto-Magnet-Vakuum.png",
+      "date": "Wed, 28 Oct 2026 16:45:45 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "This Roborock Vacuum and Mop Is 28% Off Right Now",
-      "description": "The Roborock Qrevo 2 Pro robot vacuum and mop is down to $649.98 from $899.99 at Amazon.",
-      "url": "https://lifehacker.com/tech/roborock-qrevo-2-pro-sale-october-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M5Y2WDFW3CV10GHN6N6GAVDB/hero-image.jpg",
-      "date": "Tue, 27 Oct 2026 13:00:00 +0000"
+      "source": "PCWorld",
+      "title": "Firefox 159 fixes 167 security flaws, including 13 sandbox escapes",
+      "description": "Firefox 159 has been released for Windows, macOS, Linux, and Android. It comes with a new password tool in the sidebar, over 160 security vulnerability fixes, and an “AI”-assisted feature for monitoring websites for changes. Updates are also available for the Firefox ESR versions. The next major release, Firefox 160, is scheduled for November 10th. What’s new in Firefox 159? Passwords saved in Firefox are available in the sidebar without you first having to enable the password tool in the sideba",
+      "url": "https://www.pcworld.com/article/3271386/firefox-159-fixes-167-security-flaws-including-13-sandbox-escapes.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3271386-0-05902200-1793203627-Firefox-logo-on-a-bold-high-contrast-background.jpg?quality=50&strip=all",
+      "date": "Wed, 28 Oct 2026 16:05:51 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "Google Is Using Data From Gmail and Drive to Target Ads, but You Can Stop It",
-      "description": "\"Personal Intelligence\" may be opening more of your data up to advertisers.",
-      "url": "https://lifehacker.com/tech/google-may-use-data-from-gmail-in-personal-intelligence-opt-out?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M5WHVDEK4J18D19FCDN683KH/hero-image.png",
-      "date": "Tue, 27 Oct 2026 12:30:00 +0000"
+      "source": "PCWorld",
+      "title": "Best laptops 2026: Premium, budget, gaming, 2-in-1, and more",
+      "description": "PCWorld has been testing and writing about PCs since 1983. That’s a long time! Today, we put more than 70 laptops through our review process every year, covering everything from affordable everyday laptops to powerful gaming machines . That kind of hands-on experience matters when you’re trying to buy a laptop. What begins as a simple Google search can quickly spiral into a maze of complicated processor names, graphic cards, and other specs that can be difficult to make sense of. That’s where we",
+      "url": "https://www.pcworld.com/article/436674/best-pc-laptops.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/436674-0-05234100-1793203225-best-budget-laptops.jpg?quality=50&strip=all",
+      "date": "Wed, 28 Oct 2026 16:00:00 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "These Are Lifehacker's 2026 'Gift of the Year' Award Winners",
-      "description": "We've got picks for the best smartphone, e-reader, gaming equipment, fitness tracker, and more.",
-      "url": "https://lifehacker.com/tech/lifehacker-award-winners-gift-of-the-year-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M4ZZYMWR84B7MQBXNW0TWEDN/hero-image.jpg",
-      "date": "Tue, 27 Oct 2026 11:00:00 +0000"
+      "source": "PCWorld",
+      "title": "Lenovo’s IdeaPad Slim 5i laptop is $650 off, but only through Saturday",
+      "description": "NOW $650 OFF Lenovo 16-inch IdeaPad Slim 5i Laptop View Deal If you’ve been waiting for the right time to get yourself a new laptop for work and streaming or browsing, then now’s the time to grab this Lenovo IdeaPad Slim 5i. Instead of shelling out $1,450, B&H is now selling it for just $800 —a huge $650 discount. In the past, this would not have been a great price for it, but given the massive price spikes in PC parts due to the AI-driven hardware shortage, this is a strong buy right now. This ",
+      "url": "https://www.pcworld.com/article/3271474/lenovos-ideapad-slim-5i-laptop-is-650-off-but-only-through-saturday.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3271474-0-50033600-1793199595-Lenovo-IdeaPad-Slim-5i-angled.jpg?quality=50&strip=all",
+      "date": "Wed, 28 Oct 2026 14:58:35 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "These High-End Marshall Headphones Are Under $200 Right Now",
-      "description": "If you want bold design and lively sound at a significant discount, this Marshall Monitor III deal is worth a look.",
-      "url": "https://lifehacker.com/tech/marshall-monitor-iii-anc-headphones-sale-october-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01KJQQ6NK7D20KC1YJPGC4GXDQ/hero-image.jpg",
-      "date": "Mon, 26 Oct 2026 20:30:45 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "This 'Nothing' Fitness Smartwatch Is on Sale for $59",
-      "description": "This Nothing fitness smartwatch has 130 sports modes, built-in AI, and can record and auto-transcribe your conversations.",
-      "url": "https://lifehacker.com/tech/nothing-cmf-pro-3-deal-october-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01KGMY2W2GXP0NP5Y7HPWDDC6T/hero-image.jpg",
-      "date": "Mon, 26 Oct 2026 19:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "What I Love (and What I Don't) About the New Una Fitness Watch",
-      "description": "The Una watch charges over USB-C and is made to be repairable and developer-friendly.",
-      "url": "https://lifehacker.com/health/una-watch-review?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M5WQKVKKKVN4JDTWC3MSWD90/hero-image.jpg",
-      "date": "Mon, 26 Oct 2026 19:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "‘Loser Core,’ ‘EBK,’ and Other Gen Z and Gen Alpha Slang You Might Need Help Decoding",
-      "description": "Use our in-depth glossary to find out if you're a based chad who has aura or a delulu chud in danger of being mogged.",
-      "url": "https://lifehacker.com/entertainment/guide-to-gen-z-and-gen-alpha-slang?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01HW96DTWTS3NVFYV43RH258NM/hero-image.jpg",
-      "date": "Mon, 26 Oct 2026 18:00:00 +0000"
+      "source": "PCWorld",
+      "title": "Windows File History broken? How to fix it and restore your files",
+      "description": "Did you know that Windows can automatically back up your files to an external drive or network share? SO if your SSD fails or you need to reinstall Windows, you can quickly restore your files. It’s called File History. If File History isn’t working, there are two possible reasons. First, you may have forgotten to enable it, as it’s disabled by default in Windows. Second, there may be configuration issues. In this case, resetting the feature might help. You can access File History through the Con",
+      "url": "https://www.pcworld.com/article/3267225/windows-file-history-how-to-reset-it-if-you-encounter-problems.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3267225-0-43206900-1793197859-microsoft.jpg?quality=50&strip=all",
+      "date": "Wed, 28 Oct 2026 14:30:00 +0000"
     },
     {
       "category": "eng",
@@ -679,51 +724,6 @@
       "url": "https://www.pcworld.com/article/3270796/one-prompt-made-chatgpt-claude-and-gemini-stop-acting-like-my-buddy.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3270796-0-07800300-1793188821-ChatGPT-work.jpg?quality=50&strip=all",
       "date": "Wed, 28 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Who needs a fancy Stream Deck when you have your phone?",
-      "description": "You know those fancy Elgato’s Stream Decks? Those sweet looking, handy gadgets that all of your favorite streamers use to juggle different apps. They’re pretty cool, but they’re also pretty expensive—more expensive than most mechanical keyboards or gaming mice in fact. But if you’ve got a phone or tablet lying around, you can get pretty much the same functionality for free. All you need is your device and the Touch Portal app. It’s basically a freemium alternative to the Stream Deck and it turns",
-      "url": "https://www.pcworld.com/article/3268834/who-needs-a-fancy-stream-deck-when-you-have-your-phone.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3268834-0-96745300-1793183424-promo_001.jpg?quality=50&strip=all",
-      "date": "Wed, 28 Oct 2026 10:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Microsoft Office Apps drop to $15 with no subscription",
-      "description": "TL;DR: Skip Microsoft 365 and get a Microsoft Office Professional Plus 2019 lifetime license for Windows for $14.97 (reg. $229). Microsoft 365 bills you every year to keep Word and Excel on your PC. If you’d rather pay once, a Microsoft Office Professional Plus 2019 for Windows lifetime license is on sale for $14.97 (reg. $229). You get Word, Excel, PowerPoint, Outlook, OneNote, Publisher, and Access as desktop apps on one Windows 10 or 11 PC. All seven run fully offline, and your license is tie",
-      "url": "https://www.pcworld.com/article/3270962/microsoft-office-apps-drop-to-15-with-no-subscription.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3270962-0-37340500-1793174460-sale_xxxxx_article_image.jpg?quality=50&strip=all",
-      "date": "Wed, 28 Oct 2026 08:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "It’s time to Join Costco for $65 and get a $45 Digital Costco Shop Card*",
-      "description": "TL;DR: New Gold Star Members who join Costco for $65 receive a $45 Digital Costco Shop Card *. Buying groceries and household basics helps stretch your budget further and keeps you from making multiple trips for the same items. Some could argue that the best way to buy in bulk is simply to get a 1-Year Costco Gold Star Membership for $65, and new Gold Star Members who join through this promotion receive a $45 Digital Costco Shop Card* . You can put that card toward a warehouse trip or an order o",
-      "url": "https://www.pcworld.com/article/3270967/its-time-to-join-costco-for-65-and-get-a-45-digital-costco-shop-card.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3270967-0-58642900-1793174471-sale_327464_article_image_551031.jpg?quality=50&strip=all",
-      "date": "Wed, 28 Oct 2026 08:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Best free VPN for Android: 5 top picks you can trust",
-      "description": "A good free VPN for Android can help keep you safe on public Wi-Fi, unblock region-restricted streaming content, and more. Best of all, you can get these benefits without adding another monthly subscription to your bills. The hard part is finding a free VPN you can actually trust. The Google Play Store is flooded with options, and not all of them have your best interests in mind. Some collect your data or bombard you with ads, and others are just downright shady. I’ve tested dozens of VPNs on bo",
-      "url": "https://www.pcworld.com/article/695190/best-free-vpn-for-android.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/695190-0-73731900-1793133561-android-phone.jpg?quality=50&strip=all",
-      "date": "Tue, 27 Oct 2026 20:39:13 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Microsoft pulls 7 eMudhra certificates from Windows. Here’s what that means",
-      "description": "Yesterday, October 26th, Microsoft released a Windows security update that removes seven certificates associated with Indian company eMudhra. The reason for this is that the private keys for eight intermediate certificates held by eMudhra were recently discovered to be so weak that they could be easily recreated, allowing attackers to forge digital certificates and pose as legitimate websites or applications. Microsoft had previously blocked the affected certificates directly on October 20th, bu",
-      "url": "https://www.pcworld.com/article/3270717/microsoft-pulls-7-emudhra-certificates-from-windows-heres-what-that-means.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3270717-0-70191800-1793119373-4_e39236.png",
-      "date": "Tue, 27 Oct 2026 16:41:35 +0000"
     }
   ],
   "starwars": [
@@ -1002,6 +1002,15 @@
     {
       "category": "youtube",
       "source": "Hood Informatik",
+      "title": "Video auf Anfrage durch eure DMs :) ich persönlich würde eher auf MVT von Amnesty zurückgreifen",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/rM2PVN9Lzco",
+      "image": "https://i.ytimg.com/vi/rM2PVN9Lzco/hqdefault.jpg",
+      "date": "2026-10-28T17:45:26+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
       "title": "Das Privacy Paradox erklärt #informatik #cybersecurity #privacy #bildung",
       "description": "",
       "url": "https://www.youtube.com/shorts/ByAtxL2xynk",
@@ -1079,15 +1088,6 @@
       "url": "https://www.youtube.com/shorts/Wb1GocgvZA0",
       "image": "https://i.ytimg.com/vi/Wb1GocgvZA0/hqdefault.jpg",
       "date": "2026-10-19T17:00:03+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Eine Werbeanzeige als Zero Click Exploit ?! #informatik #spy #cybersecurity #news #spyware",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/pCVwu6ydZkQ",
-      "image": "https://i.ytimg.com/vi/pCVwu6ydZkQ/hqdefault.jpg",
-      "date": "2026-10-18T16:15:32+00:00"
     },
     {
       "category": "youtube",
@@ -1182,6 +1182,15 @@
     {
       "category": "youtube",
       "source": "MrMario2011",
+      "title": "Mario's Minute 106 - XBOX LABS Joins in the Decomp & Recomp Craze",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=CZBw4sxFBdI",
+      "image": "https://i.ytimg.com/vi/CZBw4sxFBdI/hqdefault.jpg",
+      "date": "2026-10-28T17:00:08+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
       "title": "How to Use FTP on a Modded Xbox 360 with Aurora - Network File Transfer Setup",
       "description": "",
       "url": "https://www.youtube.com/watch?v=xf9HqSbZLsg",
@@ -1259,15 +1268,6 @@
       "url": "https://www.youtube.com/watch?v=P2hOdoLzQ38",
       "image": "https://i.ytimg.com/vi/P2hOdoLzQ38/hqdefault.jpg",
       "date": "2026-09-19T17:00:35+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Run ABadAvatar from an Internal Drive - ABadAvatar HDD Setup & Transfer",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=seOPwVF3YEM",
-      "image": "https://i.ytimg.com/vi/seOPwVF3YEM/hqdefault.jpg",
-      "date": "2026-09-12T17:00:38+00:00"
     }
   ]
 }
