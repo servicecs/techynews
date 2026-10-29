@@ -1,6 +1,87 @@
 {
-  "updated": "2026-10-29T09:34:19.898711+00:00",
+  "updated": "2026-10-29T16:42:49.028187+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Canonical повторно го започна развојот на „непроменлива“ верзија на Ubuntu која долгорочно треба да стане стандардна",
+      "description": "Canonical повторно го започна развојот на Ubuntu Core Desktop, „immutable“, односно „непроменлива“ верзија на Ubuntu за десктоп компјутерите. Проектот беше претставен како пробна верзија за програмери во 2023 година, но оттогаш стои во место, а сега на него работи посебен тим, според објавата на Џон Сигер, потпретседател за инженеринг во Canonical кој го води развојот на Ubuntu. […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/canonical-povtorno-razvoj-ubuntu-core-desktop/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/ubuntu-core-desktop-blog-1-150x150.webp",
+      "date": "Thu, 29 Oct 2026 13:31:05 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Таблета против ќелавост кај мажите со позитивни резултати од испитување на повеќе од 500 учесници",
+      "description": "Американската компанија Veradermics објави позитивни резултати од третата фаза на клиничкото испитување на VDPHL01, таблета против наследната ќелавост кај мажите. Станува збор за миноксидил со продолжено ослободување, супстанција што веќе се користи како средство за на скалпот, а првично е развиена како лек за висок крвен притисок. За разлика од потенцијалниот лек за ќелавост за кој пишувавме пред повеќе […]",
+      "url": "https://smartportal.mk/novosti/nauka-istrazuvanja/tableta-protiv-kelavost-mazi-500-ucesnici/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/middle-aged-man-concerned-by-Depositphotos_160881156_XL-150x150.webp",
+      "date": "Thu, 29 Oct 2026 13:21:58 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "„Korpa“ е првата онлајн платформа во Македонија која воведе плаќање преку Apple Pay и Google Pay",
+      "description": "Korpa, домашната онлајн палтформа за нарачка и достава на храна и намирници, е првиот е-трговец во Македонија што воведе плаќање преку Apple Pay и Google Pay. Оваа новина е особено значајна во време кога мобилниот телефон станува главен канал за секојдневно купување, од омилен оброк, до намирници и мебел за дома, па затоа се потребни […]",
+      "url": "https://smartportal.mk/novosti/servisi/korpa-prva-platforma-plakjanje-apple-pay-google-pay/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/кorpa-pay-1-150x150.webp",
+      "date": "Thu, 29 Oct 2026 11:31:08 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Riff е бесплатна неофицијална апликација за Spotify на Linux, но работи само со Premium претплата",
+      "description": "Spotify има официјална апликација за Linux, но самата компанија пишува дека ја прават нејзини инженери во слободно време и дека Linux засега не е платформа што активно ја поддржува. Вакво нешто остава простор за неофицијални алтернативи, а една од нив е Riff, бесплатна апликација со отворен код наменета за GNOME околината. Riff е продолжение на Spot, клиентот што Александр Трендел […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/riff-besplatna-neoficijalna-spotify-linux-aplikacija/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/albums-image-only-light-150x150.webp",
+      "date": "Thu, 29 Oct 2026 11:18:05 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Reddit воведува „For You“ листа со препораки покрај листата само со заедниците во кои членувате",
+      "description": "Reddit го менува изгледот на почетната страница, па корисниците при отворање на платформата ќе можат да бираат меѓу две листи со новости, „For You“ и „Following“. Новината е објавена во блог објава на компанијата, а постепено ќе се воведува ширум светот во следните неколку недели. „For You“ ги комбинира објавите од заедниците во кои сте зачленети […]",
+      "url": "https://smartportal.mk/novosti/socijalni-mrezi/reddit-voveduva-for-you-lista/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/06/Depositphotos_451583206_XL-150x150.webp",
+      "date": "Thu, 29 Oct 2026 11:03:19 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Windows 11 постепено ги добива новите „контекстуални“ менија кои се побрзи и можат да се прилагодат",
+      "description": "Microsoft почна да ги воведува новите „контекстуални“ менија во Windows 11, односно менијата што се отвораат со десен клик врз датотека, папка или празен дел од екранот. Тие се дел од опционалната надградба KB5127936, објавена на 28 октомври за верзиите 25H2 и 26H2 на системот. Според Microsoft, новото мени е „побрзо, поедноставно и може повеќе да […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/windows-11-postepeno-gi-dobiva-novite-kontekstualni-menija/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/06/Screenshot-2026-06-04-145432-150x150.webp",
+      "date": "Thu, 29 Oct 2026 10:45:06 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Google следната година повеќе ќе внимава како работат апликациите на телефоните на преклоп",
+      "description": "Google на Android Dev Summit, конференцијата за Android програмери, најави дека Google Play следната година внимателно ќе следи како апликациите и игрите работат на телефоните на преклоп. Најавата дојде во објавата на Метју Маккалоу, потпретседател за управување со производи во Android, каде се наведува дека програмерите ќе добијат „повеќе можности да покажат“ дека нивните апликации се прилагодливи. […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/google-ke-vnimava-kako-rabotat-aplikaciite-na-telefonite-na-preklop/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/08/P11PF_Obsidian.width-2000.format-webp-150x150.webp",
+      "date": "Thu, 29 Oct 2026 10:33:11 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Samsung ги претстави Galaxy Buds On, своите први слушалки со штипка што не го затвораат увото",
+      "description": "Samsung ги претстави Galaxy Buds On, безжични слушалки што се закачуваат на увото со штипка, наместо да се ставаат во ушниот канал. Компанијата ги нарекува свои први слушалки со отворен дизајн („open-ear“), а во продажба прво стигнаа во Јужна Кореја на 27 октомври. Според Samsung, обликот е развиен врз основа на повеќе од 119 милиони податоци за ушите, а лентата […]",
+      "url": "https://smartportal.mk/novosti/uredi/samsung-galaxy-buds-on/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main1-150x150.webp",
+      "date": "Thu, 29 Oct 2026 10:06:14 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Mullvad ги гаси своите јавни шифрирани DNS сервери и наместо нив финансиски ќе го поддржува Quad9",
+      "description": "Шведската компанија Mullvad, позната по VPN услугата и по прелистувачот Mullvad Browser, на 2 ноември ќе ги исклучи своите јавни шифрирани „DNS“ сервери. Одлуката ја најавија уште на почетокот на септември, а наместо сами да ја водат услугата, ќе ја поддржуваат финансиски швајцарската непрофитна фондација Quad9. Mullvad овие сервери ги нуди од 2022 година и […]",
+      "url": "https://smartportal.mk/novosti/veb-i-bezbednost/mullvad-go-gasi-dns-servisot/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/03/Mullvad_Browser_logo.svg_.webp",
+      "date": "Thu, 29 Oct 2026 09:34:42 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -12,264 +93,183 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "DuckDuckGo оваа година донира милион долари на организации за приватност, безбедност и конкуренција на интернет",
-      "description": "DuckDuckGo, компанијата позната по пребарувачот и прелистувачот фокусирани на приватноста, ги објави годинешните донации. Оваа година компанијата дава 1.000.000 долари на организации кои, според DuckDuckGo, работат интернетот да биде поприватен, побезбеден и со поголема конкуренција. Ова е 16. година по ред во која DuckDuckGo донира, а вкупната сума од 2011 година наваму, според нивната страница за донации, надминува […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/duckduckgo-donira-milion-dolari/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/charitable-donations-hero-image-2-150x150.webp",
-      "date": "Thu, 29 Oct 2026 09:05:25 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Mozilla работи на мал лебдечки прозорец, читање на глас и режим без интернет за Firefox",
-      "description": "Mozilla во нова објава на блогот ги издвои функциите на кои работи за Firefox, од јавниот план за развој што го објави во јуни. Објавата доаѓа месец откако Firefox го доби новиот изглед со вратениот компактен режим. Најинтересна новина е Mini Window, со која цел „таб“ или само дел од страница ќе може да се „извади“ во мал прозорец што лебди […]",
-      "url": "https://smartportal.mk/novosti/softver-prog/mozilla-patokaz-kraj-2026/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/Blog_Option_Nova-1.png-f-150x150.webp",
-      "date": "Wed, 28 Oct 2026 18:32:15 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Apple го претстави првиот MacBook Pro со OLED екран на допир и полесен дизајн",
-      "description": "Apple денес го претставија новиот MacBook Pro со PROLED XDR екран, во верзии од 14 и 16 инчи. Ова е првиот Mac со екран на допир, а го носи и Dynamic Island, делот од екранот што корисниците го познаваат од iPhone. Станува збор за уредот за кој пишуваше Марк Гурман и кој беше главната причина за денешниот настан во Лос […]",
-      "url": "https://smartportal.mk/novosti/kompjuteri/apple-go-pretstavi-prviot-macbook-pro-so-oled-ekran-na-dopir/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/macbook-pro-oled-touch-f-1-150x150.webp",
-      "date": "Wed, 28 Oct 2026 17:30:50 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Телеком ја пушти во употреба првата 5G+ мрежа во Македонија",
-      "description": "Македонски Телеком официјално ја пушти во употреба првата самостојна 5G+ мрежа во Македонија – 5G Standalone, со што започнува нова ера во развојот на мобилните услуги. Станува збор за една од најголемите технолошки промени во мобилните мрежи во последната деценија, која создава основа за поперсонализирано, пофлексибилно и посигурно поврзување. Со овој технолошки исчекор, Македонски Телеком продолжува […]",
-      "url": "https://smartportal.mk/novosti/tehnologii/telekom-ja-pusti-prvata-5g-plus-mreza-vo-mk/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/14-11-of-32-150x150.webp",
-      "date": "Wed, 28 Oct 2026 14:29:33 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "THE FUNDING ROOM: PITCH EDITION – простор каде добрата идеја станува подобар „pitch“",
-      "description": "На 5 ноември 2026 година, од 14:00 до 16:00 часот, во INNOFEIT EDIH во Скопје ќе се одржи THE FUNDING ROOM: PITCH EDITION – практичен настан наменет за стартапи, мали и средни бизнис и и претприемачи кои сакаат подобро да ја претстават својата бизнис-идеја пред потенцијални инвеститори, партнери и извори на финансирање. Добрата бизнис-идеја е […]",
-      "url": "https://smartportal.mk/novosti/nastani/the-funding-room-pitch-edition/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/THE-FUNDING-ROOM_-Pitch-edition_Covers-2-150x150.webp",
-      "date": "Wed, 28 Oct 2026 14:06:32 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Шест месеци со Gemini: Секојдневни можности на Galaxy S26 FE",
-      "description": "Скопје, 28 октомври 2026 година– Презентација за подготовка, викенд за планирање, идеја што вреди да се истражи. Со Galaxy AI и шестмесечен пробен период за Google AI Pro (достапен за корисници кои ги исполнуваат условите), Galaxy S26 FE ви ги става на располагање практичните алатки со вештачка интелигенција во текот на целиот ден. Кафето е […]",
-      "url": "https://smartportal.mk/novosti/smartfoni/sest-meseci-so-gemini-galaxy-s26-fe/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/S26-FE-f-150x150.webp",
-      "date": "Wed, 28 Oct 2026 11:17:14 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Warner Bros. го објави последниот „трејлер“ за Dune: Part Three, завршниот дел од адаптацијата на Дени Вилнев",
-      "description": "Warner Bros. вчера го објави последниот „трејлер“ за Dune: Part Three, третиот и завршен дел од адаптацијата на Дени Вилнев на научно-фантастичната сага на Френк Херберт. По мрачниот „тизер“ во март и „трејлерот“ во јули, овој пат студиото покажува многу повеќе акција, а Пол Атреидес (Тимоти Шаламе) веќе не е херојот од првите два филма. „По години […]",
-      "url": "https://smartportal.mk/novosti/interesno/warner-bros-posleden-trejler-za-dune-part-three/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/maxresdefault-150x150.jpg",
-      "date": "Wed, 28 Oct 2026 10:56:03 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Google DeepMind го претстави Genie 4, модел кој создава интерактивни светови со звук и говор",
-      "description": "Google DeepMind го претстави Genie 4, новата генерација на нивниот „world model“, односно модел што создава интерактивни светови низ кои корисникот се движи во реално време. Според компанијата, сликата е значително пореалистична, а звукот, музиката и дијалозите се генерираат истовремено со светот. Движењето и камерата се контролираат со тастатура, а со текстуални насоки сцената може […]",
-      "url": "https://smartportal.mk/novosti/ai/google-deepmind-genie-4/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/google-genie-4-f-150x150.webp",
-      "date": "Wed, 28 Oct 2026 10:26:07 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Instagram тестира хоризонтални видеа до 90 минути наменети за поткасти и подолги емисии",
-      "description": "Instagram почна да го тестира Features, нов формат за хоризонтални видеа долги до 90 минути, наменет за водители на поткасти, комичари и други креатори на подолга содржина. Тестот почна во понеделник, 26 октомври, со избрани креатори во САД, а го најавија шефот на Instagram, Адам Мосери и потпретседателката за производи, Теса Лајонс, во заедничко видео. Повеќе […]",
-      "url": "https://smartportal.mk/novosti/socijalni-mrezi/instagram-testira-horizontalni-videa-do-90-minuti/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/06/Depositphotos_743526370_XL-150x150.webp",
-      "date": "Wed, 28 Oct 2026 09:43:08 +0000"
+      "source": "Time.mk - All",
+      "title": "В НЕДЕЛА, ГРАЃАНИТЕ НОСАТ КОНЕЧНА ОДЛУКА: Се тесни отворот на гласачките кутии во Брвеница за етничките гласачки ливчиња | Вечер Прес",
+      "description": "",
+      "url": "https://time.mk/c/321615dbc2/v-nedela-gragjanite-nosat-konecna-odluka-se-tesni-otvorot-na-glasackite-kutii-vo-brvenica-za-etnickite-glasacki-livcinja.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/dsc_1489-scaled-e1793286440768.jpg",
+      "date": "Thu, 29 Oct 2026 15:09:00 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Финансиски злоупотреби во здравството – Под лупа и компанија со три болници во Скопје | Press24",
+      "title": "Муцунски: Нема никаква гаранција дека ќе има решение со Бугарија – Македонија не прифаќа привремена санација на проблемот | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/1489a06caf/finansiski-zloupotrebi-vo-zdravstvoto-pod-lupa-i-kompanija-so-tri-bolnici-vo-skopje.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/80176.jpg",
-      "date": "Thu, 29 Oct 2026 09:20:49 +0000"
+      "url": "https://time.mk/c/8f7c92aa21/mucunski-nema-nikakva-garancija-deka-ke-ima-resenie-so-bugarija-makedonija-ne-prifaka-privremena-sanacija-na-problemot.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1793288222/lrqdm3keefjylbf1pumr.jpg",
+      "date": "Thu, 29 Oct 2026 16:06:51 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Ревизија со позитивна оценка за трошењето на парите од унгарскиот кредит | Press24",
+      "title": "(Видео) Трајчулески до Мицкоски: Како гарантирате контрола врз границите по бегствата и случајот со петте тони дрога | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/d41f4c789a/revizija-so-pozitivna-ocenka-za-trosenjeto-na-parite-od-ungarskiot-kredit.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/80180.png",
-      "date": "Thu, 29 Oct 2026 09:30:40 +0000"
+      "url": "https://time.mk/c/daa211ea9b/video-trajculeski-do-mickoski-kako-garantirate-kontrola-vrz-granicite-po-begstvata-i-slucajot-so-pette-toni-droga.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/mitko-trajchuleski.webp",
+      "date": "Thu, 29 Oct 2026 16:16:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Светска банка со песимистички прогнози за енергијата и за храната | Независен",
+      "title": "Детали за акцијата на МВР за сомнителни операции на очи: Уапсени осум лица, штета од 1,7 милиони евра | 4NEWS",
       "description": "",
-      "url": "https://time.mk/c/6ea6c2336f/svetska-banka-so-pesimisticki-prognozi-za-energijata-i-za-hranata.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2022/06/world-bank.jpg",
-      "date": "Thu, 29 Oct 2026 09:26:49 +0000"
+      "url": "https://time.mk/c/a67e9590c5/detali-za-akcijata-na-mvr-za-somnitelni-operacii-na-oci-uapseni-osum-lica-steta-od-1-7-milioni-evra.html",
+      "image": "https://4news.mk/wp-content/uploads/2022/09/najnova-vest-4news-1024x538.png",
+      "date": "Thu, 29 Oct 2026 14:51:10 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Дроновите што го погодија бродот кај Бугарија дојдоа од исток, вели пензиониран бугарски адмирал | Слободен Печат",
+      "title": "Јаневска ветува повисока субвенција за студентски оброк — студентите бараат конкретна сума и рок | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/4207978f33/dronovite-sto-go-pogodija-brodot-kaj-bugarija-dojdoa-od-istok-veli-penzioniran-bugarski-admiral.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2025/06/tovaren-brod-pozar-300x138.png",
-      "date": "Thu, 29 Oct 2026 08:54:51 +0000"
+      "url": "https://time.mk/c/f04bdd2537/janevska-vetuva-povisoka-subvencija-za-studentski-obrok-studentite-baraat-konkretna-suma-i-rok.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2025/08/Vesna-Janevska-ministerka-za-obrazovanie-i-nauka-1-scaled-e1776441747223-300x173.jpg",
+      "date": "Thu, 29 Oct 2026 12:38:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Дигиталната лична карта служи само како трик за пред пријатели, институциите не ја признаваат | Трн",
+      "title": "Проектот „Поддршка во спроведувањето на директивите за квалитет на воздухот“ ги зајакнува основите за почист воздух во Северна Македонија | Трн",
       "description": "",
-      "url": "https://time.mk/c/542bdc8d07/digitalnata-licna-karta-sluzi-samo-kako-trik-za-pred-prijateli-instituciite-ne-ja-priznavaat.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/10/muslugi.jpg",
-      "date": "Thu, 29 Oct 2026 09:12:54 +0000"
+      "url": "https://time.mk/c/e54ba289e3/proektot-poddrska-vo-sproveduvanjeto-na-direktivite-za-kvalitet-na-vozduhot-gi-zajaknuva-osnovite-za-pocist-vozduh-vo-severna-makedonija.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/10/20261029_101544.jpg",
+      "date": "Thu, 29 Oct 2026 13:30:53 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ЛДП: Разоткриена лага за само еден ден! Ветува помалку шалтери, а во заднина спрема масовно пумпање на партиската администрација! | Макфакс",
+      "title": "ДЗР: Министерството за финансии доцнело до 48 работни дена во исплатата на 230 милиони евра | Мета",
       "description": "",
-      "url": "https://time.mk/c/cca11e95ec/ldp-razotkriena-laga-za-samo-eden-den-vetuva-pomalku-salteri-a-vo-zadnina-sprema-masovno-pumpanje-na-partiskata-administracija.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/ldp-soopst2910.webp",
-      "date": "Thu, 29 Oct 2026 08:34:54 +0000"
+      "url": "https://time.mk/c/e3a090602e/dzr-ministerstvoto-za-finansii-docnelo-do-48-rabotni-dena-vo-isplatata-na-230-milioni-evra.html",
+      "image": "https://meta.mk/wp-content/uploads/2024/06/8dc47177-c88c-4abc-b67a-5b094bc5ea47-800x450.jpg.webp",
+      "date": "Thu, 29 Oct 2026 12:44:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Слабите приходи на „Алфабет“ пак го отворија прашањето дали вложувањата во ВИ се оправдани | Bloomberg Adria",
+      "title": "Мицкоски: Оваа Влада интервенираше за да имаме најниски цени на горива во регионот; за време на минатата влада во 2022 година цената беше 2 евра | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/b82f41689a/slabite-prihodi-na-alfabet-pak-go-otvorija-prasanjeto-dali-vlozuvanjata-vo-vi-se-opravdani.html",
-      "image": "https://mk.bloombergadria.com/data/images/2026-10-29/119535_472817057_f.jpg?timestamp=1793228400",
-      "date": "Thu, 29 Oct 2026 09:04:53 +0000"
+      "url": "https://time.mk/c/da61c6e990/mickoski-ovaa-vlada-intervenirase-za-da-imame-najniski-ceni-na-goriva-vo-regionot-za-vreme-na-minatata-vlada-vo-2022-godina-cenata-bese-2-evra.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/87054/conversions/text-max.jpg",
+      "date": "Thu, 29 Oct 2026 15:22:39 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Пониските камати ја намалија добивката: Стопанска банка заработи 38,1 милион евра | Пари",
+      "title": "(Видео) Карпа се откорна и падна врз луѓе во Турција, двајца загинати | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/4292136ab7/poniskite-kamati-ja-namalija-dobivkata-stopanska-banka-zaraboti-38-1-milion-evra.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/10/Pari_stopanska-nadolna-linija_1.png",
-      "date": "Thu, 29 Oct 2026 09:01:21 +0000"
+      "url": "https://time.mk/c/44a00bfe93/video-karpa-se-otkorna-i-padna-vrz-lugje-vo-turcija-dvajca-zaginati.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/policija-turcija-policeman-street-istanbul-turkey-depositphotos_398283748_l.webp",
+      "date": "Thu, 29 Oct 2026 15:54:41 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Србија по изборите: По победата на Студентската листа растат повиците за истраги, лустрација и конфискација на имот | Deutsche Welle",
+      "title": "Студентската листа бара оставки и пријавување на уништување докази | Колегиум",
       "description": "",
-      "url": "https://time.mk/c/85074c337b/srbija-po-izborite-po-pobedata-na-studentskata-lista-rastat-povicite-za-istragi-lustracija-i-konfiskacija-na-imot.html",
-      "image": "https://static.dw.com/image/79766589_302.jpg",
-      "date": "Thu, 29 Oct 2026 06:40:55 +0000"
+      "url": "https://time.mk/c/abe0038a3c/studentskata-lista-bara-ostavki-i-prijavuvanje-na-unistuvanje-dokazi.html",
+      "image": "https://kolegium.mk/wp-content/uploads/2026/10/2e2f2a1f-697d-4ca4-ea80-08df13afe2a0_cx0_cy18_cw0_w1023_r1_s-300x169.avif",
+      "date": "Thu, 29 Oct 2026 15:54:41 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Албанија воведува казни до 5.500 евра за демонстрантите | Независен",
+      "title": "Три разговори што доведоа до трагедијата: Шпанија е шокирана од аудиоснимките од комуникацијата меѓу контролорот и машиновозачот | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/d2a99bda1e/albanija-voveduva-kazni-do-5-500-evra-za-demonstrantite.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/10/Tirana-protesti-3-bg.jpg",
-      "date": "Thu, 29 Oct 2026 06:46:42 +0000"
+      "url": "https://time.mk/c/98b81e00d4/tri-razgovori-sto-dovedoa-do-tragedijata-spanija-e-sokirana-od-audiosnimkite-od-komunikacijata-megju-kontrolorot-i-masinovozacot.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/sudir-vozovi-spanija-epa-okt-26.jpg",
+      "date": "Thu, 29 Oct 2026 15:40:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Волстрит расте и покрај високите камати – технолошките гиганти го хранат оптимизмот, но инфлацијата останува закана | Пари",
+      "title": "Кристин Лагард: Патот на „челичната дама“ | Независен",
       "description": "",
-      "url": "https://time.mk/c/f6961e587d/volstrit-raste-i-pokraj-visokite-kamati-tehnoloskite-giganti-go-hranat-optimizmot-no-inflacijata-ostanuva-zakana.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/10/Wall-street-nadvor-1.jpg",
-      "date": "Thu, 29 Oct 2026 08:56:44 +0000"
+      "url": "https://time.mk/c/a1ecf1c828/kristin-lagard-patot-na-celicnata-dama.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2021/12/lagard-evro-banknoti-3.jpg",
+      "date": "Thu, 29 Oct 2026 14:30:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Насекаде имаше куфери, тела и искршени прозорци“: Новинар раскажува за ужасот по судирот на возовите во Шпанија | Скопје1",
+      "title": "Завршија есенската дератизација и дезинфекцијата во Илинден | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/25edf5c46e/nasekade-imase-kuferi-tela-i-iskrseni-prozorci-novinar-raskazuva-za-uzasot-po-sudirot-na-vozovite-vo-spanija.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/87002/conversions/text-max.jpg",
-      "date": "Thu, 29 Oct 2026 07:10:41 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "(Фото) Општина Карпош: 180 нови дрвја за почиста и поздрава животна средина | Макфакс",
-      "description": "",
-      "url": "https://time.mk/c/a8119962ac/foto-opstina-karpos-180-novi-drvja-za-pocista-i-pozdrava-zivotna-sredina.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/novi-drvja-karpos-1.webp",
-      "date": "Thu, 29 Oct 2026 09:22:44 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "(Фото) Герасимовски: Ново детско игралиште и вежбалница во Градски ѕид, создаваме катчиња за одмор и рекреација | Макфакс",
-      "description": "",
-      "url": "https://time.mk/c/ac9a634ef8/foto-gerasimovski-novo-detsko-igraliste-i-vezbalnica-vo-gradski-zid-sozdavame-katcinja-za-odmor-i-rekreacija.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/detsko-igraliste-centar-1.webp",
-      "date": "Thu, 29 Oct 2026 08:05:12 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "(Фото) Вонредни контроли и во месарниците: во Радовиш и Пепелиште одземени околу 2 тони месо и производи од месо | Макфакс",
-      "description": "",
-      "url": "https://time.mk/c/814c4a5bc3/foto-vonredni-kontroli-i-vo-mesarnicite-vo-radovis-i-pepeliste-odzemeni-okolu-2-toni-meso-i-proizvodi-od-meso.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/meso-ahv-kontrola.webp",
-      "date": "Thu, 29 Oct 2026 08:12:55 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Приведен 60-годишен гостиварец баран за разбојничка кражба | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/223aea45f1/priveden-60-godisen-gostivarec-baran-za-razbojnicka-krazba.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/80214/conversions/text-max.jpg",
-      "date": "Thu, 29 Oct 2026 09:32:54 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Валандово со проекти вредни милиони денари, финансиска поддршка и за учениците | Press24",
-      "description": "",
-      "url": "https://time.mk/c/06a4171c67/valandovo-so-proekti-vredni-milioni-denari-finansiska-poddrska-i-za-ucenicite.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/80160.jpg",
-      "date": "Thu, 29 Oct 2026 08:32:39 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Промоција на апликација за мапирање на пристапност на институциите | Бизнис Вести",
-      "description": "",
-      "url": "https://time.mk/c/629f049f38/promocija-na-aplikacija-za-mapiranje-na-pristapnost-na-instituciite.html",
+      "url": "https://time.mk/c/6203b70702/zavrsija-esenskata-deratizacija-i-dezinfekcijata-vo-ilinden.html",
       "image": "",
-      "date": "Thu, 29 Oct 2026 06:46:42 +0000"
+      "date": "Thu, 29 Oct 2026 13:07:28 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Еуродрам“ 25 години ги поддржува драмските автори да стигнат до печатно издание или изведба на сцена | Умно",
+      "title": "Сервал, ракун, бели пауни и лебеди — егзотични животни пристигнаа во зоолошките градини во Скопје и во Битола | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/dcad227a8f/eurodram-25-godini-gi-poddrzuva-dramskite-avtori-da-stignat-do-pecatno-izdanie-ili-izvedba-na-scena.html",
-      "image": "https://umno.mk/wp-content/uploads/2026/10/euro.jpeg",
-      "date": "Thu, 29 Oct 2026 07:58:50 +0000"
+      "url": "https://time.mk/c/c4ab161bcf/serval-rakun-beli-pauni-i-lebedi-egzoticni-zivotni-pristignaa-vo-zooloskite-gradini-vo-skopje-i-vo-bitola.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/zoo-300x175.jpg",
+      "date": "Thu, 29 Oct 2026 12:00:57 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Во Кинотека две значајни годишници: 20 години од смртта на Димитрие Османли и 65 години од снимањето на „Мирно лето“ | Макфакс",
+      "title": "Во Битола над старата касарна отстранети 1.700 рачни бомби од Првата светска војна | Фокус",
       "description": "",
-      "url": "https://time.mk/c/4210e5ed42/vo-kinoteka-dve-znacajni-godisnici-20-godini-od-smrtta-na-dimitrie-osmanli-i-65-godini-od-snimanjeto-na-mirno-leto.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/10/dimitrie-osmanli.webp",
-      "date": "Thu, 29 Oct 2026 08:06:52 +0000"
+      "url": "https://time.mk/c/0eb562d89e/vo-bitola-nad-starata-kasarna-otstraneti-1-700-racni-bombi-od-prvata-svetska-vojna.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/10/20261029165212_big_730x400_85.webp",
+      "date": "Thu, 29 Oct 2026 16:18:38 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Нема што немал: Затвореник кој бил на отсуство, фатен со четири видови дрога кај себе - веднаш бил спроведен во „Шутка“ | Скопје инфо",
+      "description": "",
+      "url": "https://time.mk/c/52f3785c88/nema-sto-nemal-zatvorenik-koj-bil-na-otsustvo-faten-so-cetiri-vidovi-droga-kaj-sebe-vednas-bil-sproveden-vo-sutka.html",
+      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/oktomvri/image-263436.jpg?itok=mQXXqHMI",
+      "date": "Thu, 29 Oct 2026 13:44:45 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "САМОУБИСТВЕНИ ИЛИ МИСЛИ ЗА САМОПОВРЕДУВАЊЕ ИМАЛЕ 136 УЧЕНИЦИ ЖРТВИ НА САЈБЕРНАСИЛСТВО, СПОРЕД ИСТРАЖУВАЊЕ НА ПРОФЕСОРИ НА БИТОЛСКИОТ УНИВЕРЗИТЕТ | Сакам да кажам",
+      "description": "",
+      "url": "https://time.mk/c/ef60b4577a/samoubistveni-ili-misli-za-samopovreduvanje-imale-136-ucenici-zrtvi-na-sajbernasilstvo-spored-istrazuvanje-na-profesori-na-bitolskiot-univerzitet.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/10/istrazuvanje-sajber-nasilstvo-bitola-2026-1.jpg",
+      "date": "Thu, 29 Oct 2026 15:50:43 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Обука на наставниците за препознавање и работа со деца со дислексија | Вечер Прес",
+      "description": "",
+      "url": "https://time.mk/c/e09b879633/obuka-na-nastavnicite-za-prepoznavanje-i-rabota-so-deca-so-disleksija.html",
+      "image": "",
+      "date": "Thu, 29 Oct 2026 15:03:01 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Скопскиот филмски фестивал се враќа: Од 4 до 9 ноември врвни европски филмови и гости во Скопје | 24 Вести",
+      "description": "",
+      "url": "https://time.mk/c/d5963781e4/skopskiot-filmski-festival-se-vraka-od-4-do-9-noemvri-vrvni-evropski-filmovi-i-gosti-vo-skopje.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1793283034/plnmv1x3qejvtm1j9lr4.webp",
+      "date": "Thu, 29 Oct 2026 14:14:54 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Промоција на романот „Коулун, заградениот град“ од Јана Узунова | Трн",
+      "description": "",
+      "url": "https://time.mk/c/140f06fada/promocija-na-romanot-koulun-zagradeniot-grad-od-jana-uzunova.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/10/plakat-za-promoczija.jpg",
+      "date": "Thu, 29 Oct 2026 14:18:54 +0000"
     }
   ],
   "de": [
@@ -458,6 +458,42 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "10 Shows Like 'The Diplomat' You Should Watch Next",
+      "description": "More streaming shows that offer a blend of politics, espionage, and action.",
+      "url": "https://lifehacker.com/entertainment/best-shows-like-the-diplomat?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M5WGFPH5HG99EGSJBVP19GPZ/hero-image.jpg",
+      "date": "Thu, 29 Oct 2026 16:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "These Surprisingly Powerful Soundcore Earbuds Are Under $35 Right Now",
+      "description": "These ANC earbuds pack a feature set that's uncommon at this price.",
+      "url": "https://lifehacker.com/tech/soundcore-p31i-earbuds-sale-october-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01KNTR5YNXKR66MYEAWE18M43A/hero-image.jpg",
+      "date": "Thu, 29 Oct 2026 13:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Top-Rated 65-Inch LG OLED TV Is $200 Off Right Now",
+      "description": "PCMag calls the Evo C6 the best value OLED you can buy, and it's down to $1,400.",
+      "url": "https://lifehacker.com/tech/lg-65-inch-evo-c6-oled-tv-sale-october-29-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M4YRWR8ZNZKCBHHNZB4JCTQ4/hero-image.jpg",
+      "date": "Thu, 29 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "10 Hacks Every iCloud User Should Know",
+      "description": "iCloud is more than just cloud storage.",
+      "url": "https://lifehacker.com/tech/best-icloud-hacks?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M5NBWRZNJGXZHCQF72Q4CGJ8/hero-image.jpg",
+      "date": "Thu, 29 Oct 2026 12:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "10 Hacks Every Fitbit Edge User Should Know",
       "description": "Including how to save battery, ignore the AI coach, and get a better look at that tiny screen.",
       "url": "https://lifehacker.com/health/best-fitbit-edge-hacks?utm_medium=RSS",
@@ -601,132 +637,105 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "You Can Get These 'Nothing' Over-Ear Headphones for $55 Right Now",
-      "description": "Nothing's budget-friendly over-ear headphones boast 100 hours of battery life.",
-      "url": "https://lifehacker.com/tech/cmf-nothing-headphone-pros-sale-october-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01KECZ1614F2JM7CQ6C2J2KP20/hero-image.png",
-      "date": "Tue, 27 Oct 2026 20:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "My Favorite Travel Headphones Are $250 Off Right Now",
-      "description": "The JBL Tour One M3 headphones are perfect for airplanes and long trips",
-      "url": "https://lifehacker.com/tech/jbl-tour-one-m3-headphones-sale-october-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01KQWR732JFBMPKQJTF1YFGJHB/hero-image.jpg",
-      "date": "Tue, 27 Oct 2026 19:00:12 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "Google's 'Health Guardian' Is Now Available for Fitbits",
-      "description": "Blood pressure and insulin resistance estimates will be available for Fitbit users, for a fee.",
-      "url": "https://lifehacker.com/health/pixel-watch-fitbit-new-health-features?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M3MQWYRJ7FKXDB35SDZNX08W/hero-image.jpg",
-      "date": "Tue, 27 Oct 2026 18:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "If You Loved 'Carrie,' There's One Movie You Need to Watch Next",
-      "description": "If Mike Flanagan’s take on “Carrie” left you wanting more slow-burn horror with similar themes, there’s a perfect movie to watch.",
-      "url": "https://lifehacker.com/entertainment/movies-like-carrie?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M5Z6ZGZ2ECSAH4RAN3B53TJS/hero-image.jpg",
-      "date": "Tue, 27 Oct 2026 18:00:00 +0000"
+      "source": "PCWorld",
+      "title": "Best Windows backup software for PCs and laptops",
+      "description": "By now, the importance of backing up your Windows PC or laptop goes without saying. Just take a moment to consider how much of your data is at potential risk of a drive failure, natural disaster, or a bad actor, if you don’t have a solid backup plan in place. The best Windows backup software includes file backup, sure, but also disk imaging and full image restore, as well as disaster recovery. Our picks for best Windows backup software are selected with all the must-haves of data backup and reco",
+      "url": "https://www.pcworld.com/article/407021/best-windows-backup-software.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/407021-0-47883400-1793289633-backup-software_aufmacher.png",
+      "date": "Thu, 29 Oct 2026 16:00:00 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Got a big tech idea? Save 50% on TechCrunch Founder Summit – Last chance to book!",
-      "description": "Last chance to book Got a tech startup idea? Save 50% on TechCrunch Founder Summit with PCWORLD50 Get 50% Off Maybe you’ve built an app, developed an AI-powered tool, or have an idea for a tech business that you think could take off. But turning a great idea into a successful company takes more than technical know-how. You need the right people, the right advice, and a plan for making it happen. That’s where TechCrunch Founder Summit 2026 comes in. Taking place at Boston’s SoWa Power Station on ",
-      "url": "https://www.pcworld.com/article/3269126/save-50-on-techcrunch-founder-summit-tickets.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3269126-0-90102900-1793266046-TechCrunch-Founder-Summit.jpg?quality=50&strip=all",
-      "date": "Thu, 29 Oct 2026 09:24:15 +0000"
+      "title": "Best VPNs for Android: 5 top picks for phones and tablets",
+      "description": "For most of us, our phones are the main way we access the internet, so having a reliable VPN on Android is more important than ever. While plenty of VPNs work well on Windows, not all of them deliver the same experience on Android. I’ve tested dozens of services and narrowed them down to my favorites to help you find the right VPN for your phone or tablet. A good Android VPN needs to do more than just protect your privacy. It should be fast, reliable, and easy to use. To find the best options, I",
+      "url": "https://www.pcworld.com/article/403351/best-vpns-for-android.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/403351-0-47376500-1793286034-android-phone.jpg?quality=50&strip=all",
+      "date": "Thu, 29 Oct 2026 15:00:00 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Edit, convert, and sign PDFs for life with this $34.99 SwifDoo deal",
-      "description": "TL;DR: Get a SwifDoo PDF Pro lifetime license for Windows for $34.99 (reg. $129) and edit, convert, sign, and OCR PDFs on your PC. Free PDF viewers open files fine, but editing text, merging documents, or converting to Word usually means paying for a subscription. SwifDoo PDF Pro puts those tools in one Windows app, and a lifetime license is on sale for $34.99 (reg. $129). You can edit and annotate text, merge several files into one, split a long PDF into separate documents, and compress files t",
-      "url": "https://www.pcworld.com/article/3271548/edit-convert-and-sign-pdfs-for-life-with-this-34-99-swifdoo-deal.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3271548-0-22362700-1793260835-SwifDoo.jpg?quality=50&strip=all",
-      "date": "Thu, 29 Oct 2026 08:00:00 +0000"
+      "title": "A developer shrank Windows 11 down to just 667MB. It fits on a CD",
+      "description": "One developer has shrunk Windows 11—which, when fully installed, typically takes up to 35GB of storage space—down to an astonishing 667MB prior to installation and only 883MB after installation. That’s a 97.5% shrinkdown, and the end result is small enough to fit on a single CD. The project, called Pico11, is the brainchild of engineering student and developer NTDEV. He presented the proof of concept in a YouTube video , explaining that it’s not a finished product yet but still demonstrates the ",
+      "url": "https://www.pcworld.com/article/3272342/a-developer-shrank-windows-11-to-667mb-it-fits-on-a-cd.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3272342-0-53987400-1793283630-Windows-11-key-on-a-white-keyboard.jpg?quality=50&strip=all",
+      "date": "Thu, 29 Oct 2026 14:18:22 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "You can pay $15,000 to touch this MacBook Pro’s screen. Hurray?",
-      "description": "Imagine spending close to $15,000 on a night out and all anyone asks you was what the fork was made out of. That’s what Apple’s new MacBook Pro with PROLED XDR Display means in 2026, an Microsoft Surface Laptop Ultra clone that includes Apple’s first laptop touchscreen. But for the price—about $14,549 plus tax—the touchscreen itself fades into the background. That’s the Apple premium in 2026, where Macs now cost about what I paid for a used car a year or so ago. You know where this money is goin",
-      "url": "https://www.pcworld.com/article/3271689/you-can-pay-15000-to-touch-your-macbooks-screen-hurray.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3271689-0-80477600-1793217841-Apple-touchscreen-3.png",
-      "date": "Wed, 28 Oct 2026 20:03:48 +0000"
+      "title": "Oops! Use this new Windows 11 setting to roll back recent system damage",
+      "description": "Is a faulty update, a corrupted driver, or a botched system setting throwing Windows off course? With the new Point-in-Time Restore (PITR) feature, Windows 11 offers an additional way to restore the Windows drive to a previous state. We’ll show you step by step how to use the feature, what gets reset in the process, and what you should bear in mind during the restoration. What is Point-in-Time Restore? Point-in-Time Restore automatically saves local restore points for the Windows system. By defa",
+      "url": "https://www.pcworld.com/article/3256209/one-windows-11-setting-can-undo-the-last-72-hours-of-damage.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3256209-0-18743700-1793282434-Finger-touching-Windows-11-logo-on-screen-in-dark-room.jpg?quality=50&strip=all",
+      "date": "Thu, 29 Oct 2026 14:00:00 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Vicseed’s popular MagSafe car phone mount drops to new low price: $33",
-      "description": "NEW LOWEST PRICE Vicseed MagSafe Car Phone Holder View Deal Newer cars may have built-in smartphone holders now, but unless you’ve traded up in recent years, you still need to supply your own. With modern reliance on GPS navigation, hands-free calling, and phones as media hubs for music, audiobooks, and podcasts, a smartphone holder is essential . The Vicseed MagSafe Car Phone Holder is currently on sale at Amazon, down to $32.98 from its original $42.99 price. That may only be a 23% discount, b",
-      "url": "https://www.pcworld.com/article/3271388/vicseeds-popular-magsafe-car-phone-mount-drops-to-new-low-33.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3271388-0-01004900-1793206025-Handyhalterung-Auto-Magnet-Vakuum.png",
-      "date": "Wed, 28 Oct 2026 16:45:45 +0000"
+      "title": "Netgear patches three flaws in its routers and extenders. Update now",
+      "description": "According to a recently published security advisory report , Netgear has discovered several vulnerabilities in its networking products. All are classified as moderately severe, and the company has now released updates to patch the security holes. One of the vulnerabilities ( CVE-2026-11732 ) affects the CAX30, RAX30, RAX5, and RAXE300 models. It can be exploited by an attacker who already has access to the local network, for example via the Wi-Fi password. The attacker can then execute unauthori",
+      "url": "https://www.pcworld.com/article/3272344/netgear-patches-three-flaws-in-its-routers-and-extenders-update-now.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3272344-0-79011400-1793282104-4_4aa6d2.png",
+      "date": "Thu, 29 Oct 2026 13:54:55 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Firefox 159 fixes 167 security flaws, including 13 sandbox escapes",
-      "description": "Firefox 159 has been released for Windows, macOS, Linux, and Android. It comes with a new password tool in the sidebar, over 160 security vulnerability fixes, and an “AI”-assisted feature for monitoring websites for changes. Updates are also available for the Firefox ESR versions. The next major release, Firefox 160, is scheduled for November 10th. What’s new in Firefox 159? Passwords saved in Firefox are available in the sidebar without you first having to enable the password tool in the sideba",
-      "url": "https://www.pcworld.com/article/3271386/firefox-159-fixes-167-security-flaws-including-13-sandbox-escapes.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3271386-0-05902200-1793203627-Firefox-logo-on-a-bold-high-contrast-background.jpg?quality=50&strip=all",
-      "date": "Wed, 28 Oct 2026 16:05:51 +0000"
+      "title": "SK Hynix now expects the memory shortage to last until 2030",
+      "description": "South Korean memory manufacturer SK Hynix expects the global memory shortage to persist for much longer than initially predicted. In its quarterly report , published on October 28th, the company states that demand for memory is expected to exceed production capacity until 2030. The primary reason? No surprise: significant investment in AI data centers, which rely on ample amounts of RAM. The widespread and ongoing expansion of data centers will continue to gobble up enormous amounts of memory, w",
+      "url": "https://www.pcworld.com/article/3272346/sk-hynix-now-expects-the-memory-shortage-to-last-until-2030.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3272346-0-56127900-1793280994-image_8f13b4.png",
+      "date": "Thu, 29 Oct 2026 13:36:24 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Best laptops 2026: Premium, budget, gaming, 2-in-1, and more",
-      "description": "PCWorld has been testing and writing about PCs since 1983. That’s a long time! Today, we put more than 70 laptops through our review process every year, covering everything from affordable everyday laptops to powerful gaming machines . That kind of hands-on experience matters when you’re trying to buy a laptop. What begins as a simple Google search can quickly spiral into a maze of complicated processor names, graphic cards, and other specs that can be difficult to make sense of. That’s where we",
-      "url": "https://www.pcworld.com/article/436674/best-pc-laptops.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/436674-0-05234100-1793203225-best-budget-laptops.jpg?quality=50&strip=all",
-      "date": "Wed, 28 Oct 2026 16:00:00 +0000"
+      "title": "Windows 11’s right-click menu is revamped. You can customize it now",
+      "description": "Microsoft is now rolling out a revamped right-click menu in Windows 11. This new feature is included in the optional KB5127936 preview update , released on October 28th for Windows 11 25H2 and 26H2. One of the biggest changes in this update is the ability to customize the right-click menu to your own preferences. Using the new “Customize menu” option at the bottom of the right-click menu, you can choose which commands and app features should be displayed. For example, you can add or remove the “",
+      "url": "https://www.pcworld.com/article/3272348/windows-11s-right-click-menu-is-revamped-you-can-customize-it-now.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3272348-0-19357300-1793279831-4_64857d.png",
+      "date": "Thu, 29 Oct 2026 13:17:02 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Lenovo’s IdeaPad Slim 5i laptop is $650 off, but only through Saturday",
-      "description": "NOW $650 OFF Lenovo 16-inch IdeaPad Slim 5i Laptop View Deal If you’ve been waiting for the right time to get yourself a new laptop for work and streaming or browsing, then now’s the time to grab this Lenovo IdeaPad Slim 5i. Instead of shelling out $1,450, B&H is now selling it for just $800 —a huge $650 discount. In the past, this would not have been a great price for it, but given the massive price spikes in PC parts due to the AI-driven hardware shortage, this is a strong buy right now. This ",
-      "url": "https://www.pcworld.com/article/3271474/lenovos-ideapad-slim-5i-laptop-is-650-off-but-only-through-saturday.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3271474-0-50033600-1793199595-Lenovo-IdeaPad-Slim-5i-angled.jpg?quality=50&strip=all",
-      "date": "Wed, 28 Oct 2026 14:58:35 +0000"
+      "title": "This $7,000 RTX Spark laptop had no business beating my RTX 5090 — but it did",
+      "description": "At a glance Expert's Rating Pros Massive 128GB unified memory pool enables huge local AI models Beat my RTX 5090 desktop in a demanding, memory-heavy AI workload Remarkably powerful AI capabilities in a thin, 3.9-pound laptop Gorgeous 4K OLED display and premium hardware Run enormous AI workloads without per-token API charges Cons Eye-watering $7,000 price Battery life craters during sustained AI inference Fans get extremely loud under heavy workloads Local models still trail top frontier AI in ",
+      "url": "https://www.pcworld.com/article/3271512/asus-proart-p16-review-rtx-spark-vs-ai.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3271512-0-94987600-1793278828-RTX-spark-vs-rtx-4090-1.jpg?quality=50&strip=all",
+      "date": "Thu, 29 Oct 2026 13:00:00 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Windows File History broken? How to fix it and restore your files",
-      "description": "Did you know that Windows can automatically back up your files to an external drive or network share? SO if your SSD fails or you need to reinstall Windows, you can quickly restore your files. It’s called File History. If File History isn’t working, there are two possible reasons. First, you may have forgotten to enable it, as it’s disabled by default in Windows. Second, there may be configuration issues. In this case, resetting the feature might help. You can access File History through the Con",
-      "url": "https://www.pcworld.com/article/3267225/windows-file-history-how-to-reset-it-if-you-encounter-problems.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3267225-0-43206900-1793197859-microsoft.jpg?quality=50&strip=all",
-      "date": "Wed, 28 Oct 2026 14:30:00 +0000"
+      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
+      "description": "If you’re looking for an affordable Windows machine under $500 , a blazing fast gaming beast for those intense matches, or a portable 2-in-1 for school or work, you’ve got plenty of great choices right now. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 80 laptops every year. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches",
+      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/550968-0-14444100-1793274996-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
+      "date": "Thu, 29 Oct 2026 11:56:24 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Sony’s new 65-inch Bravia 6 OLED TV is already $802 off, a record low",
-      "description": "SAVE $802 NOW 65-inch Sony Bravia 6 OLED TV View Deal The new Sony Bravia 6 OLED TV delivers exceptionally deep blacks and high contrast at a 4K resolution and a 120Hz refresh rate. Amazon is currently selling this 65-inch Sony TV (model K-65A60) for $1,198 —a huge drop from its original $2,000 MSRP and a 40% savings. The K-65A160 was only launched in September, so this big discount comes surprisingly fast. What the Sony Bravia 6 offers The Sony Bravia 6 features a 65-inch OLED display with 4K r",
-      "url": "https://www.pcworld.com/article/3271384/sonys-new-65-inch-bravia-6-oled-tv-is-already-802-off-a-record-low.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3271384-0-62394200-1793193204-Sony-Bravia-6.jpeg?quality=50&strip=all",
-      "date": "Wed, 28 Oct 2026 13:13:16 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Lenovo Googlebook 15 review: I’m glad that’s over",
-      "description": "At a glance Expert's Rating Pros Audio sounds very good The bundled AI Mouse is weirdly designed, but still neat Decent performance among other Chromebooks and Googlebooks Cons I hate the keyboard Webcam biometrics work sporadically Battery life isn’t great Noticeable sags in the keyboard tray Does it work with your phone? Who knows? Twice the price of a Chromebook Our Verdict Right now, the Lenovo Googlebook 15 and the Googlebook platform delivers only slightly more than what the Chromebook Plu",
-      "url": "https://www.pcworld.com/article/3266532/lenovo-googlebook-15-review.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3266532-0-91682500-1793192424-Lenovo-Googlebook-15-primary.jpg?quality=50&strip=all",
-      "date": "Wed, 28 Oct 2026 13:00:00 +0000"
+      "title": "Vampire apps are sucking your laptop battery dry. Here’s how to fight back",
+      "description": "In the shadows, evil lurks: “energy vampires” that can drain your laptop’s battery dry when you need it most. These apps can slurp up power day and night, killing your laptop — and your productivity — when you need it most. But you don’t need garlic or even a crucifix — just knowledge of where to find these vampire apps so you can put a stake in their heart. Happy Halloween from Smart Mode! At the beginning of this month, I told you how I doubled my laptop’s battery life in a single click . I’m ",
+      "url": "https://www.pcworld.com/article/3270864/vampire-apps-are-sucking-your-laptop-battery-dry-heres-how-to-fight-back.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/10/3270864-0-18143000-1793271664-Nosferatu-16-x-9.jpg?quality=50&strip=all",
+      "date": "Thu, 29 Oct 2026 11:00:00 +0000"
     }
   ],
   "starwars": [
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "Review – ‘The High Republic Adventures: Pathfinders’ #6 Neatly Wraps Up the Series in Style",
+      "description": "If you missed the memo, the finale of Dark Horse’s The High Republic Adventures: Pathfinders is now available wherever you buy comics. The post Review – ‘The High Republic Adventures: Pathfinders’ #6 Neatly Wraps Up the Series in Style appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/10/review-the-high-republic-adventures-pathfinders-6-neatly-wraps-up-the-series-in-style.html",
+      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/10/Screenshot-2026-10-29-12.29.10-AM-e1793251993123.png",
+      "date": "Thu, 29 Oct 2026 14:00:08 +0000"
+    },
     {
       "category": "starwars",
       "source": "Star Wars News Net",
@@ -801,12 +810,12 @@
     },
     {
       "category": "starwars",
-      "source": "Star Wars News Net",
-      "title": "Sixth Brother – ‘Star Wars’ Character Spotlight",
-      "description": "The Sixth Brother is the next Inquisitor to step into our Star Wars Character Spotlight, a character that has appeared The post Sixth Brother – ‘Star Wars’ Character Spotlight appeared first on Star Wars News Net .",
-      "url": "https://www.starwarsnewsnet.com/2026/10/sixth-brother-star-wars-character-spotlight.html",
-      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/10/SixthBrothersLightsaber-2017DarthVader16-e1792495707877.webp",
-      "date": "Mon, 26 Oct 2026 17:30:54 +0000"
+      "source": "Star Wars Union",
+      "title": "Zeitreise: Die legendäre Dykstraflex",
+      "description": "Wie die erste Motion-Control-Kamera der Welt die Geschichte der Filmeffekte veränderte.",
+      "url": "https://starwars-union.de/zeitreise-die-legendaere-dykstraflex/",
+      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/10/Dykstraflex.jpg",
+      "date": "Thu, 29 Oct 2026 15:56:26 +0000"
     },
     {
       "category": "starwars",
@@ -891,12 +900,48 @@
     },
     {
       "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "NYCC 26: Überblick zum Lucasfilm Publishing Panel",
-      "description": "Jede Menge Begleitliteratur zum Starfighter-Kinofilm und 50. Jubiläum vom krieg der Sterne!",
-      "url": "https://starwars-union.de/nycc-26-ueberblick-zum-lucasfilm-publishing-panel/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/10/NYCC-2026-Lucasfilm-Publishing-Panel.jpeg",
-      "date": "Fri, 09 Oct 2026 18:25:25 +0000"
+      "source": "Jedi News",
+      "title": "How IMAX 70MM Film is Developed! | Adam Savage’s Tested",
+      "description": "Adam Savage visits the film labs at FotoKem, the place where 65mm/70mm film begins its post-production journey from delicate negative to the precious prints projected in theaters around the world. The post How IMAX 70MM Film is Developed! | Adam Savage’s Tested appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/how-imax-70mm-film-is-developed-adam-savages-tested/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/maxresdefault-44-300x169.jpg",
+      "date": "Thu, 29 Oct 2026 11:36:56 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Podcast Stardust #1,101: The Force Awakens, Part 10 – “The face of my son.”” 0408",
+      "description": "First-generation Star Wars fans, Dennis Keithly and Jay Krebs, host episode 1,101 of Podcast Stardust. The post Podcast Stardust #1,101: The Force Awakens, Part 10 – “The face of my son.”” 0408 appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/podcast-stardust-1101-the-force-awakens-part-10-the-face-of-my-son-0408/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2020/05/Podcast-Stardust-300x201.jpg",
+      "date": "Thu, 29 Oct 2026 11:01:41 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Kathleen Kennedy Becomes Head of Ceremonies and Content for LA28 Olympic Games",
+      "description": "Kathleen Kennedy will replace Peter Rice as head of ceremonies and content for the LA28 Olympic and Paralympic Games, helping to shape the opening and closing ceremonies across four separate events, which will likely be viewed by billions across the globe. The post Kathleen Kennedy Becomes Head of Ceremonies and Content for LA28 Olympic Games appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/events/articles/kathleen-kennedy-becomes-head-of-ceremonies-and-content-for-la28-olympic-games/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/01/Kathleen-Kennedy-Jan26-300x201.jpg",
+      "date": "Thu, 29 Oct 2026 09:09:39 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Star Wars Splash Page #526: Alien Love Call",
+      "description": "Issue 526 of Star Wars Splash Page podcast hits the shelves. The post Star Wars Splash Page #526: Alien Love Call appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/star-wars-splash-page-526-alien-love-call/",
+      "image": "",
+      "date": "Thu, 29 Oct 2026 05:26:23 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "The Original Story Celebrated | The Book of Boba Fett: Toy Ride | Star Wars",
+      "description": "Din Djarin pilots a newly-renovated N-1 Starfighter and takes Grogu along for the ride. See the original beloved stories celebrated. Stream The Mandalorian and The Book of Boba Fett on Disney+. The post The Original Story Celebrated | The Book of Boba Fett: Toy Ride | Star Wars appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/the-original-story-celebrated-the-book-of-boba-fett-toy-ride-star-wars/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/maxresdefault-43-300x169.jpg",
+      "date": "Thu, 29 Oct 2026 00:29:03 +0000"
     },
     {
       "category": "starwars",
@@ -951,54 +996,18 @@
       "url": "https://www.jedinews.com/podcasts/articles/aggressive-negotiations-456-androids-in-star-wars/",
       "image": "https://www.jedinews.com/wp-content/uploads/2018/08/an-art-jn-300x201.jpg",
       "date": "Tue, 27 Oct 2026 14:56:16 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "How the Dykstraflex Changed VFX | Star Wars: A New Hope | befores & afters",
-      "description": "befores & afters look at the importance of Industrial Light & Magic's ​Dykstraflex to the making of Star Wars: A New Hope, and to filmmaking. The post How the Dykstraflex Changed VFX | Star Wars: A New Hope | befores & afters appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/how-the-dykstraflex-changed-vfx-star-wars-a-new-hope-befores-afters/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/maxresdefault-42-300x169.jpg",
-      "date": "Tue, 27 Oct 2026 12:06:42 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "LEGO Nikolas Nurdblok and the Lost Brick by Jeffrey Brown Available Now",
-      "description": "Bestselling cartoonist Jeffrey Brown, author of a number of Star Wars titles, has released his latest book, Nikolas Nurdblok and the Lost Brick, an awesome new adventure for comic fiction fans ages 7+ as Nikolas goes in search of the lost LEGO brick. The post LEGO Nikolas Nurdblok and the Lost Brick by Jeffrey Brown Available Now appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/literature/articles/lego-nikolas-nurdblok-and-the-lost-brick-by-jeffrey-brown-available-now/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/LEGONikolasNurdblokandtheLostBrick_Oct26-300x201.jpg",
-      "date": "Tue, 27 Oct 2026 11:33:43 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Podcast Stardust #1,100: The Clone Wars – “The General” 0408",
-      "description": "First-generation Star Wars fans, Dennis Keithly and Jay Krebs, host episode 1,100 of Podcast Stardust. The post Podcast Stardust #1,100: The Clone Wars – “The General” 0408 appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/podcast-stardust-1100-the-clone-wars-the-general-0408/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2020/05/Podcast-Stardust-300x201.jpg",
-      "date": "Tue, 27 Oct 2026 11:00:54 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "The Simpsons Parodies Star Wars: Galactic Starcruiser in ‘The Kosmic Kruiser’",
-      "description": "In a new episode of The Simpsons airing on Sunday, November 8th, Bart and Lisa break into Krustyland's most notorious failed attraction, The Kosmic Kruiser, a parody of the failed Star Wars: Galactic Starcruiser. The post The Simpsons Parodies Star Wars: Galactic Starcruiser in ‘The Kosmic Kruiser’ appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/the-simpsons-parodies-star-wars-galactic-starcruiser-in-the-kosmic-kruiser/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/simpsons-kosmic-kruiser-starcruiser-official-Oct26-300x201.jpg",
-      "date": "Tue, 27 Oct 2026 10:20:19 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "ILM’s Janet Lewin Receives VIEW Visionary Award at VIEW Conference in Turin, Italy",
-      "description": "Congratulations to Janet Lewin, senior vice president, general manager and head of ILM, who was honoured during the VIEW Conference in Turin, Italy, with the VIEW Visionary Award. The post ILM’s Janet Lewin Receives VIEW Visionary Award at VIEW Conference in Turin, Italy appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/events/articles/ilms-janet-lewin-receives-view-visionary-award-at-view-conference-in-turin-italy/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/DSC_8685-Janet-Lewin-Oct26-300x201.jpg",
-      "date": "Tue, 27 Oct 2026 09:49:48 +0000"
     }
   ],
   "youtube": [
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Claude pimpt deinen Fernseher #informatik #code #claude #tv #llm #tech",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/i0BFT2vjbhg",
+      "image": "https://i.ytimg.com/vi/i0BFT2vjbhg/hqdefault.jpg",
+      "date": "2026-10-29T14:45:09+00:00"
+    },
     {
       "category": "youtube",
       "source": "Hood Informatik",
@@ -1079,15 +1088,6 @@
       "url": "https://www.youtube.com/shorts/5sQQA6K8W_k",
       "image": "https://i.ytimg.com/vi/5sQQA6K8W_k/hqdefault.jpg",
       "date": "2026-10-20T20:15:40+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Jeder will, dass du KI entweder liebst oder fürchtest. Warum eigentlich?",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/Wb1GocgvZA0",
-      "image": "https://i.ytimg.com/vi/Wb1GocgvZA0/hqdefault.jpg",
-      "date": "2026-10-19T17:00:03+00:00"
     },
     {
       "category": "youtube",
