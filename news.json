@@ -1,6 +1,69 @@
 {
-  "updated": "2026-11-03T06:31:18.237622+00:00",
+  "updated": "2026-11-03T14:53:50.885582+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Pond е нова Linux дистрибуција со нестандарден изглед која засега е во рана верзија",
+      "description": "Linux дистрибуциите што сакаат да ги привлечат корисниците на Windows оваа година ги има сè повеќе, а една од најновите е Pond. Ја прави американската фирма Butterfly Interaction, а од 27 октомври може да ја проба секој, иако официјално е означена како „Early Preview“, односно рана пробна верзија. Pond е заснована на Arch Linux и постојано добива […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/pond-nova-linux-distribucija-so-nestandarden-izgled/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/theme-hazelnut-3344-150x150.webp",
+      "date": "Tue, 03 Nov 2026 13:49:48 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Холандското кино Pathé ќе се обиде со хипноза 30 гледачи да го „заборават“ омилениот филм",
+      "description": "Холандскиот синџир кина Pathé најави експеримент наречен Pathé REWIND, во кој со помош на хипноза ќе се обиде 30 љубители на филм повторно да го доживеат омилениот филм како да го гледаат за прв пат. Идејата е гледачите да ги „заборават“ пресвртите и познатите сцени, па повторно да ја почувствуваат истата неизвесност. Експериментот се одржува на 9 […]",
+      "url": "https://smartportal.mk/novosti/interesno/kino-pathe-hipnoza-gledaci/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/felix-mooneeram-evlkOfkQ5rE-unsplash-150x150.webp",
+      "date": "Tue, 03 Nov 2026 13:30:23 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Започна деветтата Регионална конференција за е-трговија: Вештачката интелигенција и новите технологии ја менуваат дигиталната економија",
+      "description": "Утринава во Скопје започна деветтата Регионална конференција за е-трговија, која и годинава ги става во фокус најактуелните промени во дигиталната економија и нивното влијание врз бизнисите и потрошувачите. Во организација на Асоцијацијата за е-трговија на Македонија (АЕТМ), конференцијата се одржува под мотото „From Wait to Go: E-commerce at AI Speed!“, со над 900 учесници од […]",
+      "url": "https://smartportal.mk/novosti/nastani/zapocna-devettata-regionalna-konf-za-e-trgovija/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/zapocna-devettata-e-commerce-conf-150x150.webp",
+      "date": "Tue, 03 Nov 2026 11:25:43 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Affinity стигна на iPad како бесплатна апликација за поединци, со нов простор за скицирање",
+      "description": "Canva, која ја купи Affinity во 2024, ја објави Affinity за iPad, таблет верзијата на унифицираната Affinity апликација која пред една година ги замени посебните Affinity Photo, Affinity Designer и Affinity Publisher. Како и на компјутерите, апликацијата е бесплатна за поединци. Според Canva, компјутерската верзија има повеќе од седум милиони регистрации откако е претставена, а iPad верзијата била најбараната работа од […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/affinity-stigna-na-ipad/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/affinity-ipad-1-150x150.webp",
+      "date": "Tue, 03 Nov 2026 10:47:38 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Стартапот Cyclon најавува телефон со вештачка интелигенција што сам ги користи вашите апликации",
+      "description": "Адам Зинеби, извршен директор и коосновач на стартапот Cyclon, вчера на X ја објави идејата на компанијата: телефон со вештачка интелигенција што ќе го замени вашиот iPhone. Cyclon е дел од есенската генерација стартапи на Y Combinator за 2026 година, а другиот коосновач, технолошкиот директор Томас Кифер, според Y Combinator претходно работел на Android во Google. Според Cyclon, асистентот […]",
+      "url": "https://smartportal.mk/novosti/smartfoni/startapot-cyclon-telefon-so-vi-sto-sakm-gi-koristi-aplikaciite/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/cyclon-1-150x150.webp",
+      "date": "Tue, 03 Nov 2026 10:20:24 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "OpenAI ги спојува Chat и Work во ChatGPT, а разговорите и Codex ќе делат едно ограничување",
+      "description": "Десктоп апликацијата на ChatGPT моментално има два посебни дела, ChatGPT и Codex, а во првиот корисниците избираат меѓу режимите Chat и Work. OpenAI сега се подготвува да ги спои Chat и Work, објави компанијата во е-пошта до корисниците. Work е агентот за подолги задачи со датотеки и апликации што OpenAI го воведе во јули, заедно со новата […]",
+      "url": "https://smartportal.mk/novosti/ai/openai-go-spojuva-chat-i-work/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/zulfugar-karimov-YaBg6nBPEWI-unsplash-150x150.webp",
+      "date": "Tue, 03 Nov 2026 09:56:10 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Apple испрати нов бран предупредувања за шпионски софтвер до корисници во 99 земји",
+      "description": "Apple почна да испраќа нов бран известувања за закани („threat notifications“) до корисници на iPhone кои, според компанијата, биле цел на напади со платенички шпионски софтвер („mercenary spyware“). Првите предупредувања стигнаа на 29 октомври, а ден подоцна безбедносниот истражувач Костин Раиу објави дека бранот е одвоен од августовскиот и дека е поврзан со нови напади. Во известувањето […]",
+      "url": "https://smartportal.mk/novosti/veb-i-bezbednost/apple-nov-bran-predupreduvanja-za-spiunski-softver/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/ubeyonroad-zJ4XmQsZzMI-unsplash-150x150.webp",
+      "date": "Tue, 03 Nov 2026 09:17:23 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -30,246 +93,183 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "ПОДЕКС–ПОВЕКС 2026: Роботи, критични минерали и одговорно рударство во фокусот на советувањето во Охрид",
-      "description": "Роботско куче што самостојно патролира низ фабриката, собира податоци и проверува околу 400 позиции беше еден од најзабележаните моменти на XVII Стручно советување со меѓународно учество ПОДЕКС–ПОВЕКС 2026. Демонстрацијата ја покажа насоката во која оди современата индустрија: побезбедна работа, повеќе податоци и помала изложеност на вработените на ризик. На 30 и 31 октомври во Охрид, […]",
-      "url": "https://smartportal.mk/novosti/nastani/podeks-poveks-2026/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/podeks-poveks-00-150x150.webp",
-      "date": "Mon, 02 Nov 2026 12:09:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Три нови проекти сакаат да го донесат Linux на телефоните, но сите се во рана фаза",
-      "description": "Обидите Linux да стане оперативен систем за телефони не се нови. Canonical тоа го пробуваше со Ubuntu телефоните пред повеќе од десет години, а финската Jolla минатата година се врати со нов Jolla Phone. Во последниве недели се појавија уште три проекти, што отвори прашање дали 2027 ќе биде годината на Linux телефоните. Најактивен изгледа Omarchy Mobile, кој ја […]",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/tri-novi-proekti-sakaat-da-go-donesat-linux-na-telefonite/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/prague-czechia-2025-hands-blue-Depositphotos_837091316_XL-150x150.webp",
-      "date": "Mon, 02 Nov 2026 11:47:00 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Менаџер во Anthropic ги укина интервјуата со програмирање бидејќи Claude подобро ги решава задачите",
-      "description": "Феликс Ризеберг, инженерски менаџер во Anthropic, напиша дека во октомври неговиот тим престанал да ги бара класичните интервјуа со програмирање од кандидатите. Тој во компанијата ги водел инженерските тимови за Claude.ai, Claude Cowork и десктоп апликацијата на Claude Code, а претходно работел во Notion, Stripe, Slack и Microsoft. Во објавата на својот блог тој пишува дека способноста брзо да […]",
-      "url": "https://smartportal.mk/novosti/softver-prog/menadzer-vo-antrophic-gi-ukina-intervjuata-so-programiranje/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/hacker-working-laptop-table-closeup-Depositphotos_364839884_XL-150x150.webp",
-      "date": "Mon, 02 Nov 2026 11:15:32 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Француските пратеници гласаа за данок по гигабајт сообраќај, а VLC тврди дека ќе ги погоди и нив",
-      "description": "Француското Национално собрание во петокот, 30 октомври, усвои амандман на буџетот за 2027 година со кој се воведува данок од 0,055 евра за секој гигабајт податоци што компаниите го испраќаат до корисниците на француските интернет оператори. Најгласна реакција дојде од VideoLAN, француската непрофитна организација што го развива VLC, која тврди дека данокот би ја чинел повеќе од милион евра годишно. […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/francuski-pratenici-danot-po-gigabajt-soobrakjaj/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/valencia-spain-march-2023-app-Depositphotos_648085064_XL-150x150.webp",
-      "date": "Mon, 02 Nov 2026 10:41:56 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Уште само 7 дена до Techstars Startup Weekend Skopje 2026: Последни билети за 54 часа иновации и претприемништво",
-      "description": "Остануваат уште само седум дена до Techstars Startup Weekend Skopje 2026, кој ќе се одржи во Централната експозитура на ПроКредит Банка, во организација на Startup Club Skopje, со поддршка на ProCredit Bank и Mastercard. Под темата AI Native Solutions, 14-тото издание ќе обедини студенти, програмери, дизајнери, маркетери и претприемачи кои во текот на 54 часа […]",
-      "url": "https://smartportal.mk/novosti/nastani/uste-7-dena-do-techstars-startup-weekend-skopje-2026/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/IMG_9929-150x150.webp",
-      "date": "Fri, 30 Oct 2026 13:49:18 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Чартеруван Ротари клубот „Скопје – Дебар Маало“: Првата иницијатива е поставување маалски шаховски маси",
-      "description": "Скопје, 29 октомври 2026 – Со свечена чартер церемонија, вчера во Скопје официјално беше примен во меѓународното ротаријанско семејство новиот Ротари клуб „Скопје – Дебар Маало“. Клубот обединува луѓе од различни професии кои своето знаење, искуство и време ќе ги посветат на иницијативи за доброто на заедницата. Чартер-повелбата ја врачи гувернерот на Дистрикт 1912, Боштјан […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/carteruvan-rotari-klubot-skopje-debar-maalo/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/kgph-179-150x150.webp",
-      "date": "Fri, 30 Oct 2026 12:36:17 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Првите сервери на новиот мобилен оператор Оне Македонија стигнаа во центарот за податоци на Неотел",
-      "description": "Оне Македонија, новиот мобилен оператор кој треба да стане трет со сопствена мрежа на македонскиот пазар, потпиша договор за стратешка соработка со телекомуникациската компанија Неотел. Според двете компании, првите сервери на Оне веќе стигнаа во центарот за податоци на Неотел. Соработката опфаќа сместување на серверската и телекомуникациската опрема во центарот за податоци на Неотел, поврзување […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/prvite-serveri-na-one-makedonija-stignaa-vo-neotel/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/10/1793352212244-150x150.webp",
-      "date": "Fri, 30 Oct 2026 12:23:53 +0000"
+      "source": "Time.mk - All",
+      "title": "АВМУ: Новинарката на Алфа професионално ја водеше емисијата „Под лупа“, осуда за ставовите на Богојески | Мета",
+      "description": "",
+      "url": "https://time.mk/c/68e7c14420/avmu-novinarkata-na-alfa-profesionalno-ja-vodese-emisijata-pod-lupa-osuda-za-stavovite-na-bogojeski.html",
+      "image": "https://meta.mk/wp-content/uploads/2023/05/aavmu.jpg.webp",
+      "date": "Tue, 03 Nov 2026 14:22:54 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Славески: Стопанска банка Битола беше на стаклени нозе, со сопственик на црна листа и без српската Алта банка досега немаше да постои | 360 степени",
+      "title": "Сиљановска-Давкова-Копман: можностите за забрзување на европската интеграција и конкретните механизми за напредок во услови на политички блокади во фокусот | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/48eb6f7114/slaveski-stopanska-banka-bitola-bese-na-stakleni-noze-so-sopstvenik-na-crna-lista-i-bez-srpskata-alta-banka-dosega-nemase-da-postoi.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/11/trajko-slaveski-1-1.jpg",
-      "date": "Mon, 02 Nov 2026 21:50:59 +0000"
+      "url": "https://time.mk/c/28d213b3c5/siljanovska-davkova-kopman-moznostite-za-zabrzuvanje-na-evropskata-integracija-i-konkretnite-mehanizmi-za-napredok-vo-uslovi-na-politicki-blokadi-vo-fokusot.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/11/foto-1-2.webp",
+      "date": "Tue, 03 Nov 2026 14:27:13 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Хакери презеле рекламни ЛЕД-екрани во неколку земји и емитувале порнографска содржина | Трн",
+      "title": "Над 5.000 корисници на социјална помош заглавени со сметки во „Алта банка“, парите ќе можат да ги подигнат на шалтер | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/3de9059ca6/hakeri-prezele-reklamni-led-ekrani-vo-nekolku-zemji-i-emituvale-pornografska-sodrzina.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/03/hakeri.jpg",
-      "date": "Tue, 03 Nov 2026 05:18:57 +0000"
+      "url": "https://time.mk/c/cc46243b57/nad-5-000-korisnici-na-socijalna-pomos-zaglaveni-so-smetki-vo-alta-banka-parite-ke-mozat-da-gi-podignat-na-salter.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/11/14689-300x212.jpg",
+      "date": "Tue, 03 Nov 2026 13:58:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Случај „Алта банка“: Што ќе се случи со парите на државните претпријатија и депозитите на граѓаните? | Трн",
+      "title": "Мицкоски во Рајна – Вестфалија во потрага по економски проекти | Независен",
       "description": "",
-      "url": "https://time.mk/c/7b6935f89c/slucaj-alta-banka-sto-ke-se-sluci-so-parite-na-drzavnite-pretprijatija-i-depozitite-na-gragjanite.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/11/alta.jpg",
-      "date": "Tue, 03 Nov 2026 05:03:01 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - Magazin",
-      "title": "Само 20 минути читање дневно можат да направат голема разлика: Зошто оваа навика вреди да ја стекнете? | Lady",
-      "description": "",
-      "url": "https://time.mk/c/89607dda1c/samo-20-minuti-citanje-dnevno-mozat-da-napravat-golema-razlika-zosto-ovaa-navika-vredi-da-ja-steknete.html",
-      "image": "https://lady.mk/wp-content/uploads/2026/10/kniga-300x200.jpg",
-      "date": "Tue, 03 Nov 2026 06:28:36 +0000"
+      "url": "https://time.mk/c/ae305c73b7/mickoski-vo-rajna-vestfalija-vo-potraga-po-ekonomski-proekti.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/11/Ð¼Ð¸ÑÐºÐ¾ÑÐºÐ¸-Ð³ÐµÑÐ¼Ð°Ð½Ð¸ÑÐ°-1024x719.webp",
+      "date": "Tue, 03 Nov 2026 14:36:57 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Две жени на чело на Македонија и Бугарија: Може ли женското лидерство да ги надмине национализмот и недовербата? | Проверено",
+      "title": "Хаџи Василева кажа тешки зборови за некој што ѝ бил учител, реагира Калајџиев за изјавата на обвинителката | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/d39960e99b/dve-zeni-na-celo-na-makedonija-i-bugarija-moze-li-zenskoto-liderstvo-da-gi-nadmine-nacionalizmot-i-nedoverbata.html",
-      "image": "https://provereno.mk/wp-content/uploads/2026/11/77492986_604-300x169.jpg",
-      "date": "Tue, 03 Nov 2026 06:14:57 +0000"
+      "url": "https://time.mk/c/fd7150c713/hadzi-vasileva-kaza-teski-zborovi-za-nekoj-sto-i-bil-ucitel-reagira-kalajdziev-za-izjavata-na-obvinitelkata.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2025/09/gordan-kalajdziev-300x164.jpg",
+      "date": "Tue, 03 Nov 2026 14:14:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Средношколци и пратеници во Собранието ќе дебатираат за дезинформациите и влијанието на социјалните мрежи врз младите | Проверено",
+      "title": "„Нема поголемо задоволство кога ќе ги слушнете своите жалбени наводи во пресудата“ – Туфегџиќ за ослободувањето на Боки 13 | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/454a06e57a/srednoskolci-i-pratenici-vo-sobranieto-ke-debatiraat-za-dezinformaciite-i-vlijanieto-na-socijalnite-mrezi-vrz-mladite.html",
-      "image": "https://biznisvesti.mk/wp-content/uploads/2025/10/sobranie-300x258.jpg",
-      "date": "Tue, 03 Nov 2026 06:02:57 +0000"
+      "url": "https://time.mk/c/af07c4115e/nema-pogolemo-zadovolstvo-koga-ke-gi-slusnete-svoite-zalbeni-navodi-vo-presudata-tufegdzik-za-osloboduvanjeto-na-boki-13.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/38781/conversions/Screenshot-2024-12-09-at-22.33.10-max.jpg",
+      "date": "Tue, 03 Nov 2026 14:11:04 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Митева до Каранфилова Пановска: Ширите лажни вести и хистерија во врска со Алта Банка за ова треба да одговарате | Пари",
+      "title": "ОД 62 – САМО ДЕВЕТ ЛОКОМОТИВИ ВО ФУНКЦИЈА, 110 милиони евра акумулирани загуби – ревизијата открива тешка состојба во Железници Транспорт | Пари",
       "description": "",
-      "url": "https://time.mk/c/5b4c21be5b/miteva-do-karanfilova-panovska-sirite-lazni-vesti-i-histerija-vo-vrska-so-alta-banka-za-ova-treba-da-odgovarate.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/11/ÐÐ¸ÑÐµÐ²Ð°-02.11.2026.jpg",
-      "date": "Mon, 02 Nov 2026 21:28:37 +0000"
+      "url": "https://time.mk/c/40cd98adc8/od-62-samo-devet-lokomotivi-vo-funkcija-110-milioni-evra-akumulirani-zagubi-revizijata-otkriva-teska-sostojba-vo-zeleznici-transport.html",
+      "image": "http://pari.com.mk/wp-content/uploads/2026/11/1280px-Skopje_train_station_by_jcornelius_14.jpg",
+      "date": "Tue, 03 Nov 2026 13:16:41 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ФЗО исплати 467 милиони денари за породилно, но колку мајки ги добиле парите навреме? | Рацин",
+      "title": "Започна деветтата Регионална конференција за е-трговија: Вештачката интелигенција и новите технологии ја менуваат дигиталната економија | Црнобело",
       "description": "",
-      "url": "https://time.mk/c/1fb6f5322a/fzo-isplati-467-milioni-denari-za-porodilno-no-kolku-majki-gi-dobile-parite-navreme.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/11/porodilno-725x480.jpg?x93994",
-      "date": "Tue, 03 Nov 2026 05:22:56 +0000"
+      "url": "https://time.mk/c/78571cdaf7/zapocna-devettata-regionalna-konferencija-za-e-trgovija-vestackata-inteligencija-i-novite-tehnologii-ja-menuvaat-digitalnata-ekonomija.html",
+      "image": "https://www.crnobelo.com/images/stories/2026/11/1041/zapochna-devettata-regionalna-konferencija-za-e-trgovija-veshtachkata-inteligencija-i-novite-tehnologii-ja-menuvaat-digitalnata-ekonomija-povekje.jpg",
+      "date": "Tue, 03 Nov 2026 11:23:16 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Која е контроверзната Дијана Хркаловиќ што ја помилува Вучиќ? | Рацин",
+      "title": "Зошто контроверзните помилувања на Вучиќ би можеле да го чинат скапо? | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/13f0d701b9/koja-e-kontroverznata-dijana-hrkalovik-sto-ja-pomiluva-vucik.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/11/dijana-hrkalovic-719x480.jpg?x93994",
-      "date": "Tue, 03 Nov 2026 06:18:57 +0000"
+      "url": "https://time.mk/c/364192b6ac/zosto-kontroverznite-pomiluvanja-na-vucik-bi-mozele-da-go-cinat-skapo.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/10/vucic-mk-pero.jpg",
+      "date": "Tue, 03 Nov 2026 14:27:13 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Српската „Алта банка“ му дала кредит од 12 милиони евра на бизнисмен обвинет за обид за убиство | Слободен Печат",
+      "title": "Кој ја контролирал Алта банка во Србија и дали мора да оди во стечај? | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/7f67e2080b/srpskata-alta-banka-mu-dala-kredit-od-12-milioni-evra-na-biznismen-obvinet-za-obid-za-ubistvo.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/11/macura-alta-banka.png",
-      "date": "Mon, 02 Nov 2026 16:46:38 +0000"
+      "url": "https://time.mk/c/b4119efa70/koj-ja-kontroliral-alta-banka-vo-srbija-i-dali-mora-da-odi-vo-stecaj.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/alta-banka-300x141.jpg",
+      "date": "Tue, 03 Nov 2026 12:23:18 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Нов руски радар во Калининград би можел да ја надгледува речиси цела Европа | Deutsche Welle",
+      "title": "Воздушен хаос во Европа по серија дојави за поставени бомби во авиони | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/6f62b6bc68/nov-ruski-radar-vo-kaliningrad-bi-mozel-da-ja-nadgleduva-recisi-cela-evropa.html",
-      "image": "https://static.dw.com/image/79328338_302.jpg",
-      "date": "Tue, 03 Nov 2026 06:00:52 +0000"
+      "url": "https://time.mk/c/56f2260ede/vozdusen-haos-vo-evropa-po-serija-dojavi-za-postaveni-bombi-vo-avioni.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/79509/conversions/text-max.jpg",
+      "date": "Tue, 03 Nov 2026 14:47:00 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Видео) Најмалку 26 загинати во руски напад врз хуманитарен центар: „Ужасна трагедија“ | Макфакс",
+      "title": "Американците се упатуваат кон гласачките места на среднорочните избори кои се сметаат за референдум за Трамп | Мета",
       "description": "",
-      "url": "https://time.mk/c/de0e025dcb/video-najmalku-26-zaginati-vo-ruski-napad-vrz-humanitaren-centar-uzasna-tragedija.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/11/ukraina-napad.webp",
-      "date": "Tue, 03 Nov 2026 05:48:42 +0000"
+      "url": "https://time.mk/c/76878dee2e/amerikancite-se-upatuvaat-kon-glasackite-mesta-na-srednorocnite-izbori-koi-se-smetaat-za-referendum-za-tramp.html",
+      "image": "https://meta.mk/wp-content/uploads/2026/11/p20261024jb-1102-800x450.jpg.webp",
+      "date": "Tue, 03 Nov 2026 14:27:13 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Делови од општините Центар и Гази Баба денеска без вода | Макфакс",
+      "title": "Граѓани од Горно Лисиче бараат итна реакција од Општината: Три месеци улицата е раскопана, газиме по кал и вирови вода | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/12cf34dbcc/delovi-od-opstinite-centar-i-gazi-baba-deneska-bez-voda.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/05/voda-depositphotos_717009384_xl.webp",
-      "date": "Tue, 03 Nov 2026 05:56:37 +0000"
+      "url": "https://time.mk/c/ca7e0d3b9f/gragjani-od-gorno-lisice-baraat-itna-reakcija-od-opstinata-tri-meseci-ulicata-e-raskopana-gazime-po-kal-i-virovi-voda.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/11/ulica-bozin-nikolov2-e1793714879179-300x266.jpg",
+      "date": "Tue, 03 Nov 2026 14:14:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "На две улици во Скопје во вторник ќе нема струја три часа, без електрична енергија ќе остане и цело село | Слободен Печат",
+      "title": "Отворена првата градинка во населбата Подстаница | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/9db30a903f/na-dve-ulici-vo-skopje-vo-vtornik-ke-nema-struja-tri-casa-bez-elektricna-energija-ke-ostane-i-celo-selo.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2023/12/ÐÐÐ-ÑÑÑÑÑÐ¾Ð¼ÐµÑÐ¸-7-300x200.jpg",
-      "date": "Mon, 02 Nov 2026 19:50:59 +0000"
+      "url": "https://time.mk/c/db2d9289bb/otvorena-prvata-gradinka-vo-naselbata-podstanica.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/11/viber_image_2026-11-03_13-34-41-923.webp",
+      "date": "Tue, 03 Nov 2026 12:54:58 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Охриѓанец физички нападнат во семејниот дом од лице од Охрид | Охрид1",
+      "title": "Татко и се заканувал на 21-годишната ќерка | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/573597ba2d/ohrigjanec-fizicki-napadnat-vo-semejniot-dom-od-lice-od-ohrid.html",
-      "image": "https://ohrid1.com/wp-content/uploads/2026/10/ohrid1-750x460.jpg",
-      "date": "Mon, 02 Nov 2026 20:32:39 +0000"
+      "url": "https://time.mk/c/c5f282ae72/tatko-i-se-zakanuval-na-21-godisnata-kerka.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/01/policija-foto-mvr-3.jpg",
+      "date": "Tue, 03 Nov 2026 13:22:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Пронајдени марихуана, кокаин и оружје при полициски акции во неколку градови | Скопје1",
+      "title": "УГД Штип за акцијата на МВР: Нема да дозволиме каков било сомнеж да ја наруши вредноста на дипломите на илјадниците студенти | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/4ecae5cb75/pronajdeni-marihuana-kokain-i-oruzje-pri-policiski-akcii-vo-nekolku-gradovi.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/82789/conversions/text-max.jpg",
-      "date": "Mon, 02 Nov 2026 14:26:40 +0000"
+      "url": "https://time.mk/c/5c007756e6/ugd-stip-za-akcijata-na-mvr-nema-da-dozvolime-kakov-bilo-somnez-da-ja-narusi-vrednosta-na-diplomite-na-iljadnicite-studenti.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/11/493272833_1078675164288954_8075890661630795368_n.webp",
+      "date": "Tue, 03 Nov 2026 10:36:43 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Православен верски календар 3 ноември – Свети Иларион Мегленски и Преподобен Иларион Велики | Паноптикум",
+      "title": "Со тридневна програма Општина Неготино ќе го одбележи Денот на ослободувањето | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/93a8d5343b/pravoslaven-verski-kalendar-3-noemvri-sveti-ilarion-meglenski-i-prepodoben-ilarion-veliki.html",
-      "image": "https://panoptikum.mk/wp-content/uploads/f91ef3f7-003d-4cd1-b3b6-7e4188c74566.webp",
-      "date": "Tue, 03 Nov 2026 06:06:56 +0000"
+      "url": "https://time.mk/c/1b999a291d/so-tridnevna-programa-opstina-negotino-ke-go-odbelezi-denot-na-osloboduvanjeto.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/11/viber_image_2026-11-03_12-27-48-224-1.webp",
+      "date": "Tue, 03 Nov 2026 14:38:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Митрополитот Иларион одбележа 20 години епископска служба | Религија",
+      "title": "Охрид – Преспа, природно богатство кое е обврска кон идните генерации | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/0ad7e220ad/mitropolitot-ilarion-odbeleza-20-godini-episkopska-sluzba.html",
-      "image": "https://religija.mk/wp-content/uploads/2026/11/sinod-liturgija-mpc.jpg",
-      "date": "Mon, 02 Nov 2026 21:56:38 +0000"
+      "url": "https://time.mk/c/39fea843dd/ohrid-prespa-prirodno-bogatstvo-koe-e-obvrska-kon-idnite-generacii.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/11/1-kuso.jpg",
+      "date": "Tue, 03 Nov 2026 13:44:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "34-то издание на ФАДФ Kамера 300 | Емитер",
+      "title": "Давид Темелков со „Имаш еден дом“ како благодарност што е роден во Македонија – промовирана новата песна и новиот спот | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/396af3a2bf/34-to-izdanie-na-fadf-kamera-300.html",
-      "image": "https://emiter.com.mk/sites/default/files/styles/vesti/public/sliki/napis_web/2026/11/emiter_Kamera300_00_11-2026.JPG?itok=wdTUyG8M",
-      "date": "Mon, 02 Nov 2026 20:54:59 +0000"
+      "url": "https://time.mk/c/b58e007212/david-temelkov-so-imas-eden-dom-kako-blagodarnost-sto-e-roden-vo-makedonija-promovirana-novata-pesna-i-noviot-spot.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/11/david-foto-1.jpg",
+      "date": "Tue, 03 Nov 2026 13:39:17 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Старо Бонче: Дали кај Прилеп се крие древна кралска престолнина? | Рацин",
+      "title": "Јапонски филмови и јубилејни проекции на македонски остварувања во Кинотека; Разновидна и богата ноемвриска програма | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/3a5482a418/staro-bonce-dali-kaj-prilep-se-krie-drevna-kralska-prestolnina.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/11/bonche-848x478.jpg?x93994",
-      "date": "Mon, 02 Nov 2026 19:10:58 +0000"
+      "url": "https://time.mk/c/01f80505f7/japonski-filmovi-i-jubilejni-proekcii-na-makedonski-ostvaruvanja-vo-kinoteka-raznovidna-i-bogata-noemvriska-programa.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/11/ivane-prva.jpg",
+      "date": "Tue, 03 Nov 2026 14:32:37 +0000"
     }
   ],
   "de": [
@@ -458,6 +458,33 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "The Out of Touch Adults' Guide to Kid Culture: What Does 'Code Rot' Mean?",
+      "description": "This week: what \"code rot\" really means; the other meaning of \"PDF file\"; and the truth behind the viral Freddy Krueger \"cancellation.\"",
+      "url": "https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-code-rot?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M6F1KJM6V6HRHSVE3DKDKX6V/hero-image.jpg",
+      "date": "Tue, 03 Nov 2026 14:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "The Google Pixel Watch 5 Is $100 Off Right Now",
+      "description": "PCMag calls the Pixel Watch 5 the best smartwatch for Android users.",
+      "url": "https://lifehacker.com/tech/google-pixel-watch-5-sale-november-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M4AZC4YP4XR320N8AP5ZA7G1/hero-image.jpg",
+      "date": "Tue, 03 Nov 2026 14:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "The Newest 4K Amazon Fire TV Stick Is Nearly 60% Off Right Now",
+      "description": "Amazon's latest Fire TV Stick 4K is down to a record-low $24.99 from $59.99.",
+      "url": "https://lifehacker.com/tech/amazon-fire-tv-stick-4k-sale-november-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M5VR677KS4XHTF9M79NYDAR9/hero-image.jpg",
+      "date": "Tue, 03 Nov 2026 13:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "Six Fitness 'Rules' That Don't Actually Matter",
       "description": "Few questions in fitness truly have a \"right\" or \"wrong\" answer.",
       "url": "https://lifehacker.com/fitness-rules-that-are-okay-to-break?utm_medium=RSS",
@@ -610,30 +637,57 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "10 of the Most Iconic Patrick Stewart Roles Beyond Captain Picard",
-      "description": "The Alpha Quadrant has lost one of its brightest stars.",
-      "url": "https://lifehacker.com/entertainment/iconic-patrick-stewart-roles-beyond-star-trek?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M64QGT3X9KW7BBBZVYSC0ZV4/hero-image.jpg",
-      "date": "Fri, 30 Oct 2026 14:00:00 +0000"
+      "source": "PCWorld",
+      "title": "Sony’s WH-1000XM6 noise-canceling headphones hit record-low price",
+      "description": "LOWEST PRICE EVER Sony WH-1000XM6 Headphones Studio quality, noise cancellation, 30 hours of battery life View Deal The best way to focus on your work and tune out the world around you is with a good pair of noise-cancelling headphones. Sony’s WH-1000XM6 are some of the best out there, and they’re currently marked down to their lowest price ever. Instead of shelling out the usual $460, you can snag a pair for just $378 at Amazon right now —that’s $82 off. These are Sony’s most advanced noise-can",
+      "url": "https://www.pcworld.com/article/3275861/sonys-wh-1000xm6-noise-canceling-headphones-hit-record-low-price.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3275861-0-56268400-1793717194-Sony-WH-1000XM6-noise-cancelling-headphones.jpg?quality=50&strip=all",
+      "date": "Tue, 03 Nov 2026 14:46:25 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "This Samsung 32-Inch OLED Gaming Monitor Is $300 Off Right Now",
-      "description": "The 32-inch Samsung Odyssey OLED G8 is $999.99, down from $1,299.99.",
-      "url": "https://lifehacker.com/tech/samsung-32-inch-oled-g80sh-gaming-monitor-sale-october-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M0WGZXSHW4MMDHZP90V7EJKE/hero-image.jpg",
-      "date": "Fri, 30 Oct 2026 13:00:00 +0000"
+      "source": "PCWorld",
+      "title": "Not sure if a file is malicious? Upload it to VirusTotal",
+      "description": "Maybe you’re browsing the web and you see a recommendation for an app. Or a friend sends you a link, urging you to look at it. Not sure about the safety of either? You can have an online virus scanner check it out for you first. Called VirusTotal , this web tool is used by cybersecurity professionals as a regular part of their day. (I actually have a couple of friends who periodically reference this in conversations.) Not only does this scanner help your PC stay cleaner—you don’t have to even do",
+      "url": "https://www.pcworld.com/article/3273769/not-sure-if-a-file-is-malicious-upload-it-to-virustotal.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3273769-0-49876600-1793714421-pexels-lucasandrade-14000464-crop.jpg?quality=50&strip=all",
+      "date": "Tue, 03 Nov 2026 14:00:00 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "These Sony ANC Headphones Are on Sale for $128 Right Now",
-      "description": "These headphones offer ANC, transparency mode, comfort, an amazing app, and great battery life.",
-      "url": "https://lifehacker.com/tech/sony-wh-ch730n-headphones-deal-october-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M64PJEBER8BVAJ8Z0YB482A4/hero-image.jpg",
-      "date": "Thu, 29 Oct 2026 21:00:13 +0000"
+      "source": "PCWorld",
+      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
+      "description": "If you’re looking for an affordable Windows machine under $500 , a blazing fast gaming beast for those intense matches, or a portable 2-in-1 for school or work, you’ve got plenty of great choices right now. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 80 laptops every year. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches",
+      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/550968-0-88687000-1793713384-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
+      "date": "Tue, 03 Nov 2026 13:42:55 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "It’s not just Sam Altman: AI will ruin PC gaming in ways you don’t expect",
+      "description": "Good lord, it’s been a bad week for gaming. You don’t need to be a news hound or a Nostradamus to see where the problems are coming from: AI. From hardware to software to platforms to funding, “AI” is causing nothing but headaches for most gamers, and anyone else connected to the industry. Welcome to the Boost Mode newsletter. Every week I share my insights on PC gaming, desktop setups, and hardware optimization. I also track down some of the most interesting PC and nerd news from around the web",
+      "url": "https://www.pcworld.com/article/3274724/not-just-altman-ai-assaults-the-game-industry-from-every-angle.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3274724-0-97957200-1793707229-image_56513d.png",
+      "date": "Tue, 03 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Discord is letting search engines read public messages. Here’s what to do",
+      "description": "In late October, Discord made a spooky announcement: It would begin allowing search engines to index its discoverable servers. In plain speak, conversations on these public servers will become findable by Google and other search providers. Predictably, this reveal stoked fears about privacy on Discord. With all the furor over age verification, some people have interpreted the move as a further erosion of privacy. But after reading Discord’s blog post more closely, I’m not worried… yet. Discovera",
+      "url": "https://www.pcworld.com/article/3273746/discord-is-letting-search-engines-read-public-messages-heres-what-to-do.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3273746-0-77244900-1793703658-67d0c4e0932bb59c7f6271e5_2024_10_DiscordBlog_UsingDiscord-1.png",
+      "date": "Tue, 03 Nov 2026 11:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Genie Backup Manager AI review: The most user-friendly backup ever",
+      "description": "At a glance Expert's Rating Pros Fantastically friendly interface Dual destinations for any backup Pay versions supports network and S3-compatible online storage A competent free version is available Cons No imaging or disaster recovery Our Verdict Genie Backup Manager AI is the friendliest file-backup program we’re aware of — by far. The AI will help newbies, and the program supports network and online S3 storage. It lacks imaging and disaster recovery, but is otherwise one of our favorites. Pr",
+      "url": "https://www.pcworld.com/article/3260882/genie-backup-manager-ai-review-talk-with-me-let-me-back-you-up.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3260882-0-88940500-1793701818-Genie-Backup-Manager-Pro-33.png",
+      "date": "Tue, 03 Nov 2026 10:30:00 +0000"
     },
     {
       "category": "eng",
@@ -670,60 +724,6 @@
       "url": "https://www.pcworld.com/article/553786/best-external-ssd-for-gaming.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/11/553786-0-15933800-1793635219-sky-hynix-beetle-x31-ssd.jpg?quality=50&strip=all",
       "date": "Mon, 02 Nov 2026 16:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Want an 86-inch screen? Philoent’s mini projector is $72, its lowest price",
-      "description": "NEW LOWEST PRICE Philoent Mini Projector View Deal A big-screen TV used to be the big thing for home media, but these days you can score a similar experience at an affordable price with a compact projector. Whereas big-screen TVs sit around 80 to 100 inches, you can project a similar display size at a far cheaper price point without a huge, permanent wall commitment—as long as you’re willing to sacrifice some brightness, sharpness, and ease of use. Right now, the Philoent Mini Projector is on sa",
-      "url": "https://www.pcworld.com/article/3274690/want-an-86-inch-tv-screen-philoent-72-mini-projector-can-do-it.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3274690-0-77096100-1793635118-Philoent-Mini-Beamer.jpeg?quality=50&strip=all",
-      "date": "Mon, 02 Nov 2026 15:56:46 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Sam Altman says your PC’s memory should belong to him",
-      "description": "Ah, you love to see it. A quote from a billionaire CEO shows just how phenomenally out of touch they are. In a video interview published last week, OpenAI CEO Sam Altman said it’s actually pretty terrible that consumers like you and me get to have a bunch of memory in our computers. Think how much better it would be if that memory was in a gigantic, polluting data center instead. That immensely quotable moment comes from the Cheeky Pint channel on YouTube, wherein the CEO in control of ChatGPT s",
-      "url": "https://www.pcworld.com/article/3274634/sam-altman-says-your-pcs-memory-should-belong-to-him.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3274634-0-51167400-1793632433-Sora-2-Sam-Altman.jpg?quality=50&strip=all",
-      "date": "Mon, 02 Nov 2026 15:13:16 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Microsoft says Windows 11’s taskbar won’t get drag-and-drop, by design",
-      "description": "Windows 10 users can easily move their taskbar using drag-and-drop with the mouse. With Windows 11, it isn’t quite so straightforward. Unfortunately, Microsoft says this is the result of a deliberate decision. Since September 2026, Windows 11 users have been able to reposition the taskbar . It only took five years from Windows 11’s launch for the functionality to finally be added! And the reason for that was purely practical . But it isn’t a perfect implementation. To move the Windows 11 taskbar",
-      "url": "https://www.pcworld.com/article/3274686/microsoft-says-windows-11s-taskbar-wont-get-drag-and-drop-by-design.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3274686-0-43193200-1793631515-WindowsTaskleisteFileExplorer.jpg?quality=50&strip=all",
-      "date": "Mon, 02 Nov 2026 14:58:23 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Ring’s newest 2K floodlight camera is 50% off, tying its lowest price",
-      "description": "NOW 50% OFF Ring Floodlight Cam 2K View Deal Live in a dark, secluded area and worried about intruders or pranksters? You need more than just a video doorbell or wall-mounted camera. You need one with a full-blown floodlight. Right now, Amazon is selling its newest Ring Floodlight Cam 2K for $99.99 , a whopping 50% off its original $199.99 and matching its all-time lowest price. On top of the crisp 2K resolution (a big improvement over the previous model’s 1080p video), this outdoor camera also ",
-      "url": "https://www.pcworld.com/article/3274517/rings-newest-2k-floodlight-camera-is-50-off-tying-its-lowest-price.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3274517-0-76962600-1793630476-Ring-Floodlight-2k.jpg?quality=50&strip=all",
-      "date": "Mon, 02 Nov 2026 14:39:50 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Eufy Omni C30 Edge review: Excellent cleaning, poor obstacle detection",
-      "description": "At a glance Expert's Rating Pros Compact all-in-one station ​Thorough cleaning on hard floors ​Systematic navigation and accurate maps ​Extendable mop pad for edges ​Intuitive app with Matter support Cons Unreliable detection of flat objects ​Limited scope of delivery with no spare parts Our Verdict The Eufy Omni C30 Edge is a capable, reasonably priced robot vacuum and mop with a low-profile, largely automated docking station that cleans hard floors thoroughly. But its poor detection of flat ob",
-      "url": "https://www.pcworld.com/article/3270689/eufy-omni-c30-edge-review.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3270689-0-32381900-1793628025-Test-Eufy-C30-Edge-Aufmacher.png",
-      "date": "Mon, 02 Nov 2026 14:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
-      "description": "If you’re looking for an affordable Windows machine under $500 , a blazing fast gaming beast for those intense matches, or a portable 2-in-1 for school or work, you’ve got plenty of great choices right now. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 80 laptops every year. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches",
-      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/550968-0-87734100-1793626168-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
-      "date": "Mon, 02 Nov 2026 13:29:16 +0000"
     }
   ],
   "starwars": [
@@ -811,6 +811,15 @@
     {
       "category": "starwars",
       "source": "Star Wars Union",
+      "title": "Echte Wüsten: Die Ahsoka-Darsteller über weniger Volume-Arbeit für Staffel 2",
+      "description": "Übers Wochenende fand die LA Comic Con statt, bei der es unter anderem ein Panel zu Staffel 2 von Ahsoka gab. Dort gaben Rosario Dawson (Ahsoka Tano), Natasha Liu Bordizzo (Sabine Wren) und Eman Esfandi (Ezra Bridger) Einblicke in die Produktion und blickten auf die Arbeit mit Dave Filoni zurück. Mehr praktische Sets & echte […]",
+      "url": "https://starwars-union.de/echte-wuesten-die-ahsoka-darsteller-ueber-weniger-volume-arbeit-fuer-staffel-2/",
+      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/08/20260815-ahsoka-s2-teaser-163.jpg",
+      "date": "Tue, 03 Nov 2026 08:29:28 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars Union",
       "title": "BioWare oder Star Wars: Die Hintergründe des Aus für das Traditionsstudio",
       "description": "Bloomberg schreibt, EA habe sich zwischen Mass Effect und Battlefront entscheiden müssen.",
       "url": "https://starwars-union.de/bioware-oder-star-wars-die-hintergruende-des-aus-fuer-das-traditionsstudio/",
@@ -891,12 +900,57 @@
     },
     {
       "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "Wie das Star-Wars-Universum seine Form fand",
-      "description": "Wir blicken zurück auf die Entstehung der ersten Karten der weit, weit entfernten Galaxis.",
-      "url": "https://starwars-union.de/wie-das-star-wars-universum-seine-form-fand/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/10/Karte-der-Galaxis.jpg",
-      "date": "Thu, 15 Oct 2026 12:10:48 +0000"
+      "source": "Jedi News",
+      "title": "LEGO Ideas Godzilla and Gift with Purchase, Available November 27th",
+      "description": "The LEGO Group has revealed a monster of a set, the pop culture icon Godzilla, built from 5,363-pieces and standing almost 55cm tall, the LEGO Ideas Godzilla set will be released on November 27th with the LEGO Ideas Godzilla Logo & Footprint Gift with Purchase. The post LEGO Ideas Godzilla and Gift with Purchase, Available November 27th appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/lego/articles/lego-ideas-godzilla-and-gift-with-purchase-available-november-27th/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/21375_01_JoZsHpbx3I4D-300x201.jpg",
+      "date": "Tue, 03 Nov 2026 14:00:07 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "This Hardware Built Star Wars! | Adam Savage’s Tested",
+      "description": "Joined by legendary model maker Lorne Peterson, Adam Savage takes a deep dive into the physical organization, problem-solving methodologies and materials — from Plastruct shapes and domes to model kit greeblies — that built the original Star Wars trilogy. The post This Hardware Built Star Wars! | Adam Savage’s Tested appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/this-hardware-built-star-wars-adam-savages-tested/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/maxresdefault-5-300x169.jpg",
+      "date": "Tue, 03 Nov 2026 11:35:23 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Podcast Stardust #1,103: The Cost of Starfighter – Star Wars News",
+      "description": "First-generation Star Wars fans, Dennis Keithly and Jay Krebs, host episode 1,103 of Podcast Stardust. The post Podcast Stardust #1,103: The Cost of Starfighter – Star Wars News appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/podcast-stardust-1103-the-cost-of-starfighter-star-wars-news/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2020/05/Podcast-Stardust-300x201.jpg",
+      "date": "Tue, 03 Nov 2026 11:03:02 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Epic Jedi Training Moments | Star Wars Compilation",
+      "description": "Relive some of the most epic Jedi training sequences in Star Wars history, featuring legends like Luke Skywalker and Rey as they master the ways of the Force. From lightsaber drills to hard-won lessons, this is Jedi training at its best. All titles are now streaming on Disney+. The post Epic Jedi Training Moments | Star Wars Compilation appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/epic-jedi-training-moments-star-wars-compilation/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/maxresdefault-3-300x169.jpg",
+      "date": "Tue, 03 Nov 2026 03:03:22 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Enjoy Stuff: ¡Dos Muchachos!",
+      "description": "Jovial Jay and Shua bring you the latest episode of Enjoy Stuff: A TechnoRetro Podcast. The post Enjoy Stuff: ¡Dos Muchachos! appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/enjoy-stuff-dos-muchachos/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2021/05/RetroZap-Enjoy-Stuff-Techno-Retro-Featured-Image-300x201.jpg",
+      "date": "Tue, 03 Nov 2026 02:32:25 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "‘Project Hail Mary’ Author Andy Weir Shares His Pitch for ‘Star Wars’",
+      "description": "During an interview with Jeremy Mathai at /Film, Andy Weir, whose novels include The Martian and Project Hail Mary, has shared his pitch for Star Wars, suggesting the franchise sets the next movie during the Galactic Civil War, following other people living through it. The post ‘Project Hail Mary’ Author Andy Weir Shares His Pitch for ‘Star Wars’ appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/project-hail-mary-author-andy-weir-shares-his-pitch-for-star-wars/",
+      "image": "",
+      "date": "Mon, 02 Nov 2026 20:00:50 +0000"
     },
     {
       "category": "starwars",
@@ -942,61 +996,278 @@
       "url": "https://www.jedinews.com/film-music-tv/articles/lego-star-wars-holiday-special-full-episode-star-wars-kids/",
       "image": "https://www.jedinews.com/wp-content/uploads/2026/11/maxresdefault-2-300x169.jpg",
       "date": "Mon, 02 Nov 2026 02:02:16 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Mr Stevie is Heading Back to the UK to Recharge and for a Toy Run",
-      "description": "Hasbro's Steve Evans is heading back to the UK this December to recharge just before the holiday season and is also making some time for a Toy Run, Nerd Base in Colchester (6th), Ray's Retro in Sudbury (7th), and Leicester Vintage & Old Toy Shop in Leicester (10th). The post Mr Stevie is Heading Back to the UK to Recharge and for a Toy Run appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/events/articles/mr-stevie-is-heading-back-to-the-uk-to-recharge-and-for-a-toy-run/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/Mr-Stevies-UK-Tioy-Run-Nov26-300x201.jpg",
-      "date": "Sun, 01 Nov 2026 11:17:45 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Robert Downey Jr. and Pedro Pascal Role Reversal for Halloween",
-      "description": "As the countdown to Avengers: Doomsday continues, Robert Downey Jr. and Pedro Pascal swapped sides for Halloween by trading their Marvel Cinematic Universe roles, with Downey dressing as Pascal’s character Mr. Fantastic and Pascal as Downey’s Dr. Doom. The post Robert Downey Jr. and Pedro Pascal Role Reversal for Halloween appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/events/articles/robert-downey-jr-and-pedro-pascal-role-reversal-for-halloween/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/Robert-Downey-Jnr-and-Pedro-Pascal-Halloween-Nov26-300x201.jpg",
-      "date": "Sun, 01 Nov 2026 10:42:14 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Boonta Eve V Teaser",
-      "description": "The location for Boonta Eve V, somewhere on or around the Sunset Strip in L.A. next April, will be revealed on November 27th at 9am PT | Midday ET | 5pm UK. The post Boonta Eve V Teaser appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/events/articles/boonta-eve-v-teaser/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/maxresdefault-1-300x169.jpg",
-      "date": "Sun, 01 Nov 2026 10:10:55 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Meet Your Favourite Jedi, Rebels, and Sith! | Star Wars: Icons of the Force Marathon | Star Wars Kids",
-      "description": "The Star Wars galaxy is filled with incredible beings! Learn more about fan-favorite characters like Luke, Leia, Han, Chewbacca, Darth Vader, C-3PO & R2-D2, and discover how they became Icons of the Force. Original \"Star Wars\" Music by John Williams. The post Meet Your Favourite Jedi, Rebels, and Sith! | Star Wars: Icons of the Force Marathon | Star Wars Kids appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/meet-your-favourite-jedi-rebels-and-sith-star-wars-icons-of-the-force-marathon-star-wars-kids/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/maxresdefault-300x169.jpg",
-      "date": "Sun, 01 Nov 2026 00:30:55 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "New LEGO Technic Solar System Planets in Orbit Revealed",
-      "description": "January 2027 brings us an all new 572-piece LEGO Technic Solar System Planets in Orbit set (42254), turning STEM learning into a hands-on journey through the wonders of space with this learning toy for ages 10 and up. The post New LEGO Technic Solar System Planets in Orbit Revealed appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/lego/articles/new-lego-technic-solar-system-planets-in-orbit-revealed/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/42254_01_sFthyPcUNbHE-300x201.jpg",
-      "date": "Sun, 01 Nov 2026 00:01:24 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "SuperX Star Wars Performance Collection Available Now",
-      "description": "The new Star Wars Performance Collection from SuperX featuring designs inspired by Darth Maul, R2-D2, The Mandalorian, Rebel, Jedi, Darth Vader and Stormtrooper in men and women's styles, along with bags, boxing gloves, kettlebells and more, is available now. The post SuperX Star Wars Performance Collection Available Now appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/apparel/articles/superx-star-wars-performance-collection-available-now/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/10/SuperX-Available-Now-Oct26-300x201.jpg",
-      "date": "Sat, 31 Oct 2026 20:34:54 +0000"
     }
   ],
-  "youtube": []
+  "youtube": [
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Apple warnt Abgeordnete vor einem Spyware Angriff.... #informatik #cybersecurity #news #iphone",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/VlJv2AW9cXU",
+      "image": "https://i.ytimg.com/vi/VlJv2AW9cXU/hqdefault.jpg",
+      "date": "2026-11-02T18:30:26+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Wie viel von Mr. Robot ist echt? - Episode 1",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=CD4aM2F43YU",
+      "image": "https://i.ytimg.com/vi/CD4aM2F43YU/hqdefault.jpg",
+      "date": "2026-11-01T19:40:08+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Binance wurde gehackt und hat den Diebstahl selbst unterschrieben ?! #informatik",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/yFxQfnjKTHg",
+      "image": "https://i.ytimg.com/vi/yFxQfnjKTHg/hqdefault.jpg",
+      "date": "2026-10-30T11:10:03+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Claude pimpt deinen Fernseher #informatik #code #claude #tv #llm #tech",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/i0BFT2vjbhg",
+      "image": "https://i.ytimg.com/vi/i0BFT2vjbhg/hqdefault.jpg",
+      "date": "2026-10-29T14:45:09+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Video auf Anfrage durch eure DMs :) ich persönlich würde eher auf MVT von Amnesty zurückgreifen",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/rM2PVN9Lzco",
+      "image": "https://i.ytimg.com/vi/rM2PVN9Lzco/hqdefault.jpg",
+      "date": "2026-10-28T17:45:26+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Das Privacy Paradox erklärt #informatik #cybersecurity #privacy #bildung",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/ByAtxL2xynk",
+      "image": "https://i.ytimg.com/vi/ByAtxL2xynk/hqdefault.jpg",
+      "date": "2026-10-27T18:44:58+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Das Dining Cryptographers Problem #informatik #cybersecurity #kryptografie #itsecurity",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/eNbsdiwAqpw",
+      "image": "https://i.ytimg.com/vi/eNbsdiwAqpw/hqdefault.jpg",
+      "date": "2026-10-26T11:00:24+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Ein öffentliches CTF für die Php2Shell Lücke ?! #informatik #code #cybersecurity #ctf #news",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/juFpuEj1hU4",
+      "image": "https://i.ytimg.com/vi/juFpuEj1hU4/hqdefault.jpg",
+      "date": "2026-10-25T16:46:55+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Vibe Coding oder Vulnerability as a Service ?! Passt auf eure Keys auf ;)",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/qLXmp7w7hwQ",
+      "image": "https://i.ytimg.com/vi/qLXmp7w7hwQ/hqdefault.jpg",
+      "date": "2026-10-24T08:30:23+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Ein Generalschlüssel für Zertifikate jeder Webseite der Welt....",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/XiCe4cYH_3g",
+      "image": "https://i.ytimg.com/vi/XiCe4cYH_3g/hqdefault.jpg",
+      "date": "2026-10-22T16:46:59+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Set Off Alarms in Abandoned Paper Mill",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=_2m_nAVaYSg",
+      "image": "https://i.ytimg.com/vi/_2m_nAVaYSg/hqdefault.jpg",
+      "date": "2026-09-30T17:00:15+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Exploring The Last Coal Power Plant in Connecticut Bridgeport Harbor Station",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=CR84XRBKBzs",
+      "image": "https://i.ytimg.com/vi/CR84XRBKBzs/hqdefault.jpg",
+      "date": "2026-08-27T17:00:39+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Rocketdyne Santa Susana Field Laboratory Abandoned America Space Race (1948)",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=0lka-0REQrQ",
+      "image": "https://i.ytimg.com/vi/0lka-0REQrQ/hqdefault.jpg",
+      "date": "2026-04-23T17:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition AMC Seats And Screens Left Behind",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=UnG29VothuQ",
+      "image": "https://i.ytimg.com/vi/UnG29VothuQ/hqdefault.jpg",
+      "date": "2026-03-27T21:09:35+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition Fly by In And Out",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=fDnOH8ZsfTg",
+      "image": "https://i.ytimg.com/vi/fDnOH8ZsfTg/hqdefault.jpg",
+      "date": "2026-03-27T20:40:08+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "AMC Westfield Promenade Mall Raw Demolition Drone Footage",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/5iA5R3Jq4g0",
+      "image": "https://i.ytimg.com/vi/5iA5R3Jq4g0/hqdefault.jpg",
+      "date": "2026-03-27T18:03:29+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition AMC Coming Down First!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=SAxjFGjTiHQ",
+      "image": "https://i.ytimg.com/vi/SAxjFGjTiHQ/hqdefault.jpg",
+      "date": "2026-03-23T17:42:38+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Beautiful Art Deco Theater",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=ccfU0LSmkj8",
+      "image": "https://i.ytimg.com/vi/ccfU0LSmkj8/hqdefault.jpg",
+      "date": "2026-03-11T20:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Decommissioned Power Station #synthwave #synth #retrowave #abandonedplaces",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/mOUbNSMoBJs",
+      "image": "https://i.ytimg.com/vi/mOUbNSMoBJs/hqdefault.jpg",
+      "date": "2025-06-17T17:55:51+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Wheel of Misfortune Three Kids Mine Demolition",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=VXRselqoN-8",
+      "image": "https://i.ytimg.com/vi/VXRselqoN-8/hqdefault.jpg",
+      "date": "2025-06-17T17:45:42+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Switch 2 Jailbroken, PS4 BD-JB for 14.00, PS Vita Storage & WiFi Boosts - ModChat 150",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=a_Z502alSqY",
+      "image": "https://i.ytimg.com/vi/a_Z502alSqY/hqdefault.jpg",
+      "date": "2026-10-31T17:00:20+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Mario's Minute 106 - XBOX LABS Joins in the Decomp & Recomp Craze",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=CZBw4sxFBdI",
+      "image": "https://i.ytimg.com/vi/CZBw4sxFBdI/hqdefault.jpg",
+      "date": "2026-10-28T17:00:08+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Use FTP on a Modded Xbox 360 with Aurora - Network File Transfer Setup",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=xf9HqSbZLsg",
+      "image": "https://i.ytimg.com/vi/xf9HqSbZLsg/hqdefault.jpg",
+      "date": "2026-10-24T17:00:30+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "PS5 13.60 Jailbreak & Hypervisor Exploit, Xbox 360 Softmod, Halo Ported to EVERYTHING - ModChat 149",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=-PXtg_eDYBY",
+      "image": "https://i.ytimg.com/vi/-PXtg_eDYBY/hqdefault.jpg",
+      "date": "2026-10-21T17:00:30+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Backup & Play Xbox 360 Games on a Modded Xbox 360 - Multi-Disc, DLC, XBLA & More!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=KYOZR0zotSc",
+      "image": "https://i.ytimg.com/vi/KYOZR0zotSc/hqdefault.jpg",
+      "date": "2026-10-10T17:00:36+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Softmod the Xbox 360 - Peer Pressure Beginner Setup for Homebrew, Backups, and More!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=G8ceM_xXlO8",
+      "image": "https://i.ytimg.com/vi/G8ceM_xXlO8/hqdefault.jpg",
+      "date": "2026-10-07T19:00:34+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Bad Storage Unauthenticated: Use Any HDD or SSD on Bad Update for Xbox 360!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=svNvWiJAjow",
+      "image": "https://i.ytimg.com/vi/svNvWiJAjow/hqdefault.jpg",
+      "date": "2026-10-03T17:00:02+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Mario's Minute 105 - Wiping Old Drives and XBOX's Disc to Digital Program",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=C0pBgwThC68",
+      "image": "https://i.ytimg.com/vi/C0pBgwThC68/hqdefault.jpg",
+      "date": "2026-09-30T17:00:10+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "AutoDNS: A Useful Network Safety Plugin for Bad Update & ABadAvatar Consoles",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=dgX6KUQy4jk",
+      "image": "https://i.ytimg.com/vi/dgX6KUQy4jk/hqdefault.jpg",
+      "date": "2026-09-26T17:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "PS5 Hypervisor Drama, Xbox 360 Softmod Details Revealed, Switch 2 Game Binary Dumped - ModChat 148",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=eMTjE6NIAAQ",
+      "image": "https://i.ytimg.com/vi/eMTjE6NIAAQ/hqdefault.jpg",
+      "date": "2026-09-23T17:00:08+00:00"
+    }
+  ]
 }
