@@ -1,6 +1,33 @@
 {
-  "updated": "2026-11-05T02:41:18.914779+00:00",
+  "updated": "2026-11-05T10:29:09.063661+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Новата верзија на Start11 носи виџети во Старт менито и долна лента поделена на заоблени „острови“",
+      "description": "Stardock ја претстави третата верзија од Start11, нивната апликација за прилагодување на Старт менито и долната лента во Windows. Start11 v3 засега е во бета фаза, која компанијата ја нарекува „release preview“, а носи виџети во Старт менито, нов изглед на „таскбарот“ и групирање на апликациите. Најголемата визуелна новост се „Taskbar Islands“, односно „острови“ на […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/novata-verzija-na-start11-nosi-vidzeti-na-start-menito/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/5b83724e-60c7-4be2-b484-36d748205c31-150x150.webp",
+      "date": "Thu, 05 Nov 2026 10:18:32 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Safari добива вертикални „табови“ и темен режим за страниците што немаат своја темна верзија",
+      "description": "Apple ги пушти првите бета верзии на iOS 27.3, iPadOS 27.3 и macOS 27.3, а меѓу новитетите има и неколку промени во Safari. Прелистувачот добива вертикален распоред на „табовите“, темен режим за страниците што немаат своја темна верзија и нови команди за Siri AI. Вертикалните „табови“, според белешките за Safari 27.3 beta, се нов распоред […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/safari-dobiva-vertikalni-tabovi/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/IMG_1706-150x150.webp",
+      "date": "Thu, 05 Nov 2026 09:47:56 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Научници за прв пат потврдиле метод што би можел да овозможи непрекината работа на фузиските реактори",
+      "description": "Токамаците, фузиските реактори во форма на крофна, ја држат плазмата со магнетно поле што делумно го создава струја што тече низ самата плазма. Таа струја најчесто ја поттикнува централна калема што работи како трансформатор, па реакторот може да работи само во импулси. Поради ова, дел од проектите за електрани бараат начин струјата да се создава […]",
+      "url": "https://smartportal.mk/novosti/nauka-istrazuvanja/naucnici-prvpat-metod-koj-bi-mozel-da-ovozmozi-neprekinata-rabota-na-fuziski-reaktori/",
+      "image": "https://smartportal.mk/wp-content/uploads/2025/01/shutterstock_2262106105-150x150.jpg",
+      "date": "Thu, 05 Nov 2026 09:13:19 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -66,210 +93,183 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "55 години од првиот прирачник за Unix, оперативниот систем на Кен Томпсон и Денис Ричи",
-      "description": "Unix вчера одбележа 55 години, барем според датумот што дел од заедницата го слави како негов роденден. На 3 ноември 1971 година е датирано првото издание на „Unix Programmer’s Manual“, прирачникот за системот што Кен Томпсон и Денис Ричи го развиваа во Bell Labs. Самиот развој сепак започнал две години порано. Откако Bell Labs се повлече […]",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/55-godini-od-prviot-priracnik-za-unix/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/2.-Unix-PC-SVR2-and-XVM-RSX-150x150.webp",
-      "date": "Wed, 04 Nov 2026 08:31:24 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Pond е нова Linux дистрибуција со нестандарден изглед која засега е во рана верзија",
-      "description": "Linux дистрибуциите што сакаат да ги привлечат корисниците на Windows оваа година ги има сè повеќе, а една од најновите е Pond. Ја прави американската фирма Butterfly Interaction, а од 27 октомври може да ја проба секој, иако официјално е означена како „Early Preview“, односно рана пробна верзија. Pond е заснована на Arch Linux и постојано добива […]",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/pond-nova-linux-distribucija-so-nestandarden-izgled/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/theme-hazelnut-3344-150x150.webp",
-      "date": "Tue, 03 Nov 2026 13:49:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Холандското кино Pathé ќе се обиде со хипноза 30 гледачи да го „заборават“ омилениот филм",
-      "description": "Холандскиот синџир кина Pathé најави експеримент наречен Pathé REWIND, во кој со помош на хипноза ќе се обиде 30 љубители на филм повторно да го доживеат омилениот филм како да го гледаат за прв пат. Идејата е гледачите да ги „заборават“ пресвртите и познатите сцени, па повторно да ја почувствуваат истата неизвесност. Експериментот се одржува на 9 […]",
-      "url": "https://smartportal.mk/novosti/interesno/kino-pathe-hipnoza-gledaci/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/felix-mooneeram-evlkOfkQ5rE-unsplash-150x150.webp",
-      "date": "Tue, 03 Nov 2026 13:30:23 +0000"
+      "source": "Time.mk - All",
+      "title": "ДУИ: Еден од најнегативните извештаи на Европската комисија – политиките на Владата ја враќаат земјата назад | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/ff99e038da/dui-eden-od-najnegativnite-izvestai-na-evropskata-komisija-politikite-na-vladata-ja-vrakaat-zemjata-nazad.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/06/depositphotos_283706550_s.webp",
+      "date": "Thu, 05 Nov 2026 10:11:20 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Владини претставници не го користат уставното име, што ги доведува во ризик добрососедските односи – пишува во извештајот на ЕК за земјава | 360 степени",
+      "title": "(Фото) Пари, возила и документација пронајдени при претреси во Куманово, неофицијално се истражува организиран криминал поврзан со лихварство | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/39a23a6b13/vladini-pretstavnici-ne-go-koristat-ustavnoto-ime-sto-gi-doveduva-vo-rizik-dobrososedskite-odnosi-pisuva-vo-izvestajot-na-ek-za-zemjava.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2020/02/evropska-komisija-960x639-1.jpg",
-      "date": "Wed, 04 Nov 2026 18:43:05 +0000"
+      "url": "https://time.mk/c/07d55e3378/foto-pari-vozila-i-dokumentacija-pronajdeni-pri-pretresi-vo-kumanovo-neoficijalno-se-istrazuva-organiziran-kriminal-povrzan-so-lihvarstvo.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/87411/conversions/text-max.jpg",
+      "date": "Thu, 05 Nov 2026 10:05:16 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Галетановски по трагедијата во Богданци: Девојката пријавувала насилство, институциите потфрлија – време е за протести! | Скопје1",
+      "title": "„Надворешната политика на државата и целосната усогласеност со ЗНБП повторно највисоко оценети од ЕУ“, извести Министерство за надворешни работи | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/34221f2e19/galetanovski-po-tragedijata-vo-bogdanci-devojkata-prijavuvala-nasilstvo-instituciite-potfrlija-vreme-e-za-protesti.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/39645/conversions/galetanovski-max.jpg",
-      "date": "Thu, 05 Nov 2026 00:04:39 +0000"
+      "url": "https://time.mk/c/31d2aa061b/nadvoresnata-politika-na-drzavata-i-celosnata-usoglasenost-so-znbp-povtorno-najvisoko-oceneti-od-eu-izvesti-ministerstvo-za-nadvoresni-raboti.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/11/mnr-za-izvestajot-od-ek.webp",
+      "date": "Thu, 05 Nov 2026 09:51:18 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Кос порача дека напредокот во преговорите зависи само од нас | Независен",
+      "title": "ДАЛИ МУСЛИУ ПРИБИРАЛ ПАРИ ОД ЛУЃЕ НА КОИ ИМ ДАВАЛ БЕЗБЕДНОСНИ СЕРТИФИКАТИ? Стојаноски бара Обвинителството да ја провери поврзаноста на Пендаровски со градежната инвестиција на Муслиу во Влае | +инфо",
       "description": "",
-      "url": "https://time.mk/c/02a3be6440/kos-poraca-deka-napredokot-vo-pregovorite-zavisi-samo-od-nas.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/11/Screenshot_4-11-2026_13512_multimedia.europarl.europa.eu_.jpeg",
-      "date": "Wed, 04 Nov 2026 13:55:11 +0000"
+      "url": "https://time.mk/c/84db57da23/dali-musliu-pribiral-pari-od-lugje-na-koi-im-daval-bezbednosni-sertifikati-stojanoski-bara-obvinitelstvoto-da-ja-proveri-povrzanosta-na-pendarovski-so-gradeznata-investicija-na-musliu-vo-vlae.html",
+      "image": "https://plusinfo.mk/wp-content/uploads/2026/11/bojan-stojanovski-e1793874030952.jpg",
+      "date": "Thu, 05 Nov 2026 10:23:19 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Фемицид во Богданци: Билјана Кириќ е жртвата на Виктор Гунтаров, кој потоа си го одзеде животот | Слободен Печат",
+      "title": "Уставните измени остануваат пречка за Македонија: Што пишува во новиот извештај на Европската комисија? | Фактор",
       "description": "",
-      "url": "https://time.mk/c/d5fc158b83/femicid-vo-bogdanci-biljana-kirik-e-zrtvata-na-viktor-guntarov-koj-potoa-si-go-odzede-zivotot.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/11/Screenshot-2026-11-04-at-16.11.30-300x291.png",
-      "date": "Wed, 04 Nov 2026 16:02:43 +0000"
+      "url": "https://time.mk/c/f07f952eae/ustavnite-izmeni-ostanuvaat-precka-za-makedonija-sto-pisuva-vo-noviot-izvestaj-na-evropskata-komisija.html",
+      "image": "https://faktor.mk/media/main/2026/11/20261105085844.png",
+      "date": "Thu, 05 Nov 2026 08:01:05 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Покрај Сејф Сити контроли ќе вршат и полициски возила – министерот Тошковски најави нови мерки за безбедност на сообраќајот | ТВ21",
+      "title": "Сиљановска -Давкова на средба со дијаспората во Белгија: Географската дистанца не значи и духовно одалечување од татковината | Фокус",
       "description": "",
-      "url": "https://time.mk/c/2bf5963f0f/pokraj-sejf-siti-kontroli-ke-vrsat-i-policiski-vozila-ministerot-toskovski-najavi-novi-merki-za-bezbednost-na-soobrakajot.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2026/11/Screenshot_4-2.jpg",
-      "date": "Wed, 04 Nov 2026 18:06:51 +0000"
+      "url": "https://time.mk/c/20cde46b8a/siljanovska-davkova-na-sredba-so-dijasporata-vo-belgija-geografskata-distanca-ne-znaci-i-duhovno-odalecuvanje-od-tatkovinata.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/11/FB_IMG_1793870470639-1170x780.jpg",
+      "date": "Thu, 05 Nov 2026 09:27:01 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Регионализацијата ќе биде клучно прашање, најавува Клековски | Независен",
+      "title": "Железница со загуби од над 75 милиони евра и со застарена инфраструктура: Што открија ревизорите? | Фокус",
       "description": "",
-      "url": "https://time.mk/c/76788f014a/regionalizacijata-ke-bide-klucno-prasanje-najavuva-klekovski.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/08/Klekovski-i-Andonovska-na-press-vo-min-za-zdravstvo-3-bg.jpg",
-      "date": "Wed, 04 Nov 2026 13:57:19 +0000"
+      "url": "https://time.mk/c/a5a85b33a6/zeleznica-so-zagubi-od-nad-75-milioni-evra-i-so-zastarena-infrastruktura-sto-otkrija-revizorite.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/81674.jpg",
+      "date": "Thu, 05 Nov 2026 09:18:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Половина милијарда евра во трезорот на АЛТА- Што знаела српската Народна банка? | Призма",
+      "title": "МАКЕДОНИЈА МЕЃУ ЗЕМЈИТЕ СО НАЈНИСКА ЦЕНА НА СТРУЈАТА ВО ЕВРОПА Ирците плаќале највисока цена во првата половина од годинава | +инфо",
       "description": "",
-      "url": "https://time.mk/c/47e794c754/polovina-milijarda-evra-vo-trezorot-na-alta-sto-znaela-srpskata-narodna-banka.html",
-      "image": "https://prizma.mk/wp-content/uploads/2026/11/BIRN-Srbija-Alta-banka-1024x512.jpg",
-      "date": "Wed, 04 Nov 2026 11:08:45 +0000"
+      "url": "https://time.mk/c/e28829c6b8/makedonija-megju-zemjite-so-najniska-cena-na-strujata-vo-evropa-ircite-plakale-najvisoka-cena-vo-prvata-polovina-od-godinava.html",
+      "image": "https://plusinfo.mk/wp-content/uploads/2026/02/presmetki-struja-3.jpg",
+      "date": "Thu, 05 Nov 2026 09:42:45 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ИНФЛАЦИЈАТА ВО ХРВАТСКА ЗАБРЗУВА, најголем придонес во годишното зголемување на цените доаѓа од енергијата и од храната | Економија и Бизнис",
+      "title": "ВИДЕО | Вулин се јави од Москва, негира дека избегал од Србија | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/e4392a7c82/inflacijata-vo-hrvatska-zabrzuva-najgolem-pridones-vo-godisnoto-zgolemuvanje-na-cenite-doagja-od-energijata-i-od-hranata.html",
-      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/11/plazalezalkiilugeitalija-1024x768.jpg",
-      "date": "Wed, 04 Nov 2026 19:14:54 +0000"
+      "url": "https://time.mk/c/a69d64d1d9/video-vulin-se-javi-od-moskva-negira-deka-izbegal-od-srbija.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2020/10/aleksandar-vulin-300x169.jpg",
+      "date": "Thu, 05 Nov 2026 08:15:02 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "На Информер му е забрането емитување на емисијата „Првa инфо“ седум дена | Независен",
+      "title": "Брутално ги мачеле жртвите во гаражата на Владата – нови апсења на полициски функционери во Србија | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/b405aa1186/na-informer-mu-e-zabraneto-emituvanje-na-emisijata-prva-info-sedum-dena.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/11/informer-sednica-rem.jpg",
-      "date": "Wed, 04 Nov 2026 14:21:06 +0000"
+      "url": "https://time.mk/c/a58a627be6/brutalno-gi-macele-zrtvite-vo-garazata-na-vladata-novi-apsenja-na-policiski-funkcioneri-vo-srbija.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/11/apsenje-pexels-shox-37732195-1.jpg",
+      "date": "Thu, 05 Nov 2026 08:54:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Вулин се качил во авионот за Москва без безбедносна проверка: Кој потфрлил на аеродромот во Белград, кој ќе одговара? | Вечер Прес",
+      "title": "Француските синдикати организираат штрајкови и протести, бараат повисоки плати и заштита на јавните служби | Deutsche Welle",
       "description": "",
-      "url": "https://time.mk/c/81d09f2ea5/vulin-se-kacil-vo-avionot-za-moskva-bez-bezbednosna-proverka-koj-potfrlil-na-aerodromot-vo-belgrad-koj-ke-odgovara.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/11/er-srbija-pexels-suissounet-20848213-1.jpg",
-      "date": "Wed, 04 Nov 2026 19:22:54 +0000"
+      "url": "https://time.mk/c/73ee5c1b44/francuskite-sindikati-organiziraat-strajkovi-i-protesti-baraat-povisoki-plati-i-zastita-na-javnite-sluzbi.html",
+      "image": "https://static.dw.com/image/79749843_302.jpg",
+      "date": "Thu, 05 Nov 2026 08:38:58 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ДЕМОКРАТИТЕ ПОБЕДИЈА ВО КАНЗАС ЗА ПРВПАТ ОД 1932, ВО ТЕКСАС ОД 1988, ВЕНС КАЖА ДЕКА ГИ ИЗГУБИЛЕ ИЗБОРИТЕ ПОРАДИ ВОЈНАТА ВО ИРАН | Сакам да кажам",
+      "title": "Демократите го презедоа Конгресот во САД: Пет клучни последици за Трамп, Републиканците, Украина и Европа | Deutsche Welle",
       "description": "",
-      "url": "https://time.mk/c/85c3fe2473/demokratite-pobedija-vo-kanzas-za-prvpat-od-1932-vo-teksas-od-1988-vens-kaza-deka-gi-izgubile-izborite-poradi-vojnata-vo-iran.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/11/download-6-.webp",
-      "date": "Wed, 04 Nov 2026 17:49:00 +0000"
+      "url": "https://time.mk/c/f1da6745b8/demokratite-go-prezedoa-kongresot-vo-sad-pet-klucni-posledici-za-tramp-republikancite-ukraina-i-evropa.html",
+      "image": "https://static.dw.com/image/79829010_301.jpg",
+      "date": "Thu, 05 Nov 2026 09:31:06 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Нетанјаху остана без поддршката од своите стари сојузници, се отвора патот на Ајзенкот до мандатот | Вечер Прес",
+      "title": "(Видео) Град Скопје ја прифати иницијативата на Левица: Младите брачни парови ќе бидат ослободени од делот на надоместокот за уредување на градежното земјиште | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/2bb5a49644/netanjahu-ostana-bez-poddrskata-od-svoite-stari-sojuznici-se-otvora-patot-na-ajzenkot-do-mandatot.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/11/gadi-ajzenkot-epa-avgust26.jpg",
-      "date": "Wed, 04 Nov 2026 20:32:51 +0000"
+      "url": "https://time.mk/c/24cdf1dd44/video-grad-skopje-ja-prifati-inicijativata-na-levica-mladite-bracni-parovi-ke-bidat-oslobodeni-od-delot-na-nadomestokot-za-ureduvanje-na-gradeznoto-zemjiste.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2022/01/grad-skopje.jpg",
+      "date": "Thu, 05 Nov 2026 08:36:51 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Одржана 26 седница на Заедничкиот консултативен комитет – силни општини за европски квалитет на живот | Независен",
+      "title": "Кисела Вода го креира Буџетот заедно со граѓаните: Одржани јавните средби во Драчево и во Домот на култура „Билјана Беличанец“ | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/4bc5e808ea/odrzana-26-sednica-na-zaednickiot-konsultativen-komitet-silni-opstini-za-evropski-kvalitet-na-zivot.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/11/orce.jpg",
-      "date": "Wed, 04 Nov 2026 12:47:17 +0000"
+      "url": "https://time.mk/c/197b495444/kisela-voda-go-kreira-budzetot-zaedno-so-gragjanite-odrzani-javnite-sredbi-vo-dracevo-i-vo-domot-na-kultura-biljana-belicanec.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/11/kvoda-budzet.webp",
+      "date": "Thu, 05 Nov 2026 08:18:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВИДЕО | ЦУК побарал од Градот и од Општината да го проверат оштетениот пат во Усје | Слободен Печат",
+      "title": "Управител на фирма за технички прегледи осомничен за проневера на 41,5 милиони денари | 4NEWS",
       "description": "",
-      "url": "https://time.mk/c/b74e952a74/video-cuk-pobaral-od-gradot-i-od-opstinata-da-go-proverat-osteteniot-pat-vo-usje.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/11/usje-novi-9-300x225.jpg",
-      "date": "Wed, 04 Nov 2026 16:32:56 +0000"
+      "url": "https://time.mk/c/efb1115b45/upravitel-na-firma-za-tehnicki-pregledi-osomnicen-za-pronevera-na-41-5-milioni-denari.html",
+      "image": "https://4news.mk/wp-content/uploads/2026/07/makedonec-uapsen-crna-gora-576x1024.avif",
+      "date": "Thu, 05 Nov 2026 08:24:42 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ОСОМНИЧЕНИТЕ ЗА МАНИПУЛАЦИИ СО Е-ИНДЕКСИТЕ ДОБИЈА ПРИТВОР Судот го прифати предлогот на Обвинителството | +инфо",
+      "title": "Кривична против скопјанец: на Фејсбук објавувал епизоди од серија за кои немал авторски права | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/8f9bb53a17/osomnicenite-za-manipulacii-so-e-indeksite-dobija-pritvor-sudot-go-prifati-predlogot-na-obvinitelstvoto.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2026/11/e-indeks.png",
-      "date": "Wed, 04 Nov 2026 18:04:58 +0000"
+      "url": "https://time.mk/c/049e30d7e1/krivicna-protiv-skopjanec-na-fejsbuk-objavuval-epizodi-od-serija-za-koi-nemal-avtorski-prava.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/11/televizija-dokumenti-mvr-foto.webp",
+      "date": "Thu, 05 Nov 2026 08:44:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Двајца си ги тепале сопругите, еден ѝ се заканувал на својата – четири нови случаи на семејно насилство вчера во земјата | Слободен Печат",
+      "title": "ШЕСТА ГОДИНА НЕ СЕ ПРАВИ СПЕРМОГРАМ ВО БИТОЛСКАТА БОЛНИЦА ОТИ НЕМА БИОЛОГ | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/345054683f/dvajca-si-gi-tepale-soprugite-eden-i-se-zakanuval-na-svojata-cetiri-novi-slucai-na-semejno-nasilstvo-vcera-vo-zemjata.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2021/01/semejno-nasilstvo-300x170.jpg",
-      "date": "Wed, 04 Nov 2026 14:24:58 +0000"
+      "url": "https://time.mk/c/48e65f5fe0/sesta-godina-ne-se-pravi-spermogram-vo-bitolskata-bolnica-oti-nema-biolog.html",
+      "image": "https://sdk.mk/wp-content/uploads/2021/07/bolnica-bitola.jpg",
+      "date": "Thu, 05 Nov 2026 10:09:06 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Соња Михајлова остави неизбришлива трага во македонскиот театар – наградена за животно дело | 4NEWS",
+      "title": "Со свечена академија одбележан денот на ослободувањето на Битола | Шеталиште",
       "description": "",
-      "url": "https://time.mk/c/a8b5383bb9/sonja-mihajlova-ostavi-neizbrisliva-traga-vo-makedonskiot-teatar-nagradena-za-zivotno-delo.html",
-      "image": "https://4news.mk/wp-content/uploads/2026/11/unnamed.avif",
-      "date": "Wed, 04 Nov 2026 20:24:39 +0000"
+      "url": "https://time.mk/c/7b5407066e/so-svecena-akademija-odbelezan-denot-na-osloboduvanjeto-na-bitola.html",
+      "image": "https://setaliste.mk/wp-content/uploads/2026/11/20261104233200_big_730x400_48-150x150.webp",
+      "date": "Thu, 05 Nov 2026 09:12:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Охридското Езеро го достигнува критичниот минимум | Слободен Печат",
+      "title": "ЕКОТИП и Дарко Рундек, „Хаустор“ и Екипа – за бистрите извори, за чистата природа и за вредностите што траат | Црнобело",
       "description": "",
-      "url": "https://time.mk/c/472ed31767/ohridskoto-ezero-go-dostignuva-kriticniot-minimum.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2024/05/ohrid-ohridsko-ezero-2-300x197.jpg",
-      "date": "Wed, 04 Nov 2026 13:42:54 +0000"
+      "url": "https://time.mk/c/2cf77a9623/ekotip-i-darko-rundek-haustor-i-ekipa-za-bistrite-izvori-za-cistata-priroda-i-za-vrednostite-sto-traat.html",
+      "image": "https://www.crnobelo.com/images/stories/2026/11/1041/ekotip-i-darko-rundek-haustor-i-ekipa-za-bistrite-izvori-za-chistata-priroda-i-za-vrednostite-shto-traat-povekje.jpg",
+      "date": "Thu, 05 Nov 2026 09:35:14 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Отворен 26. Скопски филмски фестивал/ФОТОГАЛЕРИЈА од црвениот тепих | Вечер Прес",
+      "title": "Објавена е книгата „Кодификаторите на македонскиот јазик“ од Димитар Пандев | Независен",
       "description": "",
-      "url": "https://time.mk/c/59f47fef83/otvoren-26-skopski-filmski-festival-fotogalerija-od-crveniot-tepih.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/11/36b54427-90c0-4404-b815-0d463027eb1e.jpg",
-      "date": "Wed, 04 Nov 2026 21:11:00 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Слушачка промоција на винил плочата „Полноќни приказни од Офицерскиот дом“ | Вечер Прес",
-      "description": "",
-      "url": "https://time.mk/c/e55aa9489e/slusacka-promocija-na-vinil-plocata-polnokni-prikazni-od-oficerskiot-dom.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/11/bitola-ovaa-glavna.jpg",
-      "date": "Wed, 04 Nov 2026 13:38:59 +0000"
+      "url": "https://time.mk/c/8db3ec4aed/objavena-e-knigata-kodifikatorite-na-makedonskiot-jazik-od-dimitar-pandev.html",
+      "image": "http://vesnik-ilinden.com/wp-content/uploads/2026/11/kniga-kodifikatorite-na-makedonskiot-jazik-188x300.jpg",
+      "date": "Thu, 05 Nov 2026 08:16:49 +0000"
     }
   ],
   "de": [
@@ -638,6 +638,33 @@
     {
       "category": "eng",
       "source": "PCWorld",
+      "title": "Microsoft Project Professional 2024 drops to $40 for a lifetime license",
+      "description": "TL;DR: Project management software doesn’t have to be a monthly expense. Get Microsoft Project Professional 2024 for $39.97 (reg. $1,129.99) and pay once for a single Windows PC. Juggling deadlines, task dependencies, and team workloads in a spreadsheet gets messy fast. Project Professional 2024 gives managers and team leads a dedicated tool for planning work from kickoff to delivery. Grab Microsoft Project Professional 2024 for $39.97 (reg. $1,129.99) and retire that spreadsheet for good. Sched",
+      "url": "https://www.pcworld.com/article/3276091/microsoft-project-professional-2024-drops-to-40-for-a-lifetime-license.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3276091-0-53694900-1793865655-Project-Pro-2024.jpg?quality=50&strip=all",
+      "date": "Thu, 05 Nov 2026 08:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Get 10TB of private cloud storage for your Mac for $269.97, no monthly fees",
+      "description": "TL;DR: Get 10TB of encrypted cloud storage with an Internxt lifetime subscription for $269.97 (reg. $2,900). Cloud storage plans charge you monthly, and the bill grows as your photo library grows. To pay once instead, consider an Internxt 10TB lifetime subscription , a private, encrypted cloud storage plan on sale for $269.97 (reg. $2,900). With 10TB, you have room for a large Photos library, years of documents, and the video from your iPhone. Internxt encrypts each file on your Mac before it up",
+      "url": "https://www.pcworld.com/article/3276150/get-10tb-of-private-cloud-storage-for-your-mac-for-269-97-no-monthly-fees.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3276150-0-44904500-1793865667-Internxt.jpg?quality=50&strip=all",
+      "date": "Thu, 05 Nov 2026 08:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Get GPT, Claude, Gemini, and 50+ more AI models for $39.99 for life",
+      "description": "TL;DR: Use GPT, Claude, Gemini, and 50+ more AI models in one place with an AskAnyModel lifetime subscription, now $39.99 (reg. $499). Every AI chatbot wants to gobble up your money with a monthly bill and its own login. Using more than one quickly means paying for several plans, but a simpler option is an AskAnyModel AI Pro Plan lifetime subscription , a single workspace for more than 50 AI models, on sale for $39.99 (reg. $499). Thirty standard models come with unlimited chats, including DeepS",
+      "url": "https://www.pcworld.com/article/3276124/get-gpt-claude-gemini-and-50-more-ai-models-for-39-99-for-life.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3276124-0-58335100-1793865655-AskAnyModel.jpg?quality=50&strip=all",
+      "date": "Thu, 05 Nov 2026 08:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
       "title": "This Baseus 100W 3-port charger is $46, near its all-time low",
       "description": "NOW 23% OFF Baseus PicoGo Pro AH22 Charger A 100W USB-C fast charger with 3 ports and smart display View Deal Instead of using multiple chargers or hunting for outlets across the room to fit them all, why not just get a single multi-port charger? The Baseus PicoGo Pro AH22 comes with three ports, and it’s on sale for just $45.99 at Amazon right now . That’s very close to its all-time lowest price of $43.69, so it’s a real deal. (Just note this is a Prime-exclusive discount. If you don’t have Pri",
       "url": "https://www.pcworld.com/article/3276992/this-baseus-100w-3-port-charger-is-46-near-its-all-time-low.html",
@@ -697,33 +724,6 @@
       "url": "https://www.pcworld.com/article/3275866/nvidias-rtx-spark-laptops-make-no-sense-until-they-do.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3275866-0-08940300-1793797262-nvidia-rtx-spark-7.jpg?quality=50&strip=all",
       "date": "Wed, 04 Nov 2026 13:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Lawyers say vibe-coding your own app is low risk. But there’s a catch",
-      "description": "A month ago, another wall fell to AI. Frontier models from Anthropic and OpenAI are now capable of “reverse engineering” popular software like Photoshop and Microsoft Word into free versions. Does that mean you can do it, too, with your own apps? Not without a lot of time, effort, and tokens. But your legal right to reverse-engineer software hasn’t been tested yet, and experts say you’re pretty much free to experiment as you wish—with some common-sense limitations. By now, most people are at lea",
-      "url": "https://www.pcworld.com/article/3274962/vibe-coding-a-word-clone-your-ai-prompt-could-be-a-legal-problem.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3274962-0-41108600-1793815768-puff-Olha-Ruskykh-pexels.jpg?quality=50&strip=all",
-      "date": "Wed, 04 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Secure Boot locked me out of my own Windows laptop. Here’s what finally fixed it",
-      "description": "You turn on your laptop. Or at least, you try. The screen stays black, with just nine words displayed in white: Invalid signature detected. Check secure boot policy in setup . Congratulations, you have a secure boot problem. But it may not be fixable in the way past internet forum threads and Reddit posts will suggest. Instead, you’ll probably have to roll up your sleeves, break out a USB drive, and run some BIOS updates. Here’s how I found out the hard way. A laptop that wouldn’t boot into Wind",
-      "url": "https://www.pcworld.com/article/3273756/secure-boot-locked-me-out-of-my-own-windows-laptop-heres-what-finally-fixed-it.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3273756-0-91727200-1793790063-secure-boot.jpg?quality=50&strip=all",
-      "date": "Wed, 04 Nov 2026 11:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Meet Qobuz, the anti-Spotify for music lovers",
-      "description": "Remember that feeling you got when you found a new song that you absolutely loved? Maybe you heard it randomly on the radio or a friend turned you onto some up-and-coming band. Chances are, discovery of your favorite songs had a very human element behind it. To rediscover this musical serendipity, there are services like Qobuz . It’s a music streaming service that puts the emphasis back on human recommendations rather than algorithms. Qobuz has a team of music experts who handpick albums, curate",
-      "url": "https://www.pcworld.com/article/3270015/meet-qobuz-the-anti-spotify-for-music-lovers.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3270015-0-87542000-1793788256-Qobuz.png",
-      "date": "Wed, 04 Nov 2026 10:30:00 +0000"
     }
   ],
   "starwars": [
@@ -998,5 +998,276 @@
       "date": "Mon, 02 Nov 2026 20:00:50 +0000"
     }
   ],
-  "youtube": []
+  "youtube": [
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Woher kennt der Geldautomat meine PIN ?! #informatik #cybersecurity #code #kryptografie",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/qOnbmyBEdPM",
+      "image": "https://i.ytimg.com/vi/qOnbmyBEdPM/hqdefault.jpg",
+      "date": "2026-11-04T16:42:08+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Frankreich war die Warnung, jetzt trifft es auch andere europäische Supermärkte....",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/2oC1IVGSDDw",
+      "image": "https://i.ytimg.com/vi/2oC1IVGSDDw/hqdefault.jpg",
+      "date": "2026-11-03T18:53:12+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Apple warnt Abgeordnete vor einem Spyware Angriff.... #informatik #cybersecurity #news #iphone",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/VlJv2AW9cXU",
+      "image": "https://i.ytimg.com/vi/VlJv2AW9cXU/hqdefault.jpg",
+      "date": "2026-11-02T18:30:26+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Wie viel von Mr. Robot ist echt? - Episode 1",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=CD4aM2F43YU",
+      "image": "https://i.ytimg.com/vi/CD4aM2F43YU/hqdefault.jpg",
+      "date": "2026-11-01T19:40:08+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Binance wurde gehackt und hat den Diebstahl selbst unterschrieben ?! #informatik",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/yFxQfnjKTHg",
+      "image": "https://i.ytimg.com/vi/yFxQfnjKTHg/hqdefault.jpg",
+      "date": "2026-10-30T11:10:03+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Claude pimpt deinen Fernseher #informatik #code #claude #tv #llm #tech",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/i0BFT2vjbhg",
+      "image": "https://i.ytimg.com/vi/i0BFT2vjbhg/hqdefault.jpg",
+      "date": "2026-10-29T14:45:09+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Video auf Anfrage durch eure DMs :) ich persönlich würde eher auf MVT von Amnesty zurückgreifen",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/rM2PVN9Lzco",
+      "image": "https://i.ytimg.com/vi/rM2PVN9Lzco/hqdefault.jpg",
+      "date": "2026-10-28T17:45:26+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Das Privacy Paradox erklärt #informatik #cybersecurity #privacy #bildung",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/ByAtxL2xynk",
+      "image": "https://i.ytimg.com/vi/ByAtxL2xynk/hqdefault.jpg",
+      "date": "2026-10-27T18:44:58+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Das Dining Cryptographers Problem #informatik #cybersecurity #kryptografie #itsecurity",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/eNbsdiwAqpw",
+      "image": "https://i.ytimg.com/vi/eNbsdiwAqpw/hqdefault.jpg",
+      "date": "2026-10-26T11:00:24+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Ein öffentliches CTF für die Php2Shell Lücke ?! #informatik #code #cybersecurity #ctf #news",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/juFpuEj1hU4",
+      "image": "https://i.ytimg.com/vi/juFpuEj1hU4/hqdefault.jpg",
+      "date": "2026-10-25T16:46:55+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Set Off Alarms in Abandoned Paper Mill",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=_2m_nAVaYSg",
+      "image": "https://i.ytimg.com/vi/_2m_nAVaYSg/hqdefault.jpg",
+      "date": "2026-09-30T17:00:15+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Exploring The Last Coal Power Plant in Connecticut Bridgeport Harbor Station",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=CR84XRBKBzs",
+      "image": "https://i.ytimg.com/vi/CR84XRBKBzs/hqdefault.jpg",
+      "date": "2026-08-27T17:00:39+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Rocketdyne Santa Susana Field Laboratory Abandoned America Space Race (1948)",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=0lka-0REQrQ",
+      "image": "https://i.ytimg.com/vi/0lka-0REQrQ/hqdefault.jpg",
+      "date": "2026-04-23T17:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition AMC Seats And Screens Left Behind",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=UnG29VothuQ",
+      "image": "https://i.ytimg.com/vi/UnG29VothuQ/hqdefault.jpg",
+      "date": "2026-03-27T21:09:35+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition Fly by In And Out",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=fDnOH8ZsfTg",
+      "image": "https://i.ytimg.com/vi/fDnOH8ZsfTg/hqdefault.jpg",
+      "date": "2026-03-27T20:40:08+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "AMC Westfield Promenade Mall Raw Demolition Drone Footage",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/5iA5R3Jq4g0",
+      "image": "https://i.ytimg.com/vi/5iA5R3Jq4g0/hqdefault.jpg",
+      "date": "2026-03-27T18:03:29+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition AMC Coming Down First!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=SAxjFGjTiHQ",
+      "image": "https://i.ytimg.com/vi/SAxjFGjTiHQ/hqdefault.jpg",
+      "date": "2026-03-23T17:42:38+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Beautiful Art Deco Theater",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=ccfU0LSmkj8",
+      "image": "https://i.ytimg.com/vi/ccfU0LSmkj8/hqdefault.jpg",
+      "date": "2026-03-11T20:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Decommissioned Power Station #synthwave #synth #retrowave #abandonedplaces",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/mOUbNSMoBJs",
+      "image": "https://i.ytimg.com/vi/mOUbNSMoBJs/hqdefault.jpg",
+      "date": "2025-06-17T17:55:51+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Wheel of Misfortune Three Kids Mine Demolition",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=VXRselqoN-8",
+      "image": "https://i.ytimg.com/vi/VXRselqoN-8/hqdefault.jpg",
+      "date": "2025-06-17T17:45:42+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Switch 2 Jailbroken, PS4 BD-JB for 14.00, PS Vita Storage & WiFi Boosts - ModChat 150",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=a_Z502alSqY",
+      "image": "https://i.ytimg.com/vi/a_Z502alSqY/hqdefault.jpg",
+      "date": "2026-10-31T17:00:20+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Mario's Minute 106 - XBOX LABS Joins in the Decomp & Recomp Craze",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=CZBw4sxFBdI",
+      "image": "https://i.ytimg.com/vi/CZBw4sxFBdI/hqdefault.jpg",
+      "date": "2026-10-28T17:00:08+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Use FTP on a Modded Xbox 360 with Aurora - Network File Transfer Setup",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=xf9HqSbZLsg",
+      "image": "https://i.ytimg.com/vi/xf9HqSbZLsg/hqdefault.jpg",
+      "date": "2026-10-24T17:00:30+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "PS5 13.60 Jailbreak & Hypervisor Exploit, Xbox 360 Softmod, Halo Ported to EVERYTHING - ModChat 149",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=-PXtg_eDYBY",
+      "image": "https://i.ytimg.com/vi/-PXtg_eDYBY/hqdefault.jpg",
+      "date": "2026-10-21T17:00:30+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Backup & Play Xbox 360 Games on a Modded Xbox 360 - Multi-Disc, DLC, XBLA & More!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=KYOZR0zotSc",
+      "image": "https://i.ytimg.com/vi/KYOZR0zotSc/hqdefault.jpg",
+      "date": "2026-10-10T17:00:36+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Softmod the Xbox 360 - Peer Pressure Beginner Setup for Homebrew, Backups, and More!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=G8ceM_xXlO8",
+      "image": "https://i.ytimg.com/vi/G8ceM_xXlO8/hqdefault.jpg",
+      "date": "2026-10-07T19:00:34+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Bad Storage Unauthenticated: Use Any HDD or SSD on Bad Update for Xbox 360!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=svNvWiJAjow",
+      "image": "https://i.ytimg.com/vi/svNvWiJAjow/hqdefault.jpg",
+      "date": "2026-10-03T17:00:02+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Mario's Minute 105 - Wiping Old Drives and XBOX's Disc to Digital Program",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=C0pBgwThC68",
+      "image": "https://i.ytimg.com/vi/C0pBgwThC68/hqdefault.jpg",
+      "date": "2026-09-30T17:00:10+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "AutoDNS: A Useful Network Safety Plugin for Bad Update & ABadAvatar Consoles",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=dgX6KUQy4jk",
+      "image": "https://i.ytimg.com/vi/dgX6KUQy4jk/hqdefault.jpg",
+      "date": "2026-09-26T17:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "PS5 Hypervisor Drama, Xbox 360 Softmod Details Revealed, Switch 2 Game Binary Dumped - ModChat 148",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=eMTjE6NIAAQ",
+      "image": "https://i.ytimg.com/vi/eMTjE6NIAAQ/hqdefault.jpg",
+      "date": "2026-09-23T17:00:08+00:00"
+    }
+  ]
 }
