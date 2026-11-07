@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T20:17:33.198095+00:00",
+  "updated": "2026-11-07T00:13:05.739820+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -94,11 +94,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Експозитурите на „Алта банка“ во Струмица и Тетово од понеделник ќе примаат клиенти без платежни картички | Скопје1",
+      "title": "Пензионери од Ресен, Прилеп и Охрид на трошок на Народна банка со автобус ќе одат по пензии во Битола | Фокус",
       "description": "",
-      "url": "https://time.mk/c/6f98ca3455/ekspoziturite-na-alta-banka-vo-strumica-i-tetovo-od-ponedelnik-ke-primaat-klienti-bez-platezni-karticki.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/87511/conversions/text-max.jpg",
-      "date": "Fri, 06 Nov 2026 19:30:59 +0000"
+      "url": "https://time.mk/c/ee1319a0a5/penzioneri-od-resen-prilep-i-ohrid-na-trosok-na-narodna-banka-so-avtobus-ke-odat-po-penzii-vo-bitola.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/11/Screenshot-2026-11-06-171236.jpg",
+      "date": "Fri, 06 Nov 2026 16:15:10 +0000"
     },
     {
       "category": "mkd",
@@ -112,29 +112,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Милошоски: Во Извештајот на ЕК јасно пишува дека владејачкото мнозинство ниту еднаш не го злоупотребило европското знаменце за носење закони | Press24",
+      "title": "Двајца во затворски, а еден во куќен притвор – Кривичен им одреди мерки на осомничените од кумановската група | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/32907c5fe2/milososki-vo-izvestajot-na-ek-jasno-pisuva-deka-vladejackoto-mnozinstvo-nitu-ednas-ne-go-zloupotrebilo-evropskoto-znamence-za-nosenje-zakoni.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/82088.jpg",
-      "date": "Fri, 06 Nov 2026 19:24:55 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Димитриевски бара лидерска средба: Правосудниот испит ќе се полага само на македонски јазик, нема отстапки без реципроцитет | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/fa9b888c41/dimitrievski-bara-liderska-sredba-pravosudniot-ispit-ke-se-polaga-samo-na-makedonski-jazik-nema-otstapki-bez-reciprocitet.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/87510/conversions/text-max.jpg",
-      "date": "Fri, 06 Nov 2026 19:24:55 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Поднесена тужба против Министерството за образование и наука | IRL",
-      "description": "",
-      "url": "https://time.mk/c/ccfe1306b0/podnesena-tuzba-protiv-ministerstvoto-za-obrazovanie-i-nauka.html",
-      "image": "https://irl.mk/wp-content/uploads/2026/11/img_7809-scaled.jpeg",
-      "date": "Fri, 06 Nov 2026 15:02:58 +0000"
+      "url": "https://time.mk/c/f9c7c5775a/dvajca-vo-zatvorski-a-eden-vo-kuken-pritvor-krivicen-im-odredi-merki-na-osomnicenite-od-kumanovskata-grupa.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2024/08/krivicen-sud.png",
+      "date": "Fri, 06 Nov 2026 14:22:53 +0000"
     },
     {
       "category": "mkd",
@@ -148,6 +130,24 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
+      "title": "Димитриевски: Ќе ја напуштиме Владата ако се прифати полагање на правосудниот испит на друг јазик освен македонскиот | 360 степени",
+      "description": "",
+      "url": "https://time.mk/c/45403fff2e/dimitrievski-ke-ja-napustime-vladata-ako-se-prifati-polaganje-na-pravosudniot-ispit-na-drug-jazik-osven-makedonskiot.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2023/10/makso.png",
+      "date": "Fri, 06 Nov 2026 20:32:57 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Поднесена тужба против Министерството за образование и наука | IRL",
+      "description": "",
+      "url": "https://time.mk/c/ccfe1306b0/podnesena-tuzba-protiv-ministerstvoto-za-obrazovanie-i-nauka.html",
+      "image": "https://irl.mk/wp-content/uploads/2026/11/img_7809-scaled.jpeg",
+      "date": "Fri, 06 Nov 2026 15:02:58 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
       "title": "Поставен камен-темелник за новиот систем за наводнување „Страиште“ во општина Валандово | Независен",
       "description": "",
       "url": "https://time.mk/c/4a5fb5f5d0/postaven-kamen-temelnik-za-noviot-sistem-za-navodnuvanje-straiste-vo-opstina-valandovo.html",
@@ -157,11 +157,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Лефков: Филипче шири паника за домино ефект во банкарскиот систем | Press24",
+      "title": "Раст на извозот за 10.83% | еМагазин",
       "description": "",
-      "url": "https://time.mk/c/c553bea002/lefkov-filipce-siri-panika-za-domino-efekt-vo-bankarskiot-sistem.html",
-      "image": "http://press24.mk/wp-content/uploads/ndb-featured/82083.jpg",
-      "date": "Fri, 06 Nov 2026 18:44:58 +0000"
+      "url": "https://time.mk/c/8c0b3e8b93/rast-na-izvozot-za-10-83.html",
+      "image": "https://emagazin.mk/wp-content/uploads/2025/06/20250605_140716-300x225.jpg",
+      "date": "Fri, 06 Nov 2026 13:56:37 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Осум полицајци уапсени во Србија оти до смрт претепале сведок во случајот со убиството на Данка Илиќ | 360 степени",
+      "description": "",
+      "url": "https://time.mk/c/11fd6e4a1f/osum-policajci-uapseni-vo-srbija-oti-do-smrt-pretepale-svedok-vo-slucajot-so-ubistvoto-na-danka-ilik.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2023/10/srpska-policija.jpg",
+      "date": "Fri, 06 Nov 2026 22:46:38 +0000"
     },
     {
       "category": "mkd",
@@ -175,38 +184,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Пирц Мусар: Проширувањето на ЕУ кон Западен Балкан е стратешка инвестиција во мирот и безбедноста на Европа | iNFOMAX",
-      "description": "",
-      "url": "https://time.mk/c/bdf874bcc2/pirc-musar-prosiruvanjeto-na-eu-kon-zapaden-balkan-e-strateska-investicija-vo-mirot-i-bezbednosta-na-evropa.html",
-      "image": "",
-      "date": "Fri, 06 Nov 2026 19:58:41 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Меланија Трамп исмеана поради говорот во Белата куќа: Имаше потешкотии со изговорот на борови на англиски/видео | Вечер Прес",
-      "description": "",
-      "url": "https://time.mk/c/f5868fc668/melanija-tramp-ismeana-poradi-govorot-vo-belata-kuka-imase-poteskotii-so-izgovorot-na-borovi-na-angliski-video.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/10/melanija-krop-sept-1024x696-1.jpg",
-      "date": "Fri, 06 Nov 2026 20:09:03 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
       "title": "ПЕТТИ ДЕН ЗАКАНИ СО БОМБИ НА ЛЕТОВИ ВО ЕВРОПА Српски ловци придружувале авион на „Виз Ер“ до Софија | +инфо",
       "description": "",
-      "url": "https://time.mk/c/9f2a4033c3/petti-den-zakani-so-bombi-na-letovi-vo-evropa-srpski-lovci-pridruzuvale-avion-na-viz-er-do-sofija.html",
+      "url": "https://time.mk/c/df9d528229/petti-den-zakani-so-bombi-na-letovi-vo-evropa-srpski-lovci-pridruzuvale-avion-na-viz-er-do-sofija.html",
       "image": "https://plusinfo.mk/wp-content/uploads/2026/11/dojava-avion.jpg",
       "date": "Fri, 06 Nov 2026 16:44:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ФОТО: Камениот мост блесна со ново осветлување | Скопје инфо",
+      "title": "Пад кај акциите поврзани со вештачка интелигенција | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/d07358917d/foto-kameniot-most-blesna-so-novo-osvetluvanje.html",
-      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/noemvri/image-264129.jpg?itok=VnlyfZ4D",
-      "date": "Fri, 06 Nov 2026 19:38:53 +0000"
+      "url": "https://time.mk/c/f5524634f7/pad-kaj-akciite-povrzani-so-vestacka-inteligencija.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/11/svetski-berzi.jpg",
+      "date": "Fri, 06 Nov 2026 13:54:58 +0000"
     },
     {
       "category": "mkd",
@@ -220,20 +211,29 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
+      "title": "Угостителските објекти ќе можат да го фрлаат ѓубрето до 1:00 часот | Вечер Прес",
+      "description": "",
+      "url": "https://time.mk/c/1557a36389/ugostitelskite-objekti-ke-mozat-da-go-frlaat-gjubreto-do-1-00-casot.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/11/komunalen-red.jpg",
+      "date": "Fri, 06 Nov 2026 13:36:59 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
       "title": "Лице од струшко Калишта возел и покрај изречена активна забрана за управување моторно возило | Охрид1",
       "description": "",
-      "url": "https://time.mk/c/664ef6b8d7/lice-od-strusko-kalista-vozel-i-pokraj-izrecena-aktivna-zabrana-za-upravuvanje-motorno-vozilo.html",
+      "url": "https://time.mk/c/6114c69557/lice-od-strusko-kalista-vozel-i-pokraj-izrecena-aktivna-zabrana-za-upravuvanje-motorno-vozilo.html",
       "image": "https://ohrid1.com/wp-content/uploads/2026/02/struga-1-750x460.jpg",
       "date": "Fri, 06 Nov 2026 20:10:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Двајца во затворски, а еден во куќен притвор – Кривичен им одреди мерки на осомничените од кумановската група | 360 степени",
+      "title": "Четворица приведени, петтиот осомничен недостапен за полицијата – запленети пари, договори и возила во Куманово | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/f9c7c5775a/dvajca-vo-zatvorski-a-eden-vo-kuken-pritvor-krivicen-im-odredi-merki-na-osomnicenite-od-kumanovskata-grupa.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2024/08/krivicen-sud.png",
-      "date": "Fri, 06 Nov 2026 14:22:53 +0000"
+      "url": "https://time.mk/c/d251ad874c/cetvorica-privedeni-pettiot-osomnicen-nedostapen-za-policijata-zapleneti-pari-dogovori-i-vozila-vo-kumanovo.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2026/11/ascasc-1024x600.png",
+      "date": "Fri, 06 Nov 2026 14:20:41 +0000"
     },
     {
       "category": "mkd",
@@ -256,20 +256,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Амбасадата на Грција го најавува концертот на Maria Kostraki – Mosaico Mediterraneo | Макфакс",
+      "title": "Бјелогрлиќ со мастерклас во Скопје: Ако обичниот човек не ве разбере што сакате да кажете со филмот, имате проблем | Независен",
       "description": "",
-      "url": "https://time.mk/c/d88cc11d22/ambasadata-na-grcija-go-najavuva-koncertot-na-maria-kostraki-mosaico-mediterraneo.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/11/mosaico-mediteeraneo-1.webp",
-      "date": "Fri, 06 Nov 2026 17:50:39 +0000"
+      "url": "https://time.mk/c/09ed31b1ce/bjelogrlik-so-masterklas-vo-skopje-ako-obicniot-covek-ne-ve-razbere-sto-sakate-da-kazete-so-filmot-imate-problem.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/11/bjelogrlic-skopje.jpg",
+      "date": "Fri, 06 Nov 2026 13:56:37 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Триумф на актерката Соња Михајлова: Награда за животно дело во Битола и Гран При во Токио за филмот „Сестра, брат и шахта“ | Макфакс",
+      "title": "Викендов на СФФ2026: Фокус на слободата на говорот, европски краткометражни филмови, психолошки драми и регионални соработки | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/263b6eb412/triumf-na-akterkata-sonja-mihajlova-nagrada-za-zivotno-delo-vo-bitola-i-gran-pri-vo-tokio-za-filmot-sestra-brat-i-sahta.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/11/sonja-mihajlova-1.webp",
-      "date": "Fri, 06 Nov 2026 19:46:37 +0000"
+      "url": "https://time.mk/c/804ca23f24/vikendov-na-sff2026-fokus-na-slobodata-na-govorot-evropski-kratkometrazni-filmovi-psiholoski-drami-i-regionalni-sorabotki.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/11/sff2026_programa.webp",
+      "date": "Fri, 06 Nov 2026 17:52:52 +0000"
     }
   ],
   "de": [
@@ -458,6 +458,33 @@
     {
       "category": "eng",
       "source": "Lifehacker",
+      "title": "Three Ways to Avoid CAPTCHA Prompts When Using a VPN",
+      "description": "Tired of clicking on tires and traffic lights? Here are three practical ways to make those CAPTCHA prompts go away.",
+      "url": "https://lifehacker.com/tech/how-to-avoid-captcha-prompts-when-using-a-vpn?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M6S0MACKQCA4NWV8WZSQVK92/hero-image.jpg",
+      "date": "Fri, 06 Nov 2026 23:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week",
+      "description": "Find great deals on the M5 MacBook Air, Bose speakers and headphones, a Samsung OLED TV, and more.",
+      "url": "https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.jpg",
+      "date": "Fri, 06 Nov 2026 22:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Everything You Need to Know About Amazon's 2026 Black Friday and Cyber Monday Sales",
+      "description": "You can start shopping Amazon's early Black Friday deals right now.",
+      "url": "https://lifehacker.com/tech/amazon-black-friday-cyber-monday-faq-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M6S8ASVYZDRYTXTZB6C7RDVH/hero-image.webp",
+      "date": "Fri, 06 Nov 2026 20:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
       "title": "Apple Won't Make a Small Phone so This Company Is Stepping In",
       "description": "\"Enough Phone\" is making a mini phone.",
       "url": "https://lifehacker.com/tech/apple-wont-make-a-small-phone-so-this-company-is-stepping-in?utm_medium=RSS",
@@ -610,33 +637,6 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "These Bose QuietComfort Headphones Are $160 Off Ahead of Black Friday",
-      "description": "Bose’s second-generation QuietComfort Headphones are now $200.",
-      "url": "https://lifehacker.com/tech/bose-quietcomfort-headphones-sale-early-black-friday-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M6N5D7AS05KHSMVQFAJHZTQ5/hero-image.jpg",
-      "date": "Thu, 05 Nov 2026 13:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "Everything You Should Know About This Year's Black Friday Sales",
-      "description": "Black Friday 2026 is starting much earlier than in previous years.",
-      "url": "https://lifehacker.com/tech/what-to-know-about-black-friday-2026-sales?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M6M9C0FEV5RNYQPDWWT8HYHR/hero-image.png",
-      "date": "Wed, 04 Nov 2026 22:17:18 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "Five Hacks Every Una Watch User Should Know",
-      "description": "This watch may be simple, but it has a few pleasant surprises.",
-      "url": "https://lifehacker.com/health/best-una-watch-hacks?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M6M6EVY2GG570BSXJVMXP67S/hero-image.jpg",
-      "date": "Wed, 04 Nov 2026 21:30:50 +0000"
-    },
-    {
-      "category": "eng",
       "source": "PCWorld",
       "title": "Sony’s 1979 Walkman headphones are back. (This time with USB-C)",
       "description": "It was 1979, and suddenly it was possible to take your favorite music with you wherever you went. Sony’s first Walkman, the TPS-L2, marked the start of a revolution. For those of us who were there, those slim headphones with their colorful ear pads remain a real trip down memory lane. Now, almost half a century later, the MDR-3 headphones are making a comeback as the MDR-3R. Thankfully, Sony hasn’t tried to modernize away their original charm. The lightweight, open-back design remains, complete ",
@@ -686,7 +686,7 @@
       "title": "Valve escaped Windows. Now Steam is breaking free from the PC itself",
       "description": "Valve spent the last decade making Windows optional for PC gaming . Now it wants to do the same thing to x86 — the Intel- and AMD-based CPU architecture at the heart of every gaming PC. If it succeeds, the resulting shake-up could change what “PC game” even means. The Steam Deck proved Valve’s Proton compatibility layer could run an enormous library of Windows games on Linux without developers needing to port them to Linux first. That breakthrough helped make the Steam Deck a success. It also ma",
       "url": "https://www.pcworld.com/article/3266419/valve-escaped-windows-now-steam-is-breaking-free-from-the-pc-itself.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3266419-0-13649000-1793995806-image_3acedd.png",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3266419-0-98315300-1793996341-image_3acedd.png",
       "date": "Fri, 06 Nov 2026 14:00:00 +0000"
     },
     {
@@ -998,276 +998,5 @@
       "date": "Thu, 05 Nov 2026 15:27:57 +0000"
     }
   ],
-  "youtube": [
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Security News der Woche: sshole, TUM und Calif Blockierungsmodus iPhone",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/CDEuOSdif14",
-      "image": "https://i.ytimg.com/vi/CDEuOSdif14/hqdefault.jpg",
-      "date": "2026-11-06T18:00:02+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Wie eine stille SMS deinen Standort bestimmt #informatik #sms #cybersecurity #privacy #phone",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/ClwN-fLOBgU",
-      "image": "https://i.ytimg.com/vi/ClwN-fLOBgU/hqdefault.jpg",
-      "date": "2026-11-05T18:45:32+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Woher kennt der Geldautomat meine PIN ?! #informatik #cybersecurity #code #kryptografie",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/qOnbmyBEdPM",
-      "image": "https://i.ytimg.com/vi/qOnbmyBEdPM/hqdefault.jpg",
-      "date": "2026-11-04T16:42:08+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Frankreich war die Warnung, jetzt trifft es auch andere europäische Supermärkte....",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/2oC1IVGSDDw",
-      "image": "https://i.ytimg.com/vi/2oC1IVGSDDw/hqdefault.jpg",
-      "date": "2026-11-03T18:53:12+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Apple warnt Abgeordnete vor einem Spyware Angriff.... #informatik #cybersecurity #news #iphone",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/VlJv2AW9cXU",
-      "image": "https://i.ytimg.com/vi/VlJv2AW9cXU/hqdefault.jpg",
-      "date": "2026-11-02T18:30:26+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Wie viel von Mr. Robot ist echt? - Episode 1",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=CD4aM2F43YU",
-      "image": "https://i.ytimg.com/vi/CD4aM2F43YU/hqdefault.jpg",
-      "date": "2026-11-01T19:40:08+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Binance wurde gehackt und hat den Diebstahl selbst unterschrieben ?! #informatik",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/yFxQfnjKTHg",
-      "image": "https://i.ytimg.com/vi/yFxQfnjKTHg/hqdefault.jpg",
-      "date": "2026-10-30T11:10:03+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Claude pimpt deinen Fernseher #informatik #code #claude #tv #llm #tech",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/i0BFT2vjbhg",
-      "image": "https://i.ytimg.com/vi/i0BFT2vjbhg/hqdefault.jpg",
-      "date": "2026-10-29T14:45:09+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Video auf Anfrage durch eure DMs :) ich persönlich würde eher auf MVT von Amnesty zurückgreifen",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/rM2PVN9Lzco",
-      "image": "https://i.ytimg.com/vi/rM2PVN9Lzco/hqdefault.jpg",
-      "date": "2026-10-28T17:45:26+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Das Privacy Paradox erklärt #informatik #cybersecurity #privacy #bildung",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/ByAtxL2xynk",
-      "image": "https://i.ytimg.com/vi/ByAtxL2xynk/hqdefault.jpg",
-      "date": "2026-10-27T18:44:58+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Set Off Alarms in Abandoned Paper Mill",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=_2m_nAVaYSg",
-      "image": "https://i.ytimg.com/vi/_2m_nAVaYSg/hqdefault.jpg",
-      "date": "2026-09-30T17:00:15+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Exploring The Last Coal Power Plant in Connecticut Bridgeport Harbor Station",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=CR84XRBKBzs",
-      "image": "https://i.ytimg.com/vi/CR84XRBKBzs/hqdefault.jpg",
-      "date": "2026-08-27T17:00:39+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Rocketdyne Santa Susana Field Laboratory Abandoned America Space Race (1948)",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=0lka-0REQrQ",
-      "image": "https://i.ytimg.com/vi/0lka-0REQrQ/hqdefault.jpg",
-      "date": "2026-04-23T17:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Mall Westfield Promenade Demolition AMC Seats And Screens Left Behind",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=UnG29VothuQ",
-      "image": "https://i.ytimg.com/vi/UnG29VothuQ/hqdefault.jpg",
-      "date": "2026-03-27T21:09:35+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Mall Westfield Promenade Demolition Fly by In And Out",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=fDnOH8ZsfTg",
-      "image": "https://i.ytimg.com/vi/fDnOH8ZsfTg/hqdefault.jpg",
-      "date": "2026-03-27T20:40:08+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "AMC Westfield Promenade Mall Raw Demolition Drone Footage",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/5iA5R3Jq4g0",
-      "image": "https://i.ytimg.com/vi/5iA5R3Jq4g0/hqdefault.jpg",
-      "date": "2026-03-27T18:03:29+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Mall Westfield Promenade Demolition AMC Coming Down First!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=SAxjFGjTiHQ",
-      "image": "https://i.ytimg.com/vi/SAxjFGjTiHQ/hqdefault.jpg",
-      "date": "2026-03-23T17:42:38+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Beautiful Art Deco Theater",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=ccfU0LSmkj8",
-      "image": "https://i.ytimg.com/vi/ccfU0LSmkj8/hqdefault.jpg",
-      "date": "2026-03-11T20:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Decommissioned Power Station #synthwave #synth #retrowave #abandonedplaces",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/mOUbNSMoBJs",
-      "image": "https://i.ytimg.com/vi/mOUbNSMoBJs/hqdefault.jpg",
-      "date": "2025-06-17T17:55:51+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Wheel of Misfortune Three Kids Mine Demolition",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=VXRselqoN-8",
-      "image": "https://i.ytimg.com/vi/VXRselqoN-8/hqdefault.jpg",
-      "date": "2025-06-17T17:45:42+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Switch 2 Jailbroken, PS4 BD-JB for 14.00, PS Vita Storage & WiFi Boosts - ModChat 150",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=a_Z502alSqY",
-      "image": "https://i.ytimg.com/vi/a_Z502alSqY/hqdefault.jpg",
-      "date": "2026-10-31T17:00:20+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Mario's Minute 106 - XBOX LABS Joins in the Decomp & Recomp Craze",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=CZBw4sxFBdI",
-      "image": "https://i.ytimg.com/vi/CZBw4sxFBdI/hqdefault.jpg",
-      "date": "2026-10-28T17:00:08+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Use FTP on a Modded Xbox 360 with Aurora - Network File Transfer Setup",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=xf9HqSbZLsg",
-      "image": "https://i.ytimg.com/vi/xf9HqSbZLsg/hqdefault.jpg",
-      "date": "2026-10-24T17:00:30+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "PS5 13.60 Jailbreak & Hypervisor Exploit, Xbox 360 Softmod, Halo Ported to EVERYTHING - ModChat 149",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=-PXtg_eDYBY",
-      "image": "https://i.ytimg.com/vi/-PXtg_eDYBY/hqdefault.jpg",
-      "date": "2026-10-21T17:00:30+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Backup & Play Xbox 360 Games on a Modded Xbox 360 - Multi-Disc, DLC, XBLA & More!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=KYOZR0zotSc",
-      "image": "https://i.ytimg.com/vi/KYOZR0zotSc/hqdefault.jpg",
-      "date": "2026-10-10T17:00:36+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Softmod the Xbox 360 - Peer Pressure Beginner Setup for Homebrew, Backups, and More!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=G8ceM_xXlO8",
-      "image": "https://i.ytimg.com/vi/G8ceM_xXlO8/hqdefault.jpg",
-      "date": "2026-10-07T19:00:34+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Bad Storage Unauthenticated: Use Any HDD or SSD on Bad Update for Xbox 360!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=svNvWiJAjow",
-      "image": "https://i.ytimg.com/vi/svNvWiJAjow/hqdefault.jpg",
-      "date": "2026-10-03T17:00:02+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Mario's Minute 105 - Wiping Old Drives and XBOX's Disc to Digital Program",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=C0pBgwThC68",
-      "image": "https://i.ytimg.com/vi/C0pBgwThC68/hqdefault.jpg",
-      "date": "2026-09-30T17:00:10+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "AutoDNS: A Useful Network Safety Plugin for Bad Update & ABadAvatar Consoles",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=dgX6KUQy4jk",
-      "image": "https://i.ytimg.com/vi/dgX6KUQy4jk/hqdefault.jpg",
-      "date": "2026-09-26T17:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "PS5 Hypervisor Drama, Xbox 360 Softmod Details Revealed, Switch 2 Game Binary Dumped - ModChat 148",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=eMTjE6NIAAQ",
-      "image": "https://i.ytimg.com/vi/eMTjE6NIAAQ/hqdefault.jpg",
-      "date": "2026-09-23T17:00:08+00:00"
-    }
-  ]
+  "youtube": []
 }
