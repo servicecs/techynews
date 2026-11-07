@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T18:13:21.845166+00:00",
+  "updated": "2026-11-07T22:11:47.676034+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -94,6 +94,42 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
+      "title": "(ВИДЕО) Уште три тела пронајдени во домот на напаѓачот од Краков | Фокус",
+      "description": "",
+      "url": "https://time.mk/c/ec1b1d473c/video-uste-tri-tela-pronajdeni-vo-domot-na-napagjacot-od-krakov.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/11/Screenshot-2026-11-07-223913.jpg",
+      "date": "Sat, 07 Nov 2026 21:48:37 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "СДСМ: Ширење паника или паника кај Мицкоски за Алта банка? | 24 Вести",
+      "description": "",
+      "url": "https://time.mk/c/c75c1eeb09/sdsm-sirenje-panika-ili-panika-kaj-mickoski-za-alta-banka.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1794067088/zcmnomh7emnbrdsnp66t.jpg",
+      "date": "Sat, 07 Nov 2026 15:58:41 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "(ВИДЕО) Полицијата во Тирана растеруваше демонстранти со водени топови | 360 степени",
+      "description": "",
+      "url": "https://time.mk/c/ebfeedc528/video-policijata-vo-tirana-rasteruvase-demonstranti-so-vodeni-topovi.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/11/protestitirana.png",
+      "date": "Sat, 07 Nov 2026 19:28:38 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - Sport",
+      "title": "Рома продолжи да „гази“ на „Олимпико“ и му се „залепи“ на Лацио (ВИДЕО) | Дерби",
+      "description": "",
+      "url": "https://time.mk/c/411fc0bbba/roma-prodolzi-da-gazi-na-olimpiko-i-mu-se-zalepi-na-lacio-video.html",
+      "image": "https://derbi.mk/wp-content/uploads/2026/11/rodrigo-mora-roma-vs-sasuolo.jpg",
+      "date": "Sat, 07 Nov 2026 22:02:56 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
       "title": "Министерството за здравство подготвува нова стратегија за дроги со помош на европски експерти | Слободен Печат",
       "description": "",
       "url": "https://time.mk/c/cd165aa6b8/ministerstvoto-za-zdravstvo-podgotvuva-nova-strategija-za-drogi-so-pomos-na-evropski-eksperti.html",
@@ -112,42 +148,6 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "СДСМ: Ширење паника или паника кај Мицкоски за Алта банка? | 24 Вести",
-      "description": "",
-      "url": "https://time.mk/c/cf3c1016b6/sdsm-sirenje-panika-ili-panika-kaj-mickoski-za-alta-banka.html",
-      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1794067088/zcmnomh7emnbrdsnp66t.jpg",
-      "date": "Sat, 07 Nov 2026 15:58:41 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Google Maps како поедноставен избор за постари возачи | Sync",
-      "description": "",
-      "url": "https://time.mk/c/dad25278b0/google-maps-kako-poednostaven-izbor-za-postari-vozaci.html",
-      "image": "",
-      "date": "Sat, 07 Nov 2026 17:46:58 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Европа го вреднува дигиталниот напредок на Македонија – следниот тест е администрацијата без шалтери | Пари",
-      "description": "",
-      "url": "https://time.mk/c/fed5c009e5/evropa-go-vrednuva-digitalniot-napredok-na-makedonija-sledniot-test-e-administracijata-bez-salteri.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/11/North-Macedonia-E-Services-Portal.png",
-      "date": "Sat, 07 Nov 2026 10:30:44 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "За Алијансата на Албанците Максим Димитриевски е „патриот на батерии“ | Независен",
-      "description": "",
-      "url": "https://time.mk/c/1877e2dfda/za-alijansata-na-albancite-maksim-dimitrievski-e-patriot-na-baterii.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2024/04/ÐÐ°ÐºÑÐ¸Ð¼-ÐÐ¸Ð¼Ð¸ÑÑÐ¸ÐµÐ²ÑÐºÐ¸1-1.jpg",
-      "date": "Sat, 07 Nov 2026 10:44:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
       "title": "Комерцијална банка: Сите платежни услуги се достапни | Пари",
       "description": "",
       "url": "https://time.mk/c/c77bb874de/komercijalna-banka-site-platezni-uslugi-se-dostapni.html",
@@ -157,20 +157,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ЛАБУДОВИЌ: Реформите во енергетскиот сектор носат конкретен напредок | Вечер Прес",
+      "title": "Кошутиќ: Очекувам Обвинителството да ги разгледа ревизорските наоди за ЖРСМ Транспорт | Булевар",
       "description": "",
-      "url": "https://time.mk/c/34b561dfe5/labudovik-reformite-vo-energetskiot-sektor-nosat-konkreten-napredok.html",
-      "image": "",
-      "date": "Sat, 07 Nov 2026 15:56:58 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ВИДЕО | Студентите предводеа национален протест во Тирана, одново се судрија со полицијата | Слободен Печат",
-      "description": "",
-      "url": "https://time.mk/c/bebe0054f7/video-studentite-predvodea-nacionalen-protest-vo-tirana-odnovo-se-sudrija-so-policijata.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/11/Screenshot-2026-11-07-183725-300x184.jpg",
-      "date": "Sat, 07 Nov 2026 17:51:03 +0000"
+      "url": "https://time.mk/c/d5c4dd7e16/kosutik-ocekuvam-obvinitelstvoto-da-gi-razgleda-revizorskite-naodi-za-zrsm-transport.html",
+      "image": "https://bulevar.mk/wp-content/uploads/2026/11/man_horizontal-1024x576.jpeg",
+      "date": "Sat, 07 Nov 2026 19:30:55 +0000"
     },
     {
       "category": "mkd",
@@ -184,20 +175,29 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Убил најмалку пет лица: Се појави видео од моментот кога полицаец совладува напаѓач во Краков | Вечер Прес",
+      "title": "ЕДНО ЕВРО СЕ РАЗМЕНУВА ДО 120 ДИНАРИ ВО МЕНУВАЧНИЦИТЕ ВО СРБИЈА, зголемената побарувачка е последица на психолошкиот ефект и стравот кај граѓаните, сметаат експертите | Економија и Бизнис",
       "description": "",
-      "url": "https://time.mk/c/a8e6b366b5/ubil-najmalku-pet-lica-se-pojavi-video-od-momentot-koga-policaec-sovladuva-napagjac-vo-krakov.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/11/polska.jpg",
-      "date": "Sat, 07 Nov 2026 17:34:57 +0000"
+      "url": "https://time.mk/c/75c41f84e8/edno-evro-se-razmenuva-do-120-dinari-vo-menuvacnicite-vo-srbija-zgolemenata-pobaruvacka-e-posledica-na-psiholoskiot-efekt-i-stravot-kaj-gragjanite-smetaat-ekspertite.html",
+      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/07/evrapedesetmnogu-1024x658.jpg",
+      "date": "Sat, 07 Nov 2026 14:25:17 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Руски напади врз објект на „Нафтогас“ во централна Украина предизвикаа голем пожар | Независен",
+      "title": "ВИДЕО | Над 146.000 луѓе протестираа во Франција, избувнаа судири со полицијата во Париз | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/2ee69270c0/ruski-napadi-vrz-objekt-na-naftogas-vo-centralna-ukraina-predizvikaa-golem-pozar.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/11/ukraina-napad.webp",
-      "date": "Sat, 07 Nov 2026 14:54:44 +0000"
+      "url": "https://time.mk/c/e6be93223f/video-nad-146-000-lugje-protestiraa-vo-francija-izbuvnaa-sudiri-so-policijata-vo-pariz.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/11/Screenshot-2026-11-07-222427-300x149.jpg",
+      "date": "Sat, 07 Nov 2026 21:30:58 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "ВИДЕО | Руски напади предизвикаа голем пожар во објект на „Нафтогас“, деветмина се повредени во Киев | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/ff277ebb2e/video-ruski-napadi-predizvikaa-golem-pozar-vo-objekt-na-naftogas-devetmina-se-povredeni-vo-kiev.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/11/892513861_10165274509091108_3348611201963492354_n-300x209.jpg",
+      "date": "Sat, 07 Nov 2026 19:02:55 +0000"
     },
     {
       "category": "mkd",
@@ -213,8 +213,8 @@
       "source": "Time.mk - All",
       "title": "Хоџа: Инвестициите во еколошки технологии носат почист воздух и 20% поевтино греење за скопјани | Журнал",
       "description": "",
-      "url": "https://time.mk/c/94d48849e7/hodza-investiciite-vo-ekoloski-tehnologii-nosat-pocist-vozduh-i-20-poevtino-greenje-za-skopjani.html",
-      "image": "",
+      "url": "https://time.mk/c/c0d0f24b5b/hodza-investiciite-vo-ekoloski-tehnologii-nosat-pocist-vozduh-i-20-poevtino-greenje-za-skopjani.html",
+      "image": "https://zurnal.mk/wp-content/uploads/2026/11/4-1068x712.jpg",
       "date": "Sat, 07 Nov 2026 17:02:59 +0000"
     },
     {
@@ -223,26 +223,17 @@
       "title": "Скопјанец тешко повреден откако паднал со електричен тротинет на велосипедска патека | Скопје инфо",
       "description": "",
       "url": "https://time.mk/c/8f90217b66/skopjanec-tesko-povreden-otkako-padnal-so-elektricen-trotinet-na-velosipedska-pateka.html",
-      "image": "",
+      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/noemvri/image-264158.jpg?itok=ZGB3ZD-w",
       "date": "Sat, 07 Nov 2026 16:38:36 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Татко крвнички го истепал 12-годишниот син, прилепчанец ја тепал 16-годишната партнерка | Слободен Печат",
+      "title": "ПОЛИЦИЈАТА ГО ЗАТЕКНАЛА ДОДЕКА ГИ ОБРАБОТУВАЛ РАСТЕНИЈАТА! Жител на Ново Село фатен на дело - еве колкава површина откри полицијата! | ПРВ.мк",
       "description": "",
-      "url": "https://time.mk/c/0eccc6f3f0/tatko-krvnicki-go-istepal-12-godisniot-sin-prilepcanec-ja-tepal-16-godisnata-partnerka.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/03/policija-kola-4-300x247.png",
-      "date": "Sat, 07 Nov 2026 13:08:47 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "(ФОТО) Стојан Троицки доби НАГРАДА ЗА ЖИВОТНО ДЕЛО од градот Штип | Екран",
-      "description": "",
-      "url": "https://time.mk/c/273c1c8bb1/foto-stojan-troicki-dobi-nagrada-za-zivotno-delo-od-gradot-stip.html",
+      "url": "https://time.mk/c/f16edd665b/policijata-go-zateknala-dodeka-gi-obrabotuval-rastenijata-zitel-na-novo-selo-faten-na-delo-eve-kolkava-povrsina-otkri-policijata.html",
       "image": "",
-      "date": "Sat, 07 Nov 2026 14:58:50 +0000"
+      "date": "Sat, 07 Nov 2026 16:10:43 +0000"
     },
     {
       "category": "mkd",
@@ -256,20 +247,29 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
+      "title": "Факултетот за туризам и угостителство во Охрид се простува од проф. д-р Симона Мартиноска | Скопје1",
+      "description": "",
+      "url": "https://time.mk/c/ad85785c98/fakultetot-za-turizam-i-ugostitelstvo-vo-ohrid-se-prostuva-od-prof-d-r-simona-martinoska.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/87525/conversions/text-max.jpg",
+      "date": "Sat, 07 Nov 2026 10:33:00 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Кијану Ривс се враќа во улогата на Џон Вик, но во новиот анимиран филм „Ultraman: Rising“ | Попара",
+      "description": "",
+      "url": "https://time.mk/c/0e88b0f6b7/kijanu-rivs-se-vraka-vo-ulogata-na-dzon-vik-no-vo-noviot-animiran-film-ultraman-rising.html",
+      "image": "https://popara.mk/wp-content/uploads/2026/11/b_261107070.webp",
+      "date": "Sat, 07 Nov 2026 13:45:05 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
       "title": "ИНТЕРВЈУ Косара Митиќ: „17“ не е воопшто лесен филм, ниту сакав да биде | Слободен Печат",
       "description": "",
       "url": "https://time.mk/c/82fc497473/intervju-kosara-mitik-17-ne-e-voopsto-lesen-film-nitu-sakav-da-bide.html",
       "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/11/web-Kosara-Mitikj-05112026-SFF-01-300x200.jpg",
       "date": "Sat, 07 Nov 2026 17:21:01 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Скопје во 2028 година ќе биде домаќин на Европската театарска конференција | Скопје инфо",
-      "description": "",
-      "url": "https://time.mk/c/7fe22c6d0c/skopje-vo-2028-godina-ke-bide-domakin-na-evropskata-teatarska-konferencija.html",
-      "image": "",
-      "date": "Sat, 07 Nov 2026 16:32:58 +0000"
     }
   ],
   "de": [
@@ -901,6 +901,42 @@
     {
       "category": "starwars",
       "source": "Jedi News",
+      "title": "Samuel L. Jackson and Elijah Wood to Star in ‘1408’ Sequel",
+      "description": "Mace Windu actor Samuel L. Jackson will star alongside Elijah Wood, who voiced Jace Rucklin in Star Wars Resistance, along with Natalia Dyer and John Cusack in a sequel to the 2007 supernatural horror film '1408'. The post Samuel L. Jackson and Elijah Wood to Star in ‘1408’ Sequel appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/samuel-l-jackson-and-elijah-wood-to-star-in-1408-sequel/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/Samuel-L.-Jackson-and-Elijah-Wood-Nov26-300x201.jpg",
+      "date": "Sat, 07 Nov 2026 19:19:03 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Coffee With Kenobi #868: Marvel Meets Star Wars: Kevin Smith and the Crossover Conversation",
+      "description": "Join Dan Zehr and co for episode 868 of Coffee With Kenobi. The post Coffee With Kenobi #868: Marvel Meets Star Wars: Kevin Smith and the Crossover Conversation appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/coffee-with-kenobi-868-marvel-meets-star-wars-kevin-smith-and-the-crossover-conversation/",
+      "image": "",
+      "date": "Sat, 07 Nov 2026 18:48:26 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Kylo Ren Finds the Sith Wayfinder on Mustafar | Star Wars: The Rise of Skywalker | Official Clip",
+      "description": "Kylo Ren journeys to the fiery, forbidden planet of Mustafar in search of the Sith Wayfinder - an ancient artifact that could lead him straight to the long-thought-dead Emperor Palpatine. Stream Star Wars: The Rise of Skywalker on Disney+. The post Kylo Ren Finds the Sith Wayfinder on Mustafar | Star Wars: The Rise of Skywalker | Official Clip appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/kylo-ren-finds-the-sith-wayfinder-on-mustafar-star-wars-the-rise-of-skywalker-official-clip/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/maxresdefault-14-300x169.jpg",
+      "date": "Sat, 07 Nov 2026 11:09:20 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "New Hot Toys Eleventh Brother 1/6 Scale Collectible Figure from Star Wars – Maul: Shadow Lord",
+      "description": "The Eleventh Brother is the latest addition to the lineup of deluxe Star Wars action figures from Hot Toys inspired by the Star Wars animated series, Maul – Shadow Lord, with preorders for this new collectible now open now at Sideshow.com. The post New Hot Toys Eleventh Brother 1/6 Scale Collectible Figure from Star Wars – Maul: Shadow Lord appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/collecting/articles/new-hot-toys-eleventh-brother-1-6-scale-collectible-figure-from-star-wars-maul-shadow-lord/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/eleventh-brother_star-wars_hot-toys_sideshow_01_Nov26-300x201.jpg",
+      "date": "Sat, 07 Nov 2026 10:32:31 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
       "title": "Adam Driver Talks Upcoming X-Men Movie and New Movie Paper Tiger",
       "description": "Adam Driver talks about being neighbors with Matt Damon, working with Miles Teller on his new movie Paper Tiger, playing Mister Sinister in the upcoming X-Men movie, getting asked to be in Marvel movies before this, and his uncle being a dog food delivery driver. The post Adam Driver Talks Upcoming X-Men Movie and New Movie Paper Tiger appeared first on Jedi News .",
       "url": "https://www.jedinews.com/film-music-tv/articles/adam-driver-talks-upcoming-x-men-movie-and-new-movie-paper-tiger/",
@@ -960,42 +996,6 @@
       "url": "https://www.jedinews.com/podcasts/articles/podcast-stardust-1104-the-clone-wars-plan-of-dissent-0409/",
       "image": "https://www.jedinews.com/wp-content/uploads/2020/05/Podcast-Stardust-300x201.jpg",
       "date": "Fri, 06 Nov 2026 11:04:09 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "LEGO Ninjago: Ivo’s Ninja Dojo Set Revealed",
-      "description": "The LEGO Group have revealed the LEGO Ninjago Ivo’s Ninja Dojo set (71888) from the NINJAGO Legends Embers + Ashes TV series, available for preorder now and shipping from January 1st, 2027. The post LEGO Ninjago: Ivo’s Ninja Dojo Set Revealed appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/lego/articles/lego-ninjago-ivos-ninja-dojo-set-revealed-available-january-1st/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/71888_01-300x201.jpg",
-      "date": "Fri, 06 Nov 2026 10:32:46 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Vader vs. Doom Variant Cover Unveiled",
-      "description": "Marvel Comics have unveiled more comic covers for their upcoming releases, including a Darth Vader versus Doom cover by Cory Smith. The post Vader vs. Doom Variant Cover Unveiled appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/vader-vs-doom-variant-cover-unveiled/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/Hope-Assembles-Variant-Reveal-300x201.jpg",
-      "date": "Fri, 06 Nov 2026 09:24:10 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Funko’s Core Collectibles Lead 2026 Q3 Growth as Loungefly Gets Cuts",
-      "description": "Funko‘s core collectibles business continued to gain ground in 2026 Q3, helping the company post higher sales and improved profits, with sales in Europe increasing by 12%, despite a pullback at Loungefly with around half of its SKUs being cut during the quarter. The post Funko’s Core Collectibles Lead 2026 Q3 Growth as Loungefly Gets Cuts appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/collecting/articles/funkos-core-collectibles-lead-2026-q3-growth-as-loungefly-gets-cuts/",
-      "image": "",
-      "date": "Fri, 06 Nov 2026 08:26:03 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Obi-Wan Kenobi’s Epic Duel Vs Jango Fett on Kamino | Star Wars: Attack of the Clones | Official Clip",
-      "description": "When Obi-Wan moves to capture Jango Fett for answers on the remote ocean world of Kamino, it sparks an epic battle in the pouring rain, pitting lightsabers and Jedi combat tactics against Mandalorian weapons and armor. Stream Star Wars: Attack of the Clones on Disney+. The post Obi-Wan Kenobi’s Epic Duel Vs Jango Fett on Kamino | Star Wars: Attack of the Clones | Official Clip appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/obi-wan-kenobis-epic-duel-vs-jango-fett-on-kamino-star-wars-attack-of-the-clones-official-clip/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/maxresdefault-12-300x169.jpg",
-      "date": "Fri, 06 Nov 2026 00:06:57 +0000"
     }
   ],
   "youtube": [
@@ -1182,6 +1182,15 @@
     {
       "category": "youtube",
       "source": "MrMario2011",
+      "title": "DashLaunch for Bad Update & ABadAvatar - Setup & Usage",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=BaPPjKhVYh4",
+      "image": "https://i.ytimg.com/vi/BaPPjKhVYh4/hqdefault.jpg",
+      "date": "2026-11-07T18:00:15+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
       "title": "Switch 2 Jailbroken, PS4 BD-JB for 14.00, PS Vita Storage & WiFi Boosts - ModChat 150",
       "description": "",
       "url": "https://www.youtube.com/watch?v=a_Z502alSqY",
@@ -1259,15 +1268,6 @@
       "url": "https://www.youtube.com/watch?v=dgX6KUQy4jk",
       "image": "https://i.ytimg.com/vi/dgX6KUQy4jk/hqdefault.jpg",
       "date": "2026-09-26T17:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "PS5 Hypervisor Drama, Xbox 360 Softmod Details Revealed, Switch 2 Game Binary Dumped - ModChat 148",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=eMTjE6NIAAQ",
-      "image": "https://i.ytimg.com/vi/eMTjE6NIAAQ/hqdefault.jpg",
-      "date": "2026-09-23T17:00:08+00:00"
     }
   ]
 }
