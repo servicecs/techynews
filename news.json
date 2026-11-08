@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T20:16:18.054335+00:00",
+  "updated": "2026-11-08T23:54:45.912941+00:00",
   "mkd": [
     {
       "category": "mkd",
@@ -102,12 +102,30 @@
     },
     {
       "category": "mkd",
-      "source": "Time.mk - Sport",
-      "title": "Интер ја прекина победничката серија на Комо: Целосна домининација на „Сан Сиро“ | Sport M",
+      "source": "Time.mk - All",
+      "title": "Вториот протокол не е дел од Преговарачката рамка за Македонија – вели австрискиот амбасадор Мартин Памер | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/3cbd109dd9/inter-ja-prekina-pobednickata-serija-na-komo-celosna-domininacija-na-san-siro.html",
-      "image": "https://admin.sportm.mk/wp-content/uploads/2026/11/Screenshot_4-8.jpg",
-      "date": "Sun, 08 Nov 2026 20:12:36 +0000"
+      "url": "https://time.mk/c/69c01f2271/vtoriot-protokol-ne-e-del-od-pregovarackata-ramka-za-makedonija-veli-avstriskiot-ambasador-martin-pamer.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/11/Martin-Pamer.png",
+      "date": "Sun, 08 Nov 2026 22:20:39 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - Sport",
+      "title": "Фабрегас со комплименти за Интер: Тие се најсилни во Европа… | Дерби",
+      "description": "",
+      "url": "https://time.mk/c/ce5c5491dc/fabregas-so-komplimenti-za-inter-tie-se-najsilni-vo-evropa.html",
+      "image": "https://derbi.mk/wp-content/uploads/2026/03/fabregas-7-3-26.jpg",
+      "date": "Sun, 08 Nov 2026 23:00:42 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "„ПРВ ПАТ ВО ПАРЛАМЕНТАРНАТА ИСТОРИЈА НА СРБИЈА НЕМА ДИЈАЛОГ“ Брнабиќ: „Ја повикувам ’Студентската листа‘ да разговараме за тоа како ќе го конституираме Народното собрание“ | Вечер Прес",
+      "description": "",
+      "url": "https://time.mk/c/78926dc811/prv-pat-vo-parlamentarnata-istorija-na-srbija-nema-dijalog-brnabik-ja-povikuvam-studentskata-lista-da-razgovarame-za-toa-kako-ke-go-konstituirame-narodnoto-sobranie.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/11/brnabic-epa-okt26-1.jpg",
+      "date": "Sun, 08 Nov 2026 21:00:43 +0000"
     },
     {
       "category": "mkd",
@@ -117,24 +135,6 @@
       "url": "https://time.mk/c/65527b930b/25-godini-ziveam-blagodarenie-na-tvojata-lesna-raka-makedonija-izgubi-vrven-hirurg-emotivni-poraki-za-posleden-pozdrav-do-doktor-spirovski.html",
       "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/noemvri/image-264197.png?itok=0iFg-_VJ",
       "date": "Sun, 08 Nov 2026 18:12:50 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - Sport",
-      "title": "Драма на Олд Трафорд, Манчестер Јунајтед губеше 4:2, па постигна два гола во судиското продолжување | Независен",
-      "description": "",
-      "url": "https://time.mk/c/c86134c942/drama-na-old-traford-mancester-junajted-gubese-4-2-pa-postigna-dva-gola-vo-sudiskoto-prodolzuvanje.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2023/02/mancester-united-1.png",
-      "date": "Sun, 08 Nov 2026 18:50:59 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ЕВРОПАТ со амбасадорот Мартин Памер: Во ЕУ нема да помине обид за блокада на Македонија преку вториот Протокол | 24 Вести",
-      "description": "",
-      "url": "https://time.mk/c/960b5fdb91/evropat-so-ambasadorot-martin-pamer-vo-eu-nema-da-pomine-obid-za-blokada-na-makedonija-preku-vtoriot-protokol.html",
-      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1794164457/x4plnv4m47vzz1n4cq7p.jpg",
-      "date": "Sun, 08 Nov 2026 19:02:59 +0000"
     },
     {
       "category": "mkd",
@@ -148,20 +148,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
+      "title": "ЕК го пофали напредокот, приходите над 2,1 милијарди евра | Вечер Прес",
+      "description": "",
+      "url": "https://time.mk/c/09413bdf96/ek-go-pofali-napredokot-prihodite-nad-2-1-milijardi-evra.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/11/2-kuso-carina.jpg",
+      "date": "Sun, 08 Nov 2026 13:47:08 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
       "title": "Тони Поповски: Македонија гради соларни централи, но струјата треба да ја има и по зајдисонце | Трн",
       "description": "",
       "url": "https://time.mk/c/a7d5582c58/toni-popovski-makedonija-gradi-solarni-centrali-no-strujata-treba-da-ja-ima-i-po-zajdisonce.html",
       "image": "https://trn.mk/wp-content/uploads/2026/11/toni-popovski.jpg",
       "date": "Sun, 08 Nov 2026 19:02:59 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Облачното време ја поскапува струјата во Европа, цените во Германија надминаа 300 евра | Фактор",
-      "description": "",
-      "url": "https://time.mk/c/86cc6d6196/oblacnoto-vreme-ja-poskapuva-strujata-vo-evropa-cenite-vo-germanija-nadminaa-300-evra.html",
-      "image": "https://faktor.mk/media/main/2026/09/20260903091307.jpg",
-      "date": "Sun, 08 Nov 2026 15:50:49 +0000"
     },
     {
       "category": "mkd",
@@ -175,27 +175,27 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "СРБИЈА НАЈДОЦНА ДО 15 ФЕВРУАРИ ТРЕБА ДА ДОБИЕ ВЛАДА Собранието се конституира на 17 ноември | +инфо",
+      "title": "Тешка сообраќајна несреќа во Сплит: Избувнал пожар, огнот зафатил човек, тројца се борат за живот | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/d9a9bba53d/srbija-najdocna-do-15-fevruari-treba-da-dobie-vlada-sobranieto-se-konstituira-na-17-noemvri.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2025/03/zgrda-na-vlada-Srbija.jpg",
-      "date": "Sun, 08 Nov 2026 17:42:58 +0000"
+      "url": "https://time.mk/c/696a8c9f1b/teska-soobrakajna-nesreka-vo-split-izbuvnal-pozar-ognot-zafatil-covek-trojca-se-borat-za-zivot.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2024/03/brza-pomos-300x199.jpg",
+      "date": "Sun, 08 Nov 2026 18:22:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Отворена истрага против 24-годишниот напаѓач од Краков: Се товари за девет убиства со елементи на тероризам | Бриф",
+      "title": "(ФОТО) Знамињата на ЕУ спуштени на половина копје по нападот во Краков, сочувство и од Сиљановска-Давкова | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/aa4aaa3347/otvorena-istraga-protiv-24-godisniot-napagjac-od-krakov-se-tovari-za-devet-ubistva-so-elementi-na-terorizam.html",
-      "image": "https://www.brif.mk/wp-content/uploads/2025/08/polska-policija.png",
-      "date": "Sun, 08 Nov 2026 13:19:09 +0000"
+      "url": "https://time.mk/c/7ae0d25b39/foto-znaminjata-na-eu-spusteni-na-polovina-kopje-po-napadot-vo-krakov-socuvstvo-i-od-siljanovska-davkova.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/11/MixCollage-08-Nov-2026-03-56-PM-5668.jpg",
+      "date": "Sun, 08 Nov 2026 15:30:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
       "title": "Трагедија кај Каиро: Во судир на два воза загинаа најмалку четири лица меѓу кои и машиновозачот, 120 се повредени | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/f705c4d404/tragedija-kaj-kairo-vo-sudir-na-dva-voza-zaginaa-najmalku-cetiri-lica-megju-koi-i-masinovozacot-120-se-povredeni.html",
+      "url": "https://time.mk/c/6dda5ac246/tragedija-kaj-kairo-vo-sudir-na-dva-voza-zaginaa-najmalku-cetiri-lica-megju-koi-i-masinovozacot-120-se-povredeni.html",
       "image": "https://www.vecer.press/wp-content/uploads/2026/11/voz-opshto-pexels-scaled.avif",
       "date": "Sun, 08 Nov 2026 16:16:53 +0000"
     },
@@ -220,11 +220,11 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Син-монструм: Ги нападнал своите родители и им се заканувал со остар предмет | iNFOMAX",
+      "title": "МВР затекна возачи без дозвола и под дејство на алкохол: Кај битолчанец измерени 3,23 промили | Скопје инфо",
       "description": "",
-      "url": "https://time.mk/c/ae4b438105/sin-monstrum-gi-napadnal-svoite-roditeli-i-im-se-zakanuval-so-ostar-predmet.html",
-      "image": "",
-      "date": "Sun, 08 Nov 2026 20:08:37 +0000"
+      "url": "https://time.mk/c/8c31bdc277/mvr-zatekna-vozaci-bez-dozvola-i-pod-dejstvo-na-alkohol-kaj-bitolcanec-izmereni-3-23-promili.html",
+      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/noemvri/image-264184.jpg?itok=z9bZvwb5",
+      "date": "Sun, 08 Nov 2026 11:36:40 +0000"
     },
     {
       "category": "mkd",
@@ -256,20 +256,20 @@
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ТРОЈЦА ЈА СОЗДАЛЕ ПЕСНАТА ДА ПОКАЖАТ ДЕКА ОТПОРОТ Е ЖИВ Рацин ја вклучил во своја збирка во 1943 година | +инфо",
-      "description": "",
-      "url": "https://time.mk/c/0b4ae4a6cc/trojca-ja-sozdale-pesnata-da-pokazat-deka-otporot-e-ziv-racin-ja-vklucil-vo-svoja-zbirka-vo-1943-godina.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2026/11/abre-makedonce.jpg",
-      "date": "Sun, 08 Nov 2026 17:31:02 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
       "title": "МКЦ има нов директор? | Независен",
       "description": "",
       "url": "https://time.mk/c/abb2afe41e/mkc-ima-nov-direktor.html",
       "image": "https://nezavisen.mk/wp-content/uploads/2026/05/MKC-Mladinski-kulturen-centar-1-bg.jpg",
       "date": "Sun, 08 Nov 2026 16:44:42 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "ПЕСНАТА „А БРЕ МАКЕДОНЧЕ“ првпат е изведена на денешен ден пред 85 години во Прилепско | Економија и Бизнис",
+      "description": "",
+      "url": "https://time.mk/c/44635e462a/pesnata-a-bre-makedonce-prvpat-e-izvedena-na-denesen-den-pred-85-godini-vo-prilepsko.html",
+      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/11/belcevskimia-1024x768.webp",
+      "date": "Sun, 08 Nov 2026 16:10:58 +0000"
     }
   ],
   "de": [
@@ -638,6 +638,15 @@
     {
       "category": "eng",
       "source": "PCWorld",
+      "title": "Best mini PC deals: Top Intel and AMD picks for performance, gaming, and more",
+      "description": "At a glance Top AMD mini PC deal picks Bosgame E5 —$230 (36% off on Amazon) Kamrui H1 —$469 (16% off on Kamrui) Getorli Mini PC —$475 (19% off on Amazon with coupon) Top Intel mini PC deal picks Kamrui P2 —$569 (39% off on Amazon) GMKtec K17 —$550 (29% off on Amazon) Bmax B9 Power —$610 (14% off on Amazon) Whether you’re looking for a productivity mini PC, something for gaming, or just a budget-friendly machine with a small footprint, we’ve got you covered. The team at PCWorld continually sorts ",
+      "url": "https://www.pcworld.com/article/2999556/best-mini-pc-deals-top-picks-for-performance-gaming-and-more.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/2999556-0-33233000-1794176457-image-2.png",
+      "date": "Sun, 08 Nov 2026 22:20:50 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
       "title": "A 1-year QuickBooks Desktop Accountant Subscription was $715, but now it’s only $550",
       "description": "TL;DR : Manage client books on Windows with a 1-year QuickBooks Desktop Accountant 2024 subscription for $549.99 (reg. $715). Accountants who keep the books for multiple small businesses end up spending a lot of time passing files back and forth, and every handoff means someone has to stop working. If you’d rather work in a client’s file while they keep using it, try QuickBooks Desktop Accountant . A 1-year subscription for one Windows user is only $549.99 (reg. $715) right now. Accountant’s Cop",
       "url": "https://www.pcworld.com/article/3278257/a-1-year-quickbooks-desktop-accountant-subscription-was-715-but-now-its-only-550.html",
@@ -715,18 +724,18 @@
       "url": "https://www.pcworld.com/article/394774/aomei-backupper-review.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/11/394774-0-61484200-1793980822-Aomei-Backupper-25-1.png",
       "date": "Fri, 06 Nov 2026 16:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "I asked Reddit to name their robot vacuums. I wasn’t ready for Meryl Sweep",
-      "description": "On a whim one evening, I decided to post a question in the /AskReddit subreddit . What is your robot vacuum’s name and why did you name it that? Simple. Pretty open-ended. Within minutes, I had more than 50 comments. I’m a pretty introverted person, so that level of, uhhh, engagement felt a little scary. Once the initial anxiety settled, I discovered that people have strong feelings about their robot vacuums . Love, hate, disdain. It’s a whole spectrum. And the names? Insanely creative. The puns",
-      "url": "https://www.pcworld.com/article/3275908/i-asked-reddit-to-name-their-robot-vacuums-i-wasnt-ready-for-meryl-sweep.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3275908-0-93243100-1793977236-Narwal-Flow-2-robot-vacuum-mop-resting-in-dock.jpg?quality=50&strip=all",
-      "date": "Fri, 06 Nov 2026 15:00:00 +0000"
     }
   ],
   "starwars": [
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "This Week, In a Galaxy Far, Far Away: Adam Driver Not Coming Back to ‘Star Wars’, ‘Ahsoka’ Season 2 Press Has Started",
+      "description": "Happy Sunday, and welcome to a new edition of “This Week, In a Galaxy Far, Far Away“, the weekly column The post This Week, In a Galaxy Far, Far Away: Adam Driver Not Coming Back to ‘Star Wars’, ‘Ahsoka’ Season 2 Press Has Started appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/11/this-week-in-a-galaxy-far-far-away-adam-driver-not-coming-back-to-star-wars-ahsoka-season-2-press-has-started.html",
+      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2016/10/adam-driver.jpg",
+      "date": "Sun, 08 Nov 2026 23:00:24 +0000"
+    },
     {
       "category": "starwars",
       "source": "Star Wars News Net",
@@ -798,15 +807,6 @@
       "url": "https://www.starwarsnewsnet.com/2026/11/ahsoka-season-2-cast-discuss-their-characters-journeys-and-using-outdoor-sets-this-time.html",
       "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2023/10/STC-FF-002974-scaled.jpg",
       "date": "Mon, 02 Nov 2026 13:00:10 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars News Net",
-      "title": "This Week, In a Galaxy Far, Far Away: ‘Battlefront 3’ Behind the Scenes Corporate Drama, Kathleen Kennedy Returns to LA Picture, and Not Much More",
-      "description": "Happy Sunday, and welcome to a new edition of “This Week, In a Galaxy Far, Far Away“. It’s been a The post This Week, In a Galaxy Far, Far Away: ‘Battlefront 3’ Behind the Scenes Corporate Drama, Kathleen Kennedy Returns to LA Picture, and Not Much More appeared first on Star Wars News Net .",
-      "url": "https://www.starwarsnewsnet.com/2026/11/this-week-in-a-galaxy-far-far-away-battlefront-3-behind-the-scenes-corporate-drama-kathleen-kennedy-returns-to-la-picture-and-not-much-more.html",
-      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/11/Electronic-Arts-EA-headquarters-e1793556384224.jpeg",
-      "date": "Sun, 01 Nov 2026 23:18:25 +0000"
     },
     {
       "category": "starwars",
@@ -998,276 +998,5 @@
       "date": "Sat, 07 Nov 2026 09:58:50 +0000"
     }
   ],
-  "youtube": [
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Gibt es einen perfekten Virenscanner ?! #informatik #cybersecurity #code #lernen",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/aAOalgbf9Ww",
-      "image": "https://i.ytimg.com/vi/aAOalgbf9Ww/hqdefault.jpg",
-      "date": "2026-11-08T18:45:21+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Wie viele Informationen braucht man um dich zu identifizieren ?! #informatik #code #privacy #math",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/sMSUvgre4x8",
-      "image": "https://i.ytimg.com/vi/sMSUvgre4x8/hqdefault.jpg",
-      "date": "2026-11-07T11:00:39+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Security News der Woche: sshole, TUM und Calif Blockierungsmodus iPhone",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/CDEuOSdif14",
-      "image": "https://i.ytimg.com/vi/CDEuOSdif14/hqdefault.jpg",
-      "date": "2026-11-06T18:00:02+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Wie eine stille SMS deinen Standort bestimmt #informatik #sms #cybersecurity #privacy #phone",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/ClwN-fLOBgU",
-      "image": "https://i.ytimg.com/vi/ClwN-fLOBgU/hqdefault.jpg",
-      "date": "2026-11-05T18:45:32+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Woher kennt der Geldautomat meine PIN ?! #informatik #cybersecurity #code #kryptografie",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/qOnbmyBEdPM",
-      "image": "https://i.ytimg.com/vi/qOnbmyBEdPM/hqdefault.jpg",
-      "date": "2026-11-04T16:42:08+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Frankreich war die Warnung, jetzt trifft es auch andere europäische Supermärkte....",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/2oC1IVGSDDw",
-      "image": "https://i.ytimg.com/vi/2oC1IVGSDDw/hqdefault.jpg",
-      "date": "2026-11-03T18:53:12+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Apple warnt Abgeordnete vor einem Spyware Angriff.... #informatik #cybersecurity #news #iphone",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/VlJv2AW9cXU",
-      "image": "https://i.ytimg.com/vi/VlJv2AW9cXU/hqdefault.jpg",
-      "date": "2026-11-02T18:30:26+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Wie viel von Mr. Robot ist echt? - Episode 1",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=CD4aM2F43YU",
-      "image": "https://i.ytimg.com/vi/CD4aM2F43YU/hqdefault.jpg",
-      "date": "2026-11-01T19:40:08+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Binance wurde gehackt und hat den Diebstahl selbst unterschrieben ?! #informatik",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/yFxQfnjKTHg",
-      "image": "https://i.ytimg.com/vi/yFxQfnjKTHg/hqdefault.jpg",
-      "date": "2026-10-30T11:10:03+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Claude pimpt deinen Fernseher #informatik #code #claude #tv #llm #tech",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/i0BFT2vjbhg",
-      "image": "https://i.ytimg.com/vi/i0BFT2vjbhg/hqdefault.jpg",
-      "date": "2026-10-29T14:45:09+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Set Off Alarms in Abandoned Paper Mill",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=_2m_nAVaYSg",
-      "image": "https://i.ytimg.com/vi/_2m_nAVaYSg/hqdefault.jpg",
-      "date": "2026-09-30T17:00:15+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Exploring The Last Coal Power Plant in Connecticut Bridgeport Harbor Station",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=CR84XRBKBzs",
-      "image": "https://i.ytimg.com/vi/CR84XRBKBzs/hqdefault.jpg",
-      "date": "2026-08-27T17:00:39+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Rocketdyne Santa Susana Field Laboratory Abandoned America Space Race (1948)",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=0lka-0REQrQ",
-      "image": "https://i.ytimg.com/vi/0lka-0REQrQ/hqdefault.jpg",
-      "date": "2026-04-23T17:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Mall Westfield Promenade Demolition AMC Seats And Screens Left Behind",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=UnG29VothuQ",
-      "image": "https://i.ytimg.com/vi/UnG29VothuQ/hqdefault.jpg",
-      "date": "2026-03-27T21:09:35+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Mall Westfield Promenade Demolition Fly by In And Out",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=fDnOH8ZsfTg",
-      "image": "https://i.ytimg.com/vi/fDnOH8ZsfTg/hqdefault.jpg",
-      "date": "2026-03-27T20:40:08+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "AMC Westfield Promenade Mall Raw Demolition Drone Footage",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/5iA5R3Jq4g0",
-      "image": "https://i.ytimg.com/vi/5iA5R3Jq4g0/hqdefault.jpg",
-      "date": "2026-03-27T18:03:29+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Mall Westfield Promenade Demolition AMC Coming Down First!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=SAxjFGjTiHQ",
-      "image": "https://i.ytimg.com/vi/SAxjFGjTiHQ/hqdefault.jpg",
-      "date": "2026-03-23T17:42:38+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Abandoned Beautiful Art Deco Theater",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=ccfU0LSmkj8",
-      "image": "https://i.ytimg.com/vi/ccfU0LSmkj8/hqdefault.jpg",
-      "date": "2026-03-11T20:00:00+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Decommissioned Power Station #synthwave #synth #retrowave #abandonedplaces",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/mOUbNSMoBJs",
-      "image": "https://i.ytimg.com/vi/mOUbNSMoBJs/hqdefault.jpg",
-      "date": "2025-06-17T17:55:51+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Modded Warfare",
-      "title": "Wheel of Misfortune Three Kids Mine Demolition",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=VXRselqoN-8",
-      "image": "https://i.ytimg.com/vi/VXRselqoN-8/hqdefault.jpg",
-      "date": "2025-06-17T17:45:42+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "DashLaunch for Bad Update & ABadAvatar - Setup & Usage",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=BaPPjKhVYh4",
-      "image": "https://i.ytimg.com/vi/BaPPjKhVYh4/hqdefault.jpg",
-      "date": "2026-11-07T18:00:15+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Switch 2 Jailbroken, PS4 BD-JB for 14.00, PS Vita Storage & WiFi Boosts - ModChat 150",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=a_Z502alSqY",
-      "image": "https://i.ytimg.com/vi/a_Z502alSqY/hqdefault.jpg",
-      "date": "2026-10-31T17:00:20+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Mario's Minute 106 - XBOX LABS Joins in the Decomp & Recomp Craze",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=CZBw4sxFBdI",
-      "image": "https://i.ytimg.com/vi/CZBw4sxFBdI/hqdefault.jpg",
-      "date": "2026-10-28T17:00:08+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Use FTP on a Modded Xbox 360 with Aurora - Network File Transfer Setup",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=xf9HqSbZLsg",
-      "image": "https://i.ytimg.com/vi/xf9HqSbZLsg/hqdefault.jpg",
-      "date": "2026-10-24T17:00:30+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "PS5 13.60 Jailbreak & Hypervisor Exploit, Xbox 360 Softmod, Halo Ported to EVERYTHING - ModChat 149",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=-PXtg_eDYBY",
-      "image": "https://i.ytimg.com/vi/-PXtg_eDYBY/hqdefault.jpg",
-      "date": "2026-10-21T17:00:30+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Backup & Play Xbox 360 Games on a Modded Xbox 360 - Multi-Disc, DLC, XBLA & More!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=KYOZR0zotSc",
-      "image": "https://i.ytimg.com/vi/KYOZR0zotSc/hqdefault.jpg",
-      "date": "2026-10-10T17:00:36+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "How to Softmod the Xbox 360 - Peer Pressure Beginner Setup for Homebrew, Backups, and More!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=G8ceM_xXlO8",
-      "image": "https://i.ytimg.com/vi/G8ceM_xXlO8/hqdefault.jpg",
-      "date": "2026-10-07T19:00:34+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Bad Storage Unauthenticated: Use Any HDD or SSD on Bad Update for Xbox 360!",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=svNvWiJAjow",
-      "image": "https://i.ytimg.com/vi/svNvWiJAjow/hqdefault.jpg",
-      "date": "2026-10-03T17:00:02+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "Mario's Minute 105 - Wiping Old Drives and XBOX's Disc to Digital Program",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=C0pBgwThC68",
-      "image": "https://i.ytimg.com/vi/C0pBgwThC68/hqdefault.jpg",
-      "date": "2026-09-30T17:00:10+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "MrMario2011",
-      "title": "AutoDNS: A Useful Network Safety Plugin for Bad Update & ABadAvatar Consoles",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=dgX6KUQy4jk",
-      "image": "https://i.ytimg.com/vi/dgX6KUQy4jk/hqdefault.jpg",
-      "date": "2026-09-26T17:00:00+00:00"
-    }
-  ]
+  "youtube": []
 }
