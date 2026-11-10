@@ -1,6 +1,33 @@
 {
-  "updated": "2026-11-10T15:10:34.312831+00:00",
+  "updated": "2026-11-10T21:23:21.281262+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "„Самсунг Галерија” овозможува полесен пристап до фотографиите и видеата на различни Galaxy уреди",
+      "description": "Скопје, 10 ноември 2026 година – Како што луѓето ги „фаќаат”, зачувуваат и прегледуваат спомените на повеќе уреди, како мобилни телефони и таблети, чувањето на тие моменти безбедни и лесно достапни станува сè поважно. За да се задоволи оваа растечка потреба, Самсунг („Samsung”) нуди услуга за синхронизација на Галеријата (Gallery) во соработка со Гугл („Google”). […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/samsung-gallery-polesen-pristap-fotografii-razlicni-galaxy-uredi/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/Samsung-Gallery-02-150x150.webp",
+      "date": "Tue, 10 Nov 2026 15:48:22 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Linux Mint 27 ја враќа функцијата за „хибернација“ и носи нов терминал, календар и читач на е-книги",
+      "description": "Linux Mint 27 „Adrien“, првата верзија според новиот годишен циклус, е планирана за католичкиот Божиќ, кон крајот на декември, а тимот во месечните новости од почетокот на годината постепено ги покажува промените. Водачот на проектот, Клемент Лефевр, напиша дека за повеќе од 20 години не видел толку многу новини во една верзија. Најпрактичната новина е […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/linux-mint-27-novini/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/warsaw-poland-april-2026-close-Depositphotos_877329792_L-150x150.webp",
+      "date": "Tue, 10 Nov 2026 15:33:45 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Chrome дозволува вистински веб содржини во 3D сцени и игри, со превод, пребарување и пристапност",
+      "description": "Google во Chrome 157 официјално го пушти „HTML-in-Canvas“, нов „API“ што им дозволува на програмерите да ставаат обични веб елементи, како текст, формулари и копчиња, директно во графиката што ја црта прелистувачот. Тоа значи дека текстот во веб игра или 3D сцена може да се означи, копира, преведе и пребара, исто како на обична веб […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/chrome-html-in-canvas/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/google-html-in-canvas-1-150x150.webp",
+      "date": "Tue, 10 Nov 2026 15:13:28 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -66,213 +93,195 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Банките од 9 ноември користат нови уплатници, нови шифри за плаќање и сметки со ознака MK07",
-      "description": "Од понеделник, 9 ноември, банките во Македонија применуваат нови правила за денарските плаќања во земјата. Се менуваат уплатниците, шифрите за целта на плаќањето и записот на сметката, согласно Законот за платежни услуги и платни системи и одлуките на Народната банка. Поради ова, банките во текот на викендот ги прилагодуваа своите системи. Кај Стопанска банка, на […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/bankite-koristat-novi-uplatnici-sifri-i-smetki/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/rupixen-Q59HmzK38eQ-unsplash-150x150.webp",
-      "date": "Mon, 09 Nov 2026 13:10:35 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Над 900 учесници од повеќе од 12 земји на деветтата Регионална конференција за е-трговија",
-      "description": "Деветтата Регионална конференција за е-трговија, во организација на Асоцијацијата за е-трговија на Македонија (АЕТМ), заврши со рекорден број учесници, говорници и партнери. Настанот, кој се одржа на 3 ноември во Скопје под мотото „From Wait to Go: E-commerce at AI Speed!“, собра над 900 учесници од повеќе од 12 земји, над 30 домашни и меѓународни […]",
-      "url": "https://smartportal.mk/novosti/nastani/nad-900-ucesnici-od-poveke-od-12-zemji-na-devettata-regionalna-konf-za-e-trgovija/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/ecomm-conf-2026-f-150x150.webp",
-      "date": "Mon, 09 Nov 2026 12:34:11 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Шеговитата скрипта „Ram-Altman“ секој ден би му јавувала на Сем Алтман колку RAM не користите",
-      "description": "Програмер со GitHub профилот IainKay минатата недела ја објави Ram-Altman, мала Linux скрипта напишана во „bash“ која следи колку RAM меморија е слободна на компјутерот. Ако се слободни повеќе од 10%, што е стандардниот праг и може да се смени, таа најмногу еднаш на ден праќа е-пошта со реалните бројки, а замислениот примач е извршниот […]",
-      "url": "https://smartportal.mk/novosti/interesno/ram-altman-skripta/",
-      "image": "https://smartportal.mk/wp-content/uploads/2024/05/shutterstock_2390251317-150x150.jpg",
-      "date": "Mon, 09 Nov 2026 12:16:31 +0000"
+      "source": "Time.mk - All",
+      "title": "Нови детали за трагедијата во Бугарија: Запрен камион можеби го предизвикал судирот, возачи застанувале за да снимаат | 4NEWS",
+      "description": "",
+      "url": "https://time.mk/c/5b65d5d1f0/novi-detali-za-tragedijata-vo-bugarija-zapren-kamion-mozebi-go-predizvikal-sudirot-vozaci-zastanuvale-za-da-snimaat.html",
+      "image": "https://4news.mk/wp-content/uploads/2026/11/screenshot_10-3.avif",
+      "date": "Tue, 10 Nov 2026 21:22:40 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Владата го брани ребалансот, опозицијата обвинува за промашени проекции и кратење на развојните проекти | Слободен Печат",
+      "title": "Собранието го донесе вториот ребаланс на буџетот – oпозицијата со критики: По само два месеци ново прекројување на касата | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/14550e5a04/vladata-go-brani-rebalansot-opozicijata-obvinuva-za-promaseni-proekcii-i-kratenje-na-razvojnite-proekti.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/08/pexels-cottonbro-3943715-scaled-e1792498127963-300x194.jpg",
-      "date": "Tue, 10 Nov 2026 14:53:00 +0000"
+      "url": "https://time.mk/c/6807e8867a/sobranieto-go-donese-vtoriot-rebalans-na-budzetot-opozicijata-so-kritiki-po-samo-dva-meseci-novo-prekrojuvanje-na-kasata.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2026/11/Screenshot_7-3-1024x612.jpg",
+      "date": "Tue, 10 Nov 2026 20:42:37 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(ВИДЕО) Сведоштво на медицинска сестра по верижниот судир во Бугарија: Луѓето врескаа, згмечени под камион за влечење возила! | Фокус",
+      "title": "Сиљановска-Давкова од Париз: Македонија 21 година чека пред портите на ЕУ, и покрај 17 позитивни извештаи | Фокус",
       "description": "",
-      "url": "https://time.mk/c/4e820c4e53/video-svedostvo-na-medicinska-sestra-po-verizniot-sudir-vo-bugarija-lugjeto-vreskaa-zgmeceni-pod-kamion-za-vlecenje-vozila.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/11/1467004_bugarska-lancani-sudar_m.webp",
-      "date": "Tue, 10 Nov 2026 13:56:41 +0000"
+      "url": "https://time.mk/c/1826b7466e/siljanovska-davkova-od-pariz-makedonija-21-godina-ceka-pred-portite-na-eu-i-pokraj-17-pozitivni-izvestai.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/09/Gordana-Siljanovska-Davkova-3-e1781351619246-960x687-1.jpg",
+      "date": "Tue, 10 Nov 2026 18:32:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Тошковски: Од „Безбеден град“ се очекуваат околу 10 милиони евра годишно, се воведуваат и мобилни камери | Deutsche Welle",
+      "title": "Тошковски: И министри и директори плаќаат казни – никој не е поштеден од „Безбеден град“ | 4NEWS",
       "description": "",
-      "url": "https://time.mk/c/463a3e3c3e/toskovski-od-bezbeden-grad-se-ocekuvaat-okolu-10-milioni-evra-godisno-se-voveduvaat-i-mobilni-kameri.html",
-      "image": "https://static.dw.com/image/71936025_301.jpg",
-      "date": "Tue, 10 Nov 2026 14:28:58 +0000"
+      "url": "https://time.mk/c/5ed72fa18b/toskovski-i-ministri-i-direktori-plakaat-kazni-nikoj-ne-e-posteden-od-bezbeden-grad.html",
+      "image": "https://4news.mk/wp-content/uploads/2025/06/pance-toskovski.jpg",
+      "date": "Tue, 10 Nov 2026 18:22:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Нацртот на Кривичниот законик е во Брисел, ќе има ли построги казни за функционерите? | Рацин",
+      "title": "Павловска најави нов протест на 25 ноември: Ќе ги бојкотираме владините настани за женските права | 4NEWS",
       "description": "",
-      "url": "https://time.mk/c/6c9b0ba19e/nacrtot-na-krivicniot-zakonik-e-vo-brisel-ke-ima-li-postrogi-kazni-za-funkcionerite.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/09/krivicen-zakonik-816x480.jpg?x93402",
-      "date": "Tue, 10 Nov 2026 15:08:50 +0000"
+      "url": "https://time.mk/c/b42d710a10/pavlovska-najavi-nov-protest-na-25-noemvri-ke-gi-bojkotirame-vladinite-nastani-za-zenskite-prava.html",
+      "image": "https://4news.mk/wp-content/uploads/2026/11/anastasija-pavlovska-6--1024x672.avif",
+      "date": "Tue, 10 Nov 2026 21:10:41 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Камери и на граничниот премин Блаце, полицијата ќе снима и во движење | Вечер Прес",
+      "title": "Прифатен амандманот на власта за измените на закон за јавни набавки, избришан членот 13, Битиќи обвини дека нема јавна расправа | Проверено",
       "description": "",
-      "url": "https://time.mk/c/90330241b8/kameri-i-na-granicniot-premin-blace-policijata-ke-snima-i-vo-dvizenje.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/11/029-scaled.jpg",
-      "date": "Tue, 10 Nov 2026 13:32:57 +0000"
+      "url": "https://time.mk/c/d58cd3642b/prifaten-amandmanot-na-vlasta-za-izmenite-na-zakon-za-javni-nabavki-izbrisan-clenot-13-bitiki-obvini-deka-nema-javna-rasprava.html",
+      "image": "https://provereno.mk/wp-content/uploads/2026/11/643837562_1388077823330525_898527633331764261_n-300x200.jpg",
+      "date": "Tue, 10 Nov 2026 21:09:07 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Владата ќе бара итно мислење од Венецијанската комисија за предложениот модел за полагање на правосудниот испит | 360 степени",
+      "title": "Мицкоски на манифестацијата „ТОП 100“: Успехот на секоја компанија е успех на целата држава | Press24",
       "description": "",
-      "url": "https://time.mk/c/1cdefb6ed6/vladata-ke-bara-itno-mislenje-od-venecijanskata-komisija-za-predlozeniot-model-za-polaganje-na-pravosudniot-ispit.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/06/zgrada-na-Vlada.jpg",
-      "date": "Tue, 10 Nov 2026 15:01:13 +0000"
+      "url": "https://time.mk/c/7fa77a989a/mickoski-na-manifestacijata-top-100-uspehot-na-sekoja-kompanija-e-uspeh-na-celata-drzava.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/82683.jpeg",
+      "date": "Tue, 10 Nov 2026 21:10:41 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Речиси 90 % од вработените добиле навремена исплата на придонесите | Вечер Прес",
+      "title": "Мали фирми, голема бирократија: Сметководителите бараат крај на непотребните обврски | Рацин",
       "description": "",
-      "url": "https://time.mk/c/a9f0e602d0/recisi-90-od-vrabotenite-dobile-navremena-isplata-na-pridonesite.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/11/ujp-1.jpg",
-      "date": "Tue, 10 Nov 2026 13:59:00 +0000"
+      "url": "https://time.mk/c/fb315f0627/mali-firmi-golema-birokratija-smetkovoditelite-baraat-kraj-na-nepotrebnite-obvrski.html",
+      "image": "https://racin.mk/wp-content/uploads/2026/08/smetkovoditel-848x462.jpg?x28866",
+      "date": "Tue, 10 Nov 2026 18:16:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Граѓаните се борат со поскапувањето, а партиите со спротивставено толкување на инфлацијата | Вечер Прес",
+      "title": "Вереницата на Кристијан го изгубила бебето по неговата смрт, семејството: „Убија уште една личност“ | Фокус",
       "description": "",
-      "url": "https://time.mk/c/d2ecdb89dd/gragjanite-se-borat-so-poskapuvanjeto-a-partiite-so-sprotivstaveno-tolkuvanje-na-inflacijata.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/11/2-2-scaled.jpg",
-      "date": "Tue, 10 Nov 2026 14:17:17 +0000"
+      "url": "https://time.mk/c/b3a50489a6/verenicata-na-kristijan-go-izgubila-bebeto-po-negovata-smrt-semejstvoto-ubija-uste-edna-licnost.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/11/5-4.png",
+      "date": "Tue, 10 Nov 2026 21:04:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Над 90 луѓе се уапсени во Србија за две недели — меѓу нив полицајци, директори и бизнисмени | Слободен Печат",
+      "title": "РЕМ санкционира три телевизии во Србија поради прекршување на медиумските правила | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/33d6e495b9/nad-90-lugje-se-uapseni-vo-srbija-za-dve-nedeli-megju-niv-policajci-direktori-i-biznismeni.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/02/srbija-policija-ilustracija-moj-beograd-FB-3-300x174.png",
-      "date": "Tue, 10 Nov 2026 14:58:35 +0000"
+      "url": "https://time.mk/c/3b4c250267/rem-sankcionira-tri-televizii-vo-srbija-poradi-prekrsuvanje-na-mediumskite-pravila.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-17-58-24-Savet-REM-televiziji-Prva-zabranio-oglasavanje-na-jedan-dan-Vesti-iz-Srbije-regiona-i-sveta-N1-info.png",
+      "date": "Tue, 10 Nov 2026 19:16:53 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Ирски министер: Членството во ЕУ е добар начин за решавање на отворените билатерални прашања | Независен",
+      "title": "Русија и Украина договориле едно многу важно прашање? | Фактор",
       "description": "",
-      "url": "https://time.mk/c/62033bf38c/irski-minister-clenstvoto-vo-eu-e-dobar-nacin-za-resavanje-na-otvorenite-bilateralni-prasanja.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/09/Screenshot_30-9-2026_112749_enlargement.ec_.europa.eu_.jpeg",
-      "date": "Tue, 10 Nov 2026 14:26:40 +0000"
+      "url": "https://time.mk/c/1a06aac16b/rusija-i-ukraina-dogovorile-edno-mnogu-vazno-prasanje.html",
+      "image": "https://faktor.mk/media/main/2026/11/20261110205205.png",
+      "date": "Tue, 10 Nov 2026 20:02:39 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ЗАПОЧНАА ПРЕГОВОРИТЕ ЗА УКРАИНА ВО АБУ ДАБИ, ЕВРОПА СЕ СОГЛАСИ ДА РАЗГОВАРА СО САД ЗА СВОЈАТА ИДНА БЕЗБЕДНОСТ | Сакам да кажам",
+      "title": "Интимните врски стануваат шпионско оружје против технолошките гиганти | Трн",
       "description": "",
-      "url": "https://time.mk/c/e936eb0609/zapocnaa-pregovorite-za-ukraina-vo-abu-dabi-evropa-se-soglasi-da-razgovara-so-sad-za-svojata-idna-bezbednost.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/11/abu-dabi-pregovori-ap.jpg",
-      "date": "Tue, 10 Nov 2026 12:47:01 +0000"
+      "url": "https://time.mk/c/f9ba6e1788/intimnite-vrski-stanuvaat-spionsko-oruzje-protiv-tehnoloskite-giganti.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/11/dzensen-huang1.jpg",
+      "date": "Tue, 10 Nov 2026 20:20:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Џенсен Хуанг под истрага по наводи за врска со осомничена кинеска шпионка, Нвидиа уверува дека тајните не се загрозени | Deutsche Welle",
+      "title": "По шест години најави, мегапаркот во Карпош повторно ќе биде готов „наскоро“ | Трн",
       "description": "",
-      "url": "https://time.mk/c/fa7cb68bd9/dzensen-huang-pod-istraga-po-navodi-za-vrska-so-osomnicena-kineska-spionka-nvidia-uveruva-deka-tajnite-ne-se-zagrozeni.html",
-      "image": "https://static.dw.com/image/75070893_301.jpg",
-      "date": "Tue, 10 Nov 2026 10:30:56 +0000"
+      "url": "https://time.mk/c/a159bc83b2/po-sest-godini-najavi-megaparkot-vo-karpos-povtorno-ke-bide-gotov-naskoro.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/11/megapark.jpg",
+      "date": "Tue, 10 Nov 2026 19:16:53 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ЌЕ СЕ ПРАВИ КАТАСТАР НА ОЏАЦИ, ПРЕДВИДУВА ПЛАНОТ НА ГРАД СКОПЈЕ ЗА НАМАЛУВАЊЕ НА ЗАГАДУВАЊЕТО | Сакам да кажам",
+      "title": "Наш студент во Белгија направи интерактивна 3Д-апликација за загадениот воздух во Скопје | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/3930a3d06d/ke-se-pravi-katastar-na-odzaci-predviduva-planot-na-grad-skopje-za-namaluvanje-na-zagaduvanjeto.html",
-      "image": "https://sdk.mk/wp-content/uploads/2023/01/zagaduvanje-1-2023.jpg",
-      "date": "Tue, 10 Nov 2026 12:50:58 +0000"
+      "url": "https://time.mk/c/9085578f25/nas-student-vo-belgija-napravi-interaktivna-3d-aplikacija-za-zagadeniot-vozduh-vo-skopje.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/11/skopjeair-3d-300x169.jpg",
+      "date": "Tue, 10 Nov 2026 17:25:00 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Во завршна фаза есенската дератизација во Општина Кисела Вода, опфатени над 2.000 шахти | Независен",
+      "title": "Ива Михаилова изнесе информации за наводно киднапирање на нејзината баба од страна на службите на РСМ | Либертас",
       "description": "",
-      "url": "https://time.mk/c/6284be9496/vo-zavrsna-faza-esenskata-deratizacija-vo-opstina-kisela-voda-opfateni-nad-2-000-sahti.html",
-      "image": "",
-      "date": "Tue, 10 Nov 2026 12:36:45 +0000"
+      "url": "https://time.mk/c/505c962124/iva-mihailova-iznese-informacii-za-navodno-kidnapiranje-na-nejzinata-baba-od-strana-na-sluzbite-na-rsm.html",
+      "image": "https://libertas.mk/wp-content/uploads/2026/11/Screenshot_20261110-220657_Messenger.jpg",
+      "date": "Tue, 10 Nov 2026 21:10:41 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
       "title": "ИМ ЈА УРНАЛ КУЌАТА, ГИ ОСТАВИЛ БЕЗ НОВА Кумановски сопружници пријавиле измама од 14.000 евра | +инфо",
       "description": "",
-      "url": "https://time.mk/c/c2c7741521/im-ja-urnal-kukata-gi-ostavil-bez-nova-kumanovski-sopruznici-prijavile-izmama-od-14-000-evra.html",
+      "url": "https://time.mk/c/edb7ec544b/im-ja-urnal-kukata-gi-ostavil-bez-nova-kumanovski-sopruznici-prijavile-izmama-od-14-000-evra.html",
       "image": "https://plusinfo.mk/wp-content/uploads/2025/12/policija-mvr-1.jpg",
       "date": "Tue, 10 Nov 2026 14:22:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Маж од Богданци се обидел да силува девојка, само 4 дена по убиството на Биљана | Независен",
+      "title": "Јевен повик за поднесување предлог, програми, проекти и активности од областа на културата, програмска линија „Културата расте со децата“ за 2027г. | Охрид1",
       "description": "",
-      "url": "https://time.mk/c/413766e849/maz-od-bogdanci-se-obidel-da-siluva-devojka-samo-4-dena-po-ubistvoto-na-biljana.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2024/08/zatvor-resetki.jpg",
-      "date": "Tue, 10 Nov 2026 12:47:01 +0000"
+      "url": "https://time.mk/c/ae68a498a2/jeven-povik-za-podnesuvanje-predlog-programi-proekti-i-aktivnosti-od-oblasta-na-kulturata-programska-linija-kulturata-raste-so-decata-za-2027g.html",
+      "image": "https://ohrid1.com/wp-content/uploads/2021/12/opstina-ohrid-1024x682-1-750x460.jpg",
+      "date": "Tue, 10 Nov 2026 16:30:43 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Eдукативни работилници за превенција од врсничко насилство за средношколците во Струмица | Вечер Прес",
+      "title": "Германци ќе го унапредуваат јавниот превоз во Струмица | Колегиум",
       "description": "",
-      "url": "https://time.mk/c/900ee3f74b/edukativni-rabotilnici-za-prevencija-od-vrsnicko-nasilstvo-za-srednoskolcite-vo-strumica.html",
+      "url": "https://time.mk/c/4627bc4850/germanci-ke-go-unapreduvaat-javniot-prevoz-vo-strumica.html",
       "image": "",
-      "date": "Tue, 10 Nov 2026 13:30:54 +0000"
+      "date": "Tue, 10 Nov 2026 18:01:09 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ОПШТИНА СТРУГА ДОЛЖИ 5 МИЛИОНИ ЕВРА Ќура очекува целосно да се раздолжи до Нова година | +инфо",
+      "title": "Двојно признание за Тања Кочовска и Тони Михајловски на фестивалот во Никшиќ | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/1abc4e8b72/opstina-struga-dolzi-5-milioni-evra-kura-ocekuva-celosno-da-se-razdolzi-do-nova-godina.html",
+      "url": "https://time.mk/c/3ebec8d1cb/dvojno-priznanie-za-tanja-kocovska-i-toni-mihajlovski-na-festivalot-vo-niksik.html",
       "image": "",
-      "date": "Tue, 10 Nov 2026 14:15:05 +0000"
+      "date": "Tue, 10 Nov 2026 20:28:55 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Нема рај ако те убие жена“, филмот за курдската снајперистка, најдобар на 26. Скопски филмски фестивал | Вечер Прес",
+      "title": "Илустрацијата надвор од книгата: Како авторите градат автономни ликовни светови | Трн",
       "description": "",
-      "url": "https://time.mk/c/7d1c0c1a31/nema-raj-ako-te-ubie-zena-filmot-za-kurdskata-snajperistka-najdobar-na-26-skopski-filmski-festival.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/11/prva-2.jpg",
-      "date": "Tue, 10 Nov 2026 12:24:58 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Мегапопуларната Весна Змијанац за роденденскиот број на весникот ВЕЧЕР, а пред солистичкиот концерт во Скопје! | Вечер Прес",
-      "description": "",
-      "url": "https://time.mk/c/7be341f508/megapopularnata-vesna-zmijanac-za-rodendenskiot-broj-na-vesnikot-vecer-a-pred-solistickiot-koncert-vo-skopje.html",
-      "image": "https://ekran.mk/wp-content/uploads/2026/11/vesna-pres-300x193.jpg",
-      "date": "Tue, 10 Nov 2026 13:34:57 +0000"
+      "url": "https://time.mk/c/439b87101e/ilustracijata-nadvor-od-knigata-kako-avtorite-gradat-avtonomni-likovni-svetovi.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/11/banner_grupna_izlozba_2026.jpg",
+      "date": "Tue, 10 Nov 2026 19:52:56 +0000"
     }
   ],
   "de": [
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "admin:admin: Hacker kapern Autos und manipulieren Kühlanlagen",
+      "description": "Standardpasswörter wie admin:admin gefährden Autos und Kühlanlagen. Sicherheitsforscher zeigen, wie Hacker ganze Systeme übernehmen. Der Artikel admin:admin: Hacker kapern Autos und manipulieren Kühlanlagen erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/it-sicherheit/adminadmin-hacker-autos-kuehlanlagen-335748.html",
+      "image": "https://cdn.tarnkappe.info/wpimg/adminadmin-hacker-autos-kuehlanlagen",
+      "date": "Tue, 10 Nov 2026 15:59:48 +0000"
+    },
     {
       "category": "de",
       "source": "Tarnkappe",
@@ -443,18 +452,54 @@
       "url": "https://tarnkappe.info/tutorials/telegram-ohne-google-push-ueber-die-eigene-nextcloud-absichern-datenschutz-in-perfektion-334577.html",
       "image": "https://cdn.tarnkappe.info/wp-content/uploads/Telegram-ohne-google-push-beitragsbild.png",
       "date": "Thu, 22 Oct 2026 14:46:44 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Denuvo gegen Voices38: Gericht genehmigt Vorladungen, Cracker legt nach",
-      "description": "Denuvo gegen Voices38: Gericht genehmigt neun statt 46 Datenanfragen. Der Cracker legt mit neuen Releases nach. Der Artikel Denuvo gegen Voices38: Gericht genehmigt Vorladungen, Cracker legt nach erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/gaming/denuvo-voices38-vorladungen-cracks-334569.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/denuvo-voices38-vorladungen-cracks",
-      "date": "Wed, 21 Oct 2026 16:19:57 +0000"
     }
   ],
   "eng": [
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "This Actively Exploited Chrome Vulnerability Is Putting Your Browser at Risk",
+      "description": "Luckily, Google already put out a patch for this Chrome flaw.",
+      "url": "https://lifehacker.com/tech/this-actively-exploited-security-vulnerability-is-putting-your-chrome-browser?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M73DS1B5VF1E6XRWH67TK3BS/hero-image.jpg",
+      "date": "Tue, 10 Nov 2026 20:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "We Now Know What Amazon Has in Store for Black Friday and Cyber Monday 2026",
+      "description": "Here's what to expect for Black Friday and Cyber Monday.",
+      "url": "https://lifehacker.com/tech/amazon-black-friday-cyber-monday-faq-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M6S8ASVYZDRYTXTZB6C7RDVH/hero-image.webp",
+      "date": "Tue, 10 Nov 2026 19:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "There’s a Good Reason the NYC Marathon Winners Wore These Watches",
+      "description": "Are Coros, Amazfit, and other brands coming for Garmin's throne?",
+      "url": "https://lifehacker.com/health/theres-a-good-reason-the-nyc-marathon-winners-wore-these-watches?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M73DA0CNRT7QGHEEX1WEEKX3/hero-image.png",
+      "date": "Tue, 10 Nov 2026 19:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "10 Shows Like 'Minimum Wage' You Should Watch Next",
+      "description": "More streaming shows about the weirdness of the modern workplace.",
+      "url": "https://lifehacker.com/entertainment/best-shows-like-minimum-wage?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M70NQNPZ64EH0ZS4BBKADT99/hero-image.jpg",
+      "date": "Tue, 10 Nov 2026 18:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Ring's New $250 Indoor Camera Drone Sounds Terrifying",
+      "description": "Peace of mind sounds like screeching violins from a horror movie.",
+      "url": "https://lifehacker.com/tech/rings-indoor-camera-drone-sounds-terrifying?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M732P2M87SY3779F5WBH5BPB/hero-image.png",
+      "date": "Tue, 10 Nov 2026 16:32:58 +0000"
+    },
     {
       "category": "eng",
       "source": "Lifehacker",
@@ -592,48 +637,48 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "Everything You Need to Know About Amazon's 2026 Black Friday and Cyber Monday Sales",
-      "description": "You can start shopping Amazon's early Black Friday deals right now.",
-      "url": "https://lifehacker.com/tech/amazon-black-friday-cyber-monday-faq-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M6S8ASVYZDRYTXTZB6C7RDVH/hero-image.webp",
-      "date": "Fri, 06 Nov 2026 20:30:00 +0000"
+      "source": "PCWorld",
+      "title": "Seagate wants to turbocharge the hard drive, with a big, pricy catch",
+      "description": "An enormous hard drive. A speedy cache. Storage makers have tried to deliver the best of both worlds to content creators for years now, and Seagate’s Alkemi platform is the latest attempt to provide creators what they’ve been asking for. But there’s a catch. Seagate’s 8TB and 20TB FireCuda Forge external drives are the first to use the Alkemi platform, which combines a traditional “cold” storage drive with a “hot” SSD. But Seagate isn’t supplying the SSD. You are. Interestingly, the FireCuda For",
+      "url": "https://www.pcworld.com/article/3281568/seagate-wants-to-turbocharge-the-hard-drive-with-a-big-pricy-catch.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3281568-0-91828900-1794341700-Firecuda-2-edit.png",
+      "date": "Tue, 10 Nov 2026 20:14:46 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "Apple Won't Make a Small Phone so This Company Is Stepping In",
-      "description": "\"Enough Phone\" is making a mini phone.",
-      "url": "https://lifehacker.com/tech/apple-wont-make-a-small-phone-so-this-company-is-stepping-in?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M6RZC74TX8QCTFGCW57Y22JA/hero-image.jpg",
-      "date": "Fri, 06 Nov 2026 19:00:00 +0000"
+      "source": "PCWorld",
+      "title": "Lisen’s car charger with 2 built-in cables is only $11 with this code",
+      "description": "NEW LOWEST PRICE Lisen 4-in-1 Retractable Car Charger Use code F3MUB38J at checkout to score the discount! View Deal If you’ve ever been stuck in the car with several dying phones and only one USB charging port to share between them, you know how real the struggle can be. One way to make sure you’re never caught in that dilemma again is with this Lisen 4-in-1 Car Charger with two built-in retractable cables. It’s currently on sale for $10.99 at Amazon , down from its original $19.99, with specia",
+      "url": "https://www.pcworld.com/article/3281422/lisens-car-charger-with-2-built-in-cables-is-only-11-with-this-code.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3281422-0-89786600-1794330432-LISEN-4-in-1-Car-Charger.jpg?quality=50&strip=all",
+      "date": "Tue, 10 Nov 2026 17:03:21 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "These Early Black Friday Ring Camera Deals Start at $24.99",
-      "description": "You can monitor your living room and front door for under $65 with these Ring products.",
-      "url": "https://lifehacker.com/tech/ring-camera-doorbell-sales-early-black-friday-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M6S0P1ZXJWK84PEED8K51MPX/hero-image.jpg",
-      "date": "Fri, 06 Nov 2026 18:30:00 +0000"
+      "source": "PCWorld",
+      "title": "With Zen 6, AMD’s next great gaming CPU could have it all",
+      "description": "AMD’s best gaming CPUs have eight cores. Its next generation could pack twelve into the same kind of chiplet, making every single one of them faster. AMD’s Zen 6 architecture puts 12 full-performance cores and 48MB of shared L3 cache on a single chiplet, up from eight cores and 32MB with Zen 5. That’s a 50 percent jump in both, and AMD is rebuilding the cores themselves to squeeze more performance out of every clock cycle. The company revealed the finer details during a technical deep-dive into ",
+      "url": "https://www.pcworld.com/article/3280345/with-zen-6-amds-next-great-gaming-cpu-could-have-it-all.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3280345-0-68795100-1794334405-DSCF7934.jpg?quality=50&strip=all",
+      "date": "Tue, 10 Nov 2026 17:00:00 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "Five Smartwatch Heart Rate Zone Hacks Every Runner Should Know",
-      "description": "The best tips to keep you in the zone.",
-      "url": "https://lifehacker.com/health/best-smartwatch-heart-rate-zone-training-hacks?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M6PQSSHWNP07FW02N697MFY2/hero-image.jpg",
-      "date": "Fri, 06 Nov 2026 17:30:00 +0000"
+      "source": "PCWorld",
+      "title": "The best USB-C cables for charging and data transfers — tested and approved!",
+      "description": "Try shopping for a USB-C cable and you can’t help but notice the disparities in cable pricing and performance claims. They’re just cables, right? How can they really be that different? At PCWorld we’ve used our share of USB-C cables and can say with total confidence that, indeed, clear differences exist. Perhaps that’s in the construction quality among cables, or their relative performance, whether you’re talking about charging or transferring data. Our hands-on evaluation of numerous cables — r",
+      "url": "https://www.pcworld.com/article/395115/the-best-usb-c-cables-for-charging-and-transferring-data.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/395115-0-60443100-1794330048-USB_C_A_1.jpg?quality=50&strip=all",
+      "date": "Tue, 10 Nov 2026 17:00:00 +0000"
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "10 Shows Like 'Cyberpunk: Edgerunners' You Should Watch Next",
-      "description": "More sci-fi and cyberpunk shows to stream now.",
-      "url": "https://lifehacker.com/entertainment/best-shows-like-cyberpunk-edgerunners?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M6P6MNNDS09EEWDKWYH5GKK4/hero-image.jpg",
-      "date": "Fri, 06 Nov 2026 16:00:00 +0000"
+      "source": "PCWorld",
+      "title": "Aomei Backupper Standard 8.5 review: Free and surprisingly capable backup",
+      "description": "At a glance Expert's Rating Pros File, image, and system backup One-way sync and disaster recovery Doesn’t cost a dime Easy to learn and use Cons Purchase nags Problematic recovery disk creation and boot Minor interface foibles Our Verdict The startlingly capable Standard version of Aomei Backupper will meet most users’ needs for zero coin and only a few “buy me” nags. But the boot media is difficult to create and requires lowering BIOS security standards. Price When Reviewed This value will sho",
+      "url": "https://www.pcworld.com/article/2853116/aomei-backupper-standard-review.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/2853116-0-77303000-1794326425-Aomei-Backupper-Standard-13.png",
+      "date": "Tue, 10 Nov 2026 16:00:00 +0000"
     },
     {
       "category": "eng",
@@ -656,10 +701,10 @@
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Windows 11 is getting a central hub for app updates",
+      "title": "Windows 11 might be getting a central hub for app updates",
       "description": "Most Windows programs use their own systems to check for and install updates. However, this can result in an annoying number of reminders. It also carries the risk of missing important security updates. Windows Latest discovered that a new page for program updates has appeared under Settings > Apps in a preview version of Windows 11 26H2. The feature is based on the Windows Update Orchestration Platform (UOP), a technology Microsoft unveiled in 2025 that enables software developers to connect th",
-      "url": "https://www.pcworld.com/article/3281221/windows-11-will-soon-be-able-to-update-all-your-programmes-in-one-place.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3281221-0-45354500-1794319820-winupdate.jpg?quality=50&strip=all",
+      "url": "https://www.pcworld.com/article/3281221/windows-11-might-be-getting-a-central-hub-for-app-updates.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3281221-0-53608700-1794327098-winupdate.jpg?quality=50&strip=all",
       "date": "Tue, 10 Nov 2026 14:10:11 +0000"
     },
     {
@@ -679,51 +724,6 @@
       "url": "https://www.pcworld.com/article/3281207/amd-confirms-a-bug-in-its-drivers-it-may-cause-wear-and-tear-on-the-computers-ssd.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3281207-0-81178000-1794320006-AMD-Ryzen-sticker-on-a-laptop.jpg?quality=50&strip=all",
       "date": "Tue, 10 Nov 2026 14:00:33 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Still using an older laptop? These 3 security steps are essential",
-      "description": "Tech is expensive these days. AI data center for demand hasn’t abated, and word on the street is that RAM and storage will continue to be pinched through 2030. Ouch. If you’re like me, you’re probably making do with your current gear—even if it’s considered old by pre-AI-apocalypse standards. It’s a smart move financially, but you shouldn’t just keep plugging along as you always have. Without some smart tweaks, you leave yourself open to danger online. But doing just these three things will ensu",
-      "url": "https://www.pcworld.com/article/3273765/3-steps-you-should-take-to-keep-old-tech-secure.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3273765-0-89235700-1794319230-pexels-cottonbro-8720269-sm.jpg?quality=50&strip=all",
-      "date": "Tue, 10 Nov 2026 14:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
-      "description": "If you’re looking for an affordable Windows machine under $500 , a blazing fast gaming beast for those intense matches, or a portable 2-in-1 for school or work, you’ve got plenty of great choices right now. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 80 laptops every year. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches",
-      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/550968-0-48897500-1794316499-bf-laptop-deals-pcw.jpg?quality=50&strip=all",
-      "date": "Tue, 10 Nov 2026 13:14:50 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "I finally found my perfect one-handed gaming keypad",
-      "description": "If you’ve been reading my coverage for a while, you know that I have an incredibly specific and niche accessory interest: little one-handed keyboards for gaming. It started decades ago with a Belkin gadget, and I eventually “made” my own. I’ve been trying to find or make a “perfect” one , at least for my needs. I’m pleased to say I’ve finally gotten pretty darn close. Welcome to the Boost Mode newsletter. Every week I share my insights on PC gaming, desktop setups, and hardware optimization. I a",
-      "url": "https://www.pcworld.com/article/3280224/i-finally-found-my-perfect-one-handed-gaming-keypad.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3280224-0-91473500-1794315653-image_7596e6.png",
-      "date": "Tue, 10 Nov 2026 13:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "iRobot Roomba Max 775 Combo review: Excellent cleaning with minimal effort",
-      "description": "At a glance Expert's Rating Pros Excellent vacuuming and mopping performance Reliable navigation and obstacle avoidance Highly customizable cleaning routines Effective self-cleaning dock minimizes maintenance Cons Expensive Bulky dock requires considerable floor space Water tanks still need regular attention Our Verdict The iRobot Roomba Max 775 Combo delivers excellent performance and reliable automation that makes keeping floors clean genuinely easier. It’s expensive, but its hands-off conveni",
-      "url": "https://www.pcworld.com/article/3270867/roomba-max-775-combo-review.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3270867-0-52777600-1794312033-Roomba-Max-775-main.jpg?quality=50&strip=all",
-      "date": "Tue, 10 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "This $429.99 HP gaming PC comes with a free month of Surfshark VPN",
-      "description": "TL;DR: Get a refurbished HP gaming desktop with a GTX 1660 Super and a free one-month Surfshark VPN Starter Plan for $429.99 (reg. $483). Gaming PCs with a dedicated graphics card get expensive quickly, and a keyboard and mouse usually cost extra. If you want a complete setup at a lower price, try this refurbished HP ProDesk 600 G4 Gaming Desktop . It’s on sale for $429.99 (reg. $483), and an RGB keyboard and mouse come in the box. Graphics come from an NVIDIA GeForce GTX 1660 Super with 6GB of ",
-      "url": "https://www.pcworld.com/article/3280437/this-429-99-hp-gaming-pc-comes-with-a-free-month-of-surfshark-vpn.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3280437-0-72247900-1794297625-HP-G4-xSurfshark-vpn.jpg?quality=50&strip=all",
-      "date": "Tue, 10 Nov 2026 08:00:00 +0000"
     }
   ],
   "starwars": [
@@ -734,7 +734,7 @@
       "description": "Happy Sunday, and welcome to a new edition of “This Week, In a Galaxy Far, Far Away“, the weekly column The post This Week, In a Galaxy Far, Far Away: Adam Driver Not Coming Back to ‘Star Wars’, ‘Ahsoka’ Season 2 Press Has Started appeared first on Star Wars News Net .",
       "url": "https://www.starwarsnewsnet.com/2026/11/this-week-in-a-galaxy-far-far-away-adam-driver-not-coming-back-to-star-wars-ahsoka-season-2-press-has-started.html",
       "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2016/10/adam-driver.jpg",
-      "date": "Sun, 08 Nov 2026 23:00:24 +0000"
+      "date": "Tue, 10 Nov 2026 17:20:24 +0000"
     },
     {
       "category": "starwars",
@@ -743,7 +743,7 @@
       "description": "This week, our Star Wars Character Spotlight takes a look at Kelleran Beq, the Jedi Master known as the “Sabered The post Kelleran Beq – ‘Star Wars’ Character Spotlight appeared first on Star Wars News Net .",
       "url": "https://www.starwarsnewsnet.com/2026/11/kelleran-beq-star-wars-character-spotlight.html",
       "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2024/02/Kelleran-Beq-Banner-e1709099877379.jpeg",
-      "date": "Fri, 06 Nov 2026 16:00:11 +0000"
+      "date": "Tue, 10 Nov 2026 17:10:11 +0000"
     },
     {
       "category": "starwars",
@@ -752,7 +752,7 @@
       "description": "It was almost exactly a year ago that Adam Driver shocked us all when he revealed that he had been The post Adam Driver Confirms He Is Done With ‘Star Wars’ appeared first on Star Wars News Net .",
       "url": "https://www.starwarsnewsnet.com/2026/11/adam-driver-confirms-he-is-done-with-star-wars.html",
       "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2020/01/TROS-Ben-Solo.jpg",
-      "date": "Thu, 05 Nov 2026 17:10:14 +0000"
+      "date": "Tue, 10 Nov 2026 17:00:14 +0000"
     },
     {
       "category": "starwars",
@@ -761,7 +761,34 @@
       "description": "Following a round of layoffs that eliminated 1000 jobs earlier this year, Disney CEO Josh D’Amaro is reportedly contemplating further The post Disney CEO Josh D’Amaro Planning to Lay Off More Employees, Redirecting Funding to Films and Television appeared first on Star Wars News Net .",
       "url": "https://www.starwarsnewsnet.com/2026/11/disney-ceo-josh-damaro-planning-to-lay-off-more-employees-redirecting-funding-to-films-and-television.html",
       "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2025/06/Walt-Disney-castle-logo.png",
-      "date": "Thu, 05 Nov 2026 17:00:30 +0000"
+      "date": "Tue, 10 Nov 2026 16:55:30 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "Will Star Wars Slot Machines Ever Return?",
+      "description": "Few franchises out there are as well suited to slot machines as Star Wars. Iconic heroes, a legendary score and The post Will Star Wars Slot Machines Ever Return? appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/11/will-star-wars-slot-machines-ever-return.html",
+      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2025/05/canto-bight-slots-.jpg",
+      "date": "Tue, 10 Nov 2026 16:40:16 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "The Star Wars Movie Scenes That Echo Across Cosmic Slots",
+      "description": "For a while, the most famous space battle in movie history was full of old warplanes. While the effects shots The post The Star Wars Movie Scenes That Echo Across Cosmic Slots appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/11/the-star-wars-movie-scenes-that-echo-across-cosmic-slots.html",
+      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2025/09/aaron-mcbride_sabacc-concept-art_solo.jpg",
+      "date": "Tue, 10 Nov 2026 16:30:08 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "Sabacc, Luck, and Strategy: How Games of Chance Became Part of the Star Wars Galaxy",
+      "description": "Long before anyone discussed lightsaber duels or hyperspace routes, the Star Wars fan base was already abuzz with the story The post Sabacc, Luck, and Strategy: How Games of Chance Became Part of the Star Wars Galaxy appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/11/sabacc-luck-and-strategy-how-games-of-chance-became-part-of-the-star-wars-galaxy.html",
+      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2015/01/Lando-Sabacc-e1421604598223.jpg",
+      "date": "Tue, 10 Nov 2026 16:10:11 +0000"
     },
     {
       "category": "starwars",
@@ -780,33 +807,6 @@
       "url": "https://www.starwarsnewsnet.com/2026/11/its-time-for-star-wars-to-break-up-with-ea-editorial.html",
       "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/11/Star-Wars-EA-Break-Up-Banner.jpg",
       "date": "Thu, 05 Nov 2026 16:50:26 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars News Net",
-      "title": "The Most Star Wars-Like CS2 Skins Ever Made",
-      "description": "The idea of best Star Wars CS2 skins is not really about finding skins that literally copy lightsabers or stormtrooper The post The Most Star Wars-Like CS2 Skins Ever Made appeared first on Star Wars News Net .",
-      "url": "https://www.starwarsnewsnet.com/2026/11/the-most-star-wars-like-cs2-skins-ever-made.html",
-      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/11/Star-Wars-Battlefront-III.jpg",
-      "date": "Thu, 05 Nov 2026 16:45:57 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars News Net",
-      "title": "The Old Republic Refuses to Die, and Its Economy Is the Reason Players Stay",
-      "description": "Every few months someone declares Star Wars: The Old Republic finished. And every few months the fleet is still packed, The post The Old Republic Refuses to Die, and Its Economy Is the Reason Players Stay appeared first on Star Wars News Net .",
-      "url": "https://www.starwarsnewsnet.com/2026/11/the-old-republic-refuses-to-die-and-its-economy-is-the-reason-players-stay.html",
-      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2021/07/Star-Wars-The-Old-Republic-Sith-Lords.jpg",
-      "date": "Thu, 05 Nov 2026 16:20:03 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars News Net",
-      "title": "‘Ahsoka’ Season 2 Cast Discuss Their Character’s Journeys and Using Outdoor Sets This Time",
-      "description": "Rosario Dawson, Natasha Liu Bordizzo and Eman Esfandi talked about their experience filming Ahsoka Season 2 at a panel during The post ‘Ahsoka’ Season 2 Cast Discuss Their Character’s Journeys and Using Outdoor Sets This Time appeared first on Star Wars News Net .",
-      "url": "https://www.starwarsnewsnet.com/2026/11/ahsoka-season-2-cast-discuss-their-characters-journeys-and-using-outdoor-sets-this-time.html",
-      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2023/10/STC-FF-002974-scaled.jpg",
-      "date": "Mon, 02 Nov 2026 13:00:10 +0000"
     },
     {
       "category": "starwars",
@@ -1002,6 +1002,15 @@
     {
       "category": "youtube",
       "source": "Hood Informatik",
+      "title": "reicht langsam mit diesen Jarvis Videos... zu mal der rote Kreis eigentlich aus A Space Odyssey ist",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/2EbNWK06bf8",
+      "image": "https://i.ytimg.com/vi/2EbNWK06bf8/hqdefault.jpg",
+      "date": "2026-11-10T18:15:35+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
       "title": "Hat diese Frau Nvidia ausspioniert ? #informatik #cybersecurity #nvidia #news #ceo",
       "description": "",
       "url": "https://www.youtube.com/shorts/FwCANoVW9xA",
@@ -1079,15 +1088,6 @@
       "url": "https://www.youtube.com/watch?v=CD4aM2F43YU",
       "image": "https://i.ytimg.com/vi/CD4aM2F43YU/hqdefault.jpg",
       "date": "2026-11-01T19:40:08+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Binance wurde gehackt und hat den Diebstahl selbst unterschrieben ?! #informatik",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/yFxQfnjKTHg",
-      "image": "https://i.ytimg.com/vi/yFxQfnjKTHg/hqdefault.jpg",
-      "date": "2026-10-30T11:10:03+00:00"
     },
     {
       "category": "youtube",
