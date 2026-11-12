@@ -1,6 +1,69 @@
 {
-  "updated": "2026-11-12T03:43:45.546504+00:00",
+  "updated": "2026-11-12T12:19:14.084809+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Одржувач на Linux се откажува од дел од прегледите поради закрпите напишани со вештачка интелигенција",
+      "description": "Лоренцо Стоукс, еден од програмерите што работат на управувањето со меморијата во јадрото на Linux, ќе престане да прегледува туѓ код надвор од областите што самиот ги одржува. Причината ја наведе во серијата закрпи испратена на 10 ноември: „Поради сегашниот обем во јадрото што доаѓа од серии генерирани со вештачка интелигенција, за жал немам капацитет […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/odrzuvac-lunix-se-otkaza-od-del-od-pregledite/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/web-application-development-business-technology-Depositphotos_595813616_XL-150x150.webp",
+      "date": "Thu, 12 Nov 2026 12:09:48 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Windows 11 автоматски вклучува дополнителна заштита на системот која може да забави дел од игрите",
+      "description": "Microsoft почна автоматски да ја вклучува „Memory Integrity“ (интегритет на меморијата, позната и како „HVCI“) на дел од компјутерите со Windows 11. Промената дојде со опционалната надградба KB5127936 од 28 октомври за верзиите 25H2 и 26H2, со која стигнаа и новите контекстуални менија, а сега ја носи и редовната безбедносна надградба од ноември. Функцијата користи […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/windows-11-avtomatsko-vklucuvanje-memory-integrity/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/wallpaper-windows-logo-background-Depositphotos_479630036_L.webp",
+      "date": "Thu, 12 Nov 2026 11:51:58 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Microsoft го претстави Classroom, посебна платформа за наставата во училиштата и на факултетите",
+      "description": "Microsoft го претстави Microsoft Classroom, нова посебна платформа во Microsoft 365 за наставата и учењето, наменета за основните и средните училишта, како и за факултетите. Таа на едно место ги собира алатките што наставниците веќе ги користат, како задачите, оценките, OneNote Class Notebook и Insights. Името не е ново. Microsoft имаше услуга Microsoft Classroom во […]",
+      "url": "https://smartportal.mk/novosti/servisi/microsoft-go-pretstavi-classroom/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/microsoft-classroom-1-150x150.webp",
+      "date": "Thu, 12 Nov 2026 11:01:09 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Google DeepMind го претстави AlphaGenome 2, модел што предвидува како промените во ДНК делуваат во различни клетки",
+      "description": "Google DeepMind го претстави AlphaGenome 2, нова верзија на моделот што предвидува како промените во ДНК влијаат врз активноста на гените. Најголемата разлика е што новиот модел не гледа само просек на цело ткиво, туку предвидувањата ги дава за конкретни типови клетки, како клетките од срцевиот мускул или имунолошките клетки. Првиот AlphaGenome беше претставен во […]",
+      "url": "https://smartportal.mk/novosti/nauka-istrazuvanja/google-deepmind-alphagenome-2/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/deepmind-AlphaGenome-2-150x150.webp",
+      "date": "Thu, 12 Nov 2026 10:51:33 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Apple ја тестира Harbor, апликација што ќе овозможи лесно користење на локални јазични модели на повеќето Mac компјутери",
+      "description": "Apple подготвува нова Mac апликација наречена Harbor, која треба да го олесни локалното извршување на модели за вештачка интелигенција на еден или повеќе Mac компјутери. Апликацијата ја откри Арон Перис, а за неа веќе постои и официјална страница на Claris, компанијата на Apple позната по FileMaker платформата за бази на податоци. Според Claris, Harbor ги […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/apple-ja-testira-harbor/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/computer-system-unit-mac-studio-Depositphotos_706804288_XL-150x150.webp",
+      "date": "Thu, 12 Nov 2026 10:27:35 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Voyager 1 следната среда станува првото летало на еден светлосен ден од Земјата",
+      "description": "Voyager 1 во среда, 18 ноември, ќе стане првиот објект направен од човекот што стигнал на еден светлосен ден од Земјата. Според NASA, тоа ќе се случи во 5:16:07 часот по источно американско време, односно во 11:16 часот по македонско време. Светлосниот ден е мерка за растојание, а не за време. Тоа е патот што […]",
+      "url": "https://smartportal.mk/novosti/nauka-istrazuvanja/voyager-1-svetlosen-den/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/voyager-1-advisory-image-2-nov-10-150x150.webp",
+      "date": "Thu, 12 Nov 2026 10:13:16 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Gemini 4 Carbon стана достапен за програмерите и за претплатниците на AI Ultra",
+      "description": "Google го направи Gemini 4 Carbon достапен за програмерите, компаниите и претплатниците на Google AI Ultra, две недели откако го претстави само за експерти за сајбер одбрана преку програмата Fairwind. Според компанијата, тоа е нивниот најмоќен модел досега. Програмерите и компаниите го добиваат преку „API“ во Google AI Studio и Gemini for business, но само […]",
+      "url": "https://smartportal.mk/novosti/ai/gemini-4-carbon-dostapen/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/gemini_carbon_102726_header.width-2200.format-webp-150x150.webp",
+      "date": "Thu, 12 Nov 2026 09:44:19 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -30,246 +93,183 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Google го претстави „Gemini for healthcare“, агент за здравствените установи и осигурителите во САД",
-      "description": "Google го претстави Gemini for healthcare, решение со вештачка интелигенција наменето за болниците, здравствените установи и здравствените осигурители. Тоа е надградба на агентот Gemini, кој Google го претстави на 8 октомври, а кој наместо само да одговара на прашања треба сам да извршува задачи во повеќе чекори. Според Томас Куриан, извршниот директор на Google Cloud, […]",
-      "url": "https://smartportal.mk/novosti/ai/google-gemini-for-healthcare/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/Industry_headers.max-2500x2500-1-150x150.webp",
-      "date": "Wed, 11 Nov 2026 12:41:59 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "DuckDuckGo прелистувачот за Windows конечно доби додатоци, засега само менаџерите за лозинки Bitwarden и LastPass",
-      "description": "DuckDuckGo почна да воведува поддршка за додатоци од трети страни во својот прелистувач за Windows, а првата категорија се менаџерите за лозинки, која компанијата ја опишува како најпопуларна. Засега сите корисници на Windows можат да ги инсталираат само додатоците на Bitwarden и LastPass. Додатоците се инсталираат од Settings > Password Manager Extensions, каде копчето „Get“ […]",
-      "url": "https://smartportal.mk/novosti/softver-prog/duckduckgo-za-windows-poddrska-dodatoci/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/HWx2oZgXkAAevCC-150x150.webp",
-      "date": "Wed, 11 Nov 2026 12:32:45 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Ring претстави летачка безбедносна камера за домот и робот што патролира во деловни простори",
-      "description": "Ring, компанијата за безбедносни камери во сопственост на Amazon, ја претстави Ring Robotics, нова линија уреди што сами се движат низ просторот. Првите два се Ring Drone Cam, летачка камера за внатре во домот и Ring Rover Cam, робот чувар наменет за бизниси. Двата уреди работат со системот AI Pilot, кој според Ring комбинира камери, […]",
-      "url": "https://smartportal.mk/novosti/tehnologii/ring-drone-cam-rover-cam/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/ring-drone-rover-cam-1-150x150.webp",
-      "date": "Wed, 11 Nov 2026 12:19:44 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "РСБСП: Зимата носи предизвици – Безбедноста во сообраќајот е наша одговорност",
-      "description": "Управувањето со моторно возило во зимски услови бара зголемена внимателност, одговорност и целосна подготвеност од секој учесник во сообраќајот. Намалената видливост, влажните коловози, снегот и голомразицата значително го зголемуваат ризикот од сообраќајни незгоди и ја наметнуваат потребата од повисоко ниво на сообраќајна дисциплина и превентивно однесување. Согласно Законот за безбедност на сообраќајот на патиштата од […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/rsbsp-zimata-nosi-predizvici/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/rsbsp-image2-150x150.webp",
-      "date": "Wed, 11 Nov 2026 11:40:37 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "„Самсунг Галерија” овозможува полесен пристап до фотографиите и видеата на различни Galaxy уреди",
-      "description": "Скопје, 10 ноември 2026 година – Како што луѓето ги „фаќаат”, зачувуваат и прегледуваат спомените на повеќе уреди, како мобилни телефони и таблети, чувањето на тие моменти безбедни и лесно достапни станува сè поважно. За да се задоволи оваа растечка потреба, Самсунг („Samsung”) нуди услуга за синхронизација на Галеријата (Gallery) во соработка со Гугл („Google”). […]",
-      "url": "https://smartportal.mk/novosti/softver-prog/samsung-gallery-polesen-pristap-fotografii-razlicni-galaxy-uredi/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/Samsung-Gallery-02-150x150.webp",
-      "date": "Tue, 10 Nov 2026 15:48:22 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Linux Mint 27 ја враќа функцијата за „хибернација“ и носи нов терминал, календар и читач на е-книги",
-      "description": "Linux Mint 27 „Adrien“, првата верзија според новиот годишен циклус, е планирана за католичкиот Божиќ, кон крајот на декември, а тимот во месечните новости од почетокот на годината постепено ги покажува промените. Водачот на проектот, Клемент Лефевр, напиша дека за повеќе од 20 години не видел толку многу новини во една верзија. Најпрактичната новина е […]",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/linux-mint-27-novini/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/warsaw-poland-april-2026-close-Depositphotos_877329792_L-150x150.webp",
-      "date": "Tue, 10 Nov 2026 15:33:45 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Chrome дозволува вистински веб содржини во 3D сцени и игри, со превод, пребарување и пристапност",
-      "description": "Google во Chrome 157 официјално го пушти „HTML-in-Canvas“, нов „API“ што им дозволува на програмерите да ставаат обични веб елементи, како текст, формулари и копчиња, директно во графиката што ја црта прелистувачот. Тоа значи дека текстот во веб игра или 3D сцена може да се означи, копира, преведе и пребара, исто како на обична веб […]",
-      "url": "https://smartportal.mk/novosti/softver-prog/chrome-html-in-canvas/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/google-html-in-canvas-1-150x150.webp",
-      "date": "Tue, 10 Nov 2026 15:13:28 +0000"
+      "source": "Time.mk - All",
+      "title": "Искра Хаџи Василева: Нова шефица, стари предизвици | Призма",
+      "description": "",
+      "url": "https://time.mk/c/886d9607ce/iskra-hadzi-vasileva-nova-sefica-stari-predizvici.html",
+      "image": "https://prizma.mk/wp-content/uploads/2026/11/Iskra-Hadzi-Vasileva-BIRN-Copyright-protected-2026-Vasko-M-2--1024x579.jpg",
+      "date": "Thu, 12 Nov 2026 10:50:42 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Како протече првиот ден од надзорната расправа за Алта банка – продолжението ќе биде утврдено дополнително | 360 степени",
+      "title": "Паузите ја изарчија седницата за опозициски пратенички прашања | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/921cf18760/kako-protece-prviot-den-od-nadzornata-rasprava-za-alta-banka-prodolzenieto-ke-bide-utvrdeno-dopolnitelno.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/11/nadzorna-rasprava-za-Alta-banka.png",
-      "date": "Wed, 11 Nov 2026 22:44:38 +0000"
+      "url": "https://time.mk/c/f05cc40c8a/pauzite-ja-izarcija-sednicata-za-opoziciski-pratenicki-prasanja.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/11/1-300x168.png",
+      "date": "Thu, 12 Nov 2026 12:06:41 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Мицкоски за буџетите на судството и обвинителството – „со пари не можете да купите морал“ | 360 степени",
+      "title": "ВЛЕН: Бараме оставка на Ахмети | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/6bfc3d4dc0/mickoski-za-budzetite-na-sudstvoto-i-obvinitelstvoto-so-pari-ne-mozete-da-kupite-moral.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2020/01/sudstvo.jpg",
-      "date": "Wed, 11 Nov 2026 20:54:53 +0000"
+      "url": "https://time.mk/c/330edae451/vlen-barame-ostavka-na-ahmeti.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2021/09/ahmeti.jpg",
+      "date": "Thu, 12 Nov 2026 11:46:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ЕГИПЕТСКИОТ КРИВИЧЕН СУД ОБЈАВИ СПИСОК НА 35 ОРГАНИЗАЦИИ КОИ ПРЕТСТАВУВААТ ТЕРОРИСТИЧКА ЗАКАНА: Планираат ли „Муслиманските браќа“ ширење и во Македонија преку Исламска младинска асоцијација? | Вечер Прес",
+      "title": "Ќе се оди в затвор за лажни вести што ќе го загрозат банкарскиот финансиски систем | Фактор",
       "description": "",
-      "url": "https://time.mk/c/0ace36b3b4/egipetskiot-krivicen-sud-objavi-spisok-na-35-organizacii-koi-pretstavuvaat-teroristicka-zakana-planiraat-li-muslimanskite-braka-sirenje-i-vo-makedonija-preku-islamska-mladinska-asocijacija.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/11/8088041-scaled-e1794408435144.jpg",
-      "date": "Wed, 11 Nov 2026 14:51:18 +0000"
+      "url": "https://time.mk/c/324a86f11e/ke-se-odi-v-zatvor-za-lazni-vesti-sto-ke-go-zagrozat-bankarskiot-finansiski-sistem.html",
+      "image": "https://faktor.mk/media/main/2026/10/20261021105600.jpg",
+      "date": "Thu, 12 Nov 2026 10:34:40 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Мицкоски: Во Европа енергенсите се многу поскапи, правиме сè за граѓаните да плаќаат најевтино | Скопје1",
+      "title": "(Видео) ВМРО-ДПМНЕ: „Алта банка“ немала забрана за работа во ЕУ, Филипче свесно манипулира со случајот, ЈО да поведе постапка | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/d671ee5ba4/mickoski-vo-evropa-energensite-se-mnogu-poskapi-pravime-se-za-gragjanite-da-plakaat-najevtino.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/87440/conversions/text-max.jpg",
-      "date": "Wed, 11 Nov 2026 19:33:21 +0000"
+      "url": "https://time.mk/c/156ecd3a2b/video-vmro-dpmne-alta-banka-nemala-zabrana-za-rabota-vo-eu-filipce-svesno-manipulira-so-slucajot-jo-da-povede-postapka.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/11/alta-banka-.webp",
+      "date": "Thu, 12 Nov 2026 11:59:13 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Видео) Стојна од Куклица не се плаши од кривичните пријави: „Не правам ништо незаконски, сè е легално“ | Скопје1",
+      "title": "ФОТО | Две маси, два различни оброка: активисти покажаа што јадат студентите, а што пратениците | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/e1b30bf9ad/video-stojna-od-kuklica-ne-se-plasi-od-krivicnite-prijavi-ne-pravam-nisto-nezakonski-se-e-legalno.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/87746/conversions/text-max.jpg",
-      "date": "Wed, 11 Nov 2026 21:10:50 +0000"
+      "url": "https://time.mk/c/e0a0c77437/foto-dve-masi-dva-razlicni-obroka-aktivisti-pokazaa-sto-jadat-studentite-a-sto-pratenicite.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/11/Akcija-na-Urbani-umetnici-akcii-obrok-1-300x225.jpg",
+      "date": "Thu, 12 Nov 2026 11:20:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Савески до пратениците: Во овој момент не можам да кажам дали има предистрага за Алта банка, извинете, но законот ми забранува | 360 степени",
+      "title": "Фирми без вработени и газди со политички врски должат 224 милиони евра за данок и придонеси | Фокус",
       "description": "",
-      "url": "https://time.mk/c/9191e527a3/saveski-do-pratenicite-vo-ovoj-moment-ne-mozam-da-kazam-dali-ima-predistraga-za-alta-banka-izvinete-no-zakonot-mi-zabranuva.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/11/Nenad-Saveski-nadzorna-rasprava.png",
-      "date": "Wed, 11 Nov 2026 19:33:21 +0000"
+      "url": "https://time.mk/c/9ac892d7f8/firmi-bez-vraboteni-i-gazdi-so-politicki-vrski-dolzat-224-milioni-evra-za-danok-i-pridonesi.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/11/millennial-asia-businessmen-businesswomen-meeting-brainstorming-ideas-about-new-paperwork-project-colleagues-working-together-planning-success-strategy-enjoy-teamwork-small-modern-night-office-1170x658.jpg",
+      "date": "Thu, 12 Nov 2026 10:18:53 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "АГЕНЦИЈАТА ЗА РАЗУЗНАВАЊЕ Ѝ ОДГОВОРИ НА ПРАТЕНИЧКАТА ПЕТРОВСКА ДЕКА НЕМАЛА ИНФОРМАЦИИ ЗА КОНТАКТИ НА ПОЛИТИЧАРИ ИЛИ МЕДИУМИ СО СОПСТВЕНИКОТ НА СРПСКАТА АЛТА БАНКА | Сакам да кажам",
+      "title": "ДУИ бара извинување во рок од 24 часа за обвинувањата околу Алта банка, во спротивно најавува тужби | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/df0baaa106/agencijata-za-razuznavanje-i-odgovori-na-pratenickata-petrovska-deka-nemala-informacii-za-kontakti-na-politicari-ili-mediumi-so-sopstvenikot-na-srpskata-alta-banka.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/11/slavjanka-petrovska-11.11.2026.png",
-      "date": "Wed, 11 Nov 2026 17:32:40 +0000"
+      "url": "https://time.mk/c/7fd8020700/dui-bara-izvinuvanje-vo-rok-od-24-casa-za-obvinuvanjata-okolu-alta-banka-vo-sprotivno-najavuva-tuzbi.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/11/Arber-Ademi-pres.jpg",
+      "date": "Thu, 12 Nov 2026 11:52:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Институциите постапиле „до запирка“ по законот кога се давала дозволата за „Алта банка“, тврди Јаревски од ВМРО-ДПМНЕ | Слободен Печат",
+      "title": "Имало ли фалсификувани банкноти од 500 евра во трезорот на Алта банка? | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/54c65a7a8e/instituciite-postapile-do-zapirka-po-zakonot-koga-se-davala-dozvolata-za-alta-banka-tvrdi-jarevski-od-vmro-dpmne.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/11/jarevski-telma-300x166.jpg",
-      "date": "Wed, 11 Nov 2026 21:24:38 +0000"
+      "url": "https://time.mk/c/2dbc3b2156/imalo-li-falsifikuvani-banknoti-od-500-evra-vo-trezorot-na-alta-banka.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/10/alta-banka-300x141.jpg",
+      "date": "Thu, 12 Nov 2026 12:06:41 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Загина странски државјанин во пукотница во Будва – уапсен е напаѓачот | Фокус",
+      "title": "Бремената свршеница го изгубила бебето по трагедијата: Кој е Кристијан, Хрватот кој свирепо беше убиен во психијатриска болница? | Црнобело",
       "description": "",
-      "url": "https://time.mk/c/33997224f0/zagina-stranski-drzavjanin-vo-pukotnica-vo-budva-uapsen-e-napagjacot.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/11/profimedia-0363980479-830x553-1-585x390.jpg",
-      "date": "Wed, 11 Nov 2026 21:32:37 +0000"
+      "url": "https://time.mk/c/3f5c6c0691/bremenata-svrsenica-go-izgubila-bebeto-po-tragedijata-koj-e-kristijan-hrvatot-koj-svirepo-bese-ubien-vo-psihijatriska-bolnica.html",
+      "image": "https://www.crnobelo.com/images/stories/2026/11/1019/bremenata-svrshenica-go-izgubila-bebeto-po-tragedijata-koj-e-kristijan-hrvatot-koj-svirepo-beshe-ubien-vo-psihijatriska-bolnica-povekje.jpg",
+      "date": "Thu, 12 Nov 2026 09:41:00 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Пленковиќ ја предупреди Црна Гора: Нема затворање на преговорите со ЕУ без договор за границата | Макфакс",
+      "title": "ВИТКОФ И КУШНЕР ПОБАРАЛЕ ОД РУСИЈА ДА ПОДГОТВИ НОВ БЕЗБЕДНОСЕН ДОГОВОР СО ЕВРОПА | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/040dfafcb3/plenkovik-ja-predupredi-crna-gora-nema-zatvoranje-na-pregovorite-so-eu-bez-dogovor-za-granicata.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/01/crnagora-zname-Depositphotos_76484601_XL.jpg",
-      "date": "Wed, 11 Nov 2026 18:58:56 +0000"
+      "url": "https://time.mk/c/11346a67fd/vitkof-i-kusner-pobarale-od-rusija-da-podgotvi-nov-bezbednosen-dogovor-so-evropa.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/11/putin-kushner-dpa.jpeg",
+      "date": "Thu, 12 Nov 2026 10:32:57 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Кремљ му врти грб на Брисел, а отвара врата за Вашингтон; Песков: Европа не покажува волја за мир, разговорите со САД продолжуваат | Вечер Прес",
+      "title": "УПРАВНИОТ ОДБОР НА НВИДИА ПОДГОТВУВА СМЕНА НА ХУАНГ: Пресврт во шпионската афера што ја потресе компанијата и Белата куќа | Пари",
       "description": "",
-      "url": "https://time.mk/c/74407da34d/kremlj-mu-vrti-grb-na-brisel-a-otvara-vrata-za-vasington-peskov-evropa-ne-pokazuva-volja-za-mir-razgovorite-so-sad-prodolzuvaat.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/11/peskov.jpg",
-      "date": "Wed, 11 Nov 2026 20:57:01 +0000"
+      "url": "https://time.mk/c/b43290f0de/upravniot-odbor-na-nvidia-podgotvuva-smena-na-huang-presvrt-vo-spionskata-afera-sto-ja-potrese-kompanijata-i-belata-kuka.html",
+      "image": "http://pari.com.mk/wp-content/uploads/2026/11/Tech-Executive-in-NVIDIA-Green.png",
+      "date": "Thu, 12 Nov 2026 09:38:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ПРВ ГЕНЕРАЛЕН ШТРАЈК ВО ШПАНИЈА ПО 14 ГОДИНИ Блокирани патишта, откажани возови и 52 приведени | +инфо",
+      "title": "Станари од пет згради во Скопје повеќе од 20 часа се без струја и греење, надлежните велат дека се работи на дефектот | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/0948b810f9/prv-generalen-strajk-vo-spanija-po-14-godini-blokirani-patista-otkazani-vozovi-i-52-privedeni.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2026/11/spanija.jpg",
-      "date": "Wed, 11 Nov 2026 19:35:19 +0000"
+      "url": "https://time.mk/c/2605178edf/stanari-od-pet-zgradi-vo-skopje-poveke-od-20-casa-se-bez-struja-i-greenje-nadleznite-velat-deka-se-raboti-na-defektot.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/11/viber_image_2026-11-11_19-07-18-182-e1794477436549-300x233.jpg",
+      "date": "Thu, 12 Nov 2026 10:04:57 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "За еден месец ќе проработи жичницата до Водно – се чека моторот | Независен",
+      "title": "​Одбележан 12 Ноември – Денот на ослободувањето на Драчево | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/b7bd9450c0/za-eden-mesec-ke-proraboti-zicnicata-do-vodno-se-ceka-motorot.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2025/08/Zicara-i-Skopje-slikano-od-Vodno-2-bg.jpg",
-      "date": "Wed, 11 Nov 2026 18:38:55 +0000"
+      "url": "https://time.mk/c/c7ae82a127/odbelezan-12-noemvri-denot-na-osloboduvanjeto-na-dracevo.html",
+      "image": "",
+      "date": "Thu, 12 Nov 2026 11:10:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Гас место огревно дрво, електрични автобуси и зелени покриви — Град Скопје дава стари предлози во нов план против загадувањето | Слободен Печат",
+      "title": "Несреќа во Куманово: 76-годишник удрил во пешак и избегал | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/3b6d643ae9/gas-mesto-ogrevno-drvo-elektricni-avtobusi-i-zeleni-pokrivi-grad-skopje-dava-stari-predlozi-vo-nov-plan-protiv-zagaduvanjeto.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/05/zagaduvanje-1-300x200.jpg",
-      "date": "Wed, 11 Nov 2026 17:02:38 +0000"
+      "url": "https://time.mk/c/76276cb584/nesreka-vo-kumanovo-76-godisnik-udril-vo-pesak-i-izbegal.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2017/12/policija-lenta.jpg",
+      "date": "Thu, 12 Nov 2026 12:12:54 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Инженерска алхемија и селективно вештачење“ – градежен експерт со остри критики за одбраната на сопственикот на „Пулс“ | 4NEWS",
+      "title": "(Видео) Пет малолетници ќе добијат кривични за „насилство“ за претепувањето на детето во Влае, за кое мајката сведочеше дека „го подавале како топка“ | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/579b1b0158/inzenerska-alhemija-i-selektivno-vestacenje-gradezen-ekspert-so-ostri-kritiki-za-odbranata-na-sopstvenikot-na-puls.html",
-      "image": "https://4news.mk/wp-content/uploads/2025/12/puls-13-.avif",
-      "date": "Wed, 11 Nov 2026 22:28:38 +0000"
+      "url": "https://time.mk/c/e7286559e4/video-pet-maloletnici-ke-dobijat-krivicni-za-nasilstvo-za-pretepuvanjeto-na-deteto-vo-vlae-za-koe-majkata-svedocese-deka-go-podavale-kako-topka.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/87764/conversions/text-max.jpg",
+      "date": "Thu, 12 Nov 2026 11:10:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Семејното насилство цвета – за едно деноноќие десетина пријави | Независен",
+      "title": "Проданоски: Оддадовме почит на жртвите од Првата светска војна, мирот е заедничка одговорност | Булевар",
       "description": "",
-      "url": "https://time.mk/c/c58e8c870b/semejnoto-nasilstvo-cveta-za-edno-denonokie-desetina-prijavi.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/04/nasilstvo-semejno.jpg",
-      "date": "Wed, 11 Nov 2026 12:49:00 +0000"
+      "url": "https://time.mk/c/98655ac427/prodanoski-oddadovme-pocit-na-zrtvite-od-prvata-svetska-vojna-mirot-e-zaednicka-odgovornost.html",
+      "image": "https://bulevar.mk/wp-content/uploads/2026/11/img_3111-1024x683.jpeg",
+      "date": "Thu, 12 Nov 2026 11:56:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ДОДЕЛЕНИ „НОЕМВРИСКИТЕ НАГРАДИ“ – Куманово го одбележа 11 Ноември | Економија и Бизнис",
+      "title": "Започнува 4. Годишен состанок на Балканскиот форум на уставни судови во Охрид | OhridPress",
       "description": "",
-      "url": "https://time.mk/c/5d6600407c/dodeleni-noemvriskite-nagradi-kumanovo-go-odbeleza-11-noemvri.html",
-      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/11/kumanovonagradeni-1024x685.webp",
-      "date": "Wed, 11 Nov 2026 17:54:57 +0000"
+      "url": "https://time.mk/c/919dc3ace2/zapocnuva-4-godisen-sostanok-na-balkanskiot-forum-na-ustavni-sudovi-vo-ohrid.html",
+      "image": "https://ohridpress.com.mk/wp-content/uploads/2026/11/Sostanok-Ustaven-sud.jpg",
+      "date": "Thu, 12 Nov 2026 07:49:06 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Охрид прогласен за „Младински пријателски град“ за Југозападниот плански регион за 2026 година | Охрид1",
+      "title": "„Историска вечер“ : Кица Колбе во Атина го промовираше грчкото издание на книгата „Егејци“ | Независен",
       "description": "",
-      "url": "https://time.mk/c/c81ecaf57b/ohrid-proglasen-za-mladinski-prijatelski-grad-za-jugozapadniot-planski-region-za-2026-godina.html",
-      "image": "https://ohrid1.com/wp-content/uploads/2026/11/nagrada-750x460.jpg",
-      "date": "Wed, 11 Nov 2026 15:03:03 +0000"
+      "url": "https://time.mk/c/ff8eb9ab46/istoriska-vecer-kica-kolbe-vo-atina-go-promovirase-grckoto-izdanie-na-knigata-egejci.html",
+      "image": "",
+      "date": "Thu, 12 Nov 2026 11:01:01 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Нема да ви се верува што се случи претходно“ – филм што ја отвора македонската рана, но зборува и за светот | Независен",
+      "title": "„Нема да ви се верува што се случи претходно“: филмот за деценијата за која молчиме | Трн",
       "description": "",
-      "url": "https://time.mk/c/a4d3dd65ec/nema-da-vi-se-veruva-sto-se-sluci-prethodno-film-sto-ja-otvora-makedonskata-rana-no-zboruva-i-za-svetot.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/11/scena-od-film-na-janikijevik-2-1024x467.jpg",
-      "date": "Wed, 11 Nov 2026 16:30:45 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Шест фестивалски вечери, уметници од повеќе земји и две изложби: Фестивал на музика од светот во Битола | еМагазин",
-      "description": "",
-      "url": "https://time.mk/c/4e1e2b4987/sest-festivalski-veceri-umetnici-od-poveke-zemji-i-dve-izlozbi-festival-na-muzika-od-svetot-vo-bitola.html",
-      "image": "https://emagazin.mk/wp-content/uploads/2026/11/deo_5495-scaled-e1794408594228-300x144.jpg",
-      "date": "Wed, 11 Nov 2026 14:53:06 +0000"
+      "url": "https://time.mk/c/bcb428bbd3/nema-da-vi-se-veruva-sto-se-sluci-prethodno-filmot-za-decenijata-za-koja-molcime.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/09/nema-da-vi-se-veruva-stil.jpg",
+      "date": "Wed, 11 Nov 2026 19:40:56 +0000"
     }
   ],
   "de": [
@@ -638,6 +638,15 @@
     {
       "category": "eng",
       "source": "PCWorld",
+      "title": "Run every major AI model in one window for $63",
+      "description": "TL;DR: ChatPlayground AI runs one prompt through 20+ AI models at once, and a lifetime Unlimited subscription is on sale for $63.20 using code DEAL20 through November 15 (reg. $619). Running the same question through ChatGPT, then Gemini, then something else to see which answer holds up means three tabs and three subscriptions. ChatPlayground AI sends one prompt to multiple models at the same time and shows the results side by side, and a lifetime Unlimited subscription is on sale for $63.20 (re",
+      "url": "https://www.pcworld.com/article/3282617/run-every-major-ai-model-in-one-window-for-63.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3282617-0-19125000-1794470415-ChatPlayground_c83724.jpg?quality=50&strip=all",
+      "date": "Thu, 12 Nov 2026 08:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
       "title": "Blink’s feature-packed 2K+ pan-tilt camera hits a bargain $20",
       "description": "Blink Mini Pan-Tilt 2K+ View Deal There’s nothing like the peace of mind of having a security camera that’s easy to access so you can check in on your home when you’re away. Is the dog chewing the couch? Is your cat on the counter again? Well, there’s an easy way to find out if you get one of these new Blink Mini Pan-Tilt 2K+ cameras for $20 , a good 60% under its MSRP. We’ve seen affordable Blink cameras before, but those were static. This new model can pan a full 360 degrees and also tilt up a",
       "url": "https://www.pcworld.com/article/3282937/blinks-feature-packed-2k-pan-tilt-camera-hits-a-bargain-20.html",
@@ -715,15 +724,6 @@
       "url": "https://www.pcworld.com/article/3279558/watching-a-three-hour-movie-youll-want-this-app.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3279558-0-58676300-1794396640-RunPee.png",
       "date": "Wed, 11 Nov 2026 11:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Cancel your $99.99 Microsoft 365 subscription and get Office for life for $48",
-      "description": "TL;DR: Get Word, Excel, PowerPoint, and more with a lifetime license to Microsoft Office 2024 Professional Plus , now $47.99 (reg. $249.99) with code DEAL20. Microsoft 365 Personal costs $99.99 per year, and that’s as cheap as it gets. A Microsoft Office 2024 Professional Plus lifetime license gets you the same apps for a one-time payment, and this promo code drops the price to $47.99 (reg. $249.99). Your license includes Word, Excel, PowerPoint, Outlook, OneNote, and Access for one PC running W",
-      "url": "https://www.pcworld.com/article/3280527/cancel-your-99-99-microsoft-365-subscription-and-get-office-for-life-for-48.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3280527-0-06612700-1794384021-mso-2024-Pro-Plus-new.jpg?quality=50&strip=all",
-      "date": "Wed, 11 Nov 2026 08:00:00 +0000"
     }
   ],
   "starwars": [
@@ -901,6 +901,60 @@
     {
       "category": "starwars",
       "source": "Jedi News",
+      "title": "Star Wars Fan Fun Day 2027: Andor’s Kieran O’Brien Attending",
+      "description": "Andor's Kieran O’Brien, Pegla in the Disney+ series, is the third guest announced as attending Star Wars Fan Fun Day on Bank Holiday Monday, May 3rd, 2027, at Blackburn Rovers Football Club, Premier Suite, Ewood Park, Nuttall Street, BB2 4JF. The post Star Wars Fan Fun Day 2027: Andor’s Kieran O’Brien Attending appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/events/articles/star-wars-fan-fun-day-2027-andors-kieran-obrien-attending/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/Star-Wars-Fan-Fun-Day-Kieran-OBrien-Nov26-300x201.jpg",
+      "date": "Thu, 12 Nov 2026 11:57:14 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Podcast Stardust #1,107: Darth Bane: Path of Destruction, Chapters 25-27",
+      "description": "First-generation Star Wars fans, Dennis Keithly and Jay Krebs, host episode 1,107 of Podcast Stardust. The post Podcast Stardust #1,107: Darth Bane: Path of Destruction, Chapters 25-27 appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/podcast-stardust-1107-darth-bane-path-of-destruction-chapters-25-27/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2020/05/Podcast-Stardust-300x201.jpg",
+      "date": "Thu, 12 Nov 2026 11:27:36 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Droid Squad Gets Upgraded | Star Wars: The Clone Wars | ‪Star Wars Kids‬",
+      "description": "After R2-D2 and the D-Squad are briefed by Colonel Meebur Gascon for a covert mission to steal an encryption decoding module, the droids receive special upgrades from Dr. Gubacher, including rocket boosters, magnets, and laser cutters! Stream Star Wars: The Clone Wars on Disney+. The post Droid Squad Gets Upgraded | Star Wars: The Clone Wars | ‪Star Wars Kids‬ appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/droid-squad-gets-upgraded-star-wars-the-clone-wars-star-wars-kids/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/maxresdefault-19-300x169.jpg",
+      "date": "Thu, 12 Nov 2026 00:12:47 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "The Cantina Cast 695: The Waystation: Star Wars News and Rumors",
+      "description": "Grab a flagon of your favorite brew for episode 695 of the Cantina Cast. The post The Cantina Cast 695: The Waystation: Star Wars News and Rumors appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/the-cantina-cast-695-the-waystation-star-wars-news-and-rumors/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2018/04/cantina-cast-podcast-300x201.jpg",
+      "date": "Wed, 11 Nov 2026 19:45:15 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Immediate Media’s LEGO Star Wars Magazine #143 Out Now in the UK",
+      "description": "Issue #143 of the LEGO Star Wars Magazine from Immediate Media is out now in the UK and features the usual array of comics, posters, puzzles and competitions, with a K-2SO minifigure and bonus set, priced at £7.99. The post Immediate Media’s LEGO Star Wars Magazine #143 Out Now in the UK appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/lego/articles/immediate-medias-lego-star-wars-magazine-143-out-now-in-the-uk/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/LEGO-Star-Wars-Magazine-143-Featured-Nov26-300x201.jpg",
+      "date": "Wed, 11 Nov 2026 14:43:49 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "First Look at Regal Robot’s Star Wars Aliens Concept Maquettes 3 Pack",
+      "description": "Regal Robot has shared a first look at their upcoming Star Wars Aliens Concept Maquettes 3 Pack, based on the imaginative designs that never quite made it to screen but still remain part of the magic behind the scenes from Star Wars: Return of the Jedi. The post First Look at Regal Robot’s Star Wars Aliens Concept Maquettes 3 Pack appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/first-look-at-regal-robots-star-wars-aliens-concept-maquettes-3-pack/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/regalrobot_star_wars_alien_3_pack_replica_featured_nov26-300x201.jpg",
+      "date": "Wed, 11 Nov 2026 14:06:41 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
       "title": "Full Of Sith Episode DCLV: Star Wars Potpourri",
       "description": "It's time to join the team for episode DCLV of Full of Sith. The post Full Of Sith Episode DCLV: Star Wars Potpourri appeared first on Jedi News .",
       "url": "https://www.jedinews.com/podcasts/articles/full-of-sith-episode-dclv-star-wars-potpourri/",
@@ -942,61 +996,278 @@
       "url": "https://www.jedinews.com/film-music-tv/articles/regal-robots-wicket-w-warrick-legacy-sketches-by-nilo-rodis-jamero-available-now/",
       "image": "https://www.jedinews.com/wp-content/uploads/2026/11/regalrobot_ewok_nilo_rodis-jamero_legacy_sketch_01_Nov26-300x201.jpg",
       "date": "Tue, 10 Nov 2026 17:17:10 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Podcast Stardust #1,106: The Clone Wars – “Carnage of Krell” 0410",
-      "description": "First-generation Star Wars fans, Dennis Keithly and Jay Krebs, host episode 1,106 of Podcast Stardust. The post Podcast Stardust #1,106: The Clone Wars – “Carnage of Krell” 0410 appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/podcast-stardust-1106-the-clone-wars-carnage-of-krell-0410/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2020/05/Podcast-Stardust-300x201.jpg",
-      "date": "Tue, 10 Nov 2026 11:06:43 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Save Up to 20% Off On Selected LEGO Star Wars Sets at Disney Store UK",
-      "description": "The Disney Store in the UK is offering a flash sale on some LEGO sets including a couple of Star Wars sets with 15% off the LEGO Star Wars Death Star, down to £764.99, and 20% off the LEGO Star Wars C-3PO, down to £99.99. The post Save Up to 20% Off On Selected LEGO Star Wars Sets at Disney Store UK appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/collecting/articles/save-up-to-20-off-on-selected-lego-star-wars-sets-at-disney-store-uk/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2025/10/lego-ucs-death-star-feature-Oct25-300x201.jpg",
-      "date": "Tue, 10 Nov 2026 10:20:04 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Ahsoka Protects Anakin the Lurmen Way! | Star Wars: The Clone Wars | ‪Star Wars Kids‬",
-      "description": "Ahsoka Tano must protect Anakin Skywalker and Rex from a dangerous predator while respecting the pacifist Lurmen’s beliefs. With help from healer Wag Too, can Ahsoka save Anakin before it’s too late?! Stream Star Wars: The Clone Wars on Disney+. The post Ahsoka Protects Anakin the Lurmen Way! | Star Wars: The Clone Wars | ‪Star Wars Kids‬ appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/ahsoka-protects-anakin-the-lurmen-way-star-wars-the-clone-wars-star-wars-kids/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/maxresdefault-17-300x169.jpg",
-      "date": "Tue, 10 Nov 2026 00:10:58 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Toy of the Year 2027: Vote for Hasbro Star Wars: Ultimate Grogu and Various LEGO Sets",
-      "description": "The Toy Foundation has unveiled 122 finalists for the 2027 US Toy of the Year (TOTY) Awards, including Hasbro's Star Wars: Ultimate Grogu, the only Star Wars product on the list, alongside 8 nominations for the LEGO Group, with voting open till Jan. 6th, 2027. The post Toy of the Year 2027: Vote for Hasbro Star Wars: Ultimate Grogu and Various LEGO Sets appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/events/articles/toy-of-the-year-2027-vote-for-hasbro-star-wars-ultimate-grogu-and-various-lego-sets/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/Toy-of-the-Year-Awards-2027-Nov26-300x201.jpg",
-      "date": "Mon, 09 Nov 2026 20:33:26 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Luke Skywalker Tries to Burn the Jedi Texts | Star Wars: The Last Jedi | Official Clip",
-      "description": "As Luke hesitates to burn down the sacred Jedi texts, the Force Ghost of Yoda appears with a surprise of his own - and a lesson about letting go of the past that changes everything. Stream Star Wars: The Last Jedi on Disney+. The post Luke Skywalker Tries to Burn the Jedi Texts | Star Wars: The Last Jedi | Official Clip appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/luke-skywalker-tries-to-burn-the-jedi-texts-star-wars-the-last-jedi-official-clip/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/maxresdefault-18-300x169.jpg",
-      "date": "Mon, 09 Nov 2026 19:58:33 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Tarkin’s Top Shelf #471: BOOK REVIEW! Star Pilots by Dr. Chris Kempshall",
-      "description": "Time to revisit Tarkin's Top Shelf with episode 471 discussing all things Star Wars. The post Tarkin’s Top Shelf #471: BOOK REVIEW! Star Pilots by Dr. Chris Kempshall appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/tarkins-top-shelf-471-book-review-star-pilots-by-dr-chris-kempshall/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2018/04/tarkins-top-shelf-300x201.jpg",
-      "date": "Mon, 09 Nov 2026 17:41:34 +0000"
     }
   ],
-  "youtube": []
+  "youtube": [
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "reicht langsam mit diesen Jarvis Videos... zu mal der rote Kreis eigentlich aus A Space Odyssey ist",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/2EbNWK06bf8",
+      "image": "https://i.ytimg.com/vi/2EbNWK06bf8/hqdefault.jpg",
+      "date": "2026-11-10T18:15:35+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Hat diese Frau Nvidia ausspioniert ? #informatik #cybersecurity #nvidia #news #ceo",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/FwCANoVW9xA",
+      "image": "https://i.ytimg.com/vi/FwCANoVW9xA/hqdefault.jpg",
+      "date": "2026-11-09T20:15:07+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Gibt es einen perfekten Virenscanner ?! #informatik #cybersecurity #code #lernen",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/aAOalgbf9Ww",
+      "image": "https://i.ytimg.com/vi/aAOalgbf9Ww/hqdefault.jpg",
+      "date": "2026-11-08T18:45:21+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Wie viele Informationen braucht man um dich zu identifizieren ?! #informatik #code #privacy #math",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/sMSUvgre4x8",
+      "image": "https://i.ytimg.com/vi/sMSUvgre4x8/hqdefault.jpg",
+      "date": "2026-11-07T11:00:39+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Security News der Woche: sshole, TUM und Calif Blockierungsmodus iPhone",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/CDEuOSdif14",
+      "image": "https://i.ytimg.com/vi/CDEuOSdif14/hqdefault.jpg",
+      "date": "2026-11-06T18:00:02+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Wie eine stille SMS deinen Standort bestimmt #informatik #sms #cybersecurity #privacy #phone",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/ClwN-fLOBgU",
+      "image": "https://i.ytimg.com/vi/ClwN-fLOBgU/hqdefault.jpg",
+      "date": "2026-11-05T18:45:32+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Woher kennt der Geldautomat meine PIN ?! #informatik #cybersecurity #code #kryptografie",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/qOnbmyBEdPM",
+      "image": "https://i.ytimg.com/vi/qOnbmyBEdPM/hqdefault.jpg",
+      "date": "2026-11-04T16:42:08+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Frankreich war die Warnung, jetzt trifft es auch andere europäische Supermärkte....",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/2oC1IVGSDDw",
+      "image": "https://i.ytimg.com/vi/2oC1IVGSDDw/hqdefault.jpg",
+      "date": "2026-11-03T18:53:12+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Apple warnt Abgeordnete vor einem Spyware Angriff.... #informatik #cybersecurity #news #iphone",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/VlJv2AW9cXU",
+      "image": "https://i.ytimg.com/vi/VlJv2AW9cXU/hqdefault.jpg",
+      "date": "2026-11-02T18:30:26+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Wie viel von Mr. Robot ist echt? - Episode 1",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=CD4aM2F43YU",
+      "image": "https://i.ytimg.com/vi/CD4aM2F43YU/hqdefault.jpg",
+      "date": "2026-11-01T19:40:08+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Set Off Alarms in Abandoned Paper Mill",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=_2m_nAVaYSg",
+      "image": "https://i.ytimg.com/vi/_2m_nAVaYSg/hqdefault.jpg",
+      "date": "2026-09-30T17:00:15+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Exploring The Last Coal Power Plant in Connecticut Bridgeport Harbor Station",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=CR84XRBKBzs",
+      "image": "https://i.ytimg.com/vi/CR84XRBKBzs/hqdefault.jpg",
+      "date": "2026-08-27T17:00:39+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Rocketdyne Santa Susana Field Laboratory Abandoned America Space Race (1948)",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=0lka-0REQrQ",
+      "image": "https://i.ytimg.com/vi/0lka-0REQrQ/hqdefault.jpg",
+      "date": "2026-04-23T17:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition AMC Seats And Screens Left Behind",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=UnG29VothuQ",
+      "image": "https://i.ytimg.com/vi/UnG29VothuQ/hqdefault.jpg",
+      "date": "2026-03-27T21:09:35+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition Fly by In And Out",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=fDnOH8ZsfTg",
+      "image": "https://i.ytimg.com/vi/fDnOH8ZsfTg/hqdefault.jpg",
+      "date": "2026-03-27T20:40:08+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "AMC Westfield Promenade Mall Raw Demolition Drone Footage",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/5iA5R3Jq4g0",
+      "image": "https://i.ytimg.com/vi/5iA5R3Jq4g0/hqdefault.jpg",
+      "date": "2026-03-27T18:03:29+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Mall Westfield Promenade Demolition AMC Coming Down First!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=SAxjFGjTiHQ",
+      "image": "https://i.ytimg.com/vi/SAxjFGjTiHQ/hqdefault.jpg",
+      "date": "2026-03-23T17:42:38+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Abandoned Beautiful Art Deco Theater",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=ccfU0LSmkj8",
+      "image": "https://i.ytimg.com/vi/ccfU0LSmkj8/hqdefault.jpg",
+      "date": "2026-03-11T20:00:00+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Decommissioned Power Station #synthwave #synth #retrowave #abandonedplaces",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/mOUbNSMoBJs",
+      "image": "https://i.ytimg.com/vi/mOUbNSMoBJs/hqdefault.jpg",
+      "date": "2025-06-17T17:55:51+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "Modded Warfare",
+      "title": "Wheel of Misfortune Three Kids Mine Demolition",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=VXRselqoN-8",
+      "image": "https://i.ytimg.com/vi/VXRselqoN-8/hqdefault.jpg",
+      "date": "2025-06-17T17:45:42+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "DashLaunch for Bad Update & ABadAvatar - Setup & Usage",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=BaPPjKhVYh4",
+      "image": "https://i.ytimg.com/vi/BaPPjKhVYh4/hqdefault.jpg",
+      "date": "2026-11-07T18:00:15+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Switch 2 Jailbroken, PS4 BD-JB for 14.00, PS Vita Storage & WiFi Boosts - ModChat 150",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=a_Z502alSqY",
+      "image": "https://i.ytimg.com/vi/a_Z502alSqY/hqdefault.jpg",
+      "date": "2026-10-31T17:00:20+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Mario's Minute 106 - XBOX LABS Joins in the Decomp & Recomp Craze",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=CZBw4sxFBdI",
+      "image": "https://i.ytimg.com/vi/CZBw4sxFBdI/hqdefault.jpg",
+      "date": "2026-10-28T17:00:08+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Use FTP on a Modded Xbox 360 with Aurora - Network File Transfer Setup",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=xf9HqSbZLsg",
+      "image": "https://i.ytimg.com/vi/xf9HqSbZLsg/hqdefault.jpg",
+      "date": "2026-10-24T17:00:30+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "PS5 13.60 Jailbreak & Hypervisor Exploit, Xbox 360 Softmod, Halo Ported to EVERYTHING - ModChat 149",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=-PXtg_eDYBY",
+      "image": "https://i.ytimg.com/vi/-PXtg_eDYBY/hqdefault.jpg",
+      "date": "2026-10-21T17:00:30+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Backup & Play Xbox 360 Games on a Modded Xbox 360 - Multi-Disc, DLC, XBLA & More!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=KYOZR0zotSc",
+      "image": "https://i.ytimg.com/vi/KYOZR0zotSc/hqdefault.jpg",
+      "date": "2026-10-10T17:00:36+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "How to Softmod the Xbox 360 - Peer Pressure Beginner Setup for Homebrew, Backups, and More!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=G8ceM_xXlO8",
+      "image": "https://i.ytimg.com/vi/G8ceM_xXlO8/hqdefault.jpg",
+      "date": "2026-10-07T19:00:34+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Bad Storage Unauthenticated: Use Any HDD or SSD on Bad Update for Xbox 360!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=svNvWiJAjow",
+      "image": "https://i.ytimg.com/vi/svNvWiJAjow/hqdefault.jpg",
+      "date": "2026-10-03T17:00:02+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "Mario's Minute 105 - Wiping Old Drives and XBOX's Disc to Digital Program",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=C0pBgwThC68",
+      "image": "https://i.ytimg.com/vi/C0pBgwThC68/hqdefault.jpg",
+      "date": "2026-09-30T17:00:10+00:00"
+    },
+    {
+      "category": "youtube",
+      "source": "MrMario2011",
+      "title": "AutoDNS: A Useful Network Safety Plugin for Bad Update & ABadAvatar Consoles",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=dgX6KUQy4jk",
+      "image": "https://i.ytimg.com/vi/dgX6KUQy4jk/hqdefault.jpg",
+      "date": "2026-09-26T17:00:00+00:00"
+    }
+  ]
 }
