@@ -1,6 +1,51 @@
 {
-  "updated": "2026-11-17T10:30:22.072805+00:00",
+  "updated": "2026-11-17T19:39:31.587480+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Google откри хакери што користат „AI“ агенти кои сами ги наоѓаат и искористуваат безбедносните пропусти",
+      "description": "Групата за разузнавање на закани на Google (GTIG) и Mandiant го објавија новиот квартален извештај за тоа како напаѓачите ја користат вештачката интелигенција. Според Google, тие сè почесто преминуваат од обични прашања до „чет ботовите“ кон автономни системи со повеќе агенти. Најзначајниот пример е рамката „exploit_agent“, пронајдена на незаштитен сервер на напаѓачите. Таа постојано го […]",
+      "url": "https://smartportal.mk/novosti/veb-i-bezbednost/google-otkri-hakeri-ai-agenti-iskoristuvaat-bezbednosni-propusti/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/assistant-brain-processor-llm-technology-Depositphotos_836043842_XL-150x150.webp",
+      "date": "Tue, 17 Nov 2026 13:34:53 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Одборот на Nvidia формира нов постојан комитет за национална безбедност и контрола на извозот",
+      "description": "Одборот на директори на Nvidia формира Комитет за надзор над националната безбедност и контролата на извозот, нов постојан комитет што ќе ги надгледува политиките за национална безбедност, почитувањето на правилата за извоз и ризиците во глобалната трговија, соопшти компанијата во вторникот. Постојните тимови на Nvidia за национална безбедност и за усогласеност со трговските правила ќе […]",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/odborot-na-nvidia-formira-nov-postojan-komitet-nacionalna-bezbednost-kontrola-izvoz/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/DH1L4415-HDR-20220527-r5-150x150.webp",
+      "date": "Tue, 17 Nov 2026 13:20:10 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "iPhone Duo добива отклучување со лице преку предната камера, но само кога е затворен",
+      "description": "Apple во втората бета верзија на iOS 27.3, пуштена вчера, додаде нова опција за отклучување на iPhone Duo со лице. Функцијата се вика Unlock with Front Camera и како што кажува името, ја користи обичната предна камера на надворешниот екран. Тоа не е Face ID. Според 9to5Mac, iPhone Duo го нема 3D системот на камери […]",
+      "url": "https://smartportal.mk/novosti/uredi/iphone-duo-otklulcuvanje-so-lice/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/IMG_1729-150x150.webp",
+      "date": "Tue, 17 Nov 2026 12:31:02 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Европскиот Euro-Office доби бесплатна апликација за Windows, macOS и Linux што работи и без интернет",
+      "description": "Nextcloud ја објави првата готова верзија на десктоп апликацијата на Euro-Office, европскиот канцелариски пакет што беше претставен во јуни. Апликацијата се вика Nextcloud Office Desktop, бесплатна е и со отворен код, а работи на Windows, macOS и Linux. Досега Euro-Office беше достапен како дел од производите на партнерските компании, а корисниците на Nextcloud Office, според […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/euro-office-besplatna-lokalna-verzija/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/Nextcloud-Office-desktop-–-document-1-scaled.png-150x150.webp",
+      "date": "Tue, 17 Nov 2026 12:16:50 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Apple воведува дневни ограничувања за Siri AI, а повеќе користење ќе нудат iCloud+ пакетите",
+      "description": "Apple воведува дневни ограничувања за дел од функциите на Siri AI и Apple Intelligence што работат на нејзините сервери. Тие важат од верзијата 27.3 на iOS, iPadOS и macOS, која засега е во бета фаза, а компанијата ги опиша во нова страница за поддршка објавена на 16 ноември. Дека вакви ограничувања ќе има, Apple кажуваше […]",
+      "url": "https://smartportal.mk/novosti/ai/apple-voveduva-dnevni-ogranicuvanja-za-siri-ai/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/siri-ai-apple-150x150.webp",
+      "date": "Tue, 17 Nov 2026 12:03:30 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -48,231 +93,195 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "GrapheneOS остро го критикуваше дизајнот на Linux, иако и самиот систем работи врз Linux кернелот",
-      "description": "Тимот на GrapheneOS, оперативниот систем за Android телефони насочен кон безбедност, во неделата навечер на X остро го критикуваше начинот на кој е направен Linux. „Linux беше создаден како отфрлање на робусната софтверска архитектура и алатки“, напишаа од GrapheneOS. Според нив, станува збор за монолитен кернел без внатрешна изолација, напишан во код што не е […]",
-      "url": "https://smartportal.mk/novosti/operativni-sistemi/grapheneos-ostra-kritika-dizajn-na-linux/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/web-application-development-business-technology-Depositphotos_595813616_XL-150x150.webp",
-      "date": "Mon, 16 Nov 2026 14:02:53 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "OpenAI го претстави ChatGPT Wallet преку кој агентите купуваат без пристап до вистинската картичка",
-      "description": "OpenAI во петокот го претстави ChatGPT Wallet, паричник преку кој агентите на компанијата можат да купуваат на интернет во име на корисникот. Засега работи само преку dots, постојано вклучените агенти што OpenAI ги претстави на крајот на септември. Компанијата тврди дека тоа е првиот паричник што им овозможува на агентите да плаќаат без пристап до […]",
-      "url": "https://smartportal.mk/novosti/ai/openai-chatgpt-wallet/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/06/Depositphotos_692579234_XL-150x150.webp",
-      "date": "Mon, 16 Nov 2026 13:31:15 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Meta откри пропуст кај Apple што дозволувал користење на микрофонот и по одземена дозвола",
-      "description": "Безбедносниот тим Red Team X на Meta на 9 ноември ги објави деталите за пропуст во системите на Apple преку кој апликација на iPhone, iPad или Mac можела да снима од микрофонот и откако корисникот ќе ја одбие или одземе дозволата за користење на микрофонот. Apple го поправи уште во август. Проблемот бил во системскиот […]",
-      "url": "https://smartportal.mk/novosti/veb-i-bezbednost/meta-otkri-propust-kaj-apple-dozvola-koristenje-mikrofon/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/kharkov-ukraine-august-2021-iphone-Depositphotos_502865904_XL-150x150.webp",
-      "date": "Mon, 16 Nov 2026 12:01:13 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Европската сонда ExoMars пронајде знаци дека вулканите на Марс можеби не се целосно изгаснати",
-      "description": "Марс долго се смета за геолошки мртва планета, но нов научен труд сугерира дека таа можеби само „спие“. Истражувачите пронашле хлороводород над свежи пукнатини на вулканот Alba Mons и сметаат дека гасот најверојатно доаѓа од магма под површината. Трудот е објавен во списанието Science Advances на 4 ноември, а тимот го предводи Александар Трохимовски. Податоците […]",
-      "url": "https://smartportal.mk/novosti/nauka-istrazuvanja/exomars-znaci-vulkani-mars-mozebi-ne-se-celosno-izgasnati/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/hcl-context-hrsccolourmos-hrsc-moladtm-v2-2-1793793899-150x150.webp",
-      "date": "Mon, 16 Nov 2026 11:10:41 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Половина од онлајн купувачите во Македонија плаќаат исклучиво во готовина при достава – кај повозрасните овој удел достигнува 82%",
-      "description": "Новата „Анализа на плаќањето при достава и дигиталните плаќања во е-трговијата во Македонија, 2026“, спроведена од Асоцијацијата за е-трговија на Македонија (АЕТСМ) со поддршка на Visa и презентирана на деветтата Регионална конференција за е-трговија во Скопје, открива значителен јаз меѓу пристапот до платежни инструменти и нивната реална употреба. Иако 75% од возрасните граѓани поседуваат дебитна […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/polovina-onlajn-kupuvaci-makedonija-isklucivo-gotovina/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/E-commerce-Conference-1-150x150.webp",
-      "date": "Mon, 16 Nov 2026 10:47:19 +0000"
+      "source": "Time.mk - All",
+      "title": "Шукова од собирот во Охрид: Институционална одговорност и сериозна превенција на насилството врз жените | Независен",
+      "description": "",
+      "url": "https://time.mk/c/8837e6fa26/sukova-od-sobirot-vo-ohrid-institucionalna-odgovornost-i-seriozna-prevencija-na-nasilstvoto-vrz-zenite.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/11/protest-ohrid.jpg",
+      "date": "Tue, 17 Nov 2026 18:35:00 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Николоски предупредува: Пречките за извоз ја загрозуваат исплатливоста на зелените инвестиции | Пари",
+      "title": "Христовски: Разбиена мрежа во Македонија која подготвувала атентат во регионот | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/361c333f28/nikoloski-predupreduva-preckite-za-izvoz-ja-zagrozuvaat-isplatlivosta-na-zelenite-investicii.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/11/nikoloski.jpg",
-      "date": "Tue, 17 Nov 2026 09:52:44 +0000"
+      "url": "https://time.mk/c/cc279a6f36/hristovski-razbiena-mreza-vo-makedonija-koja-podgotvuvala-atentat-vo-regionot.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2026/11/913163477_1099184596446674_3818746304879466364_n-1024x683.jpg",
+      "date": "Tue, 17 Nov 2026 19:22:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Највисокиот политичко-правен акт со кој Македонија како унитарна држава доби институционална форма | Нова Македонија",
+      "title": "35 години Устав, осум пати менуван и повторно пред нова неизвесност | 24 Вести",
       "description": "",
-      "url": "https://time.mk/c/febeb6b396/najvisokiot-politicko-praven-akt-so-koj-makedonija-kako-unitarna-drzava-dobi-institucionalna-forma.html",
-      "image": "https://novamakedonija.com.mk/wp-content/uploads/2023/05/ustav-banskoliev.jpg-12-150x150.jpg",
-      "date": "Tue, 17 Nov 2026 07:48:38 +0000"
+      "url": "https://time.mk/c/54dbf163ec/35-godini-ustav-osum-pati-menuvan-i-povtorno-pred-nova-neizvesnost.html",
+      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1794926205/uxqvwhph1zekgupxr4bh.jpg",
+      "date": "Tue, 17 Nov 2026 15:58:39 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Претставници на „Студентската листа“ влегоа во парламентот со погача и песна – Лидија Вукиќевиќ полеана со јогурт/ВИДЕО | Вечер Прес",
+      "title": "Прочитајте ја изјавата на Џенсен Хуанг во која тој нуди да се врати во „Енвидија“ | Bloomberg Adria",
       "description": "",
-      "url": "https://time.mk/c/a40fdcec1c/pretstavnici-na-studentskata-lista-vlegoa-vo-parlamentot-so-pogaca-i-pesna-lidija-vukikevik-poleana-so-jogurt-video.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/11/predso.png",
-      "date": "Tue, 17 Nov 2026 09:16:37 +0000"
+      "url": "https://time.mk/c/fa03a8ff9a/procitajte-ja-izjavata-na-dzensen-huang-vo-koja-toj-nudi-da-se-vrati-vo-envidija.html",
+      "image": "https://mk.bloombergadria.com/data/images/2026-11-15/120643_dh_f.jpg?timestamp=1794870000",
+      "date": "Tue, 17 Nov 2026 18:27:04 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВИДЕО | Воен авион се урна во нива во Србија, се стравува дека има жртви | Слободен Печат",
+      "title": "Бесплатно кај матичен, до 5.700 денари приватно – колку чини гинеколошки преглед во Македонија? | Трн",
       "description": "",
-      "url": "https://time.mk/c/63a59425b1/video-voen-avion-se-urna-vo-niva-vo-srbija-se-stravuva-deka-ima-zrtvi.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/11/Screenshot-2026-11-17-101528-300x236.png",
-      "date": "Tue, 17 Nov 2026 09:22:48 +0000"
+      "url": "https://time.mk/c/6e19a236a8/besplatno-kaj-maticen-do-5-700-denari-privatno-kolku-cini-ginekoloski-pregled-vo-makedonija.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/03/hpv-virus-hpv-virus.jpg",
+      "date": "Tue, 17 Nov 2026 18:13:00 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Електронска алка на хартија, реалност во системски дефект | Колегиум",
+      "title": "Ризикот од терористички напади во земјава е низок, иако секогаш постои опасност од „волци самотници“ – вели директорот на АНБ | Фокус",
       "description": "",
-      "url": "https://time.mk/c/353b4a9182/elektronska-alka-na-hartija-realnost-vo-sistemski-defekt.html",
-      "image": "https://kolegium.mk/wp-content/uploads/2026/11/Mirrored-portrait-scales-and-Macedonian-headline-300x169.png",
-      "date": "Tue, 17 Nov 2026 10:02:47 +0000"
+      "url": "https://time.mk/c/7d13d4268e/rizikot-od-teroristicki-napadi-vo-zemjava-e-nizok-iako-sekogas-postoi-opasnost-od-volci-samotnici-veli-direktorot-na-anb.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/11/3-7.png",
+      "date": "Tue, 17 Nov 2026 16:14:46 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Видео) Тренчевска: Тошковски одамна требаше да поднесе оставка, позади секоја жртва стојат бројни нерасчистени пријави и непостапувања | Макфакс",
+      "title": "Македонија извезува повеќе зеленчук за помалку пари, што се случува со земјоделството? | Трн",
       "description": "",
-      "url": "https://time.mk/c/15e3ba29f7/video-trencevska-toskovski-odamna-trebase-da-podnese-ostavka-pozadi-sekoja-zrtva-stojat-brojni-nerascisteni-prijavi-i-nepostapuvanja.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/11/jovana-press-sobranie-1.webp",
-      "date": "Tue, 17 Nov 2026 10:02:46 +0000"
+      "url": "https://time.mk/c/020efe2dab/makedonija-izvezuva-poveke-zelencuk-za-pomalku-pari-sto-se-slucuva-so-zemjodelstvoto.html",
+      "image": "https://trn.mk/wp-content/uploads/2023/09/zemjodelie-2.jpg",
+      "date": "Tue, 17 Nov 2026 17:52:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Купиле ИТ систем за 2,7 милиони евра за Агенцијата за вработување, а не платиле за одржување | Независен",
+      "title": "Бугарија и Романија го удвоија капацитетот за гас, Македонија ќе чека до 2027 година | Трн",
       "description": "",
-      "url": "https://time.mk/c/5230189e3f/kupile-it-sistem-za-2-7-milioni-evra-za-agencijata-za-vrabotuvanje-a-ne-platile-za-odrzuvanje.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2025/06/Agencija-za-vrabotuvanje-1-bg.jpg",
-      "date": "Tue, 17 Nov 2026 08:58:44 +0000"
+      "url": "https://time.mk/c/082333b01d/bugarija-i-romanija-go-udvoija-kapacitetot-za-gas-makedonija-ke-ceka-do-2027-godina.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/08/gasovod-e1793035435819.jpg",
+      "date": "Tue, 17 Nov 2026 19:20:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "СДСМ ЈА ПРЕЗЕДЕ ДРЖАВАТА СО 4,7, А ЈА ОСТАВИ СО 8,8 МИЛИЈАРДИ ЕВРА ДОЛГ За две години треба да вратиме 5 милијарди евра | +инфо",
+      "title": "Вучиќ зборуваше еден час и 40 минути, а српскиот парламент не успеа да избере претседател | Трн",
       "description": "",
-      "url": "https://time.mk/c/5640f4c21a/sdsm-ja-prezede-drzavata-so-4-7-a-ja-ostavi-so-8-8-milijardi-evra-dolg-za-dve-godini-treba-da-vratime-5-milijardi-evra.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2026/11/prendzov-1-e1794907198207.jpg",
-      "date": "Tue, 17 Nov 2026 09:44:51 +0000"
+      "url": "https://time.mk/c/b5ca439a44/vucik-zboruvase-eden-cas-i-40-minuti-a-srpskiot-parlament-ne-uspea-da-izbere-pretsedatel.html",
+      "image": "https://trn.mk/wp-content/uploads/2026/11/aleksandar-vucic-novembar-2026-x-1-1536x952-1.jpg",
+      "date": "Tue, 17 Nov 2026 18:27:05 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Српскиот парламент ќе ја одржи конститутивната седница на новиот состав по изборната победа на Студентската листа | 360 степени",
+      "title": "Вучиќ до Студентската листа: Ужасно ми е што победивте, на граѓаните можете да им понудите само јогурт и омраза | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/035ad46621/srpskiot-parlament-ke-ja-odrzi-konstitutivnata-sednica-na-noviot-sostav-po-izbornata-pobeda-na-studentskata-lista.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2025/03/parlament-Srbija.jpg",
-      "date": "Tue, 17 Nov 2026 07:48:37 +0000"
+      "url": "https://time.mk/c/878fceafc3/vucik-do-studentskata-lista-uzasno-mi-e-sto-pobedivte-na-gragjanite-mozete-da-im-ponudite-samo-jogurt-i-omraza.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/aleksandar-vuchich-foto-soopshtenie-mk-vlada-.webp",
+      "date": "Tue, 17 Nov 2026 16:01:03 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Хашим Тачи осуден на 17 месеци затвор за попречување на правдата | Вечер Прес",
+      "title": "Се урна руски воен авион, загинаа 17 лица – Зеленски открива детали за нападот на Кримскиот мост | ТВ21",
       "description": "",
-      "url": "https://time.mk/c/16c98254dd/hasim-taci-osuden-na-17-meseci-zatvor-za-poprecuvanje-na-pravdata.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/02/hasim-taci-793x480.jpg?x28018",
-      "date": "Tue, 17 Nov 2026 10:12:45 +0000"
+      "url": "https://time.mk/c/b567d62ab0/se-urna-ruski-voen-avion-zaginaa-17-lica-zelenski-otkriva-detali-za-napadot-na-krimskiot-most.html",
+      "image": "https://mk.tv21.tv/wp-content/uploads/2026/11/Screenshot_4-4-1024x596.jpg",
+      "date": "Tue, 17 Nov 2026 19:26:53 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Украина го урна Кримскиот мост во „операција во седум фази“ | Независен",
+      "title": "Француските војници во Украина би биле легитимна цел за руската војска, порача Захарова | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/f4869d0d7f/ukraina-go-urna-krimskiot-most-vo-operacija-vo-sedum-fazi.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/11/Krimski-most-urnat-1024x997.jpg",
-      "date": "Tue, 17 Nov 2026 10:02:46 +0000"
+      "url": "https://time.mk/c/86f69e5e69/francuskite-vojnici-vo-ukraina-bi-bile-legitimna-cel-za-ruskata-vojska-poraca-zaharova.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/05/zaharova-300x196.jpg",
+      "date": "Tue, 17 Nov 2026 19:04:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВИДЕО | Два воза се судрија во Прага, најмалку 15 луѓе се тешко повредени | Слободен Печат",
+      "title": "Учениците од ООУ „Тошо Велков Пепето“ во посета на Општина Кавадарци: Најмладите учеа како функционира локалната самоуправа! | ПРВ.мк",
       "description": "",
-      "url": "https://time.mk/c/a1de3d314b/video-dva-voza-se-sudrija-vo-praga-najmalku-15-lugje-se-tesko-povredeni.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/11/Screenshot-2026-11-17-104303-300x179.png",
-      "date": "Tue, 17 Nov 2026 09:44:50 +0000"
+      "url": "https://time.mk/c/8fee934db3/ucenicite-od-oou-toso-velkov-pepeto-vo-poseta-na-opstina-kavadarci-najmladite-ucea-kako-funkcionira-lokalnata-samouprava.html",
+      "image": "",
+      "date": "Mon, 16 Nov 2026 10:40:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Општина Илинден ја проширува мрежата за фекална канализација во населба Илинден | Скопје инфо",
+      "title": "Два нови полначи за електрични возила во Ѓорче Петров: CoMoCo претстави модел за развој на локална е-мобилност | Точка",
       "description": "",
-      "url": "https://time.mk/c/f6e6013fae/opstina-ilinden-ja-prosiruva-mrezata-za-fekalna-kanalizacija-vo-naselba-ilinden.html",
-      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/noemvri/image-264889.jpg?itok=TAPIX6Pu",
-      "date": "Tue, 17 Nov 2026 10:20:48 +0000"
+      "url": "https://time.mk/c/0e4dad38c8/dva-novi-polnaci-za-elektricni-vozila-vo-gjorce-petrov-comoco-pretstavi-model-za-razvoj-na-lokalna-e-mobilnost.html",
+      "image": "https://tocka.com.mk/images/content/golemi/2026-11/p6yt0-20261116-134256.jpg",
+      "date": "Tue, 17 Nov 2026 15:44:58 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ПРОБИШТИП ГИ ОСЛОБОДИ МЛАДИТЕ БРАЧНИ ПАРОВИ ОД КОМУНАЛИИ ЗА ИЗГРАДБА НА КУЌА Мерката стартува од почетокот на следната година | +инфо",
+      "title": "Полицијата приведе вработен во ДЗС поради сомнение дека примил мито | Фактор",
       "description": "",
-      "url": "https://time.mk/c/6eb450b772/probistip-gi-oslobodi-mladite-bracni-parovi-od-komunalii-za-izgradba-na-kuka-merkata-startuva-od-pocetokot-na-slednata-godina.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2026/11/probishtip-komunalii-za-mladi-parovi.1-jpg.jpg",
-      "date": "Tue, 17 Nov 2026 09:34:52 +0000"
+      "url": "https://time.mk/c/20dbded680/policijata-privede-vraboten-vo-dzs-poradi-somnenie-deka-primil-mito.html",
+      "image": "https://faktor.mk/media/main/2025/08/20250805185719.jpg",
+      "date": "Tue, 17 Nov 2026 16:36:59 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Ја давел и со тупаници и шлаканици ја удирал по главата и телото“: предложен притвор за семејно насилство во Битола | Макфакс",
+      "title": "ВИДЕО | Александар Јанев најави санкции за полицајци што незаконски постапуваат по пријави за семејно насилство | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/6c45b6bbc5/ja-davel-i-so-tupanici-i-slakanici-ja-udiral-po-glavata-i-teloto-predlozen-pritvor-za-semejno-nasilstvo-vo-bitola.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/07/nasilstvo-depositphotos_239976346_xl.webp",
-      "date": "Tue, 17 Nov 2026 08:54:47 +0000"
+      "url": "https://time.mk/c/d4e656671a/video-aleksandar-janev-najavi-sankcii-za-policajci-sto-nezakonski-postapuvaat-po-prijavi-za-semejno-nasilstvo.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/11/M79_5116-300x200.jpg",
+      "date": "Tue, 17 Nov 2026 13:24:43 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Кристијан Корубовски експресно обвинет за три кривични дела | еМагазин",
+      "title": "БЕЗ ВОДА ЗА ПИЕЊЕ ДВА ДЕНА Е ПОЛА ШТИП | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/edce97492d/kristijan-korubovski-ekspresno-obvinet-za-tri-krivicni-dela.html",
-      "image": "https://emagazin.mk/wp-content/uploads/2025/05/20-300x225.jpg",
-      "date": "Tue, 17 Nov 2026 06:54:47 +0000"
+      "url": "https://time.mk/c/6642f81b2e/bez-voda-za-pienje-dva-dena-e-pola-stip.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/11/RIDARSKA-CHESHMA.jpg",
+      "date": "Tue, 17 Nov 2026 18:44:53 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Затворен за сообраќај патниот правец Охрид – Ресен преку националниот парк Галичица | Бизнис Вести",
+      "title": "Благица Владимировска ги поместува границите на македонското високогорство, се искачи на Химлунг, следува Манаслу (8.163 м) | Умно",
       "description": "",
-      "url": "https://time.mk/c/42b824b42f/zatvoren-za-soobrakaj-patniot-pravec-ohrid-resen-preku-nacionalniot-park-galicica.html",
-      "image": "https://biznisvesti.mk/wp-content/uploads/2025/10/pat3-300x201.jpg",
-      "date": "Tue, 17 Nov 2026 10:24:42 +0000"
+      "url": "https://time.mk/c/436c82b9f4/blagica-vladimirovska-gi-pomestuva-granicite-na-makedonskoto-visokogorstvo-se-iskaci-na-himlung-sleduva-manaslu-8-163-m.html",
+      "image": "https://umno.mk/wp-content/uploads/2026/11/blagggg.jpeg",
+      "date": "Tue, 17 Nov 2026 12:18:57 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Општина Битола: Граѓаните повторно ќе имаат збор во креирањето на буџетот за 2027 година | Булевар",
+      "title": "Монументалното дело „Тешкото“ на Никола Мартиноски е реставрирано од студенти на Факултетот за ликовни уметности | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/9b423c1dfc/opstina-bitola-gragjanite-povtorno-ke-imaat-zbor-vo-kreiranjeto-na-budzetot-za-2027-godina.html",
-      "image": "https://bulevar.mk/wp-content/uploads/2026/11/img_3407-1024x536.jpeg",
-      "date": "Tue, 17 Nov 2026 09:26:47 +0000"
+      "url": "https://time.mk/c/8149ac5a06/monumentalnoto-delo-teskoto-na-nikola-martinoski-e-restavrirano-od-studenti-na-fakultetot-za-likovni-umetnosti.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/11/906173395_1725944922650591_7733652207176998261_n-300x163.jpg",
+      "date": "Tue, 17 Nov 2026 16:12:58 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ФЕСТИВАЛОТ ЕГЗИТ СЕ ВРАЌА ВО 2027 ПО ЕДНА ГОДИНА ПАУЗА | Сакам да кажам",
+      "title": "РОДИТЕЛИТЕ И ПУБЛИКАТА МИ ДАДОА ВЕРБА ВО СЕБЕ И ВО МОЈАТА УМЕТНОСТ, РЕЧЕ ДИТА СТАРОВА-ЌЕРИМИ ЗА ИЗЛОЖБАТА ВО ЧИФТЕ АМАМ | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/44d56d5c5b/festivalot-egzit-se-vraka-vo-2027-po-edna-godina-pauza.html",
-      "image": "https://smart.sdk.mk/wp-content/uploads/2026/11/1752151362_shutterstock_356050244-900x575.jpg",
-      "date": "Tue, 17 Nov 2026 09:48:46 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Татко на македонистиката и идеолог на модерната македонска национална мисла | Нова Македонија",
-      "description": "",
-      "url": "https://time.mk/c/358a892563/tatko-na-makedonistikata-i-ideolog-na-modernata-makedonska-nacionalna-misla.html",
-      "image": "https://novamakedonija.com.mk/wp-content/uploads/2026/11/krste-petkov-misirkov-dejan-joveski1-150x150.jpg",
-      "date": "Tue, 17 Nov 2026 09:24:40 +0000"
+      "url": "https://time.mk/c/76c0773c90/roditelite-i-publikata-mi-dadoa-verba-vo-sebe-i-vo-mojata-umetnost-rece-dita-starova-kerimi-za-izlozbata-vo-cifte-amam.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/11/dita-starova-izlozba-2026.jpg",
+      "date": "Tue, 17 Nov 2026 12:52:59 +0000"
     }
   ],
   "de": [
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Spionagechips und Chipfehler: Sicherheitshardware im Visier",
+      "description": "Manipulierte Ledger-Wallets, Trezor-Verdacht und Chipfehler bei YubiKey und COLDCARD. Wie laufen die Angriffe auf die Sicherheitshardware? Der Artikel Spionagechips und Chipfehler: Sicherheitshardware im Visier erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/it-sicherheit/spionagechips-chipfehler-sicherheitshardware-wallets-335986.html",
+      "image": "https://cdn.tarnkappe.info/wp-content/uploads/Spionagechips-Artikelbild.png",
+      "date": "Tue, 17 Nov 2026 12:40:44 +0000"
+    },
     {
       "category": "de",
       "source": "Tarnkappe",
@@ -443,18 +452,90 @@
       "url": "https://tarnkappe.info/artikel/streaming/hianime-millionen-raubkopien-sieben-beteiligte-angeklagt-334763.html",
       "image": "https://cdn.tarnkappe.info/wpimg/hianime-millionen-raubkopien-sieben-beteiligte-angeklagt",
       "date": "Sun, 01 Nov 2026 14:31:59 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Der mpv Media Player schlägt die Konkurrenz um Längen: Skripte, Streaming, Untertitel editieren und so viel mehr!",
-      "description": "Der mpv schlägt den VLC um Längen, ist aber beinahe unbekannt. Er liefert das bessere Bild und ist auch beim Streaming ganz weit vorne. Der Artikel Der mpv Media Player schlägt die Konkurrenz um Längen: Skripte, Streaming, Untertitel editieren und so viel mehr! erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/softwareentwicklung/der-mpv-media-player-schlaegt-die-konkurrenz-um-laengen-skripte-streaming-untertitel-editieren-und-so-viel-mehr-334719.html",
-      "image": "https://cdn.tarnkappe.info/wp-content/uploads/mpv.net-media-player-1.jpg",
-      "date": "Sun, 01 Nov 2026 06:58:08 +0000"
     }
   ],
   "eng": [
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "You Can Get This Micro-E-Reader for Under $60 Before Black Friday",
+      "description": "The pocketable Xteink X4 Classic is 34% off in this limited-time deal.",
+      "url": "https://lifehacker.com/tech/xteink-x4-classic-x3-e-reader-deal-early-black-friday-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M7N98JFG4H9XE03TDQM5RB2W/hero-image.png",
+      "date": "Tue, 17 Nov 2026 18:35:46 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "The Garmin Instinct 3 Is 44% Off During Amazon’s Early Black Friday Sale",
+      "description": "This rugged GPS smartwatch has a built-in flashlight, multi-band GPS, and 18-day battery life.",
+      "url": "https://lifehacker.com/tech/garmin-instinct-3-deal-early-black-friday-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M7NAJV6WH99SXSWRRY1KXJ1M/hero-image.jpg",
+      "date": "Tue, 17 Nov 2026 18:21:55 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Now These Apple Services Are Down",
+      "description": "Apple confirmed outages with the App Store, Apple Music, and AppleCare.",
+      "url": "https://lifehacker.com/tech/apple-services-are-currently-down?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M7NAXTV42EQWG79CE926JDXZ/hero-image.jpg",
+      "date": "Tue, 17 Nov 2026 18:10:06 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "Nintendo's Black Friday Deals Are Actually Pretty Good",
+      "description": "Nintendo is offering rare discounts on games like \"Donkey Kong Bananza.\"",
+      "url": "https://lifehacker.com/tech/best-nintendo-deals-black-friday-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M786PVNYJHKCWJQ126AWWZYJ/hero-image.png",
+      "date": "Tue, 17 Nov 2026 17:00:47 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "10 Shows Like 'MobLand' You Should Watch Next",
+      "description": "More shows about crime and complicated Family life to stream now.",
+      "url": "https://lifehacker.com/entertainment/best-shows-like-mobland?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M7JJZYBGQ8K11NB73H650SDY/hero-image.jpg",
+      "date": "Tue, 17 Nov 2026 15:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "These MacBooks, AirPods, iPads, and More Are up to $250 Off Ahead of Black Friday",
+      "description": "Discounts range from the AirPods Pro 3 at $179 and the 15-inch M5 MacBook Air at $1,249.99 to the M6 Mac mini at $949.99.",
+      "url": "https://lifehacker.com/tech/apple-macbooks-airpods-sales-early-black-friday-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M74ZSV7XEY5WCK9YJWN46477/hero-image.jpg",
+      "date": "Tue, 17 Nov 2026 14:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "The Best Early Black Friday Deals on DeWalt, Milwaukee, and Ryobi Cordless Power Tools",
+      "description": "Get your favorite DIY weekend warrior some new gear or treat yourself to an upgrade.",
+      "url": "https://lifehacker.com/home/best-tool-deals-early-black-friday-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M6N5G8GHA42RNFNNMPTRHMAX/hero-image.png",
+      "date": "Tue, 17 Nov 2026 14:15:48 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "The Best Early Tech Deals From Amazon’s 2026 Black Friday and Cyber Monday Sale",
+      "description": "These are my favorite tech deals from Amazon's early Black Friday sale.",
+      "url": "https://lifehacker.com/tech/best-amazon-tech-deals-early-black-friday-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M7K7D4ERVWD2SSDT2FDF9B6V/hero-image.png",
+      "date": "Tue, 17 Nov 2026 14:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "You Can Save More Than $1,300 on a Smart TV With These Early Black Friday Deals",
+      "description": "Most of the discounted TVs are 2026 models, with OLED panels from LG, Samsung, and Sony and brighter mini-LED options from Hisense, TCL, and Toshiba starting at $449.99.",
+      "url": "https://lifehacker.com/tech/smart-tv-sales-early-black-friday-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M7MFHMMZWF64PKVWQ9ECVJW2/hero-image.jpg",
+      "date": "Tue, 17 Nov 2026 13:30:00 +0000"
+    },
     {
       "category": "eng",
       "source": "Lifehacker",
@@ -556,177 +637,123 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "Four Things You Can Do With Google Maps' New 'Ask Maps' Feature",
-      "description": "Create itineraries, find available appointments, and search your lists without leaving the app.",
-      "url": "https://lifehacker.com/tech/google-maps-new-ask-maps-features?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M7JHFF32CAER13X57PF2DCJA/hero-image.png",
-      "date": "Mon, 16 Nov 2026 16:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "Google Killed Its Dark Web Report, but You Can Still Monitor Data Breaches",
-      "description": "Google's free breach scanner went dark in February, but free and paid tools can still warn you about dark web leaks.",
-      "url": "https://lifehacker.com/tech/google-killed-its-dark-web-report-but-you-can-still-monitor-data-breaches?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M7HMVEVTKDAJGBCD0FJCSXWP/hero-image.jpg",
-      "date": "Mon, 16 Nov 2026 14:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "MacBooks, AirPods, iPads (and More) Are up to $250 Off in This Early Black Friday Sale",
-      "description": "Discounts range from the AirPods Pro 3 at $179.99 and the 15-inch M5 MacBook Air at $1,299.99 to the M6 Mac mini at $949.99.",
-      "url": "https://lifehacker.com/tech/apple-macbooks-airpods-sales-early-black-friday-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M74ZSV7XEY5WCK9YJWN46477/hero-image.jpg",
-      "date": "Mon, 16 Nov 2026 14:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "These Amazon Fire TV Soundbars Are up to 44% Off Ahead of Black Friday",
-      "description": "The entire Fire TV Soundbar lineup is discounted, with prices starting at $74.99 for the entry-level bar.",
-      "url": "https://lifehacker.com/tech/fire-tv-soundbars-sale-early-black-friday-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M3P28VJ3BJQRCAGHAXMJT48P/hero-image.jpg",
-      "date": "Mon, 16 Nov 2026 13:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "How to Check Your Flight Status After the FAA Canceled the Ground Stop for All Airports",
-      "description": "The FAA earlier grounded all flights across the U.S.",
-      "url": "https://lifehacker.com/tech/how-to-check-your-flight-status-faa-ground-stop?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M7BE8Q8NVPPMAYDSMTTXET1T/hero-image.jpg",
-      "date": "Sat, 14 Nov 2026 01:41:52 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "I Analyzed the Seven Biggest AI Chatbots to Determine How Safe They Are for Kids",
-      "description": "Wondering what your kids could be getting up to inside AI bots?",
-      "url": "https://lifehacker.com/tech/how-safe-are-chatbots-for-kids?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M789AE632JYZ1S0S9AC9H208/hero-image.jpg",
-      "date": "Fri, 13 Nov 2026 23:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "10 Hacks Every watchOS 27 User Should Know",
-      "description": "From hidden gestures to smarter health tracking, these watchOS 27 hacks make your Apple Watch more useful.",
-      "url": "https://lifehacker.com/tech/hacks-every-watchos-27-user-should-know?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M77FMZF1A7M56YC1PSXGHTYP/hero-image.jpg",
-      "date": "Fri, 13 Nov 2026 21:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "Five Hacks Every Apple Watch Series 12 User Should Know",
-      "description": "There's a way to make those Siri Recaps actually useful.",
-      "url": "https://lifehacker.com/tech/best-apple-watch-series-12-hacks?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M7B6QB47SY6BYCRKXEJNKVC1/hero-image.jpg",
-      "date": "Fri, 13 Nov 2026 21:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "If Your Google Pixel's Camera Is Suddenly Broken, Here's the Fix",
-      "description": "Google's November update appears to break some Pixel cameras.",
-      "url": "https://lifehacker.com/tech/if-your-google-pixels-camera-is-suddenly-broken-theres-a-fix?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M7B60DR2JF1QCHBKH9Z7YE0M/hero-image.jpg",
-      "date": "Fri, 13 Nov 2026 19:30:00 +0000"
+      "source": "PCWorld",
+      "title": "Best VPNs for torrenting: 5 top picks for speed, privacy, and security",
+      "description": "Torrenting remains one of the fastest and most efficient ways to share and download large files, but it also comes with some unique privacy and security concerns. Your internet service provider can see when you’re using P2P networks, malicious files can sometimes find their way into downloads, and your online activity may be exposed to third parties if you’re not properly protected. That’s why a VPN is one of the most important tools for anyone who torrents regularly. A good VPN encrypts your co",
+      "url": "https://www.pcworld.com/article/624123/best-vpn-for-torrenting.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/406870-0-33610300-1794498494-nordvpn-inspiron-5441.jpg?quality=50&strip=all",
+      "date": "Tue, 17 Nov 2026 17:00:00 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "EMEET Webcam Guide (2026, 2027): EMEET PIXY, C960 Ultra, S600L & Prime for Work and Streaming",
-      "description": "The world’s first dual-camera AI-powered PTZ 4K webcam Award-winning webcam for creators View PIXY Investing in a quality webcam will greatly improve your professional presence, with sharper and higher-definition video and reliable low-light handling projecting competence and credibility during client calls and content creation and aiding clearer communication through non-verbal cues and facial expressions building trust. A fixed laptop webcam works fine until you stand up to demonstrate somethi",
-      "url": "https://www.pcworld.com/article/3278833/emeet-webcam-guide-2026-2027-emeet-pixy-c960-ultra-s600l-prime-for-work-and-streaming.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3278833-0-73637300-1794908532-EMEET-hero.jpg?quality=50&strip=all",
-      "date": "Tue, 17 Nov 2026 09:42:05 +0000"
+      "title": "What X-VPN’s Open-Source Protocol and Independent Assessment Mean for You",
+      "description": "Test X-VPN's new speed boost for yourself for free Combined download and upload improvements of 200% Learn more A VPN sends your traffic through the provider’s software and servers, and you can’t see what that software does. That makes transparency a practical question for anyone choosing one. X-VPN has made its new Talaria protocol open source and had it independently assessed. What does that mean for you and why do those checks matter when you compare any VPN? Why does transparency matter in a",
+      "url": "https://www.pcworld.com/article/3286453/what-x-vpns-open-source-protocol-and-independent-assessment-mean-for-you.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3286453-0-61380100-1794933527-X-VPN-Mac-Second-X-VPN-Taleria-hero-image_2.jpg?quality=50&strip=all",
+      "date": "Tue, 17 Nov 2026 16:38:40 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "This Microsoft Office and Windows 11 Pro lifetime license bundle just dropped to $22",
-      "description": "TL;DR: Get Office 2019 Professional Plus and Windows 11 Pro for life for $21.97 (reg. $428). Microsoft 365 costs $99.99 per year at the cheapest. Windows 11 Pro is usually $199. If you want to get both for a fraction of that, this All-in-One Microsoft Bundle gives you lifetime licenses for Microsoft Office and Windows 11 Pro together for $21.97 (reg. $428). Office Professional Plus 2019 includes Word, Excel, PowerPoint, Outlook, OneNote, and Access. All six apps install directly on your PC and w",
-      "url": "https://www.pcworld.com/article/3285314/this-microsoft-office-and-windows-11-pro-lifetime-license-bundle-just-dropped-to-22.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3285314-0-60649600-1794902419-mso-pro-plus-2019-x-win.jpg?quality=50&strip=all",
-      "date": "Tue, 17 Nov 2026 08:00:00 +0000"
+      "title": "Baseus’ 14-in-1 Thunderbolt 4 dock is $80 off, near its lowest price",
+      "description": "NOW $80 OFF Baseus Spacemate RD1 Plus Docking Station View Deal Your laptop is powerful and light and gorgeous, but it probably has fewer ports than you’d like. There’s no better way to streamline your home office than with a docking station that turns a single laptop USB-C port into 14 glorious connections for utmost versatility. Right now, the Baseus Spacemate RD1 Plus is $179.99 at Amazon , down from its original $259.99. That’s not far from its historical lowest of $169.99, and it’s still a ",
+      "url": "https://www.pcworld.com/article/3288281/baseus-14-in-1-thunderbolt-4-dock-is-80-off-near-its-lowest-price.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3288281-0-40203500-1794933441-Baseus-Spacemate-RD1-Plus-Laptop-Docking-Station.jpg?quality=50&strip=all",
+      "date": "Tue, 17 Nov 2026 16:37:10 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Best early Black Friday VPN deals: What to expect and early sales",
-      "description": "This year Black Friday is on November 27, but VPN deals are already well under way — and these discounts from VPN providers look to be among the best ever. What’s more, you can make your purchase now and rest assured you’re getting the best price. Most VPN services start their discounts early and run the same deals through the entirety of the holiday season. We’re already seeing some great discounts on our Editors’ Choice picks, including NordVPN, Proton VPN, Surfshark, and more. We’ll continue ",
-      "url": "https://www.pcworld.com/article/2519967/best-early-black-friday-vpn-deals-2026.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/2519967-0-15274500-1794873148-vpn-hub.jpg?quality=50&strip=all",
-      "date": "Mon, 16 Nov 2026 23:52:20 +0000"
+      "title": "Framework’s all-in-one keyboard wants to be the go-to pick for makers",
+      "description": "Framework is one of my favorite PC makers thanks to its repair-friendly ethos and surprisingly open communication with customers. And I am, for my sins, PCWorld’s resident keyboard nut. So the moment I heard Framework was making a keyboard, my ears perked up like a dog that’s heard the can opener. Only to have them droop back down again. The Framework Keyboard is not mechanical, as I first assumed. But that doesn’t mean it’s bad , it’s just aiming for a different market. Specifically, the kind o",
+      "url": "https://www.pcworld.com/article/3287093/frameworks-all-in-one-keyboard-wants-to-be-the-go-to-pick-for-makers.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3287093-0-27387400-1794931227-framework-keyboard-hero.jpg?quality=50&strip=all",
+      "date": "Tue, 17 Nov 2026 16:00:00 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Best early Black Friday tech deals on Amazon 2026",
-      "description": "Unsurprisingly, Amazon is wasting no time in kicking off the holiday shopping season. Already, you can find popular tech on sale ahead of the official Black Friday, which is November 27 this year. Of course, there’s always the ever-present issue of sifting through the clutter to find the deals that are truly worthwhile. This is where PCWorld’s tech experts come in. Our guide to the best Amazon Black Friday tech deals will point you to the best bargains in all the most popular tech categories. De",
-      "url": "https://www.pcworld.com/article/1384292/best-black-friday-amazon-tech-deals.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/1384292-0-65571200-1794862554-Amazon-logo-orange-smile-on-black-background.jpg?quality=50&strip=all",
-      "date": "Mon, 16 Nov 2026 20:55:45 +0000"
+      "title": "Our favorite VPN for travelers just dropped to $1.99/mo for Black Friday",
+      "description": "NOW 85% OFF CyberGhost VPN (2-Year Plan) Bypasses region blocks and works on up to 7 devices at once View Deal Ever wanted to watch a movie that’s “on Netflix” only to realize it’s limited to certain regions, like the UK? Or maybe you’re abroad and want to watch your Netflix US shows, except you can’t because you’re region-blocked. A VPN can bypass such restrictions by routing your internet traffic through a server in a specific country—but not all VPNs work with Netflix. CyberGhost does work wi",
+      "url": "https://www.pcworld.com/article/3288200/our-favorite-vpn-for-travelers-just-dropped-to-1-99-mo-for-black-friday.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3288200-0-69208400-1794930836-cg-logo-idg-banner-1600x900-1.png",
+      "date": "Tue, 17 Nov 2026 15:53:46 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Best Black Friday Chromebook deals: What to expect and early sales",
-      "description": "Black Friday deals on Chromebooks typically begin now — in advance of Black Friday, and especially around the week before Thanksgiving. I’ve collected the best deals on Chromebooks for years, and I’m here once again to dig out the best Chromebook deals in advance of Black Friday. I’m going to warn you, though — this job is harder than ever. You’re probably aware of how laptop prices have skyrocketed because of the shortages of memory and storage, and unfortunately those trends are affecting Chro",
-      "url": "https://www.pcworld.com/article/1377179/best-early-black-friday-chromebook-deals-2026.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/1377179-0-33698500-1794861705-Chromebook-deals-pcworld.png",
-      "date": "Mon, 16 Nov 2026 20:41:32 +0000"
+      "title": "Microsoft’s Outlook outage is over. The scams aren’t",
+      "description": "Following the major Microsoft 365 outage on November 12, cybercriminals have started sending fake service notifications that appear to come from Microsoft, according to Microsoft Threat Intelligence on LinkedIn . The fraudsters are using a genuine incident number, EX1550543, which is linked to the issues with Exchange Online. The aim is to make the fake messages appear credible. The emails claim that certain messages have become stuck during the service disruption and that they will be deleted w",
+      "url": "https://www.pcworld.com/article/3288213/microsofts-outlook-outage-is-over-the-scams-arent.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3288213-0-39540000-1794929638-4_3b5394.png",
+      "date": "Tue, 17 Nov 2026 15:32:38 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Best Black Friday Thunderbolt dock deals: What to expect and early sales",
-      "description": "Early Black Friday deals on Thunderbolt docs and USB-C laptop docking stations are growing quickly, with retailers jumping on “Black Month” interest to reward shoppers with some early sales. I’ve been writing about, reviewing, and publishing deals on Thunderbolt docks for years. I love them! They’re fantastic additions to your desktop. I will say that dock deals can be harder to find now, as inflation has pushed some prices higher. Still, there are still solid discounts to be had — and, interest",
-      "url": "https://www.pcworld.com/article/2133475/best-early-black-friday-thunderbolt-dock-deals-2026.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/2133475-0-98890300-1794860471-Belkin-Thunderbolt-4-Hub-Connect.jpg?quality=50&strip=all",
-      "date": "Mon, 16 Nov 2026 20:20:55 +0000"
+      "title": "Is Chrome being sluggish? Tweak this setting for a quick fix",
+      "description": "Google’s web browser is very popular with users. However, the product obviously becomes sluggish when many tabs or windows are open. When this happens, Chrome then consumes a lot of RAM. Here’s how you can remedy this: Open the Settings menu in the top right-hand corner. Switch to the Performance section and scroll to the Memor y area. Activate the Memory Saver mode option there and then select the Maximum option. This should improve the experience when surfing the web. According to Google when ",
+      "url": "https://www.pcworld.com/article/2967851/is-chrome-being-sluggish-make-sure-to-tweak-this-key-setting.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/2967851-0-16643200-1794929428-avm5.jpg?quality=50&strip=all",
+      "date": "Tue, 17 Nov 2026 15:30:00 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Sony’s WH-CH730N noise-cancelling headphones hit a new low: $98",
-      "description": "NEW LOWEST PRICE Sony WH-CH730N Noise Cancelling Headphones View Deal There’s no better way to block out the world around you than with a great pair of headphones. Sony’s budget-friendly WH-CH730N noise-cancelling headphones are now on sale for $98 at Amazon, a hefty 46% off their original $180 MSRP and a brand-new all-time lowest price. These are over-ear headphones and they’re designed for long-term comfort, even over long hours at your PC. They’re lightweight at 0.46 pounds, so they won’t wei",
-      "url": "https://www.pcworld.com/article/3287051/sonys-wh-ch730n-noise-cancelling-headphones-hit-a-new-low-98.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3287051-0-74256800-1794860019-Sony-WH-CH730N.jpg?quality=50&strip=all",
-      "date": "Mon, 16 Nov 2026 20:11:24 +0000"
+      "title": "Best Black Friday mini PC deals: What to expect and early sales",
+      "description": "We blinked and early Black Friday deals have already kicked off. This year Black Friday lands on November 27. We’re still a few weeks away from the official date, but most stores are running some awesome deals worth considering. To take advantage of this and find some impressive mini PC discounts we’ve scoured the net for the very best deals. We love a good mini PC because they take up so little space (sometimes you can even mount it to the back of a monitor), they’re powerful, and they’re quite",
+      "url": "https://www.pcworld.com/article/2971789/best-early-black-friday-mini-pc-deals-2026.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/2971789-0-95552800-1794929209-Beelink-EQR6-mini-PC-promo-on-background.jpg?quality=50&strip=all",
+      "date": "Tue, 17 Nov 2026 15:26:40 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "How a hidden bug broke Microsoft Outlook for 24 hours",
-      "description": "The disruptions to Microsoft’s services began on Thursday, November 12th and continued into Friday. The issues affected several of Microsoft’s most widely used cloud services, including Exchange Online, Outlook, Teams, SharePoint, and Microsoft 365 Copilot. For many users, the outage meant they were unable to read or send emails, or use certain features in Teams. Organizations that rely on Microsoft 365 for their day-to-day operations were also affected. According to the AP news agency , disrupt",
-      "url": "https://www.pcworld.com/article/3286960/microsoft-why-outlook-teams-and-other-services-went-down.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3286960-0-04564900-1794860848-4_dcbd3d.png",
-      "date": "Mon, 16 Nov 2026 17:46:51 +0000"
+      "title": "Amazon raised Fire TV prices in August. Now they’re cheaper than ever",
+      "description": "Amazon hiked prices on its Fire TV products back in August. Now, in time for Black Friday, those products are on sale—and not just discounted but slashed down to prices even lower than their pre-price-hike sales. The Fire TV Stick HD, Fire TV Stick 4K Select, Fire TV Stick 4K, Fire TV Stick 4K Plus, and Fire TV Cube are all at their lowest ever prices right now. The only model that isn’t on sale is the Fire TV Stick 4K Max. All of these devices are able to stream content from platforms like Netf",
+      "url": "https://www.pcworld.com/article/3015877/amazon-raised-fire-tv-prices-in-august-now-theyre-cheaper-than-ever.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3015877-0-28293200-1794926324-Amazons-Fire-TV-Stick-4K.png",
+      "date": "Tue, 17 Nov 2026 14:38:35 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Windows 11: This new tool makes ancient CPUs compatible",
-      "description": "Windows 11 has strict hardware requirements that home users generally cannot easily bypass. However, a new tool claims to make even long-obsolete CPUs compatible with the latest version of the operating system. Developer Bob Pony introduced the tool on X , explaining that WinPOPBit can make numerous AMD CPUs and some Intel processors – some over 20 years old – ready for Windows 11. Also coming soon to WinPOPBit… Patching x64 versions of Windows 10 and Windows 11 23H2 to run on Prescott Pentium 4",
-      "url": "https://www.pcworld.com/article/3286957/windows-11-this-new-tool-makes-ancient-cpus-compatible.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3286957-0-16128000-1794848580-Windows-11-logo-skewed-captured-from-laptop-screen.jpg?quality=50&strip=all",
-      "date": "Mon, 16 Nov 2026 17:02:50 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Best external drives 2026: Fast SSDs and roomy hard drives",
-      "description": "External USB/Thunderbolt SSDs and/or hard drives (aka direct-attached storage, or DAS) are a super-convenient way to add storage capacity to your system as well as back it up. External drives are also extremely handy for transporting data between locations and devices in what used to be known as sneaker-net. Your particular needs will determine whether your choice for external storage should prioritize speed, in which case you’ll want an SSD with a fast interface (USB4 or Thunderbolt); capacity,",
-      "url": "https://www.pcworld.com/article/406861/best-external-drives.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/406861-0-34269400-1794848456-markus-spiske-hL8slYnc-bM-unsplash.jpg?quality=50&strip=all",
-      "date": "Mon, 16 Nov 2026 17:00:00 +0000"
+      "title": "That link you’re sharing reveals more than you think",
+      "description": "Ever been sent a link that looks like this? https://www.amazon.com/dp/B09LCJPZ1P?lv=shuf&social_share=cm_sw_r_cp_ud_dp_4A5106W9GQYP92TFKG7V&channelId=751&plpRedirect=mhFallback Or perhaps you’ve received an even crazier-looking one? There’s a simple, cleaner version of that link hiding within there. You just need to know what to look for—or have the right browser to help you get there. Why bother? For starters, your recipient will have an easier time understanding what the link is (and if they w",
+      "url": "https://www.pcworld.com/article/3273751/sharing-a-link-do-it-the-right-way.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3273751-0-05509100-1794924058-zulfugar-karimov-NmETpcpGY6s-unsplash.jpg?quality=50&strip=all",
+      "date": "Tue, 17 Nov 2026 14:00:00 +0000"
     }
   ],
   "starwars": [
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "Author Claudia Gray Teases ‘Princess of the Rebellion’ Novel Story Details",
+      "description": "Claudia Gray, author of upcoming Princess Leia novel Princess of the Rebellion, has provided some tantalizing teases about the novel’s The post Author Claudia Gray Teases ‘Princess of the Rebellion’ Novel Story Details appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/11/author-claudia-gray-teases-princess-of-the-rebellion-novel-story-details.html",
+      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/10/Screenshot-2026-10-11-153728-e1791751078137.png",
+      "date": "Tue, 17 Nov 2026 19:00:21 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "‘Star Wars’ Receives Four Nominations at The Game Awards",
+      "description": "The 2026 Game Awards nominations have officially been revealed, with Star Wars receiving four nominations. The games nominated are Star Wars: Galactic The post ‘Star Wars’ Receives Four Nominations at The Game Awards appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/11/star-wars-receives-four-nominations-at-the-game-awards.html",
+      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/08/Star-Wars-Galactic-Racer-Banner-Gold.png-e1787258668188.webp",
+      "date": "Tue, 17 Nov 2026 17:54:11 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "Review: ‘So You Think You Know Star Wars’ Is the Surprise Holiday Stocking Stuffer of the Year",
+      "description": "Which TV series does the following episode title belong to? The Haunted Village. a) Ewoks (Season 1) b) Andor (Season The post Review: ‘So You Think You Know Star Wars’ Is the Surprise Holiday Stocking Stuffer of the Year appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/11/review-so-you-think-you-know-star-wars-is-the-surprise-holiday-stocking-stuffer-of-the-year.html",
+      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/11/Screenshot-2026-11-17-100314.png",
+      "date": "Tue, 17 Nov 2026 16:45:54 +0000"
+    },
     {
       "category": "starwars",
       "source": "Star Wars News Net",
@@ -734,7 +761,7 @@
       "description": "Ahead of its opening next year, an early sneak-peek at Star Wars: The Experience revealed a first look at some of The post Early Previews For ‘Star Wars: The Experience’ Reveal Props And Costumes Exhibit appeared first on Star Wars News Net .",
       "url": "https://www.starwarsnewsnet.com/2026/11/early-previews-for-star-wars-the-experience-reveal-props-and-costumes-exhibit.html",
       "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/11/Star_Wars_The_Experience.jpg",
-      "date": "Mon, 16 Nov 2026 22:42:54 +0000"
+      "date": "Tue, 17 Nov 2026 16:40:54 +0000"
     },
     {
       "category": "starwars",
@@ -743,7 +770,7 @@
       "description": "Two of this year’s major Star Wars projects have received critical praise and awards attention at next year’s Grammys – The post Grammys 2027: ‘The Mandalorian and Grogu’ and ‘Zero Company’ Earn Nominations appeared first on Star Wars News Net .",
       "url": "https://www.starwarsnewsnet.com/2026/11/grammys-zero-company-the-mandalorian-and-grogu.html",
       "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/04/The-Mandalorian-and-Grogu-Poster-Banner-e1776671838138.jpeg",
-      "date": "Mon, 16 Nov 2026 16:00:09 +0000"
+      "date": "Tue, 17 Nov 2026 16:30:09 +0000"
     },
     {
       "category": "starwars",
@@ -752,7 +779,16 @@
       "description": "Happy Sunday, and welcome to a new edition of “This Week, In a Galaxy Far, Far Away“. After several weeks The post This Week, In a Galaxy Far, Far Away: ‘Star Wars’ Announces 50th Anniversary Lineup, Potential Gaming Announcements Coming, and More appeared first on Star Wars News Net .",
       "url": "https://www.starwarsnewsnet.com/2026/11/this-week-in-a-galaxy-far-far-away-star-wars-announces-50th-anniversary-lineup-potential-gaming-announcements-coming-and-more.html",
       "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/08/star-wars-50th-anniversary-theatrical-release-feature_858ec8d6.jpeg",
-      "date": "Mon, 16 Nov 2026 00:00:36 +0000"
+      "date": "Tue, 17 Nov 2026 16:00:36 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Star Wars News Net",
+      "title": "What SWTOR’s Limited-Time Subscriber Rewards Reveal About Player Incentives",
+      "description": "Star Wars: The Old Republic has worked out that a mount tied to a deadline is one of the most The post What SWTOR’s Limited-Time Subscriber Rewards Reveal About Player Incentives appeared first on Star Wars News Net .",
+      "url": "https://www.starwarsnewsnet.com/2026/11/what-swtors-limited-time-subscriber-rewards-reveal-about-player-incentives.html",
+      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2021/07/Star-Wars-The-Old-Republic-Sith-Lords.jpg",
+      "date": "Tue, 17 Nov 2026 15:50:05 +0000"
     },
     {
       "category": "starwars",
@@ -774,39 +810,21 @@
     },
     {
       "category": "starwars",
-      "source": "Star Wars News Net",
-      "title": "Microsoft Adds 11 Retro ‘Star Wars’ Games to PC for Xbox Backwards Compatibility Project",
-      "description": "As part of Microsoft pushing for their Xbox Backwards Compatability project, which brings existing first-generation Xbox titles to modern PCs The post Microsoft Adds 11 Retro ‘Star Wars’ Games to PC for Xbox Backwards Compatibility Project appeared first on Star Wars News Net .",
-      "url": "https://www.starwarsnewsnet.com/2026/11/microsoft-adds-11-retro-star-wars-games-to-pc-for-xbox-backwards-compatibility-project.html",
-      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2014/03/Star-Wars-Knights-of-the-Old-Republic-211.jpg",
-      "date": "Sat, 14 Nov 2026 14:11:20 +0000"
+      "source": "Star Wars Union",
+      "title": "Galactic Racer bekommt einen Split-Screen-Modus",
+      "description": "Der Community-Wunsch wurde erhört",
+      "url": "https://starwars-union.de/galactic-racer-bekommt-einen-split-screen-modus/",
+      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/11/20261117-galactic-racer-splitscreen.jpg",
+      "date": "Tue, 17 Nov 2026 16:33:08 +0000"
     },
     {
       "category": "starwars",
-      "source": "Star Wars News Net",
-      "title": "‘Star Wars: Galactic Racer’ Has Sold Over 1.5 Million Copies",
-      "description": "Sales for the recently released Star Wars: Galactic Racer have given players and the dev team at Fuse Games plenty The post ‘Star Wars: Galactic Racer’ Has Sold Over 1.5 Million Copies appeared first on Star Wars News Net .",
-      "url": "https://www.starwarsnewsnet.com/2026/11/star-wars-galactic-racer-has-sold-over-1-5-million-copies.html",
-      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/10/Star-Wars-Galactic-Racer-Collectors-Edition-Key-Art-1024x576.png",
-      "date": "Fri, 13 Nov 2026 23:15:01 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars News Net",
-      "title": "50th Anniversary ‘Star Wars’ Toy Collection Unveiled",
-      "description": "Lucasfilm, Disney, and their partners at Hasbro and LEGO are working overtime to deliver merchandise worth celebrating the Star Wars semicentennial. The post 50th Anniversary ‘Star Wars’ Toy Collection Unveiled appeared first on Star Wars News Net .",
-      "url": "https://www.starwarsnewsnet.com/2026/11/50th-anniversary-star-wars-toy-collection-unveiled.html",
-      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/08/star-wars-50th-anniversary-theatrical-release-feature_858ec8d6.jpeg",
-      "date": "Fri, 13 Nov 2026 21:29:02 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars News Net",
-      "title": "Review – ‘Star Wars X-Wing: Isard’s Revenge’ Audiobook Begins a New Chapter for Rogue Squadron",
-      "description": "The Star Wars Essential Legends Collection grows once more with the next two entries in the fabled X-Wing series. While The post Review – ‘Star Wars X-Wing: Isard’s Revenge’ Audiobook Begins a New Chapter for Rogue Squadron appeared first on Star Wars News Net .",
-      "url": "https://www.starwarsnewsnet.com/2026/11/review-star-wars-x-wing-isards-revenge-audiobook-begins-a-new-chapter-for-rogue-squadron.html",
-      "image": "https://www.starwarsnewsnet.com/wp-content/uploads/2026/11/Screenshot-2026-11-13-103134-e1794587538956.png",
-      "date": "Fri, 13 Nov 2026 20:00:48 +0000"
+      "source": "Star Wars Union",
+      "title": "Grammy-Nominierungen an zweifacher Front für Star Wars",
+      "description": "Sowohl im Bereich Film als auch Videospiel dürfen sich zwei uns wohlbekannte Komponisten über eine entsprechende Nominierung freuen.",
+      "url": "https://starwars-union.de/grammy-nominierungen-an-zweifacher-front-fuer-star-wars/",
+      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/11/Grammy-Nominierungen-2026-web.jpg",
+      "date": "Tue, 17 Nov 2026 15:39:40 +0000"
     },
     {
       "category": "starwars",
@@ -882,21 +900,57 @@
     },
     {
       "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "Zeitreise: Die legendäre Dykstraflex",
-      "description": "Wie die erste Motion-Control-Kamera der Welt die Geschichte der Filmeffekte veränderte.",
-      "url": "https://starwars-union.de/zeitreise-die-legendaere-dykstraflex/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/10/Dykstraflex.jpg",
-      "date": "Thu, 29 Oct 2026 15:56:26 +0000"
+      "source": "Jedi News",
+      "title": "Regal Robot’s Star Wars Aliens Concept Maquettes 3 Pack Available Now",
+      "description": "Regal Robot's Star Wars Aliens Concept Maquettes 3 Pack, based on the imaginative designs that never quite made it to screen but still remain part of the magic behind the scenes from Star Wars: Return of the Jedi, are available to order now (whilst stocks last). The post Regal Robot’s Star Wars Aliens Concept Maquettes 3 Pack Available Now appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/regal-robots-star-wars-aliens-concept-maquettes-3-pack-available-now/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/regalrobot_star_wars_alien_3_pack_replica_featured_nov26-300x201.jpg",
+      "date": "Tue, 17 Nov 2026 17:00:47 +0000"
     },
     {
       "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "ILM berichtet: Die Geschichte der Razor-Crest-Modelle",
-      "description": "Von einer fixen Garagen-Lösung für The Mandalorian hin zu einem echten Modell-Volume für den Kinofilm.",
-      "url": "https://starwars-union.de/ilm-berichtet-die-geschichte-der-razor-crest-modelle/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/10/Modell-der-Razor-Crest-bei-ILM.jpg",
-      "date": "Mon, 26 Oct 2026 14:33:17 +0000"
+      "source": "Jedi News",
+      "title": "Enjoy Stuff: 1.21 Gigawatts of Gravy",
+      "description": "Jovial Jay and Shua bring you the latest episode of Enjoy Stuff: A TechnoRetro Podcast. The post Enjoy Stuff: 1.21 Gigawatts of Gravy appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/enjoy-stuff-1-21-gigawatts-of-gravy/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2021/05/RetroZap-Enjoy-Stuff-Techno-Retro-Featured-Image-300x201.jpg",
+      "date": "Tue, 17 Nov 2026 16:28:55 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Podcast Stardust #1,109: The Clone Wars – “Kidnapped” 0411",
+      "description": "First-generation Star Wars fans, Dennis Keithly and Jay Krebs, host episode 1,109 of Podcast Stardust. The post Podcast Stardust #1,109: The Clone Wars – “Kidnapped” 0411 appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/podcast-stardust-1109-the-clone-wars-kidnapped-0411/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2020/05/Podcast-Stardust-300x201.jpg",
+      "date": "Tue, 17 Nov 2026 11:09:39 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Happy Life Day!",
+      "description": "Team Jedi News wishes everyone around the galaxy a Happy Life Day! Celebrate family, joy, peace and harmony! The post Happy Life Day! appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/events/articles/happy-life-day-2/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/Life-Day-Nov26-300x201.jpg",
+      "date": "Tue, 17 Nov 2026 08:00:49 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "LEGO Insiders Weekend Gifts with Purchase Revealed",
+      "description": "LEGO Insiders can claim two Gifts with Purchase over the LEGO Insiders weekend of November 21st/22nd, the Retro Jukebox (40914) will require a spend of £225 | $250 | €250, whilst a spend of £155 | $170 | €170 will get the Winter Snow Globe (40918). The post LEGO Insiders Weekend Gifts with Purchase Revealed appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/collecting/articles/lego-insiders-weekend-gifts-with-purchase-revealed/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/LEGO-Insider-Rewards-Nov26-300x201.jpg",
+      "date": "Tue, 17 Nov 2026 00:51:45 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Mando and Grogu Trapped on a Lava River | LEGO Star Wars: The Mandalorian | ‪Star Wars Kids‬",
+      "description": "While fleeing Moff Gideon, The Mandalorian and Grogu get trapped with their friends on a lava river. Grogu's babysitter droid, IG-11, decides to do something brave to allow the crew to escape! Stream LEGO Star Wars: The Mandalorian on Disney+ now. The post Mando and Grogu Trapped on a Lava River | LEGO Star Wars: The Mandalorian | ‪Star Wars Kids‬ appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/mando-and-grogu-trapped-on-a-lava-river-lego-star-wars-the-mandalorian-star-wars-kids/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/maxresdefault-29-300x169.jpg",
+      "date": "Tue, 17 Nov 2026 00:17:09 +0000"
     },
     {
       "category": "starwars",
@@ -905,7 +959,7 @@
       "description": "While promoting his new film Paper Tiger, Adam Driver has spoken to Associated Press about The Hunt for Ben Solo and called out the film's cancellation by Disney saying, \"It’s criminal. Or it felt criminal\". The post Adam Driver Says Cancellation of The Hunt for Ben Solo was “Criminal” appeared first on Jedi News .",
       "url": "https://www.jedinews.com/film-music-tv/articles/adam-driver-says-cancellation-of-the-hunt-for-ben-solo-was-criminal/",
       "image": "https://www.jedinews.com/wp-content/uploads/2026/11/Kylo-Ren-Nov26-300x201.jpg",
-      "date": "Mon, 16 Nov 2026 21:09:04 +0000"
+      "date": "Mon, 16 Nov 2026 20:39:04 +0000"
     },
     {
       "category": "starwars",
@@ -942,63 +996,18 @@
       "url": "https://www.jedinews.com/podcasts/articles/tarkins-top-shelf-472-star-wars-50th-and-skywalker-secrets-generational-trauma/",
       "image": "https://www.jedinews.com/wp-content/uploads/2018/04/tarkins-top-shelf-300x201.jpg",
       "date": "Mon, 16 Nov 2026 17:42:42 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Asmodee Takes Star Wars: Unlimited to New Heights to Celebrate Icons Launch",
-      "description": "To celebrate the launch of Star Wars: Unlimited Icons, Asmodee hosted an exclusive launch event on Friday night at the iconic Tower Bridge with views befitting of the next chapter in the Trading Card Game series, with Andor’s Varada Sethu meetings guests. The post Asmodee Takes Star Wars: Unlimited to New Heights to Celebrate Icons Launch appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/events/articles/asmodee-takes-star-wars-unlimited-to-new-heights-to-celebrate-icons-launch/",
-      "image": "",
-      "date": "Mon, 16 Nov 2026 14:42:51 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Ion Cannon #496: Star Wars: Galactic Racer",
-      "description": "Ion Cannon #496 blasts off. The post Ion Cannon #496: Star Wars: Galactic Racer appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/ion-cannon-496-star-wars-galactic-racer/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2018/04/ion-cannon-podcast-300x201.jpg",
-      "date": "Mon, 16 Nov 2026 09:46:46 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "This Weeks Publications – 16th November 2026",
-      "description": "Welcome to week 46 of 2026 and our list detailing what new publications to expect from a galaxy far, far away. The post This Weeks Publications – 16th November 2026 appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/literature/articles/this-weeks-publications-16th-november-2026/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/The-Race-for-Jabbas-Bounty-FI-300x201.jpeg",
-      "date": "Mon, 16 Nov 2026 05:01:56 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Tina Simmons, Rebel Technician in Return of the Jedi, Has Died",
-      "description": "Tina Simmons, best known to Star Wars fans for playing a Rebel Technician aboard the Headquarters Frigate during the Main Briefing Room scenes of Return of the Jedi, has died. The post Tina Simmons, Rebel Technician in Return of the Jedi, Has Died appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/tina-simmons-rebel-technician-in-return-of-the-jedi-has-died/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/Tina-Simmons-Nov26-300x201.jpg",
-      "date": "Sun, 15 Nov 2026 20:00:54 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "The ILM Trick to Painting Intimidatingly Large Miniatures | Adam Savage’s Tested",
-      "description": "In this live stream excerpt, Adam Savage answers Tested member questions on tackling intimidating builds! First up: What should you do when you're \"terrified\" to paint a large miniature? The post The ILM Trick to Painting Intimidatingly Large Miniatures | Adam Savage’s Tested appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/the-ilm-trick-to-painting-intimidatingly-large-miniatures-adam-savages-tested/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/maxresdefault-27-300x169.jpg",
-      "date": "Sun, 15 Nov 2026 19:27:06 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Jake Lunt Davies Opens Store for Prints this Holiday Season",
-      "description": "Jake Lunt Davies, concept artist for the Star Wars Creature Effects Department, has opened up his store for prints, including B2-EMO, BB-8, Biddy Blas and Porgs, and they would make the perfect gift for fans of a galaxy far, far away this holiday season. The post Jake Lunt Davies Opens Store for Prints this Holiday Season appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/collecting/articles/jake-lunt-davies-opens-store-for-prints-this-holiday-season/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/JLD_Shop_Nov26-300x201.jpg",
-      "date": "Sun, 15 Nov 2026 15:45:44 +0000"
     }
   ],
   "youtube": [
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Kings Chat und seine Behauptungen #informatik #cybersecurity #code #messenger #news",
+      "description": "",
+      "url": "https://www.youtube.com/shorts/aU-DrY5c6OA",
+      "image": "https://i.ytimg.com/vi/aU-DrY5c6OA/hqdefault.jpg",
+      "date": "2026-11-17T18:59:25+00:00"
+    },
     {
       "category": "youtube",
       "source": "Hood Informatik",
@@ -1079,15 +1088,6 @@
       "url": "https://www.youtube.com/shorts/sMSUvgre4x8",
       "image": "https://i.ytimg.com/vi/sMSUvgre4x8/hqdefault.jpg",
       "date": "2026-11-07T11:00:39+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Security News der Woche: sshole, TUM und Calif Blockierungsmodus iPhone",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/CDEuOSdif14",
-      "image": "https://i.ytimg.com/vi/CDEuOSdif14/hqdefault.jpg",
-      "date": "2026-11-06T18:00:02+00:00"
     },
     {
       "category": "youtube",
