@@ -1,6 +1,42 @@
 {
-  "updated": "2026-11-17T01:57:49.682415+00:00",
+  "updated": "2026-11-17T10:30:22.072805+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "CERN има докази за распаѓање на честичка што се случува само еднаш на 10 милијарди",
+      "description": "Тимот на LHCb експериментот во CERN објави дека има докази за едно од најретките распаѓања на честички досега. Резултатот беше претставен на семинар во CERN на 3 ноември, а научниот труд е поднесен за објавување во списанието Physical Review X. Станува збор за Bd мезонот, честичка составена од „длабински“ кварк и „долен“ антикварк, која понекогаш […]",
+      "url": "https://smartportal.mk/novosti/nauka-istrazuvanja/cern-dokazi-raspagjanje-cesticka-sto-se-slucuva-samo-ednas-na-10-milijardi/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/LHCb-image-150x150.webp",
+      "date": "Tue, 17 Nov 2026 10:24:28 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Apple ги заострува дозволите за целосен пристап до Mac и нуди пристап само до одредени папки",
+      "description": "Apple ги објави промените за „Full Disk Access“ што ги најави на почетокот на октомври. Тие се дел од втората бета верзија на macOS 27.3 за програмери и ја опфаќаат и поставката „Device Control and Data Access“. „Пред да ѝ дадат ваков исклучителен пристап на некоја апликација, корисниците треба да разберат дека со тоа ги […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/apple-gi-zaostruva-dozvolite-za-celosen-pristao-do-mac/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/wes-hicks-ptXljygBu-0-unsplash-f-150x150.webp",
+      "date": "Tue, 17 Nov 2026 10:08:39 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Роберт Патинсон е новиот Џејмс Бонд во првиот филм за 007 под контрола на Amazon",
+      "description": "Amazon MGM Studios вчера официјално објави дека Роберт Патинсон ќе го игра Џејмс Бонд во следниот филм за агентот 007, кој го режира Дени Вилнев. Ова е прв нов актер во улогата по повеќе од 20 години, откако Даниел Крег беше објавен како Бонд во октомври 2005 година. Најавата прво стигна преку официјалниот профил на […]",
+      "url": "https://smartportal.mk/novosti/interesno/robert-pattinson-e-noviot-james-bond/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/007-2026-5-150x150.webp",
+      "date": "Tue, 17 Nov 2026 09:44:20 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Скриена грешка од јули и уште два проблема го срушиле Microsoft 365, објасни компанијата",
+      "description": "Microsoft објави прелиминарен извештај за прекинот на Microsoft 365, кој почна на 12 ноември во 17:20 часот по наше време и траеше речиси 24 часа. Според компанијата, се совпаднале три проблеми. Првиот е скриена грешка во интерен процес на Windows на мрежните сервери преку кои поминуваат конекциите до Exchange Online и други услуги. Грешката дошла […]",
+      "url": "https://smartportal.mk/novosti/servisi/skriena-greska-od-ljuli-rusenje-microsoft-365/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/october-2023-brazil-photo-illustration-Depositphotos_683039724_XL-150x150.webp",
+      "date": "Tue, 17 Nov 2026 09:15:22 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -8,7 +44,7 @@
       "description": "Во пресрет на Black Friday Smartus.mk нуди супер попусти на уреди што ти ќе ти го олеснат секојдневието. Препушти го чистењето на роботска правосмукалка или избери безжична стик правосмукалка за брзо и практично чистење на домот. Кога станува збор за тренинг, во понудата те чекаат статични велосипеди, справи за трчање и веслање, со кои дневната […]",
       "url": "https://smartportal.mk/novosti/uredi/ne-ja-propustaj-black-friday-ponudata-vo-smartus/",
       "image": "https://smartportal.mk/wp-content/uploads/2026/11/BF1200-150x150.webp",
-      "date": "Mon, 16 Nov 2026 22:58:16 +0000"
+      "date": "Mon, 16 Nov 2026 18:28:00 +0000"
     },
     {
       "category": "mkd",
@@ -57,219 +93,183 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Anthropic го претстави Claude Meetings со кој Claude се приклучува на видео состаноците и води белешки и прави документи додека тимот разговара",
-      "description": "Anthropic го претстави Claude Meetings, со кој Claude се приклучува на видео повиците како видлив учесник, го следи разговорот и почнува со работа уште додека трае состанокот. Засега е во бета верзија и постепено стига до Team и Enterprise корисниците. Учесниците можат да го прашуваат на глас или преку разговорот на повикот, а во основните […]",
-      "url": "https://smartportal.mk/novosti/ai/anthropic-claude-meetings/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/HW80yoZWEAIsg59-150x150.webp",
-      "date": "Mon, 16 Nov 2026 09:53:36 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Прекинот на Microsoft 365 трае втор ден, а Microsoft гледа подобрување во поголем дел од Европа",
-      "description": "Глобалниот прекин на Microsoft 365 продолжува и во петок, а дел од корисниците и понатаму имаат проблеми со е-поштата. Проблемите почнаа во четвртокот, а според Associated Press, околу 19 часот по наше време приближно 130.000 корисници пријавија проблеми со Outlook на Downdetector. Во центарот на проблемот е Exchange Online. Според страницата за статус на услугите, корисниците можеби […]",
-      "url": "https://smartportal.mk/novosti/servisi/microsoft-365-prekin-vtor-den/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/october-2023-brazil-photo-illustration-Depositphotos_683039724_XL-150x150.webp",
-      "date": "Fri, 13 Nov 2026 14:04:05 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Сондата BepiColombo по осум години пат на 21 ноември влегува во орбита околу Меркур",
-      "description": "Европско-јапонската сонда BepiColombo на 21 ноември треба да влезе во орбита околу Меркур, по осум години пат низ внатрешниот дел од Сончевиот систем. Според ESA, тоа ќе биде првата мисија со две летала во орбита околу Меркур во исто време. Мисијата ја води Европската вселенска агенција во соработка со јапонската агенција JAXA. Европското летало MPO […]",
-      "url": "https://smartportal.mk/novosti/nauka-istrazuvanja/bepicolombo-ke-vleze-vo-orbitata-na-merkur/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/Mercury_Transfer_Module_separation-media-9a2dd926-query@2x.f6ab167b-150x150.webp",
-      "date": "Fri, 13 Nov 2026 12:16:40 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "X го зголеми бројот на фотографии и видеа во една објава од 4 на 20",
-      "description": "X од вчера дозволува до 20 фотографии и видеа во една објава, пет пати повеќе од досегашниот максимум од четири. Ограничувањето од четири слики важеше уште од времето на Twitter, а мрежата не го менуваше и по преименувањето во X. Промената ја објави Џона Кац, раководител на мобилниот инженеринг во X, кој ја нарече „голема […]",
-      "url": "https://smartportal.mk/novosti/socijalni-mrezi/x-sliki-videa-objava-20/",
-      "image": "https://smartportal.mk/wp-content/uploads/2023/08/shutterstock_2336648595-150x150.jpg",
-      "date": "Fri, 13 Nov 2026 12:03:16 +0000"
+      "source": "Time.mk - All",
+      "title": "Николоски предупредува: Пречките за извоз ја загрозуваат исплатливоста на зелените инвестиции | Пари",
+      "description": "",
+      "url": "https://time.mk/c/361c333f28/nikoloski-predupreduva-preckite-za-izvoz-ja-zagrozuvaat-isplatlivosta-na-zelenite-investicii.html",
+      "image": "http://pari.com.mk/wp-content/uploads/2026/11/nikoloski.jpg",
+      "date": "Tue, 17 Nov 2026 09:52:44 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Жена, живот, слобода | Фокус",
+      "title": "Највисокиот политичко-правен акт со кој Македонија како унитарна држава доби институционална форма | Нова Македонија",
       "description": "",
-      "url": "https://time.mk/c/9c520f79e6/zena-zivot-sloboda.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/11/898864097_2097886914189606_8210669223061304770_n.jpg",
-      "date": "Mon, 16 Nov 2026 19:04:38 +0000"
+      "url": "https://time.mk/c/febeb6b396/najvisokiot-politicko-praven-akt-so-koj-makedonija-kako-unitarna-drzava-dobi-institucionalna-forma.html",
+      "image": "https://novamakedonija.com.mk/wp-content/uploads/2023/05/ustav-banskoliev.jpg-12-150x150.jpg",
+      "date": "Tue, 17 Nov 2026 07:48:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Јавноста на социјалните мрежи, партиите со организирање маршеви и изјави против насилство | 24 Вести",
+      "title": "Претставници на „Студентската листа“ влегоа во парламентот со погача и песна – Лидија Вукиќевиќ полеана со јогурт/ВИДЕО | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/9aaf2f5ee3/javnosta-na-socijalnite-mrezi-partiite-so-organiziranje-marsevi-i-izjavi-protiv-nasilstvo.html",
-      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1794845549/m7lptwa1yrye6eubtaae.jpg",
-      "date": "Mon, 16 Nov 2026 16:14:37 +0000"
+      "url": "https://time.mk/c/a40fdcec1c/pretstavnici-na-studentskata-lista-vlegoa-vo-parlamentot-so-pogaca-i-pesna-lidija-vukikevik-poleana-so-jogurt-video.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/11/predso.png",
+      "date": "Tue, 17 Nov 2026 09:16:37 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Јавните личности со реакции за случајот со претепаната девојка во Охрид: „Молам Господ да не ѝ се случи ова на ќерка ми“ | Црнобело",
+      "title": "ВИДЕО | Воен авион се урна во нива во Србија, се стравува дека има жртви | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/111df1b522/javnite-licnosti-so-reakcii-za-slucajot-so-pretepanata-devojka-vo-ohrid-molam-gospod-da-ne-i-se-sluci-ova-na-kerka-mi.html",
-      "image": "https://www.crnobelo.com/images/stories/2026/11/1035/javnite-lichnosti-so-reakcii-za-sluchajot-so-pretepanata-devojka-vo-ohrid-molam-gospod-da-ne-i-se-sluchi-ova-na-kjerka-mi-poveke-01.jpg",
-      "date": "Mon, 16 Nov 2026 14:56:56 +0000"
+      "url": "https://time.mk/c/63a59425b1/video-voen-avion-se-urna-vo-niva-vo-srbija-se-stravuva-deka-ima-zrtvi.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/11/Screenshot-2026-11-17-101528-300x236.png",
+      "date": "Tue, 17 Nov 2026 09:22:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ХРОНОЛОГИЈА: ОД НАПАДОТ ВРЗ САРА ДО ОБВИНЕНИЕТО И БАРАЊЕТО ЗА ПРИТВОР | Вечер Прес",
+      "title": "Електронска алка на хартија, реалност во системски дефект | Колегиум",
       "description": "",
-      "url": "https://time.mk/c/4c625e9b1c/hronologija-od-napadot-vrz-sara-do-obvinenieto-i-baranjeto-za-pritvor.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/11/ohrid-nasa.jpg",
-      "date": "Mon, 16 Nov 2026 20:31:09 +0000"
+      "url": "https://time.mk/c/353b4a9182/elektronska-alka-na-hartija-realnost-vo-sistemski-defekt.html",
+      "image": "https://kolegium.mk/wp-content/uploads/2026/11/Mirrored-portrait-scales-and-Macedonian-headline-300x169.png",
+      "date": "Tue, 17 Nov 2026 10:02:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Хаџи Василева за „Мазут“: Притисокот од јавноста не смее да одлучи дали ќе има обвинение | 360 степени",
+      "title": "(Видео) Тренчевска: Тошковски одамна требаше да поднесе оставка, позади секоја жртва стојат бројни нерасчистени пријави и непостапувања | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/941b4306f7/hadzi-vasileva-za-mazut-pritisokot-od-javnosta-ne-smee-da-odluci-dali-ke-ima-obvinenie.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/11/008-1.jpg",
-      "date": "Mon, 16 Nov 2026 20:16:59 +0000"
+      "url": "https://time.mk/c/15e3ba29f7/video-trencevska-toskovski-odamna-trebase-da-podnese-ostavka-pozadi-sekoja-zrtva-stojat-brojni-nerascisteni-prijavi-i-nepostapuvanja.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/11/jovana-press-sobranie-1.webp",
+      "date": "Tue, 17 Nov 2026 10:02:46 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Во среда нов обид на Гаши за свикување на седницата за пратенички прашања | 24 Вести",
+      "title": "Купиле ИТ систем за 2,7 милиони евра за Агенцијата за вработување, а не платиле за одржување | Независен",
       "description": "",
-      "url": "https://time.mk/c/76abb998c0/vo-sreda-nov-obid-na-gasi-za-svikuvanje-na-sednicata-za-pratenicki-prasanja.html",
-      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1794846565/idctd52fyfwhryq6mlqa.jpg",
-      "date": "Mon, 16 Nov 2026 16:32:57 +0000"
+      "url": "https://time.mk/c/5230189e3f/kupile-it-sistem-za-2-7-milioni-evra-za-agencijata-za-vrabotuvanje-a-ne-platile-za-odrzuvanje.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2025/06/Agencija-za-vrabotuvanje-1-bg.jpg",
+      "date": "Tue, 17 Nov 2026 08:58:44 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Буџетот за 2027 година тежок 7,2 милијарди евра – јавниот долг ќе достигне 12,3 милијарди евра | 4NEWS",
+      "title": "СДСМ ЈА ПРЕЗЕДЕ ДРЖАВАТА СО 4,7, А ЈА ОСТАВИ СО 8,8 МИЛИЈАРДИ ЕВРА ДОЛГ За две години треба да вратиме 5 милијарди евра | +инфо",
       "description": "",
-      "url": "https://time.mk/c/37ac1000c2/budzetot-za-2027-godina-tezok-7-2-milijardi-evra-javniot-dolg-ke-dostigne-12-3-milijardi-evra.html",
-      "image": "https://4news.mk/wp-content/uploads/2022/11/Pari2-1024x576.jpg",
-      "date": "Mon, 16 Nov 2026 22:16:38 +0000"
+      "url": "https://time.mk/c/5640f4c21a/sdsm-ja-prezede-drzavata-so-4-7-a-ja-ostavi-so-8-8-milijardi-evra-dolg-za-dve-godini-treba-da-vratime-5-milijardi-evra.html",
+      "image": "https://plusinfo.mk/wp-content/uploads/2026/11/prendzov-1-e1794907198207.jpg",
+      "date": "Tue, 17 Nov 2026 09:44:51 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Стојановски: Главниот двигател на растот во 2027 година ќе биде засилената инвестициска активност на државата | Скопје1",
+      "title": "Српскиот парламент ќе ја одржи конститутивната седница на новиот состав по изборната победа на Студентската листа | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/e03a7a9f84/stojanovski-glavniot-dvigatel-na-rastot-vo-2027-godina-ke-bide-zasilenata-investiciska-aktivnost-na-drzavata.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/87953/conversions/text-max.jpg",
-      "date": "Mon, 16 Nov 2026 18:02:54 +0000"
+      "url": "https://time.mk/c/035ad46621/srpskiot-parlament-ke-ja-odrzi-konstitutivnata-sednica-na-noviot-sostav-po-izbornata-pobeda-na-studentskata-lista.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2025/03/parlament-Srbija.jpg",
+      "date": "Tue, 17 Nov 2026 07:48:37 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ЕУ ИЗРАЗИ ЖАЛЕЊЕ ОТКАКО СРПСКА НАЦИОНАЛИСТИЧКА ПЕСНА ЗА КОСОВО БЕШЕ ИЗВЕДЕНА НА НАСТАН ВО БРИСЕЛ | Сакам да кажам",
+      "title": "Хашим Тачи осуден на 17 месеци затвор за попречување на правдата | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/44b9cd6c82/eu-izrazi-zalenje-otkako-srpska-nacionalisticka-pesna-za-kosovo-bese-izvedena-na-nastan-vo-brisel.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/08/marta-kos-FB.jpg",
-      "date": "Mon, 16 Nov 2026 16:44:49 +0000"
+      "url": "https://time.mk/c/16c98254dd/hasim-taci-osuden-na-17-meseci-zatvor-za-poprecuvanje-na-pravdata.html",
+      "image": "https://racin.mk/wp-content/uploads/2026/02/hasim-taci-793x480.jpg?x28018",
+      "date": "Tue, 17 Nov 2026 10:12:45 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ДРОН, МИНА ИЛИ НЕСРЕЌЕН СЛУЧАЈ: Брод полн со жито, со 12 членови на екипажот потона на 40 наутички милји од ’Рт Калиакра | Пари",
+      "title": "Украина го урна Кримскиот мост во „операција во седум фази“ | Независен",
       "description": "",
-      "url": "https://time.mk/c/85dd9b4dc5/dron-mina-ili-nesreken-slucaj-brod-poln-so-zito-so-12-clenovi-na-ekipazot-potona-na-40-nauticki-milji-od-rt-kaliakra.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/11/Capsized-Red-and-Blue-Cargo-Ship.png",
-      "date": "Mon, 16 Nov 2026 12:08:39 +0000"
+      "url": "https://time.mk/c/f4869d0d7f/ukraina-go-urna-krimskiot-most-vo-operacija-vo-sedum-fazi.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/11/Krimski-most-urnat-1024x997.jpg",
+      "date": "Tue, 17 Nov 2026 10:02:46 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Мицкоски од Брисел побара праведлив и предвидлив пат за ЕУ | Фокус",
+      "title": "ВИДЕО | Два воза се судрија во Прага, најмалку 15 луѓе се тешко повредени | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/e6ffde66de/mickoski-od-brisel-pobara-pravedliv-i-predvidliv-pat-za-eu.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/11/Mitskoski-i-Kos.png",
-      "date": "Mon, 16 Nov 2026 19:04:38 +0000"
+      "url": "https://time.mk/c/a1de3d314b/video-dva-voza-se-sudrija-vo-praga-najmalku-15-lugje-se-tesko-povredeni.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/11/Screenshot-2026-11-17-104303-300x179.png",
+      "date": "Tue, 17 Nov 2026 09:44:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Зеленски објави детали за европското присуство во преговорите и побара да испратат дополнителни ракети | Вечер Прес",
+      "title": "Општина Илинден ја проширува мрежата за фекална канализација во населба Илинден | Скопје инфо",
       "description": "",
-      "url": "https://time.mk/c/1619db1bec/zelenski-objavi-detali-za-evropskoto-prisustvo-vo-pregovorite-i-pobara-da-ispratat-dopolnitelni-raketi.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/11/zelenskii-okt26-epa.jpg",
-      "date": "Mon, 16 Nov 2026 21:04:43 +0000"
+      "url": "https://time.mk/c/f6e6013fae/opstina-ilinden-ja-prosiruva-mrezata-za-fekalna-kanalizacija-vo-naselba-ilinden.html",
+      "image": "https://skopjeinfo.mk/sites/default/files/styles/large/public/article/teaser-images/2026/noemvri/image-264889.jpg?itok=TAPIX6Pu",
+      "date": "Tue, 17 Nov 2026 10:20:48 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "​Трибина „Толеранцијата почнува со почит – заедно против сајбер булинг“ во општина Кисела Вода | Press24",
+      "title": "ПРОБИШТИП ГИ ОСЛОБОДИ МЛАДИТЕ БРАЧНИ ПАРОВИ ОД КОМУНАЛИИ ЗА ИЗГРАДБА НА КУЌА Мерката стартува од почетокот на следната година | +инфо",
       "description": "",
-      "url": "https://time.mk/c/a023a18629/tribina-tolerancijata-pocnuva-so-pocit-zaedno-protiv-sajber-buling-vo-opstina-kisela-voda.html",
-      "image": "",
-      "date": "Mon, 16 Nov 2026 20:58:43 +0000"
+      "url": "https://time.mk/c/6eb450b772/probistip-gi-oslobodi-mladite-bracni-parovi-od-komunalii-za-izgradba-na-kuka-merkata-startuva-od-pocetokot-na-slednata-godina.html",
+      "image": "https://plusinfo.mk/wp-content/uploads/2026/11/probishtip-komunalii-za-mladi-parovi.1-jpg.jpg",
+      "date": "Tue, 17 Nov 2026 09:34:52 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Левица обвини за кратење 120 милиони денари за проекти во Бутел, следуваше остра реакција: „Се приклучија на ДУИ и ВЛЕН“ | Скопје инфо",
+      "title": "„Ја давел и со тупаници и шлаканици ја удирал по главата и телото“: предложен притвор за семејно насилство во Битола | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/355edb26c6/levica-obvini-za-kratenje-120-milioni-denari-za-proekti-vo-butel-sleduvase-ostra-reakcija-se-priklucija-na-dui-i-vlen.html",
-      "image": "",
-      "date": "Mon, 16 Nov 2026 17:12:51 +0000"
+      "url": "https://time.mk/c/6c45b6bbc5/ja-davel-i-so-tupanici-i-slakanici-ja-udiral-po-glavata-i-teloto-predlozen-pritvor-za-semejno-nasilstvo-vo-bitola.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/07/nasilstvo-depositphotos_239976346_xl.webp",
+      "date": "Tue, 17 Nov 2026 08:54:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "БИ БИЛО ШПЕКУЛАЦИЈА ДА КАЖАМ ЗОШТО СЛУЧАЈОТ ВО ОХРИД НЕ Е ОБИД ЗА УБИСТВО ПРЕД ДА СЕ СОБЕРАТ ДОКАЗИТЕ, ВЕЛИ ДРЖАВНИОТ ОБВИНИТЕЛ САВЕСКИ | Сакам да кажам",
+      "title": "Кристијан Корубовски експресно обвинет за три кривични дела | еМагазин",
       "description": "",
-      "url": "https://time.mk/c/835567734b/bi-bilo-spekulacija-da-kazam-zosto-slucajot-vo-ohrid-ne-e-obid-za-ubistvo-pred-da-se-soberat-dokazite-veli-drzavniot-obvinitel-saveski.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/11/saveski-hadji-vasileva-328989328932.jpg",
-      "date": "Mon, 16 Nov 2026 13:12:39 +0000"
+      "url": "https://time.mk/c/edce97492d/kristijan-korubovski-ekspresno-obvinet-za-tri-krivicni-dela.html",
+      "image": "https://emagazin.mk/wp-content/uploads/2025/05/20-300x225.jpg",
+      "date": "Tue, 17 Nov 2026 06:54:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Насилник од Кочани ѝ отишол дома на жена со која имал сообраќајна препирка, тропал на вратата и се заканувал | Слободен Печат",
+      "title": "Затворен за сообраќај патниот правец Охрид – Ресен преку националниот парк Галичица | Бизнис Вести",
       "description": "",
-      "url": "https://time.mk/c/e413ae2032/nasilnik-od-kocani-i-otisol-doma-na-zena-so-koja-imal-soobrakajna-prepirka-tropal-na-vratata-i-se-zakanuval.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2025/11/policija-113-300x219.jpg",
-      "date": "Mon, 16 Nov 2026 15:24:44 +0000"
+      "url": "https://time.mk/c/42b824b42f/zatvoren-za-soobrakaj-patniot-pravec-ohrid-resen-preku-nacionalniot-park-galicica.html",
+      "image": "https://biznisvesti.mk/wp-content/uploads/2025/10/pat3-300x201.jpg",
+      "date": "Tue, 17 Nov 2026 10:24:42 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„СРЕДНОШКОЛЕЦ МИЛИОНЕР“ ГО ИМА СВОЕТО ВТОРО ИЗДАНИЕ | Тера",
+      "title": "Општина Битола: Граѓаните повторно ќе имаат збор во креирањето на буџетот за 2027 година | Булевар",
       "description": "",
-      "url": "https://time.mk/c/be1b14f499/srednoskolec-milioner-go-ima-svoeto-vtoro-izdanie.html",
-      "image": "https://tera.mk/wp-content/uploads/2026/11/srednoskolec-milioner-150x150.jpg",
-      "date": "Mon, 16 Nov 2026 18:04:47 +0000"
+      "url": "https://time.mk/c/9b423c1dfc/opstina-bitola-gragjanite-povtorno-ke-imaat-zbor-vo-kreiranjeto-na-budzetot-za-2027-godina.html",
+      "image": "https://bulevar.mk/wp-content/uploads/2026/11/img_3407-1024x536.jpeg",
+      "date": "Tue, 17 Nov 2026 09:26:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Охридскиот градоначалник: Најостро го осудувам насилниот настан! | Фокус",
+      "title": "ФЕСТИВАЛОТ ЕГЗИТ СЕ ВРАЌА ВО 2027 ПО ЕДНА ГОДИНА ПАУЗА | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/c/341168a731/ohridskiot-gradonacalnik-najostro-go-osuduvam-nasilniot-nastan.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/11/image-239208.jpg",
-      "date": "Mon, 16 Nov 2026 14:28:45 +0000"
+      "url": "https://time.mk/c/44d56d5c5b/festivalot-egzit-se-vraka-vo-2027-po-edna-godina-pauza.html",
+      "image": "https://smart.sdk.mk/wp-content/uploads/2026/11/1752151362_shutterstock_356050244-900x575.jpg",
+      "date": "Tue, 17 Nov 2026 09:48:46 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Од легендарниот Шон Конери до Роберт Патинсон — седумте лица на агентот 007 | Слободен Печат",
+      "title": "Татко на македонистиката и идеолог на модерната македонска национална мисла | Нова Македонија",
       "description": "",
-      "url": "https://time.mk/c/c698b64864/od-legendarniot-son-koneri-do-robert-patinson-sedumte-lica-na-agentot-007.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/11/profimedia-1153017419-300x200.jpg",
-      "date": "Mon, 16 Nov 2026 22:32:36 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Еден век без Крсте Мисирков – неговото дело останува темел на македонскиот јазик и идентитет | 4NEWS",
-      "description": "",
-      "url": "https://time.mk/c/b45b4ef60f/eden-vek-bez-krste-misirkov-negovoto-delo-ostanuva-temel-na-makedonskiot-jazik-i-identitet.html",
-      "image": "https://4news.mk/wp-content/uploads/2026/11/screenshot_9-3-1024x682.avif",
-      "date": "Mon, 16 Nov 2026 20:40:46 +0000"
+      "url": "https://time.mk/c/358a892563/tatko-na-makedonistikata-i-ideolog-na-modernata-makedonska-nacionalna-misla.html",
+      "image": "https://novamakedonija.com.mk/wp-content/uploads/2026/11/krste-petkov-misirkov-dejan-joveski1-150x150.jpg",
+      "date": "Tue, 17 Nov 2026 09:24:40 +0000"
     }
   ],
   "de": [
@@ -638,6 +638,24 @@
     {
       "category": "eng",
       "source": "PCWorld",
+      "title": "EMEET Webcam Guide (2026, 2027): EMEET PIXY, C960 Ultra, S600L & Prime for Work and Streaming",
+      "description": "The world’s first dual-camera AI-powered PTZ 4K webcam Award-winning webcam for creators View PIXY Investing in a quality webcam will greatly improve your professional presence, with sharper and higher-definition video and reliable low-light handling projecting competence and credibility during client calls and content creation and aiding clearer communication through non-verbal cues and facial expressions building trust. A fixed laptop webcam works fine until you stand up to demonstrate somethi",
+      "url": "https://www.pcworld.com/article/3278833/emeet-webcam-guide-2026-2027-emeet-pixy-c960-ultra-s600l-prime-for-work-and-streaming.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3278833-0-73637300-1794908532-EMEET-hero.jpg?quality=50&strip=all",
+      "date": "Tue, 17 Nov 2026 09:42:05 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "This Microsoft Office and Windows 11 Pro lifetime license bundle just dropped to $22",
+      "description": "TL;DR: Get Office 2019 Professional Plus and Windows 11 Pro for life for $21.97 (reg. $428). Microsoft 365 costs $99.99 per year at the cheapest. Windows 11 Pro is usually $199. If you want to get both for a fraction of that, this All-in-One Microsoft Bundle gives you lifetime licenses for Microsoft Office and Windows 11 Pro together for $21.97 (reg. $428). Office Professional Plus 2019 includes Word, Excel, PowerPoint, Outlook, OneNote, and Access. All six apps install directly on your PC and w",
+      "url": "https://www.pcworld.com/article/3285314/this-microsoft-office-and-windows-11-pro-lifetime-license-bundle-just-dropped-to-22.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3285314-0-60649600-1794902419-mso-pro-plus-2019-x-win.jpg?quality=50&strip=all",
+      "date": "Tue, 17 Nov 2026 08:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
       "title": "Best early Black Friday VPN deals: What to expect and early sales",
       "description": "This year Black Friday is on November 27, but VPN deals are already well under way — and these discounts from VPN providers look to be among the best ever. What’s more, you can make your purchase now and rest assured you’re getting the best price. Most VPN services start their discounts early and run the same deals through the entirety of the holiday season. We’re already seeing some great discounts on our Editors’ Choice picks, including NordVPN, Proton VPN, Surfshark, and more. We’ll continue ",
       "url": "https://www.pcworld.com/article/2519967/best-early-black-friday-vpn-deals-2026.html",
@@ -706,24 +724,6 @@
       "url": "https://www.pcworld.com/article/406861/best-external-drives.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/11/406861-0-34269400-1794848456-markus-spiske-hL8slYnc-bM-unsplash.jpg?quality=50&strip=all",
       "date": "Mon, 16 Nov 2026 17:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "This 240W Thunderbolt 4 cable is a steal at $14",
-      "description": "Ugreen 240W TB4 cable View Deal We know you probably have a million cables everywhere scattered around your house, but you could always use another, especially since this Ugreen USB-C Thunderbolt 4 cable is down to $13.96 at Amazon , a 37 percent discount from its MSRP. With up to 240W of power delivery, this TB4 cable handles charging, fast file transfers, and video output effortlessly. It’s robust enough to manage the heavy-duty connection between your laptop and a high-res monitor with ease. ",
-      "url": "https://www.pcworld.com/article/3285391/this-240w-thunderbolt-4-cable-is-a-steal-at-14.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3285391-0-21951000-1794845106-Ugreen-240W-TB4-cable.jpg?quality=50&strip=all",
-      "date": "Mon, 16 Nov 2026 16:04:41 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "De’Longhi’s automatic espresso machine is 39% off, now just $550",
-      "description": "NOW $350 OFF De'Longhi Magnifica Evo Espresso Machine It's fully automatic and it has a milk frother! View Deal If you love espresso but hate the finicky process of making it by hand, here’s an automatic machine that can handle it all for you. It freshly grinds beans, pulls the espresso shot, and even froths milk. Whether you prefer your espresso straight, watered into an Americano, or blended with milk foam into a latte, this machine will make it for you at the touch of a button. Right now, the",
-      "url": "https://www.pcworld.com/article/3286717/delonghis-automatic-espresso-machine-is-39-off-now-just-550.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3286717-0-35425300-1794843934-DeLonghi-Magnifica-Evo-Automatic-Espresso-Machine.jpg?quality=50&strip=all",
-      "date": "Mon, 16 Nov 2026 15:45:24 +0000"
     }
   ],
   "starwars": [
