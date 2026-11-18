@@ -1,6 +1,33 @@
 {
-  "updated": "2026-11-18T02:12:09.887297+00:00",
+  "updated": "2026-11-18T10:31:15.581841+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Instagram ја тестира Direct, посебна апликација за пораки што може да се користи и без профил",
+      "description": "Instagram ја претстави Direct, нова апликација наменета само за пораки, преку која се разговара еден на еден или во групи со пријатели и семејството. Според објавата на Meta, идејата е блиските контакти да добијат посебен простор. Апликацијата засега се тестира само во Турција и Тајланд, на Android и iOS. Не е познато дали и кога […]",
+      "url": "https://smartportal.mk/novosti/socijalni-mrezi/instagram-ja-testira-direct/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/02_Direct-150x150.webp",
+      "date": "Wed, 18 Nov 2026 10:27:19 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Microsoft тестира предупредување за клучот за BitLocker при префрлање на локална сметка во Windows 11",
+      "description": "Microsoft во Windows 11 тестира нов прозорец кој ќе ги потсетува корисниците да го зачуваат клучот за враќање на BitLocker („recovery key“) кога се префрлаат од Microsoft сметка на локална сметка. Новината е наведена во белешките за Insider верзијата 26340.10013, објавена на 16 ноември во Experimental каналот. Според Microsoft, корисниците кои ќе се префрлат на […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/microsoft-test-predupreduvanje-klucevi-bitlocker-lokalna-smetka/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/wallpaper-windows-logo-background-Depositphotos_479630036_L.webp",
+      "date": "Wed, 18 Nov 2026 09:53:54 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Џенсен Хуанг понуди да се врати на чело на Nvidia, но одборот истата вечер ја одби понудата",
+      "description": "Џенсен Хуанг, кој минатата недела поднесе оставка од Nvidia, во вторникот попладне напиша на X дека би се вратил како извршен директор ако одборот на директори одлучи дека тоа е во најдобар интерес на акционерите, вработените, компанијата и Америка. Само неколку часа подоцна, претседателот на одборот Харви Џоунс рече дека тоа нема да се случи. […]",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/huang-ponudi-da-se-vrati-na-celo-na-nvidia/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/indonesia-march-10th-2024-nvidia-Depositphotos_711150828_XL-150x150.webp",
+      "date": "Wed, 18 Nov 2026 09:17:10 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -66,213 +93,195 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Роберт Патинсон е новиот Џејмс Бонд во првиот филм за 007 под контрола на Amazon",
-      "description": "Amazon MGM Studios вчера официјално објави дека Роберт Патинсон ќе го игра Џејмс Бонд во следниот филм за агентот 007, кој го режира Дени Вилнев. Ова е прв нов актер во улогата по повеќе од 20 години, откако Даниел Крег беше објавен како Бонд во октомври 2005 година. Најавата прво стигна преку официјалниот профил на […]",
-      "url": "https://smartportal.mk/novosti/interesno/robert-pattinson-e-noviot-james-bond/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/007-2026-5-150x150.webp",
-      "date": "Tue, 17 Nov 2026 09:44:20 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Скриена грешка од јули и уште два проблема го срушиле Microsoft 365, објасни компанијата",
-      "description": "Microsoft објави прелиминарен извештај за прекинот на Microsoft 365, кој почна на 12 ноември во 17:20 часот по наше време и траеше речиси 24 часа. Според компанијата, се совпаднале три проблеми. Првиот е скриена грешка во интерен процес на Windows на мрежните сервери преку кои поминуваат конекциите до Exchange Online и други услуги. Грешката дошла […]",
-      "url": "https://smartportal.mk/novosti/servisi/skriena-greska-od-ljuli-rusenje-microsoft-365/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/october-2023-brazil-photo-illustration-Depositphotos_683039724_XL-150x150.webp",
-      "date": "Tue, 17 Nov 2026 09:15:22 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Не ја пропуштај Black Friday понудата во Смартус",
-      "description": "Во пресрет на Black Friday Smartus.mk нуди супер попусти на уреди што ти ќе ти го олеснат секојдневието. Препушти го чистењето на роботска правосмукалка или избери безжична стик правосмукалка за брзо и практично чистење на домот. Кога станува збор за тренинг, во понудата те чекаат статични велосипеди, справи за трчање и веслање, со кои дневната […]",
-      "url": "https://smartportal.mk/novosti/uredi/ne-ja-propustaj-black-friday-ponudata-vo-smartus/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/BF1200-150x150.webp",
-      "date": "Mon, 16 Nov 2026 18:28:00 +0000"
+      "source": "Time.mk - All",
+      "title": "МАСИТ: Агентската вештачка интелигенција отвора нова ера за бизнисот и македонската ИКТ-индустрија | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/2d264e49be/masit-agentskata-vestacka-inteligencija-otvora-nova-era-za-biznisot-i-makedonskata-ikt-industrija.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/11/masit-18.11.26-razgovor-1.webp",
+      "date": "Wed, 18 Nov 2026 10:20:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„Правдата нема партиско знаме“ – порака од протестот пред Полициската станица во Охрид по случајот со претепаната девојка | 360 степени",
+      "title": "ЕЦБ предупредува: Растат ризиците кај инвестициските фондови, можни потреси и на финансиските пазари | Фактор",
       "description": "",
-      "url": "https://time.mk/c/6f7af46a53/pravdata-nema-partisko-zname-poraka-od-protestot-pred-policiskata-stanica-vo-ohrid-po-slucajot-so-pretepanata-devojka.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/11/Screenshot-2026-11-17-at-19-51-11-SHukova-od-sobirot-vo-Ohrid-Institutsionalna-odgovornost-i-seriozna-preventsija-na-nasilstvoto-vrz-zhenite.png",
-      "date": "Tue, 17 Nov 2026 19:54:50 +0000"
+      "url": "https://time.mk/c/0b581ea621/ecb-predupreduva-rastat-rizicite-kaj-investiciskite-fondovi-mozni-potresi-i-na-finansiskite-pazari.html",
+      "image": "https://faktor.mk/media/main/2026/11/20261105123412.jpg",
+      "date": "Wed, 18 Nov 2026 10:28:38 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Сиљановска-Давкова: Подготвени сме за разговори со Бугарија, но бараме гаранции дека нема да има нови уставни измени | 4NEWS",
+      "title": "ЕДЕН ПРОГРАМСКИ ЈАЗИК ЈА КРЕНА ЈУЖНА КОРЕЈА НА НОЗЕ: Дали светската дигитална економија е премногу ранлива? | Пари",
       "description": "",
-      "url": "https://time.mk/c/d83bae1af0/siljanovska-davkova-podgotveni-sme-za-razgovori-so-bugarija-no-barame-garancii-deka-nema-da-ima-novi-ustavni-izmeni.html",
-      "image": "https://4news.mk/wp-content/uploads/2026/04/gordana-siljanovska-davkova-4-1024x681.avif",
-      "date": "Tue, 17 Nov 2026 20:34:44 +0000"
+      "url": "https://time.mk/c/90f4936714/eden-programski-jazik-ja-krena-juzna-koreja-na-noze-dali-svetskata-digitalna-ekonomija-e-premnogu-ranliva.html",
+      "image": "http://pari.com.mk/wp-content/uploads/2026/11/JavaScript-Powers-the-Global-Economy.png",
+      "date": "Wed, 18 Nov 2026 09:50:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Прочитајте ја изјавата на Џенсен Хуанг во која тој нуди да се врати во „Енвидија“ | Bloomberg Adria",
+      "title": "Честите измени на Уставот, особено оние наметнати однадвор, ја ослабуваат неговата улога како највисок правен акт, истакна Сиљановска-Давкова | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/73ed40dae2/procitajte-ja-izjavata-na-dzensen-huang-vo-koja-toj-nudi-da-se-vrati-vo-envidija.html",
-      "image": "https://mk.bloombergadria.com/data/images/2026-11-15/120643_dh_f.jpg?timestamp=1794870000",
-      "date": "Tue, 17 Nov 2026 18:27:04 +0000"
+      "url": "https://time.mk/c/f5518944e9/cestite-izmeni-na-ustavot-osobeno-onie-nametnati-odnadvor-ja-oslabuvaat-negovata-uloga-kako-najvisok-praven-akt-istakna-siljanovska-davkova.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/88018/conversions/text-max.jpg",
+      "date": "Wed, 18 Nov 2026 08:38:39 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "СРБИЈА ДОБИ НОВ СОБРАНИСКИ СОСТАВ, ЖЕСТОКА ОПОЗИЦИЈА, НО НЕ И СПИКЕР Бурен прв ден во работата на српскиот парламент | +инфо",
+      "title": "Собранието ќе ги продолжи прекинатите опозициски пратенички прашања | Независен",
       "description": "",
-      "url": "https://time.mk/c/2a5760ea7f/srbija-dobi-nov-sobraniski-sostav-zestoka-opozicija-no-ne-i-spiker-buren-prv-den-vo-rabotata-na-srpskiot-parlament.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2026/11/parlament-srbija.jpg",
-      "date": "Tue, 17 Nov 2026 22:54:42 +0000"
+      "url": "https://time.mk/c/7b37467ad7/sobranieto-ke-gi-prodolzi-prekinatite-opoziciski-pratenicki-prasanja.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2026/11/Sobranie-sednica-za-rebalans-na-budzetot-SDSM-1-bg.jpg",
+      "date": "Wed, 18 Nov 2026 06:18:36 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Бесплатно кај матичен, до 5.700 денари приватно – колку чини гинеколошки преглед во Македонија? | Трн",
+      "title": "Симеон Сакскобурготски порача историските теми да им се препуштат на историчарите, а С. Македонија да влезе во ЕУ | Deutsche Welle",
       "description": "",
-      "url": "https://time.mk/c/6e19a236a8/besplatno-kaj-maticen-do-5-700-denari-privatno-kolku-cini-ginekoloski-pregled-vo-makedonija.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/03/hpv-virus-hpv-virus.jpg",
-      "date": "Tue, 17 Nov 2026 18:13:00 +0000"
+      "url": "https://time.mk/c/de29d13aa3/simeon-sakskoburgotski-poraca-istoriskite-temi-da-im-se-prepustat-na-istoricarite-a-s-makedonija-da-vleze-vo-eu.html",
+      "image": "https://static.dw.com/image/16245303_301.jpg",
+      "date": "Wed, 18 Nov 2026 09:22:42 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Ризикот од терористички напади во земјава е низок, иако секогаш постои опасност од „волци самотници“ – вели директорот на АНБ | Фокус",
+      "title": "НЕПОВОЛЕН ТРЕНД НА ОТКУПОТ ВО ЗЕМЈОДЕЛСТВОТО Во третиот квартал вредноста на вкупниот откуп изнесува 76,3 милиони евра | +инфо",
       "description": "",
-      "url": "https://time.mk/c/7d13d4268e/rizikot-od-teroristicki-napadi-vo-zemjava-e-nizok-iako-sekogas-postoi-opasnost-od-volci-samotnici-veli-direktorot-na-anb.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/11/3-7.png",
-      "date": "Tue, 17 Nov 2026 16:14:46 +0000"
+      "url": "https://time.mk/c/a1c758ba98/nepovolen-trend-na-otkupot-vo-zemjodelstvoto-vo-tretiot-kvartal-vrednosta-na-vkupniot-otkup-iznesuva-76-3-milioni-evra.html",
+      "image": "https://plusinfo.mk/wp-content/uploads/2022/04/278579164_655739019062315_7857251971088990795_n.jpg",
+      "date": "Wed, 18 Nov 2026 09:52:47 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Македонија извезува повеќе зеленчук за помалку пари, што се случува со земјоделството? | Трн",
+      "title": "Се трошат сè повеќе дрва: продажбата расте од година во година | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/020efe2dab/makedonija-izvezuva-poveke-zelencuk-za-pomalku-pari-sto-se-slucuva-so-zemjodelstvoto.html",
-      "image": "https://trn.mk/wp-content/uploads/2023/09/zemjodelie-2.jpg",
-      "date": "Tue, 17 Nov 2026 17:52:52 +0000"
+      "url": "https://time.mk/c/d606d85d60/se-trosat-se-poveke-drva-prodazbata-raste-od-godina-vo-godina.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2022/12/IMG_20221111_132916-300x170.jpg",
+      "date": "Wed, 18 Nov 2026 10:02:49 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Николоски предупредува: Пречките за извоз ја загрозуваат исплатливоста на зелените инвестиции | Пари",
+      "title": "ВИДЕО | Цанов објави нови пораки од Ива Михајлова: „Сите ќе умреме уште вечерва“ – барала да го повлече видеото за наводните притисоци од ДАНС | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/73deddbae1/nikoloski-predupreduva-preckite-za-izvoz-ja-zagrozuvaat-isplatlivosta-na-zelenite-investicii.html",
-      "image": "https://panoptikum.mk/wp-content/uploads/eu-i-kamiondhiite-problem-shto-ne-se-saka-da-se-reshi.webp",
-      "date": "Tue, 17 Nov 2026 09:52:44 +0000"
+      "url": "https://time.mk/c/e6030ceba2/video-canov-objavi-novi-poraki-od-iva-mihajlova-site-ke-umreme-uste-vecerva-barala-da-go-povlece-videoto-za-navodnite-pritisoci-od-dans.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/08/krsto-vracev-bugarija-sudenje-1-300x225.jpg",
+      "date": "Wed, 18 Nov 2026 08:28:44 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Мосад им помогнал на Македонија и на Грција да го спречат иранскиот заговор за атентат, тврдат извори во Израел | Слободен Печат",
+      "title": "Радовановиќ за поливањето на Лидија Вукиќевиќ со јогурт: Не требаше да го направам тоа, „Студентската листа“ нема никаква врска со моите постапки | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/97da3fda30/mosad-im-pomognal-na-makedonija-i-na-grcija-da-go-sprecat-iranskiot-zagovor-za-atentat-tvrdat-izvori-vo-izrael.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2024/09/izrael-mosad-2-830x553-1-300x200.jpg",
-      "date": "Tue, 17 Nov 2026 20:54:38 +0000"
+      "url": "https://time.mk/c/94789a1197/radovanovik-za-polivanjeto-na-lidija-vukikevik-so-jogurt-ne-trebase-da-go-napravam-toa-studentskata-lista-nema-nikakva-vrska-so-moite-postapki.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/11/lidija-vukik-video.png",
+      "date": "Wed, 18 Nov 2026 09:00:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Вучиќ до Студентската листа: Ужасно ми е што победивте, на граѓаните можете да им понудите само јогурт и омраза | Макфакс",
+      "title": "📽️ СИ ЏИНПИНГ ЈА СКРШИ ТРАДИЦИЈАТА САМО ЗА ТРАМП „Стариот пријател“ Путин бил пречекан од шефот на кабинетот | +инфо",
       "description": "",
-      "url": "https://time.mk/c/878fceafc3/vucik-do-studentskata-lista-uzasno-mi-e-sto-pobedivte-na-gragjanite-mozete-da-im-ponudite-samo-jogurt-i-omraza.html",
-      "image": "https://makfax.com.mk/wp-content/uploads/2026/09/aleksandar-vuchich-foto-soopshtenie-mk-vlada-.webp",
-      "date": "Tue, 17 Nov 2026 16:01:03 +0000"
+      "url": "https://time.mk/c/4c18613d0b/si-dzinping-ja-skrsi-tradicijata-samo-za-tramp-stariot-prijatel-putin-bil-precekan-od-sefot-na-kabinetot.html",
+      "image": "https://plusinfo.mk/wp-content/uploads/2026/11/trramp-si.jpg",
+      "date": "Wed, 18 Nov 2026 09:58:44 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Како Украина го погоди Кримскиот мост, симболот на владеењето на Путин | Независен",
+      "title": "Рекордни приходи, но без враќање на Хуанг: Одборот на „Енвидија“ ја затвори вратата за поранешниот шеф | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/4618f7c866/kako-ukraina-go-pogodi-krimskiot-most-simbolot-na-vladeenjeto-na-putin.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/11/Krimski-most-1024x1024.jpg",
-      "date": "Tue, 17 Nov 2026 19:42:52 +0000"
+      "url": "https://time.mk/c/4af57fd0be/rekordni-prihodi-no-bez-vrakanje-na-huang-odborot-na-envidija-ja-zatvori-vratata-za-poranesniot-sef.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2025/08/13188244-300x200.jpg",
+      "date": "Wed, 18 Nov 2026 09:05:04 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "САД нападнаа остров во Ормускиот Теснец како одмазда за „агресијата“ на Иран | Слободен Печат",
+      "title": "Орце со видео по една година мандат: „Кога се сака градот и народот, се наоѓа пат” | Press24",
       "description": "",
-      "url": "https://time.mk/c/4b8a9b564a/sad-napadnaa-ostrov-vo-ormuskiot-tesnec-kako-odmazda-za-agresijata-na-iran.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2020/01/h_55750418-300x173.jpg",
-      "date": "Tue, 17 Nov 2026 22:58:37 +0000"
+      "url": "https://time.mk/c/eb7955b23d/orce-so-video-po-edna-godina-mandat-koga-se-saka-gradot-i-narodot-se-naogja-pat.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/83990.jpg",
+      "date": "Wed, 18 Nov 2026 09:56:54 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Новите бели дробови на Скопје – Ѓорѓиевски најави мегапарк на Вардариште | 360 степени",
+      "title": "Општина Илинден: Нова хоризонтална и вертикална сообраќајна сигнализација на повеќе локации | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/9b329e8794/novite-beli-drobovi-na-skopje-gjorgjievski-najavi-megapark-na-vardariste.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/11/Screenshot-2026-11-17-at-21-29-26-Gorgievski-Skopje-gi-konsolidira-finansiite-realizira-kapitalni-proekti-i-ja-zajaknuva-infrastrukturata.png",
-      "date": "Tue, 17 Nov 2026 21:34:36 +0000"
+      "url": "https://time.mk/c/1d9927e45c/opstina-ilinden-nova-horizontalna-i-vertikalna-soobrakajna-signalizacija-na-poveke-lokacii.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/11/opstina-ilinden-signalizacija-2-1.webp",
+      "date": "Wed, 18 Nov 2026 10:10:46 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Два нови полначи за електрични возила во Ѓорче Петров: CoMoCo претстави модел за развој на локална е-мобилност | Точка",
+      "title": "Открила што чувал нејзиниот покоен дедо во домот – Скопјанка веднаш се јавила во полиција | Press24",
       "description": "",
-      "url": "https://time.mk/c/0e4dad38c8/dva-novi-polnaci-za-elektricni-vozila-vo-gjorce-petrov-comoco-pretstavi-model-za-razvoj-na-lokalna-e-mobilnost.html",
-      "image": "https://tocka.com.mk/images/content/golemi/2026-11/p6yt0-20261116-134256.jpg",
-      "date": "Tue, 17 Nov 2026 15:44:58 +0000"
+      "url": "https://time.mk/c/f2d7407b14/otkrila-sto-cuval-nejziniot-pokoen-dedo-vo-domot-skopjanka-vednas-se-javila-vo-policija.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/83929.png",
+      "date": "Wed, 18 Nov 2026 07:36:43 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Полицијата приведе вработен во ДЗС поради сомнение дека примил мито | Фактор",
+      "title": "Инцидент на Бит Пазар | Press24",
       "description": "",
-      "url": "https://time.mk/c/20dbded680/policijata-privede-vraboten-vo-dzs-poradi-somnenie-deka-primil-mito.html",
-      "image": "https://faktor.mk/media/main/2025/08/20250805185719.jpg",
-      "date": "Tue, 17 Nov 2026 16:36:59 +0000"
+      "url": "https://time.mk/c/133c754f4c/incident-na-bit-pazar.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/83927.jpg",
+      "date": "Wed, 18 Nov 2026 07:32:50 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВИДЕО | Александар Јанев најави санкции за полицајци што незаконски постапуваат по пријави за семејно насилство | Слободен Печат",
+      "title": "Денеска се празнуваат двајца светители – Нивната приказна крие силна порака | Press24",
       "description": "",
-      "url": "https://time.mk/c/d4e656671a/video-aleksandar-janev-najavi-sankcii-za-policajci-sto-nezakonski-postapuvaat-po-prijavi-za-semejno-nasilstvo.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/11/M79_5116-300x200.jpg",
-      "date": "Tue, 17 Nov 2026 13:24:43 +0000"
+      "url": "https://time.mk/c/e0ddb23e1e/deneska-se-praznuvaat-dvajca-svetiteli-nivnata-prikazna-krie-silna-poraka.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/83931.jpg",
+      "date": "Wed, 18 Nov 2026 07:52:43 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ДЕБАКЛ НА ПРОТЕСТОТ НА СДСМ ВО ОХРИД – ЕДВАЈ СТОТИНА ПРИСУТНИ, ПОЛОВИНА ДОЈДЕНИ СО АВТОБУС ОД КИЧЕВО | Охрид1",
+      "title": "Три стружанки меѓу 140 најдобри во „Средношколец Милионер“ – повик за поддршка и гласање | Охрид1",
       "description": "",
-      "url": "https://time.mk/c/56f46b60f4/debakl-na-protestot-na-sdsm-vo-ohrid-edvaj-stotina-prisutni-polovina-dojdeni-so-avtobus-od-kicevo.html",
-      "image": "https://ohrid1.com/wp-content/uploads/2026/11/protest-750x460.jpg",
-      "date": "Tue, 17 Nov 2026 20:17:06 +0000"
+      "url": "https://time.mk/c/ed00f1c35a/tri-struzanki-megju-140-najdobri-vo-srednoskolec-milioner-povik-za-poddrska-i-glasanje.html",
+      "image": "https://ohrid1.com/wp-content/uploads/2026/11/milioner-750x460.jpg",
+      "date": "Wed, 18 Nov 2026 09:46:39 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "БЕЗ ВОДА ЗА ПИЕЊЕ ДВА ДЕНА Е ПОЛА ШТИП | Сакам да кажам",
+      "title": "Од Атина до Скопје – титулата што може да го промени градот | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/6642f81b2e/bez-voda-za-pienje-dva-dena-e-pola-stip.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/11/RIDARSKA-CHESHMA.jpg",
-      "date": "Tue, 17 Nov 2026 18:44:53 +0000"
+      "url": "https://time.mk/c/75d6cd0776/od-atina-do-skopje-titulata-sto-moze-da-go-promeni-gradot.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/11/Skopje-panorama.jpg",
+      "date": "Wed, 18 Nov 2026 08:40:46 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "РОДИТЕЛИТЕ И ПУБЛИКАТА МИ ДАДОА ВЕРБА ВО СЕБЕ И ВО МОЈАТА УМЕТНОСТ, РЕЧЕ ДИТА СТАРОВА-ЌЕРИМИ ЗА ИЗЛОЖБАТА ВО ЧИФТЕ АМАМ | Сакам да кажам",
+      "title": "Виктор Спасески ја претставува Македонија на претстојниот Европски шампионат во слем-поезија | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/76c0773c90/roditelite-i-publikata-mi-dadoa-verba-vo-sebe-i-vo-mojata-umetnost-rece-dita-starova-kerimi-za-izlozbata-vo-cifte-amam.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/11/dita-starova-izlozba-2026.jpg",
-      "date": "Tue, 17 Nov 2026 12:52:59 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Монументалното дело „Тешкото“ на Никола Мартиноски е реставрирано од студенти на Факултетот за ликовни уметности | Слободен Печат",
-      "description": "",
-      "url": "https://time.mk/c/d3ceb496ba/monumentalnoto-delo-teskoto-na-nikola-martinoski-e-restavrirano-od-studenti-na-fakultetot-za-likovni-umetnosti.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/11/906173395_1725944922650591_7733652207176998261_n-300x163.jpg",
-      "date": "Tue, 17 Nov 2026 16:12:58 +0000"
+      "url": "https://time.mk/c/f181441783/viktor-spaseski-ja-pretstavuva-makedonija-na-pretstojniot-evropski-sampionat-vo-slem-poezija.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/11/viktor-spaseski-poezija-18.11.26.webp",
+      "date": "Wed, 18 Nov 2026 08:54:39 +0000"
     }
   ],
   "de": [
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Korbuino: KI findet Supermarktangebote auf Zuruf",
+      "description": "Wo gibt’s Energy-Drinks im Angebot? Korbuino findet die besten Preise per Sprache – mit Hermes, Conduit und Home Assistant Voice. Der Artikel Korbuino: KI findet Supermarktangebote auf Zuruf erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/softwareentwicklung/korbuino-supermarktangebote-per-sprache-336015.html",
+      "image": "https://cdn.tarnkappe.info/wp-content/uploads/Korbuino-November-Artikelbild.png",
+      "date": "Wed, 18 Nov 2026 07:41:23 +0000"
+    },
     {
       "category": "de",
       "source": "Tarnkappe",
@@ -443,15 +452,6 @@
       "url": "https://tarnkappe.info/artikel/e-books/books3-ex-meta-forscher-torrent-raubkopien-geloescht-334772.html",
       "image": "https://cdn.tarnkappe.info/wpimg/books3-ex-meta-forscher-torrent-raubkopien-geloescht",
       "date": "Mon, 02 Nov 2026 17:04:27 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "HiAnime: Millionen mit Raubkopien kassiert – sieben Beteiligte angeklagt",
-      "description": "HiAnime: Sieben Beschuldigte sollen mit Anime- und Film-Piraterie 12,85 Mio. US-Dollar verdient haben. Jetzt folgt die Anklage in Vietnam. Der Artikel HiAnime: Millionen mit Raubkopien kassiert – sieben Beteiligte angeklagt erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/streaming/hianime-millionen-raubkopien-sieben-beteiligte-angeklagt-334763.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/hianime-millionen-raubkopien-sieben-beteiligte-angeklagt",
-      "date": "Sun, 01 Nov 2026 14:31:59 +0000"
     }
   ],
   "eng": [
@@ -638,6 +638,15 @@
     {
       "category": "eng",
       "source": "PCWorld",
+      "title": "For the next 4 days, Windows 11 Pro is only $10",
+      "description": "TL;DR: Get a Windows 11 Pro lifetime license for $9.97 (reg. $199). Windows 10’s extended updates are security patches only, with no new features, no general bug fixes, and no tech support. If you want a fully supported OS instead, try a Windows 11 Pro lifetime license , on sale for $9.97 (reg. $199) through Nov. 22. Windows 11 Pro comes with upgrades both to core features like security, along with a lot of improvements for basic functionality. BitLocker encrypts your entire drive, so anyone who",
+      "url": "https://www.pcworld.com/article/3285361/for-the-next-4-days-windows-11-pro-is-only-10.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3285361-0-27959100-1794988830-Windows-11-Pro-1.jpg?quality=50&strip=all",
+      "date": "Wed, 18 Nov 2026 08:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
       "title": "Best PC computer deals: Top picks from desktops to all-in-ones",
       "description": "At a glance Top gaming desktop computer deals ABS Cyclone Aqua —$965 (20% off on Walmart) CyberPowerPC Gamer Supreme —$1,349 (24% off at Walmart) Asus ROG G700 —$1,800 (10% off on Walmart) Top mini PC deals Bosgame E5 —$210 (42% off on Amazon) Kamrui H1 —$469 (16% off on Kamrui) Kamrui P2 —$569 (39% off on Amazon) Top all-in-one desktop computer deals Lenovo IdeaCentre 24 AiO —$650 (19% off on Amazon) HP OmniStudio 24 —$700 (36% off on Amazon) Lenovo Yoga AIO 27 —$1,100 (44% off on Lenovo) Wheth",
       "url": "https://www.pcworld.com/article/813362/best-pc-computer-deals.html",
@@ -715,15 +724,6 @@
       "url": "https://www.pcworld.com/article/3288213/microsofts-outlook-outage-is-over-the-scams-arent.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3288213-0-39540000-1794929638-4_3b5394.png",
       "date": "Tue, 17 Nov 2026 15:32:38 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Is Chrome being sluggish? Tweak this setting for a quick fix",
-      "description": "Google’s web browser is very popular with users. However, the product obviously becomes sluggish when many tabs or windows are open. When this happens, Chrome then consumes a lot of RAM. Here’s how you can remedy this: Open the Settings menu in the top right-hand corner. Switch to the Performance section and scroll to the Memor y area. Activate the Memory Saver mode option there and then select the Maximum option. This should improve the experience when surfing the web. According to Google when ",
-      "url": "https://www.pcworld.com/article/2967851/is-chrome-being-sluggish-make-sure-to-tweak-this-key-setting.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/2967851-0-16643200-1794929428-avm5.jpg?quality=50&strip=all",
-      "date": "Tue, 17 Nov 2026 15:30:00 +0000"
     }
   ],
   "starwars": [
@@ -901,6 +901,33 @@
     {
       "category": "starwars",
       "source": "Jedi News",
+      "title": "Blast Points Podcast #505: The Force Healer from Andor – A Deep Dive",
+      "description": "Join Jason and Gabe for episode 505 of Blast Points Podcast The post Blast Points Podcast #505: The Force Healer from Andor – A Deep Dive appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/blast-points-podcast-505-the-force-healer-from-andor-a-deep-dive/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2025/01/Blast-Points-Jan25-300x201.jpg",
+      "date": "Wed, 18 Nov 2026 05:05:15 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Celebrate The Season With LEGO Star Wars | Full Special Marathon | Star Wars Kids",
+      "description": "Celebrate spooky season and festive season all in one with this LEGO Star Wars marathon featuring LEGO Star Wars: Terrifying Tales and the LEGO Star Wars: Holiday Special! You can also stream both specials on Disney+. The post Celebrate The Season With LEGO Star Wars | Full Special Marathon | Star Wars Kids appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/celebrate-the-season-with-lego-star-wars-full-special-marathon-star-wars-kids/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/maxresdefault-30-300x169.jpg",
+      "date": "Wed, 18 Nov 2026 00:18:25 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "IndyCast Special: Raiders of the Lost Ark Chapter 6",
+      "description": "Join the whip-cracking crew for an adventure-filled episode of The IndyCast. The post IndyCast Special: Raiders of the Lost Ark Chapter 6 appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/indycast-special-raiders-of-the-lost-ark-chapter-6/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2017/02/indy-cast-300x201.jpg",
+      "date": "Tue, 17 Nov 2026 23:46:12 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
       "title": "Regal Robot’s Star Wars Aliens Concept Maquettes 3 Pack Available Now",
       "description": "Regal Robot's Star Wars Aliens Concept Maquettes 3 Pack, based on the imaginative designs that never quite made it to screen but still remain part of the magic behind the scenes from Star Wars: Return of the Jedi, are available to order now (whilst stocks last). The post Regal Robot’s Star Wars Aliens Concept Maquettes 3 Pack Available Now appeared first on Jedi News .",
       "url": "https://www.jedinews.com/film-music-tv/articles/regal-robots-star-wars-aliens-concept-maquettes-3-pack-available-now/",
@@ -969,36 +996,18 @@
       "url": "https://www.jedinews.com/film-music-tv/articles/reys-iconic-lightsaber-duel-vs-kylo-ren-star-wars-the-force-awakens-official-clip/",
       "image": "https://www.jedinews.com/wp-content/uploads/2026/11/maxresdefault-28-300x169.jpg",
       "date": "Mon, 16 Nov 2026 20:04:27 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Replica Indiana Jones Grail Diary Available at the Lucas Museum of Narrative Art",
-      "description": "The Lucas Museum of Narrative Art has added a Replica Indiana Jones Grail Diary to the gift shop for $120.00. The post Replica Indiana Jones Grail Diary Available at the Lucas Museum of Narrative Art appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/collecting/articles/replica-indiana-jones-grail-diary-available-at-the-lucas-museum-of-narrative-art/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/Indiana-Jones-Diary-LM-Featured-Nov26-300x201.jpg",
-      "date": "Mon, 16 Nov 2026 19:30:32 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Ludwig Göransson Gets Grammy Nomination for Best Score Soundtrack for The Mandalorian and Grogu",
-      "description": "Congratulations to Ludwig Göransson who has been nominated at the Grammy's for Best Score Soundtrack for Visual Media (Includes Film and Television) for The Mandalorian and Grogu and The Odyssey, giving him a 40% chance of walking away with the award. The post Ludwig Göransson Gets Grammy Nomination for Best Score Soundtrack for The Mandalorian and Grogu appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/events/articles/ludwig-goransson-gets-grammy-nomination-for-best-score-soundtrack-for-the-mandalorian-and-grogu/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/The-Mandalorian-and-Grogu-Grammy-Nominee-Nov26-300x201.jpg",
-      "date": "Mon, 16 Nov 2026 18:58:00 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Tarkin’s Top Shelf #472: Star Wars 50th and Skywalker Secrets: Generational Trauma",
-      "description": "Time to revisit Tarkin's Top Shelf with episode 472 discussing all things Star Wars. The post Tarkin’s Top Shelf #472: Star Wars 50th and Skywalker Secrets: Generational Trauma appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/tarkins-top-shelf-472-star-wars-50th-and-skywalker-secrets-generational-trauma/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2018/04/tarkins-top-shelf-300x201.jpg",
-      "date": "Mon, 16 Nov 2026 17:42:42 +0000"
     }
   ],
   "youtube": [
+    {
+      "category": "youtube",
+      "source": "Hood Informatik",
+      "title": "Hacker beim BND: Wie der Staat in fremde Netze eindringt",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=j9BC12VeE1o",
+      "image": "https://i.ytimg.com/vi/j9BC12VeE1o/hqdefault.jpg",
+      "date": "2026-11-18T05:00:13+00:00"
+    },
     {
       "category": "youtube",
       "source": "Hood Informatik",
@@ -1079,15 +1088,6 @@
       "url": "https://www.youtube.com/shorts/aAOalgbf9Ww",
       "image": "https://i.ytimg.com/vi/aAOalgbf9Ww/hqdefault.jpg",
       "date": "2026-11-08T18:45:21+00:00"
-    },
-    {
-      "category": "youtube",
-      "source": "Hood Informatik",
-      "title": "Wie viele Informationen braucht man um dich zu identifizieren ?! #informatik #code #privacy #math",
-      "description": "",
-      "url": "https://www.youtube.com/shorts/sMSUvgre4x8",
-      "image": "https://i.ytimg.com/vi/sMSUvgre4x8/hqdefault.jpg",
-      "date": "2026-11-07T11:00:39+00:00"
     },
     {
       "category": "youtube",
