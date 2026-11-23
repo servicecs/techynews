@@ -1,6 +1,60 @@
 {
-  "updated": "2026-11-23T02:58:25.991300+00:00",
+  "updated": "2026-11-23T12:12:08.195307+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Gemini сега прави кратки „GIF“ анимации од текст, фотографии и видео во осум земји",
+      "description": "Google додаде правење „GIF“ анимации во апликацијата Gemini. Наместо да барате соодветен „GIF“ за порака или објава, сега може да опишете што сакате, а Gemini сам ќе ја направи анимацијата. Компанијата новоста ја најави на X на 20 ноември, со примери како ефекти врз фотографии и мемиња. Анимациите ги прави Gemini Omni 1.2 Flash, кој […]",
+      "url": "https://smartportal.mk/novosti/ai/gemini-kratki-gif-animacii/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/gemini-gif-150x150.webp",
+      "date": "Mon, 23 Nov 2026 11:56:31 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Helium доби трајни закачени „табови“ кои се исти во сите прозорци, слично како кај Arc",
+      "description": "Helium, прелистувачот со отворен код направен на основа на Chromium, ја доби верзијата 0.22.2.1, а најголемата новост се трајните закачени „табови“ („pinned tabs“). Досега секој прозорец имаше свои закачени табови, а според описот на промената на GitHub сега тие се заеднички за сите прозорци во профилот и остануваат и по рестартирање. Постарите закачени табови од […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/helium-trajni-tabovi/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/helium-website-embed-150x150.webp",
+      "date": "Mon, 23 Nov 2026 10:47:21 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "NotProton ги носи Windows игрите од Steam на Mac компјутерите, но бара платен CrossOver",
+      "description": "Steam за Mac обично не дозволува инсталирање игри што имаат само Windows верзија, иако на Linux истото тоа со години го прави Steam Play, односно Valve технологијата Proton. NotProton е нова алатка со отворен код што оваа можност ја носи и на Mac компјутерите. Според авторот, Steam Play веќе постои во Steam за macOS, но […]",
+      "url": "https://smartportal.mk/novosti/gejming/notproton-macos/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/unreal-engine-game-creating-software-Depositphotos_457815464_XL-150x150.webp",
+      "date": "Mon, 23 Nov 2026 10:34:02 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Google од јануари почнува да ја воведува верификацијата на Android програмерите во сите земји",
+      "description": "Google ги објави плановите за глобално проширување на верификацијата на програмерите за Android, која ја најави минатата година. Според објавата на компанијата, воведувањето во сите земји ќе почне во јануари 2027 година, а заштитата постепено ќе се шири „во текот на неколку месеци“ и ќе ги опфати сите извори за инсталација на сертифицираните Android уреди. […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/google-januari-pocnuva-verifikacija-android-programeri/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/february-18-2020-brazil-in-Depositphotos_345565432_XL-150x150.webp",
+      "date": "Mon, 23 Nov 2026 10:09:39 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Career & Inclusion Expo 2026 — кариерен саем и панел-дискусија за препознавање на потенцијалот на младите",
+      "description": "На 26 ноември во Лабораториум, Скопје, ќе се одржи Career & Inclusion Expo 2026 настан што ги поврзува младите со работодавачи, HR професионалци и кариерни советници и отвора дискусија за препознавањето на потенцијалот во образованието и на работното место. Под пораката „Different Minds. Valuable Skills.“, програмата обединува панел со лични искуства и професионални перспективи, како […]",
+      "url": "https://smartportal.mk/novosti/nastani/career-inclusion-expo-2026/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/Career-Inclusion-Expo-2026-photo-150x150.webp",
+      "date": "Mon, 23 Nov 2026 09:53:10 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Mozilla отвори телефонска линија за поплаки против Microsoft поради наметнувањето на Edge во Windows",
+      "description": "Mozilla со рекламна кампања ги „презеде“ улиците околу Moscone Center во Сан Франциско, каде Microsoft ја одржува Ignite, својата најголема конференција за годината. Рекламите се во стилот на оние на адвокатите за надомест на штета, а ги повикуваат луѓето да се јават на телефонската линија 1-855-25-FIREFOX и да остават порака за тоа што мислат за […]",
+      "url": "https://smartportal.mk/novosti/kompanii-institucii/mozilla-telefonska-linija-poplaki-protiv-microsoft/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/Taxi-Top-Mock_.png-150x150.webp",
+      "date": "Mon, 23 Nov 2026 09:30:05 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -39,237 +93,183 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Новогодишна кампања на Телеком: „Времето лета. Направете место за вистинско поврзување“",
-      "description": "Новогодишните празници ги собираат луѓето на едно место, но самото собирање не секогаш значи дека сме вистински присутни еден за друг. Во свет што брзо се движи и е преполн со работи што ни го одвлекуваат фокусот, времето и вниманието можат да бидат меѓу највредните подароци што ги даваме. Новогодишната кампања на Телеком, „Времето лета. Направете […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/novogodisna-kampanja-na-telekom-2026/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/800x500_MK-150x150.webp",
-      "date": "Fri, 20 Nov 2026 12:52:51 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "DevFest Skopje 2026: Девет меѓународни и домашни експерти ќе зборуваат за иднината на „AI“ агентите",
-      "description": "На 28 ноември, во InnoX Innovation Center во Скопје, ќе се одржи DevFest Skopje 2026, еднодневна технолошка конференција посветена на вештачката интелигенција, AI агентите и нивната практична примена. Во организација на Google Developer Groups (GDG) Skopje, настанот ќе обедини околу 100 професионалци, инженери, програмери, студенти и технолошки ентузијасти, со цел размена на знаења, практични искуства […]",
-      "url": "https://smartportal.mk/novosti/nastani/devfest-skopje-2026/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/DevFest-Skopje-2026-Banner-150x150.webp",
-      "date": "Fri, 20 Nov 2026 12:45:56 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Алтернативниот стрип-магазин „Тешка Машинерија“ со ново, четврто издание во „Цреша бар“",
-      "description": "Во петок, на 21 ноември 2026 година, со почеток во 19:00 часот, во „Цреша бар“ ќе се одржи официјалната промоција на четвртото издание на алтернативниот стрип-магазин „Тешка Машинерија“. Ова е втора година како магазинот излегува од независни средства, бележејќи импресивен раст, од мал фанзин од 16 страници, првпат промовиран на Стрип-трип фестивалот во Скопје во […]",
-      "url": "https://smartportal.mk/novosti/interesno/strip-magazin-teska-masinerija-cetvrto-izdanie/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/d0783805-617f-49b1-8a8b-39bf6fb4434e-150x150.webp",
-      "date": "Fri, 20 Nov 2026 12:37:49 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Docker го смени брендот и логото, а во фокусот сега е безбедното извршување на „AI“ агентите",
-      "description": "Docker, компанијата што ги направи „контејнерите“ стандардна алатка за програмерите, вчера официјално го претстави својот нов бренд. Промената ја објави директорката за маркетинг Тери Авнаим, која објасни дека Docker веќе не сака да биде дефиниран само преку контејнерите, туку преку безбедното извршување на „AI“ агентите. Според Авнаим, вештачката интелигенција ја става индустријата пред прашањето како […]",
-      "url": "https://smartportal.mk/novosti/softver-prog/docker-promena-brend-i-logo/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/blog-frame-2320x957-1-150x150.webp",
-      "date": "Fri, 20 Nov 2026 12:13:55 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Леталото Hera го сними одблиску астероидот во чија месечина NASA намерно удри во 2022 година",
-      "description": "Леталото Hera на Европската вселенска агенција (ESA), по двегодишен лет, скоро пристигна до двојниот астероид Didymos и неговата мала месечина Dimorphos. Во Dimorphos во 2022 година намерно удри леталото DART на NASA, во првиот тест за одбрана на Земјата од астероид, а Hera треба да го истражи местото на ударот. ESA на 12 ноември објави […]",
-      "url": "https://smartportal.mk/novosti/nauka-istrazuvanja/hera-snimki-asteroid-nasa-namerno-udri-2022/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/Hera_approaches_Dimorphos-150x150.webp",
-      "date": "Fri, 20 Nov 2026 11:30:14 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Signal ќе ги ограничи „AI“ асистентите да читаат пораки на iPhone и дел од Android телефоните",
-      "description": "Signal најави дека ќе ги ограничи „AI“ агентите вградени во iOS 27 и Android да ги снимаат и чуваат пораките од апликацијата. Мерката е слична на онаа од минатата година, кога Signal во основните поставки го блокираше снимањето на екранот на Windows 11 за Recall да не може да зачувува слики од разговорите. Според објавата […]",
-      "url": "https://smartportal.mk/novosti/softver-prog/signal-zastita-od-ai/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/protecting-your-privacy-header-150x150.webp",
-      "date": "Fri, 20 Nov 2026 11:15:35 +0000"
+      "source": "Time.mk - All",
+      "title": "Тошковски: Безбедноста на новинарите е предуслов за слободни медиуми – формиран Националниот комитет за заштита и безбедност на новинарите | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/6d5f30035f/toskovski-bezbednosta-na-novinarite-e-preduslov-za-slobodni-mediumi-formiran-nacionalniot-komitet-za-zastita-i-bezbednost-na-novinarite.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/11/5-2.webp",
+      "date": "Mon, 23 Nov 2026 12:00:36 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ПРЕМИЕРИТЕ МИЦКОСКИ И РАМА ГО ПУШТИЈА ВО УПОТРЕБА СИСТЕМОТ „ЕДНО ЗАСТАНУВАЊЕ“ НА ГРАНИЧНИОТ ПРЕМИН ЌАФАСАН: Со верување и проверување, Македонија и Албанија направија нов исчекор кон ЕУ | Вечер Прес",
+      "title": "„Честитки, драг мој Тимчо“: Грчкиот министер со пофалби за напредокот на Македонија кон ЕУ | Press24",
       "description": "",
-      "url": "https://time.mk/c/20357a04b5/premierite-mickoski-i-rama-go-pustija-vo-upotreba-sistemot-edno-zastanuvanje-na-granicniot-premin-kafasan-so-veruvanje-i-proveruvanje-makedonija-i-albanija-napravija-nov-iscekor-kon-eu.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/11/mickoski-i-edi-rama01-e1795357286424.jpg",
-      "date": "Sun, 22 Nov 2026 14:28:41 +0000"
+      "url": "https://time.mk/c/9ff19ff991/cestitki-drag-moj-timco-grckiot-minister-so-pofalbi-za-napredokot-na-makedonija-kon-eu.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/84848.png",
+      "date": "Mon, 23 Nov 2026 10:50:27 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Велковски: Не се укинува вториот пензиски столб, одредбата за придонесот од шест отсто се префрла во друг закон | 360 степени",
+      "title": "Македонија речиси една година е без нова Стратегија за борба против корупцијата, документот е заглавен во Собранието | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/77c1eaf2bc/velkovski-ne-se-ukinuva-vtoriot-penziski-stolb-odredbata-za-pridonesot-od-sest-otsto-se-prefrla-vo-drug-zakon.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/11/Gjoko-Velkovski.jpg",
-      "date": "Sun, 22 Nov 2026 20:46:21 +0000"
+      "url": "https://time.mk/c/1553b5896d/makedonija-recisi-edna-godina-e-bez-nova-strategija-za-borba-protiv-korupcijata-dokumentot-e-zaglaven-vo-sobranieto.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/11/platforma-na-go-za-bpk-i-sobranie-kolaz.jpg",
+      "date": "Mon, 23 Nov 2026 10:40:24 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Еди Рама објави „фото на денот“ од Битола | Колегиум",
+      "title": "Студентите сакаат повеќе пари за оброк — бараат да плаќаат со картичка и власта да не ги ограничува каде да јадат | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/e8c02e7670/edi-rama-objavi-foto-na-denot-od-bitola.html",
-      "image": "https://kolegium.mk/wp-content/uploads/2026/11/edi-rama-bitola-muzej-300x200.jpg",
-      "date": "Sun, 22 Nov 2026 21:20:28 +0000"
+      "url": "https://time.mk/c/729e9fb119/studentite-sakaat-poveke-pari-za-obrok-baraat-da-plakaat-so-karticka-i-vlasta-da-ne-gi-ogranicuva-kade-da-jadat.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/09/M79_9742-300x200.jpg",
+      "date": "Mon, 23 Nov 2026 11:52:28 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Ве повикувам на дебата, во мене имате соговорник и соработник – им порача Мицкоски на младите што протестираат против насилството врз жените | 360 степени",
+      "title": "Минчев: Новиот ЗОРОДУ поставува јасни правила за надлежностите и одговорноста на органите на државната управа | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/d195dc370c/ve-povikuvam-na-debata-vo-mene-imate-sogovornik-i-sorabotnik-im-poraca-mickoski-na-mladite-sto-protestiraat-protiv-nasilstvoto-vrz-zenite.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/11/foto-6-1.jpg",
-      "date": "Sun, 22 Nov 2026 19:28:25 +0000"
+      "url": "https://time.mk/c/24f91137f1/mincev-noviot-zorodu-postavuva-jasni-pravila-za-nadleznostite-i-odgovornosta-na-organite-na-drzavnata-uprava.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/11/img_7012.webp",
+      "date": "Mon, 23 Nov 2026 11:44:22 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Делегација на МПЦ-ОА на роденден кај рускиот патријарх Кирил кој автокефалноста на МПЦ-ОА ја оценил за законска | 24 Вести",
+      "title": "ЛДП: Ни срам, ни перде – ВМРО-ДПМНЕ двапати ги одби електронските алки, а денес говори со грижа за жените | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/7d81bc975d/delegacija-na-mpc-oa-na-rodenden-kaj-ruskiot-patrijarh-kiril-koj-avtokefalnosta-na-mpc-oa-ja-ocenil-za-zakonska.html",
-      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1795360551/klccwwl21btdfp2mt3fc.jpg",
-      "date": "Sun, 22 Nov 2026 15:56:24 +0000"
+      "url": "https://time.mk/c/2c018ceecd/ldp-ni-sram-ni-perde-vmro-dpmne-dvapati-gi-odbi-elektronskite-alki-a-denes-govori-so-griza-za-zenite.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/11/monika-zajkova-ldp-soopts.webp",
+      "date": "Mon, 23 Nov 2026 10:20:33 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "На Мицкоски му требаа повеќе од две години за да се „шокира“ од насилството врз жените | Рацин",
+      "title": "На полноќ бензините поевтинуваат по 2 денари, дизелот 3.5 денари | CARClub",
       "description": "",
-      "url": "https://time.mk/c/81ae1e7e91/na-mickoski-mu-trebaa-poveke-od-dve-godini-za-da-se-sokira-od-nasilstvoto-vrz-zenite.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/11/miczkoski-848x475.jpg?x39941",
-      "date": "Sun, 22 Nov 2026 20:12:25 +0000"
+      "url": "https://time.mk/c/4ca192eca6/na-polnok-benzinite-poevtinuvaat-po-2-denari-dizelot-3-5-denari.html",
+      "image": "https://www.carclub.mk/wp-content/uploads/2019/05/makpetrol-pumpa-kumanovo1-300x177.jpg",
+      "date": "Mon, 23 Nov 2026 11:54:37 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Германија ја преполовува квотата за работници од Балканот, засегнати илјадници Македонци | Bloomberg Adria",
+      "title": "Како ќе ги натера Мицкоски газдите да им продаваат станови под пазарна цена на младите? | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/0f032908de/germanija-ja-prepolovuva-kvotata-za-rabotnici-od-balkanot-zasegnati-iljadnici-makedonci.html",
-      "image": "https://mk.bloombergadria.com/data/images/2025-10-27/93832_germanija-biznis-klima_f.jpg?timestamp=1795302000",
-      "date": "Sun, 22 Nov 2026 11:56:53 +0000"
+      "url": "https://time.mk/c/f588e3bd0d/kako-ke-gi-natera-mickoski-gazdite-da-im-prodavaat-stanovi-pod-pazarna-cena-na-mladite.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/03/Zgradi-stanovi-7-300x200.jpg",
+      "date": "Mon, 23 Nov 2026 12:06:56 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "„МојДДВ“ повторно работи: Граѓаните можат да продолжат со скенирање сметки | Фактор",
+      "title": "Кои се потенцијалните кандидати за претседател на Србија? | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/0626458ae9/mojddv-povtorno-raboti-gragjanite-mozat-da-prodolzat-so-skeniranje-smetki.html",
-      "image": "https://faktor.mk/media/main/2022/05/20220519144527.jpg",
-      "date": "Sun, 22 Nov 2026 15:12:24 +0000"
+      "url": "https://time.mk/c/4ecfc09859/koi-se-potencijalnite-kandidati-za-pretsedatel-na-srbija.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/11/izbori-srbijaa-epa-okt26-1-1.jpg",
+      "date": "Mon, 23 Nov 2026 11:56:39 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "СДС: Кумот и синот на Милорад Додик ќе управуваат со Република Српска – вакво нешто постои само во Северна Кореја | Вечер Прес",
+      "title": "Кос од Атина: Проширувањето повторно е приоритет на целата Европска Унија | Независен",
       "description": "",
-      "url": "https://time.mk/c/dbe70b3629/sds-kumot-i-sinot-na-milorad-dodik-ke-upravuvaat-so-republika-srpska-vakvo-nesto-postoi-samo-vo-severna-koreja.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/11/republika_srpska_administrativni_centar.jpg",
-      "date": "Sun, 22 Nov 2026 20:08:18 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "СПАСЕН СРПСКИ АЛПИНИСТ КОЈ ПАДНАЛ ОД КАРПА И ВИСЕЛ НА ЈАЖЕ ВО КАЊОНОТ НА ВАРДАР КАЈ ДЕМИР КАПИЈА | Сакам да кажам",
-      "description": "",
-      "url": "https://time.mk/c/9df6772cb6/spasen-srpski-alpinist-koj-padnal-od-karpa-i-visel-na-jaze-vo-kanjonot-na-vardar-kaj-demir-kapija.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/11/spasuvawe-pad-od-karpa-22.11.2026a.jpg",
-      "date": "Sun, 22 Nov 2026 10:12:21 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Од руската корвета во Бенгази се гледа само прамецот, вечерва е погоден и трговски брод | Точка",
-      "description": "",
-      "url": "https://time.mk/c/b74a10ccc6/od-ruskata-korveta-vo-bengazi-se-gleda-samo-pramecot-vecerva-e-pogoden-i-trgovski-brod.html",
-      "image": "https://tocka.com.mk/images/content/golemi/2026-11/iYLSa-merkury-archive-2022.jpg",
-      "date": "Sun, 22 Nov 2026 21:08:21 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Во година одбележана со разорни последици од глобалното затоплување: Зошто преговорите за климата во Турција завршија без косензус за договор? | Вечер Прес",
-      "description": "",
-      "url": "https://time.mk/c/55c2272854/vo-godina-odbelezana-so-razorni-posledici-od-globalnoto-zatopluvanje-zosto-pregovorite-za-klimata-vo-turcija-zavrsija-bez-kosenzus-za-dogovor.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/11/cop31-antalia-11-26.jpg",
-      "date": "Sun, 22 Nov 2026 21:08:21 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Ѓорѓиевски: Има заштеда од пола милион евра за гориво во ЈСП, некој дебело се офајдувал | Колегиум",
-      "description": "",
-      "url": "https://time.mk/c/471e1849f8/gjorgjievski-ima-zasteda-od-pola-milion-evra-za-gorivo-vo-jsp-nekoj-debelo-se-ofajduval.html",
-      "image": "https://kolegium.mk/wp-content/uploads/2026/11/orce-gjorgjievski-300x200.jpg",
-      "date": "Sun, 22 Nov 2026 20:32:22 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Скопјани ќе предлагаат што прво да се реализира со градските пари во 2027 година | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/f4908ce066/skopjani-ke-predlagaat-sto-prvo-da-se-realizira-so-gradskite-pari-vo-2027-godina.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/88244/conversions/text-max.jpg",
-      "date": "Sun, 22 Nov 2026 15:12:24 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Насилник ѝ дошол на работа на сопругата, се заканувал дека ќе ѝ ги земе децата | Слободен Печат",
-      "description": "",
-      "url": "https://time.mk/c/0012caaf04/nasilnik-i-dosol-na-rabota-na-soprugata-se-zakanuval-deka-ke-i-gi-zeme-decata.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/01/Policija-FOTO-MVR-300x202.png",
-      "date": "Sun, 22 Nov 2026 23:10:18 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Детали за крвавата мистерија кај скопската обиколница: Што се случувало пред 5 часот наутро кај Смилковци? – | Либертас",
-      "description": "",
-      "url": "https://time.mk/c/9a5566d983/detali-za-krvavata-misterija-kaj-skopskata-obikolnica-sto-se-slucuvalo-pred-5-casot-nautro-kaj-smilkovci.html",
-      "image": "https://libertas.mk/wp-content/uploads/2026/11/Screenshot_20261122_200933_Messenger.jpg",
-      "date": "Sun, 22 Nov 2026 19:10:42 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "БРОНЗЕНИ МЕДАЛИ И ОДЛИЧНИ ПЛАСМАНИ ЗА БИТОЛСКИТЕ ПИНГПОНГАРИ НА ДРЖАВНОТО ПРВЕНСТВО ДО 21 ГОДИНА | Бабам Битола",
-      "description": "",
-      "url": "https://time.mk/c/c51309082f/bronzeni-medali-i-odlicni-plasmani-za-bitolskite-pingpongari-na-drzavnoto-prvenstvo-do-21-godina.html",
-      "image": "https://babambitola.mk/wp-content/uploads/2026/11/file_000000009aa4820abaaf5258276a582e.png",
-      "date": "Sun, 22 Nov 2026 22:34:20 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ФАБРИКИТЕ МОЖАТ ДА ЈА КОРИСТАТ СОПСТВЕНАТА ЕВТИНА СТРУЈА И КОГА НЕМА СОНЦЕ Вложувањето во батериски системи ги намалува сметките за електрична енергија | +инфо",
-      "description": "",
-      "url": "https://time.mk/c/bc8e650345/fabrikite-mozat-da-ja-koristat-sopstvenata-evtina-struja-i-koga-nema-sonce-vlozuvanjeto-vo-bateriski-sistemi-gi-namaluva-smetkite-za-elektricna-energija.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2026/11/koco-angusev-bitola.jpg",
-      "date": "Sun, 22 Nov 2026 09:34:25 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Дарко Марковиќ- човекот што ми ја отвори вратата кон детскиот свет | Независен",
-      "description": "",
-      "url": "https://time.mk/c/3e297a8360/darko-markovik-covekot-sto-mi-ja-otvori-vratata-kon-detskiot-svet.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2026/11/dar-mar-1.jpg",
-      "date": "Sun, 22 Nov 2026 15:08:19 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "„Khudgarzi“: мрачен фолк од Шехеразад | Sync",
-      "description": "",
-      "url": "https://time.mk/c/4c69341098/khudgarzi-mracen-folk-od-seherazad.html",
+      "url": "https://time.mk/c/1914841fc6/kos-od-atina-prosiruvanjeto-povtorno-e-prioritet-na-celata-evropska-unija.html",
       "image": "",
-      "date": "Sun, 22 Nov 2026 18:14:27 +0000"
+      "date": "Mon, 23 Nov 2026 11:38:18 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Каква врска има Албанија со нападот во Либија? Се огласи Министерството | Вечер Прес",
+      "description": "",
+      "url": "https://time.mk/c/f917262b0b/kakva-vrska-ima-albanija-so-napadot-vo-libija-se-oglasi-ministerstvoto.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/11/albaija-zname-pexels-oscar-m-344441239-16142688.jpg",
+      "date": "Mon, 23 Nov 2026 11:32:43 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Секс, чипови и шпиони: Што знаеме за Алис Хуанг од скандалот на Nvdia? | Кајгана",
+      "description": "",
+      "url": "https://time.mk/c/7bf1c069c6/seks-cipovi-i-spioni-sto-znaeme-za-alis-huang-od-skandalot-na-nvdia.html",
+      "image": "https://kajgana.com/sites/default/files/styles/article_image_xxl/public/2026-11/Screenshot 2026-11-23 103439.png?itok=K3nE9skw",
+      "date": "Mon, 23 Nov 2026 11:36:29 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "ВО ВЕЛЕШКИОТ СТАЦИОНАР ЗГРИЖЕНИ ДЕСЕТИНА КУЧИЊА ОТКАКО СОПСТВЕНИКОТ ПОЧИНАЛ, А ТИЕ НЕКОЛКУ ДЕНА БИЛЕ БЕЗ ХРАНА | Сакам да кажам",
+      "description": "",
+      "url": "https://time.mk/c/b9bdbfc5dc/vo-veleskiot-stacionar-zgrizeni-desetina-kucinja-otkako-sopstvenikot-pocinal-a-tie-nekolku-dena-bile-bez-hrana.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/11/stacionar-shepa.jpg",
+      "date": "Mon, 23 Nov 2026 11:18:23 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Граѓаните попладнево да не паркираат и да избегнуваат застанување под дрвја, се најавува засилен ветар | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/b30e0448d9/gragjanite-popladnevo-da-ne-parkiraat-i-da-izbegnuvaat-zastanuvanje-pod-drvja-se-najavuva-zasilen-vetar.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/07/drvo-gjorce-e1783678550761-300x215.jpg",
+      "date": "Mon, 23 Nov 2026 11:54:37 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Здружението „За нас“ најостро го осудува претепувањето лекар и медицинска сестра | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/309a238231/zdruzenieto-za-nas-najostro-go-osuduva-pretepuvanjeto-lekar-i-medicinska-sestra.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/11/itna-pomos-300x200.jpg",
+      "date": "Mon, 23 Nov 2026 10:04:20 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Краварките од Паланка рекордерки по пријави: вкупно 104, последната за нападот врз 67-годишната жена ќе биде кривична | Вечер Прес",
+      "description": "",
+      "url": "https://time.mk/c/6ededeca4c/kravarkite-od-palanka-rekorderki-po-prijavi-vkupno-104-poslednata-za-napadot-vrz-67-godisnata-zena-ke-bide-krivicna.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/11/kravarki-kriva-palanka.jpg",
+      "date": "Mon, 23 Nov 2026 11:48:23 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Позитивна еко-енергија: Викендов исчистена околината на Водно и засадено ново зеленило | Бизнис Вести",
+      "description": "",
+      "url": "https://time.mk/c/e394057f04/pozitivna-eko-energija-vikendov-iscistena-okolinata-na-vodno-i-zasadeno-novo-zelenilo.html",
+      "image": "https://biznisvesti.mk/wp-content/uploads/2026/11/1-15--300x200.jpg",
+      "date": "Mon, 23 Nov 2026 11:30:31 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Празник посветен на учениците на апостол Павле: Што се прави денеска, обичаи за денешниот ден | Press24",
+      "description": "",
+      "url": "https://time.mk/c/b04cfd04dc/praznik-posveten-na-ucenicite-na-apostol-pavle-sto-se-pravi-deneska-obicai-za-denesniot-den.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/84819.jpg",
+      "date": "Mon, 23 Nov 2026 08:38:21 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "МКЦ и МОТ продолжуваат да ја поддржуваат независната и современата изведувачка сцена: „Локомотива“ со две перформативни дела на 51. МОТ | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/5809a02b06/mkc-i-mot-prodolzuvaat-da-ja-poddrzuvaat-nezavisnata-i-sovremenata-izveduvacka-scena-lokomotiva-so-dve-performativni-dela-na-51-mot.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/11/hope-for-the-best.webp",
+      "date": "Mon, 23 Nov 2026 06:24:24 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Големо телевизиско враќање: Димитар Атанасовски со ново шоу на Телма – „Нека биде наше“ | Економија и Бизнис",
+      "description": "",
+      "url": "https://time.mk/c/3b40a91f7d/golemo-televizisko-vrakanje-dimitar-atanasovski-so-novo-sou-na-telma-neka-bide-nase.html",
+      "image": "https://ekonomijaibiznis.mk/wp-content/uploads/2026/11/neka_bide_nashe-1024x576.jpg",
+      "date": "Mon, 23 Nov 2026 10:42:23 +0000"
     }
   ],
   "de": [
@@ -638,6 +638,42 @@
     {
       "category": "eng",
       "source": "PCWorld",
+      "title": "5 incredibly common Windows PC mistakes (and how to avoid them)",
+      "description": "Windows runs well, most of the time. But if the system suddenly starts acting up, important data disappears or programs no longer start properly, the cause is often not the technology itself, but the user. To be more precise: small oversights that can have annoying consequences. Many problems are homemade and thus, can easily be avoided. Anyone who forgets a backup, misplaces the Bitlocker key or blindly relies on Windows Defender sometimes risks more than they think. The good news is that most ",
+      "url": "https://www.pcworld.com/article/2856894/5-incredibly-common-windows-pc-mistakes-and-how-to-avoid-them.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2025/07/windows10.jpg?quality=50&strip=all",
+      "date": "Mon, 23 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Don’t sleep on Microsoft’s free PC cleanup tool",
+      "description": "I imagine most PC users (myself included) tend to ignore PC maintenance until our computers start slowing down or running out of storage. Windows has built-in tools to help, but they’re spread out all over the place, so finding and running them can be a hassle. Thankfully, Microsoft has a neat free app called Microsoft PC Manager that puts everything you need in one place. PC Manager works with Windows 10 and 11 and gives you a super simple way to clean up your PC and keep things running smoothl",
+      "url": "https://www.pcworld.com/article/3288680/dont-sleep-on-microsofts-free-pc-cleanup-tool.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3288680-0-90851900-1795433433-PC-Manager-PC-Boost-post.png",
+      "date": "Mon, 23 Nov 2026 11:30:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Early Black Friday drops this Adobe Acrobat replacement to $30",
+      "description": "TL;DR: Edit, convert, and sign PDFs on Windows and Mac with a PDF Agile Premium lifetime subscription, now $29.97 (reg. $119). Most full-featured PDF editors charge a monthly fee, even if you only open a contract or form a few times a year. Black Friday pricing has arrived early, and there’s no reason to wait on a PDF editor you only pay for once. PDF Agile Premium works on Windows and Mac, and a lifetime subscription drops to $29.97 (reg. $119) with no coupon needed. Editing works on scanned do",
+      "url": "https://www.pcworld.com/article/3291535/early-black-friday-drops-this-adobe-acrobat-replacement-to-30.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3291535-0-76881400-1795420863-PDF-Agile-1.jpg?quality=50&strip=all",
+      "date": "Mon, 23 Nov 2026 08:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Vocal Remover for Windows: How to Remove Vocals From a Song",
+      "description": "Vocal remover built for pro-level quality for everyone Full audio processing suite for professional and casual use See Plans Want to sing your favorite song at karaoke but can’t find an instrumental version? Or maybe you’re learning a guitar part and want to practice with the original band behind you. If the song has no official instrumental version, you can make a backing track from a recording you already have. You don’t need audio editing skills. An AI vocal remover can split a song into a vo",
+      "url": "https://www.pcworld.com/article/3283432/vocal-remover-for-windows-how-to-remove-vocals-from-a-song.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3283432-0-49078500-1795420815-LalaAI_PCWorld.jpg?quality=50&strip=all",
+      "date": "Mon, 23 Nov 2026 08:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
       "title": "I’m a Nintendo Switch super-fan. Here are 10 gifts I’d buy this Black Friday",
       "description": "If the person you’re buying holiday presents for also happens to be a Nintendo fan (like yours truly), you’re in luck. I’ve cherry-picked the best gaming accessories for the Switch 2 (as well as the original Switch) so you don’t have to. There’s plenty to choose from, whether that’s a case to keep the console scratch-free without compromising on style, or a way to chat to friends online — be it friendly or far too competitive. Better yet, some of these have early discounts available for Black Fr",
       "url": "https://www.pcworld.com/article/3289536/the-10-best-nintendo-switch-accessories-to-buy-for-the-holidays.html",
@@ -647,19 +683,19 @@
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Get Office 2024 Pro Plus with Access and OneNote for $39.97",
-      "description": "TL;DR: Microsoft Office 2024 Professional Plus is the full Office suite for Windows , and a lifetime license is on sale for $39.97 (reg. $249.99). Getting a new Windows PC ready for work or school usually means signing up for Microsoft 365 and paying for Office again every year. But you can actually just buy the apps; a lifetime license to Microsoft Office 2024 Professional Plus costs a one-time $39.97 (reg. $249.99). Your license includes Word, Excel, PowerPoint, Outlook, OneNote, and Access, a",
-      "url": "https://www.pcworld.com/article/3291266/get-office-2024-pro-plus-with-access-and-onenote-for-39-97.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3291266-0-85321300-1795334447-mso-2024-Pro-Plus.jpg?quality=50&strip=all",
+      "title": "Early Black Friday deal: AutoCAD LT is $144.97 for a year of 2D drafting",
+      "description": "TL;DR: Draft precise 2D plans in native DWG files with a 1-year Autodesk AutoCAD LT subscription for $144.97 (reg. $540). Full CAD suites charge for 3D modeling tools that plenty of drafting work never touches. When the job is floor plans, schematics, and construction drawings, a 1-year Autodesk AutoCAD LT subscription covers it for a lot less. Our sale price drops Autodesk’s 2D drafting software to $144.97 (reg. $540), and you don’t need a coupon. When a contractor sends back a revised plan, DW",
+      "url": "https://www.pcworld.com/article/3291256/early-black-friday-deal-autocad-lt-is-144-97-for-a-year-of-2d-drafting.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3291256-0-73663600-1795334424-AutoCAD-LT.png",
       "date": "Sun, 22 Nov 2026 08:00:00 +0000"
     },
     {
       "category": "eng",
       "source": "PCWorld",
-      "title": "Early Black Friday deal: AutoCAD LT is $144.97 for a year of 2D drafting",
-      "description": "TL;DR: Draft precise 2D plans in native DWG files with a 1-year Autodesk AutoCAD LT subscription for $144.97 (reg. $540). Full CAD suites charge for 3D modeling tools that plenty of drafting work never touches. When the job is floor plans, schematics, and construction drawings, a 1-year Autodesk AutoCAD LT subscription covers it for a lot less. Our sale price drops Autodesk’s 2D drafting software to $144.97 (reg. $540), and you don’t need a coupon. When a contractor sends back a revised plan, DW",
-      "url": "https://www.pcworld.com/article/3291256/early-black-friday-deal-autocad-lt-is-144-97-for-a-year-of-2d-drafting.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3291256-0-73663600-1795334424-AutoCAD-LT.png",
+      "title": "Get Office 2024 Pro Plus with Access and OneNote for $39.97",
+      "description": "TL;DR: Microsoft Office 2024 Professional Plus is the full Office suite for Windows , and a lifetime license is on sale for $39.97 (reg. $249.99). Getting a new Windows PC ready for work or school usually means signing up for Microsoft 365 and paying for Office again every year. But you can actually just buy the apps; a lifetime license to Microsoft Office 2024 Professional Plus costs a one-time $39.97 (reg. $249.99). Your license includes Word, Excel, PowerPoint, Outlook, OneNote, and Access, a",
+      "url": "https://www.pcworld.com/article/3291266/get-office-2024-pro-plus-with-access-and-onenote-for-39-97.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3291266-0-85321300-1795334447-mso-2024-Pro-Plus.jpg?quality=50&strip=all",
       "date": "Sun, 22 Nov 2026 08:00:00 +0000"
     },
     {
@@ -688,42 +724,6 @@
       "url": "https://www.pcworld.com/article/3290925/the-best-lego-sets-you-can-buy-this-black-friday.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3290925-0-88709500-1795266043-IMG_1710.jpg?quality=50&strip=all",
       "date": "Sat, 21 Nov 2026 13:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Skip Microsoft 365: This 5-year 2TB cloud plan edits Office files for $59.99",
-      "description": "TL;DR: Store, edit, and sign documents in one encrypted workspace with a 5-year Filexco 2TB plan, now $59.99 (reg. $239). Most cloud storage just holds files, so editing a spreadsheet or getting a contract signed means paying for more apps on top. Filexco 2TB Cloud Storage keeps all of that in one account. Five years of encrypted storage with document editing and e-signatures costs $59.99 (reg. $239), paid once with no renewal. When a contract is ready to go out, signers just confirm their email",
-      "url": "https://www.pcworld.com/article/3291170/skip-microsoft-365-this-5-year-2tb-cloud-plan-edits-office-files-for-59-99.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3291170-0-69501700-1795248037-Filexco.jpg?quality=50&strip=all",
-      "date": "Sat, 21 Nov 2026 08:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "This professional Windows video editor is half off for life at $25",
-      "description": "TL;DR: VSDC Video Editor Pro is a Windows video editor with pro-level effects, and a lifetime license is on sale for $24.97 (reg. $49.99). Green-screen keying and stabilization usually come attached to a monthly bill that keeps running as long as you keep editing. VSDC Video Editor Pro skips that part. It’s a nonlinear video editor for Windows PCs , and current sale pricing drops a lifetime license to $24.97 (reg. $49.99), half off without a coupon. The chroma key does most of the heavy lifting.",
-      "url": "https://www.pcworld.com/article/3291200/this-professional-windows-video-editor-is-half-off-for-life-at-25.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3291200-0-42040800-1795248061-VSDC.png",
-      "date": "Sat, 21 Nov 2026 08:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Best early Black Friday tech deals on Amazon 2026",
-      "description": "Unsurprisingly, Amazon is wasting no time in kicking off the holiday shopping season. Already, you can find popular tech on sale ahead of the official Black Friday, which is November 27 this year. Of course, there’s always the ever-present issue of sifting through the clutter to find the deals that are truly worthwhile. This is where PCWorld’s tech experts come in. Our guide to the best Amazon Black Friday tech deals will point you to the best bargains in all the most popular tech categories. De",
-      "url": "https://www.pcworld.com/article/1384292/best-black-friday-amazon-tech-deals.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/1384292-0-64544400-1794921573-Amazon-logo-orange-smile-on-black-background.jpg?quality=50&strip=all",
-      "date": "Sat, 21 Nov 2026 03:55:16 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "GTA 6 review: This will be the best game of all time when it hits PCs",
-      "description": "At a glance Expert's Rating Pros Experiencing this world in all its depth is simply wow Detail far beyond that of Red Dead Redemption 2 Stellar character design (hair, skin, clothing, etc.) Brilliantly implemented weather effects, calculated for every NPC Very comprehensive driving and damage models for cars A superbly written story with an excellent cast Cons The story takes a little too long to pick up pace Only the PS5 Pro can maintain a stable 30 FPS We’re super-rich gangsters, but we can’t ",
-      "url": "https://www.pcworld.com/article/3292551/gta-6-review.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3292551-0-32540000-1795212306-GTAVIAufmacher.jpg?quality=50&strip=all",
-      "date": "Fri, 20 Nov 2026 22:04:54 +0000"
     }
   ],
   "starwars": [
@@ -901,6 +901,42 @@
     {
       "category": "starwars",
       "source": "Jedi News",
+      "title": "This Weeks Publications – 23rd November 2026",
+      "description": "Welcome to week 47 of 2026 and our list detailing what new publications to expect from a galaxy far, far away. The post This Weeks Publications – 23rd November 2026 appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/literature/articles/this-weeks-publications-23rd-november-2026/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/TBoBF5-FI-300x201.jpg",
+      "date": "Mon, 23 Nov 2026 05:01:42 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Mark Hamill Opens Up About His Decades-Long Friendship with Star Wars Costar Harrison Ford",
+      "description": "Talking exclusively to People at the Women’s Guild Cedars-Sinai Stardust Ball, Mark Hamill opened up about his five-decade friendship with Star Wars costar Harrison Ford, saying he “can count on one hand how many longtime friends like that I have”. The post Mark Hamill Opens Up About His Decades-Long Friendship with Star Wars Costar Harrison Ford appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/events/articles/mark-hamill-opens-up-about-his-decades-long-friendship-with-star-wars-costar-harrison-ford/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/Harrison-Ford-and-Mark-Hamill-Greg-Doherty_Getty-Nov26-300x201.jpg",
+      "date": "Mon, 23 Nov 2026 00:23:56 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Rian Johnson on Star Wars: “It’s a World I Deeply Love”",
+      "description": "During an in-conversation event at the 23rd Marrakech International Film Festival, Rian Johnson, director of The Last Jedi, told IndieWire that he loves the Star Wars franchise \"more now than I ever have\". The post Rian Johnson on Star Wars: “It’s a World I Deeply Love” appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/events/articles/rian-johnson-on-star-wars-its-a-world-i-deeply-love/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/Rian-Johnson-Chewbacca-Nov26-300x201.jpg",
+      "date": "Sun, 22 Nov 2026 22:00:32 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Coffee With Kenobi #870: 50 Years of Star Wars: A Galaxy-Wide Celebration Begins",
+      "description": "Join Dan Zehr and co for episode 870 of Coffee With Kenobi. The post Coffee With Kenobi #870: 50 Years of Star Wars: A Galaxy-Wide Celebration Begins appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/coffee-with-kenobi-870-50-years-of-star-wars-a-galaxy-wide-celebration-begins/",
+      "image": "",
+      "date": "Sun, 22 Nov 2026 20:00:24 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
       "title": "Podcast Stardust #1,111: A Grammy Nomination for The Mandalorian and Grogu – Star Wars News",
       "description": "First-generation Star Wars fans, Dennis Keithly and Jay Krebs, host episode 1,111 of Podcast Stardust. The post Podcast Stardust #1,111: A Grammy Nomination for The Mandalorian and Grogu – Star Wars News appeared first on Jedi News .",
       "url": "https://www.jedinews.com/podcasts/articles/podcast-stardust-1111-a-grammy-nomination-for-the-mandalorian-and-grogu-star-wars-news/",
@@ -960,42 +996,6 @@
       "url": "https://www.jedinews.com/events/articles/meet-brendan-wayne-at-fan-expo-new-orleans-january-8th-10th-2027/",
       "image": "https://www.jedinews.com/wp-content/uploads/2026/11/Brendan-Wayne-Fan-Expo-New-Orleans-Nov26-300x201.jpg",
       "date": "Sat, 21 Nov 2026 20:00:43 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "The Star Wars Underworld Podcast Live | ‘Star Wars’ Earns Nominations At The Grammys & Game Awards!",
-      "description": "Join the Star Wars Underworld team as they discuss this week's latest Star Wars news. The post The Star Wars Underworld Podcast Live | ‘Star Wars’ Earns Nominations At The Grammys & Game Awards! appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/podcasts/articles/the-star-wars-underworld-podcast-live-star-wars-earns-nominations-at-the-grammys-game-awards/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2018/08/The-SW-Underworld-300x201.jpg",
-      "date": "Sat, 21 Nov 2026 19:27:21 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Indiana Jones Actor John Rhys-Davies was “Very Disappointed” in Dial of Destiny",
-      "description": "After reprising the role of Sallah in Indiana Jones and the Dial of Destiny, John Rhys-Davies has shared his disappointment with how the film turned out, \"I found that the scenes that I've been promised in the thing were cut immediately after I signed the contract\". The post Indiana Jones Actor John Rhys-Davies was “Very Disappointed” in Dial of Destiny appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/indiana-jones-actor-john-rhys-davies-was-very-disappointed-in-dial-of-destiny/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/John-Rhys-Davies-Dial-of-Destiny-Nov26-300x201.jpg",
-      "date": "Sat, 21 Nov 2026 18:54:59 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "George Lucas and Mellody Hobson Visit Ferrari at F1 Las Vegas Grand Prix",
-      "description": "George Lucas and Mellody Hobson are in Las Vegas for the F1 Grand Prix and were photographed leaving the Ferrari pit/hospitality area after qualifying, which saw their friend Lewis Hamilton eliminated in Q2 and will start the race from eleventh on the grid. The post George Lucas and Mellody Hobson Visit Ferrari at F1 Las Vegas Grand Prix appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/events/articles/george-lucas-and-mellody-hobson-visit-ferrari-at-f1-las-vegas-grand-prix/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/George-Lucas-Las-Vegas-Qualifying-Nov26-300x201.jpg",
-      "date": "Sat, 21 Nov 2026 18:18:41 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Yoda Sends Luke Into the Cave of Evil | Star Wars: The Empire Strikes Back | Official Clip",
-      "description": "Deep in the swamps of Dagobah, Yoda tests Luke Skywalker with a chilling trial: a dark, mysterious cave strong with the dark side of the Force. Star Wars: The Empire Strikes Back is now streaming on Disney+. The post Yoda Sends Luke Into the Cave of Evil | Star Wars: The Empire Strikes Back | Official Clip appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/yoda-sends-luke-into-the-cave-of-evil-star-wars-the-empire-strikes-back-official-clip/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/maxresdefault-35-300x169.jpg",
-      "date": "Sat, 21 Nov 2026 14:24:40 +0000"
     }
   ],
   "youtube": [
