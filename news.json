@@ -1,6 +1,33 @@
 {
-  "updated": "2026-11-24T00:11:57.098519+00:00",
+  "updated": "2026-11-24T10:16:07.698190+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Samsung го претставува Odyssey G6: Првиот гејминг монитор во светот со 1.100 Hz стапка на освежување",
+      "description": "Скопје, 23.11.2026 година – Компанијата Самсунг („Samsung“) денес го претстави 27-инчниот Odyssey G6 (G60H), првиот гејминг монитор во светот што поддржува стапка на освежување до 1.100 Hz во HD резолуција. Мониторот исто така има Двоен режим (Dual Mode), што им овозможува на играчите да избираат помеѓу HD до 1.100 Hz и QHD до 600 Hz […]",
+      "url": "https://smartportal.mk/novosti/uredi/samsung-odyssey-g6-1100-hz/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/01.-Odyssey-G6_Front-150x150.webp",
+      "date": "Tue, 24 Nov 2026 10:12:33 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Независниот прелистувач Ladybird, со сопствена веб технологија напишана од нула, излезе во алфа верзија",
+      "description": "Ladybird, прелистувачот кој последните години се развива со сопствена технологија за прикажување на веб страниците, излезе во алфа верзија за macOS и Linux. Според основачот Андреас Клинг, технологијата е напишана од нула и не е „fork“ на постоечка, а прелистувачот околу него е „скромен, но функционален“. Вакво нешто е реткост. Речиси сите прелистувачи денес работат […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/ladybird-izelze-vo-alfa-verzija/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/hero-screenshot-light-150x150.webp",
+      "date": "Tue, 24 Nov 2026 09:53:36 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Време е за надградба? Како изгледа реалната разлика во секојдневието со Galaxy S26?",
+      "description": "Повеќето технолошки ентузијасти имаат исто правило кога станува збор за менување телефон: не менуваме уред само поради нова бројка во името, туку кога хардверот и софтверот носат скок што навистина се чувствува во секојдневната работа. Со доаѓањето на новата Galaxy S26 серија, токму тој момент на „оправдана надградба“ станува очигледен, особено ако користите уред постар […]",
+      "url": "https://smartportal.mk/novosti/smartfoni/kako-izgleda-realnata-razlika-vo-sekojdnevieto-so-galaxy-s26/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/09/407-kv-family-galaxy-s26-fe-galaxy-s26-galaxy-s26plus-s26ultra-1200x600-1-150x150.webp",
+      "date": "Tue, 24 Nov 2026 09:05:15 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -66,213 +93,195 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Career & Inclusion Expo 2026 — кариерен саем и панел-дискусија за препознавање на потенцијалот на младите",
-      "description": "На 26 ноември во Лабораториум, Скопје, ќе се одржи Career & Inclusion Expo 2026 настан што ги поврзува младите со работодавачи, HR професионалци и кариерни советници и отвора дискусија за препознавањето на потенцијалот во образованието и на работното место. Под пораката „Different Minds. Valuable Skills.“, програмата обединува панел со лични искуства и професионални перспективи, како […]",
-      "url": "https://smartportal.mk/novosti/nastani/career-inclusion-expo-2026/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/Career-Inclusion-Expo-2026-photo-150x150.webp",
-      "date": "Mon, 23 Nov 2026 09:53:10 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Mozilla отвори телефонска линија за поплаки против Microsoft поради наметнувањето на Edge во Windows",
-      "description": "Mozilla со рекламна кампања ги „презеде“ улиците околу Moscone Center во Сан Франциско, каде Microsoft ја одржува Ignite, својата најголема конференција за годината. Рекламите се во стилот на оние на адвокатите за надомест на штета, а ги повикуваат луѓето да се јават на телефонската линија 1-855-25-FIREFOX и да остават порака за тоа што мислат за […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/mozilla-telefonska-linija-poplaki-protiv-microsoft/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/Taxi-Top-Mock_.png-150x150.webp",
-      "date": "Mon, 23 Nov 2026 09:30:05 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Gemini на Mac сега може сам да користи апликации и да завршува задачи во позадина",
-      "description": "Google ја претстави функцијата „computer use“ во Gemini апликацијата за Mac, со која асистентот може сам да ги користи локалните датотеки, апликациите на компјутерот и интернет за да заврши задачи од повеќе чекори. Корисникот само ја опишува задачата, а според Google, Gemini сам ги прави кликањата, пишувањето, менијата и формуларите. Gemini притоа работи во изолиран […]",
-      "url": "https://smartportal.mk/novosti/ai/gemini-na-mac-computer-use/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/hero_header_CU_copy.width-2200.format-webp-150x150.webp",
-      "date": "Fri, 20 Nov 2026 13:47:02 +0000"
+      "source": "Time.mk - All",
+      "title": "Мистеријата за „тивкиот ученик“: Како матурантот од Крагуевац дошол до пушката со која пукал во училиштето? | Вечер Прес",
+      "description": "",
+      "url": "https://time.mk/c/347f317576/misterijata-za-tivkiot-ucenik-kako-maturantot-od-kraguevac-dosol-do-puskata-so-koja-pukal-vo-ucilisteto.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/11/srbija-policija-video-rina1.png",
+      "date": "Tue, 24 Nov 2026 09:44:23 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Извештајот за македонија на ЕК пред пратениците – Рокас ги пофали реформите, но порача: Следниот чекор се уставните измени | ТВ21",
+      "title": "ЛДП бара гаранција од Владата дека нема да поскапат струјата и парното | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/29610f3e95/izvestajot-za-makedonija-na-ek-pred-pratenicite-rokas-gi-pofali-reformite-no-poraca-sledniot-cekor-se-ustavnite-izmeni.html",
-      "image": "https://mk.tv21.tv/wp-content/uploads/2025/01/rokas-1024x576.jpg",
-      "date": "Mon, 23 Nov 2026 21:34:22 +0000"
+      "url": "https://time.mk/c/8535d33628/ldp-bara-garancija-od-vladata-deka-nema-da-poskapat-strujata-i-parnoto.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/11/LDP-za-struja.jpg",
+      "date": "Tue, 24 Nov 2026 09:52:26 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Влада: Попуст при купување стан, нула комуналии за изградба на куќа | 24 Вести",
+      "title": "„Лажни СМС-пораки и обиди за измама“, ПОЦ ги предупредува граѓаните | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/eb9cd1e7a3/vlada-popust-pri-kupuvanje-stan-nula-komunalii-za-izgradba-na-kuka.html",
-      "image": "https://res.cloudinary.com/dlkdvlfyo/image/upload/v1795449885/pmmk4u0p7om2dxzvofvk.jpg",
-      "date": "Mon, 23 Nov 2026 16:14:39 +0000"
+      "url": "https://time.mk/c/33fecbcaa3/lazni-sms-poraki-i-obidi-za-izmama-poc-gi-predupreduva-gragjanite.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/11/lazniporakipoc.webp",
+      "date": "Tue, 24 Nov 2026 09:26:24 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Пофалби за реформите од Атина: Што порачаа Герапетритис и Муцунски од состанокот на „Пријателите на Западен Балкан“ | 360 степени",
+      "title": "Народната банка со поддршка за родовата еднаквост во корпоративното лидерство и квалитетното управување | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/11041300fe/pofalbi-za-reformite-od-atina-sto-poracaa-gerapetritis-i-mucunski-od-sostanokot-na-prijatelite-na-zapaden-balkan.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/11/Mucunski-i-Gerapetritis.jpeg",
-      "date": "Mon, 23 Nov 2026 17:44:21 +0000"
+      "url": "https://time.mk/c/bfe6233366/narodnata-banka-so-poddrska-za-rodovata-ednakvost-vo-korporativnoto-liderstvo-i-kvalitetnoto-upravuvanje.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/11/nbrm-nastan-24.11.26.webp",
+      "date": "Tue, 24 Nov 2026 09:56:20 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Снег на Стража – службите на терен, возачите да бидат внимателни | 4NEWS",
+      "title": "Али Ахмети со отворено писмо до Шасивари: Да го претставуваш деградирањето на албанскиот јазик како напредок е чин на предавство кон Албанците | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/9f66d91ec9/sneg-na-straza-sluzbite-na-teren-vozacite-da-bidat-vnimatelni.html",
-      "image": "https://4news.mk/wp-content/uploads/2026/11/screenshot_8-6.avif",
-      "date": "Mon, 23 Nov 2026 22:16:18 +0000"
+      "url": "https://time.mk/c/bf6de47f36/ali-ahmeti-so-otvoreno-pismo-do-sasivari-da-go-pretstavuvas-degradiranjeto-na-albanskiot-jazik-kako-napredok-e-cin-na-predavstvo-kon-albancite.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2021/10/BDI-Zhelinë-3.jpg",
+      "date": "Tue, 24 Nov 2026 10:04:23 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Новинарите добија комитет, власта нова шминка | Рацин",
+      "title": "ОН ја најавуваат кампањата „16 дена активизам“ со повик за подобра заштита на жените | Точка",
       "description": "",
-      "url": "https://time.mk/c/8f95684d41/novinarite-dobija-komitet-vlasta-nova-sminka.html",
-      "image": "https://racin.mk/wp-content/uploads/2026/11/pance-toskovski-pres-736x480.jpg?x41925",
-      "date": "Mon, 23 Nov 2026 17:30:51 +0000"
+      "url": "https://time.mk/c/4fab248280/on-ja-najavuvaat-kampanjata-16-dena-aktivizam-so-povik-za-podobra-zastita-na-zenite.html",
+      "image": "https://tocka.com.mk/images/content/golemi/2026-11/63Fej-world-cover.jpg",
+      "date": "Tue, 24 Nov 2026 10:02:19 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Јаневска за помалите блок-дотации: Годинава привремено се затворени 148 училишта, догодина очекувам спојување на уште 400 паралелки | 360 степени",
+      "title": "„Дијамант“: инстант лоз што носи шанса за добивки до 300.000 денари | Фактор",
       "description": "",
-      "url": "https://time.mk/c/7a15a7f160/janevska-za-pomalite-blok-dotacii-godinava-privremeno-se-zatvoreni-148-ucilista-dogodina-ocekuvam-spojuvanje-na-uste-400-paralelki.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/11/001-2.jpg",
-      "date": "Mon, 23 Nov 2026 19:46:19 +0000"
+      "url": "https://time.mk/c/ec3953791c/dijamant-instant-loz-sto-nosi-sansa-za-dobivki-do-300-000-denari.html",
+      "image": "https://faktor.mk/media/main/2026/11/20261124104012.jpg",
+      "date": "Tue, 24 Nov 2026 09:42:28 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Само 22 отсто од раководните позиции во средните и големите компании ги заземаат жени | Скопје1",
+      "title": "„Мажи во црно“ во потрага по должници на брзи кредити | IRL",
       "description": "",
-      "url": "https://time.mk/c/7e8fe14839/samo-22-otsto-od-rakovodnite-pozicii-vo-srednite-i-golemite-kompanii-gi-zazemaat-zeni.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/88294/conversions/text-max.jpg",
-      "date": "Mon, 23 Nov 2026 17:38:39 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Пари на сметка и во недела и на празник – Македонија се приклучува кон системот за инстант плаќања | Пари",
-      "description": "",
-      "url": "https://time.mk/c/dcd4ce6915/pari-na-smetka-i-vo-nedela-i-na-praznik-makedonija-se-priklucuva-kon-sistemot-za-instant-plakanja.html",
-      "image": "http://pari.com.mk/wp-content/uploads/2026/11/guverner.jpg",
-      "date": "Mon, 23 Nov 2026 22:52:19 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Дали обвинетите дале искази под притисок? Одбраната бара ново вештачење на судењето за Данка Илиќ | Вечер Прес",
-      "description": "",
-      "url": "https://time.mk/c/bb6676b9ff/dali-obvinetite-dale-iskazi-pod-pritisok-odbranata-bara-novo-vestacenje-na-sudenjeto-za-danka-ilik.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/11/danka.jpg",
-      "date": "Mon, 23 Nov 2026 18:16:26 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Вучиќ најави штрајк со глад „доколку се обидат да го уапсат“, добил и порака дека ќе биде ликвидиран | Либертас",
-      "description": "",
-      "url": "https://time.mk/c/8b2273b7b6/vucik-najavi-strajk-so-glad-dokolku-se-obidat-da-go-uapsat-dobil-i-poraka-deka-ke-bide-likvidiran.html",
-      "image": "https://libertas.mk/wp-content/uploads/2026/11/aleksandar-vucic-6-285326-830x553-1.webp",
-      "date": "Mon, 23 Nov 2026 13:24:39 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Доналд Трамп и потпретседателот Венс лично интервенирале за враќање на извршниот директор на Nvidia | Иновативност",
-      "description": "",
-      "url": "https://time.mk/c/6e8dbe8e6e/donald-tramp-i-potpretsedatelot-vens-licno-intervenirale-za-vrakanje-na-izvrsniot-direktor-na-nvidia.html",
-      "image": "https://inovativnost.mk/wp-content/uploads/2026/11/nvidia-pexels-uma-media-600x338.jpg",
-      "date": "Mon, 23 Nov 2026 22:26:18 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Либија: Украина ни објави војна | Трн",
-      "description": "",
-      "url": "https://time.mk/c/bb98bc7662/libija-ukraina-ni-objavi-vojna.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/11/libija-eksplozii.jpg",
-      "date": "Mon, 23 Nov 2026 20:02:33 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "ВО ВЕЛЕШКИОТ СТАЦИОНАР ЗГРИЖЕНИ ДЕСЕТИНА КУЧИЊА ОТКАКО СОПСТВЕНИКОТ ПОЧИНАЛ, А ТИЕ НЕКОЛКУ ДЕНА БИЛЕ БЕЗ ХРАНА | Сакам да кажам",
-      "description": "",
-      "url": "https://time.mk/c/c572fe3290/vo-veleskiot-stacionar-zgrizeni-desetina-kucinja-otkako-sopstvenikot-pocinal-a-tie-nekolku-dena-bile-bez-hrana.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/11/stacionar-shepa.jpg",
-      "date": "Mon, 23 Nov 2026 11:18:23 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Двете недовршени згради во кампусот на УКИМ ќе бидат за ФИНКИ, Јаневска очекува вселување во 2029 година | 360 степени",
-      "description": "",
-      "url": "https://time.mk/c/040dfed771/dvete-nedovrseni-zgradi-vo-kampusot-na-ukim-ke-bidat-za-finki-janevska-ocekuva-vseluvanje-vo-2029-godina.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/11/005-1.jpg",
-      "date": "Mon, 23 Nov 2026 20:04:20 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Клековски: Нападот врз здравствен работник е кривично дело, предвидени се и затворски казни | Скопје1",
-      "description": "",
-      "url": "https://time.mk/c/44b349a543/klekovski-napadot-vrz-zdravstven-rabotnik-e-krivicno-delo-predvideni-se-i-zatvorski-kazni.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/82802/conversions/text-max.jpg",
-      "date": "Mon, 23 Nov 2026 17:08:28 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Насилници тепаат жени – пријави за семејно насилство во Скопје, Битола, Крива Паланка и Гостивар | Фокус",
-      "description": "",
-      "url": "https://time.mk/c/d5f7acd93a/nasilnici-tepaat-zeni-prijavi-za-semejno-nasilstvo-vo-skopje-bitola-kriva-palanka-i-gostivar.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/11/cetiri-lica-se-liseni-od-sloboda-od-vkupno-sedum-prijavi-za-semejno-nasilstvo-vo-poslednoto-denonokjie-image-1170x612.jpg",
-      "date": "Mon, 23 Nov 2026 12:32:35 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Почна уредувањето на локалитетот Л’џи | Вечер Прес",
-      "description": "",
-      "url": "https://time.mk/c/1a303fc701/pocna-ureduvanjeto-na-lokalitetot-l-dzi.html",
+      "url": "https://time.mk/r/NONE/5eaed02d5b/mazi-vo-crno-vo-potraga-po-dolznici-na-brzi-krediti.html",
       "image": "",
-      "date": "Mon, 23 Nov 2026 13:44:29 +0000"
+      "date": "Tue, 24 Nov 2026 09:02:22 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "По повеќе од една година, општината ќе ги дава субвенциите за кандидатите кои полагаа во други градови! | Тера",
+      "title": "Полицијата во БиХ ги претресува имотите на поранешниот командант од Сребреница, Насер Ориќ — осомничен е дека криел бегалец по обид за убиство | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/fc714fe460/po-poveke-od-edna-godina-opstinata-ke-gi-dava-subvenciite-za-kandidatite-koi-polagaa-vo-drugi-gradovi.html",
-      "image": "https://tera.mk/wp-content/uploads/2026/11/IMG_1324-150x150.jpg",
-      "date": "Mon, 23 Nov 2026 14:20:30 +0000"
+      "url": "https://time.mk/c/0d300a5591/policijata-vo-bih-gi-pretresuva-imotite-na-poranesniot-komandant-od-srebrenica-naser-orik-osomnicen-e-deka-kriel-begalec-po-obid-za-ubistvo.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/11/oric-i-Zdrala-300x169.jpeg",
+      "date": "Tue, 24 Nov 2026 09:08:27 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Спилберг подготвува вестерн со Килијан Марфи и Џеси Бакли, по сценарио на Пол Томас Андерсон | Таратур",
+      "title": "Колкави се пензиите во земјите од поранешна Југославија: Една земја надмина 1.000 евра, еве каде е Македонија | Фактор",
       "description": "",
-      "url": "https://time.mk/c/bf3f69eb9b/spilberg-podgotvuva-vestern-so-kilijan-marfi-i-dzesi-bakli-po-scenario-na-pol-tomas-anderson.html",
+      "url": "https://time.mk/c/f9da68a280/kolkavi-se-penziite-vo-zemjite-od-poranesna-jugoslavija-edna-zemja-nadmina-1-000-evra-eve-kade-e-makedonija.html",
+      "image": "https://faktor.mk/media/main/2026/11/20261123225252.png",
+      "date": "Tue, 24 Nov 2026 06:16:19 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Враќањето на џедајот Хуанг – Одлично за берзите, ризично за наследството на Трамп | Фактор",
+      "description": "",
+      "url": "https://time.mk/c/2695c3646a/vrakanjeto-na-dzedajot-huang-odlicno-za-berzite-rizicno-za-nasledstvoto-na-tramp.html",
+      "image": "https://faktor.mk/media/main/2026/11/20261124110037.png",
+      "date": "Tue, 24 Nov 2026 10:06:19 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Историски пораст на акциите по враќањето на Хуанг на чело на „Нвидија“ | Независен",
+      "description": "",
+      "url": "https://time.mk/c/6556cf55b3/istoriski-porast-na-akciite-po-vrakanjeto-na-huang-na-celo-na-nvidija.html",
+      "image": "https://nezavisen.mk/wp-content/uploads/2021/03/berza-nasdak.jpg",
+      "date": "Tue, 24 Nov 2026 06:58:26 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Шилегов: Немаше никаква сообраќајка, возилото заглави во кал, а злобните коментатори мене ќе ме направат посилен | Фокус",
+      "description": "",
+      "url": "https://time.mk/c/206472386d/silegov-nemase-nikakva-soobrakajka-voziloto-zaglavi-vo-kal-a-zlobnite-komentatori-mene-ke-me-napravat-posilen.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/11/SHilegov.jpg",
+      "date": "Tue, 24 Nov 2026 07:06:26 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Исплатена финансиската поддршка од 3.000 денари за секое прваче во Општина Ѓорче Петров | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/c38edb89c0/isplatena-finansiskata-poddrska-od-3-000-denari-za-sekoe-prvace-vo-opstina-gjorce-petrov.html",
+      "image": "https://tocka.com.mk/images/content/golemi/2026-11/qq6KY-prvache.webp",
+      "date": "Tue, 24 Nov 2026 09:28:20 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Сведок во „Пулс“: Таа вечер пиротехниката беше многу јака, такво нешто не сум видела претходно, ПП апарат имам видено само во билетарницата | 4NEWS",
+      "description": "",
+      "url": "https://time.mk/c/d26b046a27/svedok-vo-puls-taa-vecer-pirotehnikata-bese-mnogu-jaka-takvo-nesto-ne-sum-videla-prethodno-pp-aparat-imam-videno-samo-vo-biletarnicata.html",
+      "image": "https://4news.mk/wp-content/uploads/2026/02/dsc_2708-1024x683.avif",
+      "date": "Tue, 24 Nov 2026 10:08:25 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Изби пожар во помошна просторија на ЈП „Комунално“ Струга | OhridPress",
+      "description": "",
+      "url": "https://time.mk/c/5d7aa7aa10/izbi-pozar-vo-pomosna-prostorija-na-jp-komunalno-struga.html",
       "image": "",
-      "date": "Mon, 23 Nov 2026 21:48:23 +0000"
+      "date": "Tue, 24 Nov 2026 10:14:23 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Два танцови перформанса вечерва го затвораат „Млад отворен театар“ | Точка",
+      "title": "Оглас: REU MKD бара млад инженер | Press24",
       "description": "",
-      "url": "https://time.mk/c/0eb354a7ba/dva-tancovi-performansa-vecerva-go-zatvoraat-mlad-otvoren-teatar.html",
-      "image": "https://tocka.com.mk/images/content/golemi/2026-11/LHkvL-mkc.jpg",
-      "date": "Mon, 23 Nov 2026 15:19:11 +0000"
+      "url": "https://time.mk/c/786bc12dc6/oglas-reu-mkd-bara-mlad-inzener.html",
+      "image": "http://press24.mk/wp-content/uploads/ndb-featured/85034.jpg",
+      "date": "Tue, 24 Nov 2026 09:54:21 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Општина Битола обезбеди 300.000 денари за субвенции за возачки испит | Политика",
+      "description": "",
+      "url": "https://time.mk/c/4530106e4d/opstina-bitola-obezbedi-300-000-denari-za-subvencii-za-vozacki-ispit.html",
+      "image": "https://politika.com.mk/wp-content/uploads/2026/11/IMG_3904.jpeg",
+      "date": "Tue, 24 Nov 2026 10:12:24 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Со претставите „Мојот маж“ и „Ана – непоправливата“ се затвора 𝟧𝟣. МОТ | Макфакс",
+      "description": "",
+      "url": "https://time.mk/c/da5c3e4061/so-pretstavite-mojot-maz-i-ana-nepopravlivata-se-zatvora-𝟧𝟣-mot.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/11/mojot-maz.webp",
+      "date": "Tue, 24 Nov 2026 09:04:19 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "ПАПАТА ФРАЊО ИМАЛ ВИЗИИ ЗА ЃАВОЛОТ И ПЕКОЛОТ, СЕ ВЕЛИ ВО НЕГОВИТЕ ДНЕВНИЦИ | Сакам да кажам",
+      "description": "",
+      "url": "https://time.mk/c/e892cd6ec2/papata-franjo-imal-vizii-za-gjavolot-i-pekolot-se-veli-vo-negovite-dnevnici.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/11/papa-frano-ap.jpg",
+      "date": "Tue, 24 Nov 2026 09:38:18 +0000"
     }
   ],
   "de": [
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "croc: große Dateien schnell und datensparsam übertragen",
+      "description": "Du möchtest einem Freund ein gigantisches Archiv oder Video schicken und dafür keinen Cloud-Dienst nutzen? Dann ist croc dein Tool der Wahl! Der Artikel croc: große Dateien schnell und datensparsam übertragen erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/it-sicherheit/datenschutz/croc-grosse-dateien-schnell-und-datensparsam-uebertragen-336316.html",
+      "image": "https://cdn.tarnkappe.info/wp-content/uploads/croc-Dateitransfer.png",
+      "date": "Tue, 24 Nov 2026 08:44:22 +0000"
+    },
     {
       "category": "de",
       "source": "Tarnkappe",
@@ -443,18 +452,189 @@
       "url": "https://tarnkappe.info/artikel/gaming/nintendo-switch-piraterie-dmca-144-modchip-repositories-335840.html",
       "image": "https://cdn.tarnkappe.info/wpimg/nintendo-switch-piraterie-dmca-144-modchip-repositories",
       "date": "Thu, 12 Nov 2026 16:51:36 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "PureVPN für Torrent-Downloads: Günstig, doch wo ist der Haken? (Werbung)",
-      "description": "PureVPN für Torrent-Downloads: preiswerte Abos und viele VPN-Server in aller Herren Länder. Doch wie gut ist der Schutz der Kunden? Der Artikel PureVPN für Torrent-Downloads: Günstig, doch wo ist der Haken? (Werbung) erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/werbung/purevpn-fuer-torrent-downloads-guenstig-doch-wo-ist-der-haken-werbung-335775.html",
-      "image": "https://cdn.tarnkappe.info/wp-content/uploads/purevpn-fuer-torrents.jpg",
-      "date": "Wed, 11 Nov 2026 14:47:56 +0000"
     }
   ],
   "eng": [
+    {
+      "category": "eng",
+      "source": "Gizmodo",
+      "title": "The Guy Accused of Bugging OpenAI Allegedly Captured Possible Trade Secrets",
+      "description": "The $14 device allegedly worked beautifully.",
+      "url": "https://gizmodo.com/the-accused-openai-bug-allegedly-captured-trade-secrets-2000844472",
+      "image": "https://gizmodo.com/app/uploads/2026/11/abdulrahman-alfozan.jpg",
+      "date": "Tue, 24 Nov 2026 10:00:04 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Gizmodo",
+      "title": "The Jensen Huang Affair Tally Is Reportedly Up to at Least Four",
+      "description": "There were reportedly more disclosures to the Nvidia board on Sunday.",
+      "url": "https://gizmodo.com/the-jensen-huang-affair-tally-is-reportedly-up-to-at-least-four-2000844456",
+      "image": "https://gizmodo.com/app/uploads/2026/11/jensen-huang-out-CEO-1280x853.jpg",
+      "date": "Tue, 24 Nov 2026 04:36:05 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Gizmodo",
+      "title": "Don’t Look Now But Anthropic Just Released an ‘I’m Feeling Lucky’ Button for Vibe Coders",
+      "description": "Just when you thought coding wasn't automated enough...",
+      "url": "https://gizmodo.com/dont-look-now-but-anthropic-just-released-an-im-feeling-lucky-button-for-vibe-coders-2000844438",
+      "image": "https://gizmodo.com/app/uploads/2026/11/Anthropic-1280x853.jpg",
+      "date": "Tue, 24 Nov 2026 03:08:34 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Gizmodo",
+      "title": "San Francisco Airport Could Flood This Week Before Thanksgiving",
+      "description": "\"This Thanksgiving week, we are expecting extremely high tides, heavy rain, strong winds, and potential flooding,\" said the mayor.",
+      "url": "https://gizmodo.com/san-francisco-airport-could-flood-this-week-before-thanksgiving-2000844340",
+      "image": "https://gizmodo.com/app/uploads/2026/11/SFO-airport-water-1280x830.jpg",
+      "date": "Tue, 24 Nov 2026 01:39:04 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Gizmodo",
+      "title": "Google Wants to Make AI TV Shows Starring You",
+      "description": "A patent filing provides a glimpse into how Google might view the future of content.",
+      "url": "https://gizmodo.com/google-wants-to-make-ai-tv-shows-starring-you-2000844299",
+      "image": "https://gizmodo.com/app/uploads/2026/11/google-patent-filing-1280x849.jpg",
+      "date": "Tue, 24 Nov 2026 00:22:02 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Gizmodo",
+      "title": "Alcohol Has a Surprising Effect on This Popular Cancer Treatment",
+      "description": "Alcohol can affect the immune system of cancer patients in important ways, research has found.",
+      "url": "https://gizmodo.com/alcohol-has-a-surprising-effect-on-this-popular-cancer-treatment-2000844108",
+      "image": "https://gizmodo.com/app/uploads/2026/11/Empty-wine-bottle-1280x853.jpg",
+      "date": "Mon, 23 Nov 2026 22:45:36 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Gizmodo",
+      "title": "Banks Are Getting Scared of AI Agents, Including Their Own",
+      "description": "Major U.S. banks are tightening security controls over their internal AI agents while also warning customers about the risks of using third-party agents.",
+      "url": "https://gizmodo.com/banks-are-getting-scared-of-ai-agents-including-their-own-2000844134",
+      "image": "https://gizmodo.com/app/uploads/2019/10/sasxgjpsr3faa6bmxh0v-1024x575.jpg",
+      "date": "Mon, 23 Nov 2026 22:35:14 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Gizmodo",
+      "title": "‘Grand Theft Auto VI’ Players Are Learning That No Good Screenshot Goes Unpunished",
+      "description": "It's not just the spicy bits, either.",
+      "url": "https://gizmodo.com/grand-theft-auto-vi-players-are-learning-that-no-good-screenshot-goes-unpunished-2000844113",
+      "image": "https://gizmodo.com/app/uploads/2026/11/GTA-VI-screenshot-1280x853.jpg",
+      "date": "Mon, 23 Nov 2026 22:25:57 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Gizmodo",
+      "title": "Experts Thought This 1,500-Year-Old Gold Medallion Was a Cheap Copy. They May Be Wrong",
+      "description": "“Ultimately, we should stop judging late antique and early medieval works of art by the standards of classical Greek art.”",
+      "url": "https://gizmodo.com/experts-thought-this-1500-year-old-gold-medallion-was-a-cheap-copy-they-may-be-wrong-2000844166",
+      "image": "https://gizmodo.com/app/uploads/2026/11/dumberton-oaks-medallion-with-chain-clasp-1280x853.jpg",
+      "date": "Mon, 23 Nov 2026 22:15:49 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Gizmodo",
+      "title": "Destin Daniel Cretton’s ‘Naruto’ Live-Action Movie Just Added a Legend",
+      "description": "Hiroyuki Sanada, star of 'Shogun,' 'Mortal Kombat,' and more, will play Hiruzen Sarutobi in the film.",
+      "url": "https://gizmodo.com/naruto-live-action-movie-hiroyuki-sanada-cast-hiruzen-sarutobi-2000844293",
+      "image": "https://gizmodo.com/app/uploads/2026/11/Hiroyuki-Sanada-Shogun-1280x853.jpg",
+      "date": "Mon, 23 Nov 2026 22:10:48 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Gizmodo",
+      "title": "An Earthquake Shook a Part of Africa That’s Supposed to Be Stable. Scientists Finally Know Why",
+      "description": "The renewed activity could offer clues to the forces slowly pulling the African continent apart.",
+      "url": "https://gizmodo.com/an-earthquake-shook-a-part-of-africa-thats-supposed-to-be-stable-scientists-finally-know-why-2000844119",
+      "image": "https://gizmodo.com/app/uploads/2026/11/east_african_rift-1280x853.jpg",
+      "date": "Mon, 23 Nov 2026 21:50:05 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Gizmodo",
+      "title": "GPU Jesus Has Risen, and the Tech Bros Are Rejoicing",
+      "description": "Meanwhile, lawmakers are indicating Huang should lawyer up.",
+      "url": "https://gizmodo.com/gpu-jesus-has-risen-and-the-tech-bros-are-rejoicing-2000844001",
+      "image": "https://gizmodo.com/app/uploads/2026/11/jensen-backed-faceless-suit-1280x853.jpg",
+      "date": "Mon, 23 Nov 2026 20:20:41 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Gizmodo",
+      "title": "BepiColombo Reached Mercury After 8 Years. There’s Just One Problem",
+      "description": "After a glitchy 8-year journey, the spacecraft encountered another problem on its final approach to Mercury.",
+      "url": "https://gizmodo.com/bepicolombo-reached-mercury-after-8-years-theres-just-one-problem-2000843996",
+      "image": "https://gizmodo.com/app/uploads/2026/11/bepicolombo-1280x853.jpg",
+      "date": "Mon, 23 Nov 2026 20:15:43 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Gizmodo",
+      "title": "Don’t Expect a New Galaxy Watch Next Year",
+      "description": "The company may be shifting to a biennial release schedule in response to soft demand for the Galaxy Watch 9.",
+      "url": "https://gizmodo.com/samsung-galaxy-watch-10-delayed-2000844153",
+      "image": "https://gizmodo.com/app/uploads/2026/07/Samsung-Galaxy-Watch-Ultra-2-Galaxy-Watch-9-12-1280x853.jpg",
+      "date": "Mon, 23 Nov 2026 20:15:41 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Gizmodo",
+      "title": "Rian Johnson Confirms That ‘Poker Face’ Won’t Return",
+      "description": "A new season with Peter Dinklage stepping in to replace Natasha Lyonne isn't going to happen.",
+      "url": "https://gizmodo.com/rian-johnson-confirms-that-poker-face-wont-return-2000844017",
+      "image": "https://gizmodo.com/app/uploads/2026/11/Poker_Face-1280x853.jpg",
+      "date": "Mon, 23 Nov 2026 19:45:55 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Gizmodo",
+      "title": "The Single Most Important Line From Nvidia’s Statement About Jensen Huang’s Return",
+      "description": "The company’s board voted unanimously to oust its CEO, and rejected widespread calls for his return. Then it got a call from the president of the United States.",
+      "url": "https://gizmodo.com/the-single-most-important-line-from-nvidias-statement-about-jensen-huangs-return-2000844082",
+      "image": "https://gizmodo.com/app/uploads/2026/11/TrumpandHuang-1280x853.jpg",
+      "date": "Mon, 23 Nov 2026 19:30:30 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Gizmodo",
+      "title": "Two NASA Mars Missions Glitched Out Within Days of Each Other, Putting Science on Pause",
+      "description": "NASA's Perseverance rover and Mars Odyssey orbiter are experiencing unrelated technical issues.",
+      "url": "https://gizmodo.com/two-nasa-mars-missions-glitched-out-within-days-of-each-other-putting-science-on-pause-2000843923",
+      "image": "https://gizmodo.com/app/uploads/2026/05/perseverance-rover-selfie-1280x853.jpg",
+      "date": "Mon, 23 Nov 2026 19:15:29 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Gizmodo",
+      "title": "Everything We Noticed in the Final Trailer for ‘Avengers: Doomsday’",
+      "description": "What can Steve's beard tell us? How do the X-Men fit in? And much, much, more.",
+      "url": "https://gizmodo.com/everything-we-noticed-in-the-final-trailer-for-avengers-doomsday-2000843986",
+      "image": "https://gizmodo.com/app/uploads/2026/11/Avengers-Doomsday-thor-lightning-1280x853.jpg",
+      "date": "Mon, 23 Nov 2026 19:00:41 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Gizmodo",
+      "title": "‘God of War’ TV Series Casts a Familiar Face as Faye",
+      "description": "Deborah Ann Woll, who voiced and provided motion capture for Faye in Santa Monica Studio's video game franchise, will reprise the role in Amazon's live-action 'God of War' TV series.",
+      "url": "https://gizmodo.com/god-of-war-tv-series-deborah-ann-woll-cast-faye-2000844010",
+      "image": "https://gizmodo.com/app/uploads/2026/11/God-of-War-Laufey-main-1280x853.jpg",
+      "date": "Mon, 23 Nov 2026 18:45:39 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "Gizmodo",
+      "title": "Nothing’s Mysterious AI Device Is a Pair of Note-Taking Wireless Earbuds",
+      "description": "The \"Ear Note,\" as it's reportedly called, is a pair of AI earbuds, and it's coming soon.",
+      "url": "https://gizmodo.com/nothings-mysterious-ai-device-is-a-pair-of-note-taking-wireless-earbuds-2000844014",
+      "image": "https://gizmodo.com/app/uploads/2026/11/nothing-ai-gadget-1280x853.jpg",
+      "date": "Mon, 23 Nov 2026 18:30:00 +0000"
+    },
     {
       "category": "eng",
       "source": "Lifehacker",
@@ -544,186 +724,6 @@
       "url": "https://lifehacker.com/tech/best-gifts-for-every-tech-nerd?utm_medium=RSS",
       "image": "https://lifehacker.com/imagery/articles/01JE4TRRX18138P1FG63NE9FPD/hero-image.jpg",
       "date": "Mon, 23 Nov 2026 19:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "The Oura Ring 5 Is $100 Off Ahead of Black Friday",
-      "description": "Oura’s slimmer smart ring is lasts up to nine days per charge.",
-      "url": "https://lifehacker.com/tech/oura-ring-5-sale-early-black-friday-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M84VGQCJJ9MCXGV0JDG7YD9N/hero-image.jpg",
-      "date": "Mon, 23 Nov 2026 19:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "If You Loved 'The Diplomat,' There's One Movie You Need to Watch Next",
-      "description": "Seeking more international intrigue involving messy, fascinating characters? There’s one movie you need to watch.",
-      "url": "https://lifehacker.com/entertainment/one-movie-for-fans-of-the-diplomat-to-watch-next?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M84QGZMZSTTXWZGE8KA0V81G/hero-image.jpg",
-      "date": "Mon, 23 Nov 2026 18:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "These Are the Best Early Black Friday Deals on Kindles and E-Readers",
-      "description": "Kindles just went up in price, so it's a great time to save.",
-      "url": "https://lifehacker.com/tech/best-kindle-ereader-sales-black-friday-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M7TCDHMKX9HZTQSJ1R9GDKPV/hero-image.png",
-      "date": "Mon, 23 Nov 2026 17:19:59 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "The Wallet-Sized Xteink X4 Pro Is Lifehacker's E-Reader Gift of the Year, and It's on Sale for Black Friday",
-      "description": "This tiny device could change your (reading) life at the current price of just $84.",
-      "url": "https://lifehacker.com/tech/xteink-x4-pro-deal-early-black-friday-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M84GTWNYPTK9Q2RKBW3DECYR/hero-image.png",
-      "date": "Mon, 23 Nov 2026 16:00:52 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "10 'Find Hub' Hacks Every Android User Should Know",
-      "description": "These Find Hub hacks help you keep tabs on your devices.",
-      "url": "https://lifehacker.com/tech/10-find-hub-hacks-every-android-user-should-know?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M845MCXJXQWMB6RWN1VAXZRH/hero-image.jpg",
-      "date": "Mon, 23 Nov 2026 15:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "'Wifi Motion Sensing' Can Track Everything You Do Through Your Router",
-      "description": "Wifi motion sensing turns your router into a motion detector—if you opt in.",
-      "url": "https://lifehacker.com/tech/wifi-motion-sensing-can-track-everything-you-do-through-your-router?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M80Q0PVYKQF2E3801DPKRF8Y/hero-image.jpg",
-      "date": "Mon, 23 Nov 2026 14:30:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place",
-      "description": "Keep up with all of the best deals that Lifehacker publishes, including laptops, speakers, TVs, security cameras, and more.",
-      "url": "https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg",
-      "date": "Sat, 21 Nov 2026 18:35:40 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week",
-      "description": "Find great deals on the M5 MacBook Air, the best headphones of 2026, Kindle readers, and more ahead of the Black Friday sales.",
-      "url": "https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.jpg",
-      "date": "Fri, 20 Nov 2026 22:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "These 14 New Features Are Coming to iOS 27.3",
-      "description": "Apple is currently beta testing iOS 27.3. Here's what's new.",
-      "url": "https://lifehacker.com/tech/whats-new-with-ios-273?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M6HETAHMXZFESNG7KRKSXEV0/hero-image.jpg",
-      "date": "Fri, 20 Nov 2026 21:00:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "Lifehacker",
-      "title": "The Best Amazon Prime Benefits You Probably Don't Know About",
-      "description": "There's more to being a Prime Member than just getting free two-day shipping.",
-      "url": "https://lifehacker.com/best-amazon-prime-benefits?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01JYHYVVF3E2SN8A9K7M43R2V1/hero-image.png",
-      "date": "Fri, 20 Nov 2026 20:40:00 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Jensen Huang is back. Nvidia’s AI empire is too powerful to disrupt",
-      "description": "Jensen Huang is back at Nvidia , just 11 days after resigning amid revelations about extramarital affairs and concerns about a possible foreign intelligence connection. His return sent Nvidia’s stock soaring in early trading, and President Donald Trump says he personally helped convince the company’s board to reinstate him. That’s quite a turnaround for a CEO whose return the board had publicly ruled out just last week. Nvidia’s directors say their independent investigation will continue, even a",
-      "url": "https://www.pcworld.com/article/3294371/jensen-huang-is-back-nvidias-ai-empire-is-too-powerful-to-disrupt.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3284206-0-94500400-1794587618-Nvidia-CEO-Jensen-Huang.jpg?quality=50&strip=all",
-      "date": "Mon, 23 Nov 2026 20:37:11 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "How do I turn a photo into a video with AI?",
-      "description": "In an online world overloaded with images vying for our attention, movement is one way to catch the eye. But what if all you have is a photograph or static image? How can you bring that to life without hiring animators or learning the process yourself? Simple, use an AI video generator. With just a single image, plus a few words of instruction, you can quickly and easily turn a boring old still into something that moves and has energy. Whether it’s to celebrate an anniversary by animating a dust",
-      "url": "https://www.pcworld.com/article/3293040/how-do-i-turn-a-photo-into-a-video-with-ai.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3293040-0-22443400-1795462852-Adobe-Woman-Multiple-Screens-Office.png",
-      "date": "Mon, 23 Nov 2026 19:40:44 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "How do I turn my script into a video for YouTube with AI?",
-      "description": "Video is more important now than ever. Take a look at almost any website these days and you’ll find the static images of the past are being replaced with video content. In fact, a recent survey from Wyzowl revealed that 96% of people said they’d watched an explainer video to learn about a product or a service. But, with video content traditionally being complicated and expensive to make, how can someone without a production suite, editing skills, presenters or even cameras hope to stay relevant ",
-      "url": "https://www.pcworld.com/article/3293035/how-do-i-turn-my-script-into-a-video-for-youtube-with-ai.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3293035-0-60397600-1795462798-Adobe-Couple-iPad-Office.png",
-      "date": "Mon, 23 Nov 2026 19:39:52 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "How do I make an image from text with AI?",
-      "description": "It can be frustrating to have an idea in your head for a design, scene or subject, but lack the artistic ability to make it real. You could, of course, pay a designer to bring your vision to life, but that can be costly and take time. Now, with AI image generators, the process is much simpler. You can just describe what you can see in your minds’ eye and it will appear before you in minutes. No need for hours of sketching, or learning how to use complex software. Here’s how you can generate real",
-      "url": "https://www.pcworld.com/article/3293189/how-do-i-make-an-image-from-text-with-ai.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3293189-0-85200100-1795462748-Adobe-Woman-Laptop-Window.png",
-      "date": "Mon, 23 Nov 2026 19:39:01 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Nintendo Switch 2 storage is expensive. These Black Friday microSD Express card deals help",
-      "description": "Black Friday Deal microSD Express card deals for the Nintendo Switch 2 Load these with your games, screenshots, game saves and more Up to 44% off I now own a Switch 2. I’m also now painfully aware Nintendo’s current handheld requires microSD Express cards for local storage—faster but more expensive versions of microSD cards. (Ugh.) But while Nintendo can’t be relied on for a Black Friday deal on its branded microSD Express cards, SanDisk and Samsung can be. Right now on Amazon, you can pick up 2",
-      "url": "https://www.pcworld.com/article/3294538/nintendo-switch-2-storage-is-expensive-these-black-friday-microsd-express-card-deals-help.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3294538-0-59685700-1795461565-Samsung-P9-microSD.jpg?quality=50&strip=all",
-      "date": "Mon, 23 Nov 2026 19:19:17 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Best Black Friday tech deals on Amazon 2026",
-      "description": "Unsurprisingly, Amazon is wasting no time in kicking off the holiday shopping season. Already, you can find popular tech on sale ahead of the official Black Friday, which is November 27 this year. Of course, there’s always the ever-present issue of sifting through the clutter to find the deals that are truly worthwhile. This is where PCWorld’s tech experts come in. Our guide to the best Amazon Black Friday tech deals will point you to the best bargains in all the most popular tech categories. De",
-      "url": "https://www.pcworld.com/article/1384292/best-black-friday-amazon-tech-deals.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/1384292-0-64544400-1794921573-Amazon-logo-orange-smile-on-black-background.jpg?quality=50&strip=all",
-      "date": "Mon, 23 Nov 2026 19:15:10 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Best Black Friday Chromebook deals: What to expect and early sales",
-      "description": "Black Friday deals on Chromebooks typically begin now — in advance of Black Friday, and especially around the week on or before Thanksgiving. I’ve collected the best deals on Chromebooks for years, and I’m here once again to dig out the best Chromebook deals in advance of Black Friday. I’m going to warn you, though — this job is harder than ever. You’re probably aware of how laptop prices have skyrocketed because of the shortages of memory and storage, and unfortunately those trends are affectin",
-      "url": "https://www.pcworld.com/article/1377179/best-early-black-friday-chromebook-deals-2026.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/1377179-0-71975700-1794921596-Chromebook-deals-pcworld.png",
-      "date": "Mon, 23 Nov 2026 18:05:32 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Best Black Friday Thunderbolt dock deals: What to expect and early sales",
-      "description": "Early Black Friday deals on Thunderbolt docs and USB-C laptop docking stations are growing quickly, with retailers jumping on “Black Month” interest to reward shoppers with some early sales. I’ve been writing about, reviewing, and publishing deals on Thunderbolt docks for years. I love them! They’re fantastic additions to your desktop. I will say that dock deals can be harder to find now, as inflation has pushed some prices higher. Still, there are still solid discounts to be had — and, interest",
-      "url": "https://www.pcworld.com/article/2133475/best-early-black-friday-thunderbolt-dock-deals-2026.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/2133475-0-92622700-1794921623-Belkin-Thunderbolt-4-Hub-Connect.jpg?quality=50&strip=all",
-      "date": "Mon, 23 Nov 2026 18:00:11 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Google’s dedicated search button is going away. Here’s what’s next",
-      "description": "The Google Search button has been an integral part of the user experience for decades. Now that’s going to change, as Google is replacing it with… AI. Originally reported by Ars Technica , Google is already rolling out a new homepage to its first users. It offers a glimpse of the new design that swaps out the Google Search button for AI shortcuts, including things like image generation, file analysis, and brainstorming. The AI chat can also be expanded and centered via a sidebar. Interestingly, ",
-      "url": "https://www.pcworld.com/article/3294382/the-classic-google-search-is-disappearing-completely-what-happens-next.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/05/Google-AI-slop-on-screen-2.jpg?quality=50&strip=all",
-      "date": "Mon, 23 Nov 2026 17:39:40 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "How to unsubscribe from unwanted emails in Gmail and Outlook",
-      "description": "Newsletters, surveys, adverts, updates–plenty of different emails fill up our inboxes every day. The difference between spam and ordinary email is that spam consists of messages you never asked for. Sending it can be illegal, and it’s only criminals or unscrupulous companies that engage in it. Legitimate email advertising, on the other hand, requires your consent. Usually, you actively sign up for a subscription, though sometimes you’re automatically added to a list when you buy from an online s",
-      "url": "https://www.pcworld.com/article/3294313/how-to-unsubscribe-from-unwanted-emails-in-gmail-and-outlook.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3294313-0-86278800-1795454077-geralt-e-mail-4487083.jpg?quality=50&strip=all",
-      "date": "Mon, 23 Nov 2026 17:14:25 +0000"
     }
   ],
   "starwars": [
@@ -810,96 +810,6 @@
     },
     {
       "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "Neuer Screenshot aus der 2. Staffel von Ahsoka",
-      "description": "Zwei gestrandete Jedi-in-spe an der Schwelle zum Herz der Finsternis ...",
-      "url": "https://starwars-union.de/neuer-screenshot-aus-der-2-staffel-von-ahsoka/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/08/Ahsoka-Staffel-2.jpg",
-      "date": "Fri, 20 Nov 2026 12:14:35 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "Galactic Racer bekommt einen Split-Screen-Modus",
-      "description": "Der Community-Wunsch wurde erhört",
-      "url": "https://starwars-union.de/galactic-racer-bekommt-einen-split-screen-modus/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/11/20261117-galactic-racer-splitscreen.jpg",
-      "date": "Tue, 17 Nov 2026 16:33:08 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "Grammy-Nominierungen an zweifacher Front für Star Wars",
-      "description": "Sowohl im Bereich Film als auch Videospiel dürfen sich zwei uns wohlbekannte Komponisten über eine entsprechende Nominierung freuen.",
-      "url": "https://starwars-union.de/grammy-nominierungen-an-zweifacher-front-fuer-star-wars/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/11/Grammy-Nominierungen-2026-web.jpg",
-      "date": "Tue, 17 Nov 2026 15:39:40 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "Zeitreise 1997: Es reicht allmählich",
-      "description": "Vor dem 50. Geburtstag der Saga und anlässlich der ersten Informationen über die geplanten Jubiläumsevents, blicken wir ins Jahr 1997 zurück, als die Special Edition zum 20. Geburtstag nicht universell für Begeisterung sorgte, sondern im Fall eines Kritikers eher mit kulturpessimistischer Resignation betrachtet wurde.",
-      "url": "https://starwars-union.de/zeitreise-1997-es-reicht-allmaehlich/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/11/Die-grossen-Drei.jpg",
-      "date": "Mon, 16 Nov 2026 12:45:12 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "Merchandise, Veranstaltungen und mehr zum 50. Geburtstag von Star Wars",
-      "description": "StarWars.com stellt die Höhepunkt des Jubiläumsjahrs 2027 vor.",
-      "url": "https://starwars-union.de/merchandise-veranstaltungen-und-mehr-zum-50-geburtstag-von-star-wars/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/11/50-Jahre-Star-Wars.jpg",
-      "date": "Thu, 12 Nov 2026 16:39:34 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "Zeitreise 1987: 10 Jahre Krieg der Sterne",
-      "description": "Im Mai 1987 blickte die New York Times zurück, und George Lucas gab Einblicke in sein schwierigstes Jahrzehnt.",
-      "url": "https://starwars-union.de/zeitreise-1987-10-jahre-krieg-der-sterne-2/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/11/10-Jahre-Star-Wars.jpg",
-      "date": "Wed, 11 Nov 2026 11:19:45 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "Zeitreise 1978: Das phänomenale erste Jahr des Kriegs der Sterne",
-      "description": "Ein Jahr nach Star Wars blickte 20th Century Fox zurück auf einen unfassbaren Erfolg.",
-      "url": "https://starwars-union.de/zeitreise-1978-das-phaenomenale-erste-jahr-des-kriegs-der-sterne/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/11/Star-Wars-1978.jpg",
-      "date": "Tue, 10 Nov 2026 11:40:22 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "Adam Driver erteilt The Hunt for Ben Solo eine (recht) endgültige Absage",
-      "description": "Der Zug sei abgefahren, so der Darsteller.",
-      "url": "https://starwars-union.de/adam-driver-erteilt-the-hunt-for-ben-solo-eine-recht-endgueltige-absage/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2025/10/Ben-Solo.jpg",
-      "date": "Fri, 06 Nov 2026 14:48:44 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "Nostalgie trifft Eskapismus: The Illustrated Star Wars Universe",
-      "description": "Wir schwelgen in schönen Erinnerungen an ein unerhofftes Meisterwerk der 90er-Literatur: Ralph McQuarries Reiseführer in die weit, weit entfernte Galaxis.",
-      "url": "https://starwars-union.de/nostalgie-trifft-eskapismus-the-illustrated-star-wars-universe/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/11/The-Illustrated-Star-Wars-Universe-Cover.jpg",
-      "date": "Thu, 05 Nov 2026 14:18:23 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Star Wars Union",
-      "title": "Echte Wüsten: Die Ahsoka-Darsteller über weniger Volume-Arbeit für Staffel 2",
-      "description": "Übers Wochenende fand die LA Comic Con statt, bei der es unter anderem ein Panel zu Staffel 2 von Ahsoka gab. Dort gaben Rosario Dawson (Ahsoka Tano), Natasha Liu Bordizzo (Sabine Wren) und Eman Esfandi (Ezra Bridger) Einblicke in die Produktion und blickten auf die Arbeit mit Dave Filoni zurück. Mehr praktische Sets & echte […]",
-      "url": "https://starwars-union.de/echte-wuesten-die-ahsoka-darsteller-ueber-weniger-volume-arbeit-fuer-staffel-2/",
-      "image": "https://swuimagestorage.s3.eu-central-1.amazonaws.com/2026/08/20260815-ahsoka-s2-teaser-163.jpg",
-      "date": "Tue, 03 Nov 2026 08:29:28 +0000"
-    },
-    {
-      "category": "starwars",
       "source": "Jedi News",
       "title": "Harrison Ford and Calista Flockhart Receive Their First Joint Award",
       "description": "Last Wednesday, Harrison Ford and Calista Flockhart received a Hollywood Icon Award at the Stardust Ball from the Women’s Guild Cedars-Sinai, and Flockhart shared what she said when asked if they would accept the award, \"We said yes. We said yes, yes, yes\". The post Harrison Ford and Calista Flockhart Receive Their First Joint Award appeared first on Jedi News .",
@@ -949,7 +859,7 @@
       "title": "The ForceCast: Ahsoka Season 2 – What We Know So Far?",
       "description": "Tune in for the latest Star Wars news on the ForceCast. The post The ForceCast: Ahsoka Season 2 – What We Know So Far? appeared first on Jedi News .",
       "url": "https://www.jedinews.com/podcasts/articles/the-forcecast-ahsoka-season-2-what-we-know-so-far/",
-      "image": "",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/01/xJediNews_Header_1800x250_Jan26.png.pagespeed.ic.zr1z2JsREw.jpg",
       "date": "Mon, 23 Nov 2026 01:01:40 +0000"
     },
     {
@@ -976,7 +886,7 @@
       "title": "Coffee With Kenobi #870: 50 Years of Star Wars: A Galaxy-Wide Celebration Begins",
       "description": "Join Dan Zehr and co for episode 870 of Coffee With Kenobi. The post Coffee With Kenobi #870: 50 Years of Star Wars: A Galaxy-Wide Celebration Begins appeared first on Jedi News .",
       "url": "https://www.jedinews.com/podcasts/articles/coffee-with-kenobi-870-50-years-of-star-wars-a-galaxy-wide-celebration-begins/",
-      "image": "",
+      "image": "https://www.jedinews.com/wp-content/uploads/2022/04/Coffee-with-Kenobi-New-Logo-April-2022.jpg",
       "date": "Sun, 22 Nov 2026 20:00:24 +0000"
     },
     {
@@ -996,6 +906,87 @@
       "url": "https://www.jedinews.com/film-music-tv/articles/rosario-dawsons-cameo-back-in-extended-cut-of-spider-man-brand-new-day/",
       "image": "https://www.jedinews.com/wp-content/uploads/2026/11/Rosario-Dawson-Spider-Man-Nov26-300x201.jpg",
       "date": "Sun, 22 Nov 2026 02:55:53 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Rebel Force Radio: Star Wars 50th Anniversary Roundup",
+      "description": "Join Jimmy and Jason on Rebel Force Radio as they discuss the latest Star Wars news. The post Rebel Force Radio: Star Wars 50th Anniversary Roundup appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/rebel-force-radio-star-wars-50th-anniversary-roundup/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2018/04/rebel-force-radio-300x201.jpg",
+      "date": "Sun, 22 Nov 2026 02:22:51 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Tony Gilroy Has “No Idea” About Andor Season 2 Release on 4K",
+      "description": "During an interview with Tony Gilroy about his upcoming film BEHEMOTH!, Collider's Steven Weintraub asked the writer/director about plans for a Andor 4K boxset featuring both seasons, with the writer/director responding, “No idea. I really have no idea”. The post Tony Gilroy Has “No Idea” About Andor Season 2 Release on 4K appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/tony-gilroy-has-no-idea-about-andor-season-2-release-on-4k/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/Andor-Season-2-Nov26-300x201.jpg",
+      "date": "Sun, 22 Nov 2026 01:01:52 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Droids in Distress | Star Wars Rebels S1 E3 | Full Episode | Star Wars Kids",
+      "description": "The rebels intercept a shipment of weapons intended for the Empire and accidentally end up hosting a pair of droids. Stream Star Wars Rebels on Disney+. The post Droids in Distress | Star Wars Rebels S1 E3 | Full Episode | Star Wars Kids appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/droids-in-distress-star-wars-rebels-s1-e3-full-episode-star-wars-kids/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/maxresdefault-37-300x169.jpg",
+      "date": "Sun, 22 Nov 2026 00:22:51 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Star Wars Comic Previews: November 25, 2026",
+      "description": "An early look inside the pages of the Marvel Comics and Dark Horse Comics Star Wars titles for release on November 25, 2026. The post Star Wars Comic Previews: November 25, 2026 appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/literature/articles/star-wars-comic-previews-november-25-2026/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/TBoBF5-FI-300x201.jpg",
+      "date": "Sat, 21 Nov 2026 23:01:11 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Meet Brendan Wayne at FAN EXPO New Orleans, January 8th – 10th, 2027",
+      "description": "Brendan Wayne, the man behind the mask of The Mandalorian, is attending FAN EXPO New Orleans between January 8th - 10th, 2027, at the New Orleans Ernest N. Morial Convention Center. The post Meet Brendan Wayne at FAN EXPO New Orleans, January 8th – 10th, 2027 appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/events/articles/meet-brendan-wayne-at-fan-expo-new-orleans-january-8th-10th-2027/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/Brendan-Wayne-Fan-Expo-New-Orleans-Nov26-300x201.jpg",
+      "date": "Sat, 21 Nov 2026 20:00:43 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "The Star Wars Underworld Podcast Live | ‘Star Wars’ Earns Nominations At The Grammys & Game Awards!",
+      "description": "Join the Star Wars Underworld team as they discuss this week's latest Star Wars news. The post The Star Wars Underworld Podcast Live | ‘Star Wars’ Earns Nominations At The Grammys & Game Awards! appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/the-star-wars-underworld-podcast-live-star-wars-earns-nominations-at-the-grammys-game-awards/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2018/08/The-SW-Underworld-300x201.jpg",
+      "date": "Sat, 21 Nov 2026 19:27:21 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Indiana Jones Actor John Rhys-Davies was “Very Disappointed” in Dial of Destiny",
+      "description": "After reprising the role of Sallah in Indiana Jones and the Dial of Destiny, John Rhys-Davies has shared his disappointment with how the film turned out, \"I found that the scenes that I've been promised in the thing were cut immediately after I signed the contract\". The post Indiana Jones Actor John Rhys-Davies was “Very Disappointed” in Dial of Destiny appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/indiana-jones-actor-john-rhys-davies-was-very-disappointed-in-dial-of-destiny/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/John-Rhys-Davies-Dial-of-Destiny-Nov26-300x201.jpg",
+      "date": "Sat, 21 Nov 2026 18:54:59 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "George Lucas and Mellody Hobson Visit Ferrari at F1 Las Vegas Grand Prix",
+      "description": "George Lucas and Mellody Hobson are in Las Vegas for the F1 Grand Prix and were photographed leaving the Ferrari pit/hospitality area after qualifying, which saw their friend Lewis Hamilton eliminated in Q2 and will start the race from eleventh on the grid. The post George Lucas and Mellody Hobson Visit Ferrari at F1 Las Vegas Grand Prix appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/events/articles/george-lucas-and-mellody-hobson-visit-ferrari-at-f1-las-vegas-grand-prix/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/George-Lucas-Las-Vegas-Qualifying-Nov26-300x201.jpg",
+      "date": "Sat, 21 Nov 2026 18:18:41 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Yoda Sends Luke Into the Cave of Evil | Star Wars: The Empire Strikes Back | Official Clip",
+      "description": "Deep in the swamps of Dagobah, Yoda tests Luke Skywalker with a chilling trial: a dark, mysterious cave strong with the dark side of the Force. Star Wars: The Empire Strikes Back is now streaming on Disney+. The post Yoda Sends Luke Into the Cave of Evil | Star Wars: The Empire Strikes Back | Official Clip appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/film-music-tv/articles/yoda-sends-luke-into-the-cave-of-evil-star-wars-the-empire-strikes-back-official-clip/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/maxresdefault-35-300x169.jpg",
+      "date": "Sat, 21 Nov 2026 14:24:40 +0000"
     }
   ],
   "youtube": [
