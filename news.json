@@ -1,6 +1,87 @@
 {
-  "updated": "2026-11-26T05:18:41.444794+00:00",
+  "updated": "2026-11-26T15:36:54.280026+00:00",
   "mkd": [
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Торвалдс остро „искара“ одржувач на Linux што испрати 41.197 линии код во завршната фаза",
+      "description": "Линус Торвалдс, креаторот на Linux, остро го искара Тед Цо, одржувачот на системот на датотеки ext4, откако тој во вторник побара во јадрото да влезат 94 промени со вкупно 41.197 нови линии код. Проблемот, според Торвалдс, е времето, бидејќи Linux 7.4 е веќе во фазата на пробни верзии („rc“), кога кодот треба да се „смирува“, […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/torvalds-iskara-odrzuvac-mnogu-linii-kod/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/10/LinuxCon_Europe_Linus_Torvalds_03-150x150.webp",
+      "date": "Thu, 26 Nov 2026 12:44:16 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Firefox доби копче за брзо бришење на историјата и избор кои страници одат преку VPN",
+      "description": "Mozilla го објави Firefox 161, а меѓу новостите се две функции поврзани со приватноста, кои ги најави уште во октомври. Тоа се копчето „🔥“ за брзо бришење на податоците од прелистувањето и правила со кои се избира кои страници автоматски се отвораат преку вградениот VPN, а кои без него. Копчето 🔥 досега постоеше во приватниот […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/firefox-kopce-brisenje-istorija/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/Fire-Button-2048x1152.png-150x150.webp",
+      "date": "Thu, 26 Nov 2026 12:23:57 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Новиот Pop!_OS носи теми на еден клик, поддршка за таблети за цртање и автоматски ажурирања",
+      "description": "Американската компанија System76, која продава лаптопи и компјутери со Linux, го објави Pop!_OS 26.04 LTS, новата верзија со долгорочна поддршка на својата дистрибуција. Таа се заснова на Ubuntu 26.04 LTS, која излезе во април и доаѓа со COSMIC, десктопот што компанијата сама го развива. Главната новина се Constellations, готови теми кои со еден клик ги […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/pop-os-26-04/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/8sjSMljpgYn2bbU4_poptheme.jpg-150x150.webp",
+      "date": "Thu, 26 Nov 2026 11:46:24 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Canonical подготвува нова алатка за пребарување и апликации во Ubuntu со вештачка интелигенција само по избор",
+      "description": "Canonical откри повеќе детали за новиот начин на работа со Ubuntu системот за десктоп, кој на прв поглед изгледа како „launcher“ за брзо пребарување на датотеки и стартување апликации, слично на Spotlight на Mac. Дидие Рош од тимот за Ubuntu десктопот објасни на форумот на Ubuntu дека целта е едно место, прилагодено на тастатура и […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/canonical-nova-alatka-prebaruvanje-i-aplikacii-so-vi/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/warty_launcher-150x150.webp",
+      "date": "Thu, 26 Nov 2026 11:17:28 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "WhatsApp воведува закажување на пораките што може да се испратат и до 14 дена подоцна",
+      "description": "WhatsApp почна да ја воведува можноста за закажување на пораките, функција што според објавата на компанијата е меѓу најбараните од корисниците. Пораката се пишува „кога ќе се сетите“, а се испраќа подоцна, од 10 минути до 14 дена однапред и тоа во разговорите еден на еден и во групите. WhatsApp ги дава и очекуваните примери: […]",
+      "url": "https://smartportal.mk/novosti/softver-prog/whatsapp-zakazani-poraki/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/906869814_1687983666337980_6016121492841745262_n.png-150x150.webp",
+      "date": "Thu, 26 Nov 2026 10:29:19 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Apple планира значителни промени кај известувањата на iPhone со iOS 28, според MacRumors",
+      "description": "Apple планира да го преработи системот за известувања на iPhone со iOS 28, кој треба да стигне следната година, пишува MacRumors. Според нивните повеќе неименувани извори, новата верзија ќе донесе значителни промени во делот за известувања („Notification Center“), но конкретни детали немаат. Самите MacRumors нагласуваат дека засега станува збор само за гласина. Марк Гурман од […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/apple-promeni-izvestuvanja-ios-28/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/new-york-usa-may-2023-Depositphotos_729374974_XL-150x150.webp",
+      "date": "Thu, 26 Nov 2026 10:13:51 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Следната верзија на Windows ќе го има новиот PowerShell, а стариот ќе биде отстранет подоцна",
+      "description": "Microsoft ќе го вклучи PowerShell 7 во следната верзија на Windows, покрај Windows PowerShell 5.1 кој со години доаѓа со системот. Тимот на PowerShell минатата недела објави дека ова е барањето кое најчесто го добивале од корисниците, а Microsoft истовремено го прогласи Windows PowerShell 5.1 за застарен. Windows PowerShell 5.1 е верзијата на која со […]",
+      "url": "https://smartportal.mk/novosti/operativni-sistemi/noviot-powershell-sledna-verzija-windows/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/close-up-side-profile-photo-Depositphotos_288020168_XL-150x150.webp",
+      "date": "Thu, 26 Nov 2026 10:02:04 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Леталото Hera откри дека ударот на NASA оставил кратер голем колку стадион на астероидот Dimorphos",
+      "description": "Леталото Hera на Европската вселенска агенција (ESA) ги објави првите детални слики од Dimorphos, малиот астероид во кој NASA намерно удри во 2022 година. Изгледа дека ударот го променил повеќе отколку што се очекуваше, бидејќи едната страна му е израмнета со кратер голем колку спортски стадион. Dimorphos е широк 151 метар и кружи околу поголемиот […]",
+      "url": "https://smartportal.mk/novosti/nauka-istrazuvanja/hera-otkri-udarot-na-nasa-golem-krater-dimorphos/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/Hera_approaches_Dimorphos-150x150.webp",
+      "date": "Thu, 26 Nov 2026 09:36:47 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "SmartPortal",
+      "title": "Напаѓач презеде имиња и имејл адреси од 1Password, а според компанијата лозинките не се засегнати",
+      "description": "1Password, еден од попознатите менаџери за лозинки, објави дека напаѓач добил пристап до дел од нивните „backend“ системи и презел ограничен број податоци за дел од корисниците, меѓу кои имиња и имејл адреси. Според компанијата, содржината на сефовите, односно лозинките и другите зачувани податоци, како и клучевите што ги штитат, не се засегнати. На 19 […]",
+      "url": "https://smartportal.mk/novosti/veb-i-bezbednost/hakiran-1password/",
+      "image": "https://smartportal.mk/wp-content/uploads/2026/11/1Password-logo_White-blue-1.webp",
+      "date": "Thu, 26 Nov 2026 09:12:59 +0000"
+    },
     {
       "category": "mkd",
       "source": "SmartPortal",
@@ -12,267 +93,195 @@
     },
     {
       "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Новиот KDE терминал Kwi ја доби првата верзија и стана официјален KDE проект",
-      "description": "Kwi, новиот терминал за KDE Plasma што пред три недели го претстави долгогодишниот KDE програмер Ајке Хајн, ја доби првата верзија 0.1.0. Тогаш Хајн пишуваше дека проектот нема ни таква ознака, а сега Kwi е достапен на Flathub, додека изворниот код е на серверите на KDE за оние што подготвуваат пакети за дистрибуциите. Дополнително, Kwi […]",
-      "url": "https://smartportal.mk/novosti/softver-prog/kwi-ja-dobi-prvata-verzija/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/kwi_screenshot_2026-11_01-150x150.webp",
-      "date": "Wed, 25 Nov 2026 13:35:22 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Дигиталната инфраструктура како предуслов за нови инвестиции и конкурентна економија",
-      "description": "Американската стопанска комора во Македонија (АмЧам) ја организираше четвртата конференција за дигитализација, годинава под наслов „Powering the Next Generation of Industries“, посветена на развојот на дигиталната инфраструктура и предусловите за привлекување нови технолошки инвестиции. На конференцијата беше нагласено дека дигитализацијата е неопходна за конкурентноста на македонската економија, а за искористување на нејзиниот потенцијал клучни се […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/digitalnata-infrastruktura-kako-preduslov-za-novi-investicii/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/Foto-1-cover_AmCham-Digital_24.11.2026-150x150.webp",
-      "date": "Wed, 25 Nov 2026 13:19:10 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Google застана на страната на Mozilla во критиките кон Apple за прелистувачите на iPhone",
-      "description": "Google јавно ја поддржа Mozilla во критиките кон условите што Apple ги поставува за прелистувачите на iPhone. Chrome for Developers, профилот на Google за програмерите што работат со Chrome, вчера на X напиша „We agree with @mozilla“, односно дека се согласуваат со Mozilla и споделија линк до нејзината објава за iOS. Според Google, скоро три […]",
-      "url": "https://smartportal.mk/novosti/kompanii-institucii/google-na-strana-na-mozilla-protiv-apple/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/mountain-view-california-august-2023-Depositphotos_672977512_XL-150x150.webp",
-      "date": "Wed, 25 Nov 2026 11:21:36 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Џон Просер тврди дека iPhone Air 2 ќе добие втора камера, подобро ладење и поголема батерија",
-      "description": "Џон Просер, кој во јули го „прикажа“ iPhone Air 2, на 20 ноември на својот YouTube канал „fpt.“ објави ново видео со повеќе детали за наследникот на тенкиот iPhone Air. Како и досега, станува збор за непотврдени информации, а Apple телефонот официјално го нема најавено. Најголемата промена останува втората камера. Според Просер, iPhone Air 2 […]",
-      "url": "https://smartportal.mk/novosti/smartfoni/jon-prosser-iphone-air-2-dve-kameri/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/fpt-iphone-air-2-1-150x150.webp",
-      "date": "Wed, 25 Nov 2026 11:03:26 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Nothing на 8 декември претставува „AI“ слушалки што според Bloomberg снимаат состаноци и повици",
-      "description": "Nothing на X објави нова најава за 8 декември, со пораката „Productivity is brutal“ и слика од мал сив метален уред. На него се гледаат копче „Talk“, копче со црвена точка за снимање и две светла, зелено и црвено. Компанијата датумот го потврди минатата недела со пораката „Be present. It’s noted.“, но официјално сè уште […]",
-      "url": "https://smartportal.mk/novosti/uredi/nothing-8-dekemvri-slusalki-sto-snimaat-sostanoci/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/HX5l_rLX0AA6zeN-150x150.webp",
-      "date": "Wed, 25 Nov 2026 10:41:02 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Claude сега ги претвора „artifacts“ во апликации за Mac и Windows со сопствена икона и прозорец",
-      "description": "Anthropic ја претстави функцијата „Install as app“, со која „artifacts“ направени во Claude може да се инсталираат како посебни апликации на Mac и Windows. „Artifacts“ се интерактивните содржини што Claude ги прави во разговор, како графикони, веб страници или мали алатки, а досега се отвораа во самиот Claude. Инсталираната апликација добива сопствена икона и се […]",
-      "url": "https://smartportal.mk/novosti/ai/claude-artifacts-aplikacii/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/claude-install-artifacts-1-150x150.webp",
-      "date": "Wed, 25 Nov 2026 10:25:33 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "OpenAI и Cisco го претставија Shirudo за заштита на Linux системите додека не стигне потребната закрпа",
-      "description": "OpenAI и Cisco го претставија Shirudo, систем со отворен код што треба да им помогне на тимовите да ги заштитат Linux серверите додека се подготвува и тестира закрпа за некој безбедносен пропуст. Името на јапонски значи „штит“, а така се викаат и привремените заштити што ги создава. Според OpenAI, тестирањето и воведувањето на закрпа и […]",
-      "url": "https://smartportal.mk/novosti/softver-prog/openai-cisco-shirudo/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/shirudo-partner-logos-landscape-2x.png.webp",
-      "date": "Tue, 24 Nov 2026 15:31:27 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Kagi, компанијата позната по платениот пребарувач, ја претстави својата е-пошта Kagi Mail во бета верзија",
-      "description": "Kagi, компанијата позната по пребарувачот што наместо од реклами се финансира од претплатите на корисниците, ја објави јавната бета верзија на Kagi Mail, сервис за е-пошта и календар. Според Kagi, ако веќе сте го замениле пребарувањето на Google со нивното и Chrome со прелистувачот Orion, е-поштата веројатно е последниот голем дел од дигиталниот живот што […]",
-      "url": "https://smartportal.mk/novosti/servisi/kagi-mail-beta/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/kagi-mail-announcement-150x150.webp",
-      "date": "Tue, 24 Nov 2026 15:16:48 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "SmartPortal",
-      "title": "Anthropic го претстави Claude Ship, систем на агенти што ги прегледуваат, поправаат и одобруваат промените во кодот",
-      "description": "Anthropic го претстави Claude Ship, збир од агенти за програмерските тимови на GitHub, кој треба да го скрати патот од „pull request“, односно барањето за спојување на промени, до нивното спојување со главниот код. Според компанијата, Claude Ship може да ги прегледа промените, да ги поправи и да одлучи кои се подготвени за спојување, според […]",
-      "url": "https://smartportal.mk/novosti/ai/anthropic-claude-ship/",
-      "image": "https://smartportal.mk/wp-content/uploads/2026/11/dhaka-bangladesh-dec-2025-close-Depositphotos_879734550_XL-150x150.webp",
-      "date": "Tue, 24 Nov 2026 14:57:13 +0000"
+      "source": "Time.mk - All",
+      "title": "Мрежата за заштита од дискриминација испрати писма до сите пратеници и министри: Гаши прв на списокот на „ѕидот на срамот“ | Слободен Печат",
+      "description": "",
+      "url": "https://time.mk/c/1b9113deb5/mrezata-za-zastita-od-diskriminacija-isprati-pisma-do-site-pratenici-i-ministri-gasi-prv-na-spisokot-na-zidot-na-sramot.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2025/11/afrim-gashi-e1795702369582-300x180.jpg",
+      "date": "Thu, 26 Nov 2026 13:58:27 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "НА СРЕД УЛИЦА ПРЕД МВР ДЕМОНСТРАНТИТЕ ПРОТИВ НАСИЛСТВАТА И УБИСТВАТА НА ЖЕНИ ИСТУРИЈА ЗЕМЈА И ПОСТАВИЈА ИМПРОВИЗИРАН ГРОБ НА СИТЕ ЖРТВИ НА ФЕМИЦИД | Сакам да кажам",
+      "title": "Туристичката понуда да не се сведува само на Скопје и Охрид, предвидува новата национална стратегија за туризмот | Трн",
       "description": "",
-      "url": "https://time.mk/c/839567d955/na-sred-ulica-pred-mvr-demonstrantite-protiv-nasilstvata-i-ubistvata-na-zeni-isturija-zemja-i-postavija-improviziran-grob-na-site-zrtvi-na-femicid.html",
-      "image": "https://sdk.mk/wp-content/uploads/2026/11/nitu-edna-povekje-81828912.jpg",
-      "date": "Wed, 25 Nov 2026 19:06:56 +0000"
+      "url": "https://time.mk/c/cec3fd2179/turistickata-ponuda-da-ne-se-sveduva-samo-na-skopje-i-ohrid-predviduva-novata-nacionalna-strategija-za-turizmot.html",
+      "image": "https://trn.mk/wp-content/uploads/2025/08/turisti-vo-skopje.jpg",
+      "date": "Thu, 26 Nov 2026 15:24:22 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Од првиот повик до судската заштита: водич за жените што трпат семејно насилство | Трн",
+      "title": "УСТАВНИОТ СУД ИДНАТА НЕДЕЛА ЌЕ СЕ ЕКИПИРА ЗА ВО ЈАНУАРИ ПАК ДА ИМА ДВЕ ПРАЗНИ МЕСТА: Ефтимовска-Бојковска доаѓа, Костадиновски и Кадриу заминуваат | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/1e6e9c5ac6/od-prviot-povik-do-sudskata-zastita-vodic-za-zenite-sto-trpat-semejno-nasilstvo.html",
-      "image": "https://trn.mk/wp-content/uploads/2026/11/01-naslovna.png",
-      "date": "Thu, 26 Nov 2026 05:00:27 +0000"
+      "url": "https://time.mk/c/85f8166f4c/ustavniot-sud-idnata-nedela-ke-se-ekipira-za-vo-januari-pak-da-ima-dve-prazni-mesta-eftimovska-bojkovska-doagja-kostadinovski-i-kadriu-zaminuvaat.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/11/prazna-fotelja-ustaven-sud-scaled-e1795703661551.jpg",
+      "date": "Thu, 26 Nov 2026 14:38:23 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "163 ПРИТВОРИ ЗА ОСОМНИЧЕНИ ЗА СЕМЕЈНО НАСИЛСТВО ГОДИНАВА, ЛАНИ БИЛЕ 44 Тошковски најави построг институционален одговор | +инфо",
+      "title": "ВИДЕОИНТЕРВЈУ | Павловска од „Ниту една повеќе“: Од Тошковски бараме политичка и морална одговорност и извинување што нè викаат „хистерични“ | Слободен Печат",
       "description": "",
-      "url": "https://time.mk/c/b5e844abae/163-pritvori-za-osomniceni-za-semejno-nasilstvo-godinava-lani-bile-44-toskovski-najavi-postrog-institucionalen-odgovor.html",
-      "image": "https://plusinfo.mk/wp-content/uploads/2026/11/toskovski-6.jpg",
-      "date": "Wed, 25 Nov 2026 22:06:52 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - Sport",
-      "title": "ЛШ: Рома остана непоразена во Париз, Баерн падна во Франција, Интер и Ливерпул сигурни (ВИДЕО) | МакФудбал",
-      "description": "",
-      "url": "https://time.mk/c/8fbfd56998/ls-roma-ostana-neporazena-vo-pariz-baern-padna-vo-francija-inter-i-liverpul-sigurni-video.html",
-      "image": "https://makfudbal.mk/wp-content/uploads/2026/11/roma-malen-so-psg-300x180.jpg",
-      "date": "Wed, 25 Nov 2026 22:02:39 +0000"
+      "url": "https://time.mk/c/0afcb86f7d/videointervju-pavlovska-od-nitu-edna-poveke-od-toskovski-barame-politicka-i-moralna-odgovornost-i-izvinuvanje-sto-ne-vikaat-histericni.html",
+      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/11/DAD_3025-300x222.jpg",
+      "date": "Thu, 26 Nov 2026 13:00:32 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Новиот Кривичен законик меѓу реформските рокови и суштинската расправа | 360 степени",
+      "title": "УЈП предаде возило со пристапна рампа за лица со попреченост за потребите на Клиничкиот центар | Макфакс",
       "description": "",
-      "url": "https://time.mk/c/ec98f38465/noviot-krivicen-zakonik-megju-reformskite-rokovi-i-sustinskata-rasprava.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/11/Platforma-na-BPK-i-Bluprint-grupa.jpg",
-      "date": "Wed, 25 Nov 2026 21:31:00 +0000"
+      "url": "https://time.mk/c/952c9173c7/ujp-predade-vozilo-so-pristapna-rampa-za-lica-so-poprecenost-za-potrebite-na-klinickiot-centar.html",
+      "image": "https://makfax.com.mk/wp-content/uploads/2026/11/ujp-vozilo-img_7454.webp",
+      "date": "Thu, 26 Nov 2026 14:56:24 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Над 79.000 пријавени за вакцина против грип: кој ја добива бесплатно и каде? | Трн",
+      "title": "ДОАЃАЈТЕ ПОЧЕСТО ВО СОБРАНИЕТО, ЦЕЛ ХОДНИК МИРИСА НА ПЕЧЕНО МЕСО КОГА ИМА ПРАТЕНИЧКИ ПРАШАЊА, МУ КАЖА СЕЛА НА МИЦКОСКИ | Сакам да кажам",
       "description": "",
-      "url": "https://time.mk/r/NONE/e2cad3550c/nad-79-000-prijaveni-za-vakcina-protiv-grip-koj-ja-dobiva-besplatno-i-kade.html",
-      "image": "https://time.mk/r/NONE/e2cad3550c/images/thumb/60c35ec291.jpg",
-      "date": "Thu, 26 Nov 2026 05:12:18 +0000"
+      "url": "https://time.mk/c/cef07cf9b7/doagjajte-pocesto-vo-sobranieto-cel-hodnik-mirisa-na-peceno-meso-koga-ima-pratenicki-prasanja-mu-kaza-sela-na-mickoski.html",
+      "image": "https://sdk.mk/wp-content/uploads/2026/11/zijadin-sela-3248928932.jpg",
+      "date": "Thu, 26 Nov 2026 13:04:19 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Надзорна расправа: Финансиската полиција нема отворен предмет за Алта банка, ниту до неа стигнала пријава | 360 степени",
+      "title": "Над 26.000 граѓани ќе добијат назад пари од финансиските друштва, познато е и во кој рок | Фактор",
       "description": "",
-      "url": "https://time.mk/c/62a41ef0dd/nadzorna-rasprava-finansiskata-policija-nema-otvoren-predmet-za-alta-banka-nitu-do-nea-stignala-prijava.html",
-      "image": "https://360stepeni.mk/wp-content/uploads/2026/11/narozrna-rasprava-alta-banka-25.11.2026-kolaz.jpg",
-      "date": "Wed, 25 Nov 2026 15:44:20 +0000"
+      "url": "https://time.mk/c/b9fa3b1031/nad-26-000-gragjani-ke-dobijat-nazad-pari-od-finansiskite-drustva-poznato-e-i-vo-koj-rok.html",
+      "image": "https://faktor.mk/media/main/2026/11/20261126135847.jpg",
+      "date": "Thu, 26 Nov 2026 13:00:32 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Кој одлучува за судбината на банките – независни институции или политички влијанија? | Вечер Прес",
+      "title": "Дата-центри: Што добиваме, а што ризикуваме? | Колегиум",
       "description": "",
-      "url": "https://time.mk/c/7c60ad0bbd/koj-odlucuva-za-sudbinata-na-bankite-nezavisni-institucii-ili-politicki-vlijanija.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/11/viber_image_2026-11-25_11-31-22-449.jpg",
-      "date": "Wed, 25 Nov 2026 14:56:19 +0000"
+      "url": "https://time.mk/c/fc14f05d2d/data-centri-sto-dobivame-a-sto-rizikuvame.html",
+      "image": "https://kolegium.mk/wp-content/uploads/2026/08/ilustracija-za-data-cenri-AI-300x200.jpg",
+      "date": "Thu, 26 Nov 2026 15:00:31 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "ВИДЕО | Брисел најави повеќе пари за трите водечки земји од Западен Балкан на патот кон ЕУ | Слободен Печат",
+      "title": "ЕУ: Иднината на Западен Балкан е во Унијата – од Македонија се бараат реформи и почитување на меѓународните договори | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/ab36362021/video-brisel-najavi-poveke-pari-za-trite-vodecki-zemji-od-zapaden-balkan-na-patot-kon-eu.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2026/11/ursula-2-300x168.jpg",
-      "date": "Wed, 25 Nov 2026 22:30:39 +0000"
+      "url": "https://time.mk/c/fa1431b2c5/eu-idninata-na-zapaden-balkan-e-vo-unijata-od-makedonija-se-baraat-reformi-i-pocituvanje-na-megjunarodnite-dogovori.html",
+      "image": "https://www.vecer.press/wp-content/uploads/2026/11/921147460_968960812713163_670815711337937992_n.jpg",
+      "date": "Thu, 26 Nov 2026 13:14:27 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "[ФОТО] По апсењето и собирот во Белград, уредникот на „Информер“ денеска треба да биде сослушан | Точка",
+      "title": "Србија ќе избира претседател на 27 декември | Точка",
       "description": "",
-      "url": "https://time.mk/c/0c818d98eb/foto-po-apsenjeto-i-sobirot-vo-belgrad-urednikot-na-informer-deneska-treba-da-bide-soslusan.html",
-      "image": "https://tocka.com.mk/images/content/golemi/2026-11/o0yqx-tocka-region-inside.jpg",
-      "date": "Thu, 26 Nov 2026 05:08:22 +0000"
+      "url": "https://time.mk/c/cb22e8f0e6/srbija-ke-izbira-pretsedatel-na-27-dekemvri.html",
+      "image": "https://tocka.com.mk/images/content/golemi/2026-11/M6Q4f-d3d0b4b6-013b-4c1f-90f0-9622503ad43d",
+      "date": "Thu, 26 Nov 2026 14:36:26 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(Видео) Најмалку 30 загинати во експлозија на цистерна со нафтени деривати во Египет, 15 повредени | Скопје1",
+      "title": "ТЕШКИ ПРЕГОВОРИ ОКОЛУ БУЏЕТОТ НА ЕУ: Несогласувања околу финансирањето на Украина, јакне отпорот на „Штедливите Седум“ | Пари",
       "description": "",
-      "url": "https://time.mk/c/bb3f63f8f6/video-najmalku-30-zaginati-vo-eksplozija-na-cisterna-so-nafteni-derivati-vo-egipet-15-povredeni.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/88404/conversions/text-max.jpg",
-      "date": "Wed, 25 Nov 2026 20:10:52 +0000"
+      "url": "https://time.mk/c/e48b82e35c/teski-pregovori-okolu-budzetot-na-eu-nesoglasuvanja-okolu-finansiranjeto-na-ukraina-jakne-otporot-na-stedlivite-sedum.html",
+      "image": "http://pari.com.mk/wp-content/uploads/2026/11/EU-flag-over-Brussels-European-Quarter.png",
+      "date": "Thu, 26 Nov 2026 13:18:25 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "(ВИДЕО) Зетот на Трамп: Путин е политички велемајстор, тој е историска личност! | Фокус",
+      "title": "Кој е Тод Боели, милијардерот што го презема меѓународниот бизнис на „Лукоил“? | Рацин",
       "description": "",
-      "url": "https://time.mk/c/82d4219991/video-zetot-na-tramp-putin-e-politicki-velemajstor-toj-e-istoriska-licnost.html",
-      "image": "https://fokus.mk/wp-content/uploads/2026/11/Screenshot_25-11-2026_215855_www.index.hr-585x309.jpeg",
-      "date": "Wed, 25 Nov 2026 21:04:41 +0000"
+      "url": "https://time.mk/c/f29ce9bf05/koj-e-tod-boeli-milijarderot-sto-go-prezema-megjunarodniot-biznis-na-lukoil.html",
+      "image": "https://racin.mk/wp-content/uploads/2026/11/tod-boeli-670x480.jpg?x34074",
+      "date": "Thu, 26 Nov 2026 14:32:27 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Во четврток на две улици во Карпош ќе нема струја до четири часа | Слободен Печат",
+      "title": "(Видео) Ѓорѓиевски: Иднината на Скопје денес седи во училишните клупи и заслужува да го добие најдоброто од нас“ | Скопје1",
       "description": "",
-      "url": "https://time.mk/c/5a604adbcc/vo-cetvrtok-na-dve-ulici-vo-karpos-ke-nema-struja-do-cetiri-casa.html",
-      "image": "https://www.slobodenpecat.mk/wp-content/uploads/2023/12/ЕВН-струјомери-14-300x200.jpg",
-      "date": "Wed, 25 Nov 2026 21:12:42 +0000"
+      "url": "https://time.mk/c/a9a5cd4620/video-gjorgjievski-idninata-na-skopje-denes-sedi-vo-ucilisnite-klupi-i-zasluzuva-da-go-dobie-najdobroto-od-nas.html",
+      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/88431/conversions/text-max.jpg",
+      "date": "Thu, 26 Nov 2026 14:32:26 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Учениците од прво до трето одделение ќе одат само во прва смена | Вечер Прес",
+      "title": "Инспекторите меѓу станарите во Кисела Вода – ќе едуцираат и ќе ги разјаснуваат законските права | Вечер Прес",
       "description": "",
-      "url": "https://time.mk/c/f64c15c0ff/ucenicite-od-prvo-do-treto-oddelenie-ke-odat-samo-vo-prva-smena.html",
-      "image": "https://www.vecer.press/wp-content/uploads/2026/11/uciliste-aco-sopov.jpg",
-      "date": "Wed, 25 Nov 2026 13:10:30 +0000"
-    },
-    {
-      "category": "mkd",
-      "source": "Time.mk - All",
-      "title": "Жена пријавила дека колега пред четири дена ја нападнал во државна институција во Скопје | Слободен Печат",
-      "description": "",
-      "url": "https://time.mk/c/e204fd08e4/zena-prijavila-deka-kolega-pred-cetiri-dena-ja-napadnal-vo-drzavna-institucija-vo-skopje.html",
+      "url": "https://time.mk/c/81c5a8d5a7/inspektorite-megju-stanarite-vo-kisela-voda-ke-educiraat-i-ke-gi-razjasnuvaat-zakonskite-prava.html",
       "image": "",
-      "date": "Wed, 25 Nov 2026 23:38:22 +0000"
+      "date": "Thu, 26 Nov 2026 14:02:30 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Жена тешко повредена по расправија за крави во кривопаланечко село | Прва Скопска",
+      "title": "Уапсено е едно лице за неодамнешното убиство кај Смилковското Езеро | Фокус",
       "description": "",
-      "url": "https://time.mk/c/7ac7f7c3df/zena-tesko-povredena-po-raspravija-za-kravi-vo-krivopalanecko-selo.html",
-      "image": "https://prvaskopska.mk/wp-content/uploads/2026/11/kravi-kriva-palanka-1.png",
-      "date": "Wed, 25 Nov 2026 20:38:52 +0000"
+      "url": "https://time.mk/c/0bfde51180/uapseno-e-edno-lice-za-neodamnesnoto-ubistvo-kaj-smilkovskoto-ezero.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/11/smilkovsko-1.jpg",
+      "date": "Thu, 26 Nov 2026 15:06:29 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "In memoriam: Почина Миле Трпеновски, долгогодишен секретар и доајен во Црвен крст Охрид и Црвен крст на Македонија | OhridPress",
+      "title": "Синови тепаа мајки во Тетово и кај Бит Пазар | Фокус",
       "description": "",
-      "url": "https://time.mk/c/4bc009c80d/in-memoriam-pocina-mile-trpenovski-dolgogodisen-sekretar-i-doajen-vo-crven-krst-ohrid-i-crven-krst-na-makedonija.html",
-      "image": "https://ohridpress.com.mk/wp-content/uploads/2026/11/mile-trpenovski.jpg",
-      "date": "Wed, 25 Nov 2026 18:48:57 +0000"
+      "url": "https://time.mk/c/75ba6384f2/sinovi-tepaa-majki-vo-tetovo-i-kaj-bit-pazar.html",
+      "image": "https://fokus.mk/wp-content/uploads/2026/11/penzionerka-zena-screenshot-2026-10-10-143947-1170x479.webp",
+      "date": "Thu, 26 Nov 2026 12:36:23 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Расчистени диви депонии, исплатени заостанати обврски: Томиќ со отчет за работата на „Чистота и зеленило“ (ВИДЕО) | Кумановски м.",
+      "title": "Две домаќинства од Куманово и Демир Капија добија награди како пример за енергетска ефикасност | Рацин",
       "description": "",
-      "url": "https://time.mk/c/96c1d5fcbc/rascisteni-divi-deponii-isplateni-zaostanati-obvrski-tomik-so-otcet-za-rabotata-na-cistota-i-zelenilo-video.html",
+      "url": "https://time.mk/c/adc4106fee/dve-domakinstva-od-kumanovo-i-demir-kapija-dobija-nagradi-kako-primer-za-energetska-efikasnost.html",
       "image": "",
-      "date": "Wed, 25 Nov 2026 18:00:37 +0000"
+      "date": "Thu, 26 Nov 2026 14:48:23 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Синдикатот на културата повикува на протест: „Сите пред Уставен суд!“ | Скопје1",
+      "title": "Општината ќе потроши најмалку 6.000.000 денари за неколку дена “Зимска приказна”! | Тера",
       "description": "",
-      "url": "https://time.mk/c/f5a8621155/sindikatot-na-kulturata-povikuva-na-protest-site-pred-ustaven-sud.html",
-      "image": "https://fls-a0a6331f-aa52-4911-bb98-f749c6b695c6.laravel.cloud/77602/conversions/text-max.jpg",
-      "date": "Wed, 25 Nov 2026 16:44:27 +0000"
+      "url": "https://time.mk/c/3e79bea71a/opstinata-ke-potrosi-najmalku-6-000-000-denari-za-nekolku-dena-zimska-prikazna.html",
+      "image": "https://tera.mk/wp-content/uploads/2026/11/Zimska-Prikazna-150x150.jpeg",
+      "date": "Thu, 26 Nov 2026 15:02:29 +0000"
     },
     {
       "category": "mkd",
       "source": "Time.mk - All",
-      "title": "Ник Кејв и Индискиот павилјон ја освоија наградата од публиката на 61. Венециско биенале | Независен",
+      "title": "СДСМ: Дали Владата однапред ја знае одлуката на Уставниот суд за Колективниот договор во културата? | 360 степени",
       "description": "",
-      "url": "https://time.mk/c/f28c346296/nik-kejv-i-indiskiot-paviljon-ja-osvoija-nagradata-od-publikata-na-61-venecisko-bienale.html",
-      "image": "https://nezavisen.mk/wp-content/uploads/2025/07/bienale-venecija-2026.jpg",
-      "date": "Wed, 25 Nov 2026 13:14:29 +0000"
+      "url": "https://time.mk/c/516d275ac7/sdsm-dali-vladata-odnapred-ja-znae-odlukata-na-ustavniot-sud-za-kolektivniot-dogovor-vo-kulturata.html",
+      "image": "https://360stepeni.mk/wp-content/uploads/2026/11/Mirche-Najdoski-SDSM.jpeg",
+      "date": "Thu, 26 Nov 2026 10:22:21 +0000"
+    },
+    {
+      "category": "mkd",
+      "source": "Time.mk - All",
+      "title": "Венко Цветков со изложба „Пејзажи на воодушевувањето“ – дијалог помеѓу природата, меморијата и уметноста | Независен",
+      "description": "",
+      "url": "https://time.mk/c/032a2ed0b8/venko-cvetkov-so-izlozba-pejzazi-na-voodusevuvanjeto-dijalog-pomegju-prirodata-memorijata-i-umetnosta.html",
+      "image": "",
+      "date": "Thu, 26 Nov 2026 13:46:27 +0000"
     }
   ],
   "de": [
+    {
+      "category": "de",
+      "source": "Tarnkappe",
+      "title": "Zerstört der JDownloader die deutschsprachige Webwarez-Szene?",
+      "description": "Ein Uploader beschwert sich über rückläufige Einnahmen, weil ihm das Download-Tool JDownloader die Einnahmen streitig macht. Wir haken nach. Der Artikel Zerstört der JDownloader die deutschsprachige Webwarez-Szene? erschien zuerst auf TARNKAPPE.INFO",
+      "url": "https://tarnkappe.info/artikel/szene/warez/sharehoster/zerstoert-der-jdwnloader-die-deutschsprachige-webwarez-szene-336367.html",
+      "image": "https://cdn.tarnkappe.info/wp-content/uploads/jdownloader-uploader-fighting-scaled.jpg",
+      "date": "Thu, 26 Nov 2026 08:23:31 +0000"
+    },
     {
       "category": "de",
       "source": "Tarnkappe",
@@ -443,18 +452,18 @@
       "url": "https://tarnkappe.info/artikel/szene/dark-commerce/darknet-razzia-354-festnahmen-kaeufer-335845.html",
       "image": "https://cdn.tarnkappe.info/wpimg/darknet-razzia-354-festnahmen-kaeufer",
       "date": "Fri, 13 Nov 2026 17:42:12 +0000"
-    },
-    {
-      "category": "de",
-      "source": "Tarnkappe",
-      "title": "Nintendo Switch-Piraterie: DMCA-Keule trifft 144 Modchip-Repositories",
-      "description": "Nintendo Switch-Piraterie: 144 GitHub-Repositories mit Modchip-Firmware sind nach einer DMCA-Beschwerde offline. Der Artikel Nintendo Switch-Piraterie: DMCA-Keule trifft 144 Modchip-Repositories erschien zuerst auf TARNKAPPE.INFO",
-      "url": "https://tarnkappe.info/artikel/gaming/nintendo-switch-piraterie-dmca-144-modchip-repositories-335840.html",
-      "image": "https://cdn.tarnkappe.info/wpimg/nintendo-switch-piraterie-dmca-144-modchip-repositories",
-      "date": "Thu, 12 Nov 2026 16:51:36 +0000"
     }
   ],
   "eng": [
+    {
+      "category": "eng",
+      "source": "Lifehacker",
+      "title": "These Costco-Exclusive Big-Screen Hisense TVs Drop Under $1,000 for Members This Black Friday",
+      "description": "Choose between a 100-inch QLED TV and an 85-inch Mini-LED model, both down to $999.",
+      "url": "https://lifehacker.com/ad/tech/costco-exclusive-big-screen-hisense-tvs-sale-black-friday-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M72AYEHC6SHA1YN7T240G9RN/hero-image.png",
+      "date": "Thu, 26 Nov 2026 11:00:34 +0000"
+    },
     {
       "category": "eng",
       "source": "Lifehacker",
@@ -628,12 +637,57 @@
     },
     {
       "category": "eng",
-      "source": "Lifehacker",
-      "title": "The Best Black Friday Deals on Peloton Bikes, Treads, and Rowers",
-      "description": "Sales on Peloton Bikes, Treads, and more are here.",
-      "url": "https://lifehacker.com/health/best-peloton-deals-black-friday-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M787GCMY3SJ8XXY4JD5NJ4E7/hero-image.jpg",
-      "date": "Wed, 25 Nov 2026 16:31:31 +0000"
+      "source": "PCWorld",
+      "title": "7 Black Friday streaming deals to avoid (and the better deals I’d grab instead)",
+      "description": "Black Friday can be the best time of the year to stock up on streaming services, but it’s also an opportunity to waste money. I track streaming deals pretty closely throughout the year, maintaining a big list of them that I update every week on my website. In many cases, the streaming deals available you get on Black Friday aren’t available any other time of year, and can last you until next November. But as with so many other Black Friday deals, you also have to be mindful of traps. Some stream",
+      "url": "https://www.pcworld.com/article/3297437/7-black-friday-streaming-deals-to-avoid-and-the-better-deals-id-grab-instead.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3297437-0-35845300-1795701668-bfstreaming.jpg?quality=50&strip=all",
+      "date": "Thu, 26 Nov 2026 14:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Ask AI to beat Amazon’s Black Friday deals with this prompt",
+      "description": "Leery of giving your credit card to an AI agent? I don’t blame you. Still, you can enlist an agent’s help for pinpointing the best Black Friday deals without handing over your wallet. Lately, I’ve been asking personal AI assistants like ChatGPT Dots, Claude Duet, Meta Muse, and Gemini Tasks (the new name for Gemini Spark) to seek out better Black Friday deals than the ones I’ve been seeing on Amazon. Of course, Amazon blocks third-party AI agents from scouring its site, but there’s nothing stopp",
+      "url": "https://www.pcworld.com/article/3289448/ask-ai-to-beat-amazons-black-friday-deals-with-this-prompt.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3289448-0-64257200-1795014946-Claude-Duet-on-iPhone.jpg?quality=50&strip=all",
+      "date": "Thu, 26 Nov 2026 14:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "How do I convert a PDF to a Word document?",
+      "description": "Quick Answer: To convert a PDF to Word, open Adobe Acrobat’s PDF-to-Word tool, add your PDF and convert it to a DOCX file. If the PDF is a scan, use a converter with optical character recognition (OCR) to make the text editable. If it contains tables or multiple columns, check the finished Word document for layout changes. PDFs are an essential part of most business and professional practices, as they allow you to share documents securely and with the information remaining intact. But, sometimes",
+      "url": "https://www.pcworld.com/article/3298405/how-to-convert-pdf-to-word-with-adobe-acrobat.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3298405-0-32751000-1795695025-Adobe-Woman-Laptop-MAIN.png",
+      "date": "Thu, 26 Nov 2026 12:10:18 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Ditch the Microsoft 365 bill and own an Office Pro 2021 license for $22.97 ahead of Black Friday",
+      "description": "TL;DR: Microsoft Office Professional 2021 for Windows is a one-time purchase, and a lifetime license is on sale for $22.97 (reg. $219.99). Getting Office apps through Microsoft 365 means a bill every month or year for as long as you use them. To pay once instead, consider a lifetime license to Microsoft Office Professional 2021 for Windows. For Early Black Friday, the license costs $22.97 (reg. $219.99), and no coupon is needed. Your purchase includes Word, Excel, PowerPoint, Outlook, OneNote, a",
+      "url": "https://www.pcworld.com/article/3294360/ditch-the-microsoft-365-bill-and-own-an-office-pro-2021-license-for-22-97-ahead-of-black-friday.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3294360-0-69881500-1795680022-mso-pro-2021-win-2.jpg?quality=50&strip=all",
+      "date": "Thu, 26 Nov 2026 08:00:00 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Staples Holiday Printer Deals: Save Up to 48% on Epson, HP, Canon and Brother Through December 31",
+      "description": "Staples Holiday Printer Deals: Save Up to 48% Printers for Office, Home Office and Home From $69.99 VIEW DEALS The right printer depends on how much you print, what you print, and where you print it. Staples has holiday pricing on printers through the end of the year, with up to $249 off select models. Holiday printer deals: Here are just nine of the many printers reduced in the Staples Holiday Sale , from $69.99. Which printers suit a busy office? Staples is offering great discounts on the best",
+      "url": "https://www.pcworld.com/article/3295960/staples-holiday-printer-deals-save-up-to-48-on-epson-hp-canon-and-brother-through-december-31.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3295960-0-33923900-1795679575-Staples_Printer-Sale-48-2000x1125_2.jpg?quality=50&strip=all",
+      "date": "Thu, 26 Nov 2026 07:52:49 +0000"
+    },
+    {
+      "category": "eng",
+      "source": "PCWorld",
+      "title": "Upgrade Your Desk Chair for Less: Staples Hyken and Dexley Ergonomic Chairs Now Over 50% Off",
+      "description": "Staples Holiday Savings on Ergonomic Office Chairs Save Over 55% on Staples Dexley and Hyken Chairs VIEW DEALS If you spend hours at a desk for work, study, or running a home business, your chair affects how you feel by the end of the day. Two of Staples’ most popular ergonomic chairs, the Dexley and the Hyken, are reduced by more than half for the holidays, through the end of December. Holiday deals: Staples Dexley Ergonomic Mesh Swivel Task Chair: $145.99 (was $329.99) Staples Hyken Ergonomic ",
+      "url": "https://www.pcworld.com/article/3295331/upgrade-your-desk-chair-for-less-staples-hyken-and-dexley-ergonomic-chairs-now-over-50-off.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3295331-0-68096100-1795678665-Staples_Chairs-Over-50-percent-2000x1125-1.jpg?quality=50&strip=all",
+      "date": "Thu, 26 Nov 2026 07:37:38 +0000"
     },
     {
       "category": "eng",
@@ -670,60 +724,6 @@
       "url": "https://www.pcworld.com/article/3297769/aekes-s1-pro-smart-gym-is-800-off-for-black-friday-its-a-must-consider-alternative-to-tonal-and-voltra.html",
       "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3297769-0-57869000-1795639762-Aeke-S1-Pro-Couple.jpg?quality=50&strip=all",
       "date": "Wed, 25 Nov 2026 20:49:15 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "I found the best Black Friday Chromebook deal, and it’s only $180",
-      "description": "Go 'Refurbished' this year for $179.99 Acer Chromebook 315 (Refurbished) Intel N50/8GB RAM/128GB storage/15.6-inch 1080p display View Deal Normally I wouldn’t recommend refurbished Chromebooks as a solid Black Friday deal. But this is 2026, and I think Amazon’s $179.99 Acer Chromebook deal is the best deal on the best Chromebook you’ll be happy with. My list of the best Black Friday Chromebook deals includes the Acer Chromebook 315 for $179.99 . When I recommend Chromebook deals, I point people ",
-      "url": "https://www.pcworld.com/article/3297706/i-found-the-best-black-friday-chromebook-deal-and-its-only-180.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3297706-0-69189800-1795637687-Acer-Chromebook-315-Amazon.png",
-      "date": "Wed, 25 Nov 2026 20:14:37 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Google, Amazon, and Netflix logins turn up in a staggering password leak",
-      "description": "Security experts have found two online databases containing the login details–including passwords–of around 3.5 billion users. It spans accounts tied to services like Amazon, Google, Netflix, and PayPal. The two databases are freely accessible, unencrypted, and unrelated to one another. They were discovered by different security experts, as first reported by Wired (behind a paywall). According to Neowin , the most spectacular find is a database containing around two billion sets of login details",
-      "url": "https://www.pcworld.com/article/3297528/google-amazon-and-netflix-logins-turn-up-in-a-staggering-password-leak.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3217657-0-50551600-1787318934-Security-warning-alert-with-shadowy-scammer-hacker-in-darkness.jpg?quality=50&strip=all",
-      "date": "Wed, 25 Nov 2026 19:37:56 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Anker’s 100W USB-C cables are just $5 each for Black Friday",
-      "description": "NOW JUST $10 Anker 100W USB-C-Cable (2-Pack) View Deal A good USB-C cable is one of the best investments you can make for day-to-day convenience. You always have something to charge—at minimum your phone—and an old USB-C cable can take hours to charge while a good one might take less than an hour. Right now, you can grab two 100W cables for just $9.99 at Amazon , close to the lowest price they’ve been all year. These are Anker cables, so you know they’re the real deal. At 100W, they can bring mo",
-      "url": "https://www.pcworld.com/article/3297555/ankers-100w-usb-c-cables-are-just-5-each-for-black-friday.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3297555-0-74392100-1795634837-Anker-100W-USB-C-cable.jpg?quality=50&strip=all",
-      "date": "Wed, 25 Nov 2026 19:27:09 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Best Black Friday Chromebook deals: Real bargains are rare, but we found them",
-      "description": "Black Friday deals have arrived! I’ve collected the best deals on Chromebooks for years, and I’m here once again to dig out the best Chromebook deals for Black Friday. I’m going to warn you, though — this job is harder than ever. You’re probably aware of how laptop prices have skyrocketed because of the shortages of memory and storage, and unfortunately those trends are affecting Chromebooks as well. There are deals, but they’re tougher to find. I’m going to continue a trend I began last year, l",
-      "url": "https://www.pcworld.com/article/1377179/best-black-friday-chromebook-deals-2026.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/1377179-0-71975700-1794921596-Chromebook-deals-pcworld.png",
-      "date": "Wed, 25 Nov 2026 19:09:44 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Amazon Kindle (2026) vs. Kindle Paperwhite (2026): Should you pay more for your e-reader?",
-      "description": "An e-reader works wonders for bookworms struggling with library management—and they’re nicer than ever. Case in point: Amazon’s latest Kindle models, which just launched in late October. In addition to offering 300 ppi displays, front lights, and audiobook playback, there’s now a luxe aluminum finish option, too. Still, a higher-end model has tangible benefits. That’s especially so when comparing the basic Kindle against the more luxe Kindle Paperwhite (and its fancier Paperwhite Signature Editi",
-      "url": "https://www.pcworld.com/article/3296161/amazon-kindle-2026-vs-kindle-paperwhite-2026.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3296161-0-69459300-1795630614-81niJoOmq9L._AC_SL1500_.jpg?quality=50&strip=all",
-      "date": "Wed, 25 Nov 2026 18:16:45 +0000"
-    },
-    {
-      "category": "eng",
-      "source": "PCWorld",
-      "title": "Your Windows 11 PC is getting a speed boost thanks to major RAM cuts",
-      "description": "At the Ignite developer conference, Microsoft shared more details about its efforts to reduce memory usage in Windows 11, reports Windows Latest . According to the company, the Defender security program, the OneDrive cloud storage service, and the Purview data protection service now collectively use over 500 MB less RAM than before. Memory usage in Microsoft 365 has also been reduced by 360 MB. To achieve this, Microsoft reviewed which components need to be loaded into RAM and how different comp",
-      "url": "https://www.pcworld.com/article/3297540/microsofts-own-programmes-are-using-up-the-computers-memory-the-problem-is-now-being-fixed.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3286957-0-16128000-1794848580-Windows-11-logo-skewed-captured-from-laptop-screen.jpg?quality=50&strip=all",
-      "date": "Wed, 25 Nov 2026 18:03:59 +0000"
     }
   ],
   "starwars": [
@@ -901,8 +901,35 @@
     {
       "category": "starwars",
       "source": "Jedi News",
-      "title": "Nine More Guests Announced for to Star Wars Celebration LA 2027",
-      "description": "Nine additional guests have been announced as attending Star Wars Celebration LA next April as Bryce Dallas Howard, Alan Tudyk, Ming-Na Wen, Denis Lawson, Phil Tippett, Lorne Peterson, Roger Christian, Paul Huston and Harrison Ellenshaw. The post Nine More Guests Announced for to Star Wars Celebration LA 2027 appeared first on Jedi News .",
+      "title": "Happy Thanksgiving 2026 from Rancho Obi-Wan",
+      "description": "Steve Sansweet shares a fun holiday greeting with Star Wars fans everywhere as Rancho Obi-Wan celebrates 15 years of preserving and sharing the magic of a galaxy far, far away. Happy Thanksgiving from the entire Rancho Obi-Wan family! The post Happy Thanksgiving 2026 from Rancho Obi-Wan appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/events/articles/happy-thanksgiving-2026-from-rancho-obi-wan/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/maxresdefault-41-300x169.jpg",
+      "date": "Thu, 26 Nov 2026 08:08:03 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Full Of Sith Episode DCLVII: Return of the Kyberpunks!",
+      "description": "It's time to join the team for episode DCLVII of Full of Sith. The post Full Of Sith Episode DCLVII: Return of the Kyberpunks! appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/podcasts/articles/full-of-sith-episode-dclvii-return-of-the-kyberpunks/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2018/04/full-of-sith-network-300x201.jpg",
+      "date": "Thu, 26 Nov 2026 07:57:41 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Wishing our American Family, Friends, Followers and Readers a Happy Thanksgiving!",
+      "description": "Team Jedi News wish our American family, friends, followers and readers a peaceful, healthy, happy and restful Thanksgiving! The post Wishing our American Family, Friends, Followers and Readers a Happy Thanksgiving! appeared first on Jedi News .",
+      "url": "https://www.jedinews.com/events/articles/wishing-our-american-family-friends-followers-and-readers-a-happy-thanksgiving-3/",
+      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/Thanksgiving-Ep2-Nov26-300x201.jpg",
+      "date": "Thu, 26 Nov 2026 05:01:03 +0000"
+    },
+    {
+      "category": "starwars",
+      "source": "Jedi News",
+      "title": "Nine More Guests Announced for Star Wars Celebration LA 2027",
+      "description": "Nine additional guests have been announced as attending Star Wars Celebration LA next April as Bryce Dallas Howard, Alan Tudyk, Ming-Na Wen, Denis Lawson, Phil Tippett, Lorne Peterson, Roger Christian, Paul Huston and Harrison Ellenshaw. The post Nine More Guests Announced for Star Wars Celebration LA 2027 appeared first on Jedi News .",
       "url": "https://www.jedinews.com/film-music-tv/articles/nine-more-guests-announced-for-to-star-wars-celebration-la-2027/",
       "image": "https://www.jedinews.com/wp-content/uploads/2026/12/Nine-Star-Wars-Celebration-Guests-Announced-Nov26-300x201.jpg",
       "date": "Wed, 25 Nov 2026 22:16:40 +0000"
@@ -969,33 +996,6 @@
       "url": "https://www.jedinews.com/podcasts/articles/rebel-force-radio-thanksgiving-livestream-special/",
       "image": "https://www.jedinews.com/wp-content/uploads/2018/04/rebel-force-radio-300x201.jpg",
       "date": "Wed, 25 Nov 2026 05:25:46 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Adam Driver and Steven Soderbergh Worked for Free on The Hunt for Ben Solo",
-      "description": "While promoting his new film Paper Tiger, Adam Driver has spoken to Associated Press about The Hunt for Ben Solo and called out the film's cancellation by Disney saying, \"It’s criminal. Or it felt criminal\". The post Adam Driver and Steven Soderbergh Worked for Free on The Hunt for Ben Solo appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/adam-driver-and-steven-soderbergh-worked-for-free-on-the-hunt-for-ben-solo/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/Adam-Driver-Talk-Easy-Podcast-Nov26-300x201.jpg",
-      "date": "Tue, 24 Nov 2026 22:32:31 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "Sideshow Unboxes Hot Toys Anakin Skywalker 1/6 Scale Collectible Figure",
-      "description": "Just ahead of the worldwide release, Sideshow unboxes the Hot Toys Anakin Skywalker 1/6 Scale Collectible Figure based on the appearance of Hayden Christensen in Star Wars: Revenge of the Sith. The post Sideshow Unboxes Hot Toys Anakin Skywalker 1/6 Scale Collectible Figure appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/collecting/articles/sideshow-unboxes-hot-toys-anakin-skywalker-1-6-scale-collectible-figure/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/Hot-Toys-Anakin-Skywalker-Nov26-300x201.jpg",
-      "date": "Tue, 24 Nov 2026 21:55:33 +0000"
-    },
-    {
-      "category": "starwars",
-      "source": "Jedi News",
-      "title": "David Fincher on Star Wars: A Droid Story",
-      "description": "Speaking with Josh Horowitz on his Happy Sad Confused podcast, David Fincher has spoken about how he wanted to explore the events of the Star Wars original trilogy from the perspective of R2-D2 and C-3PO, the droids caught in the middle of it. The post David Fincher on Star Wars: A Droid Story appeared first on Jedi News .",
-      "url": "https://www.jedinews.com/film-music-tv/articles/david-fincher-on-star-wars-a-droid-story/",
-      "image": "https://www.jedinews.com/wp-content/uploads/2026/11/David-Fincher-Happy-Sad-Confused-Droids-Nov26-300x201.jpg",
-      "date": "Tue, 24 Nov 2026 21:21:54 +0000"
     }
   ],
   "youtube": [
